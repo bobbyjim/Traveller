@@ -1,0 +1,23 @@
+Tigress         BB-V5368J4 ; Ops
+---------------------------
+15                         ; Armor
+9   5    10                ; Sand
+7                          ; Meson screen
+9                          ; Nuke damper
+0                          ; Globe
+9                          ; (new) Scramblers (was Repulsors)
+---------------------------
+27  1    1                 ; (new) Spine (damage rating & ROF)
+---------------------------
+9   5    10                ; Laser
+6   25   50                ; Energy
+7   5    10                ; PA
+x                          ; (reserved)
+9   215  430               ; Missile
+---------------------------
+9   5    10                ; (new) Jump damper
+6   25   50                ; (new) Tractor/Pressor
+7   5    10                ; (new) Datacaster
+0                          ; (new) Inducer
+9   215  430               ; (new) Commcaster
+0                          ; (new) Ortillery
