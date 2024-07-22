@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ship Builder</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+ 
+  <!-- Ship display table goes here -->
+  <div id="shipDisplay"></div>
+
+  <!-- Item editor form -->
+  <form id="itemEditorForm">
+    <label for="weaponType">Weapon Type:</label>
+    <select id="weaponType">
+      <!-- Weapon type options will be populated dynamically -->
+    </select>
+    <br>
+    <label for="range">Range:</label>
+    <select id="range">
+      <!-- Range options will be populated dynamically -->
+    </select>
+    <br>
+    <label for="mount">Mount:</label>
+    <select id="mount">
+      <!-- Mount options will be populated dynamically -->
+    </select>
+    <br>
+    <button type="submit">Save</button>
+  </form>
+
+  <script src="rangeData.js"></script>
+  <script src="weaponsData.js"></script>
+  <script src="ship-builder.js"></script>
+  <script src="ship-display.js"></script>
+</body>
+</html>
