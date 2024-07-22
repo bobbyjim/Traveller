@@ -1,0 +1,517 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+Magy	A	0102	Oasis	X850769-8	 	     De Po (NIL)		700	SoCf	G3 V M2 V	-2	(966-3)	[4529]	B	6	-972
+Magy	A	0104	Pity	X301000-C	 	     Co Tz  Di Ic Va 		003	SoCf	M0 V	-1	(700+1)	[0000]	B	9	7
+Magy	A	0105	Reynold	X401000-B	 	      Tz  Di Ic Va Na Pi 		013	NaHu	M1 V	-1	(E00+2)	[0000]	BD	7	28
+Magy	A	0106	Vala's World	X830000-7	 	    Co  De Di Po 		010	SoCf	G2 V	-3	(400-2)	[0000]	B	7	-8
+Magy	E	0113	Schurz	C874252-A	 	    Co Tu  Lo 		501	SoCf	F1 V G6 V	0	(610+3)	[3267]	B	9	18
+Magy	E	0115	Pryon	X88976B-5	 	     Ri (NIL)	B	802	SoCf	K9 V M3 V	-1	(965-1)	[8664]	BC	10	-270
+Magy	E	0116	Wair	X89A348-3	 	     Pz  Lo Wa (NIL)	B	801	SoCf	G2 V M6 V	-3	(B20+3)	[2135]	B	11	66
+Magy	E	0118	Hool	X421000-A	 	      O:0120 Ho  Di He Na Pi Po (NIL)		004	SoCf	G7 V M4 V	-1	(E00-1)	[0000]	BD	10	-14
+Magy	E	0119	Mickel	X742435-3	 	      He Ni Po (NIL)	B	403	SoCf	F5 V	-3	(A32-4)	[3171]	B	10	-240
+Magy	E	0120	Factn	D740773-9	 	        De He Pi Po (NIL)		703	SoCf	G2 V	-1	(E66-5)	[868E]	BD	15	-2520
+Magy	I	0122	Vaneken	X7B7000-9	 	    Co Tz  Di Fl (ENIL)		003	SoCf	M3 V M7 V	-2	(D00+2)	[0000]	B	9	26
+Magy	I	0125	Ulm	X54866F-2	 	    O:0227  Ag Ni 	B	514	SoCf	G1 V G4 V	-2	(851-1)	[6422]	BC	11	-40
+Magy	I	0130	Rosefeld	X521000-7	 	      Pz Ho  Di He Na Pi Po (NIL)		021	SoCf	G3 V M8 V	-3	(A00+3)	[0000]	BD	11	30
+Magy	M	0131	Indet	X7B7000-D	 	    Pz Fr  Di Fl In (ENIL)		002	SoCf	M0 V	0	(D00+2)	[0000]	BE	8	26
+Magy	M	0134	Quizen	X6AA000-D	 	    O:0233 Co Tz  Di Fl (ENIL)		010	SoCf	M1 V	-1	(B00+3)	[0000]	B	9	33
+Magy	M	0135	Regasas	X100000-E	 	     Lk  Di Na Pi Va 		000	SoCf	M1 V M2 V	-1	(A00+4)	[0000]	BD	8	40
+Magy	M	0136	Wilkerson	X7BA000-E	 	   O:0135 Fr  Di Fl (ENIL)		012	SoCf	M0 V M1 V	-1	(C00-1)	[0000]	B	11	-12
+Magy	M	0137	Bentley	X422000-C	 	     Tz  Di He Na Po 		004	SoCf	M1 V	-1	(C00-2)	[0000]	B	13	-24
+Magy	M	0139	Xianjin	X77666C-6	 	     Ag Ni 	B	812	SoCf	K0 V M0 V	-2	(852-2)	[9485]	BC	12	-160
+Magy	M	0140	Falkenthal	X59A120-2	 	    O:0139 Sa  Lo Wa 		313	SoCf	G7 V M8 V	-3	(400-3)	[1161]	B	15	-12
+Magy	A	0203	Wu	X66A769-9	 	      (Wuans)  Ri Wa (NIL)		414	SoWu	F9 V G9 V	0	(G6B-4)	[272B]	BC	13	-4224
+Magy	A	0205	Clan	X640353-6	 	      Huma2  De He Lo Po (NIL)		903	SoWu	G9 V	-3	(B20+4)	[2188]	B	8	88
+Magy	A	0208	Spit	X530000-8	 	     Sa  De Di Na Po (NIL)		022	SoCf	F4 V G3 V	-3	(E00-2)	[0000]	B	13	-28
+Magy	A	0210	Chou	X621000-9	 	       Di He Na Pi Po (NIL)		003	SoWu	K1 V	-2	(D00+2)	[0000]	BD	12	26
+Magy	E	0211	Seung	X000000-D	 	      As Va Di Na 		001	SoWu	G7 III G6 V	-1	(900-1)	[0000]	B	10	-9
+Magy	E	0212	Zentara	X201000-C	 	     Fr Lk  Di Ic Va 		004	SoCf	M2 V	-1	(800+1)	[0000]	B	13	8
+Magy	E	0215	Amonchomchu	X59976B-3	 	    O:0116  Pi (NIL)	B	501	SoCf	K7 V	-2	(963-1)	[B575]	BD	9	-162
+Magy	E	0216	Planck	X201000-E	 	     Fr Sa  Di Ic Va 		004	SoCf	M2 V M9 V	-1	(900-4)	[0000]	B	15	-36
+Magy	E	0220	Anderson	X550114-7	 	     De Lo Po 		303	SoCf	K9 V	-3	(400+5)	[4177]	B	8	20
+Magy	I	0223	Campany	C641445-5	 	      He Ni Po (NIL)		421	SoCf	G9 V	-2	(A30+2)	[2297]	B	11	60
+Magy	I	0224	Romm	X531000-D	 	    Tz  Di Po 		003	SoCf	M2 V	-1	(800+1)	[0000]	B	11	8
+Magy	I	0225	Adopoulos	X100000-C	 	    Sa  Di Va 		011	SoCf	M0 V	-1	(900+4)	[0000]	B	9	36
+Magy	I	0227	Ock	X9A8000-E	 	     Co Tz  Di Fl (ENIL)		010	SoCf	M2 V M4 V	-1	(B00+1)	[0000]	B	7	11
+Magy	I	0229	Tworek	X8AA000-A	 	    Co  Di Fl 		012	SoCf	K5 V	-1	(900-1)	[0000]	B	10	-9
+Magy	M	0233	Drang	X543668-4	 	     Pz  Ni Po (NIL)		913	SoCf	K2 V	-3	(950-1)	[5382]	B	16	-45
+Magy	M	0239	Crecilius	X6A7000-C	 	    Co Tz  Di Fl 		013	SoCf	K8 V M1 V	-1	(700-1)	[0000]	B	9	-7
+Magy	A	0303	Placid	X545441-1	 	     Ni Pa 	B	314	SoCf	G0 V K9 V	-3	(630-1)	[6151]	Bc	16	-18
+Magy	A	0305	Veller	X546499-3	 	     Ni Pa 		410	NaHu	F7 V	-3	(630-3)	[1121]	Bc	10	-54
+Magy	A	0308	Tamroff	X775275-4	 	    Co Tu  Lo 		113	SoCf	G4 V K2 V	-3	(510+3)	[31A3]	B	10	15
+Magy	A	0309	Rudikk	X301000-8	 	     Lk Fr  Di Ic Va Na Pi 		020	SoCf	M1 V	-3	(B00-2)	[0000]	BD	6	-22
+Magy	A	0310	Carn	X430000-A	 	     Da Tz  De Di Na Po 		004	SoCf	M0 V M2 V	-1	(C00+2)	[0000]	B	10	24
+Magy	E	0315	McManus	X511000-7	 	    Ho  Di Ic Na Pi 		002	SoCf	F8 V	-3	(900-4)	[0000]	BD	6	-36
+Magy	E	0317	Sawiykao'	X301000-9	 	     O:0116 Ho Tz  Di Ic Va 		014	SoCf	K0 V M9 V	-2	(B00+2)	[0000]	B	11	22
+Magy	E	0319	Kelriya	X434000-B	 	     Di 		020	SoCf	G1 V M3 V	-1	(800-1)	[0000]	B	5	-8
+Magy	I	0321	Usi Ub	X696569-3	 	    O:0120  Ag Ni (NIL)		414	SoCf	G5 V K9 V	-2	(B42+1)	[6391]	BC	14	88
+Magy	I	0322	Wright	X000000-D	 	      As Va Di 		013	SoCf	M2 V	-1	(900-2)	[0000]	B	11	-18
+Magy	I	0327	Ciaconn	X89A273-1	 	     Lo Wa 	B	900	SoCf	G0 V	-3	(410-2)	[7134]	B	7	-8
+Magy	I	0329	Tenson	X632000-A	 	    Ho  Di Po 		002	SoCf	F6 V	-1	(900+2)	[0000]	B	12	18
+Magy	I	0330	Awrenek	X556200-3	 	    Co  Lo 		604	SoCf	M2 V	-3	(310+3)	[7132]	B	15	9
+Magy	M	0333	Leto	X301000-A	 	     Sa  Di Ic Va 		012	SoCf	G8 III D	-1	(B00+5)	[0000]	B	12	55
+Magy	M	0337	Zandervort	X87486D-6	 	     Pz  Pa Pi Ph (NIL)	B	202	SoCf	F4 V	-2	(A78+3)	[C695]	BcDe	11	1680
+Magy	M	0338	Mitava	X540174-4	 	      De He Lo Po 		132	SoCf	G6 V	-3	(400+4)	[3157]	B	17	16
+Magy	M	0340	Rundle	X511000-E	 	    Ho   Di Ic 		000	SoCf	G5 V	-1	(500+1)	[0000]	B	7	5
+Magy	A	0403	Downfall	E547311-5	 	     Lo 		814	SoCf	F1 V	-3	(320+2)	[3195]	B	16	12
+Magy	A	0404	Oyama	X5A3000-B	 	    O:0205  Di Fl 		003	SoWu	K3 V	-1	(A00+4)	[0000]	B	13	40
+Magy	A	0409	Gunsan	X645578-5	 	     Ag Ni 		213	SoWu	G7 V	-2	(744+2)	[73A2]	BC	13	224
+Magy	E	0411	Yergin	X767644-5	 	      Ag Ri Ga Ni 	B	620	SoCf	G4 V M3 V	-1	(852+2)	[2516]	BC	11	160
+Magy	E	0413	Kaig	X6AA000-E	 	    Fr  Di Fl (ENIL)		002	SoCf	M1 V M4 V M3 V	-1	(B00-1)	[0000]	B	7	-11
+Magy	E	0415	Dormant	D650673-9	 	     De Ni Po 		203	SoCf	G4 V	-2	(B50+4)	[442D]	B	11	220
+Magy	I	0423	Wieaaw	X401000-9	 	     la2 O:0624 Ho Sa  Di Ic Va 		001	SoCf	G8 V M5 V	-2	(900+3)	[0000]	B	10	27
+Magy	I	0425	Mitaro	X895110-4	 	     Lo 	B	100	SoCf	G9 V	-3	(500+2)	[4171]	B	8	10
+Magy	I	0427	Yoeahti	X542422-6	 	    la4 O:0624 Tz  He Ni Po 		214	SoCf	M0 V	-3	(631+1)	[1176]	B	10	18
+Magy	I	0428	Weiji	X741585-3	 	    Tz  He Ni Po 	B	500	SoCf	M2 V	-3	(841+3)	[8212]	B	8	96
+Magy	M	0432	Agari	X58A96A-4	 	    Pz Tz  Hi Pr Wa (NIL)		114	SoCf	M1 V	-1	(B84+2)	[5843]	BcE	12	704
+Magy	M	0440	Sammadar	X557120-4	 	    Co  Lo 		110	SoCf	M0 V M9 V	-3	(400+4)	[5133]	B	8	16
+Magy	A	0502	Fairbairn	X630000-7	 	     De Di Po 		003	SoCf	K3 V M0 V	-3	(400+2)	[0000]	B	8	8
+Magy	A	0503	New Sol	X501000-7	 	      Fo  Di Ic Va Na In 		004	SoCf	G3 V	-2	(B00+2)	[0000]	BE	13	22
+Magy	A	0504	Greenvald	D864678-8	 	      Ag Ri Ni 		700	SoCf	M1 V	-1	(851-4)	[452B]	BC	11	-160
+Magy	A	0505	Holywell	X7B9000-D	 	    Tz  Di Fl 		010	SoCf	M1 V	-1	(700+4)	[0000]	B	10	28
+Magy	A	0509	Redden	D554174-7	 	    Co  Lo 		605	SoCf	F9 V M8 V	-3	(300+1)	[2147]	B	11	3
+Magy	E	0516	Papesh	X200000-8	 	    O:0413 Lk  Di Na Va 		003	SoCf	M0 V	-3	(B00-4)	[0000]	B	7	-44
+Magy	E	0517	Ewaokh	X556202-4	 	    Co  Lo 		102	SoCf	F6 V M0 V	-3	(310-2)	[1166]	B	7	-6
+Magy	I	0523	Havaiikii	X69A96C-5	 	     Hi In Wa 	B	604	SoCf	K1 V M8 V	0	(886+3)	[C947]	BE	10	1152
+Magy	I	0524	Butchko	X301000-A	 	     Co Sa  Di Ic Va 		004	SoCf	K3 V M3 V	-1	(B00+3)	[0000]	B	14	33
+Magy	I	0526	Lancess	E677479-6	 	     Ni Pa 		520	SoCf	G5 V	-3	(633+1)	[1135]	Bc	9	54
+Magy	I	0528	Gobi	X840247-2	 	      Pz Tz  De He Lo Po (NIL)		300	SoCf	M1 V	-3	(A10+1)	[4131]	B	8	10
+Magy	I	0530	Troy	E562120-7	 	    O:0931 Co Tz  Lo 		304	SoCf	M1 V	-3	(500-1)	[1142]	B	10	-5
+Magy	M	0531	Bhola	X55256C-1	 	     Ni Po 	B	213	SoCf	G6 V	-3	(741+1)	[5263]	B	13	28
+Magy	M	0533	Fukasaku	X300000-9	 	    Tz  Di Va 		001	SoCf	G7 V M3 V	-2	(800+1)	[0000]	B	8	8
+Magy	M	0534	Joliff	X585221-7	 	     Lo 		200	SoCf	F8 V M1 V M6 V	-3	(510+1)	[2186]	B	5	5
+Magy	M	0536	Dalton	X89A66B-5	 	     Ni Wa 	B	703	SoCf	G2 V	-3	(850+1)	[6343]	B	9	40
+Magy	M	0537	Jiaxiang	X000000-E	 	      As Va Di 		013	SoCf	M0 V M5 V	-1	(A00+1)	[0000]	B	9	10
+Magy	M	0540	Ziarko	X201000-E	 	     Rs Ho Tz  Di Ic Va 		022	SoCf	K6 V M4 V	-1	(900-1)	[0000]	B	13	-9
+Magy	A	0601	Sharn	X75686A-3	 	    Pz Huma4  Ga Pa Ph (NIL)	B	200	SoWu	G4 V	-2	(A76+2)	[8643]	Bce	8	840
+Magy	A	0602	Yamashita	X000000-A	 	      As Va Di 		002	SoCf	G8 V M1 V	-1	(900-1)	[0000]	B	10	-9
+Magy	A	0605	Dillman	X984434-6	 	     Ni Pa 	B	213	SoCf	G4 V	-3	(633+2)	[1129]	Bc	13	108
+Magy	A	0608	David's Drop	X7B9000-9	 	    Co  Di Fl 		003	SoCf	K8 V	-2	(900-2)	[0000]	B	11	-18
+Magy	E	0613	Arsdale	X545505-5	 	      Ag Ni (NIL)		200	SoCf	G8 V	-2	(A43-2)	[8377]	BC	7	-240
+Magy	E	0614	Wells	X677697-5	 	     Ag Ni 		600	SoCf	M0 V M6 V	-2	(852+1)	[9425]	BC	9	80
+Magy	E	0615	Pindur	X631000-B	 	      Di Na Po (NIL)		002	SoCf	K8 V	-1	(D00-4)	[0000]	B	6	-52
+Magy	E	0617	Alroarl	X699213-6	 	    Co Sa  Lo 		905	SoCf	G6 V	-3	(410+3)	[4156]	B	16	12
+Magy	E	0619	Joce	X540275-3	 	       De He Lo Po 		824	SoCf	F0 V	-3	(310-3)	[2191]	B	15	-9
+Magy	I	0623	Pathak	X722000-9	 	    Ho Tz  Di He Po 		003	SoCf	G4 V K8 V M9 V	-2	(900+1)	[0000]	B	14	9
+Magy	I	0624	Iouo	X79A410-1	 	     la6   Ni Wa (NIL)	B	300	SoCf	K3 V M7 V	-3	(B30+1)	[5164]	B	4	33
+Magy	I	0625	Esteraj	X7B7000-B	 	    Tz  Di Fl 		010	SoCf	M0 V	-1	(700+1)	[0000]	B	8	7
+Magy	I	0627	Hekhtye	X311000-B	 	    la5 Co Tz  Di Ic 		000	SoCf	M3 V	-1	(400+1)	[0000]	B	6	4
+Magy	M	0633	Nimikh	X301000-9	 	     Tz  Di Ic Va 		003	SoCf	M0 V	-2	(A00-4)	[0000]	B	16	-40
+Magy	M	0635	Adria	X798205-2	 	    Co  Lo 	B	203	SoCf	M0 V	-3	(410+1)	[1115]	B	12	4
+Magy	M	0636	Morsen	X301000-C	 	      Co Sa  Di Ic Va Na Pi 		004	SoCf	K4 V M4 V	-1	(E00-2)	[0000]	BD	14	-28
+Magy	A	0701	Trikak	E57499B-5	 	     Huma6 O:0601  Hi Pi (NIL)	B	123	SoWu	K6 V	-1	(A88-2)	[7855]	BDE	13	-1280
+Magy	A	0703	Justin	X310000-9	 	    Co Tz  Di 		022	SoCf	M0 V	-2	(B00-1)	[0000]	B	10	-11
+Magy	A	0705	Zilla	X567444-7	 	      Ni Pa 		600	SoCf	K8 V	-3	(733+1)	[4158]	Bc	6	63
+Magy	A	0707	Bindas	X730000-7	 	     De Di Po 		015	SoCf	G7 V M0 V	-3	(700+1)	[0000]	B	13	7
+Magy	A	0708	Icolka	X99756A-3	 	     Ag Ni 	B	200	SoCf	F5 V	-2	(744-1)	[63A7]	BC	10	-112
+Magy	A	0710	Yazi	X750699-6	 	    Tz  De Ni Po 		700	SoCf	M2 V M2 V	-3	(850-2)	[5377]	B	7	-80
+Magy	E	0712	Fatridge	X99889B-6	 	      Pa Pi Ph (NIL)	B	710	SoCf	M2 V	-2	(A73+4)	[96A9]	BcDe	9	840
+Magy	E	0713	Bradley	X620000-A	 	       Tz  De He Di Na Pi Po (NIL)		022	SoCf	M1 V M6 V	-1	(E00+1)	[0000]	BD	10	14
+Magy	E	0715	Kazilash	X778210-8	 	    Ho  Lo 		304	SoCf	G4 V M2 V	-3	(710-2)	[4195]	B	15	-14
+Magy	E	0716	Hodapp	X68956E-3	 	     Ni Pr 	B	204	SoCf	G9 V M4 V	-3	(741+1)	[4213]	Bc	15	28
+Magy	E	0720	Lachlan	X501000-D	 	      Di Ic Va Na Pi 		002	SoCf	B9 III F1 V K3 V	-1	(B00+1)	[0000]	BD	8	11
+Magy	I	0721	Jafar	X559301-6	 	    Fo  Lo 		800	SoCf	G3 V	-3	(320+1)	[1167]	B	8	6
+Magy	I	0722	Damond	C55086B-4	 	    De Ph Po (NIL)	B	210	SoCf	G0 V	-1	(977+1)	[9723]	Be	8	441
+Magy	I	0723	Boracim	X201000-E	 	     Co Tz  Di Ic Va 		002	SoCf	M1 V	-1	(600-4)	[0000]	B	14	-24
+Magy	I	0724	Ristel	X536000-B	 	     Di 		000	SoCf	F3 V	-1	(700-3)	[0000]	B	11	-21
+Magy	M	0731	Hershel	X7A5000-8	 	    O:0931 Co  Di Fl 		003	SoCf	F9 V	-3	(B00+1)	[0000]	B	6	11
+Magy	M	0732	Oldorf	E555556-4	 	     Ag Ni 		521	SoCf	K8 V M4 V	-2	(742-5)	[1365]	BC	10	-280
+Magy	M	0736	Sodra	X434000-8	 	    Ho  Di (NIL)		022	SoCf	K8 V	-3	(E00+2)	[0000]	B	11	28
+Magy	M	0737	Kroovand	X438000-B	 	    O:0636 Fr Sa  Cy Di 		025	SoCf	M1 V M1 V	-1	(E00+2)	[0000]	B	11	28
+Magy	M	0740	Fluri	X78A69B-6	 	    Da  Ni Ri Wa 	B	510	SoCf	G2 V M5 V	-2	(850+1)	[6496]	BC	11	40
+Magy	A	0804	Bupaj	X420000-9	 	     O:0903 Ho Tz  De He Di Po 		003	SoCf	K5 V	-2	(700+3)	[0000]	B	12	21
+Magy	A	0805	Deriabar	X501000-A	 	     Co Tz  Di Ic Va 		000	SoCf	M2 V M3 V	-1	(700+1)	[0000]	B	8	7
+Magy	A	0807	Nova Dune	X410000-B	 	    Co Tz   Di 		003	NaHu	M2 V	-1	(700+1)	[0000]	B	12	7
+Magy	A	0808	Saratela	X985553-5	 	      Ag Pr Ni 	B	413	SoCf	G9 V	-2	(740+1)	[4373]	BcC	9	28
+Magy	A	0809	Kuxald	X553147-4	 	     Lo Po 		924	SoCf	G9 V	-3	(600+3)	[4193]	B	15	18
+Magy	E	0812	Nihonatarashi	X437000-C	 	    Ho  Di 		012	SoCf	G3 V K9 V M9 V	-1	(900-1)	[0000]	B	13	-9
+Magy	E	0813	Meza	X000000-D	 	       As Va Di Na Pi 		000	SoCf	M2 V	-1	(A00+4)	[0000]	BD	9	40
+Magy	E	0814	Kano	X432000-E	 	    Fr Sa  Di Po 		004	SoCf	M3 V M6 V	-1	(B00+3)	[0000]	B	12	33
+Magy	E	0815	Hurshel	X7B5000-B	 	    Tz  Di Fl 		003	NaHu	M0 V	-1	(B00+1)	[0000]	B	13	11
+Magy	I	0824	Feayu	X99A56C-1	 	    O:0624  Ni Wa 	B	320	SoCf	K5 V M0 V	-3	(743+1)	[7252]	B	8	84
+Magy	I	0825	Nait	X8C7000-C	 	    Ho Tz  Di Fl 		023	SoCf	K7 V M3 V	-1	(B00+1)	[0000]	B	17	11
+Magy	I	0827	Sod	X853420-3	 	     Ni Po 	B	400	SoCf	G3 V	-3	(630+1)	[1121]	B	3	18
+Magy	I	0829	Britten	X99A110-3	 	     Lo Wa 	B	614	SoCf	G7 V	-3	(400+1)	[2151]	B	12	4
+Magy	I	0830	Haworth	X653579-5	 	    Lk  Ni Po 	B	304	SoCf	G6 V	-3	(741-2)	[2288]	B	16	-56
+Magy	M	0835	Drocian	X420000-C	 	     Co Sa  De He Di Po 		003	SoCf	K4 V M2 V	-1	(A00+2)	[0000]	B	11	20
+Magy	M	0836	Hwisiy	XA9A100-2	 	     Lo Oc 	B	313	SoCf	G3 V M7 V	-3	(400+1)	[2122]	B	12	4
+Magy	B	0902	Akludu	X56867A-4	 	     la5   Ag Ri Ni 	B	524	SoCf	G5 V M4 V	-1	(852+2)	[4584]	BC	19	160
+Magy	B	0903	Daftrew	X78A000-C	 	      Di Wa (NIL)		000	SoCf	F4 V M1 V	-1	(A00-2)	[0000]	B	8	-20
+Magy	B	0904	Opoyama	X954200-6	 	    Ho Tr  Lo 	B	824	SoCf	G4 V	-3	(510-1)	[6147]	B	17	-5
+Magy	B	0910	Far Light	X422000-9	 	    Tz  Di He Po 		003	SoCf	M0 V M8 V	-2	(A00+5)	[0000]	B	12	50
+Magy	F	0913	Baelen	C654878-5	 	    Pz  Pa Ph (NIL)	B	500	SoCf	K2 V M5 V	-1	(A74+4)	[8765]	Bce	5	1120
+Magy	F	0915	Valentin	X540434-6	 	     O:0913 Tz  De He Ni Po 		303	SoCf	M1 V	-3	(630+1)	[1146]	B	10	18
+Magy	F	0918	Packard	X899487-0	 	     Ni 	B	323	SoCf	G2 V	-3	(630+1)	[4151]	B	15	18
+Magy	F	0919	Simovia	X630000-A	 	     O:0921  Cy Di De Na Po 		004	SoCf	F1 V	-1	(C00-3)	[0000]	B	9	-36
+Magy	F	0920	Turnwall	D7946A9-6	 	     Ag Ni 	B	600	SoCf	K4 V M0 V	-2	(850+1)	[4465]	BC	11	40
+Magy	J	0921	Antaeus	X779787-8	 	     Pi (NIL)	B	203	SoCf	K0 V	-2	(C60+3)	[7598]	BD	11	216
+Magy	J	0923	Feast	E67889B-7	 	     Pz  Pa Pi Ph (NIL)	B	213	SoCf	K9 V	-2	(A77+2)	[A6A6]	BcDe	9	980
+Magy	J	0924	Lavik	XC9A200-4	 	    Fo  Lo Oc 	B	104	SoCf	F5 V	-3	(510+1)	[4144]	B	12	5
+Magy	J	0926	Shenski	X830000-7	 	     De Di Po 		010	SoCf	F9 V	-3	(500-1)	[0000]	B	7	-5
+Magy	J	0928	Tsute	X7988B7-6	 	     Pz  Pa Pi Ph (NIL)	B	802	SoCf	G2 V	-2	(A75-1)	[8667]	BcDe	5	-350
+Magy	J	0930	Barland	X567878-A	 	      Pa Ri Ph (NIL)	B	204	SoCf	K1 V	1	(E7A-1)	[B919]	BcCe	14	-980
+Magy	N	0931	Dewal	XA988AA-7	 	     Pa Pi Ph (NIL)	B	300	SoCf	K5 V M4 V	-2	(B73-1)	[7638]	BcDe	11	-231
+Magy	N	0934	Cea	E864774-8	 	     O:0931  Ag Ri (NIL)		902	SoCf	M0 V	0	(B67-4)	[6757]	BC	9	-1848
+Magy	N	0939	Red	X201000-9	 	     Co  Di Ic Va 		025	SoCf	K0 III	-2	(E00+1)	[0000]	B	15	14
+Magy	B	1002	Wrath	X550453-3	 	    O:0903  De Ni Po 		502	SoCf	F3 V M1 V K4 V	-3	(733+5)	[1183]	B	13	315
+Magy	B	1003	Relatte	X857446-3	 	     Ga Ni Pa 	B	424	SoCf	G0 V M8 V	-3	(630-3)	[2185]	Bc	19	-54
+Magy	B	1004	Jondrea	X545235-2	 	    Fo Co  Lo 		904	SoCf	M2 V	-3	(510+1)	[41A2]	B	9	5
+Magy	B	1008	Mafred	X538000-A	 	    O:1105 Ho Tz  Di 		003	SoCf	K8 V	-1	(900+2)	[0000]	B	16	18
+Magy	F	1016	Icenogle	X67656A-0	 	     Ag Ni 	B	222	SoCf	G7 V M7 V	-2	(744+1)	[5364]	BC	9	112
+Magy	F	1018	Ekar	D7839AD-7	 	    Pz  Hi Pr (NIL)	B	500	SoCf	G7 V	-1	(B87+3)	[A86B]	BcE	8	1848
+Magy	J	1021	Kriss	D787455-6	 	    Co Tu   Ga Ni Pa 		412	SoCf	M1 V M3 V	-3	(630+3)	[5146]	Bc	13	54
+Magy	J	1022	Hachiman	X620000-C	 	      Co Tz  De He Di Na Pi Po (NIL)		011	SoCf	M2 V	-1	(B00+3)	[0000]	BD	10	33
+Magy	J	1023	Breck	X5958BC-6	 	      Pa Pi Ph (NIL)	B	503	SoCf	K4 V	-2	(A76+1)	[862A]	BcDe	8	420
+Magy	J	1027	Ethlum	X201000-C	 	      Pz Fr Sa  Di Ic Va Na Pi 		002	SoCf	M3 V M4 V	-1	(C00+1)	[0000]	BD	10	12
+Magy	J	1029	Perrault	X311000-E	 	     Ho  Di Ic Na Pi 		000	SoCf	G3 V	-1	(A00-2)	[0000]	BD	12	-20
+Magy	J	1030	Ithaqua	XB89312-3	 	    Co  Lo 	B	812	SoCf	K2 V M8 V	-3	(420-1)	[2181]	B	7	-8
+Magy	N	1036	Maxwell	X99A101-4	 	    Co  Lo Wa 		310	SoCf	G4 V G8 V	-3	(300+1)	[1198]	B	8	3
+Magy	N	1040	Arid	X549201-7	 	     Lo 		104	SoCf	G9 V M8 V	-3	(510+5)	[4146]	B	13	25
+Magy	B	1101	Sumio	X311000-A	 	    Da Fr Lk  Di Ic Na 		002	SoCf	M2 V	-1	(A00+1)	[0000]	B	11	10
+Magy	B	1103	Xian	X7B4000-9	 	    Pz Fr  Di Fl (ENIL)		004	SoCf	G0 V M1 V	-2	(E00-1)	[0000]	B	13	-14
+Magy	B	1105	Ko's World	X569634-1	 	    Ni Ri (NIL)	B	905	SoCf	M1 V	-2	(950-2)	[7422]	BC	13	-90
+Magy	B	1106	Mubark	X401000-A	 	     Co Tz  Di Ic Va 		012	SoCf	M2 V M9 V	-1	(700+1)	[0000]	B	8	7
+Magy	B	1109	G'anshum	X65467A-4	 	     Ag Ni 	B	502	SoCf	G5 V M6 V	-2	(852-4)	[9481]	BC	9	-320
+Magy	F	1114	Htorakh	E768301-5	 	     Lo 	B	604	SoNS	K2 V K8 V	-3	(520-3)	[2187]	B	14	-30
+Magy	F	1116	Nishikiori	E555879-8	 	    O:1214 Sa  Pa Ph (NIL)		203	SoNS	F2 V F9 V	-2	(D71+1)	[B62A]	Bce	11	91
+Magy	F	1119	Mpefu	X833000-C	 	    Tz  Di Na Po (NIL)		003	SoCf	G1 V M2 V	-1	(C00+3)	[0000]	B	14	36
+Magy	F	1120	Al-Aziz	X785240-2	 	    Ho Tr  Ga Lo 	B	823	SoCf	F0 V M0 V	-3	(510+1)	[11A1]	B	11	5
+Magy	J	1121	Merida	C898337-4	 	    Co  Lo 		905	SoCf	G1 V	-2	(420+5)	[6172]	B	15	40
+Magy	J	1123	Hale	X730000-C	 	    Ho Tz  De Di Po 		003	SoCf	K9 V	-1	(600-3)	[0000]	B	11	-18
+Magy	J	1128	Issekhee	X430000-A	 	     O:0931 Tz  De Di Na Po 		014	SoCf	K4 V M2 V M2 V	-1	(D00+3)	[0000]	B	11	39
+Magy	J	1129	Rasilha	D575873-7	 	      Pa Pi Ph (NIL)		203	SoCf	G5 V M2 V	-2	(A77-5)	[6698]	BcDe	6	-2450
+Magy	N	1134	Lazlo's World	X997410-3	 	     Ni Pa 	B	504	SoCf	G7 V M4 V	-3	(730+1)	[4183]	Bc	13	21
+Magy	N	1136	Krupp	E69A430-5	 	    O:1438  Ni Wa (NIL)		500	SoCf	G7 V K0 V	-3	(930-1)	[8174]	B	4	-27
+Magy	N	1139	536-876	X536000-6	 	    Fo Ho  Di 		013	SoCf	K9 V M2 V	-3	(600+1)	[0000]	B	14	6
+Magy	N	1140	Manta	X653476-3	 	     Ni Po 		320	SoCf	G9 V M5 V	-3	(633-2)	[5132]	B	9	-108
+Magy	B	1207	Seladur	X565647-5	 	      Ag Ri Ni 		413	SoCf	F8 V M6 V	-1	(852+1)	[B553]	BC	15	80
+Magy	B	1208	Eery	X7BA000-E	 	    Co  Di Fl 		020	SoCf	G5 V K8 V	-1	(900-1)	[0000]	B	7	-9
+Magy	B	1209	Tarn	X747230-3	 	     Lo 	B	404	SoNS	G3 V G9 V	-3	(410-1)	[1135]	B	14	-4
+Magy	F	1212	Karma	X54378B-4	 	      Pi Po (NIL)	B	723	SoNS	G9 V	-2	(960+1)	[5572]	BD	11	54
+Magy	F	1213	Patnode	X420000-E	 	     Tz  De He Di Po 		014	SoCf	M0 V	-1	(C00+1)	[0000]	B	12	12
+Magy	F	1214	Kazimir	X5558DG-6	 	     Pa Ph (NIL)	B	803	SoNS	K1 V	-2	(A71+1)	[A647]	Bce	16	70
+Magy	F	1217	New Winnipeg	X511000-C	 	     Di Ic 		001	SoCf	K3 V M5 V	-1	(800+4)	[0000]	B	9	32
+Magy	F	1218	Cowan	X6A8000-9	 	    Co Tz  Di Fl (ENIL)		000	SoCf	M2 V M3 V	-2	(A00+2)	[0000]	B	8	20
+Magy	F	1220	Jolly	X7B9000-9	 	    Co Tz  Di Fl 		002	SoCf	M0 V	-2	(A00+2)	[0000]	B	15	20
+Magy	J	1222	Caldwell	X587834-6	 	     Pa Ri Ph (NIL)		100	SoCf	F3 V M7 V	-1	(97B+1)	[4743]	BcCe	6	693
+Magy	J	1230	Girral	X530000-7	 	    Pz Tz  De Di Na Po (NIL)		010	SoCf	M0 V	-3	(900-1)	[0000]	B	14	-9
+Magy	N	1236	Chuño	X566324-3	 	    Chir6 Rs Co  Lo 		100	SoCf	G5 V G8 V	-3	(420+1)	[1121]	B	11	8
+Magy	N	1238	Zuppe	X6A4000-B	 	    Tz  Di Fl 		005	SoCf	M3 V	-1	(D00-1)	[0000]	B	10	-13
+Magy	N	1240	Drizz	E69A575-5	 	    Tz  Ni Wa 		203	SoCf	M1 V	-3	(740+1)	[3231]	B	9	28
+Magy	B	1302	Joppa	X201000-D	 	     Co Tz  Di Ic Va 		010	SoCf	M1 V	-1	(800+5)	[0000]	B	5	40
+Magy	B	1305	Cueball	X551478-3	 	    O:1403  Ni Po 	B	614	SoCf	G3 V	-3	(732-5)	[7151]	B	16	-210
+Magy	B	1307	Sorang	X311000-A	 	    Tz  Di Ic Na 		013	SoNS	M1 V	-1	(C00-3)	[0000]	B	12	-36
+Magy	B	1309	Al-Medif	X87A155-1	 	    Fo  Lo Wa (NIL)	B	923	SoCf	G6 V	-3	(900-4)	[4132]	B	15	-36
+Magy	F	1313	Garvey	X59A125-3	 	    Co  Lo Wa 		723	SoCf	G3 V	-3	(300+4)	[1165]	B	15	12
+Magy	F	1314	Raiou	X300000-D	 	    Sa  Di Va 		003	SoCf	M3 V	-1	(700+3)	[0000]	B	10	21
+Magy	F	1316	Sylva	E579598-7	 	    O:1415  Ni 		500	SoCf	G5 V	-3	(740-3)	[5235]	B	10	-84
+Magy	F	1320	Fazio	X576100-5	 	     Lo 		100	SoCf	K3 V	-3	(400+2)	[1163]	B	10	8
+Magy	J	1321	Truelock	X848374-3	 	    O:1521  Lo 	B	503	SoCf	K1 V K7 V	-3	(520-1)	[7145]	B	15	-10
+Magy	J	1323	Yuehtsao	X8C9000-9	 	    Fo  Di Fl (ENIL)		000	SoCf	K8 V M1 V	-2	(A00+1)	[0000]	B	7	10
+Magy	J	1324	Uebelhor	X566875-7	 	       Pa Ri Ph (NIL)		404	SoCf	F0 V	-1	(A75+4)	[7754]	BcCe	12	1400
+Magy	J	1326	Ramanar	X64376D-8	 	     Rs  Pi Po (NIL)	B	510	SoCf	G4 V	-2	(A64+1)	[8595]	BD	6	240
+Magy	J	1329	Quinn	XB75300-3	 	     Lo 	B	520	SoCf	F5 V	-3	(320+1)	[5167]	B	5	6
+Magy	N	1332	Falstaff	E89A8BB-6	 	    Ph Pi Wa (NIL)		920	SoCf	G0 V	-2	(975-1)	[D665]	BDe	9	-315
+Magy	N	1333	Spectrum	X558999-8	 	     Hi (NIL)	B	210	SoCf	F8 V	-1	(C88-1)	[68A9]	BE	10	-768
+Magy	B	1403	Chorus	X94476D-2	 	      la4   Ag Pi (NIL)	B	701	SoCf	F4 V	-1	(968+1)	[3671]	BCD	14	432
+Magy	B	1404	Sapphire	X89A96E-5	 	    Hi In Wa (NIL)	B	213	SoCf	G1 V	0	(987+2)	[D994]	BE	14	1008
+Magy	B	1407	Tooma	X555121-A	 	     Lo 		804	SoNS	G9 V	-1	(900+1)	[215A]	B	14	9
+Magy	B	1408	Heichel	X7B8000-B	 	    Co Tz  Di Fl 		013	SoNS	M2 V M8 V	-1	(C00+1)	[0000]	B	10	12
+Magy	B	1409	Olsson	X578569-4	 	     Ag Ni 		203	SoCf	K9 V	-2	(742-4)	[9386]	BC	13	-224
+Magy	B	1410	Kliment	E57688B-8	 	      Pa Pi Ph (NIL)		300	SoNS	G3 V K6 V	-2	(A74+4)	[9698]	BcDe	9	1120
+Magy	F	1411	Ogorod	X755899-5	 	    Pz  Ga Pa Ph (NIL)	B	425	SoNS	K6 V M0 V M4 V	-2	(A75+3)	[3664]	Bce	13	1050
+Magy	F	1412	Volna	E99A447-5	 	      Ni Wa (NIL)	B	323	SoNS	K4 V M3 V	-3	(A30-1)	[117A]	B	17	-30
+Magy	F	1413	Raleigh	X550697-6	 	     De Ni Po 		910	SoCf	K2 V M1 V	-3	(852+1)	[6324]	B	9	80
+Magy	F	1415	Landgrebe	D57469B-9	 	     Ag Ni 		410	SoCf	F6 V M6 V	-1	(953+1)	[554C]	BC	11	135
+Magy	F	1416	Finn	X799203-8	 	     Lo 		623	SoCf	G9 V	-3	(910+1)	[2118]	B	13	9
+Magy	F	1418	Patterson	X577985-A	 	     la3   Hi Pi (NIL)		104	SoCf	F5 V M2 V	1	(E89-4)	[BA77]	BDE	11	-4032
+Magy	F	1420	Dahlpacker	X565477-4	 	    Co  Ni Pa 		200	SoCf	G9 V	-3	(632+1)	[5188]	Bc	3	36
+Magy	J	1423	Vanus	X422000-E	 	    Tz  Di He Po 		021	SoCf	M1 V M2 V	-1	(700+5)	[0000]	B	12	35
+Magy	J	1427	Enbaum	E557777-8	 	      Ag 		113	SoCf	M2 V	-1	(C64+3)	[4636]	BC	14	864
+Magy	J	1429	Calvo	X430000-D	 	    Sa  De Di Po 		004	SoCf	M0 V	-1	(A00-3)	[0000]	B	14	-30
+Magy	J	1430	Grimes	X555210-4	 	    Co Lk  Lo 		815	SoCf	F9 V M5 V	-3	(310-4)	[1142]	B	16	-12
+Magy	N	1438	Blackjack	X511000-E	 	      Pz  Di Ic Na In 		014	SoCf	K5 V	0	(G00-3)	[0000]	BE	14	-48
+Magy	N	1440	Acqua III	X66A100-4	 	     Lo Wa 		813	SoCf	K7 V	-3	(400-1)	[2116]	B	12	-4
+Magy	B	1504	Youngland	E596278-4	 	    Sa  Lo 		703	SoCf	G9 V K4 V	-3	(510+3)	[1144]	B	10	15
+Magy	B	1506	Desolation	X401000-E	 	     Tz  Di Ic Va 		002	SoCf	M2 V	-1	(600-4)	[0000]	B	12	-24
+Magy	F	1511	Vasya	X520000-D	 	      De He Di Po 		010	SoNS	G4 V	-1	(500-1)	[0000]	B	10	-5
+Magy	F	1512	Minsk	X731000-C	 	      Pz  Di Na Po (NIL)		000	SoNS	F2 V	-1	(B00-3)	[0000]	B	5	-33
+Magy	F	1513	Roblig	X301000-C	 	      la2 Co Lk   Cy Di Ic Va Na Pi 		002	SoNS	K1 V	-1	(C00+4)	[0000]	BD	6	48
+Magy	F	1516	Zathaneze	E557320-4	 	    Lk  Lo 		405	SoNS	G6 V	-3	(520+1)	[2193]	B	9	10
+Magy	F	1517	Quraifi	X000000-9	 	      As Va Di Na 		010	SoNS	M2 V	-2	(900-4)	[0000]	B	12	-36
+Magy	J	1521	Keyor	X201000-E	 	      Ho  Di Ic Va Na Pi 		010	SoCf	G4 V M5 V	-1	(B00-5)	[0000]	BD	10	-55
+Magy	J	1522	Vanauken	X201000-E	 	     Fr Sa  Di Ic Va 		003	SoCf	M2 V M7 V	-1	(900-3)	[0000]	B	15	-27
+Magy	J	1524	Heather	C698578-7	 	     Ag Ni 		410	SoCf	G7 V M3 V	-1	(744+4)	[7488]	BC	10	448
+Magy	J	1529	Trull	X000000-E	 	      As Va Di Na 		000	SoCf	K5 V M0 V	-1	(800+3)	[0000]	B	3	24
+Magy	N	1531	Behave	X544400-6	 	    Ho  Ni Pa 	B	413	SoCf	F2 V	-3	(630+2)	[2146]	Bc	12	36
+Magy	N	1532	New Ico	X431000-B	 	    Tz  Di Px Po 		003	SoCf	G5 V M2 V	-1	(A00-3)	[0000]	B	14	-30
+Magy	N	1534	Kolin	X544568-6	 	     Ag Ni 		504	SoCf	F8 V K2 V	-2	(740+1)	[8389]	BC	8	28
+Magy	N	1535	Selig	X79A6AC-8	 	      Ni Wa (NIL)	B	300	SoCf	F1 V	-3	(B50+3)	[231D]	B	9	165
+Magy	N	1537	Bois	X201000-E	 	     Fr Sa  Di Ic Va 		002	SoCf	K8 V M2 V	-1	(500+1)	[0000]	B	9	5
+Magy	B	1604	Summer's Lot	X8C9000-B	 	    Tz  Di Fl 		002	SoCf	M1 V	-1	(600-1)	[0000]	B	8	-6
+Magy	B	1605	Goodhurst	X535000-D	 	   Ho  Di Px 		020	SoCf	G1 V	-1	(A00+2)	[0000]	B	11	20
+Magy	F	1612	Nethery	X401000-E	 	     Ho  Di Ic Va 		001	SoCf	F6 V M7 V	-1	(400+1)	[0000]	B	7	4
+Magy	F	1619	Intress	X6A3000-A	 	    Rs Fr  Di Fl 		012	SoCf	M0 V	-1	(900+5)	[0000]	B	15	45
+Magy	F	1620	Sumerfelt	X655478-4	 	    Co Tu  Ga Ni Pa 		203	SoCf	M2 V M6 V	-3	(630-1)	[2132]	Bc	12	-18
+Magy	J	1622	Buschfeld	X698113-6	 	     Lo 		200	SoCf	G9 V M6 V	-3	(500+5)	[3144]	B	6	25
+Magy	J	1624	Mervyn	X301000-B	 	     Co  Di Ic Va 		003	SoCf	G8 III	-1	(800+1)	[0000]	B	14	8
+Magy	J	1627	Acara	X67986A-5	 	    Pz  Ph Pi (NIL)		903	SoCf	M0 V	-2	(B75-4)	[B617]	BDe	11	-1540
+Magy	N	1631	Xuber	E563474-4	 	     Ni 	B	210	SoCf	G4 V	-3	(631-2)	[4125]	B	14	-36
+Magy	N	1632	Free	X201000-A	 	     Fr Lk  Di Ic Va Na 		004	SoCf	M3 V	-1	(C00+1)	[0000]	B	14	12
+Magy	N	1637	Brellik	X67A300-5	 	     Lo Wa 		500	SoCf	K5 V M3 V	-3	(320+5)	[1152]	B	9	30
+Magy	N	1638	Diaque	D5999A8-7	 	     Hi Pi (NIL)	B	112	SoCf	K7 V M8 V	-1	(A89+2)	[9828]	BDE	15	1440
+Magy	C	1701	Alphard	X88A000-1	 	     Di Wa (NIL)		001	ImDs	K3 V M5 V	-3	(C00-1)	[0000]	B	12	-12
+Magy	C	1708	Phipps	X621000-D	 	      Tz  Di He Na Pi Po (NIL)		033	SoCf	M2 V	-1	(G00+1)	[0000]	BD	17	16
+Magy	G	1713	Namedih	X300000-D	 	    Da Co  Di Va 		000	SoRD	K3 V	-1	(600-3)	[0000]	B	6	-18
+Magy	G	1714	Headley	X99A100-4	 	     Tz  Lo Wa (NIL)		403	SoRD	M1 V M3 V	-3	(A00+1)	[1135]	B	16	10
+Magy	G	1720	Reed	X87656D-4	 	     Ag Ni 		301	SoCf	K9 V M0 V	-2	(740-3)	[3317]	BC	9	-84
+Magy	K	1725	Smilgys	X623000-8	 	    O:1627  Di Px Po 		004	SoCf	K7 V K9 V	-3	(A00-5)	[0000]	B	7	-50
+Magy	K	1728	Bishop	X422000-9	 	     Di He Po 		003	SoCf	F9 V	-2	(A00+4)	[0000]	B	16	40
+Magy	K	1730	Creighton	X436000-D	 	    Tz  Di 		000	SoCf	M3 V M3 V	-1	(400-3)	[0000]	B	4	-12
+Magy	O	1735	Genugten	X431000-D	 	    Tz  Di Po 		004	SoCf	M1 V M1 V	-1	(A00+1)	[0000]	B	15	10
+Magy	O	1736	Ungarn	X89799E-8	 	     Hi In (NIL)	B	510	SoCf	G7 V	0	(C87+1)	[6967]	BE	10	672
+Magy	C	1801	Fase	D741673-8	 	      He Ni Po (NIL)		920	ImDs	K1 V M7 V	-3	(C51+2)	[3354]	B	11	120
+Magy	C	1807	Clown	X431000-E	 	      Di Na Po (NIL)		004	SoCf	G3 V M7 V	-1	(F00+2)	[0000]	B	16	30
+Magy	C	1808	Lowhorn	E647878-5	 	    Ho Tr  Pa Pi Ph (NIL)		112	SoRD	G6 V M9 V	-2	(974-4)	[9616]	BcDe	8	-1008
+Magy	G	1815	Voetsak	X7B8000-B	 	    Co  Di Fl (ENIL)		000	SoRD	F4 V	-1	(A00+1)	[0000]	B	7	10
+Magy	G	1817	Vivian	X421000-D	 	    Ho  Di He Px Po 		004	SoRD	G8 V M6 V	-1	(900-3)	[0000]	B	12	-27
+Magy	G	1818	Higdon	X999799-4	 	     Pi (NIL)	B	402	SoCf	G3 V	-2	(967+2)	[3572]	BD	10	756
+Magy	K	1821	Moxbarg	X502000-C	 	     Co  Di Ic Va 		022	SoCf	K9 V	-1	(800+2)	[0000]	B	9	16
+Magy	K	1823	Garniewicz	X630000-7	 	    Sa  De Di Po 		025	SoCf	F4 V	-3	(500-3)	[0000]	B	15	-15
+Magy	K	1824	Saienz	C85027C-8	 	     De Lo Po (NIL)		711	SoCf	G5 V	-2	(C10+2)	[3169]	B	10	24
+Magy	K	1825	Lanchester	X421000-9	 	    O:1627 Fr Lk  Di He Px Po 		004	SoCf	M2 V M2 V	-2	(A00+4)	[0000]	B	13	40
+Magy	K	1826	Annu-u	X560625-6	 	     De Ni Ri 	B	513	SoCf	F4 V	-2	(850-4)	[6453]	BC	8	-160
+Magy	K	1827	Winterlot	X531000-9	 	     Tz  Di Na Po (NIL)		004	SoCf	M2 V M3 V	-2	(E00+1)	[0000]	B	8	14
+Magy	K	1828	Shanjaijing	X6A4000-8	 	    O:1627 Fr  Cy Di Fl 		010	SoCf	M1 V	-3	(800-5)	[0000]	B	10	-40
+Magy	K	1830	Kaarna	X841569-8	 	    Da Ho  He Ni Po 	B	401	SoCf	G1 V	-3	(840+1)	[9235]	B	8	32
+Magy	O	1831	Coeus	E55169D-5	 	    Sa  Ni Po 		703	SoCf	G0 V	-3	(850+3)	[7312]	B	10	120
+Magy	O	1832	Harpring	X8C7000-B	 	     Di Fl (ENIL)		003	SoCf	K9 V	-1	(D00-2)	[0000]	B	8	-26
+Magy	O	1833	Viallalta	X556523-5	 	      Ag Ni 		423	SoCf	K4 V M1 V	-2	(741+1)	[4324]	BC	11	28
+Magy	O	1834	Furuma	XC99120-0	 	     Lo 	B	803	SoCf	F5 V	-3	(500+1)	[4162]	B	13	5
+Magy	O	1836	Ratri	E552746-5	 	     Po (NIL)	B	605	SoCf	K1 V	-2	(962+3)	[9573]	B	8	324
+Magy	O	1837	Glenex	X754310-4	 	     Lo 	B	505	SoCf	G3 V	-3	(520+1)	[2123]	B	15	10
+Magy	O	1838	Barnstone	X863200-4	 	     Lo 		213	SoCf	G5 V	-3	(410+3)	[3118]	B	11	12
+Magy	O	1840	Farringhaus	X6A7000-8	 	    O:1438 Tz  Di Fl 		015	SoCf	M2 V M8 V	-3	(E00+2)	[0000]	B	18	28
+Magy	C	1904	Philpott	X422000-7	 	    Da Fr Sa  Di He Po 		003	ImDs	M2 V M6 V	-3	(700-1)	[0000]	B	13	-7
+Magy	C	1905	Arrid	X300000-A	 	     Sa  Di Na In Va 		002	ImDs	M0 V	0	(D00+1)	[0000]	BE	14	13
+Magy	C	1907	Double	X54156B-2	 	     He Ni Po 	B	214	ImDs	F9 V	-3	(741-3)	[6241]	B	12	-84
+Magy	G	1911	Pearce	X833000-A	 	     Pz  Di Na Po (NIL)		001	SoRD	K7 V	-1	(B00+1)	[0000]	B	10	11
+Magy	G	1912	Dixon	X420000-C	 	      Ho  De He Di Na Po 		013	SoRD	G2 V M3 V	-1	(C00+1)	[0000]	B	7	12
+Magy	G	1913	Tralp	X968967-5	 	     Hi Pr (NIL)	B	313	SoRD	K5 V	-1	(B84-1)	[A817]	BcE	10	-352
+Magy	G	1915	Abrell	X422000-A	 	     O:1815 Ho Sa  Di He Na Po 		003	SoRD	G8 V K7 V	-1	(B00-1)	[0000]	B	10	-11
+Magy	G	1916	Dreesen	X201000-E	 	      Tz  Di Ic Va Na 		010	SoRD	M3 V	-1	(900+1)	[0000]	B	12	9
+Magy	G	1917	Ownes	X78657B-4	 	     O:1815  Ag Pr Ga Ni 		403	SoRD	K2 V	-2	(741-4)	[3368]	BcC	10	-112
+Magy	G	1918	Wackowsk	X7B5000-D	 	   Co Tz  Di Fl (ENIL)		013	SoRD	M1 V	-1	(D00+1)	[0000]	B	10	13
+Magy	G	1919	Pieper	E566758-8	 	      Ag Ri (NIL)		225	SoRD	G1 V M9 V	0	(G6B+4)	[679C]	BC	13	4224
+Magy	K	1924	Ebbing	X531000-A	 	    Tz  Di Px Po 		002	SoCf	M1 V	-1	(900-2)	[0000]	B	6	-18
+Magy	K	1926	Crius	X999542-4	 	     Ni 	B	523	SoCf	K9 V	-3	(742+3)	[5223]	B	12	168
+Magy	K	1927	Ramaniam	X831000-E	 	      Ho   Di Na Po (NIL)		003	SoCf	G3 V	-1	(D00+1)	[0000]	B	10	13
+Magy	K	1928	Yognigath	X863434-7	 	    Co Tu  Ni 		300	SoCf	M2 V	-3	(633-1)	[511C]	B	11	-54
+Magy	K	1930	Langas	X436000-D	 	    Tz   Di 		001	SoCf	M1 V M9 V	-1	(700+5)	[0000]	B	11	35
+Magy	O	1934	Teault	X521000-8	 	     Di He Po 		012	SoCf	F4 V K2 V	-3	(900-1)	[0000]	B	11	-9
+Magy	O	1935	Dyavai	X8C8000-9	 	    Di Fl (ENIL)		003	SoCf	G6 V	-2	(C00+1)	[0000]	B	12	12
+Magy	O	1936	Ebisu	E558156-6	 	    O:1935  Lo 		501	SoCf	F9 V	-3	(500+1)	[1147]	B	9	5
+Magy	O	1939	Salyer	D97789C-9	 	    O:2139  Pa Pi Ph (NIL)		102	SoCf	G3 V	-1	(B76+1)	[A774]	BcDe	8	462
+Magy	C	2004	Esuan	E545442-7	 	    Fr  Sa  Ni Pa (NIL)		621	ImDs	M3 V	-3	(B31-5)	[6137]	Bc	9	-165
+Magy	C	2007	Justice	E84297A-7	 	      He Hi In Po (NIL)	B	302	ImDs	G3 V	0	(A89-1)	[8946]	BE	10	-720
+Magy	C	2008	Plage	X432000-E	 	       Di Na Po (NIL)		020	ImDs	G2 V M6 V	-1	(E00-1)	[0000]	B	10	-14
+Magy	C	2009	Brawley	X56A235-2	 	    Co Tz  Lo Wa 		215	ImDs	M2 V	-3	(310+3)	[2143]	B	12	9
+Magy	G	2012	Tryon	X310000-B	 	    Tz  Di 		010	SoRD	M2 V	-1	(700-2)	[0000]	B	8	-14
+Magy	G	2019	Ensley	X420000-D	 	     Co Lk  De He Di Po 		003	SoRD	K4 V	-1	(A00-1)	[0000]	B	12	-10
+Magy	K	2024	Vacob	X433000-A	 	     Fr Sa  Di Na Po 		004	SoCf	M1 V	-1	(C00+3)	[0000]	B	16	36
+Magy	K	2026	McNellen	X541144-4	 	    An Da   He Lo Po 		804	SoCf	F7 V	-3	(500+2)	[21A2]	B	12	10
+Magy	K	2029	Helm	X8748B9-6	 	     O:2030  Pa Pi Ph (NIL)	B	504	SoCf	F6 V M0 V	-2	(A76+2)	[A637]	BcDe	12	840
+Magy	K	2030	Koskiku	C577876-5	 	      Pa Pi Ph (NIL)	B	403	SoCf	K7 V M3 V	-1	(A73-4)	[7736]	BcDe	8	-840
+Magy	O	2032	Ghoryana	X888401-4	 	    Co  Ni Pa 	B	223	SoCf	G2 V	-3	(632-2)	[1133]	Bc	11	-72
+Magy	C	2102	Seloo	X431000-E	 	     Pz Tz  Di Na Po (NIL)		000	ImDs	G9 V M8 V	-1	(B00-2)	[0000]	B	12	-22
+Magy	C	2103	Kemper	X421000-E	 	     (Whaiz) Tz  Di He Na Pi Po (NIL)		005	ImDs	M1 V	-1	(E00+1)	[0000]	BD	16	14
+Magy	C	2104	Cordle	X421000-A	 	     Da Tz  Di He Na Po 		010	ImDs	M1 V M3 V	-1	(900-2)	[0000]	B	12	-18
+Magy	C	2106	Tolson	X432000-E	 	      Pz Co  Di Na Po (NIL)		004	ImDs	G3 V K9 V	-1	(G00-2)	[0000]	B	8	-32
+Magy	C	2110	Luoh	X875443-3	 	     Ni Pa 		504	SoCf	K2 V M1 V	-3	(630-3)	[2185]	Bc	8	-54
+Magy	G	2118	Ftuihtaea	X7B8000-B	 	   Co Tz  Di Fl (ENIL)		003	SoCf	M1 V	-1	(C00+1)	[0000]	B	9	12
+Magy	K	2122	Ahto	X67A374-1	 	    Co Tz  Lo Wa 	B	110	SoCf	M1 V M8 V	-3	(520+1)	[2134]	B	5	10
+Magy	K	2124	Ginivia	X7A4000-E	 	    Co Tz  Di Fl 		003	SoCf	M1 V	-1	(A00+1)	[0000]	B	8	10
+Magy	K	2126	Paxton	X420000-D	 	     Tz  De He Di Po 		002	SoCf	M2 V	-1	(500+2)	[0000]	B	12	10
+Magy	K	2127	Yama	X530000-A	 	     Ho  De Di Na Po (NIL)		000	SoCf	G1 V G5 V	-1	(A00-1)	[0000]	B	4	-10
+Magy	K	2128	Jaro	E555432-5	 	    O:1927 Lk  Ni Pa 		314	SoCf	F9 V	-3	(630+3)	[7174]	Bc	14	54
+Magy	K	2130	Burris	X69A124-4	 	    Fo Sa  Lo Wa 	B	901	SoCf	G0 V M0 V	-3	(500+1)	[3114]	B	9	5
+Magy	O	2132	Tuxhorn	X9B5000-A	 	   O:2229 Co Tz  Di Fl Px 		014	SoCf	M3 V M8 V	-1	(C00+3)	[0000]	B	15	36
+Magy	O	2133	Diana	X531000-6	 	    Fo Tz  Di Po 		023	SoCf	M3 V	-3	(600-3)	[0000]	B	12	-18
+Magy	O	2134	Urquiza	X9AA000-C	 	    Co  Di Fl 		001	SoCf	G3 V M3 V	-1	(400+2)	[0000]	B	9	8
+Magy	O	2135	Needler	X100000-B	 	    O:2335 Sa  Di Na Pi Va 		023	SoCf	M1 V	-1	(E00+1)	[0000]	BD	11	14
+Magy	O	2136	Gastineau	X773447-5	 	     Ni 		404	SoCf	K4 V M7 V	-3	(632+1)	[2162]	B	8	36
+Magy	O	2139	Stancombe	X000000-B	 	      As Va Di Na 		022	SoCf	K0 III	-1	(C00+1)	[0000]	B	12	12
+Magy	C	2205	Rita's Place	E76689D-5	 	      Ga Pa Ri Ph (NIL)	B	521	ImDs	M2 V M6 V	-1	(A76-5)	[7771]	BcCe	12	-2100
+Magy	C	2206	Reichmuth	X434000-B	 	    Tz  Di 		003	ImDs	M0 V M1 V	-1	(600-3)	[0000]	B	10	-18
+Magy	C	2207	Yatooma	X423000-9	 	    Tz  Di Po 		022	ImDs	M1 V M3 V	-2	(A00+1)	[0000]	B	7	10
+Magy	C	2208	Leriss	X942200-5	 	      He Lo Po (NIL)		804	ImDs	G0 V G3 V	-3	(A10+1)	[3143]	B	10	10
+Magy	C	2209	Brereton	D546698-9	 	     Ag Ni 		934	ImDs	G7 V K9 V	-1	(F53+1)	[3568]	BC	10	225
+Magy	G	2213	Rogalle	X421000-8	 	     O:1815 Tz  Di He Na Px Po 		004	SoRD	M0 V	-3	(C00+1)	[0000]	B	9	12
+Magy	G	2214	Coglan	XA9A66C-0	 	      Ni Oc (NIL)	B	713	ImDs	G4 V	-3	(A50+1)	[5311]	B	7	50
+Magy	G	2218	Vaderwall	D652452-6	 	    Tz  Ni Po 		203	SoCf	M2 V	-3	(631-1)	[1138]	B	10	-18
+Magy	G	2219	Eoyang	X545530-4	 	     Ag Ni 	B	402	SoCf	G3 V	-2	(743+3)	[7325]	BC	8	252
+Magy	K	2223	Elnor	X55466A-2	 	    Lk  Ag Ni 	B	504	SoCf	G4 V	-2	(854+4)	[5451]	BC	13	640
+Magy	K	2229	Fatagin	X66786C-4	 	      Ga Pa Ri Ph (NIL)	B	920	SoCf	M3 V M3 V	-1	(A76+2)	[8752]	BcCe	9	840
+Magy	K	2230	Tlaloc	X57A210-5	 	    Ho  Lo Wa 		703	SoCf	G5 V M2 V M9 V	-3	(310-2)	[1154]	B	12	-6
+Magy	O	2231	Mazotz	X866778-0	 	     Fo  Ag Ri Ga (NIL)	B	913	SoCf	G3 V K6 V	0	(969+2)	[7751]	BC	8	972
+Magy	O	2234	Tyche	X55466A-6	 	     Ag Ni 	B	304	SoCf	M1 V	-2	(850+1)	[4466]	BC	15	40
+Magy	O	2236	Balajee	X421000-C	 	    Tz  Di He Po 		010	SoCf	M2 V M9 V	-1	(600+1)	[0000]	B	10	6
+Magy	O	2238	Frykberg	X310000-B	 	    Co Lk  Di 		004	SoCf	G3 V	-1	(900-4)	[0000]	B	10	-36
+Magy	O	2239	Wolfram	X6A3000-C	 	     Di Fl 		004	SoCf	K4 V K5 V	-1	(A00-1)	[0000]	B	7	-10
+Magy	C	2302	Ziaeehezar	X7B6000-8	 	    O:2503 Tz  Di Fl 		001	ImDs	M2 V M7 V	-3	(600+1)	[0000]	B	11	6
+Magy	C	2303	Guskin	X998113-6	 	     Lo 		303	ImDs	F8 V K1 V	-3	(400+3)	[1136]	B	16	12
+Magy	C	2304	Douglas	X542988-6	 	     Co Tz   He Hi In Po (NIL)	B	801	ImDs	M1 V	0	(A85-2)	[594B]	BE	11	-800
+Magy	G	2312	Last Pine	X556530-6	 	    Da  Sa  Ag Ni 		304	ImDs	G0 V	-2	(740+1)	[8353]	BC	8	28
+Magy	G	2314	Boldfulch	X431000-B	 	    Tz  Di Po 		000	SoCf	M0 V M1 V	-1	(600-1)	[0000]	B	12	-6
+Magy	G	2316	Cloverreach	X873679-6	 	     Ni 		803	ImDs	G7 V M4 V	-3	(853+1)	[6372]	B	11	120
+Magy	G	2317	Rodriguez	X521000-8	 	    Tz  Di He Po 		012	SoCf	M0 V	-3	(800+3)	[0000]	B	9	24
+Magy	G	2319	Otha	X434000-9	 	     Di 		024	ImDs	K3 V	-2	(D00+3)	[0000]	B	16	39
+Magy	K	2321	Fyffe	X8C9000-9	 	    Tz  Di Fl 		004	ImDs	M1 V	-2	(700-3)	[0000]	B	15	-21
+Magy	K	2324	Kotada	X559322-2	 	    Co  Lo 	B	224	SoCf	G6 V M7 V	-3	(520-4)	[1184]	B	14	-40
+Magy	O	2332	Licini	E575478-8	 	     Ni Pa 		303	SoCf	K1 V M2 V	-3	(932+1)	[118D]	Bc	8	54
+Magy	O	2334	Lisah	C798454-A	 	     Ni Pa 		212	SoCf	G2 V	0	(935-5)	[1466]	Bc	7	-675
+Magy	O	2335	Roen	X431000-E	 	     Tz  Di Na Po (NIL)		011	SoCf	M0 V	-1	(C00+1)	[0000]	B	9	12
+Magy	O	2338	Shigetoshi	X424000-E	 	    Tz  Di 		001	SoCf	M2 V	-1	(700+2)	[0000]	B	8	14
+Magy	O	2339	Ebaun	X521000-7	 	    Tz  Di He Po 		013	SoCf	M1 V	-3	(500+1)	[0000]	B	15	5
+Magy	C	2403	Nahn	X956878-5	 	    O:2503  Pa Ph (NIL)	B	602	ImDs	M0 V M2 V	-2	(A7A+2)	[8662]	Bce	10	1400
+Magy	C	2406	Hagymasi	D550110-4	 	    O:2507 Tz  De Lo Po (NIL)		413	ImDs	M1 V M6 V	-3	(A00-2)	[1112]	B	10	-20
+Magy	C	2409	Trechier	X8C9000-B	 	    Da Tz  Di Fl 		002	ImDs	M3 V M4 V	-1	(800-1)	[0000]	B	15	-8
+Magy	G	2411	Alto	X54156D-6	 	     Pz Tz  He Ni Po (NIL)		405	ImDs	M3 V	-3	(A40+3)	[7279]	B	13	120
+Magy	G	2412	Boshkoff	X636000-8	 	     Di (NIL)		004	ImDs	K3 V M6 V	-3	(E00+1)	[0000]	B	13	14
+Magy	G	2413	Stevanic	E797786-7	 	      Ag 		104	ImDs	G5 V K1 V	-1	(861+2)	[964C]	BC	13	96
+Magy	G	2415	Clarmoment	X543421-2	 	     Ni Po 	B	300	ImDs	M2 V	-3	(630-2)	[1141]	B	13	-36
+Magy	G	2416	Dexter	X58756C-0	 	      Ag Pr Ni 	B	225	ImDs	K0 V	-2	(741-4)	[1351]	BcC	10	-112
+Magy	G	2418	Schaut	X720000-9	 	      De He Di Po 		003	ImDs	K1 V	-2	(600-1)	[0000]	B	14	-6
+Magy	G	2419	Drang	X651000-6	 	     Di Po 		003	SoCf	F6 V	-3	(300+2)	[0000]	B	12	6
+Magy	K	2421	Court	X500000-7	 	    Co Tz  Di Na Pi Va 		024	ImDs	M2 V	-3	(900-4)	[0000]	BD	12	-36
+Magy	K	2422	Argon	X55A76C-2	 	    Pz  Wa (NIL)	B	804	ImDs	G3 V	-2	(961+1)	[7572]	B	9	54
+Magy	K	2423	Kugle	X522000-E	 	     Da Fr Sa  Di He Na Px Po 		004	ImDs	M0 V	-1	(C00+1)	[0000]	B	9	12
+Magy	K	2426	Mest	X540242-7	 	      De He Lo Po 		602	SoCf	K3 V	-3	(610+1)	[1129]	B	6	6
+Magy	O	2434	Geb	X554330-2	 	    Co  Lo 		303	SoCf	M0 V	-3	(420+1)	[1145]	B	12	8
+Magy	O	2436	Tuoni	X430000-9	 	    Tz  De Di Po 		003	SoCf	M2 V	-2	(800+3)	[0000]	B	6	24
+Magy	O	2439	Wingard	X300000-E	 	    Lk  Di Va 		024	SoCf	M2 V M9 V	-1	(D00-2)	[0000]	B	13	-26
+Magy	D	2503	Austa	X796412-5	 	    Pz  Ni Pa (NIL)	B	504	ImDs	G2 V	-3	(C30+1)	[3191]	Bc	14	36
+Magy	D	2505	Guenivier	XAE7000-B	 	    Pz  Di (NIL)		024	ImDs	M2 V	-1	(G00-3)	[0000]	B	9	-48
+Magy	D	2506	Sabuda	X632000-E	 	    Tz  Di Po 		004	ImDs	M2 V M4 V	-1	(700-3)	[0000]	B	12	-21
+Magy	D	2507	Amon	X435000-C	 	    Pz Co Tz  Di (NIL)		014	ImDs	M3 V	-1	(G00+3)	[0000]	B	14	48
+Magy	D	2508	Rumley	X79A5A9-3	 	    Da  Ni Wa 	B	323	ImDs	G6 V M4 V	-3	(741-3)	[3242]	B	11	-84
+Magy	D	2510	Kench	X310000-9	 	    Co  Di 		023	SoCf	F1 V	-2	(C00-4)	[0000]	B	14	-48
+Magy	H	2512	Sinott	X431000-E	 	    Tz  Di Na Po (NIL)		033	ImDs	M1 V	-1	(F00-3)	[0000]	B	17	-45
+Magy	H	2518	Pankow	C561435-8	 	    An  Ni 		402	ImDs	G1 V G9 V	-2	(832+1)	[7225]	B	15	48
+Magy	H	2519	Veneet	E742135-7	 	     Co   He Lo Po (NIL)		304	ImDs	G9 V	-3	(A00+3)	[1179]	B	11	30
+Magy	L	2522	Sturwold	X500000-A	 	     Di Va 		002	ImDs	A3 IV F0 V	-1	(700-2)	[0000]	B	5	-14
+Magy	L	2523	Taaksha	E641232-7	 	    Tz  He Lo Po 		803	ImDs	M2 V M9 V	-3	(510+1)	[1168]	B	8	5
+Magy	L	2526	Ghosh	X100000-9	 	    Co Lk  Di Na Va 		002	SoCf	K8 V	-2	(A00+2)	[0000]	B	6	20
+Magy	L	2528	Laidlaw	X99A457-4	 	    Tz  Ni Wa 	B	503	SoCf	M0 V	-3	(630+1)	[4154]	B	8	18
+Magy	L	2529	Seker	X310000-8	 	     Sa  Di Na Pi 		004	SoCf	M2 V	-3	(E00-1)	[0000]	BD	8	-14
+Magy	P	2534	Beldavs	X431000-B	 	    Fr Lk  Di Po 		024	SoCf	M3 V	-1	(C00-2)	[0000]	B	9	-24
+Magy	P	2536	Ledbetter	X750135-2	 	    Fo  De Lo Po (NIL)	B	804	SoCf	G0 V	-3	(A00-1)	[2122]	B	13	-10
+Magy	P	2538	Piccione	X5A0000-C	 	     Di He 		012	SoCf	K6 V	-1	(800-4)	[0000]	B	9	-32
+Magy	P	2539	McBain	X89A56E-2	 	     Ni Wa 	B	504	SoCf	F2 V	-3	(840+4)	[5265]	B	12	128
+Magy	D	2602	Hyalin	X505000-9	 	     Fr  Di Ic Va In 		003	ImDs	G2 V M6 V	-1	(E00+1)	[0000]	BE	8	14
+Magy	D	2603	Milenky	E5877A7-7	 	      Ag Ri (NIL)		904	ImDs	G2 V	0	(962+4)	[6758]	BC	16	432
+Magy	D	2605	Waxstetter	X650301-0	 	    Fo  De Lo Po 	B	312	ImDs	G0 V	-3	(420-4)	[2141]	B	15	-32
+Magy	D	2607	Volund	E5419B7-8	 	      He Hi In Po (NIL)	B	900	ImDs	K8 V	0	(A83+1)	[A98A]	BE	7	240
+Magy	H	2616	Fornorb	X997000-4	 	      Di (NIL)		004	ImDs	M0 V	-3	(C00-2)	[0000]	B	11	-24
+Magy	H	2617	Dix	X8C9000-9	 	    Da Tz  Di Fl 		010	ImDs	M2 V	-2	(600+2)	[0000]	B	12	12
+Magy	L	2622	Yarling	X899300-6	 	     Lo 		210	ImDs	M0 V	-3	(520+1)	[1114]	B	13	10
+Magy	L	2625	Morgenstern	X99957B-5	 	    An  Ni 	B	212	SoCf	G0 V	-3	(742-4)	[9242]	B	12	-224
+Magy	L	2628	Iatur	X510000-B	 	     Pz Co  Di Na In 		011	ImDs	F7 V	0	(E00+1)	[0000]	BE	14	14
+Magy	P	2631	Gerwalk	X100000-D	 	     Sa  Di Na In Va 		014	ImDs	M2 V	0	(G00-3)	[0000]	BE	14	-48
+Magy	P	2633	Teska	X89A343-3	 	    Tz  Lo Wa (NIL)	B	622	SoCf	M1 V M2 V	-3	(920+1)	[6172]	B	9	18
+Magy	P	2638	Lazog	E898143-3	 	      Lo 	B	102	SoCf	M3 V M5 V	-3	(600-3)	[1184]	B	6	-18
+Magy	D	2701	Pinnock	X8C9000-E	 	    Co Tz  Di Fl (ENIL)		022	ImDs	M0 V	-1	(E00-3)	[0000]	B	16	-42
+Magy	D	2704	Dikaku	X000000-B	 	      As Va Di Na Pi 		005	ImDs	B9 V	-1	(E00-3)	[0000]	BD	14	-42
+Magy	D	2706	Anerin	E941789-9	 	      Pz  He Pi Po (NIL)	B	910	ImDs	K7 V	-1	(C64+2)	[5629]	BD	14	576
+Magy	D	2709	Doak	X313000-D	 	    Co Tz  Di Ic 		002	ImDs	M2 V	-1	(800-4)	[0000]	B	11	-32
+Magy	H	2715	Byrley	X6875AD-6	 	      Ag Pr Ga Ni 		402	ImDs	K9 V M1 V	-2	(743-1)	[139A]	BcC	12	-84
+Magy	H	2716	Milbrath	X430000-7	 	     Lk  De Di Na Po (NIL)		013	ImDs	G5 V	-3	(A00+3)	[0000]	B	10	30
+Magy	H	2717	Herculis	X421000-E	 	    Tz  Di He Po 		015	ImDs	M1 V	-1	(C00+3)	[0000]	B	10	36
+Magy	H	2718	Udkukhii	X8C6000-9	 	   Tz  Di Fl (ENIL)		010	ImDs	M1 V	-2	(A00-2)	[0000]	B	10	-20
+Magy	L	2724	Raiden	X59A899-8	 	    Tz  Ph Pi Wa (NIL)		203	ImDs	M0 V M7 V	-2	(D79-1)	[C67C]	BDe	8	-819
+Magy	L	2725	Parkhill	X6A8000-9	 	     Di Fl 		013	ImDs	K9 V	-2	(C00+1)	[0000]	B	12	12
+Magy	L	2726	Orpurgo	X432000-C	 	    Tz  Di Px Po 		024	SoCf	M2 V	-1	(D00+4)	[0000]	B	14	52
+Magy	L	2728	Wicker	X742147-4	 	      Fr  He Lo Po (NIL)		504	ImDs	M0 V M4 V	-3	(A00-3)	[1124]	B	12	-30
+Magy	L	2729	Namodi	D679978-7	 	     Hi Pi (NIL)	B	103	SoCf	G3 V	-1	(A86-1)	[5837]	BDE	12	-480
+Magy	P	2731	Bergvardt	X200000-8	 	     Co Lk  Di Na Pi Va 		003	SoCf	F4 V	-3	(D00+5)	[0000]	BD	8	65
+Magy	P	2736	Fatch	X631000-E	 	    Tz  Di Po 		002	SoCf	M1 V	-1	(600+1)	[0000]	B	8	6
+Magy	D	2801	Panar	X563797-1	 	    Fo  Ri (NIL)	B	305	ImDs	M0 V	-1	(967-1)	[9642]	BC	11	-378
+Magy	D	2804	Paputsus	C67956D-5	 	    Co  Ni 		400	ImDs	M2 V M7 V	-2	(740+1)	[A373]	B	13	28
+Magy	D	2806	Messelnap	X735000-9	 	    Co Tz  Di 		005	ImDs	M0 V	-2	(D00-1)	[0000]	B	9	-13
+Magy	D	2807	Nosret	X897234-6	 	      Lo 	B	404	ImDs	K1 V	-3	(610+1)	[1148]	B	12	6
+Magy	D	2808	Gushwa	X552568-2	 	    Fr Lk  Ni Po 		214	ImDs	M1 V M8 V	-3	(740-1)	[4233]	B	9	-28
+Magy	D	2809	Burvee	X557424-3	 	    O:2810 Sa  Ni Pa 	B	304	ImDs	G8 V	-3	(633-2)	[7151]	Bc	10	-108
+Magy	D	2810	Stanko	X555647-5	 	     Ag Ni 		305	ImDs	M1 V M9 V	-2	(853-2)	[5444]	BC	10	-240
+Magy	H	2811	Nakiim	E777957-8	 	     O:3012  Hi Pi (NIL)		103	ImDs	M2 V	-1	(D87+1)	[982B]	BDE	9	728
+Magy	H	2813	Lonelund	X516000-A	 	    Co  Di Ic 		004	ImDs	G3 V	-1	(900+2)	[0000]	B	13	18
+Magy	H	2815	Udikaa	X6A5000-A	 	   Fr  Di Fl (ENIL)		023	ImDs	M2 V	-1	(E00-2)	[0000]	B	8	-28
+Magy	H	2816	Tyrrell	X421000-A	 	     Fr  Sa  Cy Di He Na Po 		004	ImDs	M1 V	-1	(C00+2)	[0000]	B	8	24
+Magy	H	2817	Hrongding	X621000-C	 	    Ho Tz  Di He Po 		024	CsIm	K0 V	-1	(D00-1)	[0000]	B	11	-13
+Magy	L	2822	Butphi	X520000-B	 	      De He Di Po 		022	ImDs	K1 V K3 V	-1	(700-3)	[0000]	B	13	-21
+Magy	P	2831	Winneauer	X756302-3	 	     Da (Obopebel)  Ga Lo 		524	ImDs	K6 V	-3	(620+3)	[5124]	B	9	36
+Magy	P	2836	Motao	C662400-6	 	      Ni 		600	SoCf	G3 V	-2	(731-1)	[4259]	B	13	-21
+Magy	P	2837	Derjoulian	X674304-3	 	     Lo 		512	SoCf	K8 V M6 V	-3	(320+1)	[2162]	B	7	6
+Magy	P	2839	Tatsuya	X421000-B	 	    O:3040 Tz  Di He Po 		004	SoCf	M0 V	-1	(800+2)	[0000]	B	8	16
+Magy	D	2901	Sweet	X68986E-3	 	    Pz  Ph Ri (NIL)	B	203	ImDs	M0 V M7 V	-1	(A78+1)	[5754]	BCe	10	560
+Magy	D	2903	Gadarur	X7558AE-9	 	    Pz  Ga Pa Ph (NIL)		612	ImDs	K0 V	-1	(D75-3)	[676A]	Bce	6	-1365
+Magy	D	2904	Anise	X841876-6	 	      Ho Tz  He Ph Pi Po (NIL)	B	514	ImDs	K4 V	-2	(B74-3)	[A62B]	BDe	8	-924
+Magy	D	2905	Bilox	X544430-4	 	    Co Sa  Ni Pa 		603	ImDs	K9 V	-3	(730-4)	[1125]	Bc	12	-84
+Magy	D	2906	Garner's Luck	X622000-6	 	     Tz  Di He Na Pi Po (NIL)		000	ImDs	M0 V M0 V	-3	(900+1)	[0000]	BD	9	9
+Magy	D	2908	Kleug	X88A433-1	 	     Ni Wa 	B	402	ImDs	K5 V	-3	(631+1)	[8173]	B	5	18
+Magy	D	2910	Waldrin	X6A7000-9	 	    Pz Fr  Di Fl (ENIL)		004	ImDs	M0 V	-2	(E00+1)	[0000]	B	7	14
+Magy	H	2912	Gyurenek	X778411-2	 	    An Co  Ni Pa 	B	302	ImDs	M2 V M3 V	-3	(630+1)	[3162]	Bc	8	18
+Magy	H	2913	Ramli	X7B5000-A	 	    Tz  Di Fl 		015	ImDs	M2 V M6 V	-1	(900+1)	[0000]	B	11	9
+Magy	H	2914	Brand	X541133-5	 	    O:3012  He Lo Po 		922	ImDs	K4 V	-3	(500-3)	[1135]	B	7	-15
+Magy	H	2915	Norkio	E67578C-8	 	     Co Tu  Ag Pi (NIL)	B	314	ImDs	K8 V	-1	(E64+1)	[7688]	BCD	8	336
+Magy	H	2917	Parperides	E765256-7	 	    Ho Tr  Ga Lo 		404	ImDs	F7 V G5 V	-3	(510+1)	[6144]	B	14	5
+Magy	L	2923	Asorret	X403000-B	 	      Co   Di Ic Va Na Pi 		003	ImDs	F4 V	-1	(D00-1)	[0000]	BD	9	-13
+Magy	L	2924	Leikung	D798568-3	 	    RsA  Ag Ni 	B	303	ImDs	G7 V	-2	(743+2)	[4321]	BC	12	168
+Magy	L	2927	Union	E974134-8	 	      Lo (NIL)		804	ImDs	K6 V M3 V	-3	(G00+3)	[117A]	B	15	48
+Magy	P	2932	Bouzouba	E586358-8	 	    Rs Co  Lo 		514	SoCf	M1 V	-3	(920-2)	[615A]	B	16	-36
+Magy	P	2933	Pacific	X56876A-6	 	      Dolp2  Ag Ri (NIL)		502	SoCf	G2 V	0	(96C+4)	[6732]	BC	14	2592
+Magy	P	2934	Aclavik	E559745-7	 	      (NIL)		622	SoCf	K2 V	-2	(968-2)	[45A8]	B	8	-864
+Magy	P	2936	Pardini	D754414-7	 	     Ni Pa 		513	SoCf	K5 V M1 V	-3	(630+1)	[5175]	Bc	13	18
+Magy	P	2937	Berardsly	X656553-3	 	     Ag Ga Ni 	B	204	SoCf	G0 V M2 V	-2	(744+2)	[8366]	BC	13	224
+Magy	P	2939	Hesselgrave	EA98622-8	 	     Ag Ni 	B	504	SoCf	K1 V	-2	(C50+2)	[743C]	BC	15	120
+Magy	P	2940	Gursky	X738000-B	 	    Ho Tz  Di (NIL)		012	SoCf	K1 V M2 V	-1	(D00+2)	[0000]	B	6	26
+Magy	D	3002	Reid	X7B8000-A	 	    Da Fr  Di Fl 		003	ImDs	M2 V M3 V	-1	(900+1)	[0000]	B	7	9
+Magy	D	3006	Asrow	X598584-4	 	    Fo  Ag Ni 		402	ImDs	G3 V	-2	(742+1)	[7371]	BC	8	56
+Magy	D	3009	Robidou	X532000-8	 	    Tz  Di Px Po 		021	ImDs	M2 V	-3	(A00-1)	[0000]	B	9	-10
+Magy	H	3012	Kline	X642000-E	 	      Co Tz  Di He In Po (NIL)		004	ImDs	M0 V M1 V	0	(F00+3)	[0000]	BE	10	45
+Magy	H	3014	Gupta	X422000-7	 	     Di He Po 		002	ImDs	F5 V	-3	(400-2)	[0000]	B	10	-8
+Magy	H	3019	Amelbar	X6A4000-9	 	   Fr  Di Fl (ENIL)		013	ImDs	M1 V	-2	(D00-5)	[0000]	B	10	-65
+Magy	H	3020	Einkamp	X86489B-4	 	     Pz UApe1  Pa Ri Ph (NIL)	B	925	ImDs	F4 V	-1	(A7A+1)	[7767]	BcCe	11	700
+Magy	L	3029	Clarmeer	X562411-6	 	     Ni 		514	ImDs	K1 V M1 V	-3	(632-2)	[2139]	B	10	-72
+Magy	L	3030	Pocatlipcat	X430000-8	 	     Ho  De Di Na Po (NIL)		003	ImDs	F8 V K4 V	-3	(D00+2)	[0000]	B	9	26
+Magy	P	3031	Chouli	XAE8000-A	 	    Co  Di 		000	SoCf	G0 V	-1	(600-1)	[0000]	B	10	-6
+Magy	P	3036	Hessoun	X7B8000-9	 	   Co Tz  Di Fl (ENIL)		020	SoCf	M2 V	-2	(B00+1)	[0000]	B	10	11
+Magy	P	3037	Wongxia	X765101-3	 	    Co Tu  Ga Lo 	B	904	SoCf	M1 V M5 V	-3	(500+5)	[3161]	B	15	25
+Magy	P	3040	Blackhawk	X6A5000-D	 	    Ho  Di Fl 		024	SoCf	F4 V K7 V	-1	(E00+1)	[0000]	B	12	14
+Magy	D	3101	Scoggan	X720000-7	 	      De He Di Po 		002	ImDs	F6 V	-3	(500+1)	[0000]	B	9	5
+Magy	D	3104	Pungitore	X421000-9	 	    An Tz  Di He Po 		001	ImDs	M2 V M2 V	-2	(700-2)	[0000]	B	8	-14
+Magy	D	3109	Stansifer	X000000-C	 	      As Va Di Na 		001	ImDs	A0 V	-1	(900-1)	[0000]	B	11	-9
+Magy	H	3113	Curson	X580126-4	 	     De Lo 		613	ImDs	G2 V	-3	(500+1)	[21A3]	B	10	5
+Magy	H	3114	Melody	X557842-6	 	    Pz Co  Pa Ph (NIL)	B	510	ImDs	G2 V	-2	(A78+4)	[9689]	Bce	8	2240
+Magy	H	3118	Skyhaven	X58856A-3	 	      Ag Pr Ni 		302	ImDs	G1 V	-2	(741+4)	[43A3]	BcC	11	112
+Magy	L	3123	Gjerdingen	X575886-4	 	     Fo  Pa Pi Ph (NIL)	B	713	ImDs	K5 V M2 V	-2	(A74-2)	[4641]	BcDe	11	-560
+Magy	L	3125	Onewen	X310000-8	 	    Da Sa  Di Na 		002	ImDs	M0 V	-3	(A00+1)	[0000]	B	7	10
+Magy	L	3128	Beta	E576732-6	 	     Pz  Ag Pi (NIL)		703	ImDs	G7 V M1 V	-1	(C66+4)	[5644]	BCD	8	1728
+Magy	L	3129	Beagle	X766343-6	 	     Ga Lo (NIL)		800	ImDs	F5 V	-3	(C20-3)	[4177]	B	10	-72
+Magy	P	3135	Strom	X432000-8	 	     Ho  Di Na Po 		004	SoCf	G6 V K9 V	-3	(C00+2)	[0000]	B	10	24
+Magy	D	3206	Gustin	X779453-4	 	    Da  Ni 	B	223	ImDs	G7 V	-3	(630+1)	[71A7]	B	11	18
+Magy	D	3208	Firels	XDAA000-C	 	    O:Solo-0110 Co Tz  Di Fl 		004	ImDs	M3 V M7 V	-1	(900-3)	[0000]	B	9	-27
+Magy	D	3210	Typoer	X64287B-3	 	     Fo  He Ph Pi Po (NIL)	B	703	ImDs	K0 V	-2	(A76-2)	[8663]	BDe	11	-840
+Magy	H	3212	Sterchi	D697622-9	 	    Da Droy5   Ag Ni 		303	ImDs	G4 V	-1	(B54+3)	[6569]	BC	8	660
+Magy	H	3213	Rouern	E556978-1	 	     Pz  Hi (NIL)	B	124	ImDs	M1 V	-1	(A84+1)	[8873]	BE	10	320
+Magy	H	3214	Kanamsa	D577230-9	 	     Lo 		704	ImDs	G1 V G4 V	-2	(910+1)	[512C]	B	7	9
+Magy	H	3219	Vallance	X6B4000-E	 	   Da Tz  Di Fl Px 		033	ImDs	M0 V M4 V	-1	(D00-3)	[0000]	B	10	-39
+Magy	H	3220	Gikir	X6A7000-9	 	    Pz Tz  Di Fl (ENIL)		021	ImDs	M2 V	-2	(D00-3)	[0000]	B	12	-39
+Magy	L	3222	Montlivan	X688356-4	 	     Da Ho  Lo 		325	ImDs	F6 V	-3	(620+2)	[3162]	B	10	24
+Magy	L	3223	Zongwu	X433000-B	 	     Fr Lk  Di Na Po 		013	ImDs	M0 V M7 V	-1	(C00+2)	[0000]	B	12	24
+Magy	L	3224	Dirramu	E894422-4	 	    Co Tu  Ni Pa 		503	ImDs	K9 V	-3	(733+1)	[5151]	Bc	12	63
+Magy	L	3227	Ersgill	X6A7000-C	 	    Co Tz  Di Fl 		023	ImDs	M0 V	-1	(C00+1)	[0000]	B	14	12
+Magy	L	3230	Hemoth	X641433-6	 	     He Ni Po 	B	202	ImDs	K9 V	-3	(631+3)	[9157]	B	9	54
+Magy	P	3231	Mogeen	X435000-E	 	     Di 		013	ImDs	G8 V	-1	(B00-2)	[0000]	B	13	-22
+Magy	P	3234	Phua	X430000-6	 	    Fo Tz  De Di Po 		015	SoCf	M2 V	-3	(500+1)	[0000]	B	14	5
+Magy	P	3235	Aija	X435000-9	 	    Tz  Di 		022	SoCf	M0 V	-2	(B00+1)	[0000]	B	14	11
+Magy	P	3237	Cammon	X886323-7	 	    Ho Tr  Ga Lo 		802	SoCf	G1 V K8 V	-3	(420+4)	[2145]	B	12	32
+Magy	P	3239	Yukikyu	X430000-C	 	     Pz Ho  De Di Na Po (NIL)		003	SoCf	G8 V	-1	(D00+4)	[0000]	B	14	52

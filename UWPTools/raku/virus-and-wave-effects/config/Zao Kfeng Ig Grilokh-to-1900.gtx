@@ -1,0 +1,12 @@
+location {
+	y   -4 
+	x   -2
+}
+
+default {
+	order 	virus wave vargr
+}
+
+source {
+	path  /Users/rje/git/travellermap/res/t5ss/data/Zao Kfeng Ig Grilokh.tab 
+}

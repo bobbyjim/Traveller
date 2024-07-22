@@ -1,0 +1,401 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+Solo	A	0105	Faiwyd	X500000-7	 	    Da  Di Va 		012	ImDs	M0 V M2 V	-3	(700-3)	[0000]	B	9	-21
+Solo	A	0106	Darrukesh	X58596A-5	 	    Pz  Hi Pr (NIL)	B	723	ImDs	M0 V M4 V M0 V	-1	(B83+3)	[B866]	BcE	11	792
+Solo	A	0110	Iddamakur	C779521-7	 	     Pz la0  Ni (NIL)		203	ImDs	M0 V M1 V	-2	(B40+4)	[6388]	B	11	176
+Solo	E	0111	Grendel	X96A431-0	 	    An   Ni Wa (NIL)	B	302	ImDs	F4 V M2 V	-3	(B30+4)	[3191]	B	10	132
+Solo	E	0116	Purdishi	X611000-8	 	    O:0215  Di Ic 		034	ImDs	M1 V	-3	(A00-1)	[0000]	B	10	-10
+Solo	I	0121	Oz	X553897-2	 	    Sa  Ph Po (NIL)	B	813	ImDs	M3 V M4 V	-2	(A75-3)	[D621]	Be	8	-1050
+Solo	I	0123	Jarslav	C887968-A	 	     Ga Hi Pr (NIL)	B	823	ImDs	F8 V	2	(G86+1)	[7B7A]	BcE	12	768
+Solo	I	0125	Kishakhpap	X410000-0	 	    Fo  Ba 		004	ImDs	F9 V	-3	(200-3)	[0000]	B	8	-6
+Solo	I	0126	Beal	X55776A-3	 	    Pz  Ag (NIL)	B	122	ImDs	M1 V M8 V	-1	(961+1)	[6655]	BC	7	54
+Solo	M	0136	Swinburne	X722000-9	 	      Di He Na Po 		000	SoCf	M0 V M2 V	-2	(800+4)	[0000]	B	11	32
+Solo	M	0138	Erech	E844535-6	 	     Ag Ni 	B	210	SoCf	M1 V	-2	(740+1)	[3373]	BC	8	28
+Solo	A	0207	Basil	X843769-3	 	      Pi Po (NIL)	B	234	ImDs	K5 V	-2	(966+2)	[4561]	BD	10	648
+Solo	E	0214	Shululsish	X584000-1	 	      Di (NIL)		004	ImDs	F8 V	-3	(C00+1)	[0000]	B	13	12
+Solo	E	0215	Desdemona	X769995-5	 	    Pz  Hi Pr (NIL)	B	203	ImDs	G8 V M8 V	-1	(B85-2)	[8853]	BcE	16	-880
+Solo	E	0217	Sarmaty	X88986D-5	 	    la1  Ph Ri (NIL)	B	303	ImDs	M1 V	-1	(A73+1)	[A771]	BCe	6	210
+Solo	I	0224	Shaalgar	C666779-7	 	       Ag Ri Ga (NIL)		100	ImDs	M2 V M7 V	1	(969-1)	[4877]	BC	10	-486
+Solo	I	0226	Limerick	X579669-5	 	     Ni 	B	904	ImDs	K2 V	-3	(853-1)	[4336]	B	9	-120
+Solo	I	0230	Alizarin	X56696A-2	 	     Hi Pr (NIL)	B	700	SoCf	M1 V M8 V	-1	(B87+1)	[D896]	BcE	6	616
+Solo	M	0231	Luzon	X420000-7	 	      De He Di Po 		035	SoCf	G9 V	-3	(600+2)	[0000]	B	19	12
+Solo	M	0233	Jardin	X56796F-4	 	     Pz  Hi Pr (NIL)	B	602	SoCf	M3 V	-1	(B86+5)	[9865]	BcE	14	2640
+Solo	M	0237	Theseus	X7A3000-B	 	    Di Fl (ENIL)		003	SoCf	M2 V M3 V	-1	(C00+2)	[0000]	B	11	24
+Solo	M	0239	Barsoom	X554577-9	 	   Pz  Ag Ni (NIL)		202	SoCf	M1 V	-1	(D44-2)	[9436]	BC	10	-416
+Solo	M	0240	Gladstone	C9677BE-B	 	      Ag Ri (NIL)		410	SoCf	M3 V	3	(A67-3)	[AA3C]	BC	10	-1260
+Solo	A	0301	Amkhalarug	X54356C-4	 	     Pz  Ni Po (NIL)	B	304	ImDs	F7 V M3 V	-3	(B40+2)	[1212]	B	8	88
+Solo	A	0304	Atalanta	X576121-2	 	    Da   Lo 		503	ImDs	M1 V M6 V	-3	(500-3)	[2132]	B	6	-15
+Solo	A	0308	Sidon	X6B9000-C	 	     Di Fl 		003	ImDs	K4 V	-1	(A00+1)	[0000]	B	14	10
+Solo	E	0313	Hayt	X421000-E	 	      Pz  Di He Na In Po (NIL)		010	ImDs	M2 V M6 V	0	(C00-1)	[0000]	BE	12	-12
+Solo	E	0316	Finnegans	E57957B-8	 	     Ni 		220	ImDs	G1 V M8 V	-3	(941-4)	[9276]	B	13	-144
+Solo	E	0317	Bemidshii	X56796A-6	 	     Hi Pr (NIL)	B	112	ImDs	G9 V M6 V	-1	(B87+2)	[8838]	BcE	16	1232
+Solo	E	0319	Seym	X100000-C	 	     Pz  Di Na In Va 		023	ImDs	M3 V M9 V	0	(G00-1)	[0000]	BE	12	-16
+Solo	I	0326	Eneldun	X314000-E	 	     Di Ic In 		020	ImDs	M1 V	0	(D00-1)	[0000]	BE	10	-13
+Solo	I	0330	Krypton	X9A4000-D	 	    Pz  Di Fl In (ENIL)		014	SoCf	F8 V	0	(G00+1)	[0000]	BE	13	16
+Solo	M	0331	Liberte	X100000-C	 	     Sa  Di Na Pi Va 		002	SoCf	M1 V	-1	(C00-5)	[0000]	BD	10	-60
+Solo	M	0332	Pilgham	X542200-5	 	     O:0233  He Lo Po (NIL)		512	SoCf	G0 V	-3	(B10+5)	[2154]	B	13	55
+Solo	M	0335	Miasma	X678475-2	 	     Ni Pa 	B	624	SoCf	M2 V M9 V	-3	(730+2)	[3161]	Bc	12	42
+Solo	A	0405	Gramercy	X430000-8	 	     De Di Po 		000	ImDs	F6 V	-3	(700+3)	[0000]	B	9	21
+Solo	A	0407	Urud	X100000-E	 	    Sa  Di Va 		002	ImDs	M1 V	-1	(900-3)	[0000]	B	11	-27
+Solo	E	0411	Diomedes	B87777B-6	 	      Ag Pi (NIL)	B	700	ImDs	F4 V	1	(963+2)	[8872]	BCD	12	324
+Solo	I	0424	Gustav	D798556-7	 	     Ag Ni 		403	ImDs	K4 V M2 V	-2	(744+5)	[7346]	BC	15	560
+Solo	I	0426	Eyck	X430000-C	 	      De Di Na Po (NIL)		002	ImDs	F2 III M0 V	-1	(C00+1)	[0000]	B	12	12
+Solo	M	0432	Kraken	X57A589-3	 	     Ni Wa 		535	SoCf	M1 V M2 V	-3	(740-1)	[4252]	B	14	-28
+Solo	M	0434	Durgha	X612000-D	 	     Di Ic 		005	SoCf	F8 IV M0 V	-1	(B00-2)	[0000]	B	13	-22
+Solo	M	0437	Dolor	X311000-C	 	     Sa  Di Ic Na Pi 		034	SoCf	M1 V M4 V	-1	(H00-1)	[0000]	BD	15	-17
+Solo	M	0438	Zhongguo	X544733-6	 	      Ag (NIL)		123	SoCf	K8 V	-1	(966+1)	[6648]	BC	14	324
+Solo	M	0440	Ormadz	X300000-C	 	     Di Va 		013	SoCf	M0 V M3 V	-1	(B00+2)	[0000]	B	7	22
+Solo	A	0501	Morgana	XA9A200-0	 	     Guru4 O:0502  Lo Oc (NIL)	B	523	ImDs	M2 V	-3	(A10-2)	[1151]	B	8	-20
+Solo	A	0502	Ugarup	X89A000-C	 	    Pz (Gurungan) Huma0 Tz  Di Pi Wa (NIL)		002	ImDs	M1 V	-1	(C00+1)	[0000]	BD	8	12
+Solo	A	0509	Ixtloc	X530000-C	 	     De Di Po 		000	ImDs	K4 V M6 V	-1	(600+1)	[0000]	B	13	6
+Solo	E	0511	Yrsai	X66366D-4	 	   Pz  Ni Ri (NIL)		302	ImDs	G0 V M5 V	-2	(C50+1)	[8462]	BC	10	60
+Solo	E	0518	Arukhur	X200000-9	 	    O:0617  Di Va 		022	ImDs	M3 V	-2	(900+1)	[0000]	B	7	9
+Solo	I	0524	Irashdaa	X689896-6	 	    Dolp0  Tz  Ph Ri (NIL)	B	513	ImDs	M2 V M8 V	-1	(A76+4)	[6756]	BCe	14	1680
+Solo	I	0527	Basse Terre	X669977-5	 	    Pz  Hi Pr (NIL)	B	723	ImDs	K6 V M0 V	-1	(B85+4)	[6847]	BcE	16	1760
+Solo	I	0528	Kidashi	X55776C-4	 	    Pz  Lk Sa  Ag (NIL)	B	724	ImDs	M2 V	-1	(C66+4)	[7664]	BC	11	1728
+Solo	M	0532	Cadmus	X532000-A	 	     Di Po 		022	SoCf	K8 V M7 V	-1	(A00+2)	[0000]	B	13	20
+Solo	M	0533	Skyron	X312000-C	 	    Sa  Di Ic 		002	SoCf	M1 V M8 V	-1	(800-5)	[0000]	B	11	-40
+Solo	M	0536	Chinon	X69686C-5	 	      Pa Pi Ph (NIL)	B	422	SoCf	M1 V M7 V	-2	(A77+3)	[9662]	BcDe	11	1470
+Solo	A	0604	Rilke	X59A374-6	 	    O:0704  Lo Wa 		220	ImDs	G3 V	-3	(520-2)	[11A7]	B	13	-20
+Solo	A	0606	Ishadar	X000000-A	 	      As Va Di Na Pi 		025	ImDs	K0 III M4 V	-1	(G00-1)	[0000]	BD	11	-16
+Solo	A	0609	Goshen	X57756E-3	 	     Ag Ni 		200	ImDs	M1 V M3 V	-2	(740+1)	[3344]	BC	9	28
+Solo	A	0610	Nukaash	E547734-7	 	      Ag Pi (NIL)		420	ImDs	M1 V M5 V	-1	(965+1)	[8628]	BCD	11	270
+Solo	E	0612	Glaucas	X886966-6	 	     Ga Hi Pr (NIL)	B	432	ImDs	K2 V M9 V M2 V	-1	(B88-3)	[9816]	BcE	13	-2112
+Solo	E	0617	Hoatzin	X967969-1	 	     Hi Pr (NIL)	B	334	ImDs	F4 V	-1	(B89-2)	[C811]	BcE	13	-1584
+Solo	E	0618	Stralsund	X000000-D	 	     Pz  As Va Di Na Pi 		020	ImDs	A7 V	-1	(B00+2)	[0000]	BD	12	22
+Solo	I	0624	York	X8A3000-A	 	    O:0524  Di Fl 		023	ImDs	F6 V	-1	(900+1)	[0000]	B	15	9
+Solo	I	0626	Albrecht	X742000-A	 	     Di He Pi Po (NIL)		003	ImDs	G3 V M9 V	-1	(C00+1)	[0000]	BD	8	12
+Solo	I	0628	Bajavanang	X5898A9-7	 	    Pz  Ph Ri (NIL)		405	ImDs	M0 V M9 V	-1	(A76-3)	[6716]	BCe	15	-1260
+Solo	M	0632	Sionnach	X533000-A	 	    O:0330  Di Px Po 		012	SoCf	F6 V M1 V	-1	(800-5)	[0000]	B	13	-40
+Solo	M	0637	Nonsuch	X434000-B	 	     Di 		000	SoCf	M1 V M5 V	-1	(400-2)	[0000]	B	8	-8
+Solo	M	0639	Ptolemy	X54365A-4	 	     Ni Po 	B	814	SoCf	M0 V M1 V	-3	(852+1)	[4335]	B	12	80
+Solo	M	0640	Arisia	X57A532-7	 	    O:0239  Ni Wa 		315	SoCf	M2 V	-3	(743+3)	[9256]	B	9	252
+Solo	A	0701	Obrichenny	X64356A-3	 	     Ni Po 		505	ImDs	F5 IV	-3	(840-2)	[8251]	B	11	-64
+Solo	A	0703	Kropotkin	E544633-8	 	     Ag Ni 		320	ImDs	M1 V	-2	(A54-3)	[8478]	BC	14	-600
+Solo	A	0704	Thamber	X554876-7	 	      Pa Ph (NIL)		612	ImDs	F6 V	-2	(A75+4)	[765C]	Bce	13	1400
+Solo	A	0706	Athene	X6B9000-9	 	     Di Fl 		025	ImDs	M0 V M7 V	-2	(A00+1)	[0000]	B	11	10
+Solo	E	0713	Omsk	X511000-A	 	     Di Ic 		003	ImDs	M0 V	-1	(A00-2)	[0000]	B	12	-20
+Solo	E	0717	Furioso	X9C5000-D	 	   O:0617  Cy Di Fl (ENIL)		013	ImDs	M0 V	-1	(D00+4)	[0000]	B	15	52
+Solo	E	0718	Ippuraash	X200000-A	 	     Di Na Va 		014	ImDs	K0 IV	-1	(D00+1)	[0000]	B	13	13
+Solo	E	0719	Weipu	X543000-0	 	    Fo  Ba Po 		002	ImDs	K8 V M8 V	-3	(200+1)	[0000]	B	7	2
+Solo	E	0720	Thars	X7A7000-B	 	    Di Fl (ENIL)		014	ImDs	M0 V	-1	(E00+3)	[0000]	B	12	42
+Solo	I	0721	Akhamin	X6627AC-7	 	    O:0722  Ri (NIL)		603	ImDs	M0 V M1 V	-1	(962+1)	[466A]	BC	11	108
+Solo	I	0722	Gaea	X98696A-0	 	      Hi Pr (NIL)	B	103	ImDs	K1 V	-1	(B83-1)	[8811]	BcE	11	-264
+Solo	I	0723	Tonopah	X866A77-9	 	    Pz la0  Ga Hi (NIL)		423	ImDs	F5 V	0	(H97-2)	[9A79]	BE	9	-2142
+Solo	I	0726	Halo	X000000-B	 	      As Va Di Na 		035	ImDs	F0 II	-1	(G00+4)	[0000]	B	12	64
+Solo	I	0729	Edaazun	X56A843-6	 	      Ph Ri Wa (NIL)		620	ImDs	K5 V M4 V	-1	(B73+1)	[7755]	BCe	6	231
+Solo	A	0807	Leonore	X310000-B	 	    Sa  Di 		012	ImDs	M2 V	-1	(A00+1)	[0000]	B	14	10
+Solo	A	0809	Azun	X576454-0	 	    Pz  Ni Pa (NIL)		510	ImDs	M2 V	-3	(C32-2)	[1121]	Bc	11	-144
+Solo	E	0814	Upirzanu	X9B5000-E	 	    Di Fl (ENIL)		024	ImDs	M2 V	-1	(F00-5)	[0000]	B	9	-75
+Solo	I	0822	Colmar	X427000-B	 	    Sa  Di Pi (NIL)		002	ImDs	F2 V M4 V	-1	(C00+4)	[0000]	BD	12	48
+Solo	I	0823	Shiranshar	XAA5000-D	 	    Da  Di Fl 		014	ImDs	M1 V M5 V	-1	(B00+3)	[0000]	B	11	33
+Solo	I	0824	Ranulf	X642000-C	 	     Pz  Di He In Po (NIL)		001	ImDs	G1 V M2 V	0	(C00+1)	[0000]	BE	12	12
+Solo	I	0825	Duriim	X588000-C	 	     Di (NIL)		000	ImDs	A2 V M9 V	-1	(C00-2)	[0000]	B	12	-24
+Solo	I	0826	Munilgan	X554321-4	 	    Pz  Lo (NIL)	B	122	ImDs	K2 V M3 V	-3	(B20+2)	[1152]	B	15	44
+Solo	M	0832	Wallach	E578475-4	 	     Ni Pa 	B	404	SoCf	M0 V	-3	(632-3)	[7198]	Bc	10	-108
+Solo	M	0833	Thalassa	X58A202-2	 	     Lo Wa (NIL)		710	SoCf	M1 V	-3	(910+1)	[6124]	B	12	9
+Solo	M	0835	Odysseus	X659830-4	 	    Pz  Ph (NIL)	B	502	SoCf	M2 V M6 V	-2	(A76+2)	[B613]	Be	8	840
+Solo	B	0902	Porlock	X433000-9	 	      Di Na Po (NIL)		013	ImDs	M3 V M8 V	-2	(E00+2)	[0000]	B	10	28
+Solo	B	0903	Bethe	X422000-A	 	      Di He Na Px Po 		012	ImDs	M0 V M6 V	-1	(B00+1)	[0000]	B	14	11
+Solo	B	0907	Llewellyn	X200000-D	 	    RsD Sa  Di Va 		022	ImDs	M3 V M8 V	-1	(B00+1)	[0000]	B	10	11
+Solo	B	0909	Ganelon	X430000-9	 	     De Di Po 		012	ImDs	M1 V	-2	(700-3)	[0000]	B	6	-21
+Solo	B	0910	Poseidon	X8AA000-A	 	    O:0809  Di Fl 		022	ImDs	M3 V	-1	(700+1)	[0000]	B	7	7
+Solo	F	0912	Fafhrd	X621000-7	 	     O:1011  Di He Na Pi Po (NIL)		005	ImDs	K5 V	-3	(900+2)	[0000]	BD	8	18
+Solo	F	0913	Kitchener	XAC8000-B	 	     Di Fl 		022	ImDs	F7 V M1 V	-1	(C00+2)	[0000]	B	12	24
+Solo	F	0914	Alphanor	X98886C-2	 	     Pa Ri Ph (NIL)	B	821	ImDs	K2 V	-1	(B75-2)	[5742]	BcCe	12	-770
+Solo	F	0918	Lompoc	E544654-8	 	     Ag Ni 	B	510	ImDs	M3 V M5 V	-2	(954+5)	[742D]	BC	12	900
+Solo	F	0919	Cuchulain	XA56127-5	 	    Pz  Lo (NIL)	B	923	ImDs	G9 V	-3	(B00+1)	[1116]	B	13	11
+Solo	J	0921	Oudh	X541650-9	 	      He Ni Po 		722	ImDs	G1 V	-2	(C53-4)	[8457]	B	15	-720
+Solo	J	0922	Ishmael	X432000-B	 	     Di Po 		023	ImDs	M1 V	-1	(A00+2)	[0000]	B	9	20
+Solo	J	0923	Sebasta	X666203-2	 	    Pz  Ga Lo (NIL)	B	220	ImDs	F4 IV	-3	(C10+1)	[3181]	B	14	12
+Solo	J	0924	Alsatia	X532000-8	 	    O:0923  Di Po 		020	ImDs	M1 V M9 V	-3	(500-1)	[0000]	B	10	-5
+Solo	J	0926	Ishumled	E57765A-8	 	     Ag Ni 		311	ImDs	M1 V	-2	(A52+3)	[344B]	BC	8	300
+Solo	J	0929	Langelos	X424000-F	 	     Di In (NIL)		005	ImDs	A6 V	0	(G00+1)	[0000]	BE	17	16
+Solo	N	0931	Yenisei	X313000-D	 	     Di Ic Na Pi 		010	SoCf	M1 V	-1	(A00-2)	[0000]	BD	12	-20
+Solo	N	0938	Cicero	X000000-9	 	     Pz  As Va Di Na Pi 		012	SoCf	K1 III	-2	(C00-2)	[0000]	BD	14	-24
+Solo	B	1002	Khedish	X55686B-5	 	    Pz  Pa Ph (NIL)		322	ImDs	M2 V M3 V	-2	(A77+1)	[8656]	Bce	7	490
+Solo	B	1007	Shaabipili	X55386B-5	 	     Ph Po (NIL)	B	814	ImDs	M0 V	-2	(A77-3)	[C613]	Be	10	-1470
+Solo	F	1011	Anacreon	X56287B-A	 	    Tz  Ph Ri (NIL)		213	ImDs	M2 V	1	(E76-2)	[D969]	BCe	7	-1176
+Solo	F	1020	Tisiphone	X624000-B	 	     Di Pi (NIL)		004	ImDs	F2 V M0 V	-1	(E00-2)	[0000]	BD	7	-28
+Solo	J	1022	Herakles	X535000-B	 	   Di Pz   (NIL)		011	ImDs	M2 V	-1	(B00+2)	[0000]	B	11	22
+Solo	J	1024	Fomalhaut	X8C8000-C	 	    Da   Di Fl 		002	ImDs	A3 V K5 V	-1	(800-1)	[0000]	B	13	-8
+Solo	J	1026	Khulampu	X9A7000-B	 	      Di Fl (ENIL)		022	ImDs	G6 V M7 V	-1	(E00+2)	[0000]	B	17	28
+Solo	N	1032	Chrysolite	B547867-7	 	    O:1034  Pa Pi Ph (NIL)		311	SoCf	G3 V	0	(B79+3)	[C868]	BcDe	14	2079
+Solo	N	1034	Twylo	X551000-E	 	      Di Po (NIL)		003	SoCf	A6 V	-1	(F00+1)	[0000]	B	10	15
+Solo	N	1035	Poictesme	X56886D-7	 	      Pa Ri Ph (NIL)	B	601	SoCf	M3 V	-1	(A77+2)	[5758]	BcCe	4	980
+Solo	B	1105	Coriolanus	X437000-E	 	    Sa  Di (NIL)		010	ImDs	M1 V M7 V	-1	(B00+1)	[0000]	B	11	11
+Solo	B	1107	Tammuz	X754130-0	 	     Lo (NIL)	B	323	ImDs	M1 V	-3	(B00-3)	[1161]	B	13	-33
+Solo	B	1110	Quaver	X311000-E	 	     Pz Sa  Di Ic Na Pi 		035	ImDs	F2 V	-1	(J00+1)	[0000]	BD	11	18
+Solo	F	1111	Dimmurak	X657331-0	 	     Ga Lo (NIL)		504	ImDs	M2 V	-3	(B20+1)	[1141]	B	12	22
+Solo	F	1116	Esperance	X56886A-2	 	     Pz Vega3  Pa Ri Ph (NIL)	B	411	ImDs	A6 V	-1	(A74+1)	[6761]	BcCe	8	280
+Solo	F	1117	Mashaddun	D994200-5	 	     Lo 		620	ImDs	G8 IV M3 V	-3	(410-1)	[1145]	B	11	-4
+Solo	F	1119	Muan Irrzudh	X66A76A-4	 	    VegaW  Ri Wa (NIL)	B	700	ImVd	K6 V M0 V	-1	(966+5)	[6652]	BC	9	1620
+Solo	F	1120	Hsuishlesh	X644885-4	 	    Vega9  Pa Pi Ph (NIL)	B	223	ImVd	M3 V	-2	(B77+4)	[3675]	BcDe	9	2156
+Solo	J	1127	Gashidda	X56A450-4	 	     Pz   Ni Wa (NIL)	B	423	ImDs	G8 IV	-3	(B32-1)	[6191]	B	9	-66
+Solo	J	1129	Ishkur	C562222-8	 	      Lo (NIL)		613	ImDs	M1 V	-2	(F10+3)	[2148]	B	12	45
+Solo	N	1136	Tarsus	X78587B-7	 	     O:1035  Ga Pa Ri Ph (NIL)	B	803	SoBF	M2 V	-1	(A79-2)	[A744]	BcCe	13	-1260
+Solo	N	1137	Haddad	X57A000-0	 	    Fo  Ba Wa 		022	SoBF	M0 V	-3	(200+1)	[0000]	B	10	2
+Solo	N	1140	Labrys	X976630-5	 	    Fo (minor)  Ag Ni 	B	305	SoBF	M2 V M7 V	-2	(850+3)	[54A1]	BC	9	120
+Solo	B	1201	Akimasi	X8A5000-8	 	     Di Fl 		012	ImDs	F4 V M3 V	-3	(900+1)	[0000]	B	10	9
+Solo	B	1202	Sase	E54779A-8	 	      Ag Pi (NIL)		314	ImDs	M1 V	-1	(E66-2)	[8639]	BCD	9	-1008
+Solo	B	1205	Biggles	X436000-B	 	    O:1207  Di (NIL)		000	ImDs	K2 V	-1	(B00-1)	[0000]	B	13	-11
+Solo	B	1207	Ascalon	X562000-E	 	    Pz  Di (NIL)		023	ImDs	F6 V M3 V	-1	(H00+1)	[0000]	B	15	17
+Solo	F	1214	Boskone	X000000-A	 	     O:1116  As Va Di 		012	ImDs	K0 III	-1	(600+1)	[0000]	B	12	6
+Solo	F	1216	Ludmilla	X55686A-6	 	    Pz Vega2  Pa Ph (NIL)		213	ImDs	F9 V	-2	(A75-5)	[7664]	Bce	12	-1750
+Solo	F	1218	Tunshaon Tyo	X554403-5	 	   VegaW  Ni Pa (NIL)		312	ImVd	M1 V	-3	(B30+1)	[8144]	Bc	13	33
+Solo	F	1219	Umieh	X100000-D	 	     VegaW Sa  Di Na Pi Va 		022	ImVd	M2 V	-1	(E00+4)	[0000]	BD	13	56
+Solo	J	1222	Dingir	XA89233-2	 	      Lo (NIL)		605	ImDs	K3 V K5 V M2 V	-3	(C10+3)	[5151]	B	13	36
+Solo	J	1224	Kinunir	X532000-B	 	     Di Na Po (NIL)		005	ImDs	M3 V	-1	(E00-2)	[0000]	B	9	-28
+Solo	N	1234	Luuru	X9B7000-C	 	    Di Fl (ENIL)		020	SoCf	M1 V D	-1	(B00-4)	[0000]	B	7	-44
+Solo	N	1237	Aeneas	X438000-9	 	     Di 		033	SoBF	M1 V	-2	(E00-1)	[0000]	B	13	-14
+Solo	N	1239	Hibernia	D647331-4	 	    O:1339  Lo 		914	SoBF	G4 V	-3	(520+3)	[1117]	B	11	30
+Solo	B	1304	Vanefa	X56396D-0	 	     Hi Pr (NIL)	B	312	ImDs	M1 V	-1	(B8B+3)	[5881]	BcE	13	2904
+Solo	B	1306	Rimmon	X422000-0	 	    Fo  Ba He Po 		020	ImDs	G5 V	-3	(200+1)	[0000]	B	10	2
+Solo	F	1311	Boqueron	X000000-D	 	      Pz  As Va Di Na In 		011	ImDs	M3 V M7 V	0	(D00-1)	[0000]	BE	13	-13
+Solo	F	1316	Hieronymus	X530000-6	 	     Fo  De Di Na Po 		013	ImDs	F0 IV K0 V	-3	(800-3)	[0000]	B	14	-24
+Solo	F	1318	Ahhunsal	X521000-8	 	    VegaW O:1218  Di He Po 		002	ImVd	M2 V	-3	(500-1)	[0000]	B	12	-5
+Solo	F	1320	Hsivyu	X433000-E	 	    Pz VegaW  Di Na Po (NIL)		020	ImVd	K0 IV	-1	(B00+1)	[0000]	B	12	11
+Solo	J	1324	Shulgi	X512000-C	 	      Di Ic Na Pi 		003	ImDs	M2 V M2 V	-1	(D00+1)	[0000]	BD	12	13
+Solo	J	1326	Shulgiili	X67A000-E	 	     Di In Wa (NIL)		002	ImDs	M0 V M4 V	0	(D00+5)	[0000]	BE	7	65
+Solo	J	1327	Enki Kalamma	X200000-B	 	    O:1326  Di Va 		013	ImDs	M1 V	-1	(900-2)	[0000]	B	14	-18
+Solo	N	1332	Mirabilis	X55396C-6	 	     Hi Po (NIL)		505	SoCf	G8 V	-1	(B83+1)	[7882]	BE	8	264
+Solo	N	1337	Sequoyah	B58796A-8	 	     Hi Pr (NIL)	B	502	SoBF	M0 V	1	(D89-4)	[EA6B]	BcE	10	-3744
+Solo	N	1339	Aegir	X76A448-2	 	      Ni Wa (NIL)	B	202	SoBF	M2 V	-3	(A30+2)	[6166]	B	5	60
+Solo	N	1340	Dirac	X522000-B	 	     Di He Po 		003	SoBF	M0 V	-1	(700+1)	[0000]	B	13	7
+Solo	B	1402	Gulimaru	X7A6000-9	 	   Pz  Di Fl (ENIL)		012	ImDs	M1 V	-2	(C00-1)	[0000]	B	15	-12
+Solo	B	1404	Esterhazy	X435000-B	 	     Di 		002	ImDs	M2 V	-1	(800+1)	[0000]	B	11	8
+Solo	B	1405	Azaremiid	C76617C-6	 	     Ga Lo (NIL)		312	ImDs	K9 V M1 V M8 V	-2	(C00-1)	[2127]	B	14	-12
+Solo	B	1406	Catseye	X422000-B	 	     Di He Px Po 		010	ImDs	M1 V	-1	(800-2)	[0000]	B	14	-16
+Solo	F	1417	Hokchor	D647554-3	 	    VegaW  Ag Ni 		502	ImVd	G0 IV M5 V M1 V	-2	(741-1)	[6332]	BC	12	-28
+Solo	F	1418	Muan Ialour	X55676D-4	 	     Pz VegaW  Ag (NIL)	B	912	ImVd	M1 V M2 V	-1	(A68+1)	[7631]	BC	12	480
+Solo	F	1419	Ninshien	C59A943-9	 	    VegaW  Hi In Wa (NIL)	B	924	ImVd	G9 V	2	(G88-1)	[AB9A]	BE	12	-1024
+Solo	J	1424	Karkhar	D67587A-8	 	      Pa Pi Ph (NIL)		113	ImDs	M0 V	-2	(D79+1)	[763B]	BcDe	12	819
+Solo	J	1427	Shuruppak	X000000-A	 	       As Va Di Na Pi 		033	ImDs	M0 V	-1	(F00-2)	[0000]	BD	10	-30
+Solo	J	1429	Iilike	X555669-4	 	     Ag Ni (NIL)		324	ImDs	G8 V	-2	(B53+1)	[6425]	BC	16	165
+Solo	N	1435	Teucer	X759969-3	 	    O:1537  Hi (NIL)	B	202	SoBF	M0 V	-1	(B85+1)	[9844]	BE	10	440
+Solo	N	1437	Saxe	X76376A-3	 	     Ri (NIL)	B	921	SoBF	K4 V	-1	(C6A+1)	[3665]	BC	10	720
+Solo	N	1439	Aquitaine	X88796B-7	 	     Ga Hi Pr (NIL)	B	205	SoBF	F9 IV	-1	(B89-1)	[9847]	BcE	12	-792
+Solo	N	1440	Capella	X000000-B	 	      As Va Di 		023	SoBF	G1 III G8 III M1 V M5 V	-1	(C00-1)	[0000]	B	9	-12
+Solo	B	1504	Suleiman	XA65277-4	 	      la1 Tz  Lo (NIL)	B	702	ImDs	M1 V	-3	(B10+1)	[6163]	B	12	11
+Solo	B	1505	Rossyg	X78576F-3	 	      Ag Ri Ga (NIL)	B	314	ImDs	M0 V M1 V	0	(965+1)	[9755]	BC	12	270
+Solo	B	1507	Ai Jabry	X76596C-7	 	    Pz  Ga Hi Pr (NIL)	B	920	ImDs	A9 V M8 V	-1	(B89+1)	[A868]	BcE	8	792
+Solo	B	1510	Imarir	X550357-2	 	     De Lo Po (NIL)		734	ImDs	M3 V	-3	(A20+1)	[4171]	B	11	20
+Solo	F	1511	Oort	X56386E-2	 	     Ph Ri (NIL)	B	624	ImDs	A1 V M8 V	-1	(A79+1)	[6761]	BCe	13	630
+Solo	F	1512	Ymir	X6A6000-D	 	   Pz  Di Fl (ENIL)		002	ImDs	M1 V	-1	(B00+1)	[0000]	B	14	11
+Solo	F	1515	Dzim Zhia Gwi	X556303-5	 	    VegaW  Lo (NIL)		700	ImVd	F8 V M0 V	-3	(C20+1)	[3145]	B	8	24
+Solo	F	1516	Ewmiak	X552248-0	 	    VegaW  Lo Po (NIL)		105	ImVd	F8 V	-3	(B10+3)	[1151]	B	8	33
+Solo	F	1517	Flanders	X755495-1	 	   Vega0  Ga Ni Pa (NIL)		402	ImVd	F7 V M0 V	-3	(C30-1)	[5152]	Bc	8	-36
+Solo	F	1519	Bellerophon	X88A86A-4	 	    Vega0  Ph Ri Wa (NIL)	B	133	ImVd	M1 V	-1	(B78+2)	[9762]	BCe	9	1232
+Solo	J	1522	Altair	X000000-0	 	     Fo  As Va Ba 		020	ImDs	A7 V	-3	(200-3)	[0000]	B	8	-6
+Solo	J	1523	Zaggisi	X79966E-0	 	     Pz  Ni (NIL)	B	201	ImDs	K0 V K4 V	-3	(B52+3)	[5331]	B	12	330
+Solo	J	1526	Meshan	X435000-E	 	    Pz  Di (NIL)		001	ImDs	K5 V D	-1	(C00+3)	[0000]	B	14	36
+Solo	J	1529	Markhashi	X301000-D	 	      Pz Sa  Di Ic Va Na Pi 		005	ImDs	M1 V M6 V	-1	(F00-4)	[0000]	BD	11	-60
+Solo	J	1530	Shulimik	X78396A-3	 	      Hi Pr (NIL)	B	402	ImDs	K2 V	-1	(B83-2)	[D856]	BcE	13	-528
+Solo	N	1533	Sarpedon	X312000-D	 	       Di Ic Na Pi 		001	ImDs	K1 V M4 V D	-1	(B00+1)	[0000]	BD	9	11
+Solo	N	1537	Polyphemus	X558000-4	 	    Tz  Di (NIL)		014	SoBF	M0 V M3 V M1 V	-3	(C00+5)	[0000]	B	11	60
+Solo	N	1538	Vantage	X8DA000-E	 	     Di Wa (NIL)		034	SoBF	M2 V	-1	(H00-2)	[0000]	B	16	-34
+Solo	N	1540	Vyborg	X75576D-3	 	     Ag Ga (NIL)	B	821	SoBF	M3 V M5 V	-1	(967-1)	[6633]	BC	10	-378
+Solo	B	1604	Dolfuss	X100000-E	 	     Di Va 		002	ImDs	G4 V	-1	(900+4)	[0000]	B	9	36
+Solo	B	1607	Madder	X532000-8	 	     Di Po 		002	ImDs	K0 V	-3	(800+1)	[0000]	B	14	8
+Solo	B	1609	Okefenokee	X437000-A	 	    Pz O:1710  Di (NIL)		025	ImDs	K7 V	-1	(H00-1)	[0000]	B	10	-17
+Solo	F	1616	Orruiltan Tyui	X421000-C	 	     VegaW  Di He Na Px Po 		004	ImVd	F9 V	-1	(C00+1)	[0000]	B	7	12
+Solo	F	1619	Tyudhuar	D599732-3	 	    VegaW  Pi (NIL)	B	612	ImVd	G0 V	-2	(964+1)	[6564]	BD	7	216
+Solo	J	1622	Apishal	X633000-B	 	      Di Na Po 		024	ImDs	M3 V	-1	(E00+1)	[0000]	B	9	14
+Solo	J	1629	Sirius	X000000-E	 	     Pz   As Va Di Na Pi 		010	ImDs	A1 V D	-1	(A00+2)	[0000]	BD	4	20
+Solo	N	1636	Baraka	C556543-7	 	    Ag Ni (NIL)		314	SoBF	K6 V M0 V M6 V	-1	(B42-2)	[5443]	BC	13	-176
+Solo	N	1637	Krokinole	X311000-D	 	    Sa  Di Ic Na Pi 		013	SoBF	A6 V	-1	(D00+3)	[0000]	BD	11	39
+Solo	C	1705	Shazam	X411000-B	 	    O:1505  Di Ic 		011	ImDs	G0 V	-1	(600+3)	[0000]	B	12	18
+Solo	C	1707	Mekashish	C676669-4	 	    Da  Ag Ni 	B	222	ImDs	M2 V	-1	(854-1)	[3544]	BC	8	-160
+Solo	C	1710	Mudge	X563332-1	 	    Pz  Lo (NIL)		222	ImDs	G5 V	-3	(C20-1)	[1195]	B	14	-24
+Solo	G	1711	Kasaan	X785768-7	 	      Ag Ri Ga (NIL)	B	120	ImDs	G2 V M8 V	0	(968+2)	[873B]	BC	10	864
+Solo	G	1717	Muan Gwi	X556441-6	 	    (Vegans)  Ni Pa (NIL)		422	ImVd	F2 V	-3	(C30+5)	[4183]	Bc	17	180
+Solo	G	1718	Hsuilzish	X678744-5	 	     VegaW  Ag Pi (NIL)	B	705	ImVd	M1 V	-1	(965-3)	[667A]	BCD	17	-810
+Solo	G	1720	Gwathui	X000000-E	 	     VegaW  As Va Di Na Pi 		020	ImVd	A0 V	-1	(B00+1)	[0000]	BD	15	11
+Solo	O	1732	Ys	X84786E-5	 	     Pz   Pa Pi Ph (NIL)	B	520	ImDs	M3 V	-2	(A75+2)	[C6A8]	BcDe	15	700
+Solo	O	1736	Cameroon	X542300-7	 	     He Lo Po 		704	SoBF	M2 V	-3	(320-4)	[517B]	B	9	-24
+Solo	O	1738	Hamilcar	X56A769-5	 	      Pz Dolp1  Ri Wa (NIL)		413	SoBF	M1 V	-1	(B66+1)	[2685]	BC	11	396
+Solo	O	1739	Parsifal	X732000-B	 	      Di Na Po (NIL)		003	SoBF	K4 V M5 V M2 V	-1	(D00-1)	[0000]	B	9	-13
+Solo	O	1740	Aristotle	X56996C-3	 	     Hi Pr (NIL)	B	320	SoBF	M2 V	-1	(B83-5)	[7823]	BcE	9	-1320
+Solo	C	1802	Easter	XAE7000-F	 	    Pz Sa  Di (NIL)		003	ImDs	M3 V M7 V	-1	(E00+1)	[0000]	B	14	14
+Solo	C	1804	Yeremyh	X520000-D	 	      Pz  De He Di Na Pi Po (NIL)		003	ImDs	M2 V	-1	(C00-2)	[0000]	BD	12	-24
+Solo	G	1813	Wanish Tyo	X631000-D	 	     VegaW  Di Na Po (NIL)		002	ImVd	M2 V	-1	(C00+1)	[0000]	B	15	12
+Solo	G	1814	Tsamis	X54756F-3	 	    VegaW  Ag Ni (NIL)		213	ImVd	K1 V	-2	(B43+4)	[5335]	BC	15	528
+Solo	G	1816	Muan Issler	X554867-0	 	   VegaW  Pa Ph (NIL)	B	734	ImVd	M1 V	-2	(C78+3)	[6661]	Bce	15	2016
+Solo	G	1818	Ashtagz Tyui	E548742-5	 	     VegaW  Ag Pi (NIL)	B	903	ImVd	G5 IV M3 V M4 V	-1	(968+1)	[2655]	BCD	15	432
+Solo	K	1822	Nusku	X56996A-4	 	     Hi Pr (NIL)	B	214	ImDs	K5 V K7 V	-1	(B88+1)	[B852]	BcE	15	704
+Solo	K	1824	Agidda	X974989-6	 	     Hi In (NIL)	B	801	ImDs	M3 V	0	(B83+4)	[A927]	BE	9	1056
+Solo	K	1827	Terra	X86796A-3	 	   [Solomani] Dolp0   Ga Hi Pr (NIL)	B	814	ImDs	G2 V	-1	(C89-2)	[8843]	BcE	10	-1728
+Solo	K	1830	Fenris	XA98200-2	 	     Pz   Lo (NIL)	B	620	ImDs	F5 V D	-3	(B10-2)	[5111]	B	15	-22
+Solo	O	1833	Remulak	X974767-3	 	       Ag Pi (NIL)	B	412	ImDs	M2 V	-1	(961+5)	[6666]	BCD	12	270
+Solo	O	1836	Chernozem	XA85000-3	 	      Di (NIL)		003	SoBF	F6 V	-3	(B00-2)	[0000]	B	14	-22
+Solo	C	1901	Eshellim	X76A325-4	 	     Pz  Lo Wa (NIL)		812	ImDs	A5 V K9 V	-3	(A20+5)	[4162]	B	11	100
+Solo	C	1909	Aspidistra	X200000-E	 	     Pz  Di Na In Va 		022	ImDs	A5 III	0	(F00+1)	[0000]	BE	17	15
+Solo	C	1910	Nuugashur	X535000-D	 	     Di (NIL)		002	ImDs	M1 V	-1	(B00+1)	[0000]	B	12	11
+Solo	G	1911	Depot	X000000-F	 	     Da   As Va Di Na 		012	ImDs	A5 III K6 V	-1	(B00+1)	[0000]	B	9	11
+Solo	G	1912	Galishgu	X422000-C	 	     Pz Sa  Di He Na Pi Po (NIL)		023	ImDs	M3 V	-1	(E00-1)	[0000]	BD	8	-14
+Solo	G	1917	Asterr Tyui	X66696A-0	 	    VegaW RsG Tz  Ga Hi Pr (NIL)	B	613	ImVd	M2 V	-1	(B84-2)	[8853]	BcE	8	-704
+Solo	G	1919	Merganser	X94476D-1	 	     Vega0  Ag Pi (NIL)	B	600	ImVd	M3 V M3 V	-1	(961-3)	[8641]	BCD	8	-162
+Solo	K	1926	Barnard	X200000-C	 	       Di Na Pi Va 		034	ImDs	M4 V	-1	(H00+2)	[0000]	BD	10	34
+Solo	K	1929	Junction	D975855-6	 	     Pz   Pa Pi Ph (NIL)	B	302	ImDs	M6 V	-2	(A75-1)	[8676]	BcDe	10	-350
+Solo	O	1931	Hephaistos	X98A715-5	 	     Ri Wa (NIL)	B	102	ImDs	M3 V	-1	(966+3)	[B616]	BC	7	972
+Solo	C	2001	Hiroshi	X558668-2	 	    Ag Ni (NIL)	B	920	ImDs	G6 V	-2	(951+3)	[9451]	BC	15	135
+Solo	C	2004	Charuth	X78696D-3	 	     Ga Hi Pr (NIL)	B	402	ImDs	F6 IV	-1	(B86+3)	[E875]	BcE	12	1584
+Solo	C	2010	Khiirshag	X79A000-F	 	    Pz  Di In Wa (NIL)		003	ImDs	M3 V	0	(E00+1)	[0000]	BE	10	14
+Solo	G	2011	Andiirish	X000000-E	 	      As Va Di 		012	ImDs	F5 V	-1	(A00-2)	[0000]	B	12	-20
+Solo	G	2012	Cathay	X866A69-3	 	    Pz  Ga Hi (NIL)	B	225	ImDs	M1 V	-1	(C95-2)	[B946]	BE	10	-1080
+Solo	G	2015	Duikin Tyui	X310000-E	 	     VegaW Sa  Di Na Pi 		023	ImVd	G0 V	-1	(F00+2)	[0000]	BD	13	30
+Solo	G	2017	Hariksiat	X54976E-4	 	      VegaW  (NIL)	B	120	ImVd	F0 V M0 V	-2	(A65+2)	[A571]	B	13	600
+Solo	K	2021	Ishimshulgi	X200000-7	 	     Di Va 		002	ImDs	M1 V M2 V	-3	(600+1)	[0000]	B	13	6
+Solo	K	2027	Prometheus	X78596C-2	 	      Ga Hi Pr (NIL)	B	523	ImDs	G2 V K1 V M5 V	-1	(B85+1)	[7891]	BcE	10	440
+Solo	K	2028	Peraspera	X7A2000-C	 	     Di Fl He Px 		020	ImDs	M1 V	-1	(900+1)	[0000]	B	11	9
+Solo	K	2029	Midway	X699566-4	 	     Ni 	B	322	ImDs	M2 V	-3	(741+4)	[6291]	B	8	112
+Solo	K	2030	Hades	X432000-D	 	    O:1830 Sa  Di Px Po 		012	ImDs	M2 V	-1	(800+1)	[0000]	B	13	8
+Solo	O	2031	Calgary	DA9A476-5	 	    Da Dolp0  Ni Oc 	B	325	ImDs	M2 V	-3	(633+2)	[3185]	B	10	108
+Solo	C	2102	Jackoyo	X000000-B	 	      As Va Di 		010	ImDs	F8 V M0 V	-1	(800+1)	[0000]	B	13	8
+Solo	C	2104	Sishera	X433000-D	 	      Di Na Po (NIL)		002	ImDs	M0 V	-1	(C00+1)	[0000]	B	12	12
+Solo	C	2105	Gunashnan	C854978-9	 	     Hi (NIL)		102	ImDs	M0 V M1 V	1	(D85+4)	[BA56]	BE	14	2080
+Solo	C	2106	Ogier	X100000-C	 	      Di Na Pi Va 		000	ImDs	M3 V	-1	(A00-1)	[0000]	BD	11	-10
+Solo	C	2109	Eleusis	X78986E-3	 	      Ph Ri (NIL)	B	812	ImDs	F1 V	-1	(A73-1)	[8772]	BCe	13	-210
+Solo	G	2114	Sithuan Hsarr	X8B6000-A	 	    VegaW  Di Fl 		003	ImVd	F5 V M6 V	-1	(900-3)	[0000]	B	6	-27
+Solo	G	2118	Dzadwahtyan	X785768-7	 	     VegaW  Ag Ri Ga (NIL)	B	523	ImVd	K3 V M0 V	0	(96A+1)	[3743]	BC	8	540
+Solo	K	2121	Lagash	X66756D-0	 	     Ag Pr Ga Ni (NIL)	B	224	ImDs	G0 V K7 V	-2	(C40-1)	[5363]	BcC	9	-48
+Solo	O	2131	Inferno	E578874-4	 	      Pa Pi Ph (NIL)	B	824	ImDs	M2 V M2 V	-2	(A75-2)	[7644]	BcDe	9	-700
+Solo	O	2132	Forlorn	X596103-2	 	    O:1931  Lo 		124	ImDs	M3 V	-3	(500+2)	[4141]	B	13	10
+Solo	O	2135	New Greenpernt	D798433-7	 	    An  Ni Pa 		404	SoCf	G8 V M0 V	-3	(633+1)	[1134]	Bc	15	54
+Solo	O	2138	Gwynedd	X9D7000-D	 	     Di (NIL)		004	SoCf	M2 V	-1	(E00+1)	[0000]	B	9	14
+Solo	C	2205	Ikaakur	X55686A-3	 	   Pz Sa  Pa Ph (NIL)	B	515	ImDs	K3 IV M8 V M5 V	-2	(B74+3)	[4654]	Bce	9	924
+Solo	G	2213	Hsuarrdzan	X000000-B	 	     VegaW  As Va Di Na 		020	ImVd	F6 V M4 V	-1	(A00+2)	[0000]	B	6	20
+Solo	G	2218	Muan Kwoyen	X666969-4	 	    VegaW  Ga Hi Pr (NIL)	B	212	ImVd	G5 V	-1	(B85-1)	[9851]	BcE	6	-440
+Solo	K	2222	Ninkhur Sagga	XAA7000-B	 	     Di Fl (ENIL)		003	ImDs	G5 V M5 V	-1	(C00+2)	[0000]	B	6	24
+Solo	K	2227	Ember	X412000-D	 	       Di Ic Na In 		012	ImDs	M6 V M6 V	0	(E00-1)	[0000]	BE	10	-14
+Solo	K	2228	Loki	X9CA000-C	 	      Di Fl 		002	ImDs	M4 V	-1	(700+1)	[0000]	B	12	7
+Solo	O	2235	Medea	X779422-5	 	     Ni 		303	SoCf	M2 V	-3	(633-1)	[1168]	B	11	-54
+Solo	O	2236	Pollux	X000000-0	 	     Fo  As Va Ba 		010	SoCf	K0 III	-3	(200-1)	[0000]	B	6	-2
+Solo	O	2240	Hanuman	X9BA000-A	 	     Di Fl 		013	SoCf	M0 V M2 V	-1	(C00-1)	[0000]	B	14	-12
+Solo	C	2303	Zapuushar	B858953-7	 	     Hi (NIL)	B	105	ImDs	M0 V M7 V	1	(B8C+3)	[8A46]	BE	9	3168
+Solo	C	2308	Ephemir	X675444-0	 	     Ni Pa (NIL)	B	302	ImDs	G9 V M9 V	-3	(B30+1)	[6185]	Bc	6	33
+Solo	G	2312	Menelaus	C86596B-4	 	    Pz  Ga Hi Pr (NIL)	B	203	ImDs	K1 V M0 V	0	(B87+1)	[A954]	BcE	13	616
+Solo	G	2319	Shulgiasu	X758000-E	 	    Vega0  Di (NIL)		022	ImVd	G3 V M1 V M7 V	-1	(F00+1)	[0000]	B	8	15
+Solo	K	2323	Mukhaldim	X533000-C	 	     Di Po 		020	ImDs	K5 V	-1	(800+2)	[0000]	B	5	16
+Solo	K	2325	Kaguk	E648640-8	 	      Ag Ni 		301	ImDs	M3 V	-2	(950-1)	[646B]	BC	10	-45
+Solo	K	2330	Dismal	X421000-B	 	     Di He Po 		012	ImDs	M2 V	-1	(A00+1)	[0000]	B	6	10
+Solo	O	2337	Siva	X310000-9	 	     Di 		024	SoCf	M0 V	-2	(A00+1)	[0000]	B	15	10
+Solo	O	2339	Castor	X000000-C	 	      Pz  As Va Di Na In 		020	SoCf	A1 V M5 V A2 V M2 V M1 V M1 V	0	(D00+3)	[0000]	BE	8	39
+Solo	C	2402	Estigarribia	X566102-5	 	    Pz  Lo (NIL)		420	ImDs	G4 V M0 V	-3	(C00-4)	[1147]	B	9	-48
+Solo	C	2403	Mushiddun	X611000-9	 	     Pz  Di Ic Na Pi 		023	ImDs	K4 V	-2	(F00+1)	[0000]	BD	10	15
+Solo	C	2405	Nasu	X434000-B	 	   O:2407 Sa  Di Px 		001	ImDs	F9 V M3 V	-1	(600+2)	[0000]	B	10	12
+Solo	C	2406	Inidu	X6BA000-C	 	     Di Fl 		013	ImDs	M1 V	-1	(A00+3)	[0000]	B	7	30
+Solo	C	2407	Cambria	X000000-E	 	      Pz  As Va Di Na In 		013	ImDs	K2 III	0	(F00-5)	[0000]	BE	11	-75
+Solo	C	2408	Xiwa	X300000-B	 	    Da   Di Va 		003	ImDs	M3 V	-1	(A00+2)	[0000]	B	12	20
+Solo	G	2411	Surt	X521000-E	 	       Di He Na In Po (NIL)		004	ImDs	M3 V	0	(F00+1)	[0000]	BE	10	15
+Solo	G	2414	Isseydo	E548630-8	 	     Sa  Ag Ni (NIL)		923	ImDs	K4 V	-2	(F53+2)	[54A8]	BC	8	450
+Solo	G	2415	Shani	X412000-7	 	    Fo Sa  Di Ic 		005	ImDs	K1 V	-3	(700+5)	[0000]	B	10	35
+Solo	G	2418	Khalikkam	X611000-B	 	    O:2518  Di Ic Na 		004	ImDs	F1 V	-1	(C00-1)	[0000]	B	10	-12
+Solo	G	2419	Zayeel	X433000-7	 	      Di Na Po (NIL)		001	ImDs	K0 V M6 V	-3	(A00-1)	[0000]	B	12	-10
+Solo	G	2420	Arrukir	X59A000-A	 	    Di Pi Wa (NIL)		000	ImDs	M1 V	-1	(900+3)	[0000]	BD	11	27
+Solo	O	2433	Smade's Planet	X77827C-1	 	     Lo 	B	602	NaHu	M1 V	-3	(410-3)	[3172]	B	13	-12
+Solo	D	2502	Jade	E575898-8	 	     Pz  Pa Pi Ph (NIL)		815	ImDs	M0 V	-2	(G76+2)	[8678]	BcDe	13	1344
+Solo	D	2506	Gadden	X893120-7	 	     Lo 		423	ImDs	M0 V	-3	(400-1)	[1133]	B	10	-4
+Solo	D	2509	Scaramouche	X7C6000-A	 	    Da Tz  Di Fl 		000	ImDs	M1 V M2 V	-1	(700-2)	[0000]	B	11	-14
+Solo	H	2513	Dipuska	X662230-0	 	     Lo (NIL)	B	920	ImDs	K5 V M3 V	-3	(C10+1)	[1141]	B	8	12
+Solo	H	2514	Mandrake	X566000-2	 	     Di (NIL)		013	ImDs	M2 V	-3	(C00+1)	[0000]	B	10	12
+Solo	H	2516	Urizen	X8C8000-A	 	     Di Fl 		023	ImDs	G2 V M3 V	-1	(B00+1)	[0000]	B	10	11
+Solo	H	2517	Murphy	X544000-E	 	    Pz  Di In (NIL)		002	ImDs	K0 V M1 V	0	(D00-3)	[0000]	BE	11	-39
+Solo	H	2518	Ganesh	C766300-9	 	     Ga Lo (NIL)		410	ImDs	M2 V	-1	(D20-2)	[7289]	B	9	-52
+Solo	L	2521	Ikuk	X77976A-1	 	      Pi (NIL)	B	613	ImDs	M3 V	-2	(965+3)	[5533]	BD	12	810
+Solo	L	2527	Cymbeline	X9E4000-D	 	    (Chips)0  Di (NIL)		012	ImDs	M0 V	-1	(D00+4)	[0000]	B	11	52
+Solo	L	2528	Tewfik	X524000-D	 	     Di In (NIL)		003	ImDs	M1 V	0	(E00+1)	[0000]	BE	9	14
+Solo	P	2536	Carchemish	X778101-6	 	    O:2636 Rs  Lo 		803	SoCf	M2 V M3 V	-3	(300+2)	[1137]	B	13	6
+Solo	P	2538	Thetis	X56A112-0	 	     Pz Dolp1  Lo Wa (NIL)	B	810	SoCf	M1 V M1 V	-3	(B00-2)	[1141]	B	9	-22
+Solo	D	2601	Ukarin	X433000-C	 	     Di Na Po (NIL)		002	ImDs	G6 V	-1	(B00-2)	[0000]	B	11	-22
+Solo	D	2602	Gashurzid	X656869-2	 	     Ga Pa Ph (NIL)	B	110	ImDs	M2 V	-2	(A76+1)	[5635]	Bce	13	420
+Solo	D	2603	Miskatonic	X58786A-4	 	     O:2703  Pa Ri Ph (NIL)	B	215	ImDs	M2 V	-1	(A76+3)	[7764]	BcCe	11	1260
+Solo	D	2608	Beatus	X68896A-4	 	     Hi Pr (NIL)	B	704	ImDs	A2 V M9 V	-1	(B86-1)	[6858]	BcE	11	-528
+Solo	H	2612	Mimiis	X200000-C	 	     Di Na Pi Va 		012	ImDs	A6 V K9 V	-1	(C00+1)	[0000]	BD	10	12
+Solo	H	2617	Imkhammash	X555832-6	 	    Sa  Pa Ph (NIL)	B	113	ImDs	M0 V	-2	(A73-1)	[9654]	Bce	17	-210
+Solo	H	2618	Catania	X568869-0	 	     Pa Ri Ph (NIL)	B	901	ImDs	M3 V	-1	(B76+1)	[6791]	BcCe	10	462
+Solo	L	2623	Hathor	X78A86B-1	 	     Ph Ri Wa (NIL)	B	314	ImDs	M3 V	-1	(B77+3)	[7711]	BCe	14	1617
+Solo	L	2626	Melchior	C556200-9	 	    Pz  Lo (NIL)		503	ImDs	M3 V	-1	(E10+1)	[1149]	B	7	14
+Solo	L	2628	Scandia	X65866B-2	 	     Ag Ni (NIL)	B	302	ImDs	G3 V	-2	(B50-1)	[2431]	BC	9	-55
+Solo	P	2631	Tlaloc	C64566D-7	 	    O:2731  Ag Ni 		903	SoCf	M1 V	-1	(855+4)	[6538]	BC	12	800
+Solo	P	2635	Elsinore	X420000-A	 	       De He Di Na Po 		002	SoCf	K6 V	-1	(A00+1)	[0000]	B	11	10
+Solo	P	2636	Pavel	X89976A-5	 	     Pi (NIL)	B	220	SoCf	K0 V	-2	(968+1)	[4526]	BD	8	432
+Solo	D	2703	Alpher	X86686B-0	 	     Ga Pa Ri Ph (NIL)	B	814	ImDs	G0 V M2 V	-1	(B77+5)	[C784]	BcCe	14	2695
+Solo	D	2704	Okotah	X425000-A	 	     Di 		000	ImDs	K9 V	-1	(300-3)	[0000]	B	8	-9
+Solo	D	2708	Azure	X434000-B	 	    Pz  Di (NIL)		021	ImDs	G2 V M3 V	-1	(D00-3)	[0000]	B	16	-39
+Solo	H	2713	Khugi	X000000-0	 	     Fo  As Va Ba 		020	ImDs	G8 III K2 V	-3	(200-5)	[0000]	B	6	-10
+Solo	H	2714	Pinnashdug	D578876-8	 	      Pa Pi Ph (NIL)	B	922	ImDs	M0 V	-2	(E79+3)	[9679]	BcDe	10	2646
+Solo	H	2720	Nyarlathotep	X000000-C	 	     O:2920 RsB  As Va Di 		023	ImDs	K1 V M1 V	-1	(900+1)	[0000]	B	10	9
+Solo	L	2722	Tunguska	X422000-A	 	      Di He Na Pi Po (NIL)		014	ImDs	F6 IV	-1	(E00-3)	[0000]	BD	8	-42
+Solo	L	2723	Anenerkuk	X56A222-0	 	    O:2623  Lo Wa (NIL)	B	613	ImDs	M1 V	-3	(910+1)	[11A1]	B	16	9
+Solo	L	2729	Tamarind	X9A4000-9	 	      Di Fl (ENIL)		020	ImDs	M2 V M6 V	-2	(C00-1)	[0000]	B	12	-12
+Solo	P	2731	Ochre	X550000-3	 	    An  De Di Po (NIL)		003	SoCf	F2 IV	-3	(A00+1)	[0000]	B	14	10
+Solo	P	2732	Lyonesse	E697857-8	 	      Pa Pi Ph (NIL)		323	SoCf	A1 V M0 V	-2	(F76+1)	[5636]	BcDe	10	630
+Solo	P	2734	Trapezus	X633000-D	 	      Di Na Po (NIL)		004	SoCf	M3 V	-1	(E00+1)	[0000]	B	11	14
+Solo	P	2740	Laputa	B755314-8	 	     Pz  Ga Lo (NIL)		524	SoCf	K2 V M6 V	-1	(H20+3)	[1257]	B	10	102
+Solo	D	2807	Phireene	X56986B-6	 	     Ph Ri (NIL)		802	ImDs	F7 V	-1	(A79-1)	[5718]	BCe	10	-630
+Solo	D	2808	Umber	X777357-4	 	     O:2807  Lo 		920	ImDs	M3 V M6 V	-3	(620+4)	[7131]	B	8	48
+Solo	H	2812	Nisinasha	X9EA000-E	 	    Sa  Di Wa (NIL)		004	ImDs	G1 V	-1	(F00-4)	[0000]	B	12	-60
+Solo	H	2816	Immir	X000000-A	 	      As Va Di 		012	ImDs	K0 III	-1	(A00+2)	[0000]	B	10	20
+Solo	H	2820	Aqilat	X000000-D	 	      As Va Di Na 		011	ImDs	G0 IV	-1	(A00-3)	[0000]	B	11	-30
+Solo	L	2821	Jael	C55787C-7	 	     Sa  Pa Ph (NIL)		423	ImDs	M2 V M8 V	-1	(A74+1)	[6746]	Bce	8	280
+Solo	P	2834	Goliad	X67A56C-0	 	     Ni Wa 	B	415	SoCf	A7 IV D M0 V	-3	(740+1)	[6251]	B	14	28
+Solo	P	2835	Kukulcan	X568866-5	 	    Pa Ri Ph (NIL)		321	SoCf	F3 V G3 V	-1	(C76+3)	[37A4]	BcCe	10	1512
+Solo	P	2836	Cyprian	X510000-A	 	     Di 		003	SoCf	M1 V	-1	(800+1)	[0000]	B	13	8
+Solo	P	2840	Jocasta	X532000-8	 	     Di Po 		015	SoCf	F6 V M7 V	-3	(900-3)	[0000]	B	10	-27
+Solo	D	2902	Aosta	X55366A-6	 	    Tz  Ni Po (NIL)		803	ImDs	M2 V	-3	(C50+2)	[331A]	B	15	120
+Solo	D	2905	Arkiirkii	X66A100-4	 	      Pz  Lo Wa (NIL)		100	ImDs	M0 V M3 V	-3	(A00-2)	[1154]	B	13	-20
+Solo	D	2906	Kesirisu	X59A415-0	 	    Sa  Ni Wa 	B	523	ImDs	M3 V M8 V	-3	(730+1)	[3181]	B	13	21
+Solo	D	2910	Huy Braseal	X555767-0	 	     Ag (NIL)	B	220	ImDs	F5 V	-1	(B64-2)	[C651]	BC	15	-528
+Solo	H	2911	Sathyos	X579769-4	 	     Pi (NIL)	B	634	ImDs	G0 V M3 V	-2	(967+1)	[95A4]	BD	14	378
+Solo	H	2912	Rild	XAC7000-9	 	   Pz  Di Fl (ENIL)		022	ImDs	M1 V	-2	(D00+1)	[0000]	B	11	13
+Solo	H	2913	Newcomb	X54148B-5	 	      He Ni Po 		302	ImDs	K1 V M4 V	-3	(633+1)	[5186]	B	12	54
+Solo	H	2915	Pajang	X57376C-7	 	      (NIL)		110	ImDs	M2 V M9 V M8 V	-2	(964+2)	[8556]	B	14	432
+Solo	H	2918	Noricum	X58A483-3	 	    Pz  Ni Wa (NIL)	B	502	ImDs	M3 V	-3	(933+2)	[4184]	B	10	162
+Solo	H	2920	Banasdan	X653301-6	 	      Lo Po (NIL)		123	ImDs	M0 V M2 V	-3	(C20+1)	[1127]	B	8	24
+Solo	L	2921	Arcturus	X000000-C	 	     O:2920  As Va Di 		020	ImDs	K1 III	-1	(700+2)	[0000]	B	12	14
+Solo	L	2928	Epirus	X438000-C	 	   Di Sa Tz  (NIL)		022	ImDs	G3 V M7 V	-1	(D00-4)	[0000]	B	10	-52
+Solo	P	2932	Skanderbeg	X544678-6	 	      Ag Ni (NIL)		502	SoCf	F6 V	-2	(A50-2)	[B429]	BC	12	-100
+Solo	P	2937	Cyan	X55276D-1	 	    O:3035  Po (NIL)	B	503	SoCf	M0 V M4 V	-2	(968+2)	[8531]	B	12	864
+Solo	P	2938	Santorini	X68986B-2	 	     Ph Ri (NIL)	B	205	SoCf	M1 V	-1	(A78-2)	[8734]	BCe	14	-1120
+Solo	P	2939	Hasdrubal	X554869-3	 	    Pz  Pa Ph (NIL)	B	820	SoCf	M0 V M4 V	-2	(A75+1)	[7632]	Bce	10	350
+Solo	D	3001	Karpaty	X583967-2	 	     Hi Pr (NIL)	B	613	ImDs	M3 V M6 V	-1	(B81-5)	[6851]	BcE	10	-440
+Solo	D	3006	Syzygy	X100000-8	 	    Sa  Di Na Pi Va 		032	ImDs	F0 V	-3	(E00-1)	[0000]	BD	17	-14
+Solo	D	3008	Janosz	X564955-2	 	     Hi Pr (NIL)	B	721	ImDs	M2 V M6 V	-1	(B85+1)	[9841]	BcE	12	440
+Solo	D	3009	Shapam	X432000-B	 	    RsA Sa  Di Po 		001	ImDs	F9 V	-1	(800+1)	[0000]	B	12	8
+Solo	D	3010	Kirillishur	X7A4000-A	 	     Di Fl 		013	ImDs	F5 V M9 V	-1	(B00+2)	[0000]	B	7	22
+Solo	H	3011	Ariel	X514000-B	 	    Di Ic Pi 		005	ImDs	M0 V M9 V	-1	(E00+4)	[0000]	BD	10	56
+Solo	H	3015	Uku	X636000-B	 	   Di Pz  (NIL)		013	ImDs	M3 V M9 V	-1	(D00-1)	[0000]	B	10	-13
+Solo	H	3017	Altiplano	X8D8000-D	 	    O:2918  Di (NIL)		015	ImDs	M2 V	-1	(G00+2)	[0000]	B	16	32
+Solo	L	3024	Lamarck	X763869-3	 	     Ph Ri (NIL)	B	704	ImDs	M2 V	-1	(A72-1)	[7778]	BCe	8	-140
+Solo	L	3026	Thorwald	X5598CC-5	 	    Pz   Ph (NIL)		602	ImDs	G0 V	-2	(A71+3)	[5655]	Be	14	210
+Solo	L	3028	Harappa	X875135-6	 	    O:3029  Lo 		421	ImDs	M2 V	-3	(300+5)	[1135]	B	15	15
+Solo	L	3029	Kurland	X68796D-0	 	    Pz  Ga Hi Pr (NIL)	B	422	ImDs	G7 V	-1	(B85-2)	[C811]	BcE	11	-880
+Solo	P	3035	Caprice	C766976-9	 	    Pz Tz  Ga Hi Pr (NIL)	B	922	SoCf	M1 V M7 V	1	(F86-2)	[9A5C]	BcE	11	-1440
+Solo	D	3101	Carlyle	X9B5000-B	 	    O:3201  Di Fl (ENIL)		011	ImDs	K8 V M5 V	-1	(C00+4)	[0000]	B	7	48
+Solo	D	3102	Khiggun	X8A3000-B	 	     Di Fl 		035	ImDs	M0 V M5 V	-1	(G00+1)	[0000]	B	11	16
+Solo	D	3106	Rann	X66496D-6	 	     Hi Pr (NIL)	B	300	ImDs	K9 V M5 V	-1	(B83-4)	[7825]	BcE	10	-1056
+Solo	D	3107	Iipshidan	D544573-7	 	     Ag Ni 		234	ImDs	M3 V	-2	(743+4)	[7337]	BC	15	336
+Solo	D	3108	Cambyses	D546244-7	 	      Lo (NIL)		722	ImDs	M1 V	-3	(B10+4)	[1156]	B	17	44
+Solo	D	3109	Champa	B662114-3	 	     Pz  Lo (NIL)	B	624	ImDs	G8 V M7 V	-1	(B00-3)	[1174]	B	15	-33
+Solo	H	3113	Sashingun	X653844-4	 	    O:3213  Ph Po (NIL)	B	320	ImDs	M1 V M5 V	-2	(A76-4)	[A614]	Be	11	-1680
+Solo	L	3127	Bolivar	X526000-C	 	     Di 		013	ImDs	K8 V	-1	(A00-1)	[0000]	B	8	-10
+Solo	L	3130	Strackenz	X423000-9	 	     Di Po 		023	ImDs	F1 V M2 V	-2	(800-5)	[0000]	B	13	-40
+Solo	P	3132	Saskatoon	B887966-7	 	    Pz  Ga Hi Pr (NIL)	B	504	SoCf	M2 V	1	(B88+1)	[CA56]	BcE	9	704
+Solo	P	3134	Amaterasu	X548203-3	 	      Pz  Lo (NIL)		924	SoCf	M0 V	-3	(A10+4)	[1152]	B	10	40
+Solo	P	3136	Xantippe	X7B9000-9	 	    O:3235  Di Fl 		014	SoCf	K8 V	-2	(900+1)	[0000]	B	14	9
+Solo	D	3201	Palnu	X58496B-0	 	     Hi Pr (NIL)	B	723	ImDs	G3 V	-1	(B87+4)	[9851]	BcE	9	2464
+Solo	D	3202	Opar	X5AA000-A	 	    O:3201  Di Fl 		010	ImDs	G7 V M6 V	-1	(500+2)	[0000]	B	8	10
+Solo	D	3203	Irashnar	X431000-D	 	    Sa  Di Px Po 		002	ImDs	G8 V	-1	(800-2)	[0000]	B	9	-16
+Solo	D	3204	Rith	X536000-9	 	    Pz  Di (NIL)		023	ImDs	M2 V	-2	(F00+1)	[0000]	B	16	15
+Solo	D	3208	Kilennur	X595888-7	 	     Pz Droy0  Pa Pi Ph (NIL)		622	ImDs	M2 V M2 V	-2	(A77+1)	[A668]	BcDe	15	490
+Solo	D	3209	Pagliacci	E754876-3	 	    Pa Ph (NIL)	B	113	ImDs	M1 V M4 V	-2	(977+1)	[7651]	Bce	13	441
+Solo	H	3213	Ludovic	C665978-A	 	    Pz  Ga Hi Pr (NIL)		904	ImDs	M3 V M4 V	2	(F8A-2)	[9B78]	BcE	14	-2400
+Solo	H	3217	Cephesa	X422000-D	 	     Di He Po 		002	ImDs	K2 III	-1	(800+3)	[0000]	B	10	24
+Solo	H	3218	Lakamsal	E545787-8	 	      Ag Pi (NIL)		604	ImDs	F7 V M2 V	-1	(D69+2)	[4665]	BCD	7	1404
+Solo	H	3219	Onathy	X521000-9	 	       Di He Na Pi Po (NIL)		000	ImDs	G3 V M0 V	-2	(A00+1)	[0000]	BD	10	10
+Solo	L	3221	Heraklion	E543103-4	 	     Lo Po 		603	ImDs	A5 V F3 V	-3	(500+2)	[2113]	B	11	10
+Solo	L	3225	Jorjor	D641674-7	 	      He Ni Po (NIL)		200	ImDs	K0 IV	-3	(A52+2)	[5335]	B	12	200
+Solo	P	3232	Oberon	X562666-4	 	     Ni Ri (NIL)		804	SoCf	M2 V	-2	(B54-2)	[4411]	BC	9	-440
+Solo	P	3234	Scipio	X577738-4	 	     Fo  Ag Pi (NIL)	B	302	SoCf	F4 V	-1	(965+2)	[6636]	BCD	11	540
+Solo	P	3235	Culdee	X68A242-4	 	      Lo Wa (NIL)		222	SoCf	F5 V	-3	(B10+1)	[1171]	B	8	11
+Solo	P	3239	Dunsinane	X312000-9	 	     Di Ic 		022	SoCf	M1 V	-2	(B00+1)	[0000]	B	14	11

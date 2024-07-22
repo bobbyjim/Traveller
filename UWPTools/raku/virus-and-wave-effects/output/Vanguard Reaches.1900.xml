@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Sector Abbreviation="Vang" Tags="InReview">
+  <Y>0</Y>
+  <X>-6</X>
+  <Name>Vanguard Reaches</Name>
+  <Name Lang="as">Telehfaeikh</Name>
+  <Name Lang="zh">Steblenzh</Name>
+
+  <Credits>
+    <![CDATA[
+
+The <b>Vanguard Reaches</b> sector was originally designed by Chuck
+Kallenbach II and appears in <cite>Vanguard Reaches</cite> (Paranoia
+Press, 1981). This version was created by Geir Lanesskog. It is
+derived from Kallenbach’s 1991 revisions and from the dotmap in
+<cite>MegaTraveller Alien Volume 2: Aslan and Solomani</cite>, with
+considerable modifications to names and locations.
+
+This updated version appears in <cite>The Spinward Extents</cite>
+(Mongoose Publishing, 2022).
+
+    ]]>
+  </Credits>
+  <Product Publisher="Mongoose Publishing" Author="Geir Lanesskog" Title="The Spinward Extents" Ref="https://www.mongoosepublishing.com/products/the-spinward-extents" />
+  <Subsectors>
+    <Subsector Index="A">Issoudun</Subsector>
+    <Subsector Index="B">Andwella</Subsector>
+    <Subsector Index="C">Coos</Subsector>
+    <Subsector Index="D">Trelyn</Subsector>
+    <Subsector Index="E">Dlieblafia</Subsector>
+    <Subsector Index="F">Diadem</Subsector>
+    <Subsector Index="G">Hyperion</Subsector>
+    <Subsector Index="H">Eslyat</Subsector>
+    <Subsector Index="I">Yavakrbi</Subsector>
+    <Subsector Index="J">Four Corners</Subsector>
+    <Subsector Index="K">Harmony</Subsector>
+    <Subsector Index="L">Kajaani</Subsector>
+    <Subsector Index="M">Helix</Subsector>
+    <Subsector Index="N">Altarean</Subsector>
+    <Subsector Index="O">Old Colonies</Subsector>
+    <Subsector Index="P">Jarnac</Subsector>
+  </Subsectors>
+
+  <Stylesheet>
+    border.TrDo { color: firebrick; }
+    border.TeCl { color: mediumaquamarine; }
+    border.AlCo { color: sandybrown; }
+    border.JaPa { color: green; }
+    border.HyLe { color: thistle; }
+
+    border.EsMa { color: slategray; }
+    border.KaTr { color: coral; }
+
+    border.CoLg { color: tan; }
+
+    route.CoLg { color: peru; }
+    route.KaTr { color: lightsalmon; }
+    route.ZhCa { color: paleturquoise; }
+    route.TrDo { color: indianred; }
+    route.AlCo { color: burlywood; }
+    route.EsMa { color: darkgray; }
+
+    route.Trade { color: tomato; style: dotted; width: 1.0 }
+    route.Diadem { color: darkturquoise; style: dotted; width: 1.0 }
+  </Stylesheet>
+
+  <Borders>
+  </Borders>
+
+
+  <Labels>
+
+    <Label Hex="0531" Size="small" Color="firebrick">Helix Rift</Label>
+    <Label Hex="1520" Size="small" Color="firebrick" OffsetY="-0.3">Diadem Main</Label>
+
+  </Labels>
+
+
+  <Routes>
+  </Routes>
+
+  <Regions>
+    <Region Label="Helix Nebula" LabelPosition="0737" Color="darkorchid">
+      0535 0634 0735 0736 0636 0536
+    </Region>
+    <Region Color="darkorchid">
+      0635
+    </Region>
+  </Regions>
+
+</Sector>

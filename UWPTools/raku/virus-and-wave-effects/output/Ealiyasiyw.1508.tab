@@ -1,0 +1,402 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+Eali	A	0101	Oirlkho	X573000-3	 	     Di 		010	Wild	M2 V	-3	(700+1)	[0000]	B	10	7
+Eali	A	0103	Aisaukh	X434000-6	 	    Fo  Di 		014	Wild	M2 V	-3	(600-4)	[0000]	B	17	-24
+Eali	A	0104	Ftearya	D867424-4	 	      Ga Ni Pa 		124	Wild	G7 III D	-3	(731+1)	[7161]	Bc	16	21
+Eali	A	0106	Yaiy'aho	X200000-A	 	    O:Hlak-3105  Di Va 		004	Wild	K0 V	-1	(700+1)	[0000]	B	12	7
+Eali	A	0107	Eayuya	E575000-6	 	    O:0405  Di 		024	Wild	K7 V	-3	(300-1)	[0000]	B	13	-3
+Eali	E	0113	Keiaoukhri	X310000-9	 	     Da  Di 		000	Wild	M3 V M7 V	-2	(800+1)	[0000]	B	7	8
+Eali	E	0114	Iywheiyel	X56A000-1	 	     Di Wa 		003	Wild	K1 V M7 V	-3	(600-2)	[0000]	B	10	-12
+Eali	E	0115	Eaalkhel	X7B4000-D	 	     Di Fl 		010	Wild	G2 V M0 V	-1	(800+1)	[0000]	B	11	8
+Eali	E	0116	Hkauehirl	E765879-1	 	     Pz  Ga Pa Ri Ph (NIL)		400	Wild	M1 V	-1	(A72+3)	[8731]	BcCe	9	420
+Eali	E	0119	Ikheaaw	X74A748-3	 	    Pz  Pi Wa (NIL)		904	Wild	K4 V M2 V M1 V	-2	(966-4)	[5564]	BD	13	-1296
+Eali	I	0123	Yeltear	E566000-4	 	     Di 		004	Wild	M9 III D	-3	(500+1)	[0000]	B	7	5
+Eali	I	0124	Khaoworl	X310000-8	 	      Di 		034	Wild	M0 V M1 V	-3	(F00+1)	[0000]	B	19	15
+Eali	I	0127	Khtewiyh	X7A5000-8	 	     Di Fl 		003	Wild	M2 V M2 V	-3	(800+1)	[0000]	B	11	8
+Eali	I	0130	Eawweaaw	X784000-3	 	     Di 		013	Wild	M7 II D	-3	(300-1)	[0000]	B	15	-3
+Eali	M	0134	Eaeilr	X431000-6	 	     Di Po 		002	Wild	K9 III D	-3	(300-1)	[0000]	B	8	-3
+Eali	A	0201	Uirloikha	E578000-7	 	      Di 		025	Wild	K2 V	-3	(600+5)	[0000]	B	15	30
+Eali	A	0206	Tluakheaiy	E578000-4	 	      Di 		013	Wild	G9 II	-3	(700+1)	[0000]	B	10	7
+Eali	A	0209	Oalrelyerl	E767342-5	 	      Ga Lo 		904	Wild	K0 V M7 V	-3	(620+2)	[2143]	B	14	24
+Eali	A	0210	Eauioiwai	X563754-2	 	    Chir3  Ri (NIL)		623	Wild	K2 V	-1	(96A-4)	[7651]	BC	12	-2160
+Eali	E	0213	Khteauwel	D687676-5	 	     Ag Ri Ga Ni (NIL)		931	Wild	K4 IV M9 V	-1	(950+1)	[3594]	BC	16	45
+Eali	E	0215	Aihaowkhtirl	X100000-7	 	     Di Va 		012	Wild	M1 V	-3	(300+3)	[0000]	B	10	9
+Eali	I	0221	Areaarleih	X633000-6	 	     Di Po 		024	Wild	M2 V M2 V	-3	(600-2)	[0000]	B	15	-12
+Eali	I	0222	Hluahyahe	X526000-7	 	    Fo  Di 		003	Wild	M2 V M5 V	-3	(300+1)	[0000]	B	11	3
+Eali	I	0224	Eieyasoir	X697000-3	 	    O:0523  Di 		004	Wild	M1 V M5 V M5 V	-3	(300+1)	[0000]	B	9	3
+Eali	I	0227	Khaiheista	X542000-5	 	      Di He Po (NIL)		001	Wild	M2 V	-3	(A00+2)	[0000]	B	6	20
+Eali	M	0231	Arlasye	E546000-8	 	     Pz  Di (NIL)		013	Wild	M3 V	-3	(D00+1)	[0000]	B	14	13
+Eali	M	0233	Yawaaikh	X7A2000-C	 	     O:Hlak-3035  Di Fl He 		015	Wild	M2 V	-1	(900+1)	[0000]	B	13	9
+Eali	M	0234	Htaoairlawi	X422000-B	 	     Di He Po 		004	Wild	K3 V M1 V	-1	(B00+1)	[0000]	B	17	11
+Eali	M	0240	Failraiskea	X788410-2	 	      Ni Pa 		404	Wild	F2 V	-3	(730-3)	[5122]	Bc	13	-63
+Eali	A	0305	Oilrakhesaoh	X310000-B	 	     Di 		014	Wild	M2 V	-1	(B00+5)	[0000]	B	17	55
+Eali	A	0307	Yohiyalyo	X8B3000-A	 	     Di Fl 		004	Wild	M1 V M8 V	-1	(A00-3)	[0000]	B	8	-30
+Eali	A	0309	Aweakhei	X7A5000-C	 	     Di Fl 		002	Wild	K2 V	-1	(500+5)	[0000]	B	6	25
+Eali	E	0311	Yeiyearailia	X100000-D	 	    O:0213  Di Va 		004	Wild	G6 V	-1	(900+1)	[0000]	B	15	9
+Eali	E	0318	Aulaiiyoileah	X310000-E	 	     Di 		024	Wild	M1 V	-1	(D00-1)	[0000]	B	11	-13
+Eali	E	0320	Ftuiheaoel	X64A000-2	 	    O:0520  Di Wa 		004	Wild	M3 V	-3	(400-1)	[0000]	B	14	-4
+Eali	I	0322	Oiaoilr	X000000-B	 	      As Va Di 		005	Wild	K2 V	-1	(B00+4)	[0000]	B	14	44
+Eali	M	0332	Yerlaiaie	X522000-7	 	      Di He Po 		005	Wild	M2 V	-3	(800+1)	[0000]	B	16	8
+Eali	A	0401	Yohiyalyo	X310000-A	 	     Di 		004	Wild	K2 V	-1	(B00+2)	[0000]	B	11	22
+Eali	A	0404	Kiryewola	D542000-5	 	     Di He Po 		010	Wild	G3 V M1 V	-3	(600+3)	[0000]	B	6	18
+Eali	A	0405	Yofteihya	X310000-C	 	     Pz  Di 		000	Wild	M0 V M2 V	-1	(900-2)	[0000]	B	10	-18
+Eali	A	0410	Yulyuaihyaoi	X531000-A	 	    O:0213  Di Po 		000	Wild	K9 V	-1	(300-2)	[0000]	B	9	-6
+Eali	E	0414	Aliyaeakh	X424000-7	 	     Di 		000	Wild	M1 V M8 V	-3	(500+5)	[0000]	B	7	25
+Eali	E	0416	Iyaleweawaooi	X310000-9	 	    O:0213  Di 		003	Wild	M5 III	-2	(600-1)	[0000]	B	9	-6
+Eali	E	0418	Teiih	X310000-8	 	      Di 		013	Wild	M3 V	-3	(D00-1)	[0000]	B	14	-13
+Eali	E	0419	Oukhheatrui	X310000-9	 	     Di 		024	Wild	K4 V	-2	(C00-1)	[0000]	B	12	-12
+Eali	E	0420	Uieyuh	X848000-5	 	      Di 		021	Wild	K4 V	-3	(700-4)	[0000]	B	8	-28
+Eali	I	0422	Aiwaueil	X666000-3	 	      Da  Di Ga 		000	Wild	M0 V	-3	(700+1)	[0000]	B	8	7
+Eali	I	0427	Eiwiilroah	E553000-8	 	    O:0627  Di Po 		004	Wild	M3 V M8 V	-3	(900+2)	[0000]	B	12	18
+Eali	I	0429	Ihhroeiyasas	X66A5AD-4	 	     Ni Pr Wa 		313	Wild	G2 V	-3	(740+4)	[8255]	Bc	14	112
+Eali	M	0431	O'hfyuiyw	X424000-B	 	     Di 		023	Wild	G0 V	-1	(D00-2)	[0000]	B	16	-26
+Eali	M	0432	Auyashrakhew	X8B6000-A	 	     Di Fl 		002	Wild	M2 V	-1	(800+1)	[0000]	B	10	8
+Eali	M	0437	Hyayelaa	X789379-3	 	     Lo 		903	Wild	K0 V M3 V	-3	(620-2)	[1162]	B	8	-24
+Eali	M	0439	Yoaokheah	D59A000-6	 	     Di Wa 		003	Wild	K0 V	-3	(300+1)	[0000]	B	16	3
+Eali	E	0511	Uawiywei	X772000-5	 	     Di He 		024	Wild	M1 V M7 V	-3	(400-3)	[0000]	B	13	-12
+Eali	E	0512	Eilriaiaus	X574000-5	 	       Di (NIL)		023	Wild	K1 V M0 V	-3	(A00+1)	[0000]	B	13	10
+Eali	E	0513	Aokah	X574000-6	 	      Di 		000	Wild	M0 II D	-3	(800-2)	[0000]	B	12	-16
+Eali	E	0514	Altleaair	X561000-4	 	    O:0513  Di 		005	Wild	K7 II D	-3	(300+1)	[0000]	B	13	3
+Eali	E	0517	Hleaew	X531000-8	 	     Di Po 		021	Wild	M3 V	-3	(A00+1)	[0000]	B	8	10
+Eali	E	0520	Uiheaail	X200000-E	 	      Di Va 		014	Wild	M1 V M5 V	-1	(E00+1)	[0000]	B	13	14
+Eali	I	0522	Eaalrhteir	X100000-D	 	     Di Va 		000	Wild	G8 V M2 V	-1	(500+4)	[0000]	B	8	20
+Eali	I	0523	Olrlauaai	X8C3000-B	 	     Di Fl (ENIL)		000	Wild	M0 III	-1	(A00-4)	[0000]	B	9	-40
+Eali	I	0530	Eahyeai	X543000-6	 	     Di Po 		002	Wild	K0 V	-3	(800-2)	[0000]	B	8	-16
+Eali	M	0540	Aiwtleal	X527000-B	 	    Pz  Di (NIL)		014	Wild	M2 V	-1	(E00-5)	[0000]	B	10	-70
+Eali	A	0603	Fiykhaseal	X692000-4	 	    Fo  Di He 		012	Wild	M2 V M5 V	-3	(600+5)	[0000]	B	12	30
+Eali	A	0605	Arlyasoi	X87A000-4	 	     Di Wa 		000	Wild	M1 V	-3	(500-2)	[0000]	B	7	-10
+Eali	A	0607	Eaesyoalea	X8A8000-8	 	    Da  Di Fl 		004	Wild	G0 V	-3	(B00-1)	[0000]	B	15	-11
+Eali	A	0608	Tyalhkehkaiiyw	X561347-2	 	      Lo 		902	Wild	M3 V	-3	(720+1)	[2142]	B	12	14
+Eali	E	0611	Orlkheaala	X541000-9	 	     Di He Po 		002	Wild	A2 V	-2	(A00-2)	[0000]	B	12	-20
+Eali	E	0620	Iyrkyalo	X100000-7	 	     Di Va 		000	Wild	K1 V M6 V	-3	(700-2)	[0000]	B	9	-14
+Eali	I	0622	Ktoeiliyi	X100000-9	 	      Di Va 		004	Wild	G1 V	-2	(C00-1)	[0000]	B	11	-12
+Eali	I	0625	Eiriktakhha	X88A000-2	 	     Di Wa 		013	Wild	M5 II	-3	(600-3)	[0000]	B	14	-18
+Eali	I	0627	Irii	X423000-9	 	      Di Po 		012	Wild	M2 V M7 V	-2	(B00+2)	[0000]	B	6	22
+Eali	I	0629	Eoaoluu'hi'ye	DA8A000-8	 	     Di Oc 		021	Wild	K0 V	-3	(800-2)	[0000]	B	11	-16
+Eali	I	0630	Khailraioil	X637000-7	 	    Pz  Di (NIL)		025	Wild	M3 V	-3	(A00-2)	[0000]	B	15	-20
+Eali	M	0635	Iyryakhye	X695000-3	 	      Di 		004	Wild	K0 V M6 V	-3	(600+1)	[0000]	B	15	6
+Eali	M	0638	Eaeleal	X537000-8	 	   Di Pz  (NIL)		003	Wild	G1 V	-3	(C00-1)	[0000]	B	11	-12
+Eali	M	0640	Eahouoire	X423000-9	 	     Di Po 		003	Wild	M3 V M7 V	-2	(700+1)	[0000]	B	8	7
+Eali	A	0702	Arsalreal	X9B4000-A	 	    O:0805  Di Fl 		002	Wild	M1 V	-1	(600+3)	[0000]	B	8	18
+Eali	A	0704	Tleiuiyah	X665335-2	 	      Ga Lo 		904	Wild	G8 IV M8 V	-3	(620+2)	[5113]	B	8	24
+Eali	A	0706	Oiahalha	X9C8000-A	 	    O:0805  Di Fl 		004	Wild	K6 V M1 V	-1	(700-4)	[0000]	B	13	-28
+Eali	A	0707	Hoahtei	X544000-6	 	      Di 		003	Wild	M2 V	-3	(800-1)	[0000]	B	11	-8
+Eali	A	0708	Eira	D99A000-7	 	     Di Wa 		004	Wild	M0 V M0 V	-3	(500+1)	[0000]	B	12	5
+Eali	A	0709	Asoiiyshkaul	X676000-6	 	    O:0807  Di 		004	Wild	G3 II M4 V D	-3	(300-3)	[0000]	B	11	-9
+Eali	E	0712	Kyoiluayahai	X89A000-7	 	    Da  Di Wa 		010	Wild	M3 V	-3	(800+3)	[0000]	B	8	24
+Eali	E	0719	Ailyuwftea	X100000-D	 	     Pz  Di Va 		023	Wild	K1 V	-1	(E00-1)	[0000]	B	9	-14
+Eali	I	0723	Aihhelo	X000000-8	 	      As Va Di 		024	Wild	G2 II M3 V	-3	(D00-1)	[0000]	B	15	-13
+Eali	I	0724	Khteiuilkyus	D547000-6	 	     Di 		015	Wild	K9 V M8 V	-3	(400+2)	[0000]	B	13	8
+Eali	I	0725	Eahaiael	X587751-2	 	     Pz  Ag Ri (NIL)		110	Wild	K1 V	0	(969+1)	[7774]	BC	11	486
+Eali	I	0728	Yarkhyah	X423000-7	 	     Di Po 		002	Wild	M1 V M8 V	-3	(500-3)	[0000]	B	14	-15
+Eali	M	0731	Waaihais	X526000-9	 	     Di 		022	Wild	M3 V	-2	(800-1)	[0000]	B	11	-8
+Eali	M	0732	Ktiyyarlkhtiy	X547000-3	 	      Di 		012	Wild	M6 III M8 V M5 V	-3	(800-2)	[0000]	B	13	-16
+Eali	M	0737	Yulaah	X584522-2	 	      Ag Pr Ni 		202	Wild	M5 III	-2	(840+1)	[3391]	BcC	9	32
+Eali	M	0738	Ui'aeaesiy	X9D4000-C	 	    Da  Di 		013	Wild	M8 III	-1	(A00+3)	[0000]	B	13	30
+Eali	M	0739	Awwiyahkhyeh	X546000-2	 	    O:0540  Di 		010	Wild	K3 V	-3	(400-2)	[0000]	B	9	-8
+Eali	A	0803	Aiyar	X759424-3	 	     Ni 		903	Wild	M1 V M2 V	-3	(731-2)	[4143]	B	10	-42
+Eali	A	0805	Yaeioh	D658755-6	 	     Ag (NIL)		300	Wild	M0 V M3 V	-1	(96A+3)	[A673]	BC	9	1620
+Eali	A	0807	Akhwyahloarl	X6648AA-1	 	     Pz  Pa Ri Ph (NIL)		303	Wild	G7 III	-1	(A77-3)	[B752]	BcCe	11	-1470
+Eali	E	0814	Tokhhkyoh	X531000-C	 	     Di Po 		003	Wild	M2 V	-1	(900+3)	[0000]	B	14	27
+Eali	E	0816	Yaoaarl	C774846-7	 	      Pa Pi Ph (NIL)		305	Wild	M1 V	-1	(A72+5)	[4755]	BcDe	13	700
+Eali	E	0817	Eshkoakh	X300000-7	 	    Fo O:1118  Di Va 		004	Wild	M2 V M3 V	-3	(300+1)	[0000]	B	11	3
+Eali	E	0818	Yeyaoirti	E544678-5	 	     Ag Ni 		615	Wild	G8 V M5 V	-2	(854-2)	[4496]	BC	9	-320
+Eali	E	0820	Eawea'ye	X554000-2	 	    O:1118  Di 		001	Wild	M2 V	-3	(300-4)	[0000]	B	9	-12
+Eali	I	0822	Kiaoeah	X558677-0	 	     Ag Ni 		413	Wild	M3 V	-2	(852+5)	[7464]	BC	10	400
+Eali	I	0827	Ealwealrtiw	X783775-1	 	    Pz  Ri (NIL)		324	Wild	M2 V	-1	(965-3)	[7651]	BC	11	-810
+Eali	I	0828	Aisaoaoeh	X776000-5	 	    O:0827  Di 		003	Wild	A5 III M6 V	-3	(300+1)	[0000]	B	10	3
+Eali	M	0833	Uieahaa	X777000-6	 	       Di (NIL)		003	Wild	M0 V	-3	(A00+1)	[0000]	B	15	10
+Eali	M	0838	Liewsiywuiw	XAA6000-8	 	    O:0540  Di Fl 		004	Wild	M0 V M2 V	-3	(700-4)	[0000]	B	12	-28
+Eali	B	0902	Yurtoakhyeul	X666000-6	 	    O:Verg-0640  Di Ga 		013	Wild	G3 V	-3	(300-1)	[0000]	B	13	-3
+Eali	B	0905	Kiyiloeie	X100000-C	 	      Di Va 		035	Wild	K1 V	-1	(G00+3)	[0000]	B	15	48
+Eali	B	0907	Elrkhtiy'teal	X431000-9	 	     Di Po 		000	Wild	G5 III M8 V	-2	(700-5)	[0000]	B	8	-35
+Eali	B	0908	Uhirlaoaarl	D5487AB-5	 	      Ag Pi (NIL)		402	Wild	G4 V M6 V	-1	(969-3)	[4662]	BCD	14	-1458
+Eali	B	0909	Hrayes	X310000-D	 	     Di 		012	Wild	M2 V	-1	(700+2)	[0000]	B	6	14
+Eali	B	0910	Elauyo	X100000-A	 	     Pz  Di Va 		024	Wild	G0 V	-1	(F00-1)	[0000]	B	16	-15
+Eali	F	0911	Hla'ei	X555000-7	 	     Di (NIL)		014	Wild	M2 V	-3	(B00+4)	[0000]	B	15	44
+Eali	F	0912	Iykhiyea	X663433-0	 	      Ni 		313	Wild	M2 V	-3	(730+1)	[4141]	B	9	21
+Eali	F	0914	Khisktoeea	X100000-9	 	     Di Va 		004	Wild	K5 V	-2	(900-1)	[0000]	B	13	-9
+Eali	F	0915	Uahoar	X510000-7	 	      Di 		002	Wild	G1 V M1 V	-3	(800-1)	[0000]	B	13	-8
+Eali	F	0920	Hwuarloauilr	X200000-8	 	    O:1118  Di Va 		004	Wild	K1 V	-3	(700+1)	[0000]	B	17	7
+Eali	J	0922	Heauahau	E543000-3	 	    O:1021  Di Po 		000	Wild	M3 V	-3	(400-2)	[0000]	B	10	-8
+Eali	J	0923	Ahtlisouiy	X676000-0	 	      Ba 		012	Wild	M0 V M1 V	-3	(700-3)	[0000]	B	12	-21
+Eali	J	0924	Wayohuaar	X626000-E	 	     Di 		002	Wild	K1 V M7 V	-1	(900+2)	[0000]	B	10	18
+Eali	J	0926	Iwhrouiyer	X578000-5	 	      Di 		022	Wild	K2 V	-3	(600+1)	[0000]	B	14	6
+Eali	J	0927	Ekhyoso	E75A000-7	 	     Di Wa 		004	Wild	K0 V M1 V	-3	(400-1)	[0000]	B	13	-4
+Eali	N	0935	Uoiwkhtei	X8A6000-9	 	     Di Fl 		005	Wild	K7 III	-2	(D00+2)	[0000]	B	14	26
+Eali	N	0936	Hweiiyaukh	X563533-2	 	     Ni Pr 		303	Wild	M4 II	-3	(841+1)	[2243]	Bc	9	32
+Eali	N	0937	Oiyeliy	X434000-9	 	     Di 		004	Wild	M3 V	-2	(B00-1)	[0000]	B	13	-11
+Eali	B	1002	Kha'alurl	X748000-3	 	      Di 		002	Wild	G1 V	-3	(700-3)	[0000]	B	15	-21
+Eali	B	1003	E'waiihtla	X100000-8	 	      Di Va 		010	Wild	M3 V M4 V	-3	(900-3)	[0000]	B	11	-27
+Eali	B	1004	Uaeaiyskah	X546000-4	 	      Di 		004	Wild	M0 V M1 V	-3	(700+3)	[0000]	B	9	21
+Eali	B	1006	Airiyrlyu'	X422000-D	 	       Di He Po (NIL)		023	Wild	G0 V	-1	(G00-2)	[0000]	B	13	-32
+Eali	B	1007	Yohkui	X433000-6	 	     Fo  Di Po (NIL)		003	Wild	M1 V	-3	(B00+2)	[0000]	B	10	22
+Eali	B	1008	Ewaos	XA76000-6	 	     Di 		024	Wild	K5 V	-3	(300-3)	[0000]	B	12	-9
+Eali	B	1010	Ftaushioueilr	X565744-1	 	      Ag Ri (NIL)		404	Wild	M2 V	0	(967+1)	[6743]	BC	13	378
+Eali	F	1012	Ohaiyu'o	X647000-2	 	      Di 		003	Wild	M0 V	-3	(600-1)	[0000]	B	11	-6
+Eali	F	1016	Laaisea	X868997-0	 	    Pz  Hi Pr (NIL)		323	Wild	G2 V M9 V	-1	(B85+3)	[4813]	BcE	15	1320
+Eali	F	1017	Alausiy	E894000-6	 	      Di 		004	Wild	M0 V M9 V	-3	(600-2)	[0000]	B	14	-12
+Eali	F	1019	Areaolrrealr	X665000-5	 	      Di Ga 		002	Wild	M1 V	-3	(600+1)	[0000]	B	13	6
+Eali	J	1021	Feaaloaal	XAC5000-D	 	   Pz  Di Fl (ENIL)		003	Wild	G1 V	-1	(C00+2)	[0000]	B	9	24
+Eali	J	1024	Oyo'au	X758873-0	 	    Fo  Pa Ph (NIL)		211	Wild	M0 V M2 V	-2	(A75+4)	[B661]	Bce	7	1400
+Eali	J	1027	Keiilheirleah	X300000-8	 	     Di Va 		023	Wild	M2 V	-3	(A00-2)	[0000]	B	14	-20
+Eali	N	1032	Ailaw	X423000-9	 	    O:0732  Di Po 		003	Wild	M0 V M8 V	-2	(600+5)	[0000]	B	12	30
+Eali	N	1036	Hreiwuieahea	X794000-5	 	     Di 		012	Wild	K5 V M2 V	-3	(500-1)	[0000]	B	15	-5
+Eali	B	1103	Erlhyuyeioia	E98959B-5	 	     Ni Pr 		314	Wild	K7 II	-3	(740-4)	[4232]	Bc	9	-112
+Eali	B	1104	Yoelkhaoaishle	X428000-8	 	     Di 		004	Wild	M3 V	-3	(A00-2)	[0000]	B	11	-20
+Eali	B	1106	A'kyehyoiw	X556000-5	 	      Di 		004	Wild	M0 V	-3	(600-2)	[0000]	B	11	-12
+Eali	F	1111	Khihaua	X869000-7	 	    O:1010  Di 		014	Wild	M1 V M5 V	-3	(300+1)	[0000]	B	12	3
+Eali	F	1112	Ahhyoe	X535000-C	 	    O:1311  Di 		004	Wild	K4 V	-1	(900+1)	[0000]	B	11	9
+Eali	F	1118	Eakhta	X677000-6	 	     Pz  Di (NIL)		003	Wild	M1 V	-3	(C00-2)	[0000]	B	8	-24
+Eali	J	1123	Ooioiha	X563000-5	 	     Di 		003	Wild	M1 V M2 V	-3	(400-3)	[0000]	B	8	-12
+Eali	J	1124	Fteailel	E698000-3	 	     Di 		013	Wild	K1 V	-3	(400+1)	[0000]	B	12	4
+Eali	J	1126	Auyal	X684000-3	 	    O:1222  Di 		023	Wild	K9 V	-3	(500+1)	[0000]	B	15	5
+Eali	N	1132	Eaiyhwoiw	X425000-7	 	     Di 		000	Wild	M2 V	-3	(400+1)	[0000]	B	13	4
+Eali	B	1210	Aulhahhfelaas	X421000-A	 	     Di He Po 		004	Wild	F1 II D	-1	(800-2)	[0000]	B	14	-16
+Eali	F	1212	Hkoikheaoha	X310000-9	 	    O:1311  Di 		004	Wild	M3 V	-2	(700-4)	[0000]	B	7	-28
+Eali	F	1218	Eawkta'a	X866000-3	 	       Di Ga 		003	Wild	M0 V	-3	(700-4)	[0000]	B	11	-28
+Eali	F	1220	Syiauhktaorl	X782444-2	 	      Ni 		513	Wild	M0 V M0 V	-3	(833+3)	[2171]	B	11	216
+Eali	J	1222	Oheise	X100000-B	 	      Pz  Di Va 		004	Wild	M2 V M3 V	-1	(F00-1)	[0000]	B	12	-15
+Eali	J	1226	Aooislaiheeiw	X100000-8	 	     Di Va 		004	Wild	M1 V	-3	(700+1)	[0000]	B	11	7
+Eali	J	1227	Eiheleiil	X6B3000-8	 	     Di Fl 		004	Wild	M1 V M2 V	-3	(900-3)	[0000]	B	15	-27
+Eali	J	1230	Eiiyeakh	X776000-5	 	     Di 		000	Wild	M1 V	-3	(500-3)	[0000]	B	5	-15
+Eali	N	1231	Oioulaalrhkas	X536000-9	 	     Di 		033	Wild	K4 V M4 V	-2	(C00-4)	[0000]	B	14	-48
+Eali	N	1233	Yashtoh	D547000-7	 	      Di 		004	Wild	K7 V M6 V	-3	(600+3)	[0000]	B	13	18
+Eali	N	1234	Reiyrl	X555300-3	 	      Lo 		913	Wild	M0 V M1 V	-3	(720+3)	[1191]	B	9	42
+Eali	N	1235	Aoheweiaulr	E544000-8	 	      Di (NIL)		001	Wild	K3 V	-3	(A00-2)	[0000]	B	10	-20
+Eali	B	1301	Eayurlua'	X624000-7	 	     Di 		003	Wild	M3 III M0 V	-3	(700-1)	[0000]	B	6	-7
+Eali	B	1304	Khtoioirea	E688000-5	 	     Di 		004	Wild	K9 V M6 V	-3	(500-3)	[0000]	B	7	-15
+Eali	B	1305	Iheaw	D662443-6	 	      Ni 		100	Wild	G4 V M2 V	-3	(730+3)	[6154]	B	6	63
+Eali	B	1307	Eliyeiryairl	X787000-3	 	     Di Ga 		003	Wild	M0 V M8 V	-3	(400+1)	[0000]	B	12	4
+Eali	B	1308	Kakhiw	D564799-5	 	     Droy3  Ag Ri (NIL)		203	Wild	F4 V	0	(965+3)	[5759]	BC	13	810
+Eali	F	1311	Esyah	X310000-E	 	       Di 		004	Wild	G1 V	-1	(G00-1)	[0000]	B	9	-16
+Eali	F	1318	Iylarlyawsieae	X677000-7	 	      Di 		004	Wild	M2 V M2 V	-3	(800-3)	[0000]	B	16	-24
+Eali	F	1319	Eaealearl	X423000-A	 	      Di Po 		014	Wild	G3 V M2 V	-1	(D00+4)	[0000]	B	17	52
+Eali	J	1323	Tohai	X563978-3	 	     Hi Pr (NIL)		203	Wild	M3 V M3 V	-1	(B89+2)	[9834]	BcE	15	1584
+Eali	J	1324	Aoliei	X310000-E	 	     Di 		012	Wild	G3 V	-1	(900-1)	[0000]	B	14	-9
+Eali	J	1330	Yorlelra	E686776-5	 	      Ag Ri Ga (NIL)		302	Wild	G3 V	0	(96B+1)	[37A4]	BC	9	594
+Eali	N	1332	Iwieiyeh	X433000-C	 	      Di Po 		004	Wild	F2 V M5 V M9 V	-1	(C00-2)	[0000]	B	16	-24
+Eali	N	1333	Ilyaw	E576000-6	 	     Di 		002	Wild	M2 V	-3	(300+2)	[0000]	B	6	6
+Eali	N	1339	Yelwyoe	X535000-8	 	     Di 		013	Wild	A0 V M6 V	-3	(A00+1)	[0000]	B	12	10
+Eali	B	1403	Erlfooa	X86A436-0	 	     Ni Wa 		102	Wild	M2 V M9 V	-3	(631+2)	[5161]	B	8	36
+Eali	B	1405	Ftiakhearoi	X100000-D	 	     Di Va 		010	Wild	K4 V M4 V	-1	(700-4)	[0000]	B	7	-28
+Eali	B	1408	Eaarwilhkaw	X776000-3	 	    O:1308  Di 		000	Wild	M2 V	-3	(300+1)	[0000]	B	9	3
+Eali	B	1410	Yuulreiaoisi	X546000-7	 	      Di (NIL)		002	Wild	M2 V	-3	(900-3)	[0000]	B	7	-27
+Eali	F	1412	Oirleea	X553477-2	 	     Ni Po 		205	Wild	M1 V M2 V	-3	(633-1)	[5121]	B	11	-54
+Eali	F	1414	Eaeayaah	E658000-7	 	    O:1311  Di 		004	Wild	M2 V	-3	(400+1)	[0000]	B	12	4
+Eali	F	1415	Aihktiyuahkhei	X300000-B	 	     Di Va 		013	Wild	G3 V	-1	(B00-1)	[0000]	B	15	-11
+Eali	F	1417	Sahkhaiyar	X100000-8	 	     Di Va 		000	Wild	G6 V M9 V	-3	(400-3)	[0000]	B	12	-12
+Eali	J	1421	Ealalkhtair	E589000-6	 	    O:1222  Di 		004	Wild	K3 V	-3	(300+4)	[0000]	B	14	12
+Eali	J	1423	Ahorei	X100000-9	 	     Di Va 		004	Wild	G1 V	-2	(A00+4)	[0000]	B	15	40
+Eali	J	1425	Kaheyu	X768000-2	 	     Di 		013	Wild	M1 V M2 V	-3	(300-3)	[0000]	B	14	-9
+Eali	J	1426	Aalreae	X100000-7	 	     Di Va 		002	Wild	M1 V M3 V	-3	(500-4)	[0000]	B	14	-20
+Eali	J	1428	Heaeaekh	X668000-6	 	     Di 		003	Wild	G9 V	-3	(300-5)	[0000]	B	11	-15
+Eali	N	1432	Aeakhhaheal	X9A6000-8	 	     Di Fl 		032	Wild	M1 V	-3	(D00-1)	[0000]	B	10	-13
+Eali	N	1440	Tluaayaai	X736000-7	 	    Pz  Di (NIL)		012	Wild	K1 V	-3	(A00+1)	[0000]	B	8	10
+Eali	B	1501	Oarlhteisyel	XAA5000-8	 	     Di Fl 		023	Wild	K3 IV M9 V	-3	(B00+2)	[0000]	B	14	22
+Eali	F	1511	Yorloai	E551000-5	 	     Di Po 		004	Wild	M2 V M7 V	-3	(600-1)	[0000]	B	13	-6
+Eali	F	1512	Aolraaaleahaw	X9C4000-9	 	     Di Fl 		024	Wild	G0 V	-2	(E00-2)	[0000]	B	15	-28
+Eali	F	1517	Eyeolyoawtear	E687000-3	 	     Di Ga 		013	Wild	M8 III K7 V	-3	(500+1)	[0000]	B	11	5
+Eali	F	1519	Iwouhstayes	X310000-E	 	      Di 		000	Wild	M1 V M2 V	-1	(800-3)	[0000]	B	9	-24
+Eali	J	1521	Iho	X596958-4	 	     Hi In (NIL)		501	Wild	M1 V	0	(C88-3)	[8962]	BE	10	-2304
+Eali	J	1523	Taouirihfti	X7C5000-B	 	     Di Fl 		002	Wild	M1 V	-1	(A00+1)	[0000]	B	12	10
+Eali	J	1525	Ilahaiha	X100000-D	 	     Di Va 		005	Wild	M3 V	-1	(B00+4)	[0000]	B	9	44
+Eali	J	1526	Ekhyoaoiharha	X85A000-0	 	     Ba Wa 		024	Wild	G5 IV	-3	(400+2)	[0000]	B	11	8
+Eali	J	1527	Iraisafeie	X8C3000-A	 	    (Huosua)  Di Fl 		025	Wild	G3 II D	-1	(B00+3)	[0000]	B	13	33
+Eali	J	1528	Khiyoea	X73A000-C	 	     Di Wa 		002	Wild	M0 V	-1	(800+1)	[0000]	B	7	8
+Eali	J	1530	Oulrasliyakh	X552000-6	 	    O:1627  Di Po 		001	Wild	K1 V M6 V	-3	(500+1)	[0000]	B	12	5
+Eali	N	1531	Aaleiwaor	X654000-2	 	     Di 		004	Wild	M1 V	-3	(300+1)	[0000]	B	12	3
+Eali	N	1534	Isoa'khtui	X435000-A	 	     Di 		013	Wild	K3 V	-1	(B00+2)	[0000]	B	12	22
+Eali	N	1537	Iyshtea	X542000-6	 	     Di He Po 		020	Wild	M2 V	-3	(800+1)	[0000]	B	14	8
+Eali	B	1607	Tlaiauh	X200000-7	 	      Di Va 		004	Wild	M0 V	-3	(800-2)	[0000]	B	13	-16
+Eali	B	1608	Yowaoeeaei	X426000-8	 	     Di 		002	Wild	F4 V	-3	(800-1)	[0000]	B	7	-8
+Eali	F	1614	Aihoalr	X310000-8	 	      Pz  Di 		005	Wild	M2 V	-3	(F00+1)	[0000]	B	11	15
+Eali	F	1617	Aoeilrau	X100000-D	 	      Di Va 		000	Wild	K0 V	-1	(800+1)	[0000]	B	12	8
+Eali	F	1619	Khehoirl	X777000-1	 	     Di 		014	Wild	K0 V	-3	(500+2)	[0000]	B	13	10
+Eali	F	1620	Ahroaea	X534000-9	 	     Di 		014	Wild	M5 III M5 V	-2	(D00-2)	[0000]	B	16	-26
+Eali	J	1626	Iuiy'khtiy	X100000-A	 	    O:1728  Di Va 		023	Wild	F5 V M4 V	-1	(800+1)	[0000]	B	14	8
+Eali	J	1627	Ftahaoh	X432000-C	 	      Di Po 		012	Wild	G0 V	-1	(B00-2)	[0000]	B	11	-22
+Eali	J	1630	Eilrhkeair	X576000-4	 	     Di 		013	Wild	K0 IV	-3	(400-3)	[0000]	B	10	-12
+Eali	N	1638	Awhosairlkhayo	X733000-9	 	    Pz  Di Po (NIL)		000	Wild	M2 V	-2	(900-2)	[0000]	B	5	-18
+Eali	N	1640	Iyul	X434000-D	 	     Di 		023	Wild	M2 V M7 V	-1	(C00+4)	[0000]	B	13	48
+Eali	C	1707	Fye'iyra	X778000-A	 	      Di (NIL)		022	Wild	G1 V	-1	(G00-3)	[0000]	B	13	-48
+Eali	C	1710	Aeirlyekheal	XAB5000-8	 	    O:1707  Di Fl 		014	Wild	A8 V M1 V	-3	(A00+1)	[0000]	B	13	10
+Eali	G	1713	Eaaoaies	D644000-7	 	       Di (NIL)		000	Wild	M2 V	-3	(A00+1)	[0000]	B	10	10
+Eali	G	1714	Sa'ioyesaiy	X310000-A	 	       Di 		004	Wild	G9 V	-1	(E00-5)	[0000]	B	16	-70
+Eali	G	1715	Oeakhisi	X9A4000-8	 	     Di Fl 		024	Wild	K1 V M4 V	-3	(C00-2)	[0000]	B	10	-24
+Eali	G	1716	Tuyoyaa	X9B4000-9	 	    Da  Di Fl 		003	Wild	M4 III	-2	(B00+2)	[0000]	B	14	22
+Eali	G	1720	Oiweeakh	X688000-6	 	      Di 		013	Wild	K1 V	-3	(600-3)	[0000]	B	11	-18
+Eali	K	1721	Yorlkar	X9D8000-7	 	     Di 		012	Wild	M4 II	-3	(600+1)	[0000]	B	8	6
+Eali	K	1727	Osahkhteasoa	X439000-8	 	     Di 		004	Wild	M5 III D	-3	(800+2)	[0000]	B	17	16
+Eali	K	1728	Khieaohau	D785755-6	 	      Ag Ri Ga (NIL)		202	Wild	M1 V M3 V M2 V	0	(96B-5)	[7788]	BC	10	-2970
+Eali	K	1729	Oiah	X63A000-B	 	    O:1728  Di Wa 		023	Wild	M0 V	-1	(900-5)	[0000]	B	16	-45
+Eali	O	1731	Yewaeaiis	X535000-7	 	     Di 		014	Wild	K3 V M9 V	-3	(700+1)	[0000]	B	18	7
+Eali	O	1732	Arlauos	X889300-2	 	     Lo 		915	Wild	K0 V M5 V	-3	(620-2)	[7174]	B	14	-24
+Eali	O	1734	Oi'a'hea	X554000-5	 	     Di 		004	Wild	G8 V M5 V	-3	(500+1)	[0000]	B	9	5
+Eali	O	1735	Yuaieh	X625000-7	 	     Di 		003	Wild	M8 II	-3	(400-1)	[0000]	B	12	-4
+Eali	O	1739	Uiraouaiih	X643000-4	 	     Di Po 		021	Wild	M1 V	-3	(500-2)	[0000]	B	13	-10
+Eali	C	1802	Khtektouh	XA9A000-4	 	      Di Oc (NIL)		000	Wild	K6 II	-3	(B00-4)	[0000]	B	6	-44
+Eali	C	1808	Oioayusoah	E86A549-5	 	    Da  Ni Pr Wa 		103	Wild	M3 V	-3	(743+2)	[5251]	Bc	15	168
+Eali	G	1812	Eihkho	X310000-A	 	       Di 		014	Wild	G4 V	-1	(F00+2)	[0000]	B	14	30
+Eali	G	1814	Eauiwea	X8D3000-3	 	   Di Fo  (NIL)		013	Wild	M0 V M3 V	-3	(900+1)	[0000]	B	13	9
+Eali	G	1815	Ilkaao	X7B4000-E	 	     Di Fl 		003	Wild	M1 V	-1	(900-5)	[0000]	B	15	-45
+Eali	G	1819	Ealhalria	X436000-B	 	     Di 		000	Wild	K5 V	-1	(400+1)	[0000]	B	5	4
+Eali	G	1820	Eihiouhftei	X541000-4	 	    O:1821  Di He Po 		013	Wild	G4 V	-3	(400-3)	[0000]	B	12	-12
+Eali	K	1821	Htaistea	X100000-D	 	       Di Va 		004	Wild	K4 V M3 V	-1	(F00+2)	[0000]	B	9	30
+Eali	K	1823	Htiah	XA79000-5	 	      Di (NIL)		005	Wild	M2 V	-3	(C00+5)	[0000]	B	16	60
+Eali	K	1824	Iyskyar	D54678C-5	 	      Ag Pi (NIL)		303	Wild	M0 V	-1	(966+1)	[5614]	BCD	11	324
+Eali	K	1825	Yulriyyew	X528000-B	 	     Di 		001	Wild	K4 V M1 V	-1	(900+2)	[0000]	B	7	18
+Eali	K	1828	Khtaoiwe	X425000-8	 	    Pz  Di (NIL)		014	Wild	M1 V M8 V	-3	(E00-1)	[0000]	B	13	-14
+Eali	O	1836	Erliyil	X561000-3	 	    O:2136  Di 		001	Wild	M3 V M8 V	-3	(300+2)	[0000]	B	10	6
+Eali	O	1839	Eawhtuikhoah	XAC5000-9	 	    Pz  Di Fl (ENIL)		003	Wild	M0 V M1 V	-2	(D00-2)	[0000]	B	11	-26
+Eali	C	1904	Iouiiylus	X544640-1	 	     Ag Ni 		602	Wild	M0 V	-2	(852+2)	[8421]	BC	9	160
+Eali	C	1908	Yahaualiwilal	X635000-A	 	    O:1707  Di 		000	Wild	M1 V	-1	(300+2)	[0000]	B	3	6
+Eali	G	1911	Aorlailakh	X310000-A	 	     Di 		034	Wild	K1 V	-1	(C00-1)	[0000]	B	13	-12
+Eali	G	1912	Kilrya	X310000-C	 	       Di 		003	Wild	M0 V M8 V	-1	(E00-3)	[0000]	B	7	-42
+Eali	G	1914	Eahheilr	X787000-2	 	    O:1912  Di Ga 		003	Wild	K5 V M1 V	-3	(300-3)	[0000]	B	10	-9
+Eali	G	1915	Yowtlol	E968000-5	 	     Di 		000	Wild	M3 V	-3	(300-4)	[0000]	B	6	-12
+Eali	G	1916	Iiyraw	X564000-4	 	     Di 		004	Wild	A3 V M7 V	-3	(400+1)	[0000]	B	9	4
+Eali	G	1919	Yeshleao	E977000-7	 	    O:1821  Di 		004	Wild	K2 V M1 V	-3	(300+1)	[0000]	B	14	3
+Eali	K	1922	Ftairlya	D545696-5	 	    Pz  Ag Ni (NIL)		920	Wild	M2 V	-2	(950+1)	[3443]	BC	10	45
+Eali	K	1923	Yoweaserl	X100000-B	 	       Di Va 		015	Wild	K2 V	-1	(J00+1)	[0000]	B	14	18
+Eali	K	1926	Khiewriaar	D576000-3	 	      Di 		021	Wild	K6 V	-3	(600+1)	[0000]	B	12	6
+Eali	K	1927	Htyeiylra	X434000-A	 	     Di 		034	Wild	M3 V	-1	(F00-1)	[0000]	B	12	-15
+Eali	O	1933	Eauale	X9D5000-6	 	     Di 		010	Wild	K0 V M1 V	-3	(400-1)	[0000]	B	9	-4
+Eali	O	1937	A'akheiiylhwiy	XAA7000-8	 	    O:1839  Di Fl 		013	Wild	G5 V	-3	(700-1)	[0000]	B	7	-7
+Eali	O	1938	Hlaliyiaol	X7A2000-C	 	      Di Fl He 		000	Wild	M1 V M2 V	-1	(700-3)	[0000]	B	5	-21
+Eali	G	2014	Eiskhteaoulr	X575000-3	 	     Di 		002	Wild	K5 V	-3	(500-2)	[0000]	B	7	-10
+Eali	K	2025	Ihaaeaus	X587000-6	 	      Di 		003	Wild	M3 V	-3	(600+4)	[0000]	B	11	24
+Eali	O	2034	Iylareakh	X435000-A	 	     Di 		023	Wild	K5 V M7 V M0 V	-1	(A00-3)	[0000]	B	14	-30
+Eali	O	2038	Khaoeikh	E577000-5	 	    O:1839  Di 		004	Wild	G7 IV	-3	(400-3)	[0000]	B	13	-12
+Eali	C	2101	Aorlkaakh	X422000-7	 	     Di He Po 		003	Wild	M1 V M9 V	-3	(600-1)	[0000]	B	10	-6
+Eali	G	2111	Tiaiarle	X310000-E	 	     Di 		033	Wild	M2 V M7 V	-1	(A00+1)	[0000]	B	18	10
+Eali	G	2113	Iweil	X5517A9-1	 	     Po (NIL)		300	Wild	K3 V	-2	(960+2)	[7576]	B	10	108
+Eali	G	2114	Sekhtai	D55A555-4	 	    Pz  Ni Wa (NIL)		401	Wild	G2 V	-3	(B42-4)	[1214]	B	12	-352
+Eali	G	2117	Ftalea	E571994-7	 	     He Hi In (NIL)		313	Wild	M1 V M3 V	0	(A82+2)	[7919]	BE	15	320
+Eali	G	2118	Aolaiaw	X634000-6	 	    Fo  Di 		003	Wild	M2 V	-3	(700-4)	[0000]	B	14	-28
+Eali	K	2122	Khaiheiiyaul	X526000-C	 	     Di 		023	Wild	M2 V	-1	(B00-3)	[0000]	B	15	-33
+Eali	O	2131	Eahtawa	X8C6000-9	 	     Di Fl 		022	Wild	K3 V M7 V	-2	(B00-1)	[0000]	B	12	-11
+Eali	O	2132	Oawyeoaiya	X436000-E	 	     Di 		013	Wild	F1 V	-1	(C00-3)	[0000]	B	11	-36
+Eali	O	2135	Ftakhyues	X545000-4	 	     Di 		004	Wild	K5 V	-3	(400+1)	[0000]	B	13	4
+Eali	O	2136	Khaaur	X433000-B	 	      Di Po 		003	Wild	M0 V	-1	(B00-3)	[0000]	B	12	-33
+Eali	C	2205	Akhuaao	X5A0000-8	 	     Di He 		023	Wild	G4 V M9 V	-3	(D00-1)	[0000]	B	16	-13
+Eali	G	2213	Khaahktya	X659775-2	 	      (NIL)		124	Wild	K3 V	-2	(969-4)	[8543]	B	14	-1944
+Eali	G	2214	Ilreakh	X572000-2	 	     Di He 		011	Wild	M0 V	-3	(700+4)	[0000]	B	14	28
+Eali	K	2221	Tehyo	X421000-C	 	       Di He Po (NIL)		000	Wild	K3 V	-1	(C00+5)	[0000]	B	7	60
+Eali	K	2222	Okhayehauoil	X563000-2	 	    O:2221  Di 		004	Wild	M0 V M1 V	-3	(500+2)	[0000]	B	11	10
+Eali	K	2224	Uarla	X555000-5	 	      Di 		012	Wild	M0 V	-3	(600+1)	[0000]	B	6	6
+Eali	K	2225	Aoseie'	X100000-7	 	      Fo  Di Va 		004	Wild	M0 V	-3	(B00+4)	[0000]	B	12	44
+Eali	O	2232	Iskhais	E685679-5	 	    Pz  Ag Ri Ga Ni (NIL)		912	Wild	K2 V	-1	(951+2)	[3554]	BC	9	90
+Eali	O	2234	Awaeah	X423000-D	 	    O:2136  Di Po 		012	Wild	M2 V	-1	(600+4)	[0000]	B	7	24
+Eali	O	2235	Tourlae	X6747A7-1	 	      Ag Pi (NIL)		223	Wild	M1 V	-1	(967+5)	[2643]	BCD	11	1890
+Eali	C	2301	Fteielria	XAB7000-8	 	     Di Fl 		000	Wild	G0 V M1 V	-3	(800+3)	[0000]	B	8	24
+Eali	C	2308	Khouleal	D65A553-8	 	    Da  Ni Wa 		202	Wild	M0 V	-3	(941+1)	[4274]	B	13	36
+Eali	G	2312	Yo'aosoi	X8A5000-8	 	     Di Fl 		014	Wild	K7 V	-3	(B00-1)	[0000]	B	17	-11
+Eali	G	2314	Yoliyeirlalr	X200000-A	 	      Pz  Di Va 		004	Wild	A3 V	-1	(E00+1)	[0000]	B	11	14
+Eali	G	2320	Iraois	E554311-6	 	      Lo 		911	Wild	G3 V M0 V	-3	(620+1)	[3126]	B	8	12
+Eali	K	2323	Yewehhar	D645000-4	 	      Di 		004	Wild	M2 V M7 V	-3	(600+2)	[0000]	B	12	12
+Eali	K	2326	Fearah	X99A000-0	 	      Ba Wa (NIL)		002	Wild	G6 IV M7 V	-3	(C00-4)	[0000]	B	12	-48
+Eali	K	2327	Eiyehei	X558000-4	 	      Di 		002	Wild	K3 V M1 V	-3	(600+1)	[0000]	B	14	6
+Eali	K	2329	Hlyeiyuikiy	X855877-0	 	    Pz  Ga Pa Ph (NIL)		102	Wild	M1 V	-2	(A73-1)	[6671]	Bce	14	-210
+Eali	O	2333	Iyrlelas	X432000-6	 	      Di Po 		004	Wild	K1 V	-3	(800+1)	[0000]	B	12	8
+Eali	O	2340	Hkeauas	X582000-5	 	     Di 		012	Wild	K3 V	-3	(500-4)	[0000]	B	10	-20
+Eali	C	2408	Ehiyliu	X654424-0	 	     Ni Pa 		301	Wild	K4 III M2 V D	-3	(731-1)	[5141]	Bc	10	-21
+Eali	C	2410	Htehis	D897000-4	 	      Di 		000	Wild	G4 V	-3	(700+2)	[0000]	B	11	14
+Eali	G	2412	Khyoaeia	X100000-C	 	    O:2514  Di Va 		024	Wild	M1 V	-1	(900+1)	[0000]	B	12	9
+Eali	G	2417	Erlourfeal	X87A000-4	 	    O:2514  Di Wa 		020	Wild	M2 V M4 V	-3	(300-2)	[0000]	B	10	-6
+Eali	K	2425	Yakyu	X58589A-1	 	     Pa Ri Ph (NIL)		400	Wild	G6 V M7 V	-1	(B75-1)	[5742]	BcCe	8	-385
+Eali	K	2430	Easai	E599000-3	 	     Di 		002	Wild	M0 V	-3	(300-2)	[0000]	B	6	-6
+Eali	O	2432	Hoiew	D566000-7	 	     Di 		001	Wild	G4 II M8 V M7 V	-3	(500+2)	[0000]	B	8	10
+Eali	O	2433	Yeheais	E643000-7	 	     Di Po 		004	Wild	M6 II M2 V	-3	(800-3)	[0000]	B	8	-24
+Eali	D	2510	Hkeaei	X662000-4	 	     Di 		012	Wild	M2 V	-3	(600+1)	[0000]	B	12	6
+Eali	H	2514	Kewhalreh	X578776-1	 	     Pz  Ag Pi (NIL)		200	Wild	A1 V M7 V	-1	(961+1)	[7656]	BCD	6	54
+Eali	H	2515	Ftehi	X866400-3	 	      Ga Ni Pa 		903	Wild	K3 V	-3	(730-1)	[8177]	Bc	14	-21
+Eali	L	2521	Eaoiryu'	X300000-7	 	    O:2221  Di Va 		005	Wild	G0 V M8 V	-3	(500-1)	[0000]	B	12	-5
+Eali	L	2522	Yaea	X100000-B	 	      Di Va 		011	Wild	M2 V M9 V	-1	(A00+1)	[0000]	B	11	10
+Eali	L	2525	Ftiyloeal	X100000-9	 	     Pz  Di Va 		014	Wild	M3 V	-2	(E00-1)	[0000]	B	12	-14
+Eali	L	2526	Aealeilr	X100000-9	 	     Di Va 		014	Wild	M1 V	-2	(C00-1)	[0000]	B	14	-12
+Eali	P	2531	Ftiweayeha	X8A7000-8	 	     Di Fl (ENIL)		003	Wild	A2 V	-3	(D00+4)	[0000]	B	11	52
+Eali	P	2539	Yesuaouaeil	XAA5000-9	 	     Di Fl 		013	Wild	K2 V	-2	(700+5)	[0000]	B	10	35
+Eali	D	2604	Ahetaowa	X535000-C	 	    (Ahetaowa)  Di 		003	Wild	M2 V M3 V M4 V	-1	(A00+1)	[0000]	B	11	10
+Eali	D	2605	Ftairai	X310000-7	 	       Di 		000	Wild	M3 V	-3	(B00-2)	[0000]	B	6	-22
+Eali	D	2609	Iyaaahai	X7C2000-9	 	      Di Fl He 		005	Wild	M7 III D	-2	(C00-4)	[0000]	B	13	-48
+Eali	D	2610	Eaaileishryaor	XAD5000-B	 	     Di (NIL)		004	Wild	M3 V	-1	(D00+1)	[0000]	B	10	13
+Eali	H	2612	Iwuaalr	X87A000-5	 	      Di Wa (NIL)		024	Wild	M3 V	-3	(A00-5)	[0000]	B	17	-50
+Eali	L	2621	Awkhouas	X893000-6	 	     Di 		004	Wild	M1 V M9 V	-3	(800+4)	[0000]	B	13	32
+Eali	L	2628	Uaahaoaouh	E582000-4	 	    O:2425  Di 		024	Wild	K0 V M3 V	-3	(400-1)	[0000]	B	10	-4
+Eali	L	2630	Elrouwsoi	X8A7000-D	 	     Di Fl 		014	Wild	G8 V M6 V	-1	(A00+2)	[0000]	B	12	20
+Eali	P	2631	Aisaoheiltlalr	X8C4000-9	 	   Pz  Di Fl (ENIL)		004	Wild	M2 V	-2	(D00-1)	[0000]	B	12	-13
+Eali	P	2638	Aihoairl	X576000-4	 	     Di 		012	Wild	G8 V	-3	(500+3)	[0000]	B	15	15
+Eali	D	2704	Uailraul	E559676-1	 	     Ni 		503	Wild	K0 V M3 V	-3	(850+2)	[8341]	B	12	80
+Eali	D	2710	Yooiwhi	X561000-4	 	     Di 		022	Wild	M2 V	-3	(500+1)	[0000]	B	7	5
+Eali	H	2712	Alriyeaos	X649000-1	 	     Di 		003	Wild	M1 V	-3	(400-3)	[0000]	B	12	-12
+Eali	H	2714	Ileyawea	D788000-0	 	     Ba 		000	Wild	M1 III	-3	(500+5)	[0000]	B	4	25
+Eali	H	2720	Toaakhitleil	E55478D-0	 	    Pz  Ag (NIL)		104	Wild	G2 V M4 V	-1	(B66+2)	[A681]	BC	10	792
+Eali	L	2721	Ftao	E576743-0	 	     Pz  Ag Pi (NIL)		504	Wild	M0 V M3 V	-1	(B61-3)	[8641]	BCD	11	-198
+Eali	L	2722	Hwalyaea	X310000-B	 	     Di 		003	Wild	M2 V	-1	(900+1)	[0000]	B	12	9
+Eali	L	2723	Yelrtaieoah	X300000-9	 	     Di Va 		004	Wild	K4 V	-2	(A00-4)	[0000]	B	12	-40
+Eali	L	2725	Eatlei	X785994-3	 	     Ga Hi Pr (NIL)		403	Wild	K1 V	-1	(B89+1)	[6895]	BcE	15	792
+Eali	L	2729	Ftalaoear	X5A0000-8	 	     Di He 		000	Wild	M2 V	-3	(400+1)	[0000]	B	8	4
+Eali	P	2732	Hkahaoralr	X776000-4	 	    O:2932  Di 		002	Wild	M1 V	-3	(300+1)	[0000]	B	10	3
+Eali	P	2737	Eaweaiwya	E796756-6	 	     Pz  Ag Pi (NIL)		212	Wild	M0 V	-1	(964+1)	[8656]	BCD	11	216
+Eali	P	2738	Eilehaiiyh	X434000-8	 	     Di 		023	Wild	K5 V M9 V	-3	(800-1)	[0000]	B	9	-8
+Eali	P	2740	Ou'ao	X543000-4	 	     Di Po 		010	Wild	K4 V	-3	(700+1)	[0000]	B	11	7
+Eali	D	2807	Fterlyuhlye	X310000-7	 	      Pz  Di 		024	Wild	M0 V	-3	(C00-1)	[0000]	B	10	-12
+Eali	D	2809	Eaheoil	X789000-3	 	     Di 		012	Wild	K1 V M1 V	-3	(500-1)	[0000]	B	14	-5
+Eali	H	2814	Staoirheah	X9A4000-8	 	     Di Fl 		015	Wild	M2 V	-3	(E00+4)	[0000]	B	13	56
+Eali	H	2815	Yeeri	X100000-7	 	     Di Va 		003	Wild	K6 V	-3	(400+1)	[0000]	B	10	4
+Eali	H	2816	Iyyoeaw	E5577AD-0	 	     Ag (NIL)		315	Wild	K4 V M3 V	-1	(961+1)	[2672]	BC	15	54
+Eali	H	2817	Teawea	X536000-6	 	     Di 		013	Wild	M2 V	-3	(700-2)	[0000]	B	14	-14
+Eali	H	2819	Aliywei	E997000-7	 	     Di 		004	Wild	G0 V	-3	(500-2)	[0000]	B	11	-10
+Eali	L	2821	Ktaihei	X310000-9	 	      Pz  Di 		004	Wild	K3 V	-2	(E00-3)	[0000]	B	12	-42
+Eali	L	2822	Auyuhsti	X433000-8	 	     Di Po 		001	Wild	M2 V	-3	(600-1)	[0000]	B	9	-6
+Eali	L	2823	Yalealhkirl	X100000-7	 	     Di Va 		003	Wild	G4 V	-3	(600+2)	[0000]	B	7	12
+Eali	L	2826	Khaeaai	E687646-0	 	      Ag Ri Ga Ni 		214	Wild	K7 V M9 V	-1	(852-2)	[8544]	BC	9	-160
+Eali	L	2828	Ilekhahke	X96787A-1	 	      Pa Ri Ph (NIL)		504	Wild	G4 V	-1	(778+1)	[9772]	BcCe	11	392
+Eali	L	2829	Khtiuarel	X431000-9	 	      Di Po (NIL)		004	Wild	M7 III	-2	(E00-3)	[0000]	B	9	-42
+Eali	P	2835	Awalea	X637000-7	 	     Di 		001	Wild	M0 V	-3	(800+1)	[0000]	B	5	8
+Eali	P	2837	Hkase	E78A59D-6	 	    Da  Ni Pr Wa 		402	Wild	K8 V	-3	(840-5)	[4243]	Bc	11	-160
+Eali	P	2839	Fuaeihel	X559433-3	 	     Ni 		102	Wild	K4 V	-3	(632+4)	[7177]	B	14	144
+Eali	D	2907	Ikhuaei	E786530-1	 	      Ag Pr Ga Ni 		904	Wild	K1 III	-2	(840+1)	[3321]	BcC	14	32
+Eali	D	2910	Tlelyeoa	C58378B-7	 	     Ri (NIL)		213	Wild	M0 V	0	(968+2)	[4777]	BC	8	864
+Eali	H	2911	Eiea'yorl	X426000-A	 	     Di 		004	Wild	G3 V M9 V	-1	(C00-3)	[0000]	B	13	-36
+Eali	H	2912	Youirlei	X668000-5	 	     Di 		014	Wild	M0 V	-3	(400-2)	[0000]	B	17	-8
+Eali	H	2913	Ewae	E575000-8	 	      Di 		001	Wild	K3 V	-3	(900+1)	[0000]	B	4	9
+Eali	H	2919	Kaoeiwoas	X421000-7	 	      Di He Po (NIL)		004	Wild	M3 V	-3	(900-1)	[0000]	B	13	-9
+Eali	L	2921	Eahhkaeas	X625000-7	 	     Di 		003	Wild	M2 V M9 V	-3	(500+4)	[0000]	B	7	20
+Eali	L	2922	Uisewalwei	X556457-0	 	     Ni Pa 		903	Wild	M0 V M4 V	-3	(731+3)	[3161]	Bc	9	63
+Eali	L	2923	Erlaw	D644000-4	 	      Di (NIL)		014	Wild	K0 V M6 V M0 V	-3	(B00+1)	[0000]	B	12	11
+Eali	L	2925	Kaouaiylr	D546777-2	 	      Ag Pi (NIL)		423	Wild	K3 V M3 V	-1	(965+3)	[5614]	BCD	11	810
+Eali	P	2932	Yesail	X573653-2	 	      Ni (NIL)		914	Wild	K3 V M4 V	-3	(A50+1)	[2352]	B	12	50
+Eali	P	2935	Aiiyhhkoaw	X573000-3	 	     Di 		014	Wild	K6 II	-3	(600+1)	[0000]	B	12	6
+Eali	P	2937	Kiysahikhaa	X879000-5	 	    O:Reav-0135  Di 		002	Wild	M3 V M9 V	-3	(500-5)	[0000]	B	13	-25
+Eali	D	3006	Ye'iyeah	E662000-0	 	     Ba 		013	Wild	F1 V	-3	(400+1)	[0000]	B	17	4
+Eali	H	3011	Eiskaeah	X623000-9	 	     Di Po 		022	Wild	M2 V M7 V	-2	(900+5)	[0000]	B	16	45
+Eali	H	3013	Easyah	X432000-C	 	      Di Po 		014	Wild	G4 V M7 V	-1	(D00-4)	[0000]	B	14	-52
+Eali	H	3015	Hkaearlwi	X766000-0	 	    Fo  Ba Ga 		002	Wild	M2 V	-3	(300-1)	[0000]	B	10	-3
+Eali	H	3018	Iywyeilka	X556789-0	 	     Ag (NIL)		521	Wild	K5 V	-1	(96A-5)	[4661]	BC	14	-2700
+Eali	H	3020	Earlaieah	X564000-0	 	     Ba 		023	Wild	K3 IV	-3	(500+1)	[0000]	B	14	5
+Eali	L	3021	Hlaseuikh	X200000-8	 	     Di Va 		014	Wild	G1 V	-3	(C00+1)	[0000]	B	17	12
+Eali	L	3023	Heiyyahe	X100000-7	 	    O:Reav-0221  Di Va 		004	Wild	M2 V M3 V	-3	(700-1)	[0000]	B	11	-7
+Eali	P	3031	Feaei	X437000-B	 	     Di 		001	Wild	K0 V	-1	(900-2)	[0000]	B	7	-18
+Eali	P	3032	Tlealoikh	X8B3000-8	 	     Di Fl 		003	Wild	K3 II M4 V D	-3	(A00+4)	[0000]	B	6	40
+Eali	P	3033	Eihoeyokhara	X553778-1	 	     Po (NIL)		222	Wild	M0 V	-2	(968+4)	[5553]	B	12	1728
+Eali	P	3035	Hkaoi'	E579000-6	 	     Di 		003	Wild	M0 V M1 V	-3	(400+5)	[0000]	B	11	20
+Eali	P	3036	Fteirhai	X9AA000-9	 	     Di Fl 		002	Wild	K1 V	-2	(700+1)	[0000]	B	6	7
+Eali	D	3102	Brirvoy	X566478-1	 	     Fo ChirW  Ni Pa 		221	Wild	G7 V M6 V	-3	(832-3)	[4133]	Bc	9	-144
+Eali	D	3108	Kea'yaaie	X000000-7	 	     Fo  As Va Di 		003	Wild	M3 V	-3	(600+2)	[0000]	B	9	12
+Eali	H	3111	A'yoeah	X435000-6	 	     Di 		002	Wild	G1 V M9 V	-3	(400-1)	[0000]	B	11	-4
+Eali	L	3122	Yuoul	X6A1000-8	 	      Di Fl He 		002	Wild	M2 V	-3	(900+3)	[0000]	B	6	27
+Eali	L	3125	Ftalhkealiy	X77A000-2	 	    Fo  Di Wa 		003	Wild	G7 III M9 V	-3	(500-3)	[0000]	B	12	-15
+Eali	P	3133	Eiwhwe	E674000-7	 	     Di 		023	Wild	K1 V M8 V M9 V	-3	(500+1)	[0000]	B	14	5
+Eali	P	3135	Tileaye'	X678000-2	 	      Di 		001	Wild	K3 V M1 V	-3	(600+1)	[0000]	B	12	6
+Eali	D	3210	Leseaua	C988344-8	 	      Lo 		913	Wild	K4 V M8 V	-2	(A20-5)	[115C]	B	13	-100
+Eali	H	3211	Hlearli	XAB5000-E	 	     Di Fl 		004	Wild	K1 IV	-1	(B00+3)	[0000]	B	12	33
+Eali	H	3212	Wulooil	X584621-1	 	    Fo  Ag Ri Ni (NIL)		912	Wild	K0 V M9 V	-1	(953+1)	[A543]	BC	11	135
+Eali	H	3216	Khaea	X9B4000-9	 	     Di Fl 		001	Wild	K9 V M2 V	-2	(600+1)	[0000]	B	7	6
+Eali	H	3220	Saihe	E548000-4	 	     Di 		012	Wild	M3 V M9 V	-3	(500-2)	[0000]	B	15	-10
+Eali	L	3222	Ktaoleas	X9C7000-9	 	     Di Fl 		021	Wild	M3 V	-2	(600+4)	[0000]	B	10	24
+Eali	L	3223	Syoyorlea	X000000-C	 	      As Va Di 		003	Wild	G6 V	-1	(600+1)	[0000]	B	9	6
+Eali	L	3225	Keiiokh	D571000-3	 	     Di He 		024	Wild	K8 V	-3	(300+3)	[0000]	B	16	9
+Eali	L	3226	Uawahtaleih	X839000-7	 	     Di 		000	Wild	A4 V K6 V	-3	(300-1)	[0000]	B	9	-3
+Eali	P	3231	Khasuareir	X544000-6	 	      Di 		023	Wild	K1 V	-3	(800+1)	[0000]	B	18	8
+Eali	P	3235	Hlorliarl	X679000-7	 	     Di (NIL)		015	Wild	M2 V M7 V	-3	(900+2)	[0000]	B	16	18

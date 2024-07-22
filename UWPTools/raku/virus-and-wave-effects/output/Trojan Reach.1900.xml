@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<Sector Abbreviation="Troj" Tags="Unreviewed">
+  <Y>0</Y>
+  <X>-4</X>
+  <Name>Trojan Reach</Name>
+  <Name>Trojan Reaches</Name>
+  <Name Lang="as">Hlaoirloahaurl</Name>
+  <Name Lang="zh">Idrflanta</Name>
+  <Credits>
+    <![CDATA[
+
+             Egyrn and Pax Rulin subsectors of <b>Trojan Reach</b>
+             sector were designed by Bob McWilliams and appear in
+             <cite>Traveller Adventure 4: Leviathan</cite> (GDW,
+             1980).
+
+             The rest of Trojan Reach sector was designed by Marc W.
+             Miller and appears in <cite>Atlas of the Imperium</cite>
+             (GDW, 1984).
+
+             The remaining subsectors were refined by Mike Jackson and
+             appear in <cite>Third Imperium Magazine</cite>
+             (1986-1988) and <cite>The MegaTraveller Journal #3</cite>
+             (Digest Group Publications, 1992).
+             
+             M1201 data comes from the "The Regency Sourcebook: Keepers of the Flame", and http://www.mu.org/~joe/traveller/archive/HIWG/trojan/TROJ1200.NSC.txt
+             
+            ]]>
+  </Credits>
+  <Subsectors>
+    <Subsector Index="A">Menorial</Subsector>
+    <Subsector Index="B">Egyrn</Subsector>
+    <Subsector Index="C">Pax Rulin</Subsector>
+    <Subsector Index="D">Gazulin</Subsector>
+    <Subsector Index="E">?</Subsector>
+    <Subsector Index="F">Dpres</Subsector>
+    <Subsector Index="G">Sindal</Subsector>
+    <Subsector Index="H">Tobia</Subsector>
+    <Subsector Index="I">?</Subsector>
+    <Subsector Index="J">?</Subsector>
+    <Subsector Index="K">Tlaiowaha</Subsector>
+    <Subsector Index="L">The Borderland</Subsector>
+    <Subsector Index="M">?</Subsector>
+    <Subsector Index="N">?</Subsector>
+    <Subsector Index="O">?</Subsector>
+    <Subsector Index="P">?</Subsector>
+  </Subsectors>
+
+  <Stylesheet>
+    border.Re { color: lightblue; }
+    route.Re { color: lightgreen; }
+
+    border.Rf { color: lightgreen; }
+
+    border.Fl { color: green; }
+  </Stylesheet>
+
+  <Allegiances>
+    <Allegiance Code="Rf">Regency Frontier</Allegiance>
+    <Allegiance Code="Re">Regency</Allegiance>
+    <Allegiance Code="Fl">Florian League</Allegiance>
+    <Allegiance Code="Wi">Wilds</Allegiance>
+  </Allegiances>
+
+  <Routes>
+  </Routes>
+  <Borders>
+    <Border Color="olivedrab" Allegiance="Wild">0000 0100 0200 0300 0400 0500 0600 0700 0800 0900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3301 3302 3303 3304 3305 3306 3307 3308 3309 3310 3311 3312 3313 3314 3315 3316 3317 3318 3319 3320 3219 3120 3020 2921 2922 2923 2823 2824 2725 2625 2526 2527 2427 2428 2329 2330 2331 2332 2232 2233 2234 2135 2136 2137 2036 1936 1835 1736 1636 1637 1538 1438 1439 1440 1541 1441 1341 1241 1141 1041 0941 0841 0741 0641 0541 0441 0341 0241 0141 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 0027 0026 0025 0024 0023 0022 0021 0020 0019 0018 0017 0016 0015 0014 0013 0012 0011 0010 0009 0008 0007 0006 0005 0004 0003 0002 0001 0000 </Border>
+  </Borders>
+
+</Sector>

@@ -1,0 +1,576 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+Tien	A	0101	Estetchtiar	X672000-0	 	Ba He 		002	Wild	F7 V	{ -3 }	(900-3)	[0000]	B	7	-27
+Tien	A	0105	Zhdakl	X745755-0	 	Ag Pi 		412	Wild	M9 V	{ -1 }	(565+1)	[8681]	BCD	9	150
+Tien	A	0107	Iakladr	E544000-4	 	Di 		003	Wild	K9 V D	{ -3 }	(800+1)	[0000]	B	14	8
+Tien	A	0109	Qrariekl	X695000-4	 	Di 		013	Wild	M5 V	{ -3 }	(500-3)	[0000]	B	11	-15
+Tien	E	0113	Astatl	X435000-6	 	Di Px 		010	Wild	M4 V	{ -3 }	(900-1)	[0000]	B	11	-9
+Tien	E	0115	Tenji	X231000-7	 	Di Na Po 		000	Wild	K7 V M4 V	{ -3 }	(A00+1)	[0000]	B	7	10
+Tien	E	0116	Vlievdiatl	E7846BD-1	 	Ag Ri Ni 		504	Wild	K6 V	{ -1 }	(455+2)	[6511]	BC	8	200
+Tien	E	0118	Driedach	X8A6000-0	 	Ba Fl 		004	Wild	F3 V D	{ -3 }	(900+1)	[0000]	B	9	9
+Tien	I	0121	Ashanedli	X200000-7	 	Di Va 		002	Wild	M3 V	{ -3 }	(800+2)	[0000]	B	10	16
+Tien	I	0122	Tlrienz	X544000-4	 	Di Pi 		011	Wild	K5 V M1 V	{ -3 }	(400+1)	[0000]	BD	8	4
+Tien	I	0123	Afrapr	X9B5000-B	 	Di Fl 		003	Wild	M0 III M9 V	{ -1 }	(D00+1)	[0000]	B	11	13
+Tien	I	0124	Ietflatliabr	X326000-D	 	Di 		013	Wild	M0 V	{ -1 }	(F00-1)	[0000]	B	15	-15
+Tien	I	0125	Ashtsebr	X539000-A	 	Di 		012	Wild	M7 V	{ -1 }	(900-2)	[0000]	B	7	-18
+Tien	I	0127	Te Chtalinj	X687000-5	 	Di Ga 		014	Wild	M0 III	{ -3 }	(300-1)	[0000]	B	13	-3
+Tien	I	0128	Abrsezh	X100000-0	 	Ba Va 		012	Wild	M4 V	{ -3 }	(600+1)	[0000]	B	11	6
+Tien	I	0129	Kianch I'	X8C0000-9	 	Di He 		004	Wild	K3 V	{ -2 }	(C00-1)	[0000]	B	10	-12
+Tien	M	0132	Avredle	X733000-E	 	Di Na Po 		003	Wild	F6 V D	{ -1 }	(A00+3)	[0000]	B	9	30
+Tien	M	0136	Siechtant	X698000-0	 	Ba 		003	Wild	M5 V	{ -3 }	(500+1)	[0000]	B	8	5
+Tien	M	0137	E'sinz	X641895-0	 	He Ph Pi Po 		313	Wild	M3 V	{ -2 }	(571+1)	[C663]	BDe	15	35
+Tien	A	0204	Stenshiniej	X696000-0	 	Ba 		001	Wild	M4 V	{ -3 }	(B00+3)	[0000]	B	13	33
+Tien	A	0209	Dopriaq	X544000-0	 	Ba 		004	Wild	G4 V	{ -3 }	(700-2)	[0000]	B	12	-14
+Tien	A	0210	Itskien	D571000-9	 	Di He Pi 		001	Wild	M6 V D	{ -2 }	(500-1)	[0000]	BD	7	-5
+Tien	E	0212	Tepiach	X330000-0	 	Ba De Po 		003	Wild	M0 V D	{ -3 }	(700+4)	[0000]	B	10	28
+Tien	E	0217	Arvrians	CA9A99B-A	 	Hi In Oc 		413	Wild	M1 V M3 V	{ 3 }	(789-2)	[8C58]	BE	11	-1008
+Tien	E	0220	Nipriabl	X110000-0	 	Ba 		010	Wild	M1 V	{ -3 }	(700-2)	[0000]	B	4	-14
+Tien	I	0223	Dloradr	D257746-3	 	Ag 		203	Wild	M0 V	{ -1 }	(967+2)	[B612]	BC	9	756
+Tien	I	0224	Ieprodr	X796000-A	 	Di 		004	Wild	M1 V	{ -1 }	(C00+2)	[0000]	B	17	24
+Tien	I	0225	Tanshia	X675000-8	 	Di Pi 		004	Wild	K9 V D	{ -3 }	(E00+1)	[0000]	BD	9	14
+Tien	I	0228	Qalo	X6777BA-0	 	Ag Pi 		105	Wild	F0 V	{ -1 }	(665-3)	[6681]	BCD	8	-540
+Tien	M	0232	Anienj	X55A484-1	 	Ni Wa 		204	Wild	M5 V D	{ -3 }	(330+1)	[4114]	B	11	9
+Tien	M	0234	Idripdeia	X200000-7	 	Di Na Pi Va 		000	Wild	M5 V	{ -3 }	(A00-1)	[0000]	BD	12	-10
+Tien	M	0236	Tiadle	X66A8AD-2	 	Ph Ri Wa 		423	Wild	F6 III	{ -1 }	(675+1)	[3743]	BCe	12	210
+Tien	M	0240	Yriach	X564673-0	 	Ag Ri Ni 		501	Wild	F8 V	{ -1 }	(754-1)	[8521]	BC	10	-140
+Tien	A	0302	Fiazhotl	D799000-7	 	Di 		003	Wild	F3 III M6 V	{ -3 }	(700+4)	[0000]	B	12	28
+Tien	A	0303	Te Enssach	X433000-0	 	Ba Po 		004	Wild	M7 V	{ -3 }	(300+1)	[0000]	B	11	3
+Tien	A	0304	Drievl	X342000-5	 	Di He Po 		024	Wild	F2 V D	{ -3 }	(400+1)	[0000]	B	16	4
+Tien	A	0305	Blielchanj	X8A3000-8	 	Di Fl 		000	Wild	M3 III	{ -3 }	(700+4)	[0000]	B	7	28
+Tien	A	0306	Onchpriatl	E674000-4	 	Di Pi 		003	Wild	F4 V	{ -3 }	(500-4)	[0000]	BD	14	-20
+Tien	A	0307	Tliedevrfans	X425000-0	 	Ba 		002	Wild	M1 V	{ -3 }	(500+1)	[0000]	B	10	5
+Tien	A	0308	Nibriet Jdav	X000000-8	 	As Va Di 		003	Wild	M0 V	{ -3 }	(700-2)	[0000]	B	9	-14
+Tien	E	0314	Sefr	X474779-1	 	Ag Pi 		110	Wild	M8 V	{ -1 }	(B65-2)	[A652]	BCD	14	-660
+Tien	E	0318	Rziad	X749000-3	 	Di 		002	Wild	M5 V	{ -3 }	(500-1)	[0000]	B	6	-5
+Tien	E	0319	Klejtakriepl	X338000-0	 	Ba 		000	Wild	M0 V	{ -3 }	(700+2)	[0000]	B	3	14
+Tien	E	0320	A'klo	X000000-E	 	As Va Di 		032	Wild	G2 IV M0 V	{ -1 }	(C00+1)	[0000]	B	15	12
+Tien	I	0328	Ekradr	X58A579-1	 	Ni Pr Wa 		103	Wild	M6 V D	{ -3 }	(A41+1)	[2231]	Bc	8	40
+Tien	M	0331	Pansael	X447000-0	 	Ba 		013	Wild	M7 V D	{ -3 }	(500+1)	[0000]	B	13	5
+Tien	M	0333	Zhianchabia	X8A2000-9	 	Di Fl He Px 		000	Wild	M1 V	{ -2 }	(400+1)	[0000]	B	9	4
+Tien	M	0334	Rashent	X7B4000-0	 	Ba Fl 		000	Wild	G4 V D	{ -3 }	(800-1)	[0000]	B	10	-8
+Tien	M	0336	Qiachna	X8A2000-8	 	Di Fl He Px 		014	Wild	M1 V M3 V	{ -3 }	(A00-1)	[0000]	B	13	-10
+Tien	M	0337	Jdiazhpraa	X676000-1	 	Di 		002	Wild	M2 V	{ -3 }	(700+1)	[0000]	B	14	7
+Tien	M	0339	Flitlazh	X6A1000-E	 	Di Fl He In 		002	Wild	F3 V	{ 0 }	(900+1)	[0000]	BE	10	9
+Tien	A	0401	A'e Krrnzha	X524000-9	 	Di Pi 		002	Wild	M3 V M9 V	{ -2 }	(600-1)	[0000]	BD	7	-6
+Tien	A	0402	Tlave	X857000-0	 	Ba Ga 		013	Wild	K1 V D	{ -3 }	(600-2)	[0000]	B	13	-12
+Tien	A	0403	Stefiavolzh	X896000-5	 	Di 		023	Wild	G3 V	{ -3 }	(300+1)	[0000]	B	12	3
+Tien	A	0405	Zdav A'	X252000-B	 	Di Po 		004	Wild	M2 V D	{ -1 }	(C00+2)	[0000]	B	11	24
+Tien	A	0406	Elprianch	C554500-3	 	Ag Ni 		120	Wild	F3 V	{ -1 }	(C44-2)	[7423]	BC	14	-384
+Tien	A	0407	Kiablibrazh	X610000-9	 	Di 		010	Wild	M5 V	{ -2 }	(800+4)	[0000]	B	8	32
+Tien	A	0410	Ziebr	E494000-4	 	Di 		003	Wild	M3 V D	{ -3 }	(A00+1)	[0000]	B	10	10
+Tien	E	0412	Kizdant	X200000-A	 	Di Va 		023	Wild	M5 V D	{ -1 }	(900-5)	[0000]	B	13	-45
+Tien	E	0414	Zhdavrmazh	X647000-2	 	Di 		020	Wild	G5 V D	{ -3 }	(500-1)	[0000]	B	12	-5
+Tien	E	0415	Jantsiaravr	X685000-0	 	Ba Ga 		024	Wild	M8 V	{ -3 }	(600+2)	[0000]	B	18	12
+Tien	E	0416	Diakra	X9C5000-9	 	Cy Di Fl 		005	Wild	G2 II	{ -2 }	(A00+1)	[0000]	B	15	10
+Tien	E	0418	Eshil	X88787B-0	 	Ga Pa Ri Ph 		404	Wild	M2 V	{ -1 }	(B77-2)	[C764]	BcCe	9	-1078
+Tien	E	0419	Priat	E260474-3	 	De Ni 		124	Wild	M2 V	{ -3 }	(733+3)	[3141]	B	17	189
+Tien	E	0420	Staliaql	D76A000-7	 	Di Wa 		004	Wild	M8 V	{ -3 }	(A00+1)	[0000]	B	14	10
+Tien	I	0421	Yivazzdi	X237000-0	 	Ba 		000	Wild	F2 V	{ -3 }	(500-4)	[0000]	B	6	-20
+Tien	I	0423	O'viazhav	E794000-6	 	Di 		004	Wild	F9 V D	{ -3 }	(300-3)	[0000]	B	15	-9
+Tien	I	0424	Aldiedria	X202000-D	 	Di Ic Va 		003	Wild	M9 III M9 V	{ -1 }	(900+3)	[0000]	B	7	27
+Tien	I	0426	Echrets	X572000-0	 	Ba He 		013	Wild	G8 II	{ -3 }	(900+1)	[0000]	B	15	9
+Tien	I	0430	Idshozh	X413000-7	 	Di Ic 		013	Wild	M5 V D	{ -3 }	(800-3)	[0000]	B	12	-24
+Tien	M	0431	Te Zdekrin	X410000-E	 	Di Na 		000	Wild	M7 V	{ -1 }	(300-2)	[0000]	B	3	-6
+Tien	M	0432	Zdents	X558444-0	 	Ni Pa 		103	Wild	M0 V	{ -3 }	(933-3)	[6191]	Bc	9	-243
+Tien	M	0433	Brienanrzh	X533000-0	 	Ba Po 		002	Wild	G1 V D	{ -3 }	(500+1)	[0000]	B	7	5
+Tien	M	0434	Zhdariansh	X232000-C	 	Di Na Po 		004	Wild	M5 V M7 V	{ -1 }	(E00-1)	[0000]	B	13	-14
+Tien	M	0438	Ieninsha	X1405A9-3	 	De Ni Po 		112	Wild	M3 V D	{ -3 }	(840-4)	[5292]	B	14	-128
+Tien	M	0439	Eizrash	E674000-4	 	Di 		023	Wild	G4 V	{ -3 }	(C00+1)	[0000]	B	12	12
+Tien	A	0501	Bezoprstavria	X401000-A	 	Di Ic Va Na In 		005	Wild	G8 V D	{ 0 }	(D00+1)	[0000]	BE	12	13
+Tien	A	0504	Ebria	X999000-6	 	Di 		011	Wild	F7 V	{ -3 }	(800+1)	[0000]	B	7	8
+Tien	A	0507	Ajtloq	XAF6000-6	 	Di 		011	Wild	K1 V	{ -3 }	(400-2)	[0000]	B	8	-8
+Tien	A	0509	Drianj Da	C464776-2	 	Ag Ri 		104	Wild	F7 V D	{ 1 }	(B66+2)	[7862]	BC	11	792
+Tien	E	0514	Ie'ia	X200000-E	 	Di Na In Va 		014	Wild	M7 V	{ 0 }	(B00-3)	[0000]	BE	17	-33
+Tien	E	0517	Yienze	D577000-5	 	Di 		020	Wild	M2 V	{ -3 }	(700-2)	[0000]	B	11	-14
+Tien	E	0518	Ontsiiaz	X626000-B	 	Di In 		014	Wild	M8 V	{ 0 }	(A00-1)	[0000]	BE	12	-10
+Tien	I	0521	Itschtia	X636000-E	 	Di 		022	Wild	M0 V	{ -1 }	(900-3)	[0000]	B	8	-27
+Tien	I	0523	Briej	X778000-0	 	Ba 		021	Wild	M7 V	{ -3 }	(500+3)	[0000]	B	11	15
+Tien	I	0524	Vanie	X130000-E	 	De Di Na Po 		024	Wild	M9 V D	{ -1 }	(F00+1)	[0000]	B	10	15
+Tien	I	0529	Shtizatl	DA6A000-8	 	Di Oc 		002	Wild	M1 V	{ -3 }	(A00+3)	[0000]	B	15	30
+Tien	I	0530	Frant	X100000-D	 	Di Na Pi Va 		002	Wild	K7 II	{ -1 }	(600+2)	[0000]	BD	5	12
+Tien	M	0532	Iediliel	X540000-0	 	Ba De He Po 		015	Wild	M1 V D	{ -3 }	(A00-4)	[0000]	B	14	-40
+Tien	M	0534	Ratlya	X334000-0	 	Ba 		005	Wild	A3 V	{ -3 }	(400+1)	[0000]	B	12	4
+Tien	M	0535	Ziashanz	E385774-4	 	Ag Ri 		200	Wild	F9 V M7 V	{ 0 }	(66C-3)	[8716]	BC	8	-1296
+Tien	A	0604	Ia'tsanch	E657544-1	 	Ag Ga Ni 		203	Wild	M5 V	{ -2 }	(740+2)	[4322]	BC	11	56
+Tien	A	0605	Anzhiat	X273401-2	 	Ni 		103	Wild	F3 V D	{ -3 }	(730-3)	[7145]	B	8	-63
+Tien	A	0609	Platdrial	X546000-0	 	Ba 		003	Wild	G2 V	{ -3 }	(500+4)	[0000]	B	14	20
+Tien	A	0610	Zianttlons	X449000-1	 	Di 		013	Wild	M6 V	{ -3 }	(900+2)	[0000]	B	10	18
+Tien	E	0613	Te Avri	X675000-5	 	Di 		004	Wild	K0 V M2 V	{ -3 }	(700-2)	[0000]	B	12	-14
+Tien	E	0614	Eqiatl	X252000-4	 	Di Po 		003	Wild	M3 V	{ -3 }	(400+3)	[0000]	B	10	12
+Tien	E	0615	Injvianch	C38479C-3	 	Ag Ri 		103	Wild	A2 V	{ 1 }	(567+1)	[5862]	BC	11	210
+Tien	E	0616	Odepl	X653577-0	 	Ni Po 		125	Wild	M1 V	{ -3 }	(540+1)	[8251]	B	19	20
+Tien	E	0617	Ielzantsi	X454000-0	 	Ba 		000	Wild	F2 V	{ -3 }	(800+1)	[0000]	B	11	8
+Tien	E	0618	Chtevlia	X536000-B	 	Di 		000	Wild	M7 V	{ -1 }	(400+2)	[0000]	B	5	8
+Tien	E	0619	Azrdr	X120000-A	 	De Di Na Po 		001	Wild	M3 V D	{ -1 }	(700+1)	[0000]	B	12	7
+Tien	I	0622	Oia	X613000-A	 	Di Ic 		023	Wild	M9 V	{ -1 }	(H00+1)	[0000]	B	13	17
+Tien	I	0623	Dla'zhdievl	X402000-7	 	Di Ic Va Na 		003	Wild	G0 V	{ -3 }	(900+1)	[0000]	B	8	9
+Tien	I	0624	Seblia	X868000-8	 	Di 		020	Wild	M8 V	{ -3 }	(800+1)	[0000]	B	9	8
+Tien	I	0627	E'ta	X456000-6	 	Di 		003	Wild	M9 V	{ -3 }	(600-4)	[0000]	B	12	-24
+Tien	I	0628	Kia Inch	D490000-8	 	De He Di 		012	Wild	K9 V	{ -3 }	(D00+1)	[0000]	B	12	13
+Tien	I	0630	Brali	X856483-1	 	Ga Ni Pa 		205	Wild	K8 V	{ -3 }	(630+1)	[9161]	Bc	17	18
+Tien	M	0632	Chtishtacha	X8C0000-9	 	Di He 		012	Wild	A9 V	{ -2 }	(D00-3)	[0000]	B	11	-39
+Tien	M	0633	Zdonzh A'	X697000-0	 	Ba 		012	Wild	M6 V	{ -3 }	(600+1)	[0000]	B	14	6
+Tien	M	0634	Efrye	D561000-6	 	Di 		014	Wild	M7 V	{ -3 }	(700+1)	[0000]	B	9	7
+Tien	M	0635	Adljiamianzh	X554000-0	 	Ba 		001	Wild	M4 V M7 V	{ -3 }	(900-3)	[0000]	B	7	-27
+Tien	M	0636	Pinsia	X341000-C	 	Di He Pi Po 		023	Wild	F4 V	{ -1 }	(D00+2)	[0000]	BD	15	26
+Tien	M	0637	Nejebl	X300000-A	 	Di Na Pi Va 		004	Wild	K9 V	{ -1 }	(B00+3)	[0000]	BD	12	33
+Tien	M	0638	Jodmesh	X439000-B	 	Di 		005	Wild	K1 IV	{ -1 }	(A00+2)	[0000]	B	13	20
+Tien	A	0701	Abrni	X794000-5	 	Di 		000	Wild	M4 V	{ -3 }	(800+1)	[0000]	B	11	8
+Tien	A	0702	Viaplash	X763000-4	 	Di 		003	Wild	K3 V	{ -3 }	(700-2)	[0000]	B	15	-14
+Tien	A	0704	Ashja'	X526000-0	 	Ba 		020	Wild	M1 V	{ -3 }	(700+1)	[0000]	B	7	7
+Tien	A	0705	E'tevrtsienzh	D75A555-7	 	Ni Wa 		120	Wild	M2 II M1 V	{ -3 }	(440-1)	[3279]	B	11	-16
+Tien	E	0711	Ierits	X472000-5	 	Di He 		004	Wild	M5 V D	{ -3 }	(600-4)	[0000]	B	12	-24
+Tien	E	0714	Tieiats	D549000-5	 	Di 		013	Wild	K3 V D	{ -3 }	(900-2)	[0000]	B	9	-18
+Tien	E	0716	Plevyatl	X766000-0	 	Ba Ga 		013	Wild	M5 V D	{ -3 }	(400-1)	[0000]	B	12	-4
+Tien	E	0719	Nazhchtiedl	X878000-0	 	Ba 		002	Wild	M1 V	{ -3 }	(400-4)	[0000]	B	15	-16
+Tien	E	0720	Jdiadrtlane	X110000-0	 	Ba 		000	Wild	F6 V	{ -3 }	(A00+4)	[0000]	B	9	40
+Tien	I	0724	Chtiepldia	X581000-0	 	Ba 		000	Wild	M0 V	{ -3 }	(B00-1)	[0000]	B	11	-11
+Tien	I	0726	Plianzhikr	X373000-3	 	Di 		024	Wild	M9 V D	{ -3 }	(700-2)	[0000]	B	12	-14
+Tien	I	0728	Brasiavr	X537000-6	 	Di 		003	Wild	F4 V	{ -3 }	(700+4)	[0000]	B	14	28
+Tien	I	0729	Eliensh	C3629A7-7	 	Hi Pr 		423	Wild	F5 V D	{ 0 }	(883-3)	[6943]	BcE	12	-576
+Tien	I	0730	Bazhdial	X62A000-9	 	Di 		023	Wild	M2 V D	{ -2 }	(C00+2)	[0000]	B	17	24
+Tien	M	0733	Aivr	E66588A-0	 	Ga Pa Ri Ph 		303	Wild	M8 V	{ -1 }	(A74-4)	[C722]	BcCe	13	-1120
+Tien	M	0735	Zhdiashatlibl	X227000-7	 	Di 		014	Wild	G7 III M4 V	{ -3 }	(400-1)	[0000]	B	12	-4
+Tien	M	0737	Bronshiansh	X774000-0	 	Ba 		023	Wild	M1 V	{ -3 }	(300+2)	[0000]	B	9	6
+Tien	A	0805	Iablia	X445000-3	 	Di 		004	Wild	F7 V	{ -3 }	(900-1)	[0000]	B	10	-9
+Tien	A	0810	Tapiat	X221000-A	 	Di Po 		004	Wild	F3 V	{ -1 }	(D00+3)	[0000]	B	13	39
+Tien	E	0812	Jafranjzdam	D797000-6	 	Di 		003	Wild	F1 V M4 V	{ -3 }	(800+1)	[0000]	B	10	8
+Tien	E	0813	Kidriaqrezia	X323000-A	 	Di Po 		005	Wild	F7 IV D	{ -1 }	(D00+1)	[0000]	B	13	13
+Tien	E	0814	Dekjdatl	X533000-B	 	Di Na Po 		014	Wild	M3 V	{ -1 }	(H00+1)	[0000]	B	10	17
+Tien	E	0815	Ashnazhenikl	E443000-4	 	Di Po 		000	Wild	M0 V	{ -3 }	(500+1)	[0000]	B	8	5
+Tien	E	0816	Int	E69A000-8	 	Di Wa 		020	Wild	M2 V D	{ -3 }	(900+4)	[0000]	B	11	36
+Tien	E	0818	Jedlianz	E445000-7	 	Di 		023	Wild	M6 V	{ -3 }	(600+2)	[0000]	B	12	12
+Tien	I	0821	Kiabla	X877000-5	 	Di 		014	Wild	G0 V D	{ -3 }	(700+1)	[0000]	B	16	7
+Tien	I	0823	Enzhna	X584888-0	 	Pa Ri Ph 		300	Wild	M6 V D	{ -1 }	(571+3)	[6743]	BcCe	6	105
+Tien	I	0824	Chozherans	X8A2000-A	 	Di Fl He 		003	Wild	M8 V	{ -1 }	(700+4)	[0000]	B	11	28
+Tien	I	0825	Shtelians	E446000-4	 	Di 		003	Wild	M0 V M7 V	{ -3 }	(B00+2)	[0000]	B	6	22
+Tien	I	0828	Avizazash	X482431-1	 	Ni 		104	Wild	G9 V M9 V	{ -3 }	(630-2)	[1161]	B	13	-36
+Tien	I	0830	Velshtovl	X495000-0	 	Ba 		004	Wild	M8 V D	{ -3 }	(200+4)	[0000]	B	14	8
+Tien	M	0831	Brintsa	X87A000-0	 	Ba Wa 		000	Wild	F2 V M1 V	{ -3 }	(C00-2)	[0000]	B	10	-24
+Tien	M	0832	Anzhapema	X200000-0	 	Ba Va 		005	Wild	M4 V	{ -3 }	(900-5)	[0000]	B	12	-45
+Tien	M	0834	Ditlients	X626000-E	 	Di In 		012	Wild	G6 V	{ 0 }	(D00-1)	[0000]	BE	12	-13
+Tien	M	0837	Vliatla	X664620-0	 	Ag Ri Ni 		224	Wild	M0 V	{ -1 }	(354-1)	[5561]	BC	16	-60
+Tien	B	0903	Qliekredr	X402000-7	 	Di Ic Va 		000	Wild	M6 V	{ -3 }	(700+1)	[0000]	B	5	7
+Tien	B	0905	Blob	E383000-4	 	Di 		015	Wild	G4 V D	{ -3 }	(400-4)	[0000]	B	18	-16
+Tien	B	0906	Dlavbria	X9899A8-0	 	Hi Pr 		304	Wild	M9 V D	{ -1 }	(584-2)	[5871]	BcE	11	-320
+Tien	B	0909	A'jens	X535000-0	 	Ba 		000	Wild	G7 V	{ -3 }	(A00+2)	[0000]	B	7	20
+Tien	B	0910	Eshiadl	X46589B-1	 	Pa Ri Ph 		312	Wild	M2 V D	{ -1 }	(973+1)	[5781]	BcCe	9	189
+Tien	F	0911	Chiel	X7B0000-8	 	Di He 		003	Wild	M3 V D	{ -3 }	(600-1)	[0000]	B	11	-6
+Tien	F	0912	Zhdadlvipr	X561000-0	 	Ba 		020	Wild	K4 V	{ -3 }	(800-5)	[0000]	B	15	-40
+Tien	F	0914	Aatiant	X9C3000-9	 	Di Fl 		020	Wild	M2 V	{ -2 }	(700+1)	[0000]	B	13	7
+Tien	F	0915	Divriafliadr	X25078B-0	 	De Po 		114	Wild	F1 V	{ -2 }	(664-3)	[7541]	B	9	-432
+Tien	F	0917	Dlor	X998000-9	 	Di 		003	Wild	M6 V D	{ -2 }	(C00+3)	[0000]	B	11	36
+Tien	F	0919	Tlinztifr	X763689-0	 	Ni Ri 		504	Wild	M5 V	{ -2 }	(750-3)	[3461]	BC	13	-105
+Tien	J	0921	Qatl	X465000-0	 	Ba 		003	Wild	M5 V D	{ -3 }	(300-4)	[0000]	B	9	-12
+Tien	J	0929	Yanzhtlaz	X8B4000-0	 	Ba Fl 		024	Wild	M6 V	{ -3 }	(600+1)	[0000]	B	14	6
+Tien	N	0931	Tsodr	XA97000-1	 	(Clotho) Di 		000	Wild	M4 V	{ -3 }	(700+1)	[0000]	B	6	7
+Tien	N	0932	Klidlyi'ech	X400000-E	 	Di Va 		023	Wild	M8 V D	{ -1 }	(A00-2)	[0000]	B	12	-20
+Tien	N	0933	Fiat	X86A410-0	 	Ni Wa 		102	Wild	M6 V D	{ -3 }	(831+2)	[6191]	B	6	48
+Tien	N	0934	Bavra	X534000-6	 	Di 		001	Wild	G2 V D	{ -3 }	(800+1)	[0000]	B	11	8
+Tien	N	0935	Zhanjtlia	C677778-5	 	Ag Pi 		210	Wild	M3 V D	{ 0 }	(765-5)	[7739]	BCD	4	-1050
+Tien	N	0938	Enche	X534000-A	 	Di 		020	Wild	M3 V M8 V	{ -1 }	(600+1)	[0000]	B	9	6
+Tien	B	1001	Ostiato	X877000-0	 	Ba 		012	Wild	F2 V D	{ -3 }	(700+1)	[0000]	B	12	7
+Tien	B	1002	Plevrale	E55589B-0	 	Pa Ph 		203	Wild	M0 V	{ -2 }	(970-4)	[7681]	Bce	14	-252
+Tien	B	1004	Vliasiensh	X120000-D	 	De Di Na In Po 		003	Wild	M7 V	{ 0 }	(800-3)	[0000]	BE	12	-24
+Tien	B	1005	Ranzhtlia	X544000-0	 	Ba 		023	Wild	K3 V D	{ -3 }	(600-3)	[0000]	B	10	-18
+Tien	B	1009	Chelnokia	X511000-7	 	Di Ic Na 		003	Wild	F1 V	{ -3 }	(400+5)	[0000]	B	9	20
+Tien	F	1012	Rnzhia	X424000-A	 	Di Px 		023	Wild	M3 II	{ -1 }	(C00+2)	[0000]	B	13	24
+Tien	F	1013	Vaabiets	X6A2000-8	 	Di Fl He 		020	Wild	M1 V	{ -3 }	(900+1)	[0000]	B	10	9
+Tien	F	1014	Ishteqr	XAB6000-B	 	Di Fl In 		010	Wild	M9 V	{ 0 }	(C00-3)	[0000]	BE	11	-36
+Tien	F	1015	Dofrdiz	X87A000-0	 	Ba Wa 		000	Wild	G8 V	{ -3 }	(700+4)	[0000]	B	9	28
+Tien	F	1017	Antsezh	X552977-0	 	Hi Po 		404	Wild	M3 V D	{ -1 }	(687+1)	[B871]	BE	8	336
+Tien	F	1018	Zhdenmianch	X74A000-4	 	Di Wa 		000	Wild	K2 V	{ -3 }	(300+1)	[0000]	B	10	3
+Tien	F	1019	Ivie	D58689C-0	 	Pa Ri Ph 		314	Wild	F5 III	{ -1 }	(979+1)	[5771]	BcCe	11	567
+Tien	J	1022	Panzhia	X5A1000-8	 	Di Fl He 		020	Wild	M1 II	{ -3 }	(C00+2)	[0000]	B	13	24
+Tien	J	1023	Blachtefl	X7B4000-9	 	Di Fl In 		000	Wild	K5 V D	{ -1 }	(400+1)	[0000]	BE	6	4
+Tien	J	1025	Qraql	XA9A000-0	 	Ba Oc 		004	Wild	G0 IV	{ -3 }	(800-5)	[0000]	B	13	-40
+Tien	J	1026	Driatsazh	X625000-7	 	Di 		012	Wild	M5 V	{ -3 }	(400+2)	[0000]	B	8	8
+Tien	J	1028	Oabr	X300000-C	 	Di Va 		003	Wild	M0 V	{ -1 }	(D00+3)	[0000]	B	9	39
+Tien	J	1029	Chte'ste	E89A758-6	 	Pi Wa 		315	Wild	M8 V D	{ -2 }	(365+1)	[B587]	BD	17	90
+Tien	J	1030	Aradiadash	X400000-E	 	Di Na Pi Va 		004	Wild	K0 V D	{ -1 }	(B00+1)	[0000]	BD	16	11
+Tien	N	1033	Bezzhdon	X348000-3	 	Di Pi 		020	Wild	K4 V	{ -3 }	(800+1)	[0000]	BD	12	8
+Tien	N	1034	Edsiabr	X431000-7	 	Di Po 		003	Wild	M0 V	{ -3 }	(200+1)	[0000]	B	15	2
+Tien	N	1035	Jdienzhaqze	D552000-5	 	Di Po 		004	Wild	M1 V	{ -3 }	(900+1)	[0000]	B	13	9
+Tien	N	1037	Azachan	D243522-1	 	Ni Po 		205	Wild	F4 V D	{ -3 }	(941-3)	[8283]	B	13	-108
+Tien	N	1038	Dabra	XAC3000-A	 	Di Fl 		002	Wild	M0 V	{ -1 }	(900-3)	[0000]	B	14	-27
+Tien	N	1040	Tleqrish	X235000-7	 	Di 		003	Wild	M5 V D	{ -3 }	(900+1)	[0000]	B	11	9
+Tien	B	1104	Dieoq	X775000-3	 	Di Pi 		004	Wild	M1 V	{ -3 }	(500+3)	[0000]	BD	14	15
+Tien	B	1106	Iaria	X322000-0	 	Ba He Po 		011	Wild	F8 V	{ -3 }	(600-3)	[0000]	B	13	-18
+Tien	B	1107	Blienzia	E545000-6	 	Di 		004	Wild	M4 V	{ -3 }	(500+2)	[0000]	B	12	10
+Tien	B	1110	Dloddlia	X687000-4	 	Di Ga 		013	Wild	F0 V	{ -3 }	(200+1)	[0000]	B	14	2
+Tien	F	1113	Afrjiaach	X463000-0	 	Ba 		004	Wild	M4 V	{ -3 }	(500+2)	[0000]	B	12	10
+Tien	F	1114	Okrstaze	X200000-0	 	Ba Va 		022	Wild	F9 V	{ -3 }	(B00-3)	[0000]	B	12	-33
+Tien	J	1124	Krne	X572000-6	 	Di He 		003	Wild	K5 V D	{ -3 }	(800-4)	[0000]	B	9	-32
+Tien	J	1125	Tsevrshtabre	X583989-0	 	Hi Pr 		413	Wild	G1 V	{ -1 }	(783-2)	[A862]	BcE	11	-336
+Tien	J	1126	Tansh	X410000-0	 	Ba 		003	Wild	G5 V D	{ -3 }	(A00-2)	[0000]	B	15	-20
+Tien	J	1129	Davra Da	X524000-8	 	Di Px 		021	Wild	M7 V D	{ -3 }	(800+2)	[0000]	B	10	16
+Tien	N	1132	Tsivri	X300000-7	 	Di Va 		020	Wild	M4 V	{ -3 }	(600-4)	[0000]	B	9	-24
+Tien	N	1133	Irse' A'	D464000-2	 	Di 		000	Wild	M7 V	{ -3 }	(800-2)	[0000]	B	4	-16
+Tien	N	1135	Zhadlezh	X663000-2	 	Di 		002	Wild	G5 V	{ -3 }	(700-3)	[0000]	B	7	-21
+Tien	N	1137	Shatia	X000000-0	 	As Va Ba 		005	Wild	M6 V	{ -3 }	(800+1)	[0000]	B	16	8
+Tien	B	1202	Anshliaf	X232000-0	 	Ba Po 		002	Wild	F6 V	{ -3 }	(500+3)	[0000]	B	10	15
+Tien	B	1204	Draplja	X230000-E	 	De Di Po 		000	Wild	M0 V D	{ -1 }	(C00-1)	[0000]	B	12	-12
+Tien	B	1205	Shiplna'tlapr	X534000-A	 	Di 		013	Wild	M1 V	{ -1 }	(E00+1)	[0000]	B	14	14
+Tien	B	1206	Jdiv	X586000-0	 	Ba 		004	Wild	F8 V D	{ -3 }	(700-1)	[0000]	B	11	-7
+Tien	B	1210	Flichiaz	X322000-B	 	Di He Na Po 		004	Wild	M9 V	{ -1 }	(D00-5)	[0000]	B	8	-65
+Tien	F	1211	Jianchie	X200000-0	 	Ba Va 		014	Wild	F8 V M5 V	{ -3 }	(A00+3)	[0000]	B	12	30
+Tien	F	1212	Bri Danef	E698000-3	 	Di 		024	Wild	F0 V D	{ -3 }	(500+1)	[0000]	B	14	5
+Tien	F	1213	Dianjat	X625000-0	 	Ba 		024	Wild	A6 V	{ -3 }	(400-1)	[0000]	B	18	-4
+Tien	F	1215	Aazhia	X573000-5	 	Di In 		014	Wild	F4 V	{ -2 }	(700-2)	[0000]	BE	15	-14
+Tien	F	1217	Tli'i'	XAB6000-8	 	Di Fl 		013	Wild	M4 V	{ -3 }	(D00-1)	[0000]	B	16	-13
+Tien	F	1218	Jdiakiel	E562476-4	 	Ni 		102	Wild	M8 V	{ -3 }	(A30-1)	[5124]	B	14	-30
+Tien	F	1219	Izdants Ovia	X7B1000-0	 	Ba Fl He 		034	Wild	M8 II	{ -3 }	(700+1)	[0000]	B	13	7
+Tien	J	1221	Ordliapr	E79A000-4	 	Di Wa 		020	Wild	M8 V	{ -3 }	(500+1)	[0000]	B	11	5
+Tien	J	1222	Ienzchtianzh	X9B6000-8	 	Di Fl In 		002	Wild	F9 V D	{ -2 }	(B00+1)	[0000]	BE	6	11
+Tien	J	1225	Iashie	X747000-0	 	Ba 		010	Wild	M5 V D	{ -3 }	(400-1)	[0000]	B	10	-4
+Tien	J	1227	Omins	C350412-6	 	De Ni Po 		234	Wild	M1 V M4 V	{ -2 }	(933+1)	[5233]	B	18	81
+Tien	J	1230	Iebliar	X749000-5	 	Di 		000	Wild	K1 V	{ -3 }	(800-1)	[0000]	B	6	-8
+Tien	N	1232	Jazh	D977000-7	 	Di 		022	Wild	M0 V	{ -3 }	(600+4)	[0000]	B	9	24
+Tien	N	1234	Tleqzo	X611000-B	 	Di Ic Na In 		024	Wild	M3 V D	{ 0 }	(B00+1)	[0000]	BE	18	11
+Tien	N	1235	Dlalen	X512000-B	 	Di Ic Na 		002	Wild	M7 V D	{ -1 }	(B00+1)	[0000]	B	8	11
+Tien	N	1238	Kiant	C774779-4	 	Ag Pi 		204	Wild	M8 V D	{ 0 }	(B6A-3)	[8793]	BCD	11	-1980
+Tien	N	1239	Abrierniash	X230000-C	 	De Di Na Po 		002	Wild	F0 III	{ -1 }	(B00-4)	[0000]	B	14	-44
+Tien	B	1305	Ja'zhaqtle	E483789-3	 	Ri 		400	Wild	M3 III M4 V	{ -1 }	(467+1)	[9621]	BC	6	168
+Tien	B	1307	Kanzhploq	X757000-0	 	Ba Ga 		025	Wild	M0 V D	{ -3 }	(A00+1)	[0000]	B	12	10
+Tien	B	1308	Dle'jevr	E777779-4	 	Ag Pi 		200	Wild	A5 V	{ -1 }	(464+2)	[5664]	BCD	8	192
+Tien	F	1311	Ifrkaz	X535000-6	 	Di 		013	Wild	M3 V M4 V	{ -3 }	(300+1)	[0000]	B	17	3
+Tien	F	1312	Zhdieldlanz	X75A000-5	 	Di Wa 		024	Wild	M9 V	{ -3 }	(900+1)	[0000]	B	17	9
+Tien	F	1314	Irdyarut	X464758-1	 	Ag Ri DroyW 		104	Wild	M4 V	{ 0 }	(962-3)	[7761]	BC	15	-324
+Tien	F	1317	Saliavl	X322000-0	 	Ba He Po 		001	Wild	M9 III	{ -3 }	(900-3)	[0000]	B	8	-27
+Tien	F	1318	Pleshpel	C246523-3	 	Ag Ni 		400	Wild	G0 V D	{ -1 }	(A42-1)	[1423]	BC	11	-80
+Tien	F	1319	Vrer	E255000-5	 	Di 		002	Wild	F5 V M9 V	{ -3 }	(A00+5)	[0000]	B	10	50
+Tien	F	1320	Viechedanshia	X889000-2	 	Di 		010	Wild	K7 V	{ -3 }	(800+1)	[0000]	B	11	8
+Tien	J	1322	Tlonsh	X655432-0	 	Ga Ni Pa 		304	Wild	M8 V D	{ -3 }	(C33+4)	[7151]	Bc	9	432
+Tien	J	1323	Yaql	X74A000-0	 	Ba Wa 		002	Wild	M1 V D	{ -3 }	(500-1)	[0000]	B	12	-5
+Tien	J	1327	Chobnia	D581422-1	 	Ni 		213	Wild	M7 V	{ -3 }	(832+1)	[7131]	B	11	48
+Tien	J	1330	Biradakr	X566853-0	 	Pa Ri Ph 		110	Wild	G6 V	{ -1 }	(674-1)	[7741]	BcCe	6	-168
+Tien	N	1335	Etsdliash	X787000-0	 	Ba Ga 		000	Wild	M4 V	{ -3 }	(B00+2)	[0000]	B	10	22
+Tien	N	1337	Bredrzdiel	X634000-B	 	Di 		003	Wild	K4 V D	{ -1 }	(900+2)	[0000]	B	10	18
+Tien	N	1338	Prenstla	E449000-7	 	Di 		003	Wild	K8 V	{ -3 }	(A00-1)	[0000]	B	11	-10
+Tien	N	1340	Rvish	X847000-6	 	Di 		010	Wild	M9 V	{ -3 }	(700+1)	[0000]	B	13	7
+Tien	B	1404	Eshtetl	X110000-8	 	Di Na In 		020	Wild	F0 V D	{ -2 }	(D00+1)	[0000]	BE	13	13
+Tien	B	1405	Qratlodr	X436000-E	 	Di 		014	Wild	K4 V	{ -1 }	(F00-3)	[0000]	B	12	-45
+Tien	B	1407	Tilkidl	X848000-0	 	Ba 		002	Wild	K8 V M5 V	{ -3 }	(A00+1)	[0000]	B	9	10
+Tien	B	1409	Jiant	X000000-A	 	As Va Di 		025	Wild	K2 III	{ -1 }	(H00+4)	[0000]	B	15	68
+Tien	B	1410	Izhanz	X000000-0	 	As Va Ba 		022	Wild	M3 V	{ -3 }	(800-1)	[0000]	B	11	-8
+Tien	F	1411	Ka'	X524000-7	 	Di 		021	Wild	K3 V D	{ -3 }	(700+1)	[0000]	B	7	7
+Tien	F	1413	Vieler	X767000-0	 	Ba Ga 		013	Wild	M7 V D	{ -3 }	(900-2)	[0000]	B	14	-18
+Tien	F	1417	Oqentake	X8B1000-9	 	Di Fl He 		003	Wild	M6 V	{ -2 }	(800+2)	[0000]	B	9	16
+Tien	F	1419	Chibrsiaf	X7B3000-0	 	Ba Fl 		030	Wild	K4 V D	{ -3 }	(600+3)	[0000]	B	11	18
+Tien	F	1420	Neshash	X637000-A	 	Di 		002	Wild	K1 V	{ -1 }	(B00-2)	[0000]	B	10	-22
+Tien	J	1421	Fibronzhklifr	X595000-0	 	Ba 		013	Wild	M4 V	{ -3 }	(800+2)	[0000]	B	9	16
+Tien	J	1424	Odlanj	X335000-0	 	Ba 		002	Wild	M8 V D	{ -3 }	(900-2)	[0000]	B	8	-18
+Tien	N	1431	Jdiatlavr	X616000-7	 	Di Ic 		010	Wild	M0 V	{ -3 }	(600+4)	[0000]	B	5	24
+Tien	N	1432	Ae'lio	X635000-C	 	Di Px 		020	Wild	F3 II	{ -1 }	(800+4)	[0000]	B	7	32
+Tien	N	1433	Neqloch	X576000-3	 	Di 		005	Wild	F2 IV	{ -3 }	(800+1)	[0000]	B	13	8
+Tien	N	1434	Ziaksebr	X8A6000-E	 	Di Fl 		003	Wild	M1 V D	{ -1 }	(900-1)	[0000]	B	8	-9
+Tien	N	1436	Ratschevek	X000000-D	 	As Va Di Na Pi 		010	Wild	G8 IV	{ -1 }	(900-1)	[0000]	BD	5	-9
+Tien	N	1438	Na Friezhi	X510000-0	 	Ba 		023	Wild	M5 V	{ -3 }	(400+1)	[0000]	B	12	4
+Tien	B	1502	Zdeshiechat	X7A2000-0	 	Ba Fl He 		013	Wild	M1 III	{ -3 }	(600+4)	[0000]	B	11	24
+Tien	B	1503	Qristiev	D556000-3	 	Di 		014	Wild	M7 V D	{ -3 }	(600+2)	[0000]	B	12	12
+Tien	B	1504	Atlyazh	X7B0000-8	 	Di He In 		002	Wild	K5 V	{ -2 }	(800-2)	[0000]	BE	11	-16
+Tien	B	1506	Tliaplat	X300000-0	 	Ba Va 		003	Wild	M0 III	{ -3 }	(A00+4)	[0000]	B	9	40
+Tien	B	1507	Inzier	X262000-2	 	Di 		004	Wild	G0 V D	{ -3 }	(600+1)	[0000]	B	8	6
+Tien	B	1508	Avrrsiabl	X8D4000-E	 	Di 		002	Wild	M9 V	{ -1 }	(A00-1)	[0000]	B	5	-10
+Tien	B	1510	Na Jdedrr	D655521-2	 	Ag Ga Ni 		214	Wild	F2 V D	{ -2 }	(A43+1)	[9361]	BC	14	120
+Tien	F	1513	Yavzdi	X352000-0	 	Ba Po 		012	Wild	M6 V	{ -3 }	(500+1)	[0000]	B	12	5
+Tien	F	1516	Zarontse	XAF5000-0	 	Ba 		001	Wild	A0 V	{ -3 }	(800+2)	[0000]	B	8	16
+Tien	F	1519	Kralvra	X140000-0	 	Ba De Po 		004	Wild	K4 V	{ -3 }	(900-2)	[0000]	B	12	-18
+Tien	J	1521	Rie'chovr	X000000-8	 	As Va Di Na Pi 		003	Wild	F6 V	{ -3 }	(500-3)	[0000]	BD	13	-15
+Tien	J	1522	Flianj	X656879-0	 	Ga Pa Ph 		404	Wild	G9 V	{ -2 }	(A72-3)	[86A1]	Bce	12	-420
+Tien	J	1524	Dliavrrid	X666000-0	 	Ba Ga 		002	Wild	M1 V	{ -3 }	(500-3)	[0000]	B	8	-15
+Tien	J	1528	Jdinik	X655778-0	 	Ag Ga 		300	Wild	G4 V M7 V	{ -1 }	(964+3)	[9661]	BC	8	648
+Tien	J	1529	Zhdashinobr	X272000-0	 	Ba 		012	Wild	G7 V	{ -3 }	(700-1)	[0000]	B	12	-7
+Tien	N	1531	Ezhiem	X783578-0	 	Ni Pr 		215	Wild	G5 V	{ -3 }	(742-4)	[9254]	Bc	16	-224
+Tien	N	1533	Kia'zabri	X100000-7	 	Di Na Va 		010	Wild	M8 V D	{ -3 }	(200+3)	[0000]	B	8	6
+Tien	N	1534	Zhdieshdi	X413000-0	 	Ba Ic 		002	Wild	F5 IV M1 V	{ -3 }	(600+3)	[0000]	B	12	18
+Tien	B	1601	Zhdevyach	X6B4000-8	 	Di Fl 		001	Wild	G5 V	{ -3 }	(600-3)	[0000]	B	7	-18
+Tien	B	1603	Ilnieblaq	E242895-1	 	Ph Pi Po 		404	Wild	G8 V D	{ -2 }	(776-1)	[D691]	BDe	13	-294
+Tien	B	1604	Pa'a	X666000-0	 	Ba Ga 		025	Wild	M6 V	{ -3 }	(600-3)	[0000]	B	17	-18
+Tien	B	1609	Sha'shafr	X588000-0	 	Ba 		004	Wild	K2 V	{ -3 }	(900+1)	[0000]	B	12	9
+Tien	F	1613	Pienopl	E779000-7	 	Di 		014	Wild	G1 V D	{ -3 }	(600+3)	[0000]	B	17	18
+Tien	F	1615	Avshtich E'	X400000-7	 	Di Va 		000	Wild	M7 V D	{ -3 }	(800-1)	[0000]	B	4	-8
+Tien	F	1616	Tlie'vietl	X897000-0	 	Ba 		004	Wild	F3 V	{ -3 }	(700-1)	[0000]	B	9	-7
+Tien	F	1618	Zderav	X7A2000-0	 	Ba Fl He 		003	Wild	M2 V D	{ -3 }	(A00+3)	[0000]	B	15	30
+Tien	F	1619	Eflia'chal	C5668BD-5	 	Pa Ri Ph 		300	Wild	K4 V	{ 0 }	(574+1)	[7859]	BcCe	5	140
+Tien	J	1621	Tsiavans	X492000-0	 	Ba He 		004	Wild	F0 V	{ -3 }	(300+1)	[0000]	B	11	3
+Tien	J	1626	Zeltsiants	X446000-0	 	Ba 		003	Wild	M2 V	{ -3 }	(C00-1)	[0000]	B	13	-12
+Tien	J	1627	Jivafie	X789000-0	 	Ba 		003	Wild	M6 V D	{ -3 }	(A00-1)	[0000]	B	11	-10
+Tien	J	1630	Tsezdietl	X572000-2	 	Di He 		000	Wild	M6 V	{ -3 }	(700+1)	[0000]	B	8	7
+Tien	N	1632	Ash	X675000-4	 	Di 		001	Wild	M2 V D	{ -3 }	(B00+1)	[0000]	B	10	11
+Tien	N	1634	Deldrifl	X000000-D	 	As Va Di Na In 		014	Wild	M7 III M4 V	{ 0 }	(B00+5)	[0000]	BE	14	55
+Tien	N	1636	Tlatidranch	X411000-7	 	Di Ic 		003	Wild	F2 II	{ -3 }	(500+3)	[0000]	B	12	15
+Tien	C	1704	Zhdashi	X9A6000-0	 	Ba Fl 		003	Wild	M1 V	{ -3 }	(300+1)	[0000]	B	11	3
+Tien	C	1706	Afli'inint	E547000-9	 	Di Pi 		002	Wild	F6 V	{ -2 }	(D00-3)	[0000]	BD	8	-39
+Tien	C	1708	Viantsedr	X200000-A	 	Di Na In Va 		023	Wild	K6 V	{ 0 }	(700+2)	[0000]	BE	17	14
+Tien	C	1709	Melpia	X673000-0	 	Ba 		001	Wild	M1 V	{ -3 }	(400+1)	[0000]	B	7	4
+Tien	G	1718	Afrria	X203000-8	 	Cy Di Ic Va Na Pi 		001	Wild	M3 V	{ -3 }	(400+1)	[0000]	BD	5	4
+Tien	G	1719	Vitshiedr	D55479C-0	 	Ag 		304	Wild	M2 V D	{ -1 }	(866+1)	[4651]	BC	14	288
+Tien	K	1721	Azdezvropr	E36368A-3	 	Ni Ri 		315	Wild	M3 V D	{ -2 }	(C53-3)	[8453]	BC	12	-540
+Tien	K	1722	Oprqent	X230000-0	 	Ba De Po 		013	Wild	M4 V D	{ -3 }	(A00-3)	[0000]	B	14	-30
+Tien	K	1724	Piritle	X541000-4	 	Di He Po 		020	Wild	M4 V	{ -3 }	(900+2)	[0000]	B	6	18
+Tien	K	1725	Niecha	X555499-0	 	Ni Pa 		203	Wild	M4 V D	{ -3 }	(830-3)	[1151]	Bc	12	-72
+Tien	K	1727	Tlich	D779000-6	 	Di 		002	Wild	G1 V	{ -3 }	(A00+2)	[0000]	B	10	20
+Tien	K	1728	Adidiedr	X221000-E	 	Di Po 		010	Wild	F5 V	{ -1 }	(900-1)	[0000]	B	10	-9
+Tien	K	1729	Libliemiash	X889556-0	 	Ni Pr 		100	Wild	G2 V M7 V	{ -3 }	(943+3)	[4231]	Bc	7	324
+Tien	O	1731	Zdov	D578000-2	 	Di 		003	Wild	M7 V D	{ -3 }	(900+2)	[0000]	B	16	18
+Tien	O	1737	Zazashasak	X7A1000-8	 	Di Fl He 		014	Wild	K0 V	{ -3 }	(E00-1)	[0000]	B	14	-14
+Tien	O	1738	Elchta'	X345000-9	 	Di Pi 		013	Wild	K1 V	{ -2 }	(B00+1)	[0000]	BD	13	11
+Tien	C	1801	Azzhdof	X99A000-5	 	Di Wa 		004	Wild	G0 V	{ -3 }	(B00+3)	[0000]	B	13	33
+Tien	C	1804	Nalni'ie	X444000-4	 	Di 		003	Wild	M0 V	{ -3 }	(800-2)	[0000]	B	9	-16
+Tien	C	1805	Fliqr	X8D5000-4	 	Di 		003	Wild	M4 V M7 V	{ -3 }	(400-3)	[0000]	B	14	-12
+Tien	C	1806	Retsshienj	X797000-0	 	Ba 		000	Wild	M0 V	{ -3 }	(A00-1)	[0000]	B	5	-10
+Tien	C	1807	Zhiltlanz	X320000-0	 	Ba De He Po 		001	Wild	F2 V D	{ -3 }	(700+2)	[0000]	B	8	14
+Tien	G	1813	Fla'tichtal	X877000-0	 	Ba 		002	Wild	M6 V D	{ -3 }	(800-2)	[0000]	B	10	-16
+Tien	G	1814	Shtia	C594833-3	 	Pa Pi Ph 		314	Wild	K1 V M5 V	{ -1 }	(773+3)	[6764]	BcDe	12	441
+Tien	G	1816	Zadneeplzhier	X000000-B	 	As Va Di 		004	Wild	M2 V D	{ -1 }	(800+2)	[0000]	B	12	16
+Tien	G	1818	Tlach	X9A6000-0	 	Ba Fl 		004	Wild	M3 III M1 V D	{ -3 }	(600+3)	[0000]	B	11	18
+Tien	G	1819	Qriazae	X645000-0	 	Ba 		010	Wild	F8 V	{ -3 }	(800-3)	[0000]	B	9	-24
+Tien	K	1821	Olevr	X7A4000-8	 	Di Fl 		003	Wild	F0 V	{ -3 }	(700+3)	[0000]	B	12	21
+Tien	K	1822	Siskayas	E587785-1	 	Ag Ri An  DroyW 		303	Wild	M1 V D	{ 0 }	(667+1)	[2721]	BC	13	252
+Tien	K	1826	Tazdlri	X300000-7	 	Di Na Va 		003	Wild	M9 V	{ -3 }	(B00+2)	[0000]	B	10	22
+Tien	K	1827	Fre'niens	X667000-C	 	Di Ga 		012	Wild	M6 V	{ -1 }	(A00+1)	[0000]	B	9	10
+Tien	K	1830	Piarezh	X483000-0	 	Ba 		010	Wild	M6 V	{ -3 }	(900+3)	[0000]	B	5	27
+Tien	O	1832	Ansia	E556000-6	 	Di 		002	Wild	K5 V D	{ -3 }	(600-2)	[0000]	B	11	-12
+Tien	O	1833	Bia'ieloch	X221000-9	 	Di Na Po 		010	Wild	F3 II	{ -2 }	(900-1)	[0000]	B	12	-9
+Tien	O	1839	Qrchorie	D484874-0	 	Pa Ri Ph 		204	Wild	M3 V	{ -1 }	(774+4)	[7751]	BcCe	9	784
+Tien	O	1840	Janzzhdel	X490000-0	 	Ba De He 		003	Wild	K1 V	{ -3 }	(700-1)	[0000]	B	11	-7
+Tien	C	1902	Yiavree	X6A4000-0	 	Ba Fl 		004	Wild	M8 V D	{ -3 }	(A00+2)	[0000]	B	17	20
+Tien	C	1904	Sivliezh	X000000-A	 	As Va Di Na 		014	Wild	F4 V	{ -1 }	(C00-1)	[0000]	B	13	-12
+Tien	C	1905	Vrietsshafens	X453635-0	 	Ni Po 		523	Wild	M9 III	{ -3 }	(850+2)	[3345]	B	17	80
+Tien	C	1906	Izhniach	D883000-6	 	Di 		004	Wild	M6 V M9 V D	{ -3 }	(900+1)	[0000]	B	11	9
+Tien	G	1911	Jetsdaansh	X753000-3	 	Di Po 		001	Wild	M2 V	{ -3 }	(700-4)	[0000]	B	4	-28
+Tien	G	1917	Vie'eshtaj	E355476-4	 	Ni Pa 		100	Wild	G0 IV	{ -3 }	(332+1)	[2181]	Bc	10	18
+Tien	G	1918	Tietsshie'anz	X367000-3	 	Di 		013	Wild	F4 V	{ -3 }	(700-2)	[0000]	B	13	-14
+Tien	G	1920	Re'shietlezh	D6687A9-0	 	Ag Ri 		304	Wild	M9 V D	{ 0 }	(C65+1)	[C761]	BC	12	360
+Tien	K	1922	Jde'lanz	X336000-0	 	Ba 		020	Wild	M7 V	{ -3 }	(800-1)	[0000]	B	8	-8
+Tien	K	1924	Chalo	X564000-0	 	Ba 		020	Wild	M8 V D	{ -3 }	(900+5)	[0000]	B	13	45
+Tien	K	1925	Vedochzhe	X531000-D	 	Di Po 		003	Wild	M3 V	{ -1 }	(900+4)	[0000]	B	11	36
+Tien	K	1928	Jeshechiedodl	X627000-0	 	Ba 		004	Wild	K4 V D	{ -3 }	(A00+2)	[0000]	B	13	20
+Tien	K	1929	Dlazhqetl	X332000-6	 	Di Na Po 		013	Wild	F8 V	{ -3 }	(600+3)	[0000]	B	11	18
+Tien	K	1930	Sheklianze	X777000-0	 	Ba 		003	Wild	G1 V	{ -3 }	(500-2)	[0000]	B	7	-10
+Tien	O	1933	Eshbelebiebr	X3838CD-0	 	Ph Ri 		214	Wild	M7 V D	{ -1 }	(875+1)	[B753]	BCe	16	280
+Tien	O	1935	Jdechtozi	X7A6000-0	 	Ba Fl 		003	Wild	F8 V	{ -3 }	(500+3)	[0000]	B	11	15
+Tien	O	1938	Shtonjchti	X886000-1	 	Di Ga 		004	Wild	G9 V	{ -3 }	(800+3)	[0000]	B	12	24
+Tien	O	1940	Atskodi'	X9A3000-8	 	Di Fl Px 		020	Wild	F1 IV D	{ -3 }	(B00+1)	[0000]	B	12	11
+Tien	C	2002	Kiear	X462000-0	 	Ba 		004	Wild	M3 V M9 V	{ -3 }	(A00+1)	[0000]	B	14	10
+Tien	C	2003	Jdalifensh	X354000-0	 	Ba 		023	Wild	F4 V	{ -3 }	(500+2)	[0000]	B	11	10
+Tien	G	2013	Ushaddax	X558444-1	 	Ni Pa 		204	Wild	G1 V	{ -3 }	(630-1)	[1131]	Bc	11	-18
+Tien	G	2015	Aqinj A'	X654000-0	 	Ba 		004	Wild	G5 V	{ -3 }	(600+3)	[0000]	B	8	18
+Tien	G	2016	Ievripla	X100000-7	 	Di Na Pi Va 		024	Wild	F6 V	{ -3 }	(A00+1)	[0000]	BD	15	10
+Tien	G	2018	Tsachi	X869000-6	 	Di 		013	Wild	F9 V	{ -3 }	(600+3)	[0000]	B	12	18
+Tien	K	2023	Alstonchebr	X347000-4	 	Di 		004	Wild	K6 V	{ -3 }	(300+3)	[0000]	B	15	9
+Tien	K	2024	Idldliats	X475000-3	 	Di 		014	Wild	K5 V D	{ -3 }	(700-2)	[0000]	B	12	-14
+Tien	K	2029	Chta'ats	X7B0000-0	 	Ba He 		004	Wild	G8 IV M3 V	{ -3 }	(700-3)	[0000]	B	9	-21
+Tien	O	2031	Shiabradl	X000000-0	 	As Va Ba 		002	Wild	M1 III	{ -3 }	(600+2)	[0000]	B	9	12
+Tien	O	2034	Edloch	X665000-5	 	Di Ga 		001	Wild	F2 V	{ -3 }	(600+3)	[0000]	B	8	18
+Tien	O	2036	Daprkrien	X201000-A	 	Di Ic Va 		004	Wild	M0 V D	{ -1 }	(700-2)	[0000]	B	12	-14
+Tien	O	2038	Jadr	X570000-0	 	Ba De He 		020	Wild	A5 V G8 V	{ -3 }	(900+3)	[0000]	B	7	27
+Tien	C	2101	Vlansbedl	X400000-0	 	Ba Va 		003	Wild	M2 V D	{ -3 }	(500+3)	[0000]	B	8	15
+Tien	C	2103	Chtokra	X100000-A	 	Di Va 		025	Wild	G9 IV M3 V	{ -1 }	(E00+1)	[0000]	B	12	14
+Tien	C	2105	Jdiancha	X510000-0	 	Ba 		000	Wild	M0 V M5 V	{ -3 }	(500-4)	[0000]	B	5	-20
+Tien	C	2107	Zhiv	XAD4000-4	 	Di 		003	Wild	A4 V	{ -3 }	(700+1)	[0000]	B	8	7
+Tien	C	2109	Inteianzh	D89A874-3	 	Ph Pi Wa 		410	Wild	K3 V M4 V	{ -2 }	(675-2)	[A641]	BDe	10	-420
+Tien	C	2110	Zhdiafebr	E67A000-7	 	Di Wa 		004	Wild	G1 V D	{ -3 }	(A00+2)	[0000]	B	9	20
+Tien	G	2111	Tlazzhats	X225000-9	 	Di Px 		014	Wild	K4 V D	{ -2 }	(A00-1)	[0000]	B	11	-10
+Tien	G	2114	Daxia	X303000-9	 	Di Ic Va 		004	Wild	K9 V D	{ -2 }	(F00+2)	[0000]	B	14	30
+Tien	G	2118	Zhadrdlins	X65A423-0	 	Ni Wa 		203	Wild	M5 V D	{ -3 }	(430-3)	[5182]	B	9	-36
+Tien	G	2119	Okriadr	X424000-0	 	Ba 		004	Wild	M0 V	{ -3 }	(A00+3)	[0000]	B	13	30
+Tien	G	2120	I'diedrid	E556000-4	 	Di 		004	Wild	G9 V	{ -3 }	(C00-4)	[0000]	B	9	-48
+Tien	K	2121	Zhdadiekr	X471000-9	 	Di He Pi 		000	Wild	M6 V	{ -2 }	(800-4)	[0000]	BD	10	-32
+Tien	K	2124	Onjdinz	X254000-3	 	Di 		020	Wild	G6 V	{ -3 }	(700+1)	[0000]	B	10	7
+Tien	K	2125	Aflsanshie	X000000-C	 	As Va Di Na Pi 		001	Wild	M2 V	{ -1 }	(800-1)	[0000]	BD	6	-8
+Tien	K	2126	Iazdodl	X622000-E	 	Di He Na In Po 		023	Wild	M7 II M0 V D	{ 0 }	(C00-1)	[0000]	BE	15	-12
+Tien	K	2128	Jianjshte	X9D1000-B	 	Di 		002	Wild	M7 V	{ -1 }	(900+2)	[0000]	B	10	18
+Tien	K	2130	Yiafr	X622000-A	 	Di He Na Po 		024	Wild	M3 V	{ -1 }	(D00-4)	[0000]	B	17	-52
+Tien	O	2131	Zietspinje	X311000-0	 	Ba Ic 		002	Wild	M7 V	{ -3 }	(800+2)	[0000]	B	10	16
+Tien	O	2134	Ainzzil	X8B4000-8	 	Di Fl 		013	Wild	F1 II	{ -3 }	(A00-3)	[0000]	B	11	-30
+Tien	O	2136	Kiebriatl	X110000-B	 	Cy Di Na 		001	Wild	G8 V D	{ -1 }	(900+2)	[0000]	B	10	18
+Tien	O	2138	Zhdieshiadl	X45367A-0	 	Ni Po 		415	Wild	F5 V	{ -3 }	(853+3)	[8352]	B	16	360
+Tien	O	2140	Tla'	X224000-8	 	Di Pi 		004	Wild	M5 V	{ -3 }	(A00+5)	[0000]	BD	12	50
+Tien	C	2201	Ie'jdom	X737000-6	 	Di 		012	Wild	M1 V	{ -3 }	(300+3)	[0000]	B	12	9
+Tien	C	2205	She'atadl	E548000-6	 	Di 		000	Wild	M4 V	{ -3 }	(800-5)	[0000]	B	13	-40
+Tien	C	2207	Eaflia	X6657AB-0	 	Ag Ri Ga 		204	Wild	K9 V M2 V	{ 0 }	(665-5)	[8781]	BC	11	-900
+Tien	C	2208	Stiansaibr	X140000-6	 	De Di Po 		002	Wild	M3 V M3 V	{ -3 }	(300+1)	[0000]	B	14	3
+Tien	G	2211	Jdelo	C868779-5	 	Ag Ri 		324	Wild	M4 V	{ 1 }	(565-3)	[6811]	BC	12	-450
+Tien	G	2213	Amaxu	X582457-0	 	Ni 		113	Wild	F6 V	{ -3 }	(B30-1)	[6111]	B	9	-33
+Tien	G	2214	Addax	X9D2000-D	 	(Addaxur) Di 		004	Wild	M1 V	{ -1 }	(E00-4)	[0000]	B	14	-56
+Tien	G	2216	Drunshu	X72A000-7	 	Di 		003	Wild	K8 V	{ -3 }	(800+2)	[0000]	B	15	16
+Tien	G	2218	Zdiedliv	X300000-D	 	Di Va 		004	Wild	F7 V	{ -1 }	(E00-2)	[0000]	B	10	-28
+Tien	K	2221	Itliaplshopl	X9A4000-0	 	Ba Fl 		014	Wild	M1 V	{ -3 }	(A00+1)	[0000]	B	16	10
+Tien	K	2225	Briaoffrach	X624000-D	 	Di 		000	Wild	F2 V D	{ -1 }	(800+4)	[0000]	B	4	32
+Tien	K	2226	Antsietlo	E46169D-3	 	Ni Ri 		321	Wild	F5 V	{ -2 }	(750+2)	[7494]	BC	7	70
+Tien	K	2227	Atlilesh	E867000-7	 	Di Ga 		003	Wild	K8 V D	{ -3 }	(700+4)	[0000]	B	9	28
+Tien	K	2230	Priavrshto	X510000-7	 	Di 		005	Wild	G5 V	{ -3 }	(900+2)	[0000]	B	16	18
+Tien	O	2233	Kidladr	X463000-0	 	Ba 		003	Wild	M9 V D	{ -3 }	(400+4)	[0000]	B	10	16
+Tien	O	2240	Zientsal	X627000-0	 	Ba 		024	Wild	M4 V	{ -3 }	(400+2)	[0000]	B	17	8
+Tien	C	2301	Dlie	D75547A-2	 	Ga Ni Pa 		304	Wild	M4 V	{ -3 }	(830-4)	[6131]	Bc	15	-96
+Tien	C	2302	Azhierebr	X674000-0	 	Ba 		003	Wild	G4 V	{ -3 }	(800+3)	[0000]	B	11	24
+Tien	C	2303	Dlens	D385738-2	 	Ag Ri 		522	Wild	M4 V	{ 0 }	(469+1)	[5751]	BC	9	216
+Tien	C	2307	Edlia	X546000-0	 	Ba 		000	Wild	M2 V	{ -3 }	(900+1)	[0000]	B	6	9
+Tien	C	2309	Krich	X733000-6	 	Di Po 		005	Wild	K8 V	{ -3 }	(500-1)	[0000]	B	15	-5
+Tien	C	2310	Yepietl	D542000-6	 	Di He Po 		012	Wild	M3 V	{ -3 }	(500+5)	[0000]	B	8	25
+Tien	G	2314	Umashaxar	X000000-E	 	As Va Di 		001	Wild	M3 V D	{ -1 }	(800+1)	[0000]	B	4	8
+Tien	G	2316	Shantusax	X84A000-3	 	Di Wa 		002	Wild	M9 V	{ -3 }	(400-2)	[0000]	B	8	-8
+Tien	G	2317	Korubal	X200000-A	 	Di Va 		003	Wild	G0 V D	{ -1 }	(E00+2)	[0000]	B	13	28
+Tien	G	2319	Vlol	X301000-7	 	Di Ic Va 		023	Wild	F9 V	{ -3 }	(500+3)	[0000]	B	15	15
+Tien	G	2320	Jdianchdlebr	X67699D-0	 	Hi In 		404	Wild	M1 V	{ 0 }	(383-3)	[5963]	BE	14	-216
+Tien	K	2322	Zhdensanz	C678777-1	W	Ag Pi 		504	Wild	K6 V	{ 1 }	(869+1)	[4851]	BCD	14	432
+Tien	K	2326	Dijiafr	X000000-7	 	As Va Di Na Pi 		001	Wild	F0 II	{ -3 }	(600-5)	[0000]	BD	5	-30
+Tien	K	2329	Tlibr	X6A2000-8	 	Di Fl He 		003	Wild	M2 V	{ -3 }	(C00+1)	[0000]	B	9	12
+Tien	K	2330	Iachints	X358000-0	 	Ba 		013	Wild	F7 V D	{ -3 }	(400-2)	[0000]	B	12	-8
+Tien	O	2334	Tlonzjats	X333000-8	 	Di Na Po 		014	Wild	K8 V	{ -3 }	(C00-4)	[0000]	B	15	-48
+Tien	O	2337	Jitiedl	X110000-E	 	Di 		014	Wild	K5 V	{ -1 }	(F00-4)	[0000]	B	14	-60
+Tien	O	2340	Vipti'	X200000-7	 	Di Na Va 		003	Wild	M0 V	{ -3 }	(300+3)	[0000]	B	12	9
+Tien	C	2402	Adriadr	X9A3000-0	 	Ba Fl 		003	Wild	M4 V	{ -3 }	(B00+1)	[0000]	B	11	11
+Tien	C	2410	Salzdi	X766000-0	 	Ba Ga 		004	Wild	K3 V	{ -3 }	(500+1)	[0000]	B	12	5
+Tien	G	2411	Inchij	X5A0000-B	 	Di He 		004	Wild	K3 V M8 V	{ -1 }	(700+1)	[0000]	B	14	7
+Tien	G	2414	Mesh Tuxar	X301000-C	 	Di Ic Va 		020	Wild	M4 V	{ -1 }	(600+3)	[0000]	B	9	18
+Tien	G	2415	Nasaxu Ar	X865885-0	 	Ga Pa Ri Ph 		312	Wild	M6 V	{ -1 }	(B75-5)	[8791]	BcCe	6	-1925
+Tien	G	2417	Penzdrons	X474000-8	 	Di Pi 		022	Wild	K3 V M6 V	{ -3 }	(D00+2)	[0000]	BD	15	26
+Tien	G	2419	Dliadiets	E97A000-3	 	Di Wa 		003	Wild	M4 V D	{ -3 }	(500-1)	[0000]	B	11	-5
+Tien	G	2420	Sie'aqr	X300000-9	 	Di Va 		003	Wild	G2 V	{ -2 }	(A00-2)	[0000]	B	10	-20
+Tien	K	2422	Zdevledr	X531000-7	 	(Izdev) Di Na Po 		003	Wild	K9 V D	{ -3 }	(600+2)	[0000]	B	15	12
+Tien	K	2423	Dedrtlidratl	X9899B8-3	 	Hi Pr 		400	Wild	F9 V	{ -1 }	(A84+1)	[E814]	BcE	10	320
+Tien	K	2427	Anzhfrinsach	X674000-5	 	Di 		000	Wild	M0 V D	{ -3 }	(A00+1)	[0000]	B	7	10
+Tien	K	2430	Penshadr	X539000-6	 	Di 		000	Wild	F0 V D	{ -3 }	(900+1)	[0000]	B	11	9
+Tien	O	2434	Merchti	X465000-1	 	Di 		010	Wild	M0 V	{ -3 }	(800+2)	[0000]	B	12	16
+Tien	O	2435	I'zhda	X200000-8	 	Di Na Pi Va 		004	Wild	M2 V	{ -3 }	(D00+1)	[0000]	BD	15	13
+Tien	O	2437	Oshstodl	X566678-0	 	Ag Ri Ni 		412	Wild	F6 V	{ -1 }	(552-3)	[B571]	BC	15	-150
+Tien	O	2438	Jdiepliav	X779987-3	 	Hi In 		324	Wild	F5 V M7 V	{ 0 }	(785-1)	[7968]	BE	15	-280
+Tien	O	2439	Qrenzhame	X835000-8	 	Di Px 		000	Wild	F7 V	{ -3 }	(200-5)	[0000]	B	6	-10
+Tien	D	2505	Jdefa	X857441-1	 	Ga Ni Pa 		103	Wild	M3 V D	{ -3 }	(631+1)	[1113]	Bc	8	18
+Tien	D	2506	Kieshi A'	X685973-1	 	Ga Hi Pr 		423	Wild	M5 V	{ -1 }	(982-3)	[B841]	BcE	12	-432
+Tien	D	2508	Zdrdlia	D99A000-8	 	Di Wa 		002	Wild	K1 V M3 V	{ -3 }	(A00+3)	[0000]	B	11	30
+Tien	D	2509	Arklif	X130000-0	 	Ba De Po 		002	Wild	K3 IV	{ -3 }	(500+4)	[0000]	B	15	20
+Tien	H	2511	Tlia'	X237000-6	 	Di 		024	Wild	M3 V M5 V	{ -3 }	(C00-5)	[0000]	B	14	-60
+Tien	H	2514	Dria'azienta	X202000-E	 	Di Ic Va Na Pi 		003	Wild	M3 V	{ -1 }	(A00+1)	[0000]	BD	11	10
+Tien	H	2515	Vranjeshiq	X366544-0	 	Ag Pr Ni 		205	Wild	M2 III	{ -2 }	(744-3)	[2363]	BcC	13	-336
+Tien	L	2522	Avriets	D769000-4	 	Di 		003	Wild	K7 V	{ -3 }	(B00+1)	[0000]	B	11	11
+Tien	L	2523	Dlibrinzia	X242448-2	 	Ni Po 		212	Wild	M6 V	{ -3 }	(932+1)	[7142]	B	15	54
+Tien	L	2524	Lielbre'	X5585AD-0	 	Ag Ni 		102	Wild	M0 V D	{ -2 }	(441+1)	[5342]	BC	13	16
+Tien	L	2526	Shtaefia	X660000-4	 	De Di 		004	Wild	K4 IV D	{ -3 }	(500+2)	[0000]	B	11	10
+Tien	L	2527	Liadr	X567526-0	 	Ag Pr Ni 		201	Wild	M2 V D	{ -2 }	(540-2)	[8335]	BcC	13	-40
+Tien	L	2529	Adreflfient	D545747-4	 	Ag Pi 		224	Wild	F8 V	{ -1 }	(567-4)	[7634]	BCD	13	-840
+Tien	L	2530	Vrrnsh	X000000-D	 	As Va Di 		001	Wild	M7 V	{ -1 }	(700-2)	[0000]	B	5	-14
+Tien	P	2531	Ajevr	XAC6000-9	 	Di Fl 		003	Wild	M0 V	{ -2 }	(A00-2)	[0000]	B	8	-20
+Tien	P	2535	Iansitl	X451000-5	 	Di Po 		002	Wild	K7 V	{ -3 }	(200+3)	[0000]	B	9	6
+Tien	D	2606	Zdodrtlepr	X343000-0	 	Ba Po 		024	Wild	A7 V K4 V	{ -3 }	(400-1)	[0000]	B	13	-4
+Tien	D	2607	Ietleya	X437000-6	 	Cy Di 		003	Wild	K3 V D	{ -3 }	(900+4)	[0000]	B	14	36
+Tien	D	2608	Manshiapl	X410000-9	 	Di Na In 		010	Wild	M1 V D	{ -1 }	(D00+1)	[0000]	BE	8	13
+Tien	D	2610	Vlatl	D458000-4	 	Di 		004	Wild	K7 V	{ -3 }	(800-3)	[0000]	B	12	-24
+Tien	H	2612	Shtofia	X877000-4	 	Di 		023	Wild	F0 V	{ -3 }	(B00+1)	[0000]	B	16	11
+Tien	H	2614	Eshnenz	X303000-9	 	Di Ic Va 		000	Wild	M2 V D	{ -2 }	(700+4)	[0000]	B	9	28
+Tien	H	2615	Efench A'	X692000-0	 	Ba He 		014	Wild	K4 V	{ -3 }	(300+2)	[0000]	B	17	6
+Tien	H	2616	Chti'astepl	X350000-0	 	Ba De Po 		000	Wild	M2 V	{ -3 }	(B00-2)	[0000]	B	5	-22
+Tien	H	2618	Jeklzhdat	X100000-0	 	Ba Va 		004	Wild	M1 V	{ -3 }	(800+1)	[0000]	B	12	8
+Tien	L	2622	Ja'tlievr	X9B6000-E	 	Di Fl 		020	Wild	G7 V	{ -1 }	(A00-2)	[0000]	B	10	-20
+Tien	L	2623	Iadrdad	X353498-2	 	Ni Po 		202	Wild	M4 V	{ -3 }	(630+1)	[7156]	B	11	18
+Tien	L	2624	Chezshietlant	X590000-0	 	Ba De He 		002	Wild	M2 V M7 V	{ -3 }	(400-3)	[0000]	B	9	-12
+Tien	L	2626	Chtam	X744747-0	 	Ag Pi 		504	Wild	K2 V	{ -1 }	(766+3)	[9662]	BCD	14	756
+Tien	L	2627	Edostak	X241988-1	 	Hi In Po 		203	Wild	K8 V	{ 0 }	(984+1)	[A981]	BE	13	288
+Tien	L	2628	Iprienjieril	X210000-7	 	Di 		025	Wild	K0 III	{ -3 }	(500-3)	[0000]	B	18	-15
+Tien	L	2629	Adial Az	X696000-3	 	Di 		004	Wild	M7 III M9 V	{ -3 }	(600+1)	[0000]	B	9	6
+Tien	L	2630	Eiler'zhde	X65A000-0	 	Ba Wa 		011	Wild	M4 V D	{ -3 }	(300+4)	[0000]	B	7	12
+Tien	P	2631	Bialjetl	D666000-8	 	Di Ga 		024	Wild	G0 V	{ -3 }	(A00-4)	[0000]	B	11	-40
+Tien	P	2632	Tliejta'	D693000-5	 	Di 		002	Wild	G0 V	{ -3 }	(600-2)	[0000]	B	10	-12
+Tien	P	2633	Iali	X481000-2	 	Di 		003	Wild	K6 V	{ -3 }	(B00-5)	[0000]	B	8	-55
+Tien	P	2637	Tliav	X7A1000-9	 	Di Fl He 		023	Wild	K4 V	{ -2 }	(F00+2)	[0000]	B	18	30
+Tien	P	2640	Tsada	D450000-4	 	De Di Po 		024	Wild	A3 IV	{ -3 }	(700+1)	[0000]	B	15	7
+Tien	D	2701	Ofribrcho'azh	X66A000-6	 	Di Wa 		004	Wild	M3 V	{ -3 }	(700+1)	[0000]	B	12	7
+Tien	D	2703	Stiazbre	X245000-4	 	Di 		003	Wild	G4 IV D	{ -3 }	(900+1)	[0000]	B	9	9
+Tien	D	2704	Vli	X230000-9	 	De Di Po 		013	Wild	K8 V	{ -2 }	(700+1)	[0000]	B	12	7
+Tien	D	2705	Tanzhit	X628000-A	 	Di 		023	Wild	F5 V	{ -1 }	(G00+2)	[0000]	B	15	32
+Tien	D	2706	Aqsha	X5669BA-1	 	Hi Pr 		201	Wild	F9 V D	{ -1 }	(983+1)	[6831]	BcE	12	216
+Tien	D	2708	Beviadl	X56578B-0	 	Ag Ri 		413	Wild	M4 V D	{ 0 }	(263+1)	[6755]	BC	13	36
+Tien	D	2709	Zhdenshdlia	X8A2000-9	 	Di Fl He 		002	Wild	F7 V	{ -2 }	(700-2)	[0000]	B	12	-14
+Tien	D	2710	Iashbradr	X68A000-0	 	Ba Wa 		002	Wild	F8 V	{ -3 }	(500+3)	[0000]	B	9	15
+Tien	H	2711	Fiadria E'	X330000-E	 	De Di Na Po 		001	Wild	M3 V D	{ -1 }	(800-5)	[0000]	B	8	-40
+Tien	H	2712	Qrie	C666575-7	 	Ag Pr Ga Ni 		124	Wild	F7 V	{ -1 }	(940-4)	[8425]	BcC	13	-144
+Tien	H	2714	Strvlia	X677000-2	 	Di Pi 		004	Wild	G2 V	{ -3 }	(600+2)	[0000]	BD	15	12
+Tien	H	2715	Osebr	X322000-9	 	Di He Na In Po 		000	Wild	M2 V M4 V	{ -1 }	(700-4)	[0000]	BE	9	-28
+Tien	L	2721	Ietljiak	X120000-B	 	De Di Po 		002	Wild	M8 V D	{ -1 }	(600+1)	[0000]	B	7	6
+Tien	L	2722	Pliastebr	X594000-4	 	Di 		014	Wild	G0 V	{ -3 }	(400+1)	[0000]	B	14	4
+Tien	L	2727	Jesinse	X7A6000-8	 	Di Fl 		014	Wild	G1 III M3 V	{ -3 }	(900+1)	[0000]	B	13	9
+Tien	L	2729	Piatsjdotl	X310000-D	 	Di Na In 		014	Wild	A1 V K8 V	{ 0 }	(A00-2)	[0000]	BE	14	-20
+Tien	P	2731	Tlanzmiechel	X99A000-1	 	Di Wa 		003	Wild	F7 V	{ -3 }	(A00-2)	[0000]	B	12	-20
+Tien	P	2732	Evdial	E561575-5	 	Ni Pr 		203	Wild	M6 V D	{ -3 }	(840+1)	[9254]	Bc	11	32
+Tien	P	2735	A've	X665555-1	 	Ag Pr Ga Ni 		113	Wild	M3 V	{ -2 }	(C42-2)	[A334]	BcC	11	-192
+Tien	P	2736	Tlovibr	E955877-0	 	Pa Ph 		120	Wild	M1 V D	{ -2 }	(374+1)	[C641]	Bce	7	84
+Tien	P	2737	Zdachne'	X7B3000-0	 	Ba Fl 		015	Wild	F7 III	{ -3 }	(300-1)	[0000]	B	15	-3
+Tien	P	2738	Bliejanzh	X361622-0	 	Ni Ri 		314	Wild	M9 V	{ -2 }	(A50-3)	[5491]	BC	18	-150
+Tien	P	2739	Zdatsef Da	X454733-1	 	Ag 		120	Wild	K1 V M2 V	{ -1 }	(968+3)	[4645]	BC	10	1296
+Tien	P	2740	Debr	E788512-4	 	Ag Pr Ni 		102	Wild	M2 V	{ -2 }	(944-1)	[4391]	BcC	11	-144
+Tien	D	2803	Tlelodldia'se	X543000-6	 	Di Po 		012	Wild	M7 V D	{ -3 }	(200+2)	[0000]	B	8	4
+Tien	H	2812	Tlianshan	X649000-0	 	Ba 		000	Wild	M9 V	{ -3 }	(300+1)	[0000]	B	7	3
+Tien	H	2813	Plialr	X525000-D	 	Di In 		000	Wild	G2 V D	{ 0 }	(600+4)	[0000]	BE	8	24
+Tien	H	2815	Ileche	D7847A6-0	 	Ag Ri 		213	Wild	M9 V D	{ 0 }	(669+1)	[3771]	BC	8	324
+Tien	H	2818	Shiabria	X999000-A	 	Di 		012	Wild	K9 V	{ -1 }	(B00+1)	[0000]	B	10	11
+Tien	H	2819	Senso Ja	X614000-0	 	Ba Ic 		000	Wild	K1 V	{ -3 }	(900+3)	[0000]	B	9	27
+Tien	L	2821	Qia'jdo	X68A474-3	 	Ni Wa 		103	Wild	K6 V M2 V	{ -3 }	(630-4)	[3171]	B	11	-72
+Tien	L	2823	Vra'atlint	X87A000-6	 	Di Wa 		023	Wild	M8 V D	{ -3 }	(600+1)	[0000]	B	14	6
+Tien	L	2824	Viedriez	C889644-4	 	Ni Ri 		402	Wild	M0 V	{ -1 }	(450-1)	[3527]	BC	7	-20
+Tien	L	2827	Diachtapl	X56288B-0	 	Ph Ri 		304	Wild	M7 V	{ -1 }	(376+2)	[B723]	BCe	15	252
+Tien	P	2833	Pli'zhdans	E976000-5	 	Di 		014	Wild	G2 V D	{ -3 }	(300+3)	[0000]	B	12	9
+Tien	P	2834	Ketlvapr	X9C5000-C	 	Di Fl In 		003	Wild	K4 IV D	{ 0 }	(E00+3)	[0000]	BE	11	42
+Tien	P	2837	A'rench	X210000-0	 	Ba 		014	Wild	K4 IV	{ -3 }	(600+3)	[0000]	B	16	18
+Tien	P	2839	Rizhzde'o	X597000-0	 	Ba 		015	Wild	M9 V	{ -3 }	(A00+1)	[0000]	B	14	10
+Tien	D	2902	Jia'stikr	X563457-0	 	Ni 		114	Wild	F0 V	{ -3 }	(633+1)	[1151]	B	13	54
+Tien	D	2904	Yiedravr	X120000-0	 	Ba De Po 		034	Wild	K8 V	{ -3 }	(200-1)	[0000]	B	20	-2
+Tien	D	2907	Plentapla	X79A000-0	 	Ba Wa 		002	Wild	K6 V	{ -3 }	(800+1)	[0000]	B	10	8
+Tien	D	2908	Vlepiat	X220000-8	 	De Di Po 		014	Wild	M6 V D	{ -3 }	(800+1)	[0000]	B	12	8
+Tien	H	2912	Chadrnifr	E555887-0	 	Pa Ph 		224	Wild	M4 V	{ -2 }	(775+2)	[9631]	Bce	13	490
+Tien	H	2920	Zde Tiati	X413000-C	 	Di Ic Na Pi 		024	Wild	M4 V	{ -1 }	(F00-2)	[0000]	BD	14	-30
+Tien	L	2922	Bro'pieqr	X684000-4	 	Di 		003	Wild	M1 V D	{ -3 }	(400-2)	[0000]	B	7	-8
+Tien	L	2927	Jdinchedrfre	X6A0000-0	 	Ba He 		002	Wild	G5 V	{ -3 }	(900-3)	[0000]	B	9	-27
+Tien	L	2930	Delfienzh	X247531-1	 	Ag Ni 		100	Wild	K6 V	{ -2 }	(A42+3)	[8311]	BC	11	240
+Tien	P	2931	Ta Iefyans	X425000-E	 	Di In 		014	Wild	M3 V	{ 0 }	(G00-4)	[0000]	BE	16	-64
+Tien	P	2935	Itlbadr	X646000-0	 	Ba 		004	Wild	K2 V D	{ -3 }	(800+2)	[0000]	B	10	16
+Tien	P	2937	Iadriav	X748000-2	 	Di 		023	Wild	F9 V	{ -3 }	(600-3)	[0000]	B	13	-18
+Tien	P	2939	Riaqshedi	X763000-0	 	Ba 		025	Wild	M8 V	{ -3 }	(600+1)	[0000]	B	17	6
+Tien	D	3006	Tinzhiaz	D596876-2	 	Pa Pi Ph 		101	Wild	F0 V D	{ -2 }	(C74+1)	[9662]	BcDe	7	336
+Tien	D	3007	Zdiatiadl	X302000-E	 	Di Ic Va Na In 		004	Wild	M8 V	{ 0 }	(B00-3)	[0000]	BE	11	-33
+Tien	D	3008	Ninshiaiach	X303000-D	 	Di Ic Va 		003	Wild	M0 V	{ -1 }	(A00-4)	[0000]	B	11	-40
+Tien	D	3010	Mie'a	D85867B-2	 	Ag Ni 		503	Wild	G3 IV M5 V	{ -2 }	(550+3)	[8472]	BC	13	75
+Tien	H	3013	Pefrtlanch	X75A000-3	 	Di Wa 		003	Wild	G8 V	{ -3 }	(B00+1)	[0000]	B	11	11
+Tien	H	3018	Toch Azazhde	X120000-9	 	De Di Po 		000	Wild	M5 V	{ -2 }	(800+2)	[0000]	B	8	16
+Tien	H	3019	Ibipjabresh	X9D6000-0	 	Ba 		023	Wild	M5 V	{ -3 }	(900-4)	[0000]	B	14	-36
+Tien	H	3020	Stoqiash	X100000-7	 	Di Va 		003	Wild	K7 V M4 V	{ -3 }	(600+3)	[0000]	B	11	18
+Tien	L	3022	Evdia	X330000-8	 	De Di Po 		014	Wild	A6 V	{ -3 }	(B00+3)	[0000]	B	10	33
+Tien	L	3023	Natsansh	E6667AB-2	 	Ag Ri Ga 		123	Wild	M0 V	{ 0 }	(669+1)	[8752]	BC	16	324
+Tien	L	3024	Ste'tlia	X410000-E	 	Di Na 		000	Wild	M5 III	{ -1 }	(A00-3)	[0000]	B	4	-30
+Tien	L	3025	Te Ninzh	X8B2000-8	 	Di Fl He 		012	Wild	M3 V M4 V	{ -3 }	(B00+2)	[0000]	B	8	22
+Tien	L	3026	Mavieer	X411000-8	 	Di Ic Na Pi 		024	Wild	K9 V	{ -3 }	(900+1)	[0000]	BD	10	9
+Tien	L	3028	Dlodadlia	X627000-7	 	Di Pi 		000	Wild	M0 V	{ -3 }	(800+3)	[0000]	BD	10	24
+Tien	L	3029	Idliav	X8A4000-E	 	Di Fl In 		001	Wild	G9 IV	{ 0 }	(B00-2)	[0000]	BE	6	-22
+Tien	P	3031	E'brinsh	X774000-5	 	Di 		002	Wild	M6 V	{ -3 }	(700+3)	[0000]	B	7	21
+Tien	P	3033	Zhdizant	C959876-4	 	Ph 		300	Wild	G1 V	{ -1 }	(57B-4)	[6753]	Be	8	-1540
+Tien	P	3035	Vidbrianch	X000000-D	 	As Va Di Na In 		003	Wild	F4 V D	{ 0 }	(D00-4)	[0000]	BE	13	-52
+Tien	D	3101	Inshkoa	X100000-0	 	Ba Va 		003	Wild	M4 V	{ -3 }	(600+2)	[0000]	B	13	12
+Tien	D	3102	Atliakritl	X996000-6	 	Di 		004	Wild	F8 V	{ -3 }	(A00-1)	[0000]	B	17	-10
+Tien	D	3104	Dezhr'	X88A532-0	 	Ni Pr Wa 		100	Wild	F0 V D	{ -3 }	(841+1)	[7241]	Bc	4	32
+Tien	D	3110	Tsialebr	X695000-8	 	Di 		004	Wild	K8 V D	{ -3 }	(E00+1)	[0000]	B	15	14
+Tien	H	3111	Tlinzhiat	X343000-1	 	Di Po 		024	Wild	M8 V D	{ -3 }	(500+1)	[0000]	B	15	5
+Tien	H	3112	Fia'ie'	X310000-D	 	Di Na 		004	Wild	M8 V	{ -1 }	(C00-1)	[0000]	B	15	-12
+Tien	H	3113	Izieazh	X130000-B	 	De Di Na Po 		015	Wild	K4 V	{ -1 }	(C00-5)	[0000]	B	16	-60
+Tien	H	3115	Ientseshtil	E87A000-5	 	Di Wa 		002	Wild	M0 V D	{ -3 }	(400+1)	[0000]	B	12	4
+Tien	H	3116	Zdavrseprpia	X541000-5	 	Di He Po 		014	Wild	G1 V D	{ -3 }	(300+3)	[0000]	B	13	9
+Tien	H	3117	Eranchabr	X337000-0	 	Ba 		020	Wild	G0 II	{ -3 }	(500-1)	[0000]	B	9	-5
+Tien	L	3121	Fojlebranzh	X100000-8	 	Di Va 		004	Wild	M7 V D	{ -3 }	(A00+2)	[0000]	B	13	20
+Tien	L	3123	Aqrjia	E247557-4	 	Ag Ni 		201	Wild	M3 V	{ -2 }	(841-1)	[7344]	BC	5	-32
+Tien	L	3127	Zdebrans	X672000-3	 	Di He 		003	Wild	M7 II	{ -3 }	(500+1)	[0000]	B	16	5
+Tien	L	3129	Yieklaedr	X500000-7	 	Di Na In Va 		003	Wild	M5 V	{ -2 }	(700+2)	[0000]	BE	6	14
+Tien	P	3132	Jirdafra	X7B1000-B	 	Di Fl He Px 		005	Wild	A5 V	{ -1 }	(C00-2)	[0000]	B	12	-24
+Tien	P	3134	Fanzpriash	X610000-0	 	Ba 		005	Wild	M6 V	{ -3 }	(C00-1)	[0000]	B	14	-12
+Tien	P	3135	Ienzhbria	X130000-9	 	De Di Po 		004	Wild	G1 IV D	{ -2 }	(900+1)	[0000]	B	17	9
+Tien	D	3205	Te Evrmach	X85A000-6	 	Di Wa 		003	Wild	M9 V D	{ -3 }	(800-2)	[0000]	B	10	-16
+Tien	D	3206	Dozhbresh	X7A0000-0	 	Ba He 		004	Wild	M3 III	{ -3 }	(700-1)	[0000]	B	13	-7
+Tien	D	3207	Brakr	X7B6000-0	 	Ba Fl 		004	Wild	M1 V D	{ -3 }	(700-2)	[0000]	B	16	-14
+Tien	D	3209	Nomapr A'	X8C6000-9	 	Di Fl 		002	Wild	M9 III	{ -2 }	(800-5)	[0000]	B	11	-40
+Tien	H	3212	Votaanch	X515000-A	 	Di Ic Pi 		014	Wild	M5 V D	{ -1 }	(C00+3)	[0000]	BD	10	36
+Tien	H	3214	Draia	X000000-9	 	As Va Di 		004	Wild	M4 V	{ -2 }	(700-2)	[0000]	B	14	-14
+Tien	H	3217	Deshvlo'o	E775000-4	 	Di 		000	Wild	M2 V	{ -3 }	(800-1)	[0000]	B	6	-8
+Tien	L	3224	Roch	X363400-3	 	Ni 		203	Wild	K0 V D	{ -3 }	(830-5)	[3161]	B	12	-120
+Tien	L	3226	Jenadr	X361720-0	 	Ri 		405	Wild	K1 V	{ -1 }	(563+1)	[5632]	BC	12	90
+Tien	L	3227	Ipryiaeavr	X000000-7	 	As Va Di 		004	Wild	F4 V	{ -3 }	(300+1)	[0000]	B	8	3
+Tien	P	3238	Tloqe	X778000-7	 	Di 		003	Wild	A4 V D	{ -3 }	(A00+4)	[0000]	B	14	40
+Tien	P	3240	Edach	X677000-4	 	Di 		023	Wild	M0 V	{ -3 }	(700+1)	[0000]	B	17	7

@@ -1,0 +1,12 @@
+location {
+	y   -4 
+	x   -4
+}
+
+default {
+	order 	virus wave vargr
+}
+
+source {
+	path  /Users/rje/git/travellermap/res/t5ss/data/Ghoekhnael.tab 
+}

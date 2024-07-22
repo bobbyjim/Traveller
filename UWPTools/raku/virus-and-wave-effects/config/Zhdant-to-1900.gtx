@@ -1,0 +1,17 @@
+location {
+	y   -2 
+	x   -7
+}
+
+default {
+	order 	virus wave
+}
+
+cow {
+   radius	15
+   center	19, -11
+}
+
+source {
+	path  travellermap 
+}

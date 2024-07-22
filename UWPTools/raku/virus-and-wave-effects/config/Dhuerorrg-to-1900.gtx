@@ -1,0 +1,12 @@
+location {
+	y   -3 
+	x   -3
+}
+
+default {
+	order 	virus wave vargr
+}
+
+source {
+	path  /Users/rje/git/travellermap/res/t5ss/data/Dhuerorrg.tab 
+}

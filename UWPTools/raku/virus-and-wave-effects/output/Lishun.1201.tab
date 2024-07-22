@@ -1,0 +1,602 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+Lish	A	0101	Ishimaga	X734000-9	 	     Di 		003	ImDa	K4 V M2 V	-2	(900+1)	[0000]	B	10	9
+Lish	A	0110	Jesikara	X7988CD-5	 	     (J'sia)  Pa Pi Ph (NIL)	B	303	ImDa	F7 V	-2	(A76+1)	[A679]	BcDe	8	420
+Lish	E	0111	Oksanad	X569388-4	 	     Lo 		313	ImDa	M2 V	-3	(520+1)	[5152]	B	8	10
+Lish	E	0112	Vakada	X100000-D	 	     Di Va 		010	ImDa	M3 V	-1	(600+1)	[0000]	B	8	6
+Lish	E	0116	Ropha	X410000-B	 	     Di 		001	ImDa	G8 V	-1	(400+1)	[0000]	B	8	4
+Lish	E	0117	Darad	D675303-8	 	     Lo 		702	ImDa	M1 V M4 V	-3	(720+1)	[713A]	B	8	14
+Lish	E	0118	Solod	X310000-F	 	     Di 		001	ImDa	M1 V M8 V	-1	(700-4)	[0000]	B	8	-28
+Lish	E	0119	Omshona	X420000-A	 	      De He Di Po 		004	ImDa	M1 V M4 V	-1	(B00-4)	[0000]	B	8	-44
+Lish	I	0121	Asli	X000000-B	 	     O:0221  As Va Cy Di Na Pi 		003	ImDa	M1 V M6 V	-1	(C00-1)	[0000]	BD	8	-12
+Lish	I	0122	Base Two	X584155-3	 	     Lo 		203	ImDa	G9 V M1 V	-3	(500+1)	[4155]	B	8	5
+Lish	I	0124	Inru	X425000-9	 	     Di 		003	ImDa	K0 V M7 V	-2	(A00-1)	[0000]	B	8	-10
+Lish	I	0125	Kiur	X9C5000-B	 	   Pz  Di Fl (ENIL)		014	ImDa	K1 V	-1	(E00+4)	[0000]	B	8	56
+Lish	I	0128	Kasha	X543474-4	 	     Ni Po 		421	ImDa	G0 V M4 V	-3	(630-3)	[3113]	B	8	-54
+Lish	I	0130	Voyd	X424000-A	 	    Pz  Di In (NIL)		002	ImDa	K9 V M7 V	0	(D00+3)	[0000]	BE	7	39
+Lish	M	0132	Samphan	E797122-7	 	     Lo 		210	ImDa	G7 V	-3	(400-1)	[1155]	B	10	-4
+Lish	M	0133	Ribunu	D655756-6	 	    Pz  Ag Ga (NIL)		400	ImDa	M0 V	-1	(963+4)	[A636]	BC	7	648
+Lish	M	0134	Erlukam	X437000-F	 	     Di 		012	ImDa	M2 V	-1	(700+4)	[0000]	B	12	28
+Lish	M	0136	Ram Sho	E675676-8	 	    O:0138  Ag Ni 		204	ImDa	G0 V	-2	(C50+3)	[34AA]	BC	7	180
+Lish	M	0138	Amkash	X427000-A	 	   Pz  Di Pi (NIL)		012	ImDa	M2 V	-1	(C00-2)	[0000]	BD	12	-24
+Lish	M	0139	Polaz	X744103-6	 	     Lo 		713	ImDa	M2 V	-3	(400-1)	[4157]	B	8	-4
+Lish	M	0140	Vodyr	D7829EA-8	 	     Hi Pr (NIL)	B	514	ImDa	G8 V	-1	(G86-3)	[885C]	BcE	12	-2304
+Lish	A	0201	Rasan	X000000-7	 	      As Va Di Na 		003	ImDa	G3 V M0 V	-3	(800+4)	[0000]	B	14	32
+Lish	A	0203	Ilani	X300000-9	 	     Di Va 		022	ImDa	K1 III D	-2	(900+1)	[0000]	B	9	9
+Lish	A	0205	Shuka	XACA000-C	 	     Di Fl 		003	ImDa	K8 V M1 V	-1	(800+1)	[0000]	B	9	8
+Lish	A	0206	Odsad	X9A8000-A	 	     Di Fl 		001	ImDa	M2 V	-1	(900-1)	[0000]	B	9	-9
+Lish	A	0210	Umilikha	X795200-2	 	     Lo 	B	804	ImDa	K6 V M0 V	-3	(510+1)	[3145]	B	9	5
+Lish	E	0212	Zemud	D6868BC-5	 	     Pz  Ga Pa Ri Ph (NIL)	B	601	ImDa	K3 V	-1	(A74+1)	[A755]	BcCe	9	280
+Lish	E	0214	Kaso	X200000-F	 	      Di Na In Va 		004	ImDa	G3 V	0	(F00-4)	[0000]	BE	9	-60
+Lish	E	0217	Opnoz	X421000-8	 	     Pz  Di He Na Pi Po (NIL)		003	ImDa	K3 V M6 V	-3	(C00-2)	[0000]	BD	9	-24
+Lish	E	0218	Pholan	X8B7000-B	 	     Di Fl 		021	ImDa	M2 III	-1	(600+1)	[0000]	B	9	6
+Lish	I	0221	Parshi	X000000-E	 	      As Va Di Na Pi 		003	ImDa	K3 V	-1	(C00+2)	[0000]	BD	9	24
+Lish	I	0222	Liiar	E677623-8	 	     Ag Ni 	B	211	ImDa	M0 V	-2	(A50-4)	[5458]	BC	9	-200
+Lish	I	0223	Urdiki	X599874-7	 	    Pz  Ph Pi (NIL)		610	ImDa	M2 V	-2	(A70+1)	[8692]	BDe	9	70
+Lish	I	0227	Shuna	X585566-2	 	     Ag Pr Ni (NIL)	B	312	ImDa	G5 V M4 V	-2	(C40-2)	[1362]	BcC	9	-96
+Lish	I	0228	Ungik	X865000-6	 	     Di Ga 		013	ImDa	M3 V	-3	(300+4)	[0000]	B	12	12
+Lish	M	0232	Kulas Pha	E646232-6	 	     Lo 		713	ImDa	G1 V	-3	(510+1)	[2116]	B	11	5
+Lish	M	0234	Irkila	X58356B-5	 	     Ni Pr 	B	414	ImDa	K4 V	-3	(740+1)	[5248]	Bc	10	28
+Lish	M	0235	Gidin	X310000-C	 	     Di Na 		010	ImDa	M2 V	-1	(900+1)	[0000]	B	14	9
+Lish	M	0236	Sered Pha	X524000-E	 	   O:0235  Di Px 		013	ImDa	M3 V M8 V	-1	(900-1)	[0000]	B	7	-9
+Lish	M	0237	Sulai	X422000-A	 	      Pz  Di He Na In Po (NIL)		020	ImDa	M0 V	0	(D00-1)	[0000]	BE	13	-13
+Lish	M	0239	Iidimar	X6B5000-8	 	    Pz  Di Fl (ENIL)		004	ImDa	F2 V	-3	(E00+1)	[0000]	B	7	14
+Lish	A	0301	Ambon	X550577-7	 	    Pz  De Ni Po (NIL)		302	ImDa	G4 V M1 V	-3	(B43-3)	[5217]	B	14	-396
+Lish	A	0303	Irgukh	X431000-A	 	     rg7  Di Na Po (NIL)		014	ImDa	M0 V M1 V	-1	(H00-1)	[0000]	B	8	-17
+Lish	A	0309	Kilikiir	X411000-D	 	     Di Ic Na Pi 		020	ImDa	M2 V	-1	(B00-1)	[0000]	BD	6	-11
+Lish	E	0311	Popok	X87A200-3	 	    Pz  Lo Wa (NIL)	B	114	ImDa	G4 V	-3	(910+3)	[3172]	B	8	27
+Lish	E	0312	Hrun	X516000-B	 	     Di Ic In 		013	ImDa	K3 V	0	(F00-1)	[0000]	BE	7	-15
+Lish	E	0315	Sima	E758879-4	 	    Pa Ph (NIL)	B	100	ImDa	G3 V	-2	(978-1)	[5681]	Bce	6	-504
+Lish	E	0316	Pryden	X75A432-1	 	      Ni Wa (NIL)	B	302	ImDa	F3 V	-3	(B30+1)	[6191]	B	6	33
+Lish	E	0317	Odrairo	X558676-6	 	     Ag Ni 		604	ImDa	K0 V M6 V M1 V	-2	(854+1)	[744A]	BC	7	160
+Lish	E	0318	Lakakmu	D550120-5	 	     De Lo Po (NIL)		612	ImDa	G9 V M3 V	-3	(A00-2)	[6153]	B	6	-20
+Lish	I	0321	Shela	X424000-C	 	    Pz  Di Pi (NIL)		002	ImDa	G2 V M3 V	-1	(C00+4)	[0000]	BD	6	48
+Lish	M	0331	Shuun	X9B5000-E	 	     Pz  Di Fl In (ENIL)		032	ImDa	F1 V	0	(G00+2)	[0000]	BE	8	32
+Lish	M	0332	Panak Pha	X000000-D	 	      As Va Di 		000	ImDa	M0 V M2 V M8 V	-1	(600-1)	[0000]	B	6	-6
+Lish	M	0334	Galake	E795685-8	 	     Ag Ni 		814	ImDa	G1 V	-2	(D51+4)	[6479]	BC	13	260
+Lish	M	0335	Ragapa	X403000-8	 	      Di Ic Va 		003	ImDa	M0 V	-3	(900-2)	[0000]	B	15	-18
+Lish	M	0336	Kakilar	X310000-B	 	     Di 		013	ImDa	M3 V	-1	(700+1)	[0000]	B	7	7
+Lish	M	0337	Canback	X556120-3	 	     Lo 	B	620	ImDa	G3 V M6 V	-3	(500+1)	[1152]	B	13	5
+Lish	M	0338	Maelgard	X947449-0	 	     Ni Pa 	B	502	ImDa	G0 V M7 V	-3	(730+3)	[2182]	Bc	9	63
+Lish	A	0401	Zheos Theong	X52A000-A	 	     Di 		003	ImDa	M1 V M3 V	-1	(700+1)	[0000]	B	11	7
+Lish	A	0406	Sproan	X412000-C	 	      Di Ic Na In 		001	ImDa	K8 V M1 V	0	(C00+2)	[0000]	BE	14	24
+Lish	A	0407	Saden	D585553-8	 	      Ag Pr Ni 	B	200	ImDa	K8 V M1 V	-2	(742-2)	[3318]	BcC	10	-112
+Lish	A	0408	Breeden	X310000-9	 	     Di 		014	ImDa	M0 V M3 V	-2	(C00+1)	[0000]	B	12	12
+Lish	E	0411	Pradman	C675878-7	 	     Pz  Pa Pi Ph (NIL)		300	ImDa	M2 V M5 V M7 V	-1	(A75+4)	[D785]	BcDe	10	1400
+Lish	E	0412	Olny	X56986D-2	 	    O:0312  Ph Ri (NIL)	B	914	ImDa	G4 V M6 V	-1	(B73+1)	[8785]	BCe	10	231
+Lish	E	0414	Silverring	X000000-F	 	      As Va Di Na Pi 		010	ImDa	F1 V	-1	(A00+2)	[0000]	BD	10	20
+Lish	E	0417	Kigkar	X543100-2	 	     Lo Po 		803	ImDa	K0 V	-3	(500+1)	[1136]	B	10	5
+Lish	E	0420	Nara Pha	X6457BC-5	 	      Ag 	B	104	ImDa	M0 V M9 V	-1	(865-4)	[9627]	BC	10	-960
+Lish	I	0427	Irmen	X623000-E	 	     Di Po 		000	ImDa	G7 V	-1	(700+1)	[0000]	B	10	7
+Lish	I	0429	Amsa	X420000-B	 	      De He Di Po 		010	ImDa	M2 V	-1	(600+1)	[0000]	B	8	6
+Lish	M	0431	Kaakumu	X311000-E	 	     Di Ic 		005	ImDa	A6 III	-1	(B00+2)	[0000]	B	12	22
+Lish	M	0434	Anga	X512000-D	 	    O:0331  Di Ic Na 		003	ImDa	K4 V M3 V	-1	(B00-5)	[0000]	B	9	-55
+Lish	M	0437	Inader	X5657A6-4	 	      Ag Ri (NIL)	B	702	ImDa	K7 V	0	(968+5)	[3747]	BC	11	2160
+Lish	A	0501	Barapalok	X310000-8	 	     Di Na Pi 		004	ImDa	M2 V M6 V	-3	(D00+1)	[0000]	BD	13	13
+Lish	A	0504	Satin	X7669BC-7	 	     Ga Hi Pr (NIL)	B	204	ImDa	K8 V	-1	(B89+4)	[6814]	BcE	11	3168
+Lish	A	0505	Aamigim	X560446-5	 	     De Ni 	B	520	ImDa	M2 V	-3	(630-3)	[2187]	B	15	-54
+Lish	E	0513	Gishinridu	X536000-A	 	    Da  Di 		000	ImDa	M1 V	-1	(500+2)	[0000]	B	13	10
+Lish	E	0516	Rakrarro	X88A674-5	 	    rg6  Ni Ri Wa 	B	704	ImDa	K5 V M6 V	-2	(852+3)	[4425]	BC	13	240
+Lish	E	0517	Haraffii	X000000-D	 	      Pz  As Va Di Na In 		013	ImDa	G7 V	0	(F00-1)	[0000]	BE	8	-15
+Lish	E	0519	Nora Pha	X666123-7	 	     Ga Lo 		201	ImDa	K0 V M7 V	-3	(400+1)	[1137]	B	12	4
+Lish	I	0526	Mudliru	XAE5000-C	 	     Di 		000	ImDa	M2 V M8 V	-1	(500+3)	[0000]	B	13	15
+Lish	I	0527	Kipaar	X000000-E	 	      As Va Di 		003	ImDa	M1 V	-1	(A00+5)	[0000]	B	14	50
+Lish	I	0529	Surli	X000000-7	 	       As Va Di Na Pi 		013	ImDa	G4 V M7 V	-3	(A00-1)	[0000]	BD	10	-10
+Lish	I	0530	Biaz Ven	X545000-C	 	     Di In (NIL)		022	ImDa	K2 V M9 V	0	(G00-3)	[0000]	BE	10	-48
+Lish	M	0532	Liisarkuur	X788333-5	 	     Lo 	B	500	ImDa	K6 V	-3	(520+1)	[7148]	B	13	10
+Lish	M	0533	Dene Po	D67366B-5	 	     Ni 	B	802	ImDa	M1 V	-3	(853+1)	[6344]	B	6	120
+Lish	A	0604	Sorsa Pha	X584557-3	 	      Ag Pr Ni 	B	213	ImDa	M1 V	-2	(743-1)	[4335]	BcC	9	-84
+Lish	A	0607	Vakkuum	X543669-4	 	      Pz  Ni Po (NIL)	B	503	ImDa	G1 V	-3	(B50+3)	[8372]	B	10	165
+Lish	A	0610	Irgiida	E542534-6	 	     He Ni Po 		200	ImDa	G4 V M8 V	-3	(740+2)	[8289]	B	9	56
+Lish	E	0612	Lashlaminan	X595555-2	 	    Da (Lass-lumminm)  Ag Ni 	B	300	ImDa	K3 V M6 V M1 V	-2	(742-2)	[4382]	BC	10	-112
+Lish	E	0614	Gikimurka	X420000-8	 	       O:0616  Cy Di De He Na Pi Po (NIL)		002	ImDa	F7 V M3 V M2 V	-3	(C00-1)	[0000]	BD	9	-12
+Lish	E	0616	Maneg Pha	X65577A-8	 	     Ag Ga (NIL)		405	ImDa	M1 V M4 V	-1	(E68+1)	[963B]	BC	8	672
+Lish	I	0621	Kaiid	X786122-4	 	    (Minlad)7  Ga Lo 		624	ImDa	K7 V	-3	(500-2)	[1162]	B	9	-10
+Lish	I	0622	Enmish	X613000-B	 	     Di Ic 		003	ImDa	G5 V M3 V	-1	(900+2)	[0000]	B	8	18
+Lish	I	0623	Girshi	E575536-3	 	    Da  Ag Ni 		500	ImDa	K0 V	-2	(741-3)	[4367]	BC	11	-84
+Lish	I	0625	Shaiga	X885438-3	 	     Ga Ni Pa 	B	410	ImDa	G9 V	-3	(630+1)	[9152]	Bc	8	18
+Lish	I	0626	Iksha	X300000-E	 	     Di Na Pi Va 		000	ImDa	K4 V	-1	(900-3)	[0000]	BD	12	-27
+Lish	I	0628	Dudmaak	E560457-4	 	     De Ni 		503	ImDa	G3 V M8 V	-3	(630-4)	[2143]	B	15	-72
+Lish	M	0632	Nakhelishiir	C647722-5	 	      Ag Pi (NIL)	B	203	ImDa	M0 V	0	(964-2)	[5765]	BCD	6	-432
+Lish	M	0634	Kose	D554376-4	 	     Lo 		404	ImDa	K8 V	-3	(520+2)	[6113]	B	7	20
+Lish	M	0637	Bimada	X200000-A	 	     Di Na Va 		023	ImDa	G2 IV M8 V	-1	(D00-1)	[0000]	B	12	-13
+Lish	M	0638	Pemonamsha	X436000-8	 	     Di 		022	ImDa	M1 V	-3	(A00+1)	[0000]	B	10	10
+Lish	M	0639	Irkha	X541000-7	 	      Di He Po (NIL)		000	ImDa	K4 V M9 V	-3	(A00+1)	[0000]	B	8	10
+Lish	A	0702	Shiime	X000000-7	 	      As Va Di 		015	CsIm	M1 V	-3	(500+1)	[0000]	B	16	5
+Lish	A	0705	Norijo	E542635-7	 	     He Ni Po 		500	ImDa	K6 V M5 V	-3	(850-1)	[636B]	B	10	-40
+Lish	A	0707	Naloz	D542453-9	 	    Da  He Ni Po 		400	ImDa	G1 V M0 V	-2	(630-2)	[8289]	B	12	-36
+Lish	E	0711	Dekilari	X896210-7	 	     Lo 		610	ImDa	M2 V	-3	(410+1)	[218A]	B	9	4
+Lish	E	0712	Larkarda	C676777-6	 	     O:0810  Ag Pi (NIL)	B	522	ImDa	K4 V M2 V	0	(96B-1)	[6718]	BCD	15	-594
+Lish	E	0713	Khamsir	X551567-2	 	     Ni Po 	B	204	ImDa	K5 V M1 V	-3	(740+1)	[6297]	B	11	28
+Lish	E	0714	Apmudurduna	X427000-9	 	     Di 		004	ImDa	M2 V	-2	(C00+2)	[0000]	B	8	24
+Lish	E	0719	Osaed	D5586B8-7	 	     Ag Ni 		902	ImDa	K1 V M0 V M0 V	-2	(854+4)	[7473]	BC	8	640
+Lish	I	0722	Tonnes	E897210-7	 	     Pz  Lo (NIL)	B	900	ImDa	G6 V M9 V	-3	(C10+1)	[1164]	B	11	12
+Lish	I	0723	Ixteline	X524000-B	 	     Di In (NIL)		010	ImDa	G9 V M5 V	0	(D00-3)	[0000]	BE	5	-39
+Lish	I	0725	Adli	X657175-5	 	     Ga Lo 		802	ImDa	K6 V	-3	(500+3)	[1111]	B	10	15
+Lish	I	0726	Agada	X402000-B	 	      Di Ic Va 		000	ImDa	K2 III	-1	(600+1)	[0000]	B	5	6
+Lish	I	0728	Shuka Gipdim	X570432-4	 	      De He Ni 		503	ImDa	F3 V	-3	(731+1)	[6145]	B	9	21
+Lish	I	0729	Unkurshu	X561642-6	 	     Ni Ri 	B	921	ImDa	K8 V M5 V	-2	(850-4)	[4427]	BC	12	-160
+Lish	I	0730	Iskar	X551656-3	 	     Ni Po 	B	322	ImDa	M1 V M4 V	-3	(850+1)	[6361]	B	9	40
+Lish	M	0731	Mabod Pha	X100000-C	 	     Di Va 		025	ImDa	G1 III	-1	(C00+2)	[0000]	B	13	24
+Lish	M	0732	Imaakaan	E594424-5	 	     Ni Pa 		310	ImDa	G2 V M9 V	-3	(630+3)	[6175]	Bc	13	54
+Lish	M	0740	Luugu	D683300-6	 	     Lo 		503	ImDa	G7 V	-3	(420+1)	[3154]	B	12	8
+Lish	A	0802	Amumisshar	E584201-7	 	     Lo 		700	NaHu	M0 V M9 V	-3	(510+4)	[515A]	B	7	20
+Lish	A	0805	Sharasham	X5417A9-9	 	      He Pi Po (NIL)		303	ImDa	M0 V	-1	(C6B-1)	[965A]	BD	7	-792
+Lish	A	0806	Pei Ok	X560200-3	 	     De Lo 		813	ImDa	K9 V	-3	(510+1)	[7151]	B	7	5
+Lish	A	0808	Gegirur	X200000-A	 	     Di Na Pi Va 		024	ImDa	M0 V M1 V	-1	(F00+1)	[0000]	BD	14	15
+Lish	A	0810	Phago	X420000-C	 	        De He Di Na Pi Po (NIL)		012	ImDa	K2 V M2 V	-1	(D00-2)	[0000]	BD	8	-26
+Lish	E	0815	Arlir Im	E554573-6	 	     Ag Ni 		200	ImDa	G4 V	-2	(741-1)	[4349]	BC	13	-28
+Lish	E	0816	Dimadkha	X100000-B	 	     Di Na Pi Va 		004	ImDa	M2 V M4 V	-1	(D00-2)	[0000]	BD	13	-26
+Lish	E	0819	Eisar	X978773-7	 	      Ag Pi (NIL)	B	503	ImDa	G8 V M9 V	-1	(962-3)	[C614]	BCD	6	-324
+Lish	I	0826	Mashnamii	XA9A434-1	 	     Ni Oc 	B	420	ImDa	K7 V	-3	(630+1)	[7161]	B	11	18
+Lish	I	0827	Asduad	D768221-6	 	     Lo 		823	ImDa	M2 V	-3	(410-3)	[1122]	B	8	-12
+Lish	I	0829	Khikaba	X524000-9	 	    O:0530  Di Pi (NIL)		000	ImDa	K5 V M6 V	-2	(A00-2)	[0000]	BD	13	-20
+Lish	I	0830	Aspiar	X547120-0	 	     Lo 	B	514	ImDa	G0 V M0 V	-3	(500-1)	[1151]	B	12	-5
+Lish	M	0832	Iskirkish	X100000-C	 	     Di Va 		004	ImDa	M1 III	-1	(B00-3)	[0000]	B	9	-33
+Lish	M	0834	Suumikush	E563331-4	 	     Lo 		203	ImDa	G2 V	-3	(420-1)	[6131]	B	12	-8
+Lish	M	0836	Iimuu	X87A100-7	 	     Lo Wa 		313	ImDa	G1 V	-3	(500+2)	[5176]	B	13	10
+Lish	M	0837	Gapiga	X8D5000-7	 	     Di 		024	ImDa	K9 V	-3	(600+1)	[0000]	B	10	6
+Lish	M	0840	Loshad	E544759-8	 	     Pz  Ag Pi (NIL)		500	ImDa	K0 V	-1	(963+2)	[6636]	BCD	6	324
+Lish	B	0904	Kfegou	E698756-6	 	     Pz  Ag Pi (NIL)	B	724	NaVa	M1 V	-1	(968+1)	[B658]	BCD	13	432
+Lish	B	0906	Amnuum	C55476B-5	 	     Ag (NIL)		203	ImDa	F3 V	0	(966+3)	[C721]	BC	12	972
+Lish	B	0907	Gadiimkimi	X78A673-7	 	     Ni Ri Wa 		600	ImDa	K1 V	-2	(853-5)	[145B]	BC	13	-600
+Lish	F	0911	Shiremka	X423000-9	 	     Di Po 		003	ImDa	G7 V	-2	(A00+2)	[0000]	B	16	20
+Lish	F	0914	Kaman	X515000-C	 	     Di Ic 		023	ImDa	M0 V	-1	(900+2)	[0000]	B	8	18
+Lish	F	0915	Urlishila	E560899-7	 	    O:1114  De Ph Ri (NIL)		204	ImDa	F4 V	-1	(A79+1)	[6729]	BCe	10	630
+Lish	J	0921	Amdas	X965555-4	 	      Ag Pr Ni 	B	300	ImDa	G7 V M4 V	-2	(740+1)	[9394]	BcC	9	28
+Lish	J	0922	Ekhi	X595868-1	 	     Pz  Pa Pi Ph (NIL)	B	103	ImDa	K0 V	-2	(A71-5)	[6622]	BcDe	9	-350
+Lish	J	0923	Iishgid	X584300-2	 	     Lo 		813	ImDa	K7 V	-3	(420-4)	[4171]	B	13	-32
+Lish	J	0927	Shuama	X97A158-0	 	     Lo Wa 	B	904	ImDa	G3 V	-3	(300-1)	[1143]	B	10	-3
+Lish	J	0928	Phapara	D6878CB-7	 	     Pz  Ga Pa Ri Ph (NIL)	B	810	ImDa	M0 V M9 V	-1	(A78+4)	[9744]	BcCe	14	2240
+Lish	J	0929	Aeradposa	D8978B9-4	 	      Pa Pi Ph (NIL)	B	802	ImDa	M1 V	-2	(A7A+1)	[8665]	BcDe	10	700
+Lish	J	0930	Iishkudig	X845420-2	 	     Ni Pa 	B	604	ImDa	K6 V M8 V	-3	(730-1)	[5162]	Bc	10	-21
+Lish	N	0931	Argur	X89A96E-3	 	    O:0934  Hi In Wa (NIL)	B	200	ImDa	K3 V	0	(A88+3)	[6935]	BE	13	1920
+Lish	N	0934	Paran	X898769-3	 	       Ag Pi (NIL)	B	602	ImDa	K4 V M2 V	-1	(C61-3)	[6616]	BCD	5	-216
+Lish	N	0935	Chanad	X86076A-7	 	    (Irhadre)  De Ri (NIL)		662	ImDa	G3 V	-1	(867+1)	[966A]	BC	12	336
+Lish	N	0936	Phytaln	X868967-5	 	    Pz  Hi Pr (NIL)	B	102	ImDa	G1 V M8 V	-1	(B86+2)	[5864]	BcE	10	1056
+Lish	N	0937	Khigrish	E692235-4	 	     He Lo 	B	424	ImDa	F3 V M2 V	-3	(510+5)	[1171]	B	11	25
+Lish	N	0940	Mimiku	E5506A5-7	 	     De Ni Po 		404	ImDa	F8 V M5 V	-3	(850+1)	[2386]	B	8	40
+Lish	B	1002	Mrmmun	X424000-C	 	    Di Px 		003	NaHu	G0 V	-1	(A00-3)	[0000]	B	12	-30
+Lish	B	1005	Makun	X555224-4	 	     Lo 		322	ImDa	K8 V M1 V	-3	(510-4)	[6164]	B	9	-20
+Lish	B	1006	Ushra	X524000-A	 	     Di 		000	ImDa	K0 V	-1	(700+1)	[0000]	B	11	7
+Lish	B	1009	Linuusgam	E768220-6	 	     Lo 		212	ImDa	K7 V M2 V	-3	(510+1)	[5157]	B	9	5
+Lish	B	1010	Shesapho	E541100-6	 	     He Lo Po 		311	ImDa	G0 V	-3	(600+1)	[2157]	B	9	6
+Lish	F	1014	Genkiis	X8B8000-A	 	     Di Fl 		003	ImDa	M0 V	-1	(A00+4)	[0000]	B	13	40
+Lish	F	1016	Rossing	X643234-4	 	    O:1114  Lo Po 		502	ImDa	K5 V	-3	(510+1)	[1166]	B	10	5
+Lish	F	1018	Uppe	X685101-2	 	     Ga Lo 		400	ImDa	M2 V	-3	(400-5)	[1121]	B	11	-20
+Lish	F	1019	Andally	X884858-6	 	     O:1220  Pa Ri Ph (NIL)	B	212	ImDa	M1 V	-1	(A77+1)	[873A]	BcCe	10	490
+Lish	J	1026	Nishdu	X643130-0	 	     Lo Po 	B	710	ImDa	G7 V	-3	(500+4)	[1183]	B	10	20
+Lish	J	1027	Isshun	X628000-8	 	    O:0626  Di 		004	ImDa	M2 V	-3	(B00-5)	[0000]	B	11	-55
+Lish	J	1028	Khiimshi	X8C8000-A	 	     Di Fl 		002	ImDa	M3 V	-1	(700-4)	[0000]	B	12	-28
+Lish	N	1031	Bikuushamas	X9597AA-4	 	      	B	104	ImDa	M1 V	-2	(862-1)	[6578]	B	9	-96
+Lish	N	1032	Idlika	X79A320-1	 	     Lo Wa 		805	ImDa	M2 V M8 V	-3	(620+1)	[6182]	B	15	12
+Lish	N	1033	Lia	X573669-2	 	      Ni (NIL)	B	812	ImDa	K3 V	-3	(B52-4)	[7321]	B	6	-440
+Lish	N	1034	Shadpho	X432000-8	 	     Di Px Po 		002	ImDa	M3 V M4 V	-3	(900+3)	[0000]	B	12	27
+Lish	N	1037	Aknam	D748687-8	 	    Da  Ag Ni 		904	ImDa	G7 V M5 V	-2	(C51-1)	[5456]	BC	14	-60
+Lish	N	1038	Khiiza	X667333-3	 	     Ga Lo 		903	ImDa	K1 V M9 V	-3	(520+2)	[8182]	B	11	20
+Lish	N	1039	Kadigukin	X591676-6	 	     He Ni 	B	403	ImDa	G0 V M7 V	-3	(850-4)	[8377]	B	10	-160
+Lish	B	1101	Shimidan	X564200-4	 	     Lo 		323	NaVa	F9 V	-3	(410-1)	[3176]	B	12	-4
+Lish	B	1106	Shikima	E540438-6	 	     An O:1408  De He Ni Po 		505	ImDa	G6 V	-3	(630-4)	[2158]	B	9	-72
+Lish	B	1108	Ersha	X423000-C	 	     Di Po 		003	ImDa	M1 V	-1	(A00-1)	[0000]	B	10	-10
+Lish	B	1110	Irdukhag	X582554-4	 	     Ni Pr 		314	ImDa	G0 V	-3	(741-1)	[4276]	Bc	8	-28
+Lish	F	1114	Masionia	X430000-C	 	      De Di Na Po (NIL)		003	ImDa	K7 V	-1	(E00+1)	[0000]	B	13	14
+Lish	F	1117	Rodhen	X543000-6	 	      Di Po (NIL)		004	ImDa	K8 V M6 V	-3	(C00+1)	[0000]	B	11	12
+Lish	F	1120	Lunmunya	X410000-D	 	    Da  Di 		000	ImDa	M5 III	-1	(600-1)	[0000]	B	13	-6
+Lish	J	1121	Kirzaddama	E744475-4	 	     Ni Pa 	B	213	ImDa	M0 V	-3	(632+1)	[3116]	Bc	15	36
+Lish	J	1125	Khamash	X524000-7	 	     Di 		020	ImDa	M2 V	-3	(600-1)	[0000]	B	13	-6
+Lish	N	1131	Laesho	X310000-8	 	      Di Na Pi 		013	ImDa	M2 V	-3	(E00-5)	[0000]	BD	11	-70
+Lish	N	1134	Ushipaale	X422000-C	 	    O:1033  Di He Po 		020	ImDa	M1 V	-1	(600+1)	[0000]	B	10	6
+Lish	N	1136	Khusila	X95A454-4	 	    Da  Ni Wa 	B	204	ImDa	M1 V	-3	(633-3)	[6131]	B	11	-162
+Lish	N	1138	Gamulag	C585175-8	 	     Lo 		923	ImDa	G0 V	-2	(A00+2)	[1198]	B	11	20
+Lish	B	1202	Umnur	X8B4000-B	 	    Pz  Di Fl (ENIL)		014	NaHu	F0 V	-1	(F00+5)	[0000]	B	18	75
+Lish	B	1205	Zurr	X84A100-5	 	    (Lasat)  Lo Wa 		903	ImDa	G2 V	-3	(400+1)	[2196]	B	6	4
+Lish	B	1207	Phodonba	X427000-7	 	    Pz  Di Pi (NIL)		001	ImDa	K3 V M9 V	-3	(A00+3)	[0000]	BD	12	30
+Lish	B	1209	Anokpad	X866675-4	 	      Ag Ri Ga Ni 	B	900	ImDa	K4 V M1 V	-1	(850-5)	[6553]	BC	9	-200
+Lish	F	1211	Arrat	E896204-6	 	     Lo 	B	402	ImDa	F3 V	-3	(510+1)	[2155]	B	12	5
+Lish	F	1212	Rho Thor	X555552-6	 	    O:1114  Ag Ni 	B	500	ImDa	M2 V M7 V	-2	(740+1)	[A388]	BC	11	28
+Lish	F	1213	Hollis	X788598-5	 	      Ag Pr Ni 	B	410	ImDa	G1 V	-2	(741+2)	[A3A2]	BcC	11	56
+Lish	F	1215	Wor	XA89657-4	 	     Ni Ri 	B	400	ImDa	M1 V M2 V	-2	(852+1)	[3455]	BC	3	80
+Lish	F	1216	Sihrhyto	E876276-5	 	     Lo 	B	305	ImDa	K9 V M0 V	-3	(510+1)	[4124]	B	10	5
+Lish	F	1218	Gegua	X430000-A	 	     De Di Po 		003	ImDa	K2 V	-1	(A00+1)	[0000]	B	9	10
+Lish	F	1219	Depot	X788400-0	 	    Da   Ni Pa 	B	210	ImDa	F7 V M0 V	-3	(630+1)	[71A1]	Bc	9	18
+Lish	F	1220	Uo	X000000-F	 	       As Va Di Na In 		014	ImDa	K9 V	0	(H00-2)	[0000]	BE	13	-34
+Lish	J	1221	Ermurkag	X000000-B	 	     O:1222  As Va Cy Di Na 		013	ImDa	G4 V	-1	(C00-1)	[0000]	B	11	-12
+Lish	J	1222	Arkash	X6436A9-7	 	     Ni Po 	B	823	ImDa	K1 V M1 V	-3	(851+3)	[6347]	B	8	120
+Lish	J	1228	Gaaka	X542379-2	 	     He Lo Po 	B	523	ImDa	G4 V	-3	(420+5)	[3121]	B	14	40
+Lish	N	1231	Gudan	X420000-D	 	      De He Di Po 		003	ImDa	K3 V M2 V	-1	(600+4)	[0000]	B	10	24
+Lish	N	1232	Siidugam	C65466F-4	 	     Ag Ni 	B	800	ImDa	M3 V	-1	(854-2)	[3536]	BC	12	-320
+Lish	N	1233	Ushmuur	X100000-A	 	    O:1033  Di Na Pi Va 		000	ImDa	K4 IV M0 V	-1	(900-3)	[0000]	BD	7	-27
+Lish	N	1236	Irgan	E78866E-4	 	      Ag Ri Ni 	B	603	ImDa	M2 V M5 V	-1	(852-4)	[5588]	BC	10	-320
+Lish	N	1238	Valahii	X431000-C	 	     Pz  Di Na Po (NIL)		000	ImDa	K6 V M5 V	-1	(B00-1)	[0000]	B	7	-11
+Lish	B	1301	Laesa	X423000-8	 	       Di Na Pi Po (NIL)		004	CsIm	G4 V	-3	(E00-2)	[0000]	BD	13	-28
+Lish	B	1304	Khoeztoeng	X8C9000-9	 	    Di Fl (ENIL)		010	NaVa	K4 V	-2	(A00+1)	[0000]	B	10	10
+Lish	B	1305	Untida	X555556-5	 	     Ag Ni 		520	ImDa	G4 V M9 V	-2	(742+3)	[6359]	BC	13	168
+Lish	B	1307	Radshasar	B55648A-5	 	     Ni Pa 		520	ImDa	G3 V	-1	(632+1)	[3326]	Bc	5	36
+Lish	B	1308	Jebiina	D743225-9	 	     Lo Po 		610	ImDa	G2 V M5 V	-2	(710-1)	[11AC]	B	11	-7
+Lish	F	1311	Kuu	X420000-F	 	      De He Di Po 		001	ImDa	K4 V	-1	(800-2)	[0000]	B	13	-16
+Lish	F	1312	Unkhi	X693148-5	 	    O:1511  Lo 		813	ImDa	M1 V	-3	(500+1)	[1134]	B	11	5
+Lish	F	1313	Dula	X621000-D	 	      O:1114  Cy Di He Na Pi Po (NIL)		004	ImDa	M1 V	-1	(E00+4)	[0000]	BD	7	56
+Lish	F	1315	Urenlidle	X545125-0	 	     Lo 	B	813	ImDa	G9 V M3 V	-3	(300+1)	[1152]	B	13	3
+Lish	F	1316	Lorman	X7C5000-9	 	    Di Fl (ENIL)		003	ImDa	M4 III	-2	(C00-3)	[0000]	B	11	-36
+Lish	F	1317	Khushii Khiibiba	X554120-5	 	     Lo 		700	ImDa	G9 V M7 V	-3	(500-2)	[3163]	B	10	-10
+Lish	J	1322	Serki Skie	X989127-3	 	     Lo 		925	ImDa	G7 V	-3	(400+1)	[2164]	B	10	4
+Lish	J	1323	Iklish	X658103-2	 	     Lo 	B	823	ImDa	K1 V M5 V	-3	(500+3)	[11A1]	B	11	15
+Lish	J	1326	Dadugi	X421000-E	 	     Di He Po 		010	ImDa	G0 V M1 V	-1	(600+2)	[0000]	B	13	12
+Lish	J	1328	Thunder	E67869A-8	 	     Ag Ni 		410	ImDa	K2 V	-2	(952+1)	[347B]	BC	11	90
+Lish	J	1329	Maa Shere	X200000-B	 	     Di Va 		023	ImDa	M0 V M2 V	-1	(C00-1)	[0000]	B	12	-12
+Lish	J	1330	Lukesha	X547148-0	 	     Lo 	B	304	ImDa	K4 V	-3	(300+1)	[1171]	B	8	3
+Lish	N	1332	Welling	X420000-C	 	        De He Di Na In Po (NIL)		000	ImDa	M1 V M3 V	0	(B00-2)	[0000]	BE	11	-22
+Lish	N	1333	Iigduur	D574578-6	 	     Ag Ni 	B	221	ImDa	F6 V	-2	(744+1)	[7347]	BC	14	112
+Lish	N	1338	Zima	X430000-A	 	     De Di Po 		013	ImDa	G0 V	-1	(900+1)	[0000]	B	12	9
+Lish	N	1340	Ramamkhas	X200000-C	 	      Di Na Pi Va 		004	ImDa	G7 V M3 V	-1	(E00+1)	[0000]	BD	10	14
+Lish	B	1406	Gerrgh Vor	E552643-6	 	    rg6  Ni Po 		415	ImDa	K9 V M5 V	-3	(850+2)	[3323]	B	13	80
+Lish	B	1407	Farstar	D798688-6	 	     Ag Ni 		814	ImDa	M2 V M5 V	-2	(850+4)	[6423]	BC	10	160
+Lish	B	1408	Adawi	X794422-3	 	     Pz  Ni Pa (NIL)	B	513	ImDa	G2 V M2 V	-3	(C30-1)	[2162]	Bc	7	-36
+Lish	B	1410	Lada	X312000-B	 	     Di Ic 		003	ImDa	K1 V M2 V	-1	(800+1)	[0000]	B	6	8
+Lish	F	1415	Nanze	X310000-9	 	     Di Na 		002	ImDa	F1 V M3 V	-2	(A00-5)	[0000]	B	13	-50
+Lish	F	1419	Hetor	X300000-9	 	    O:1220  Di Va 		010	ImDa	K2 V	-2	(600+1)	[0000]	B	11	6
+Lish	J	1424	Soshoz	X310000-9	 	     Di 		000	ImDa	M3 V M4 V	-2	(500-1)	[0000]	B	11	-5
+Lish	J	1430	Adophak	X576442-5	 	     Ni Pa 		302	ImDa	M0 V M1 V	-3	(632-4)	[3165]	Bc	12	-144
+Lish	N	1433	Chayn	X637000-A	 	     Di 		005	ImDa	M3 V	-1	(D00-2)	[0000]	B	15	-26
+Lish	N	1435	Lanarki	E585733-7	 	      Ag Ri (NIL)		710	ImDa	M3 V	0	(968-2)	[A779]	BC	14	-864
+Lish	N	1439	Crater	X200000-8	 	     Di Na Pi Va 		010	ImDa	M2 V	-3	(A00+2)	[0000]	BD	8	20
+Lish	N	1440	Galadorn	X201000-7	 	      Di Ic Va 		003	ImDa	M1 V	-3	(600-2)	[0000]	B	15	-12
+Lish	B	1501	Temple	E561597-3	 	     Ni Pr 	B	410	NaHu	K8 V M6 V	-3	(741+1)	[6232]	Bc	8	28
+Lish	B	1502	Raptix	X200000-7	 	    Pz  Di Na Pi Va 		000	NaHu	M2 V	-3	(900-1)	[0000]	BD	7	-9
+Lish	B	1503	Gvroudz	X100000-7	 	     Di Va 		013	NaVa	K5 IV M1 V	-3	(700+1)	[0000]	B	7	7
+Lish	B	1504	Rraeghuz	E66657A-2	 	      Ag Pr Ga Ni 	B	303	NaVa	K4 V	-2	(743-1)	[8381]	BcC	12	-84
+Lish	B	1509	Guugshiiku	D544969-5	 	      Hi Pi (NIL)	B	104	ImDa	G2 V M6 V	-1	(A87-2)	[6826]	BDE	10	-1120
+Lish	B	1510	Amshaaku	D755301-7	S	     Ga Lo 		800	ImDa	M3 V M4 V	-3	(420+3)	[1178]	B	13	24
+Lish	F	1511	Lishun	X585852-5	 	     Pz  Pa Ri Ph (NIL)		902	ImDa	K0 V	-1	(A7B-4)	[A752]	BcCe	11	-3080
+Lish	F	1513	Khumbaar	X797401-5	 	     Ni Pa 		402	ImDa	M1 V	-3	(630-2)	[5115]	Bc	10	-36
+Lish	F	1514	Mula Par	X550136-4	 	     De Lo Po 		120	ImDa	K9 V	-3	(400+1)	[4138]	B	11	4
+Lish	F	1515	Lokita	X528000-B	 	     Di In (NIL)		001	ImDa	M1 V	0	(D00-1)	[0000]	BE	14	-13
+Lish	F	1516	Leider	X689834-6	 	     Ph Ri (NIL)	B	812	ImDa	M1 V	-1	(A77+4)	[6758]	BCe	12	1960
+Lish	F	1518	Ravinanor	X9C6000-C	 	     Pz  Di Fl In (ENIL)		003	ImDa	M0 V	0	(E00+1)	[0000]	BE	13	14
+Lish	F	1520	Desolation	X9A4000-8	 	    Di Fl Px 		000	ImDa	M2 V M3 V	-3	(500+1)	[0000]	B	6	5
+Lish	J	1521	Lidarun Five	E546676-6	 	    O:1518  Ag Ni 	B	503	ImDa	M2 V M7 V M5 V	-2	(852+1)	[6465]	BC	12	80
+Lish	J	1522	Kapga	X6B4000-8	 	     Di Fl 		003	ImDa	M1 V	-3	(700+1)	[0000]	B	6	7
+Lish	J	1524	Shiigagi	X310000-A	 	     O:1627  Di Na Pi 		010	ImDa	F4 V	-1	(B00+3)	[0000]	BD	14	33
+Lish	J	1525	Iir Dusher Rar	X776675-5	 	     Ag Ni 		504	ImDa	K0 V M1 V	-2	(851-4)	[7442]	BC	14	-160
+Lish	J	1526	Shim	X592510-2	 	     He Ni 	B	500	ImDa	G3 V M5 V	-3	(740+1)	[6243]	B	13	28
+Lish	J	1528	Ranor Pha	X655787-5	 	      Ag Ga 		112	ImDa	K6 V	-1	(867-1)	[A677]	BC	11	-336
+Lish	J	1529	Gaedasha	X9B6000-B	 	     Di Fl 		001	ImDa	K2 V M5 V	-1	(800-2)	[0000]	B	9	-16
+Lish	J	1530	Zeta Spick	E545422-7	 	     Ni Pa 		233	ImDa	M1 V	-3	(630-1)	[8179]	Bc	9	-18
+Lish	N	1531	Maas	XAA6000-9	 	     Di Fl 		004	ImDa	F3 V M2 V	-2	(C00+4)	[0000]	B	11	48
+Lish	N	1536	Anar'Ka	X8C4000-B	 	     Di Fl 		003	ImDa	K3 V	-1	(900-2)	[0000]	B	14	-18
+Lish	N	1537	Hodiri	X431000-A	 	     Di Px Po 		001	ImDa	G5 V M1 V	-1	(600-2)	[0000]	B	13	-12
+Lish	N	1538	Tahaggur	X554767-4	 	     Ag (NIL)	B	504	ImDa	K6 V	-1	(B68+3)	[8632]	BC	15	1584
+Lish	N	1540	Samar	X678246-5	 	     Lo 		803	ImDa	G7 V M7 V	-3	(410+4)	[1164]	B	9	16
+Lish	B	1601	Arikhii	X437000-9	 	     Di 		001	NaHu	G7 V M9 V	-2	(500+3)	[0000]	B	12	15
+Lish	B	1602	Datheern	X668000-9	 	    Pz  Di (NIL)		004	NaHu	M0 V M0 V	-2	(G00+1)	[0000]	B	8	16
+Lish	B	1603	Idshu Shirdug	X557679-2	 	    rg1  Ag Ni 	B	510	NaVa	M2 V	-2	(854-5)	[7436]	BC	10	-800
+Lish	B	1605	Parkland	X788455-5	 	     Ni Pa 		520	ImDa	K4 V M1 V	-3	(630+1)	[8158]	Bc	10	18
+Lish	B	1608	Khoegzh	X574200-2	 	    rg8  Lo 		604	ImDa	M2 V	-3	(310+3)	[1173]	B	12	9
+Lish	B	1609	Giike Ruz	X560343-2	 	    rg6  De Lo 		812	ImDa	F4 V M4 V	-3	(420+1)	[4136]	B	11	8
+Lish	B	1610	Uptas	X300000-9	 	    O:1511  Di Na Pi Va 		000	ImDa	M0 V	-2	(900+1)	[0000]	BD	9	9
+Lish	F	1611	Sherli	E548477-6	 	    Da  Ni Pa 		200	ImDa	G1 V M5 V	-3	(632+1)	[1158]	Bc	13	36
+Lish	F	1614	Nuz	XAEA000-D	 	     Di Oc 		002	ImDa	M0 V	-1	(800+1)	[0000]	B	12	8
+Lish	F	1615	Apunkhi	X836000-9	 	     Di 		022	ImDa	K2 V	-2	(800+1)	[0000]	B	11	8
+Lish	F	1616	Lacite	X6B2000-D	 	      Di Fl He 		025	ImDa	M1 V M7 V	-1	(E00+1)	[0000]	B	17	14
+Lish	F	1617	Syzm	E542514-6	 	     He Ni Po 		511	ImDa	M2 V	-3	(742-1)	[5216]	B	12	-56
+Lish	J	1621	Kapez	E87A6A7-6	 	     Ni Wa 	B	704	ImDa	M1 V	-3	(853-2)	[9332]	B	11	-240
+Lish	J	1622	Sofen	X66547B-3	 	     Ga Ni Pa 	B	213	ImDa	M0 V M0 V	-3	(630+1)	[4181]	Bc	16	18
+Lish	J	1623	Teloc Raiz	X420000-C	 	      De He Di Po 		004	ImDa	K3 V	-1	(900-4)	[0000]	B	9	-36
+Lish	J	1625	Adadbo	X560200-4	 	     De Lo 		710	ImDa	M2 V	-3	(510+2)	[1112]	B	10	10
+Lish	J	1627	Taccis	X672567-2	 	      Pz  He Ni (NIL)	B	301	ImDa	G1 V	-3	(B42+1)	[3242]	B	9	88
+Lish	J	1629	Ennanod	X66727B-6	 	     Ga Lo 		600	ImDa	M0 V M1 V	-3	(510-2)	[4122]	B	6	-10
+Lish	N	1631	Daaraa	X423000-D	 	    O:1627  Di Px Po 		003	ImDa	M0 V	-1	(A00-4)	[0000]	B	11	-40
+Lish	N	1632	Maa-Egu-Ker	X99A000-5	 	    Di Pi Wa (NIL)		023	ImDa	K0 V	-3	(900+1)	[0000]	BD	8	9
+Lish	N	1635	Fighting	D75677A-7	 	     Ag Ga (NIL)	B	503	ImDa	K3 V	-1	(963-2)	[6677]	BC	12	-324
+Lish	N	1640	Pequod	B78328C-6	 	     Lo 	B	905	ImDa	M2 V	-1	(510+2)	[4154]	B	10	10
+Lish	C	1705	Futsae	XA9A976-5	 	   rg4 O:2107  Hi In Oc 	B	505	ImDa	F4 V M8 V	0	(88B-3)	[B927]	BE	8	-2112
+Lish	G	1711	Selsho	X586988-8	 	     Hi Pr (NIL)		510	ImDa	F5 V	-1	(C82-1)	[8868]	BcE	5	-192
+Lish	G	1712	Uzyang	E777111-7	 	     Lo 		615	ImDa	G1 V	-3	(400+1)	[2146]	B	11	4
+Lish	K	1722	Kensus	X895954-8	 	    Pz  Hi In (NIL)		803	ImDa	K3 V	0	(E85+3)	[694D]	BE	13	1680
+Lish	K	1723	Ii Gir Da Ken	D75A888-6	 	    Ph Wa (NIL)	B	102	ImDa	F4 V	-2	(971-2)	[4648]	Be	8	-126
+Lish	K	1724	Lishun Aster	X000000-9	 	      As Va Di Na 		014	ImDa	M2 V M5 V	-2	(D00+2)	[0000]	B	13	26
+Lish	K	1725	Solu One	E888320-7	 	     Lo 		100	ImDa	K1 V	-3	(420-4)	[217B]	B	8	-32
+Lish	K	1730	Luniku Mishu	X867449-3	 	     Ga Ni Pa 	B	413	ImDa	K7 V M3 V	-3	(630+2)	[1131]	Bc	7	36
+Lish	O	1733	Lurdidkhe	D764234-8	 	     Lo 		613	ImDa	M0 V M0 V	-3	(710+2)	[218C]	B	9	14
+Lish	O	1735	Gazii-home	X542235-1	 	     He Lo Po 	B	100	ImDa	F8 V M6 V	-3	(510-3)	[2163]	B	11	-15
+Lish	C	1801	Gaengang	X543478-6	 	    Da  Ni Po 		310	NaVa	K1 V M7 V	-3	(631+5)	[5157]	B	10	90
+Lish	C	1802	Daerron	E556414-2	 	     Ni Pa 	B	400	NaVa	K2 V M0 V	-3	(630-5)	[6176]	Bc	7	-90
+Lish	C	1803	Ghouso	D847656-9	 	     Ag Ni 		613	NaVa	M1 V M8 V	-1	(C53-2)	[351C]	BC	12	-360
+Lish	C	1804	Ushanghi	X798000-8	 	     Di In (NIL)		025	NaHu	G7 V M5 V	-2	(J00-2)	[0000]	BE	15	-36
+Lish	C	1805	Gosharapga	X433000-D	 	     Di Po 		002	ImDa	K1 V M5 V	-1	(900+5)	[0000]	B	13	45
+Lish	C	1810	Thakhogu	X500000-B	 	     rg5  Di Na Pi Va 		023	ImDa	G3 V	-1	(F00-2)	[0000]	BD	12	-30
+Lish	G	1811	Annor Raiz	X430000-8	 	     Pz  De Di Na Po (NIL)		003	ImDa	G2 V	-3	(D00+1)	[0000]	B	12	13
+Lish	G	1813	Rerogom	X9B4000-A	 	     Di Fl 		000	ImDa	M3 V M8 V	-1	(800-4)	[0000]	B	13	-32
+Lish	G	1814	Oezygurs	X543134-3	 	     Lo Po 	B	401	ImDa	K4 V	-3	(300-1)	[1113]	B	10	-3
+Lish	G	1815	Anossed	X58676B-4	 	       Ag Ri (NIL)	B	712	ImDa	K5 V M0 V	0	(962-1)	[7772]	BC	7	-108
+Lish	G	1818	Rizygyer	X426000-A	 	     Di 		003	ImDa	M1 V	-1	(800-2)	[0000]	B	7	-16
+Lish	K	1823	Capula Raiz	X540243-2	 	      De He Lo Po 	B	601	ImDa	K5 V	-3	(610+3)	[3141]	B	7	18
+Lish	K	1826	Sukamshu	E555403-6	 	    Da  Ni Pa 		500	ImDa	K4 V M1 V	-3	(632-2)	[1186]	Bc	7	-72
+Lish	K	1827	Bern	X435000-8	 	    Di Px 		021	ImDa	K9 V M4 V	-3	(800+1)	[0000]	B	6	8
+Lish	K	1829	Rishaa As	X420000-7	 	      De He Di Po 		000	ImDa	G5 V M4 V	-3	(700+2)	[0000]	B	12	14
+Lish	O	1831	Feldon	E9889BD-7	 	    Pz  Hi Pr (NIL)	B	420	ImDa	M2 V M3 V	-1	(B88-2)	[6863]	BcE	6	-1408
+Lish	O	1832	Mimkusha	D552657-8	 	     Ni Po 		715	ImDa	K7 V	-3	(E51-4)	[534B]	B	11	-280
+Lish	O	1834	Kurger	X432000-6	 	     Di Po 		010	ImDa	M2 V M3 V	-3	(600+1)	[0000]	B	12	6
+Lish	O	1835	Gaka Khashum	X55556B-2	 	     Ag Ni 		403	ImDa	M0 V M1 V	-2	(741+4)	[6315]	BC	7	112
+Lish	O	1836	Rarratod	X685597-5	 	      Ag Pr Ga Ni 	B	504	ImDa	K0 V	-2	(743+1)	[4355]	BcC	8	84
+Lish	O	1837	Bima Apgu	X400000-9	 	     Di Va 		004	ImDa	K0 IV M1 V	-2	(700+2)	[0000]	B	9	14
+Lish	C	1902	Velavik	X534000-6	 	     Di 		004	NaHu	M0 V M7 V	-3	(700+1)	[0000]	B	13	7
+Lish	C	1907	Tazaes	X9B5000-8	 	   Pz rg3  Di Fl (ENIL)		003	ImDa	M3 V	-3	(C00+1)	[0000]	B	11	12
+Lish	C	1908	Aerok	X573424-1	 	    rg4  Ni 	B	223	ImDa	G3 V M2 V	-3	(630-5)	[6124]	B	11	-90
+Lish	C	1909	Anga	E558444-7	 	    rg1  Ni Pa 		600	ImDa	M0 V	-3	(730+2)	[6127]	Bc	5	42
+Lish	C	1910	Nirran II	X400000-C	 	     Di Va 		005	ImDa	K4 V M9 V	-1	(B00+1)	[0000]	B	8	11
+Lish	G	1911	Kashuegnz	X574631-6	 	     Ag Ni 		310	ImDa	K3 V	-2	(853+3)	[8446]	BC	8	360
+Lish	G	1912	Gonaed	E794779-8	 	      Ag Pi (NIL)		304	ImDa	M0 V	-1	(D66+4)	[B655]	BCD	9	1872
+Lish	G	1913	Ngesuegn	E658537-7	 	     Ag Ni 		504	ImDa	K9 V M0 V M8 V	-2	(744+1)	[7377]	BC	10	112
+Lish	G	1914	Zugrora	X8D7000-9	 	     Di (NIL)		003	ImDa	M1 V	-2	(D00-3)	[0000]	B	11	-39
+Lish	G	1915	Koqrillii	E77A422-7	 	     Ni Wa 		610	ImDa	M2 V	-3	(732-1)	[51A6]	B	10	-42
+Lish	G	1916	Repheda	X634000-8	 	    Di Px 		003	ImDa	G1 V	-3	(900+1)	[0000]	B	9	9
+Lish	G	1917	Paia Raiz	X560641-3	 	     De Ni Ri 	B	302	ImDa	G3 V M5 V	-2	(851-2)	[8465]	BC	12	-80
+Lish	G	1919	Gadrodso	X311000-7	 	     Di Ic 		000	ImDa	M2 V	-3	(600+1)	[0000]	B	10	6
+Lish	K	1922	Rael Raiz	X430000-A	 	     De Di Po 		014	ImDa	M1 V M3 V	-1	(B00-3)	[0000]	B	16	-33
+Lish	K	1923	Gikisaa	X100000-7	 	     Di Va 		001	ImDa	M0 V	-3	(300-3)	[0000]	B	10	-9
+Lish	K	1926	Ashun	X736000-9	 	     Di 		010	ImDa	G3 V M0 V	-2	(600-1)	[0000]	B	9	-6
+Lish	K	1927	Kuroshio	X898576-0	 	     Ag Ni 	B	323	ImDa	F8 V M9 V	-2	(740-1)	[5381]	BC	10	-28
+Lish	K	1929	Ushulun	X98A79A-5	 	      Ri Wa (NIL)	B	401	ImDa	K7 V	-1	(A66-1)	[8666]	BC	10	-360
+Lish	K	1930	Isasa Belt	X000000-A	 	      As Va Di Na 		020	ImDa	K1 V M0 V	-1	(A00+1)	[0000]	B	11	10
+Lish	O	1932	Xagra	X400000-E	 	     Pz  Di Na In Va 		004	ImDa	M2 V	0	(G00-2)	[0000]	BE	8	-32
+Lish	O	1934	Lamguumaash	D788749-7	 	       Ag Ri 		122	ImDa	M3 V	0	(86A+5)	[4718]	BC	15	2400
+Lish	O	1935	Kurshamida	X526000-8	 	     Di 		020	ImDa	K2 V	-3	(800-1)	[0000]	B	11	-8
+Lish	O	1936	Saup	X53A000-A	 	     Di Wa (NIL)		003	ImDa	F5 V	-1	(D00-4)	[0000]	B	13	-52
+Lish	O	1939	Amisku	X776456-6	 	     Ni Pa 	B	222	ImDa	G8 V M3 V	-3	(630+1)	[6119]	Bc	7	18
+Lish	C	2002	Ouzkhoetue	X588457-2	 	    rgW  Ni Pa 	B	300	CsIm	M1 V	-3	(630+2)	[6131]	Bc	5	36
+Lish	C	2003	Duro	X310000-7	 	     Di Na 		034	NaHu	M1 V M8 V	-3	(800+1)	[0000]	B	13	8
+Lish	C	2004	Ueghu	X769474-4	 	     Ni 		204	NaVa	F8 V M4 V	-3	(632+1)	[3111]	B	14	36
+Lish	C	2007	Anging	XAC5000-C	 	     Di Fl 		013	ImDa	M0 V	-1	(B00-1)	[0000]	B	13	-11
+Lish	C	2008	Rusfong	D789355-5	 	    rg7  Lo 	B	700	ImDa	G1 V	-3	(520+3)	[8129]	B	13	30
+Lish	C	2009	Ingha	E764677-5	 	      Ag Ri Ni 		802	ImDa	M2 V M3 V	-1	(850-2)	[8561]	BC	12	-80
+Lish	C	2010	Lousaeksaz	X649414-1	 	     Ni 	B	404	ImDa	K5 V M7 V	-3	(632-3)	[6141]	B	8	-108
+Lish	G	2012	Gungevue	X878412-3	 	     Ni Pa 		520	ImDa	G2 V	-3	(632-3)	[8193]	Bc	6	-108
+Lish	G	2013	Othsekuu	X789888-4	 	    (Threep)  Ph Ri (NIL)	B	100	ImDa	M1 V	-1	(A74+1)	[77A2]	BCe	8	280
+Lish	G	2016	Siken	E676134-2	 	    Da  Lo 		113	ImDa	K5 V	-3	(300-3)	[4153]	B	11	-9
+Lish	G	2017	Rolae Pha	X57257A-5	 	    O:1815  He Ni 		200	ImDa	M2 V	-3	(740+3)	[2262]	B	8	84
+Lish	G	2018	Sharlii	X676355-6	 	     Pz  Lo (NIL)		210	ImDa	K3 V M3 V	-3	(B20-2)	[8159]	B	6	-44
+Lish	K	2021	Bethany	X54576B-2	 	     O:2124  Ag Pi (NIL)	B	904	ImDa	F4 V M5 V	-1	(964+1)	[9681]	BCD	8	216
+Lish	K	2022	Periment	X434000-B	 	     Di 		000	ImDa	M2 V	-1	(600-3)	[0000]	B	10	-18
+Lish	K	2023	Atista	X427000-D	 	     Di 		001	ImDa	K3 V	-1	(800+2)	[0000]	B	6	16
+Lish	K	2024	Arashi	X200000-C	 	     Di Va 		003	ImDa	M1 V	-1	(900-2)	[0000]	B	6	-18
+Lish	K	2025	Takao	X430000-E	 	      De Di Na Po 		000	ImDa	M2 V	-1	(800+1)	[0000]	B	9	8
+Lish	O	2032	Arka	E88A637-6	 	     Ni Ri Wa 	B	604	ImDa	K4 V	-2	(853-1)	[8455]	BC	9	-120
+Lish	O	2033	Kiagi'saga	X431000-D	 	     Di Px Po 		000	ImDa	G4 V	-1	(600-2)	[0000]	B	13	-12
+Lish	O	2036	Girmaemm	C7477AD-8	 	      Ag Pi (NIL)	B	803	ImDa	M2 V	0	(C6A-2)	[671B]	BCD	13	-1440
+Lish	O	2037	Iikir	X562400-5	 	     Ni 		312	ImDa	M0 V M0 V	-3	(632+2)	[5126]	B	8	72
+Lish	O	2038	Arer Iidka	X556766-4	 	     Ag (NIL)	B	824	ImDa	M1 V	-1	(967-1)	[6625]	BC	9	-378
+Lish	O	2039	Arush	X546433-4	 	     Ni Pa 		604	ImDa	M2 V M7 V	-3	(730+2)	[6114]	Bc	13	42
+Lish	O	2040	Lu	X524000-B	 	    Di Px 		024	ImDa	K1 V	-1	(D00+1)	[0000]	B	9	13
+Lish	C	2104	Noungal	X837000-9	 	     Di 		000	NaVa	M3 V	-2	(500-1)	[0000]	B	6	-5
+Lish	C	2105	Uesa	E978433-5	 	     Ni Pa 	B	212	ImDa	G0 V M2 V	-3	(630+3)	[3165]	Bc	13	54
+Lish	C	2106	Thopoc	X310000-A	 	      Di Na In 		011	ImDa	G0 V	0	(D00-4)	[0000]	BE	13	-52
+Lish	C	2107	Gzungokon	X665631-2	 	     rg9   Ag Ri Ga Ni 	B	401	ImDa	G8 V M7 V	-1	(855-3)	[8531]	BC	11	-600
+Lish	C	2108	Nera	E868778-3	S	     Pz  Ag Ri (NIL)	B	513	ImDa	G3 V M0 V	0	(965+1)	[6763]	BC	16	270
+Lish	C	2109	Tsarting	X300000-7	 	    O:2309  Cy Di Na Va 		002	ImDa	K4 V M4 V	-3	(800+1)	[0000]	B	11	8
+Lish	G	2111	Thegor	D54358B-4	 	     Ni Po 		413	ImDa	G5 V	-3	(741+4)	[5251]	B	11	112
+Lish	G	2112	Zeus	X9C4000-A	 	    Di Fl (ENIL)		002	ImDa	M5 III M2 V	-1	(B00-3)	[0000]	B	12	-33
+Lish	G	2113	Aggen	E748142-7	 	      O:2013  Lo (NIL)		805	ImDa	G0 V	-3	(A00+2)	[2148]	B	10	20
+Lish	G	2119	Ong Newly	X550346-6	 	     De Lo Po 		404	ImDa	G9 V	-3	(420+1)	[3176]	B	7	8
+Lish	G	2120	Szaqk's World	X9DA000-B	 	     Di Wa 		000	ImDa	K4 V	-1	(300-1)	[0000]	B	11	-3
+Lish	K	2122	Corning	X583204-2	 	     Lo 		900	ImDa	M2 V	-3	(310+4)	[6154]	B	13	12
+Lish	K	2124	Lam	C5626AC-B	 	      Ni Ri 		625	ImDa	K5 V M6 V	1	(F57-1)	[7727]	BC	10	-525
+Lish	K	2126	Kaagirdip	X5876BC-6	 	      Ag Ri Ni 		900	ImDa	K5 V	-1	(852+1)	[755A]	BC	10	80
+Lish	K	2127	Rilaarga	E596302-6	 	     Lo 		903	ImDa	G9 V M6 V	-3	(520-3)	[5187]	B	11	-30
+Lish	K	2129	Astoria	X73A000-9	 	     Di Wa 		020	ImDa	M1 V	-2	(700-1)	[0000]	B	13	-7
+Lish	O	2133	Simgugi	X310000-D	 	       Di Na Pi 		004	ImDa	K4 V M2 V	-1	(E00+2)	[0000]	BD	14	28
+Lish	O	2140	Gigi Fall	XAA7000-9	 	     Di Fl 		004	ImDa	M2 V M8 V	-2	(800-3)	[0000]	B	8	-24
+Lish	C	2203	Ksino	X535000-E	 	     Di 		002	NaVa	M1 V M6 V	-1	(500-1)	[0000]	B	12	-5
+Lish	C	2207	Fokulgvu	X75856E-2	 	     rg4  Ag Ni 	B	503	ImDa	M2 V	-2	(842-2)	[6347]	BC	13	-128
+Lish	C	2208	Gallu	X431000-B	 	     Di Px Po 		003	ImDa	G4 V	-1	(900-3)	[0000]	B	6	-27
+Lish	C	2209	Soghi	X310000-9	 	    rg8  Di 		024	ImDa	M1 V M2 V	-2	(D00+1)	[0000]	B	11	13
+Lish	G	2211	Morin	X85A000-9	 	    Pz  Di Wa (NIL)		004	ImDa	G3 V	-2	(G00-2)	[0000]	B	15	-32
+Lish	G	2213	Ziungozyye	X97A435-2	 	     Ni Wa 	B	420	ImDa	G3 V	-3	(630-4)	[51A3]	B	15	-72
+Lish	G	2216	Angeo Xy	X576143-3	 	    O:1815  Lo 		404	ImDa	K3 V M3 V	-3	(500+1)	[1153]	B	14	5
+Lish	G	2220	Kageo	X568542-4	 	      Ag Pr Ni 	B	414	ImDa	M1 V M3 V	-2	(742+1)	[5347]	BcC	10	56
+Lish	K	2222	Nightsky	X410000-B	 	     Di 		023	ImDa	M5 III	-1	(A00+4)	[0000]	B	11	40
+Lish	K	2224	Dohnvielle	X432000-9	 	     Di Px Po 		023	ImDa	M3 V	-2	(A00+3)	[0000]	B	11	30
+Lish	K	2226	Gikuniir	X501000-8	 	      Di Ic Va 		033	ImDa	M8 III	-3	(D00+2)	[0000]	B	17	26
+Lish	K	2228	Pilii	X63A000-C	 	     Di Wa (NIL)		002	ImDa	G2 V	-1	(C00-4)	[0000]	B	8	-48
+Lish	O	2232	Ki-Ladedu	X310000-7	 	     Di 		004	ImDa	G8 V	-3	(700-2)	[0000]	B	7	-14
+Lish	O	2235	Irmikke	X95A621-8	 	     Ni Wa 	B	202	ImDa	K5 V	-3	(A53+4)	[3377]	B	14	600
+Lish	O	2236	Strashna	X578000-C	 	      Di In (NIL)		000	ImDa	F6 V M8 V M3 V	0	(B00+3)	[0000]	BE	13	33
+Lish	O	2240	Ukkhiri	X86A255-2	 	     Lo Wa 	B	802	ImDa	M2 V	-3	(610+4)	[3132]	B	11	24
+Lish	C	2301	Thung Huton	E74A312-4	 	     Lo Wa 		703	CsIm	G0 V	-3	(820-2)	[6114]	B	12	-32
+Lish	C	2302	Tiaga II	X201000-8	 	      Di Ic Va 		004	NaHu	M3 V	-3	(A00+1)	[0000]	B	9	10
+Lish	C	2306	Zotak	E5429DA-5	 	    Pz  He Hi In Po (NIL)	B	624	ImDa	F8 V	0	(986-1)	[8944]	BE	13	-432
+Lish	C	2307	Jagd	X310000-A	 	    Da (Jgd-il-Jagd)  Di Na 		004	ImDa	M5 III	-1	(C00+3)	[0000]	B	10	36
+Lish	C	2309	Sotri	D673788-A	 	     Pz  Pi (NIL)		312	ImDa	K3 V	0	(E68+2)	[673C]	BD	14	1344
+Lish	G	2312	Catalyst	X400000-E	 	     Di Va 		004	ImDa	K8 V	-1	(900-1)	[0000]	B	9	-9
+Lish	G	2313	High Sheton	X431000-A	 	     Di Po 		000	ImDa	M0 V M4 V	-1	(700-2)	[0000]	B	9	-14
+Lish	G	2314	Carsin	X536000-7	 	     Di 		004	ImDa	M0 V	-3	(600-1)	[0000]	B	11	-6
+Lish	G	2316	Pact	X86A375-6	 	     Lo Wa 	B	410	ImDa	M1 V	-3	(420+1)	[21AA]	B	13	8
+Lish	G	2320	Iconshuu	X644235-1	 	    O:2719  Lo 	B	800	ImDa	F5 V	-3	(510+1)	[5131]	B	13	5
+Lish	K	2321	Gugiler	X423000-8	 	    Da  Di Po 		004	ImDa	M2 V M7 V	-3	(B00+2)	[0000]	B	12	22
+Lish	K	2326	Inad	E89A578-7	 	     Ni Wa 	B	310	ImDa	K3 V M0 V	-3	(743+1)	[429C]	B	10	84
+Lish	K	2329	Iragshus Zike	X537000-8	 	     Di 		010	ImDa	K2 V	-3	(900+1)	[0000]	B	13	9
+Lish	O	2333	Khurlar	X560769-6	 	    Pz  De Ri (NIL)	B	312	ImDa	M3 V	-1	(966+1)	[9648]	BC	8	324
+Lish	O	2336	Meredith	X548545-3	 	     Ag Ni 		211	ImDa	G2 V M3 V	-2	(742-1)	[5334]	BC	12	-56
+Lish	O	2338	Sha	X430000-E	 	     De Di Po 		010	ImDa	K4 V M9 V	-1	(700+3)	[0000]	B	10	21
+Lish	O	2340	Urgishi	X85A422-2	 	     Ni Wa (NIL)	B	222	ImDa	K7 V	-3	(B30+1)	[2141]	B	7	33
+Lish	C	2401	Gusk Sohito	X565774-4	 	      Ag Ri (NIL)		202	NaVa	M1 V M2 V	0	(968+1)	[4733]	BC	12	432
+Lish	C	2404	Kougol	E581730-6	 	    rg7  Ri (NIL)	B	522	CsIm	G0 V	-1	(969+1)	[6616]	BC	8	486
+Lish	C	2406	Thirarer	X674634-6	 	     Ag Ni 		900	ImDa	F5 V M4 V	-2	(852+4)	[6446]	BC	5	320
+Lish	C	2407	Slick	X303000-C	 	      Di Ic Va Na Pi 		010	ImDa	K1 IV M8 V	-1	(A00+1)	[0000]	BD	14	10
+Lish	C	2408	Rega Dungu	X96A275-6	 	     Lo Wa 	B	900	ImDa	K9 V	-3	(510+2)	[2113]	B	13	10
+Lish	C	2409	Bilam	X9A5000-8	 	     Di Fl 		002	ImDa	M0 V	-3	(800-1)	[0000]	B	12	-8
+Lish	C	2410	Boatham	X799103-1	 	     Lo 	B	513	ImDa	M3 V M8 V	-3	(300+2)	[4151]	B	10	6
+Lish	G	2411	Orwell	D785447-5	 	     Ga Ni Pa 		315	ImDa	K6 V	-3	(633+3)	[4153]	Bc	13	162
+Lish	G	2413	Kalahari	X430000-C	 	    Pz  De Di Na Po (NIL)		010	ImDa	G3 V M1 V	-1	(A00+1)	[0000]	B	14	10
+Lish	G	2415	Dzatye	E7538B9-7	 	     Ph Po (NIL)		203	ImDa	K8 V M3 V	-2	(A74+4)	[3699]	Be	6	1120
+Lish	G	2417	Kely-sugn	X200000-8	 	     Di Na Va 		010	ImDa	K3 V M0 V	-3	(900+1)	[0000]	B	5	9
+Lish	G	2418	Trigon Orbit	X562886-5	 	    O:2719  Ph Ri (NIL)	B	924	ImDa	F8 V	-1	(A73-2)	[7752]	BCe	9	-420
+Lish	G	2419	Rastar	X693441-5	 	     Ni 	B	500	ImDa	K3 V M4 V	-3	(731-4)	[5165]	B	13	-84
+Lish	G	2420	Blue	X200000-E	 	     Di Va 		003	ImDa	M1 V M2 V	-1	(A00+2)	[0000]	B	14	20
+Lish	K	2423	Juneau	X100000-9	 	    O:2624  Di Va 		003	ImDa	G2 V	-2	(A00+3)	[0000]	B	12	30
+Lish	K	2424	Steret's Rock	X300000-8	 	     Di Va 		002	ImDa	M1 V	-3	(500-1)	[0000]	B	12	-5
+Lish	K	2426	Midashar	X646453-4	 	     Ni Pa 	B	200	ImDa	K0 V M8 V	-3	(633+4)	[6156]	Bc	10	216
+Lish	K	2427	Alliance	D54256B-4	 	     He Ni Po 	B	400	ImDa	M3 V M7 V	-3	(743+1)	[5241]	B	6	84
+Lish	K	2428	Wontime	X551223-4	 	     Lo Po 		605	ImDa	K4 V	-3	(510-2)	[6162]	B	13	-10
+Lish	O	2432	Khan Mirgina	X879300-2	 	     Lo 		104	ImDa	K7 V M9 V	-3	(520+2)	[6177]	B	12	20
+Lish	O	2434	Aganak	X423000-9	 	     Di Po 		010	ImDa	K1 V	-2	(700-2)	[0000]	B	7	-14
+Lish	O	2435	Lamiglagi	X746773-5	 	     O:2236  Ag Pi (NIL)	B	504	ImDa	G0 V	-1	(964+5)	[7665]	BCD	7	1080
+Lish	O	2439	Un Umig Urirgi	X514000-7	 	    Di Ic Pi 		000	ImDa	G0 V	-3	(900+1)	[0000]	BD	8	9
+Lish	D	2501	Ouse	X544100-4	 	    O:2603  Lo 		403	NaVa	K3 V	-3	(400+3)	[4193]	B	10	12
+Lish	D	2508	Ibeem	D555776-8	 	    Pz  Ag (NIL)		204	ImDa	K8 V M8 V	-1	(D68-3)	[A646]	BC	7	-1872
+Lish	D	2509	Angvoz	X310000-D	 	    rg7  Di 		020	ImDa	M1 V M2 V	-1	(800+1)	[0000]	B	14	8
+Lish	H	2512	Formore	C666279-5	 	     Ga Lo 		504	ImDa	M0 V	-2	(310-3)	[1157]	B	7	-9
+Lish	H	2516	Stopover	X400000-D	 	     Di Va 		024	ImDa	M2 V	-1	(C00-2)	[0000]	B	9	-24
+Lish	L	2521	Asinto	X556303-0	 	     Lo 	B	222	ImDa	K0 V	-3	(320+4)	[1171]	B	7	24
+Lish	L	2523	Kando	E947651-5	 	     Ag Ni 		224	ImDa	F4 V	-2	(853+3)	[8431]	BC	9	360
+Lish	L	2529	Barerock	X200000-7	 	    O:2730  Di Va 		000	ImDa	M0 V	-3	(500+4)	[0000]	B	11	20
+Lish	P	2532	Thaplaze	E593675-6	 	     Ni 	B	812	ImDa	G7 V	-3	(850+2)	[4315]	B	9	80
+Lish	P	2533	Kyushu	E5766A8-8	 	    O:2333  Ag Ni 		704	ImDa	K0 V M9 V	-2	(C53+1)	[545A]	BC	7	180
+Lish	P	2534	Bistar	X410000-F	 	     Di 		000	ImDa	K4 V M3 V	-1	(600-1)	[0000]	B	8	-6
+Lish	P	2536	Sentronna	D563898-9	 	     Ph Ri (NIL)		612	ImDa	M1 V	0	(D79+2)	[6848]	BCe	9	1638
+Lish	P	2538	Shion Card	X9B5000-8	 	    Di Fl Px 		010	ImDa	M1 V M5 V	-3	(900-2)	[0000]	B	5	-18
+Lish	P	2540	Steambath	C794799-5	S	     O:Core-2602  Ag Pi (NIL)	B	203	ImDa	G4 V	0	(965-3)	[6754]	BCD	14	-810
+Lish	D	2602	Fuerorrton	X557477-2	 	    rg4  Ni Pa 	B	300	NaHu	F4 V	-3	(632+4)	[5193]	Bc	8	144
+Lish	D	2603	Sograzung	X66666E-4	 	     rg6  Ag Ri Ga Ni 	B	802	NaHu	K9 V M6 V	-1	(855+1)	[5532]	BC	11	200
+Lish	D	2604	Enging	X432000-A	 	      Di Na Px Po 		004	CsIm	M0 V M1 V	-1	(C00+5)	[0000]	B	13	60
+Lish	D	2605	Sperris	X687378-5	 	     Ga Lo 		100	ImDa	K4 V	-3	(520-4)	[4142]	B	13	-40
+Lish	D	2608	Varsdo	X555778-6	 	    Pz  Ag (NIL)	B	215	ImDa	M1 V	-1	(964+3)	[5676]	BC	9	648
+Lish	D	2609	Tyegueng	X546779-5	 	     Pz rg5  Ag Pi (NIL)	B	622	ImDa	G2 V M7 V	-1	(96A-4)	[7618]	BCD	13	-2160
+Lish	H	2611	Alfu Onna	X8C4000-9	 	     Di Fl (ENIL)		010	ImDa	F2 V	-2	(B00-3)	[0000]	B	8	-33
+Lish	H	2612	Post	X310000-9	 	     Di 		004	ImDa	K2 V M5 V	-2	(A00+3)	[0000]	B	9	30
+Lish	H	2614	Kogside	X574475-5	 	     Ni Pa 	B	503	ImDa	M0 V	-3	(630+1)	[5125]	Bc	9	18
+Lish	H	2616	Shikangu	D764610-8	 	     Da  Ag Ri Ni 	B	603	ImDa	K5 V M2 V	-1	(B54-4)	[B569]	BC	11	-880
+Lish	L	2621	Bagaskaa	X544345-4	 	     Lo 		404	ImDa	K9 V	-3	(520+5)	[1123]	B	14	50
+Lish	L	2622	Mikisha	X895442-7	 	     Ni Pa 		514	ImDa	K6 V	-3	(632+1)	[5158]	Bc	8	36
+Lish	L	2624	Kolskiy	X201000-B	 	      Di Ic Va Na Pi 		002	ImDa	M0 V M2 V	-1	(B00+2)	[0000]	BD	13	22
+Lish	L	2628	Agiisha	X435000-8	 	     Di 		022	ImDa	M1 V	-3	(C00+2)	[0000]	B	12	24
+Lish	L	2630	Khursham	X686477-4	 	     Ga Ni Pa 		410	ImDa	K1 V	-3	(632-4)	[3161]	Bc	13	-144
+Lish	P	2632	Aquella	X87A631-5	 	    O:2730  Ni Wa 		304	ImDa	M0 V M1 V	-3	(853-1)	[B354]	B	14	-120
+Lish	P	2635	Miigi	E575721-5	 	      Ag Pi (NIL)	B	504	ImDa	F5 V	-1	(969+1)	[7635]	BCD	15	486
+Lish	P	2638	Irdashe	X9968DB-6	 	      Pa Pi Ph (NIL)	B	312	ImDa	K2 V	-2	(A78+2)	[B63A]	BcDe	12	1120
+Lish	P	2640	Tagukhassan	X859943-8	 	    Pz  Hi (NIL)	B	603	ImDa	K1 V	-1	(E85-3)	[B868]	BE	14	-1680
+Lish	D	2701	Sisri	E79A543-5	 	     Ni Wa 	B	400	NaHu	K4 V	-3	(740-1)	[4242]	B	5	-28
+Lish	D	2702	Aakhi	X543569-2	 	    O:2603  Ni Po 	B	321	NaVa	F4 V M3 V	-3	(741-2)	[1215]	B	13	-56
+Lish	D	2703	Banckert	X400000-E	 	     Di Na Va 		004	NaVa	K4 IV M6 V	-1	(C00-1)	[0000]	B	14	-12
+Lish	D	2704	Inkikhiir	X686973-2	 	      Ga Hi Pr (NIL)	B	100	NaHu	K4 V	-1	(A8A+4)	[8833]	BcE	8	3200
+Lish	D	2705	Unnakaa	E578569-4	 	     Ag Ni 	B	313	ImDa	F8 V M5 V	-2	(744+1)	[7394]	BC	8	112
+Lish	D	2706	Dasakhaa	X671479-5	 	      He Ni (NIL)		525	ImDa	G2 V	-3	(A30-1)	[6153]	B	13	-30
+Lish	D	2709	Khalu	X584568-3	 	      Ag Pr Ni 		410	ImDa	G2 V	-2	(744-3)	[5344]	BcC	10	-336
+Lish	H	2711	Uunla	X583400-6	 	     Ni 		403	ImDa	K8 V	-3	(630-1)	[1146]	B	12	-18
+Lish	H	2713	Khuki	X625000-8	 	    O:2913  Di 		000	ImDa	M1 V	-3	(600+2)	[0000]	B	10	12
+Lish	H	2715	Irmidker	E766638-7	 	      Ag Ri Ga Ni 	B	320	ImDa	M0 V	-1	(850+2)	[3563]	BC	15	80
+Lish	H	2717	Ashsi	X54697B-9	 	     Pz  Hi In (NIL)		700	ImDa	F8 V	1	(A8A+1)	[7A5B]	BE	10	800
+Lish	H	2718	Khaga	C5668AB-5	 	     Pz  Pa Ri Ph (NIL)	B	124	ImDa	K5 V M1 V	0	(A75-4)	[98A6]	BcCe	11	-1400
+Lish	H	2719	Tephany	X6B1000-A	 	      Pz  Di Fl He In (ENIL)		002	ImDa	K0 V	0	(D00+1)	[0000]	BE	6	13
+Lish	H	2720	Mist	E585747-8	 	     O:2719  Ag Ri (NIL)		601	ImDa	K3 V	0	(A64-3)	[8773]	BC	10	-720
+Lish	L	2722	Kisugi	E897236-7	 	      Lo 		600	ImDa	G6 V M7 V	-3	(610-5)	[1197]	B	13	-30
+Lish	L	2723	Blevins	X310000-A	 	     Di Na 		010	ImDa	M3 V	-1	(900-1)	[0000]	B	12	-9
+Lish	L	2724	Karmii	E566543-6	 	      Ag Pr Ni 		310	ImDa	F3 V M3 V	-2	(740-1)	[6338]	BcC	7	-28
+Lish	L	2725	Blizzard	X611000-7	 	     Di Ic Na 		002	ImDa	G0 V	-3	(800+1)	[0000]	B	7	8
+Lish	L	2726	Irkurshir	X546431-3	 	     Ni Pa 	B	410	ImDa	K3 V M0 V M0 V	-3	(630-2)	[6165]	Bc	8	-36
+Lish	L	2729	Kagsazar	X594311-1	 	      Lo 	B	500	ImDa	G8 V	-3	(620+5)	[3131]	B	6	60
+Lish	L	2730	Dublin	B88877B-5	 	       Ag Ri (NIL)	B	603	ImDa	M3 V	2	(969+3)	[7955]	BC	10	1458
+Lish	P	2733	Kiiki	X310000-C	 	     Di 		000	ImDa	G2 V M1 V	-1	(600-2)	[0000]	B	7	-12
+Lish	P	2734	Tallin	X312000-8	 	     Di Ic 		004	ImDa	M2 V M5 V	-3	(900-4)	[0000]	B	10	-36
+Lish	P	2736	Garmagan	X56386B-1	 	      Ph Ri (NIL)	B	423	ImDa	G1 V M2 V	-1	(A74+1)	[5771]	BCe	11	280
+Lish	P	2738	Uudmi	X525000-C	 	     Di 		004	ImDa	K2 V M0 V	-1	(B00-4)	[0000]	B	16	-44
+Lish	P	2740	Ushdirk	E797854-7	 	      Pa Pi Ph (NIL)		703	ImDa	K2 V M5 V	-2	(A77+2)	[A654]	BcDe	6	980
+Lish	D	2801	Angar IV	X546335-2	 	    O:2603  Lo 		100	NaVa	G9 V	-3	(420+1)	[4161]	B	10	8
+Lish	D	2803	Gishmeg	D886877-8	 	     Ga Pa Ri Ph (NIL)		120	NaVa	M1 V M9 V	-1	(B73+3)	[6737]	BcCe	11	693
+Lish	D	2806	Egmur	X79A323-3	 	     Lo Wa 		604	ImDa	M2 V	-3	(420-2)	[1167]	B	14	-16
+Lish	D	2808	Garlii	X310000-8	 	    O:2908  Di Na Pi 		033	ImDa	M2 V M4 V M5 V	-3	(F00+3)	[0000]	BD	9	45
+Lish	D	2810	Kiidu	X87756C-1	 	     Ag Ni 	B	321	ImDa	G9 V M0 V	-2	(743+2)	[5371]	BC	8	168
+Lish	H	2814	Gilish	X434000-B	 	    Di Px 		025	ImDa	K4 V	-1	(E00+3)	[0000]	B	11	42
+Lish	H	2815	Narvik	X514000-8	 	     Di Ic 		013	ImDa	M0 V M3 V	-3	(A00-1)	[0000]	B	13	-10
+Lish	H	2818	Urkakhir	X592232-3	 	     He Lo 		503	ImDa	M1 V	-3	(610+1)	[2173]	B	13	6
+Lish	H	2820	Udmulan	X8B3000-8	 	    Di Fl (ENIL)		023	ImDa	K2 V	-3	(E00+5)	[0000]	B	14	70
+Lish	L	2821	Khinler	X84A834-6	 	    Ph Pi Wa 	B	302	ImDa	M0 V	-2	(874+2)	[A616]	BDe	8	448
+Lish	L	2823	Imkergi	X548320-2	 	     Lo 	B	813	ImDa	K6 V	-3	(520+1)	[1144]	B	7	10
+Lish	L	2824	Adeshur	X99A650-4	 	     Ni Wa 	B	815	ImDa	M2 V M3 V	-3	(852+4)	[9348]	B	10	320
+Lish	L	2825	Karsaama	X749210-2	 	     Pz  Lo (NIL)		620	ImDa	K9 V	-3	(A10-3)	[1134]	B	5	-30
+Lish	L	2829	Sirris	X854986-6	 	    Pz  Hi (NIL)	B	300	ImDa	M0 V M0 V	-1	(B88+3)	[D888]	BE	13	2112
+Lish	L	2830	Kangerla	X576356-0	 	      Lo 	B	603	ImDa	M0 V M7 V	-3	(620+3)	[3143]	B	11	36
+Lish	P	2831	Ammur	X582411-4	 	     Ni 	B	214	ImDa	K7 V M7 V	-3	(631+1)	[8166]	B	8	18
+Lish	P	2836	Keshi	X99A556-4	 	     Ni Wa 	B	504	ImDa	M0 V M9 V	-3	(741-3)	[8261]	B	10	-84
+Lish	D	2905	Criideu	X635000-F	 	    Pz  Di (NIL)		003	ImDa	M3 V	-1	(F00-1)	[0000]	B	8	-15
+Lish	D	2906	Gegir	X524000-9	 	   rg2  Di Pi (NIL)		004	ImDa	M3 V	-2	(D00-1)	[0000]	BD	13	-13
+Lish	D	2907	Ukim	X645546-6	 	     Ag Ni 		323	ImDa	G8 V	-2	(741+2)	[436A]	BC	11	56
+Lish	D	2908	Iisgamdi	X420000-E	 	         De He Di Na Pi Po (NIL)		000	ImDa	K1 V	-1	(A00+4)	[0000]	BD	11	40
+Lish	D	2909	Belfhi	E584987-7	 	     Hi Pr (NIL)	B	423	ImDa	M1 V	-1	(B81-4)	[A897]	BcE	9	-352
+Lish	H	2911	Shurkinish	X545379-2	 	     Lo 		114	ImDa	F5 V M4 V	-3	(420+3)	[6153]	B	13	24
+Lish	H	2913	The Spread	X000000-D	 	      Pz  As Va Di Na Pi 		000	ImDa	G6 V M8 V	-1	(A00+5)	[0000]	BD	13	50
+Lish	H	2915	Silaa	X677220-3	 	     Lo 		400	ImDa	K4 V M7 V	-3	(410-3)	[2154]	B	8	-12
+Lish	H	2916	Akgangu	E652520-7	 	    Da  Ni Po 		410	ImDa	K0 V M2 V	-3	(742+1)	[3286]	B	11	56
+Lish	H	2918	Limeshuud	E55A99B-9	 	     Hi Wa (NIL)		224	ImDa	K4 V	0	(G87-4)	[896B]	BE	13	-3584
+Lish	H	2919	Khadi	D85A641-5	 	     Ni Wa 	B	310	ImDa	M2 V M3 V	-3	(852+2)	[4375]	B	10	160
+Lish	L	2921	Ashpuud	X200000-B	 	     Di Va 		000	ImDa	M2 V	-1	(500+2)	[0000]	B	11	10
+Lish	L	2922	Kazish	X584176-4	 	     Lo 		600	ImDa	K4 V M7 V	-3	(500+3)	[3121]	B	11	15
+Lish	L	2923	Kimkhii	X876434-1	 	     Ni Pa 	B	200	ImDa	G0 V	-3	(632-1)	[4164]	Bc	13	-36
+Lish	L	2924	Ot Zell	X9B7000-B	 	     Di Fl In (ENIL)		010	ImDa	K4 V M7 V	0	(C00+3)	[0000]	BE	10	36
+Lish	L	2925	Kimus	E563101-5	 	    Da  Lo 		705	ImDa	K2 V	-3	(300-2)	[1133]	B	17	-6
+Lish	L	2928	Imkaan	X432000-B	 	     Di Po 		000	ImDa	M2 V	-1	(700+4)	[0000]	B	10	28
+Lish	L	2929	Gorval	X540130-2	 	      De He Lo Po 		500	ImDa	G7 V M2 V	-3	(500+3)	[2141]	B	11	15
+Lish	P	2931	Gudukhar	X546100-7	 	      Lo 		822	ImDa	F7 V	-3	(600-4)	[113B]	B	7	-24
+Lish	P	2932	Shim	X639000-8	 	     Di (NIL)		004	ImDa	G1 V M3 V	-3	(E00+1)	[0000]	B	10	14
+Lish	P	2933	Gikiikha	X655133-2	 	     Ga Lo 		300	ImDa	K7 V	-3	(500+4)	[1152]	B	10	20
+Lish	P	2940	Inshishesh	X669210-2	 	     Lo 		422	ImDa	G1 V	-3	(310+3)	[1171]	B	11	9
+Lish	D	3001	Urnakesh	X424000-B	 	    rg2  Di 		002	NaVa	M0 V M2 V	-1	(700-1)	[0000]	B	14	-7
+Lish	D	3002	Migisuudii	X549537-6	 	     Ni 		400	NaHu	M0 V	-3	(740-5)	[5254]	B	12	-140
+Lish	D	3003	Iirkhishur	X414000-7	 	    rg3  Di Ic 		000	NaVa	K6 V	-3	(400-2)	[0000]	B	8	-8
+Lish	D	3004	Zakishe	X100000-B	 	     Di Va 		005	NaHu	K3 V	-1	(B00+2)	[0000]	B	13	22
+Lish	D	3006	Nakhimov	X200000-9	 	     Di Va 		003	ImDa	M2 V M4 V	-2	(A00-1)	[0000]	B	8	-10
+Lish	D	3008	Gaakhu	D896233-5	 	     Lo 	B	104	ImDa	F5 V M5 V	-3	(410+2)	[1137]	B	13	8
+Lish	H	3012	Kuursarda	D565579-7	 	      Ag Pr Ni 		404	ImDa	K7 V	-2	(744-2)	[437A]	BcC	11	-224
+Lish	H	3013	Larkadisum	X729000-9	 	     Di 		020	ImDa	G0 V M6 V	-2	(600+1)	[0000]	B	11	6
+Lish	H	3014	Rukaga	X310000-A	 	    O:2913  Di Na 		020	ImDa	G1 V	-1	(A00+4)	[0000]	B	7	40
+Lish	H	3016	Igikidamum	X723000-B	 	     Di Po 		005	ImDa	M1 V M7 V	-1	(900+4)	[0000]	B	10	36
+Lish	H	3017	Argalu	E658100-3	 	     Lo 	B	600	ImDa	K6 V M6 V	-3	(400-2)	[2194]	B	11	-8
+Lish	H	3019	Shage	X200000-C	 	      Di Na Pi Va 		013	ImDa	K2 V	-1	(E00+2)	[0000]	BD	8	28
+Lish	L	3021	Darkling	X000000-8	 	      As Va Di Na 		001	ImDa	K4 V M2 V	-3	(900+2)	[0000]	B	14	18
+Lish	L	3022	Ingerka	X300000-C	 	     Di Va 		001	ImDa	M3 V	-1	(800+1)	[0000]	B	9	8
+Lish	L	3024	Eshashla	X567300-5	 	     Lo 		504	ImDa	K2 V M7 V	-3	(420-1)	[1181]	B	13	-8
+Lish	L	3026	Adlashidu	X541534-2	 	    O:2924  He Ni Po 		200	ImDa	M0 V M5 V	-3	(740-3)	[8223]	B	9	-84
+Lish	L	3030	Ikaardakha	X589557-7	 	    O:2730  Ni Pr 		305	ImDa	M1 V	-3	(740+2)	[6278]	Bc	8	56
+Lish	P	3032	Iishinki	XAAA000-C	 	     Di Fl 		003	ImDa	M1 V M2 V	-1	(A00+1)	[0000]	B	15	10
+Lish	P	3033	Marhaban	X310000-A	 	     Pz  Di Na In 		021	ImDa	G4 V M1 V	0	(E00+1)	[0000]	BE	10	14
+Lish	P	3035	Olympia	X302000-A	 	      Di Ic Va Na Pi 		003	ImDa	K0 V	-1	(C00-1)	[0000]	BD	14	-12
+Lish	P	3040	Rirgan	X536000-9	 	   Di Pz  (NIL)		015	ImDa	K2 V M0 V	-2	(F00+2)	[0000]	B	14	30
+Lish	D	3101	Akitilon	E666211-4	 	       Ga Lo 		305	CsIm	G6 V M2 V	-3	(610+1)	[3167]	B	11	6
+Lish	D	3104	Takaria	X768320-5	 	     Lo 		400	NaHu	K4 V	-3	(420-2)	[5174]	B	7	-16
+Lish	D	3108	Zasdikikur	X525000-8	 	     Di 		001	ImDa	M1 V M8 V	-3	(800-2)	[0000]	B	10	-16
+Lish	H	3111	Orpheus	X8A3000-B	 	     Di Fl In (ENIL)		002	ImDa	G2 V	0	(E00+1)	[0000]	BE	6	14
+Lish	H	3113	Mibim	X423000-E	 	      Di Na Px Po 		010	ImDa	K4 V	-1	(900+1)	[0000]	B	10	9
+Lish	H	3114	Saguenay	X400000-9	 	     Di Va 		004	ImDa	G4 V M7 V	-2	(900+4)	[0000]	B	7	36
+Lish	H	3116	Miishkha	X432000-9	 	    Da  Di Px Po 		004	ImDa	K1 V	-2	(B00+1)	[0000]	B	13	11
+Lish	H	3118	Aashagaka	X423000-A	 	     Di Po 		001	ImDa	K8 V M2 V	-1	(400+1)	[0000]	B	11	4
+Lish	L	3122	Mushu	C656568-4	S	     Ag Ga Ni 		400	ImDa	K4 V M1 V M9 V	-1	(743-1)	[5423]	BC	9	-84
+Lish	L	3123	Mechport	X5739EE-5	 	     Hi In (NIL)		300	ImDa	F4 V	0	(B86-5)	[8957]	BE	13	-2640
+Lish	L	3125	Askisa	E654557-4	 	     Ag Ni 		310	ImDa	K5 V M7 V	-2	(743+2)	[7336]	BC	12	168
+Lish	L	3126	Gaamkhi	X587478-4	 	     Ni Pa 	B	300	ImDa	M3 V	-3	(630-4)	[2151]	Bc	13	-72
+Lish	L	3129	Desna Amur	X300000-9	 	     Pz  Di Na Pi Va 		004	ImDa	K5 V M7 V	-2	(E00+4)	[0000]	BD	12	56
+Lish	P	3135	Irnunkash	E558100-3	 	     Lo 		500	ImDa	F8 V	-3	(400-2)	[1131]	B	6	-8
+Lish	P	3137	Mida	D585114-7	S	     Lo 		803	ImDa	G5 V	-3	(400-2)	[116B]	B	13	-8
+Lish	D	3201	Kikha	E6858AD-3	 	     Pz  Ga Pa Ri Ph (NIL)	B	603	NaVa	G0 V M0 V	-1	(A76-5)	[8751]	BcCe	13	-2100
+Lish	D	3202	Nezi	X87A458-5	 	     Ni Wa 		400	NaHu	G7 V	-3	(630+1)	[3165]	B	10	18
+Lish	D	3203	Khiguki	X438000-0	 	    (minor)  Ba 		003	NaXX	M1 V M1 V	-3	(200-4)	[0000]	B	10	-8
+Lish	D	3204	Dake	X543440-5	 	     Ni Po 		221	NaVa	M2 V	-3	(631+2)	[5145]	B	10	36
+Lish	D	3206	Pellor	X998668-3	 	     Ag Ni 	B	500	ImDa	M2 V	-2	(851+1)	[6496]	BC	9	40
+Lish	H	3211	Aankhesin	X78576B-3	 	      Ag Ri Ga (NIL)	B	104	ImDa	G4 V	0	(967-1)	[A741]	BC	12	-378
+Lish	H	3213	Uulashkad	X433000-7	 	     Di Na Po (NIL)		000	ImDa	F4 V M5 V M1 V	-3	(900-1)	[0000]	B	8	-9
+Lish	H	3214	Kiluea	E776455-6	 	     Ni Pa 		422	ImDa	M0 V M2 V	-3	(633-1)	[3151]	Bc	9	-54
+Lish	H	3217	Elishilur	X510000-9	 	     Di 		000	ImDa	M1 V M7 V	-2	(300-1)	[0000]	B	13	-3
+Lish	H	3219	Dushe	X577110-3	 	     Lo 		421	ImDa	F5 V M4 V	-3	(300-3)	[4154]	B	12	-9
+Lish	H	3220	Zukurkha	X873445-4	 	     Ni 	B	303	ImDa	M2 V	-3	(632+1)	[5132]	B	12	36
+Lish	L	3221	Akaalun	X786475-5	 	     Da   Ga Ni Pa 		504	ImDa	G9 V	-3	(732-2)	[4118]	Bc	10	-84
+Lish	L	3222	Kabashgiir	E779879-9	 	     Ph Pi (NIL)		220	ImDa	M3 V	-1	(C78-3)	[A736]	BDe	11	-2016
+Lish	L	3223	Peake	X56896A-4	 	   Pz  Hi Pr (NIL)	B	104	ImDa	K4 V	-1	(C83-3)	[A854]	BcE	9	-864
+Lish	L	3225	Aasamlaga	C766876-6	 	     Pz  Ga Pa Ri Ph (NIL)	B	600	ImDa	G2 V	0	(A76-1)	[7863]	BcCe	3	-420
+Lish	L	3226	Piiman	X76A874-6	 	    Ph Ri Wa (NIL)	B	110	ImDa	G8 V M6 V	-1	(972+1)	[7756]	BCe	14	126
+Lish	L	3227	Uugmiir	X550120-7	 	     De Lo Po 		413	ImDa	K9 V M7 V	-3	(300+1)	[1166]	B	8	3
+Lish	L	3229	Ishala	X689676-8	 	    Da  Ni Ri 		834	ImDa	F9 V M3 V M0 V	-2	(F54-1)	[6454]	BC	14	-300
+Lish	L	3230	Gekakar	XAC8000-E	 	     Di Fl 		012	ImDa	K2 V	-1	(900+1)	[0000]	B	15	9
+Lish	P	3233	Arkir	X67586E-4	 	     O:Anta-0135  Pa Pi Ph (NIL)	B	915	ImDa	G3 V	-2	(A76+4)	[8646]	BcDe	15	1680
+Lish	P	3234	Miikhaka	X422000-8	 	     Di He Po 		002	ImDa	M3 V M7 V	-3	(900-3)	[0000]	B	15	-27
+Lish	P	3235	Alumgin	X437000-9	 	     Di 		000	ImDa	M2 V	-2	(800-5)	[0000]	B	13	-40
+Lish	P	3237	Garnimamar	E542574-4	 	    O:Anta-0135  He Ni Po 		200	ImDa	K4 V	-3	(742+3)	[6235]	B	7	168
+Lish	P	3238	Luugali	X835000-8	 	     Di (NIL)		014	ImDa	G0 V	-3	(E00-3)	[0000]	B	13	-42
+Lish	P	3240	Kolyshkin	E5689BD-7	 	     Pz  Hi Pr (NIL)		102	ImDa	G9 V	-1	(A84+4)	[D84A]	BcE	6	1280

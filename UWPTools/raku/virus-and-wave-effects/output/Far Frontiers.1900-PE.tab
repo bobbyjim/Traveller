@@ -1,0 +1,471 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+Farf	A	0101	Vrialmanj	E573000-7	 	           Di 		004	Wild	K0 V	{ -3 }	(700-5)	[0000]	B	17	-35
+Farf	A	0105	Jdinz	B427789-9	 	          (NIL)  Pi (NIL)		920	Wild	M3 III M1 V	{ 1 }	(C6B+3)	[5835]	BD	9	2376
+Farf	A	0108	Chtanshar	E95A000-E	 	           Di Wa 		001	Wild	F1 V	{ -1 }	(700-3)	[0000]	B	12	-21
+Farf	A	0109	Ishashiel	X774000-8	 	            Di 		003	Wild	K1 V	{ -3 }	(900-3)	[0000]	B	15	-27
+Farf	A	0110	Tsief	E200000-A	 	           Di Va 		002	Wild	M0 V	{ -1 }	(900+5)	[0000]	B	14	45
+Farf	E	0111	Zhiafefezh	E200000-0	 	           Ba Va 		024	Wild	G4 IV	{ -3 }	(B00+1)	[0000]	B	14	11
+Farf	E	0115	Blieplitl	B663899-8	 	         (NIL)  Ph Ri (NIL)		704	Wild	M0 V	{ 1 }	(F76+1)	[B948]	BCe	11	630
+Farf	E	0116	Zhans	E564000-0	 	       Da     Ba 		024	Wild	G6 V	{ -3 }	(B00+3)	[0000]	B	14	33
+Farf	E	0117	Ievrchipr	C431576-8	 	            Ni Px Po 		404	Wild	M1 V	{ -2 }	(B41+2)	[8359]	B	16	88
+Farf	E	0119	Kitl	E00047B-8	W	       Da       As Va Ni 		102	Wild	M1 V	{ -2 }	(730-1)	[126A]	B	12	-21
+Farf	I	0123	Acropolis	A887551-9	 	             Ag Pr Ga Ni 		322	Wild	G6 V	{ 1 }	(845+1)	[6655]	BcC	9	160
+Farf	I	0124	Belekz	A553336-A	 	           Lo Po 		800	Wild	F8 V	{ 1 }	(621+3)	[5477]	B	5	36
+Farf	I	0125	Drawmij	E569978-6	 	         (NIL)  Hi Pr (NIL)		203	Wild	G9 V	{ -1 }	(B82+1)	[5885]	BcE	9	176
+Farf	I	0128	Salinaikin	E000000-E	 	              As Va Di 		013	Wild	M7 III	{ -1 }	(600+2)	[0000]	B	9	12
+Farf	M	0134	Echocha	D543000-9	 	           Di Po 		004	Wild	G6 V	{ -2 }	(A00-2)	[0000]	B	12	-20
+Farf	M	0138	Follette	D552432-7	 	           Ni Po 		200	Wild	F5 V	{ -3 }	(732+2)	[81A4]	B	13	84
+Farf	A	0205	Iketlshi'	B200520-C	 	            Ni Va 		522	Wild	M1 V	{ 1 }	(C47+1)	[462A]	B	15	336
+Farf	A	0207	Jdadlvetl	E300000-9	 	           Di Va 		003	Wild	G1 V	{ -2 }	(900+3)	[0000]	B	9	27
+Farf	E	0216	Tlefiatsekr	X546000-5	 	        Fo     Di 		000	Wild	M2 V M7 V	{ -3 }	(800+5)	[0000]	B	9	40
+Farf	I	0225	Natlus	X859000-7	 	           Di 		011	Wild	F2 V	{ -3 }	(600-2)	[0000]	B	7	-12
+Farf	I	0226	Stamfor	D542757-7	 	            (NIL)  He Pi Po (NIL)		313	Wild	K7 V	{ -2 }	(A65-4)	[7583]	BD	11	-1200
+Farf	I	0228	Arbelletia	C435411-9	 	           Ni 		111	Wild	G4 V	{ -1 }	(730-1)	[5349]	B	8	-21
+Farf	I	0229	Yith	D423000-C	 	      Da RsE      Di Po 		011	Wild	K6 V M8 V	{ -1 }	(800-3)	[0000]	B	6	-24
+Farf	M	0232	Hrilopar	E622000-7	 	           Di He Po 		012	Wild	M1 V M3 V	{ -3 }	(500+1)	[0000]	B	13	5
+Farf	M	0236	Reseca	C565986-A	 	         (NIL)  Hi Pr (NIL)		203	Wild	G7 V D	{ 2 }	(E88-1)	[EB6F]	BcE	11	-896
+Farf	M	0237	Ort	D66A643-7	 	            Ni Ri Wa 		220	Wild	F4 V D	{ -2 }	(850+2)	[7468]	BC	9	80
+Farf	M	0240	Velpore	EA99000-8	 	           Di 		000	Wild	F8 V D	{ -3 }	(600+1)	[0000]	B	9	6
+Farf	A	0301	Iajerekl	D548000-6	 	            Di 		004	Wild	M0 V M6 V D	{ -3 }	(800+3)	[0000]	B	8	24
+Farf	A	0308	Drprent	E534000-0	 	       Da     Ba 		013	Wild	G7 III M2 V	{ -3 }	(900-1)	[0000]	B	10	-9
+Farf	A	0310	Pie'a	C200331-A	 	            Lo Va 		500	Wild	M4 II M0 V	{ 0 }	(820+4)	[3367]	B	7	64
+Farf	E	0311	Tlabratl	E68347C-2	 	           Ni 		202	Wild	M2 V M5 V	{ -3 }	(630+1)	[4167]	B	7	18
+Farf	E	0312	Shaapl	D6A0797-8	 	           (ENIL)  He (ENIL)		814	Wild	K4 IV M3 V	{ -2 }	(F6A-1)	[8537]	B	12	-900
+Farf	E	0315	Zdiplil	D672000-6	 	           Di He 		013	Wild	M0 V	{ -3 }	(700+1)	[0000]	B	9	7
+Farf	I	0322	Carcosa	X400000-0	 	      Fo      Ba Va 		011	Wild	F1 III M3 V D	{ -3 }	(200+2)	[0000]	B	5	4
+Farf	I	0324	Pleroo	BA86646-6	 	             Ag Ri Ni 		132	Wild	M1 V	{ 1 }	(852-4)	[6766]	BC	10	-320
+Farf	I	0326	Bytar	X435000-E	 	           Di 		001	Wild	K8 V	{ -1 }	(500-3)	[0000]	B	9	-15
+Farf	I	0327	Mitra	B9757AC-A	 	           (NIL)  Ag Pi (NIL)		403	Wild	M3 V	{ 3 }	(A67+4)	[7A3A]	BCD	9	1680
+Farf	I	0329	Al-Jebel	A430400-C	 	     Da        De Ni Po 		301	Wild	G7 V	{ 1 }	(735-2)	[457D]	B	7	-210
+Farf	M	0332	Charon	X542000-0	 	           Ba He Po 		020	Wild	G8 V	{ -3 }	(200-1)	[0000]	B	11	-2
+Farf	M	0334	Ralcoan	A78268A-9	 	        (NIL)  Ni Ri 		824	Wild	F3 V	{ 1 }	(F55+1)	[875B]	BC	17	375
+Farf	M	0340	Onada	B767479-A	 	            Ga Ni Pa 		200	Wild	F6 V D	{ 1 }	(836-5)	[255B]	Bc	6	-720
+Farf	A	0401	Etsseltses	E598000-5	 	        Droy3     Di 		024	Wild	F7 III M3 V	{ -3 }	(500+1)	[0000]	B	15	5
+Farf	A	0406	Vibrie	B424642-C	 	         (NIL)  Ni 		904	Wild	K6 V	{ 1 }	(D54+4)	[777B]	B	12	1040
+Farf	A	0409	Olabl	C000499-9	 	             As Va Ni 		802	Wild	G6 V	{ -1 }	(932+4)	[639C]	B	6	216
+Farf	A	0410	Petszdeneh	B654433-8	 	           Ni Pa 		322	Wild	M2 V M5 V	{ -1 }	(A35+1)	[2378]	Bc	7	150
+Farf	E	0411	Chiafchti	X430000-7	 	           De Di Po 		014	Wild	M0 V	{ -3 }	(600-1)	[0000]	B	10	-6
+Farf	E	0412	Iatsoprrel	E591000-0	 	           Ba He 		010	Wild	M0 V	{ -3 }	(500-3)	[0000]	B	12	-15
+Farf	E	0414	Drrshapl	EA7A000-0	 	           Ba Oc 		014	Wild	F2 IV	{ -3 }	(400-1)	[0000]	B	13	-4
+Farf	E	0415	Lochtiakr	E696000-0	 	           Ba 		002	Wild	M1 V	{ -3 }	(500+1)	[0000]	B	12	5
+Farf	E	0416	Zdichiaeshda	E310000-0	 	           Ba 		005	Wild	G4 V M7 V	{ -3 }	(800-2)	[0000]	B	13	-16
+Farf	E	0419	Mei	X422000-B	 	           (NIL)  Di He Po 		005	Wild	M1 V	{ -1 }	(F00+1)	[0000]	B	12	15
+Farf	E	0420	Encheishe	E433648-6	 	              Na Px Po Ni 		212	Wild	K8 V M6 V	{ -3 }	(851-5)	[8379]	B	7	-200
+Farf	I	0425	Manchu	E000000-D	 	             As Va Di 		011	Wild	K8 V M6 V D	{ -1 }	(400-1)	[0000]	B	6	-4
+Farf	I	0426	Kretakios	E998000-6	 	            Di 		011	Wild	M8 III	{ -3 }	(600-5)	[0000]	B	11	-30
+Farf	I	0428	Maried	C656688-7	 	           Ag Ga Ni 		301	Wild	G0 V	{ -1 }	(851-2)	[8556]	BC	9	-80
+Farf	I	0430	Atlantis	E76899C-6	 	      Pz    (NIL)  Hi Pr (NIL)		611	Wild	F0 V	{ -1 }	(B83+3)	[B856]	BcE	8	792
+Farf	M	0434	Zherlicka	A8668BA-C	 	          (NIL)  Ga Pa Ri Ph (NIL)		424	Wild	F9 V D	{ 3 }	(H7B+1)	[8B4C]	BcCe	17	1309
+Farf	M	0435	Zephron	B6518A9-A	 	         (NIL)  Ph Po (NIL)		814	Wild	G9 V	{ 2 }	(G7A-3)	[5A76]	Be	12	-3360
+Farf	M	0436	Mamnon	B5838A8-A	 	         (NIL)  Ph Ri (NIL)		320	Wild	F3 V D	{ 3 }	(C79-3)	[8B5B]	BCe	13	-2268
+Farf	M	0439	Thara	D678000-A	 	          (NIL)  Di 		024	Wild	G7 V	{ -1 }	(F00-1)	[0000]	B	13	-15
+Farf	M	0440	Endomin	B7658CD-A	 	           (NIL)  Ga Pa Ri Ph (NIL)		425	Wild	F3 V	{ 3 }	(H7E-4)	[5B4A]	BcCe	18	-6664
+Farf	A	0506	Dinotlbrrmsh	A636459-E	 	           Ni 		523	Wild	K4 V	{ 1 }	(D32-2)	[253A]	B	15	-156
+Farf	A	0507	Yiantsiensh	A7A3AA8-D	 	     Pz     (ENIL)  Fl Hi In (ENIL)		314	Wild	G7 V M9 V	{ 4 }	(H9D-1)	[6E5E]	BEf	14	-1989
+Farf	A	0508	Driar	E886000-0	 	           Ba Ga 		003	Wild	M2 V	{ -3 }	(800+1)	[0000]	B	12	8
+Farf	A	0509	Nezhiezh	E668000-9	 	             Di 		003	Wild	M2 V M9 V	{ -2 }	(A00+5)	[0000]	B	12	50
+Farf	A	0510	Iblents	X000758-7	 	        Fo        As Va Na Pi 		221	Wild	M0 V	{ -2 }	(965-3)	[8593]	BD	11	-810
+Farf	E	0519	Zdetsiz	C688598-9	 	       Da       Ag Pr Ni 		412	Wild	G0 V M6 V	{ 0 }	(A41+2)	[8537]	BcC	10	80
+Farf	E	0520	Shtichnebsta	E523000-0	 	           Ba Po 		003	Wild	M3 V	{ -3 }	(200+2)	[0000]	B	10	4
+Farf	I	0523	Sere	E631310-8	 	           Lo Po 		301	Wild	G1 V	{ -3 }	(820+2)	[1159]	B	9	32
+Farf	I	0524	Servaas	AA9797A-B	 	      Pz    (NIL)  Hi In (NIL)		511	Wild	M3 III M2 V	{ 4 }	(C8F-2)	[7D4E]	BEf	7	-2880
+Farf	I	0526	Dunsel	E7628BA-1	 	      Pz    (NIL)  Ph Ri (NIL)		522	Wild	F8 V	{ -1 }	(A75+1)	[9746]	BCe	14	350
+Farf	I	0528	Summer	A886624-C	 	             Ag Ri Ga Ni 		301	Wild	M0 V	{ 3 }	(959+1)	[196A]	BC	5	405
+Farf	I	0530	Roentgen	E8C7000-9	 	           Di Fl 		022	Wild	A8 V	{ -2 }	(900+1)	[0000]	B	10	9
+Farf	M	0533	Emorie	E651442-3	 	      Da      Ni Po 		203	Wild	F5 V	{ -3 }	(730+3)	[1143]	B	9	63
+Farf	M	0534	Sherzade	XA95000-A	 	            Di 		004	Wild	F6 V D	{ -1 }	(C00+3)	[0000]	B	13	36
+Farf	M	0537	Aemelius	E311000-9	 	           Di Ic 		004	Wild	G4 IV	{ -2 }	(B00+2)	[0000]	B	14	22
+Farf	A	0602	Jianehzdeneh	D313699-7	 	           Ic Na Ni 		100	Wild	G3 V	{ -3 }	(853+3)	[5335]	B	5	360
+Farf	A	0603	Zho'prer	XAD6774-2	 	        Fo  (NIL)  (NIL)		403	Wild	M2 III	{ -2 }	(965+1)	[2551]	B	9	270
+Farf	A	0606	Raplel	E552000-5	 	      Chir0      Di Po 		011	Wild	M3 V M8 V	{ -3 }	(600+3)	[0000]	B	8	18
+Farf	A	0609	Detsia	X99A000-E	 	           Di Wa 		000	Wild	M2 V	{ -1 }	(400-3)	[0000]	B	6	-12
+Farf	A	0610	Aehkeiqr	X544000-9	 	            Di 		004	Wild	G9 V	{ -2 }	(A00+1)	[0000]	B	11	10
+Farf	E	0611	Stonziats	D62A999-7	 	      Pz    (NIL)  Hi In (NIL)		603	Wild	M1 V M7 V	{ 0 }	(C87-4)	[6996]	BE	11	-2688
+Farf	E	0613	Yachblitlianj	B786774-8	W	            (NIL)  Ag Ri Ga (NIL)		803	Wild	M0 V M2 V	{ 3 }	(D6E-3)	[BA29]	BC	7	-3276
+Farf	E	0614	Jdezhsidlaj	E9D4454-8	 	            Ni 		514	Wild	G4 II	{ -3 }	(B32-5)	[6156]	B	12	-330
+Farf	E	0616	Pridrda	B42679E-A	 	          (NIL)  Pi (NIL)		114	Wild	G2 V	{ 2 }	(E6C-1)	[6967]	BD	13	-1008
+Farf	E	0617	Chtarpiv	E424000-A	 	         (NIL)  Di 		012	Wild	F6 V	{ -1 }	(C00+1)	[0000]	B	16	12
+Farf	E	0620	Zimbir	D400000-8	 	           Di Va 		001	Wild	M1 V	{ -3 }	(600-1)	[0000]	B	8	-6
+Farf	I	0623	Dreamland	C431647-9	 	              Na Px Po Ni 		112	Wild	M2 V	{ -1 }	(953+1)	[554A]	B	8	135
+Farf	I	0625	Tanner	A763979-6	 	     Pz    (NIL)  Hi Pr (NIL)		402	Wild	A7 V	{ 1 }	(B87-2)	[9A75]	BcE	9	-1232
+Farf	I	0630	Hali	X8A6000-B	 	        (ENIL)  Di Fl 		011	Wild	G7 V	{ -1 }	(A00-2)	[0000]	B	7	-20
+Farf	M	0631	Jellicoe	B774738-6	 	         Pz    (NIL)  Ag Pi (NIL)		804	Wild	F0 V	{ 1 }	(A68+1)	[4847]	BCD	15	480
+Farf	M	0634	Rondomin	B3117AA-8	 	             Ic Na Pi 		320	Wild	M1 V	{ 0 }	(B69-2)	[676B]	BD	10	-1188
+Farf	M	0636	Domitar	D543000-8	 	           Di Po 		001	Wild	F3 V	{ -3 }	(700+4)	[0000]	B	9	28
+Farf	M	0638	Meruritom	DBA2000-A	 	             Di Fl He 		013	Wild	K3 V	{ -1 }	(B00-1)	[0000]	B	11	-11
+Farf	M	0640	Balin	E000000-B	 	       RsG       As Va Di 		000	Wild	A7 V G7 V	{ -1 }	(500+1)	[0000]	B	7	5
+Farf	A	0702	Oviedavla	A7876AC-7	 	             Ag Ri Ga Ni 		624	Wild	M0 V M1 V M7 V	{ 1 }	(856-5)	[A716]	BC	11	-1200
+Farf	A	0707	Bintie	EA8A000-0	 	           Ba Oc 		022	Wild	M4 II M7 V	{ -3 }	(900+1)	[0000]	B	13	9
+Farf	E	0712	Yopliabr	E779000-5	 	           (NIL)  Di 		000	Wild	M1 V	{ -3 }	(A00+1)	[0000]	B	11	10
+Farf	E	0714	Ieantsoz	B7B08BE-A	W	         (ENIL)  He Ph (ENIL)		205	Wild	G5 V M4 V	{ 3 }	(F78+1)	[AB47]	Be	10	840
+Farf	E	0716	Adlshtadl	A411556-F	 	           Ic Ni 		304	Wild	K1 V	{ 1 }	(B44+5)	[565H]	B	11	880
+Farf	I	0722	Drako	B86599B-8	 	    Pz     (NIL)  Ga Hi Pr (NIL)		612	Wild	M2 V	{ 1 }	(D89+1)	[DA46]	BcE	8	936
+Farf	I	0727	Nehagen	A67798B-9	 	         (NIL)  Hi In (NIL)		321	Wild	G7 V	{ 3 }	(D8B-1)	[AC37]	BE	8	-1144
+Farf	I	0730	Groneitz	C6967B8-5	 	           (NIL)  Ag Pi (NIL)		422	Wild	F6 V	{ 0 }	(967-3)	[A737]	BCD	12	-1134
+Farf	M	0732	Dingus	E776000-5	 	           Di 		002	Wild	G7 V	{ -3 }	(400+3)	[0000]	B	10	12
+Farf	M	0734	Ichita	C582774-8	 	         (NIL)  Ri (NIL)		423	Wild	F7 V D	{ 0 }	(E68+2)	[4757]	BC	17	1344
+Farf	M	0736	Hectalus	D424000-8	 	           Di 		013	Wild	M1 V M4 V	{ -3 }	(B00-1)	[0000]	B	9	-11
+Farf	M	0738	Dunkel	E866000-9	 	            Di Ga 		000	Wild	F4 V D	{ -2 }	(600-1)	[0000]	B	10	-6
+Farf	M	0740	Osmice	B432889-B	 	           (NIL)  Na Po Ph (NIL)		305	Wild	M3 V	{ 2 }	(F78-5)	[7A2B]	Be	15	-4200
+Farf	A	0805	Odrkliapr	D9A6000-8	 	           Di Fl 		023	Wild	M2 V	{ -3 }	(B00+2)	[0000]	B	12	22
+Farf	A	0809	Ku Pryuld	D56669C-5	 	       An Da ChirW       Ag Ri Ni 		114	Wild	M2 V	{ -1 }	(853-1)	[5533]	BC	17	-120
+Farf	E	0815	N'dalambihn	D726000-8	 	           Di 		004	Wild	G9 V	{ -3 }	(900+2)	[0000]	B	16	18
+Farf	E	0818	Danodild	E100000-7	 	            Di Va 		020	Wild	K6 V	{ -3 }	(800+1)	[0000]	B	8	8
+Farf	E	0819	Mirihnit	X423000-B	 	           Di Po 		010	Wild	M2 V	{ -1 }	(500-3)	[0000]	B	6	-15
+Farf	I	0827	Psagin	A101772-C	 	               Ic Va Na Pi 		110	Wild	F2 IV M5 V	{ 2 }	(96D-1)	[696F]	BD	9	-702
+Farf	M	0832	Wulp-PQ	X582000-0	 	           Ba 		012	Wild	F8 V D	{ -3 }	(200+1)	[0000]	B	14	2
+Farf	M	0834	Endus	D778000-8	 	          (NIL)  Di 		021	Wild	F1 V D	{ -3 }	(E00+1)	[0000]	B	11	14
+Farf	M	0836	Magnias	B6856AA-A	 	             Ag Ri Ga Ni 		402	Wild	F4 V D	{ 3 }	(A55+3)	[6928]	BC	11	750
+Farf	M	0837	Polletus	X7B1000-B	 	             Di Fl He 		014	Wild	K7 V	{ -1 }	(C00+5)	[0000]	B	13	60
+Farf	M	0839	Allegrim	C565422-9	 	           Ni Pa 		303	Wild	F7 V D	{ -1 }	(935-4)	[4399]	Bc	11	-540
+Farf	B	0902	Kiav Ibl	E859000-5	 	            Di 		003	Wild	K3 V	{ -3 }	(800+1)	[0000]	B	12	8
+Farf	B	0903	Evrplach	E6749AA-5	 	      Pz    (NIL)  Hi In (NIL)		524	Wild	G2 V	{ 0 }	(B88+1)	[A926]	BE	11	704
+Farf	B	0908	Ultwar	D767000-6	 	       An Chir5       Di Ga 		004	Wild	M0 V M4 V	{ -3 }	(600+3)	[0000]	B	11	18
+Farf	B	0910	Lenj	A567631-9	 	             Ag Ri Ni 		511	Wild	M3 V	{ 2 }	(A54+2)	[985A]	BC	6	400
+Farf	F	0913	Gazbol	E556000-0	 	           Ba 		003	Wild	M0 V	{ -3 }	(200+3)	[0000]	B	15	6
+Farf	F	0915	Zehripan	X779000-9	 	           Di 		003	Wild	M0 V M3 V	{ -2 }	(B00-2)	[0000]	B	7	-22
+Farf	F	0917	Gerabh	D434000-A	 	           Di 		005	Wild	M3 V	{ -1 }	(800+3)	[0000]	B	10	24
+Farf	F	0918	Zihlzedhe	D867000-8	 	           Di Ga 		010	Wild	M0 V	{ -3 }	(500+2)	[0000]	B	8	10
+Farf	F	0919	Gilihlar	C40048B-8	 	           Ni Va 		210	Wild	F2 V	{ -2 }	(833+1)	[5239]	B	11	72
+Farf	J	0923	Oskol	X300000-7	 	      Fo      Di Va 		001	Wild	D	{ -3 }	(400-5)	[0000]	B	9	-20
+Farf	J	0929	Mackay	D5A3000-9	 	           Di Fl 		000	Wild	K0 IV M2 V	{ -2 }	(800+3)	[0000]	B	9	24
+Farf	N	0934	Clinton	E575000-8	 	           (NIL)  Di 		003	Wild	G9 V	{ -3 }	(D00-4)	[0000]	B	13	-52
+Farf	N	0936	Thacker	E594000-9	 	          (NIL)  Di 		003	Wild	G7 V M3 V	{ -2 }	(C00+1)	[0000]	B	14	12
+Farf	N	0938	Balume	X000000-B	 	             As Va Di 		001	Wild	M0 V M3 V	{ -1 }	(800-4)	[0000]	B	6	-32
+Farf	B	1002	Peqa'prnch	E683000-0	 	           Ba 		013	Wild	F1 V M0 V	{ -3 }	(400-3)	[0000]	B	12	-12
+Farf	B	1004	Fieedr	X54197C-3	 	      Fo      (NIL)  He Hi In Po (NIL)		900	Wild	M1 V M2 V	{ 0 }	(C8A+3)	[8932]	BE	11	2880
+Farf	B	1005	Ovrainj	E94A000-B	 	      An Da      Di Wa 		033	Wild	M2 V M2 V	{ -1 }	(D00-1)	[0000]	B	14	-13
+Farf	B	1007	Jashashtiaz	E557000-0	 	           Ba 		012	Wild	M1 III M9 V	{ -3 }	(600-2)	[0000]	B	9	-12
+Farf	B	1009	Lengamihm	C856400-7	 	           Ga Ni Pa 		704	Wild	K1 V	{ -2 }	(730+1)	[4257]	Bc	12	21
+Farf	F	1011	Bangehk	E310000-9	 	           Di 		000	Wild	M1 V	{ -2 }	(500+2)	[0000]	B	5	10
+Farf	F	1012	Zeyr	D000000-9	 	             As Va Di 		023	Wild	M2 V	{ -2 }	(A00-2)	[0000]	B	16	-20
+Farf	F	1013	Dihmir	E537789-6	 	          (NIL)  (NIL)		300	Wild	K7 II M8 V	{ -2 }	(967+1)	[6514]	B	7	378
+Farf	F	1015	Tehngu	D779000-9	 	           Di 		012	Wild	M1 V	{ -2 }	(800+5)	[0000]	B	16	40
+Farf	F	1018	Zehlado	D3107AA-8	 	             Na Pi 		303	Wild	G5 V M0 V	{ -2 }	(C69+1)	[4549]	BD	12	648
+Farf	J	1021	Falkirk	E100000-0	 	           Ba Va 		001	Wild	A8 IV D K5 V M7 V	{ -3 }	(200+1)	[0000]	B	5	2
+Farf	J	1024	Amristar	D593000-7	 	           Di 		001	Wild	G8 V	{ -3 }	(800-3)	[0000]	B	8	-24
+Farf	J	1026	Tinahely	B76A773-B	 	         (NIL)  Ri Wa (NIL)		401	Wild	K3 V	{ 3 }	(A6F+3)	[6A79]	BC	12	2700
+Farf	J	1027	Odugama	C651433-9	 	            Ni Po 		300	Wild	F7 V	{ -1 }	(730+1)	[1386]	B	9	21
+Farf	J	1029	Freemantle	X380000-0	 	      An      Ba De 		000	Wild	G4 V	{ -3 }	(200+2)	[0000]	B	8	4
+Farf	N	1032	Secundus	B54067A-A	 	              De He Ni Po 		130	Wild	M0 III	{ 1 }	(B52+1)	[478C]	B	11	110
+Farf	B	1101	Ienji	E423000-D	 	           (NIL)  Di Po 		003	Wild	M1 V M6 V	{ -1 }	(D00+1)	[0000]	B	11	13
+Farf	B	1104	Vestilrnz	E777000-7	 	             Di 		002	Wild	F2 V M6 V	{ -3 }	(700-2)	[0000]	B	14	-14
+Farf	B	1106	Piadopr	D9A6000-8	 	      Da      Di Fl 		014	Wild	M1 V	{ -3 }	(C00+1)	[0000]	B	10	12
+Farf	B	1108	Irihdira	C582453-A	 	           Ni 		413	Wild	G6 V M5 V	{ 0 }	(A32+1)	[345D]	B	7	60
+Farf	F	1118	Barini	EAA6000-8	 	            Di Fl 		012	Wild	M0 V M1 V	{ -3 }	(A00-1)	[0000]	B	13	-10
+Farf	J	1122	Sevilla	E540450-8	 	             De He Ni Po 		101	Wild	F4 V	{ -3 }	(730+1)	[5115]	B	5	21
+Farf	J	1123	Katano	D420000-A	 	             De He Di Po 		000	Wild	F2 IV D	{ -1 }	(400-1)	[0000]	B	10	-4
+Farf	J	1125	Lac Remi	C9648AA-4	 	       Pz     (NIL)  Pa Ri Ph (NIL)		401	Wild	M2 V	{ 0 }	(A78-2)	[5861]	BcCe	6	-1120
+Farf	J	1126	McKne's World	X652000-9	 	           Di Po 		000	Wild	G4 V	{ -2 }	(700+2)	[0000]	B	5	14
+Farf	J	1127	Bulawayo	D886410-7	 	             Ga Ni Pa 		301	Wild	G8 V	{ -3 }	(730+2)	[1192]	Bc	6	42
+Farf	J	1129	Katherina	E430000-C	 	     RsD       De Di Po 		001	Wild	M3 III	{ -1 }	(600-1)	[0000]	B	10	-6
+Farf	N	1135	Foxe	E521000-C	 	           Di He Po 		013	Wild	M2 V	{ -1 }	(B00+2)	[0000]	B	15	22
+Farf	N	1137	Lindsay	A6798DD-D	S	      Pz    (NIL)  Ph Pi (NIL)		123	Wild	F1 III	{ 2 }	(F77-4)	[9A1G]	BDe	11	-2940
+Farf	N	1140	Norris	A59698A-B	 	         (NIL)  Hi In (NIL)		404	Wild	F5 V M5 V	{ 4 }	(F8B+1)	[AD69]	BEf	8	1320
+Farf	B	1201	Toz	E788000-0	 	           Ba 		012	Wild	M3 V	{ -3 }	(300+1)	[0000]	B	13	3
+Farf	B	1210	Dadharinend	B000473-9	 	       An       As Va Ni 		201	Wild	K9 V	{ 0 }	(734+5)	[443A]	B	14	420
+Farf	F	1211	U'kihr	B567744-9	 	           (NIL)  Ag Ri (NIL)		502	Wild	K1 V M8 V	{ 3 }	(B6C+1)	[7A5A]	BC	13	792
+Farf	F	1212	N'denes	C6479EE-6	 	         (NIL)  Hi In (NIL)		113	Wild	M3 V	{ 1 }	(B86-3)	[8A48]	BE	16	-1584
+Farf	F	1217	Rosundal	E634000-0	 	           Ba 		000	Wild	G7 V	{ -3 }	(200+1)	[0000]	B	12	2
+Farf	F	1218	Atssis	E413000-9	 	       Chir0      Di Ic 		004	Wild	M1 V M8 V	{ -2 }	(C00+1)	[0000]	B	13	12
+Farf	F	1219	Remaldo	X303000-A	 	             Di Ic Va 		005	Wild	M1 V	{ -1 }	(800-4)	[0000]	B	12	-32
+Farf	J	1227	Afellahlah	A6659EG-C	 	      Pz     (NIL)  Ga Hi Pr (NIL)		401	Wild	F0 V M1 V	{ 3 }	(C89+4)	[9C5C]	BcE	9	3456
+Farf	J	1230	Encrucijada	X000000-0	 	             As Va Ba 		001	Wild	A6 V K2 V M1 V	{ -3 }	(200+1)	[0000]	B	7	2
+Farf	N	1231	Zelpha	A954996-B	 	        Pz   (NIL)  Hi (NIL)		502	Wild	M0 V M4 V M1 V	{ 3 }	(D8D+2)	[7C2E]	BE	10	2704
+Farf	N	1232	Primus	B57A789-9	 	          (NIL)  Pi Wa (NIL)		115	Wild	M1 V	{ 1 }	(F66+1)	[6895]	BD	11	540
+Farf	N	1233	Quarcus	B957877-9	 	          (NIL)  Pa Ph (NIL)		304	Wild	F5 V M0 V	{ 1 }	(E7A+5)	[6959]	Bce	11	4900
+Farf	N	1235	Thorn	A6327A9-B	S	           (NIL)  Na Po (NIL)		401	Wild	M0 V	{ 2 }	(A67+3)	[791D]	B	7	1260
+Farf	N	1237	Chatsworth	A381500-B	 	           Ni Pr 		200	Wild	M2 V	{ 1 }	(747-1)	[6637]	Bc	7	-196
+Farf	N	1238	Haladon	A765984-C	 	      Pz     (NIL)  Ga Hi Pr (NIL)		503	Wild	M3 V M6 V	{ 3 }	(E8A-3)	[AC2E]	BcE	7	-3360
+Farf	B	1305	Mrzhbal	E87A000-5	 	           Di Wa 		002	Wild	M3 V	{ -3 }	(800+2)	[0000]	B	9	16
+Farf	B	1309	N'dehralden	D887000-5	 	            Di Ga 		015	Wild	M0 V	{ -3 }	(600+1)	[0000]	B	13	6
+Farf	F	1317	Manarni	E542000-7	 	           Di He Po 		003	Wild	M1 V	{ -3 }	(700-2)	[0000]	B	15	-14
+Farf	F	1318	Beratemil	E787000-8	 	           Di Ga 		003	Wild	K4 V	{ -3 }	(800+4)	[0000]	B	15	32
+Farf	F	1320	Nule	D549000-B	 	           Di 		000	Wild	A4 V	{ -1 }	(500+1)	[0000]	B	9	5
+Farf	J	1321	Darien	X100000-0	 	           Ba Va 		000	Wild	A8 II D K6 V M1 V	{ -3 }	(200+1)	[0000]	B	5	2
+Farf	J	1324	Kaosiung	X6A0000-8	 	      Fo      Di He 		001	Wild	K4 V	{ -3 }	(800+2)	[0000]	B	13	16
+Farf	J	1326	Elyptiya	A664842-B	 	           (NIL)  Pa Ri Ph (NIL)		101	Wild	F7 V	{ 3 }	(B7C+2)	[8BA7]	BcCe	9	1848
+Farf	J	1329	Lachute	C767672-7	 	           (NIL)  Ag Ri Ga Ni 		800	Wild	M1 V	{ 0 }	(954+1)	[5636]	BC	6	180
+Farf	N	1335	Gosspach	E311000-8	 	           Di Ic 		003	Wild	M3 V M7 V	{ -3 }	(900-3)	[0000]	B	11	-27
+Farf	B	1404	Insviblienzh	D552000-A	 	           Di Po 		003	Wild	M2 V M9 V	{ -1 }	(900-2)	[0000]	B	10	-18
+Farf	B	1407	Yanelomehkagh	C5508AA-5	 	         (NIL)  De Ph Po (NIL)		404	Wild	M0 V M6 V	{ -1 }	(A76+1)	[7735]	Be	17	420
+Farf	B	1408	Rehnuna	E633778-6	 	           (NIL)  Na Po (NIL)		100	Wild	M1 V	{ -2 }	(967-1)	[A517]	B	10	-378
+Farf	B	1410	Nehrilzas	E633000-0	 	           Ba Po 		004	Wild	M2 V	{ -3 }	(200+1)	[0000]	B	11	2
+Farf	F	1411	Gihlezeni	X302000-7	 	             Di Ic Va 		004	Wild	M2 V	{ -3 }	(700+5)	[0000]	B	17	35
+Farf	F	1415	Kehr	D546000-6	 	           Di 		024	Wild	G0 V	{ -3 }	(500+2)	[0000]	B	16	10
+Farf	J	1422	Mafelong	X490000-0	 	             Ba De He 		001	Wild	M3 III M1 V	{ -3 }	(200-1)	[0000]	B	11	-2
+Farf	J	1427	Schwennin	D572000-A	 	           Di He 		001	Wild	G6 V	{ -1 }	(900+3)	[0000]	B	7	27
+Farf	J	1428	Krugerschorp	C887578-9	 	              Ag Pr Ga Ni 		101	Wild	M3 V	{ 0 }	(842+1)	[854B]	BcC	9	64
+Farf	N	1432	Tertius	D541000-9	 	            Di He Po 		005	Wild	M2 V	{ -2 }	(B00-1)	[0000]	B	9	-11
+Farf	N	1434	Bosak	A635659-E	 	    (Bosak)    (NIL)  Ni Px 		934	Wild	M2 V	{ 1 }	(G54+2)	[7759]	B	17	640
+Farf	N	1437	Skela	B564579-B	 	             Ag Pr Ni 		904	Wild	M1 V	{ 2 }	(C44-5)	[778A]	BcC	12	-960
+Farf	N	1439	Porton	B000579-A	 	             As Va Ni 		310	Wild	M3 V	{ 1 }	(847-4)	[765D]	B	6	-896
+Farf	B	1502	Ekraylk	C546888-5	 	       Chir1      (NIL)  Pa Pi Ph (NIL)		403	Wild	G0 V M5 V	{ -1 }	(A78+1)	[8758]	BcDe	12	560
+Farf	B	1503	Elachblie	E577000-7	 	       Da     Di 		004	Wild	G4 V M8 V	{ -3 }	(400-5)	[0000]	B	10	-20
+Farf	B	1506	Tese'jdietl	C786538-9	 	             Ag Pr Ga Ni 		905	Wild	K6 V	{ 0 }	(D46+1)	[555C]	BcC	15	312
+Farf	F	1511	N'nene	X512000-8	 	           Di Ic 		003	Wild	M2 V M2 V	{ -3 }	(600-2)	[0000]	B	10	-12
+Farf	F	1512	Zeyiri	E420000-C	 	             De He Di Po 		020	Wild	M0 V	{ -1 }	(600-2)	[0000]	B	8	-12
+Farf	F	1516	Bolzan	X310000-7	 	       Fo     Di 		023	Wild	G7 V	{ -3 }	(700-2)	[0000]	B	14	-14
+Farf	F	1519	Lunge	C55647A-6	 	           Ni Pa 		303	Wild	A3 V M9 V	{ -2 }	(730+5)	[1226]	Bc	10	105
+Farf	J	1527	Antalya	E763000-8	 	            Di 		001	Wild	K6 V M0 V	{ -3 }	(900-1)	[0000]	B	8	-9
+Farf	J	1529	Chate Leavult	C6619CC-9	 	         (NIL)  Hi Pr (NIL)		200	Wild	K4 V	{ 1 }	(B89-2)	[6A5A]	BcE	4	-1584
+Farf	N	1535	Hollader	E686588-7	 	             Ag Pr Ga Ni 		314	Wild	K2 III M3 V	{ -2 }	(741-3)	[6377]	BcC	18	-84
+Farf	N	1537	Talak	D68787A-6	 	           (NIL)  Ga Pa Ri Ph (NIL)		111	Wild	G7 III	{ -1 }	(A77-1)	[A775]	BcCe	5	-490
+Farf	N	1539	Hyperbelon	A566756-B	 	             (NIL)  Ag Ri (NIL)		905	VaRo	G8 V M9 V	{ 4 }	(F6C+1)	[7B27]	BCf	18	1080
+Farf	B	1604	Doklinchi	X787956-2	 	     Fo     (NIL)  Ga Hi Pr (NIL)		414	Wild	M1 V M6 V	{ -1 }	(B88-3)	[9815]	BcE	15	-2112
+Farf	B	1610	Mulzihnene	E424000-9	 	           Di 		000	Wild	K4 V M4 V	{ -2 }	(800-4)	[0000]	B	8	-32
+Farf	F	1617	Nalzul	D435477-8	 	          Ni Px 		110	Wild	G1 V M1 V	{ -3 }	(932+1)	[517B]	B	6	54
+Farf	F	1619	Bazamir	E8A3000-8	 	         (ENIL)  Di Fl 		010	Wild	F7 V M2 V	{ -3 }	(B00-4)	[0000]	B	10	-44
+Farf	J	1623	Sint Amsbern	XB76000-0	 	           Ba 		001	Wild	F2 IV D	{ -3 }	(200-2)	[0000]	B	10	-4
+Farf	J	1625	Azut Leriz	X766000-0	 	           Ba Ga 		001	Wild	G0 V D	{ -3 }	(200+2)	[0000]	B	7	4
+Farf	N	1632	DeBeers	D553000-5	 	      Da       Di Po 		024	VaRo	K3 IV M7 V	{ -3 }	(500-1)	[0000]	B	14	-5
+Farf	N	1636	Locat	X541000-5	 	     RsA       Di He Po 		000	Wild	M6 II K2 V	{ -3 }	(500+1)	[0000]	B	8	5
+Farf	N	1638	Protalus	B73458B-A	 	           Ni 		303	Wild	M3 V	{ 1 }	(A47-2)	[766C]	B	12	-560
+Farf	N	1639	Forbus	X546000-9	 	            Di 		003	VaRo	M1 V M6 V	{ -2 }	(900+5)	[0000]	B	10	45
+Farf	C	1702	Flievl Al	X435000-B	 	           Di 		002	Wild	M2 V	{ -1 }	(A00+2)	[0000]	B	5	20
+Farf	C	1706	Iavnobrplel	B200530-D	W	            Ni Va 		600	Wild	M7 III D	{ 2 }	(845-1)	[571A]	B	7	-160
+Farf	C	1707	Raprtsinsh	C532998-A	 	           (NIL)  Hi Na Po (NIL)		104	Wild	M5 III	{ 2 }	(F87+3)	[8B59]	BE	14	2520
+Farf	C	1710	Lilzen	D534000-6	 	           Di 		003	Wild	M1 V	{ -3 }	(300+5)	[0000]	B	13	15
+Farf	G	1712	Nesara	C420554-A	 	              De He Ni Po 		325	Wild	G3 III	{ 0 }	(F46-1)	[855C]	B	20	-360
+Farf	G	1714	Bale	D9B6000-8	 	           Di Fl 		010	Wild	M0 V	{ -3 }	(800-5)	[0000]	B	9	-40
+Farf	G	1716	Berebirenol	B55078A-A	 	      Pz    (NIL)  De Po (NIL)		100	Wild	M1 V M9 V M8 V	{ 2 }	(96A-4)	[393D]	B	9	-2160
+Farf	G	1717	Tihrum	D310747-7	 	             Na Pi 		104	Wild	M1 V	{ -2 }	(964-3)	[7556]	BD	13	-648
+Farf	G	1719	N'dangelun	B78767A-7	 	          (NIL)  Ag Ri Ga Ni 		315	Wild	K8 V	{ 1 }	(952+2)	[5777]	BC	17	180
+Farf	G	1720	Guldire	E997000-B	 	        Pz   (NIL)  Di 		021	Wild	M0 V M1 V	{ -1 }	(F00+3)	[0000]	B	16	45
+Farf	K	1722	Morlay	D798000-5	 	            Di 		024	Wild	G9 V	{ -3 }	(700+1)	[0000]	B	15	7
+Farf	K	1723	Fenner	X430000-D	 	           De Di Po 		004	Wild	A2 V D	{ -1 }	(900-3)	[0000]	B	17	-27
+Farf	K	1724	Excape	D300434-9	 	           Ni Va 		924	Wild	G9 V M8 V	{ -2 }	(D34+1)	[8239]	B	14	156
+Farf	O	1731	Thenstor	X9C6000-A	 	           Di Fl 		012	VaRo	M2 V M9 V	{ -1 }	(900-3)	[0000]	B	14	-27
+Farf	O	1732	Iraaz	C5569BC-6	 	       Pz    (NIL)  Hi (NIL)		100	VaRo	K8 V	{ 0 }	(B85+4)	[8963]	BE	7	1760
+Farf	O	1734	Desaekhe	B663775-9	 	        Pz   (NIL)  Ri (NIL)		102	Wild	F1 II	{ 2 }	(968+3)	[594D]	BC	5	1296
+Farf	O	1736	Kath	C67578A-5	 	           (NIL)  Ag Pi (NIL)		314	VaRo	K5 V	{ 0 }	(966-2)	[6779]	BCD	12	-648
+Farf	C	1801	Zdienjbats	B554554-C	 	           Ag Ni 		204	Wild	M1 V	{ 2 }	(948+3)	[172F]	BC	17	864
+Farf	C	1802	Amiezhdikl	B5729EJ-C	 	     Pz     (NIL)  He Hi In (NIL)		504	Wild	G3 V	{ 4 }	(F8C-4)	[BD9D]	BEf	15	-5760
+Farf	C	1803	Daz Rli	E74A000-8	 	           Di Wa 		025	Wild	M2 V	{ -3 }	(C00+4)	[0000]	B	13	48
+Farf	C	1806	Ezhdiaprtsr	XAB6000-8	 	           Di Fl 		005	Wild	G7 V M1 V	{ -3 }	(D00+1)	[0000]	B	9	13
+Farf	C	1807	Siebr Al	E542000-0	 	           Ba He Po 		010	Wild	K5 V	{ -3 }	(400-2)	[0000]	B	4	-8
+Farf	C	1810	Uyure	X746000-5	 	        Chir1     Di 		003	Wild	F4 V	{ -3 }	(700+2)	[0000]	B	12	14
+Farf	G	1813	Itsuya	XA78000-7	 	        Chir0     Di 		002	Wild	M2 V	{ -3 }	(700-1)	[0000]	B	11	-7
+Farf	G	1815	D'rarayi	E585000-6	 	           Di 		002	Wild	G5 V M5 V	{ -3 }	(300-3)	[0000]	B	13	-9
+Farf	G	1816	Tetwumsid	B522755-B	 	        Chir1      (NIL)  He Na Pi Po (NIL)		304	Wild	M0 V	{ 2 }	(D67-3)	[898C]	BD	11	-1638
+Farf	G	1820	Datosus	B310301-A	 	            Lo 		904	Wild	K9 V	{ 1 }	(A21+1)	[541A]	B	12	20
+Farf	K	1826	Eshaar	E6B4000-8	 	      (Eshaar hah)    (ENIL)  Di Fl 		021	Wild	K0 V	{ -3 }	(C00-1)	[0000]	B	5	-12
+Farf	K	1828	Zishilicti	EAA6000-A	 	      Da      Di Fl 		024	Wild	K7 V	{ -1 }	(E00-1)	[0000]	B	14	-14
+Farf	K	1830	Fafris	B6B4994-9	 	         (ENIL)  Fl Hi In (ENIL)		510	Wild	F6 V	{ 3 }	(C87+4)	[9C37]	BE	12	2688
+Farf	O	1832	Dansen	D545000-5	 	        Da      Di 		004	VaRo	G5 V	{ -3 }	(800-2)	[0000]	B	12	-16
+Farf	O	1833	Qarant	E558000-7	 	       Da      Di 		011	Wild	K1 V	{ -3 }	(400+1)	[0000]	B	4	4
+Farf	O	1835	Gniadek	B661AC9-B	 	       Pz   (NIL)  Hi (NIL)		110	VaRo	G7 V	{ 3 }	(D98+1)	[DD4B]	BE	11	936
+Farf	O	1836	Lazthar	D7A7000-A	 	            Di Fl 		023	VaRo	M0 V	{ -1 }	(C00+2)	[0000]	B	15	24
+Farf	O	1838	Harantz	A8859AA-B	 	      Pz     (NIL)  Ga Hi Pr (NIL)		120	VaRo	M0 V M0 V	{ 3 }	(D8D-4)	[AC39]	BcE	12	-5408
+Farf	C	1901	Driezakl	E544000-5	 	        Da     Di 		003	Wild	M2 V	{ -3 }	(800-1)	[0000]	B	12	-8
+Farf	C	1902	Stiedr	A667579-8	 	             Ag Pr Ga Ni 		213	Wild	G3 IV M6 V	{ 0 }	(B46+5)	[653A]	BcC	14	1320
+Farf	C	1907	Chtedestaz	E668000-0	 	           Ba 		014	Wild	G2 V	{ -3 }	(800+1)	[0000]	B	9	8
+Farf	G	1911	Dib Helimon	E572000-0	 	           Ba He 		024	Wild	K6 V M5 V	{ -3 }	(200+5)	[0000]	B	14	10
+Farf	G	1914	Gishuhura	E544000-8	 	            Di 		004	Wild	M9 III	{ -3 }	(B00-1)	[0000]	B	11	-11
+Farf	K	1923	Bindar	X6A3000-A	 	           Di Fl 		001	Wild	F4 III	{ -1 }	(900+1)	[0000]	B	5	9
+Farf	K	1928	Uldor	A787A75-B	 	       Pz    (NIL)  Ga Hi (NIL)		320	Wild	F7 V	{ 3 }	(E9B-3)	[8D8B]	BE	12	-4158
+Farf	K	1929	Dloshl	B6979C9-A	 	      Pz    (NIL)  Hi In (NIL)		522	Wild	F7 V	{ 4 }	(F87-2)	[8D5E]	BEf	8	-1680
+Farf	K	1930	DiCule	E695000-5	 	            Di 		004	Wild	G4 V	{ -3 }	(800+4)	[0000]	B	14	32
+Farf	O	1932	Nomael	C767875-8	 	           (NIL)  Ga Pa Ri Ph (NIL)		500	VaRo	K4 IV M6 V	{ 0 }	(A7A-2)	[3884]	BcCe	5	-1400
+Farf	O	1934	Alzenei	A76889C-C	S	            (NIL)  Pa Ri Ph (NIL)		400	VaRo	G8 V M4 V	{ 3 }	(A78+1)	[6B5C]	BcCe	12	560
+Farf	O	1937	Zylanth	E100000-9	 	           Di Va 		003	VaRo	M0 V	{ -2 }	(700+1)	[0000]	B	12	7
+Farf	O	1938	Claveer	B550998-B	 	     Pz     (NIL)  De Hi Po (NIL)		333	Wild	K4 V M8 V M0 V	{ 3 }	(H88+1)	[9C6G]	BE	12	1088
+Farf	C	2002	Chtaiebr	E430000-0	 	            Ba De Po 		004	Wild	M1 V	{ -3 }	(900+1)	[0000]	B	8	9
+Farf	C	2003	Iekled	D551000-B	 	            Di Po 		000	Wild	M1 V M2 V	{ -1 }	(700-2)	[0000]	B	10	-14
+Farf	C	2004	Niaqi Iats	E6B4000-C	 	            Di Fl 		003	Wild	M0 V	{ -1 }	(B00-1)	[0000]	B	13	-11
+Farf	C	2005	Eenchtlibr	E422000-D	 	          (NIL)  Di He Po 		003	Wild	M3 V	{ -1 }	(C00-1)	[0000]	B	9	-12
+Farf	C	2008	Khai Zlin	C437420-8	 	           Ni 		623	Wild	M2 V M2 V	{ -2 }	(D30-1)	[5247]	B	13	-39
+Farf	C	2009	Dehpihrin	E533475-6	 	            Ni Po 		204	Wild	M0 V	{ -3 }	(630+2)	[4176]	B	11	36
+Farf	C	2010	Umashkadarshi	B514336-B	 	           Ic Lo 		315	Wild	G4 V	{ 1 }	(C21-1)	[548D]	B	17	-24
+Farf	G	2011	Zlemisedh	D301000-9	 	             Di Ic Va 		000	Wild	G3 V	{ -2 }	(300-3)	[0000]	B	12	-9
+Farf	G	2012	Nelzing	D78A775-3	 	      Pz    (NIL)  Ri Wa (NIL)		404	Wild	M2 V	{ -1 }	(966-1)	[6656]	BC	11	-324
+Farf	G	2014	Yereng	E565000-A	 	           Di 		005	Wild	M2 II D	{ -1 }	(A00+2)	[0000]	B	16	20
+Farf	G	2015	Gebhara	X420ACB-8	 	               (NIL)  De He Hi Na In Po (NIL)		513	Wild	M0 V	{ 0 }	(G98+2)	[EA2B]	BE	10	2304
+Farf	G	2016	Yarudhis	X7B2000-8	 	             Di Fl He 		004	Wild	M0 V	{ -3 }	(B00+3)	[0000]	B	15	33
+Farf	G	2017	Doyanen	D676000-7	 	           Di 		013	Wild	G5 V M3 V	{ -3 }	(400-2)	[0000]	B	10	-8
+Farf	G	2018	Raletela	D594000-A	 	            Di 		005	Wild	M1 V	{ -1 }	(D00+2)	[0000]	B	15	26
+Farf	G	2020	Dahasudaka	C88A579-6	 	     Da       Ni Pr Wa 		214	Wild	M5 II	{ -2 }	(740+1)	[5394]	Bc	11	28
+Farf	K	2021	Bigg's World	A79777B-7	 	           (NIL)  Ag Pi (NIL)		101	Wild	F7 V	{ 1 }	(C6B-1)	[7835]	BCD	8	-792
+Farf	K	2024	Zyra	A987886-8	 	       Pz     (NIL)  Pa Ri Ph (NIL)		200	Wild	F7 IV	{ 1 }	(A74-2)	[A96C]	BcCe	7	-560
+Farf	K	2027	Hearth	B556777-A	 	       Pz   (NIL)  Ag (NIL)		370	Wild	G4 V	{ 3 }	(G68+1)	[2A49]	BC	19	768
+Farf	K	2028	Ulintl	B543877-A	 	           (NIL)  Ph Pi Po (NIL)		520	Wild	F2 V	{ 2 }	(C79-2)	[CA8D]	BDe	14	-1512
+Farf	O	2031	Jenai	E85779A-4	 	         (NIL)  Ag Ga (NIL)		200	Wild	M8 II M9 V	{ -1 }	(967+1)	[A666]	BC	8	378
+Farf	O	2035	Nesbitt	C555978-8	 	         (NIL)  Hi (NIL)		523	VaRo	K2 V	{ 0 }	(H87-3)	[B9AA]	BE	13	-2856
+Farf	O	2037	Kraich	B3129B7-C	 	             Hi Ic Na In 		102	VaRo	M1 V	{ 4 }	(D88-2)	[6D4A]	BEf	10	-1664
+Farf	C	2101	Intsenchflar	C67499D-6	 	         (NIL)  Hi In (NIL)		201	Wild	F2 IV M5 V	{ 1 }	(B84+1)	[AA56]	BE	9	352
+Farf	C	2103	Stoenzh	E00047B-7	 	             As Va Ni 		311	Wild	M1 V	{ -3 }	(630-2)	[3167]	B	13	-36
+Farf	C	2108	Aderohdil	E510000-7	 	           Di 		024	Wild	K7 V M0 V	{ -3 }	(500-1)	[0000]	B	11	-5
+Farf	G	2111	Laldibu	C8D6799-9	 	          (NIL)  (NIL)		413	Wild	M3 V M3 V	{ 0 }	(D66+4)	[6797]	B	13	1872
+Farf	G	2112	Nikopelenos	D565000-9	 	           Di 		005	Wild	K9 V M5 V	{ -2 }	(A00-1)	[0000]	B	17	-10
+Farf	G	2113	Kehbily	D562000-6	 	           Di 		000	Wild	K3 V M3 V	{ -3 }	(500+1)	[0000]	B	5	5
+Farf	G	2117	Thinangar	D626755-8	 	         (NIL)  Pi (NIL)		224	Wild	M3 V	{ -2 }	(F64+3)	[3549]	BD	13	1080
+Farf	G	2118	M'rehng	C886741-3	 	           (NIL)  Ag Ri Ga (NIL)		203	Wild	M0 V	{ 1 }	(965-2)	[6895]	BC	14	-540
+Farf	G	2120	Zlayir	B00087B-C	 	       Pz         As Va Na Pi Ph 		404	Wild	M3 V	{ 2 }	(E7B+3)	[5A8C]	BDe	11	3234
+Farf	K	2122	Jacobi	E610000-0	 	           Ba 		002	Wild	M7 III D	{ -3 }	(200+1)	[0000]	B	9	2
+Farf	K	2125	Amanamanim	A574610-7	 	         (NIL)  Ag Ni 		300	Wild	G6 IV	{ 0 }	(C53-4)	[667A]	BC	7	-720
+Farf	K	2127	Agravaine	A500676-A	 	           Na Ni Va 		405	Wild	M2 V D	{ 1 }	(D56-3)	[872B]	B	9	-1170
+Farf	K	2129	Rellon	B883641-6	 	            Ni Ri 		113	Wild	G0 V	{ 0 }	(851-1)	[8686]	BC	11	-40
+Farf	O	2134	Mirayn	D989748-7	 	       (Mirani)   (NIL)  Ri (NIL)		201	VaRo	K2 V	{ -1 }	(969+1)	[5676]	BC	8	486
+Farf	O	2136	Kokkelen	B889887-B	 	         (NIL)  Ph Ri (NIL)		424	VaRo	K7 V	{ 3 }	(G7D+4)	[8B69]	BCe	14	5824
+Farf	O	2137	Kalebru	X66748C-0	 	     Fo       Ga Ni Pa 		224	VaRo	G4 V	{ -3 }	(630-1)	[6181]	Bc	17	-18
+Farf	O	2139	Fomor	E68A742-7	 	         (NIL)  Ri Wa (NIL)		424	VaRo	M3 V	{ -1 }	(964+1)	[764A]	BC	10	216
+Farf	O	2140	Amaoka	D585000-3	 	             Di 		003	Wild	M0 V	{ -3 }	(700-4)	[0000]	B	8	-28
+Farf	C	2204	Piad	D410000-9	 	           Di 		000	Wild	M0 V M2 V	{ -2 }	(500+1)	[0000]	B	7	5
+Farf	C	2205	Tsu	X564757-1	 	        An Fo Chir4    (NIL)  Ag Ri (NIL)		310	Wild	K8 V	{ 0 }	(969-4)	[6732]	BC	12	-1944
+Farf	C	2208	S'bumbar	C000855-A	 	               As Va Na Pi Ph 		115	Wild	F4 V	{ 1 }	(G76+2)	[495E]	BDe	14	1344
+Farf	C	2209	Bareri	C642ABB-8	 	      Pz      (NIL)  He Hi In Po (NIL)		313	Wild	M1 V M2 V	{ 1 }	(G97-2)	[DB5A]	BE	12	-2016
+Farf	G	2211	Mebihne	X556000-9	 	           Di 		000	Wild	K1 V M2 V	{ -2 }	(500-4)	[0000]	B	5	-20
+Farf	G	2214	N'genaranino	D5A0511-7	 	           He Ni 		224	Wild	K2 V	{ -3 }	(742+1)	[721A]	B	16	56
+Farf	G	2217	Ryala	E748000-9	 	            Di 		010	Wild	G3 V M1 V	{ -2 }	(800+3)	[0000]	B	7	24
+Farf	G	2218	Tildeh	E769000-A	 	           Di 		014	Wild	M1 V M2 V	{ -1 }	(900-1)	[0000]	B	10	-9
+Farf	K	2221	Bummer	XCCA000-B	 	           Di Fl 		002	Wild	M2 V	{ -1 }	(800+4)	[0000]	B	10	32
+Farf	K	2224	Wa-Lu	E572000-B	 	           Di He 		011	Wild	G6 III	{ -1 }	(900+1)	[0000]	B	7	9
+Farf	K	2225	Quitalos	A667858-C	 	           (NIL)  Ga Pa Ri Ph (NIL)		223	Wild	F2 V D	{ 3 }	(F78-2)	[5B3G]	BcCe	12	-1680
+Farf	K	2228	Garth	A66978A-A	 	          (NIL)  Ri (NIL)		422	Wild	F0 V D	{ 3 }	(D67+2)	[3A2D]	BC	11	1092
+Farf	O	2231	Shattur	D877000-6	 	            Di 		025	Wild	K3 V	{ -3 }	(800-3)	[0000]	B	15	-24
+Farf	O	2235	Jaer	C310879-7	 	       Pz       Na Pi Ph 		810	VaRo	M2 V M8 V	{ -1 }	(B79+1)	[6766]	BDe	9	693
+Farf	O	2240	Shadrai	B557876-8	 	        (NIL)  Pa Ph (NIL)		600	VaRo	K0 IV	{ 0 }	(B77+1)	[6849]	Bce	11	539
+Farf	C	2301	Zhdebro	B76A453-B	 	           Ni Wa 		124	Wild	K8 V	{ 1 }	(C34+2)	[355C]	B	16	288
+Farf	C	2302	Anschtets	A5799AB-C	W	         (NIL)  Hi In (NIL)		601	Wild	M3 V M8 V	{ 5 }	(C8B+4)	[BE8A]	BEf	5	4224
+Farf	C	2303	Dezshe'zdanj	C656746-7	 	      Pz    (NIL)  Ag Ga (NIL)		104	Wild	M1 V	{ 0 }	(969+1)	[4757]	BC	8	486
+Farf	G	2312	Gesonegh	D546000-9	 	        Da     Di 		002	Wild	K2 V M0 V	{ -2 }	(900+2)	[0000]	B	10	18
+Farf	G	2314	D'rehlz	B570403-9	 	       Da       De He Ni 		401	Wild	M1 V	{ 0 }	(934+1)	[247C]	B	11	108
+Farf	G	2315	Thapek	E577000-B	 	            Di 		002	Wild	F9 V M8 V	{ -1 }	(900+1)	[0000]	B	10	9
+Farf	K	2322	Pshtaijtlatl	A795877-9	S	          (NIL)  Pa Pi Ph (NIL)		904	Wild	F0 V	{ 1 }	(F79+3)	[795C]	BcDe	12	2835
+Farf	K	2323	Yakutz	A885858-C	 	           (NIL)  Ga Pa Ri Ph (NIL)		503	Wild	K5 V	{ 3 }	(D7C+1)	[7B3C]	BcCe	10	1092
+Farf	K	2328	Bloemtol	E7C3000-9	 	           Di Fl 		004	Wild	M0 II	{ -2 }	(C00+1)	[0000]	B	10	12
+Farf	O	2333	Price	E888000-8	 	             Di 		012	VaRo	K8 V	{ -3 }	(A00-2)	[0000]	B	9	-20
+Farf	O	2335	Winder	C966699-8	 	             Ag Ri Ni 		202	VaRo	G5 V	{ 0 }	(A53-1)	[7665]	BC	10	-150
+Farf	O	2336	Lelaek	A767620-A	 	             Ag Ri Ga Ni 		502	VaRo	A8 V	{ 3 }	(A58-2)	[6938]	BC	12	-800
+Farf	O	2340	Yster	D577000-C	 	            Di 		024	VaRo	M3 V	{ -1 }	(D00-1)	[0000]	B	17	-13
+Farf	C	2402	Eshfiadr	D537656-8	 	         (NIL)  Ni 		923	Wild	K3 V M9 V	{ -3 }	(E51-5)	[8388]	B	10	-350
+Farf	C	2403	Ansiblens	D787876-1	 	     Pz      (NIL)  Ga Pa Ri Ph (NIL)		813	Wild	F7 III	{ -1 }	(B75+1)	[B751]	BcCe	10	385
+Farf	C	2404	Zhdabrej	X6A3000-8	 	           Di Fl 		004	Wild	K4 V M8 V	{ -3 }	(A00+4)	[0000]	B	12	40
+Farf	C	2406	Avrqlonshie	E879000-0	 	           Ba 		001	Wild	K6 V M5 V M8 V	{ -3 }	(300+1)	[0000]	B	9	3
+Farf	C	2408	Zdal	E958000-0	 	           Ba 		005	Wild	M1 V M3 V	{ -3 }	(900+1)	[0000]	B	13	9
+Farf	C	2410	Shehrodis	B759476-C	 	           Ni 		403	Wild	M1 V	{ 1 }	(932+1)	[457C]	B	9	54
+Farf	G	2411	L'tindihr	E769000-5	 	           Di 		002	Wild	K3 V M0 V	{ -3 }	(400+1)	[0000]	B	12	4
+Farf	G	2412	R'lely	X420000-B	 	             De He Di Po 		013	Wild	M0 V M1 V	{ -1 }	(800-1)	[0000]	B	13	-8
+Farf	G	2416	Dehb Nemo	X67A000-A	 	           Di Wa 		014	Wild	M2 V	{ -1 }	(B00+1)	[0000]	B	11	11
+Farf	K	2422	Caractacalla	A79399A-A	NW	       Pz    (NIL)  Hi In (NIL)		303	Wild	G6 V	{ 5 }	(F89+1)	[CE2D]	BEf	14	1080
+Farf	K	2424	Calamain	A000356-C	W	       Da        As Va Lo 		911	VaRo	M2 V	{ 2 }	(822-4)	[357C]	B	8	-128
+Farf	K	2425	Kintara	A554513-A	 	           Ag Ni 		501	VaRo	A3 V	{ 2 }	(943+4)	[273C]	BC	10	432
+Farf	K	2428	Numicta	D9A7A8C-8	 	          (ENIL)  Fl Hi In (ENIL)		401	VaRo	F9 V	{ 0 }	(D98+1)	[8A38]	BE	11	936
+Farf	O	2433	Welles	E642000-5	 	           Di He Po 		001	VaRo	M2 V	{ -3 }	(800-1)	[0000]	B	8	-8
+Farf	O	2435	Assair	X554000-6	 	           Di 		000	VaRo	F4 V M4 V	{ -3 }	(500-4)	[0000]	B	6	-20
+Farf	O	2436	Sorens	B5998A8-7	 	         (NIL)  Ph Pi (NIL)		300	VaRo	G5 V	{ 0 }	(B72-2)	[682B]	BDe	7	-308
+Farf	O	2439	Thars	B6429AB-B	 	           (NIL)  He Hi In Po (NIL)		324	VaRo	M3 V	{ 4 }	(H8C+4)	[AD6D]	BEf	11	6528
+Farf	D	2503	Vrezhdafi	D541000-5	 	           Di He Po 		011	Wild	M3 V	{ -3 }	(800-1)	[0000]	B	9	-8
+Farf	D	2504	Ientspifl	A555744-C	 	         (NIL)  Ag (NIL)		202	Wild	M1 V M1 V	{ 3 }	(B68+3)	[6A6B]	BC	10	1584
+Farf	D	2506	Tlezh A'	E548000-5	 	            Di 		004	Wild	K6 V M0 V	{ -3 }	(800+3)	[0000]	B	10	24
+Farf	H	2512	Afne	E652479-6	 	            Ni Po 		103	Wild	M2 V	{ -3 }	(632+4)	[4158]	B	13	144
+Farf	H	2515	Zdihl	B311687-8	 	           Ic Na Ni 		303	Wild	F2 V M6 V	{ -1 }	(B51+1)	[756B]	B	15	55
+Farf	L	2521	Aimar	E974000-5	 	            Di 		001	Wild	F4 III	{ -3 }	(800-4)	[0000]	B	11	-32
+Farf	L	2523	Pergatory	E7A9000-B	 	           Di Fl 		011	Wild	K3 V	{ -1 }	(700+1)	[0000]	B	11	7
+Farf	L	2524	Naro-Trevor	A655442-9	 	           Ga Ni Pa 		701	VaRo	K8 V	{ 0 }	(833-2)	[3469]	Bc	11	-144
+Farf	L	2525	Faro-Trevor	A7677AC-8	 	           (NIL)  Ag Ri Ga (NIL)		300	VaRo	K3 IV	{ 2 }	(96A-2)	[6996]	BC	10	-1080
+Farf	L	2526	Shadowsand	E000000-B	 	             As Va Di 		010	VaRo	BH	{ -1 }	(700+2)	[0000]	B	10	14
+Farf	L	2527	Kerchov	C557579-9	 	           Ag Ni 		104	VaRo	F4 V	{ 0 }	(B42-1)	[753B]	BC	9	-88
+Farf	L	2530	Njisse	D755000-A	 	           Di Ga 		000	Wild	F5 V	{ -1 }	(500+1)	[0000]	B	13	5
+Farf	P	2532	Welton	D642000-5	 	           Di He Po 		002	VaRo	M1 II D M4 V	{ -3 }	(700+2)	[0000]	B	11	14
+Farf	P	2537	Thursus	C955859-9	 	         (NIL)  Pa Ph (NIL)		220	VaRo	G3 V M5 V	{ 0 }	(C7A+1)	[6859]	Bce	8	840
+Farf	P	2540	Forst	D6948CA-6	 	           (NIL)  Pa Pi Ph (NIL)		410	VaRo	M2 V M2 V	{ -2 }	(A77+1)	[9659]	BcDe	11	490
+Farf	D	2603	Tats Evl	A8998AB-B	 	         (NIL)  Ph Pi (NIL)		303	Wild	K1 V M3 V	{ 2 }	(D79-2)	[8A17]	BDe	16	-1638
+Farf	D	2606	Shianzqrie'	E896000-8	 	            Di 		004	Wild	G2 V	{ -3 }	(A00+3)	[0000]	B	9	30
+Farf	D	2609	Iajnif	D100000-B	 	            Di Va 		004	Wild	M2 V M9 V	{ -1 }	(C00+1)	[0000]	B	14	12
+Farf	H	2611	Potldrepiefr	D436441-6	 	           Ni 		200	Wild	M0 V	{ -3 }	(330-2)	[2141]	B	10	-18
+Farf	H	2613	Dred	C200684-7	 	           Na Ni Va 		301	Wild	M1 V	{ -2 }	(854+1)	[64A2]	B	5	160
+Farf	H	2615	Nebhan	X57A000-6	 	          (NIL)  Di Wa 		004	Wild	G9 V M9 V	{ -3 }	(A00+4)	[0000]	B	12	40
+Farf	H	2617	Degedhi	E435641-7	 	           Ni 		520	Wild	G4 V M1 V	{ -3 }	(851-4)	[3355]	B	12	-160
+Farf	H	2618	Ryidhen	D683000-8	 	           Di 		003	Wild	G7 V M4 V	{ -3 }	(600+1)	[0000]	B	14	6
+Farf	H	2620	Nuleliman	E6258DG-9	 	         (NIL)  Ph Pi (NIL)		420	Wild	M0 V M2 V	{ -1 }	(C74+1)	[377C]	BDe	13	336
+Farf	L	2625	Llywellan	BA6A775-B	 	         (NIL)  Oc Ri (NIL)		224	VaRo	F4 V D	{ 3 }	(F68+2)	[8A5C]	BC	18	1440
+Farf	L	2627	Freedonia	A768641-C	 	             Ag Ri Ni 		604	VaRo	F3 V	{ 3 }	(C56+5)	[896F]	BC	13	1800
+Farf	L	2629	Sequitor	X566000-3	 	            Di 		000	VaRo	F9 V D	{ -3 }	(600+4)	[0000]	B	8	24
+Farf	L	2630	Rjnevelte	E626000-D	 	           Di 		000	VaRo	G9 V	{ -1 }	(700-2)	[0000]	B	10	-14
+Farf	P	2631	Alcost	B5868B8-8	 	          (NIL)  Pa Ri Ph (NIL)		501	VaRo	K3 IV	{ 1 }	(C78-1)	[A949]	BcCe	11	-672
+Farf	P	2635	Mutat	B832434-9	 	           Ni Po 		113	VaRo	M0 V M9 V	{ 0 }	(A35-4)	[8497]	B	11	-600
+Farf	P	2639	Toppa	E560655-5	 	           De Ni Ri 		200	VaRo	G2 V	{ -2 }	(852-2)	[8422]	BC	7	-160
+Farf	D	2701	Jabrekdrefr	B433342-8	 	           Lo Po 		613	Wild	M0 V	{ -1 }	(A20+1)	[4256]	B	13	20
+Farf	D	2702	Fletebr	E746000-0	 	           Ba 		003	Wild	M3 V M7 V	{ -3 }	(800+1)	[0000]	B	7	8
+Farf	D	2709	Tliente	E674000-0	 	           Ba 		000	Wild	M0 V	{ -3 }	(300+1)	[0000]	B	10	3
+Farf	D	2710	Prevrfri	D7C6000-9	 	         (ENIL)  Di Fl 		003	Wild	G7 V M9 V	{ -2 }	(C00+2)	[0000]	B	11	24
+Farf	H	2711	Zhebrtladr	E100648-8	 	           Na Ni Va 		424	Wild	M0 V M1 V	{ -3 }	(E51+1)	[6379]	B	13	70
+Farf	H	2713	Krrl	E8B0579-8	 	           He Ni 		403	Wild	K0 V M5 V	{ -3 }	(A41-2)	[724A]	B	9	-80
+Farf	H	2715	Tlodadltse	E555000-3	 	            Di 		002	Wild	A8 V K9 V	{ -3 }	(700+1)	[0000]	B	12	7
+Farf	H	2716	Meikadobask	B546741-9	 	        Pz    (NIL)  Ag Pi (NIL)		103	Wild	M6 II M3 V	{ 2 }	(C67-1)	[894C]	BCD	10	-504
+Farf	L	2721	Malthus	X423000-9	 	           Di Po 		020	Wild	G2 V	{ -2 }	(900+3)	[0000]	B	12	27
+Farf	L	2723	Trebberhorn	C658674-8	 	     Pz    (NIL)  Ag Ni 		603	VaRo	G3 V	{ -1 }	(C55-5)	[4579]	BC	6	-1500
+Farf	L	2725	Bestus	X685000-B	 	             Di Ga 		025	VaRo	F9 V	{ -1 }	(F00+1)	[0000]	B	20	15
+Farf	L	2726	Marsus	A998884-8	 	      Pz     (NIL)  Pa Pi Ph (NIL)		502	VaRo	F3 V	{ 0 }	(D7B+1)	[A867]	BcDe	8	1001
+Farf	L	2730	Linelit	X000000-7	 	             As Va Di 		000	VaRo	M3 V	{ -3 }	(500+1)	[0000]	B	8	5
+Farf	P	2733	Pindel	B863453-A	 	           Ni 		503	VaRo	K8 V	{ 1 }	(934+1)	[8518]	B	12	108
+Farf	P	2737	Zylov	A964772-B	 	           (NIL)  Ag Ri (NIL)		204	VaRo	G4 V M6 V	{ 4 }	(D6B-3)	[4B2D]	BCf	16	-2574
+Farf	P	2738	Bozel	D948000-A	 	            Di 		001	VaRo	M1 V M2 V	{ -1 }	(900-5)	[0000]	B	10	-45
+Farf	P	2740	Xava	C624798-8	 	         (NIL)  Pi (NIL)		123	VaRo	M1 V	{ -1 }	(E66-1)	[5679]	BD	13	-504
+Farf	D	2803	Jdotsesh	D421000-8	 	     Da       Di He Po 		005	Wild	G6 V	{ -3 }	(C00+1)	[0000]	B	12	12
+Farf	D	2805	Yodro	A96A640-A	 	    Pz Droy1     (NIL)  Ni Ri Wa 		722	Wild	M0 V	{ 2 }	(D58+2)	[6818]	BC	16	1040
+Farf	D	2806	Iadlkresh	X000411-7	 	       Fo       As Va Ni 		113	Wild	F1 V	{ -3 }	(733+1)	[5166]	B	15	63
+Farf	D	2809	Pienzhplanshe	C837533-7	 	       Da      Ni 		221	Wild	G2 II M0 V	{ -2 }	(842-4)	[432C]	B	11	-256
+Farf	H	2812	Entsezzi	E569000-0	 	           Ba 		014	Wild	K0 V M9 V	{ -3 }	(900+2)	[0000]	B	14	18
+Farf	H	2814	Fiezhtezhde	X634000-D	 	           Di 		000	Wild	M1 V M9 V	{ -1 }	(600-1)	[0000]	B	11	-6
+Farf	H	2816	Leneh	D545000-6	 	        Pz   (NIL)  Di 		014	Wild	M2 V	{ -3 }	(900-3)	[0000]	B	10	-27
+Farf	L	2822	Bosslwck	X795000-B	 	           (NIL)  Di 		003	Wild	G3 V	{ -1 }	(D00+1)	[0000]	B	8	13
+Farf	L	2825	Dobbyn	B97677B-8	 	        Pz    (NIL)  Ag Pi (NIL)		200	VaRo	F5 V D	{ 1 }	(967-1)	[7878]	BCD	9	-378
+Farf	L	2827	Mwari	X544000-A	 	            Di 		002	VaRo	G7 V	{ -1 }	(800-3)	[0000]	B	10	-24
+Farf	L	2829	Sherwood	C584452-6	 	            Ni Pa 		203	VaRo	F4 V	{ -2 }	(733-4)	[6259]	Bc	8	-252
+Farf	P	2834	Enimar	B58A577-9	S	           Ni Pr Wa 		102	VaRo	M8 III	{ 0 }	(946+3)	[1595]	Bc	10	648
+Farf	P	2835	Pixtome	C381585-A	 	           Ni Pr 		223	VaRo	M2 V M3 V	{ 0 }	(C43-4)	[459D]	Bc	12	-576
+Farf	P	2839	Omniat	B886433-9	 	           Ga Ni Pa 		304	VaRo	G6 II M2 V	{ 0 }	(A33-1)	[247D]	Bc	13	-90
+Farf	D	2902	Briad	E84A000-A	 	            Di Wa 		003	Wild	K9 V M1 V	{ -1 }	(900-3)	[0000]	B	13	-27
+Farf	D	2903	Dledl I'	A300875-D	 	             Na Pi Ph Va 		300	Wild	F7 V	{ 2 }	(A7B+4)	[AA6A]	BDe	11	3080
+Farf	D	2904	Zdiietltsia	E100000-0	 	           Ba Va 		020	Wild	M1 V	{ -3 }	(700-2)	[0000]	B	9	-14
+Farf	D	2905	Flatlkrrsh	X000000-9	 	             As Va Di 		003	Wild	G2 V	{ -2 }	(700+4)	[0000]	B	9	28
+Farf	D	2908	Blenzhrakiavr	C553377-4	 	           Lo Po 		503	Wild	M0 V M3 V M5 V	{ -2 }	(620-4)	[6147]	B	14	-48
+Farf	D	2910	Tsenchoz Ia	B535456-9	 	          Ni Px 		310	Wild	M2 V M7 V	{ 0 }	(736+5)	[245C]	B	10	630
+Farf	H	2912	Vezdinz	EAC6000-9	 	           Di Fl 		002	Wild	G2 V	{ -2 }	(800-1)	[0000]	B	10	-8
+Farf	L	2921	Kendus	D50089C-7	 	             Na Pi Ph Va 		100	VaRo	F4 V D	{ -2 }	(A74+1)	[8666]	BDe	6	280
+Farf	L	2923	Tallamatrix	A5938B6-9	 	         (NIL)  Ph Pi (NIL)		102	VaRo	G2 V	{ 1 }	(C77+3)	[9986]	BDe	7	1764
+Farf	L	2925	Garden Prime	B431422-B	 	           Ni Po 		420	VaRo	F3 V D	{ 1 }	(832+2)	[655G]	B	8	96
+Farf	L	2927	Staci	E300000-7	 	           Di Va 		020	VaRo	M1 V	{ -3 }	(700+3)	[0000]	B	13	21
+Farf	P	2931	Cartelin	B985431-8	 	            Ni Pa 		610	VaRo	G3 V	{ -1 }	(834-4)	[13AA]	Bc	7	-384
+Farf	P	2934	Eureka	B000578-C	 	              As Va Ni 		805	Wild	M2 V	{ 1 }	(D44+4)	[6659]	B	12	832
+Farf	P	2935	Eorvin	D6568DF-8	 	         (NIL)  Ga Pa Ph (NIL)		500	Wild	F5 V M1 V	{ -2 }	(A79-2)	[8649]	Bce	5	-1260
+Farf	P	2936	Emulan	E669000-6	 	       Da     Di 		004	Wild	K1 II M6 V	{ -3 }	(500+2)	[0000]	B	9	10
+Farf	P	2938	Shadmara	E8C1000-9	 	             Di Fl He 		000	VaRo	M1 V	{ -2 }	(400+1)	[0000]	B	9	4
+Farf	P	2939	Kulikov	E722000-A	 	           Di He Po 		004	VaRo	M0 V	{ -1 }	(B00+3)	[0000]	B	10	33
+Farf	D	3002	Zhar Yens	B687375-7	 	             Ga Lo 		902	Wild	F5 V	{ -1 }	(620-5)	[1228]	B	5	-60
+Farf	D	3003	Zhar	E433689-8	 	              Na Px Po Ni 		101	Wild	M1 V	{ -3 }	(950+1)	[6399]	B	9	45
+Farf	D	3005	Dlentsiviepl	X74A000-E	 	            Di Wa 		002	Wild	G9 IV	{ -1 }	(500+4)	[0000]	B	13	20
+Farf	D	3008	Shinch Anz	X546000-7	 	        Da     Di 		004	Wild	K3 IV M0 V	{ -3 }	(800+2)	[0000]	B	8	16
+Farf	D	3009	Flam	C635743-7	 	          (NIL)  (NIL)		104	Wild	M0 V	{ -1 }	(969-2)	[9656]	B	12	-972
+Farf	H	3013	She' I'	D427000-A	 	         (NIL)  Di 		004	Wild	M0 V	{ -1 }	(D00-3)	[0000]	B	11	-39
+Farf	H	3017	Ongihlil	E793000-A	 	           Di 		023	Wild	F1 V M7 V	{ -1 }	(C00-3)	[0000]	B	9	-36
+Farf	H	3019	Therop	A511974-B	 	      Pz        Hi Ic Na In 		410	Wild	F9 V M4 V M4 V	{ 4 }	(C88+4)	[6D37]	BEf	11	3072
+Farf	L	3021	Goggic	E694000-B	 	            Di 		001	Wild	K7 V	{ -1 }	(900-4)	[0000]	B	6	-36
+Farf	L	3024	Padderborn	D544000-7	 	             Di 		003	VaRo	G3 V	{ -3 }	(600+2)	[0000]	B	14	12
+Farf	L	3028	Raskeller	X948000-5	 	            Di 		004	VaRo	K4 V	{ -3 }	(600+3)	[0000]	B	15	18
+Farf	L	3030	Saulente	C86878A-8	 	           (NIL)  Ag Ri (NIL)		421	VaRo	F4 V D	{ 1 }	(C69+1)	[4858]	BC	10	648
+Farf	P	3032	Dovida	B984559-B	 	             Ag Pr Ni 		114	VaRo	M0 V	{ 2 }	(D44+1)	[6756]	BcC	8	208
+Farf	P	3033	Eterra	A867995-C	 	      Pz     (NIL)  Ga Hi Pr (NIL)		315	VaRo	K9 II	{ 3 }	(H89+1)	[AC69]	BcE	12	1224
+Farf	P	3038	Dictic	E994000-6	 	        Da     Di 		000	VaRo	A7 V	{ -3 }	(700+3)	[0000]	B	8	21
+Farf	P	3040	Tintanabulos	X311000-7	 	           Di Ic 		000	VaRo	M2 V	{ -3 }	(400+3)	[0000]	B	6	12
+Farf	D	3110	Sieal Prans	E422000-0	 	            Ba He Po 		000	Wild	M0 V	{ -3 }	(400-3)	[0000]	B	9	-12
+Farf	H	3116	Jant	E859000-0	 	           Ba 		004	Wild	M3 V	{ -3 }	(800+1)	[0000]	B	15	8
+Farf	H	3117	Afrisha Bins	C430856-B	 	      Pz      (NIL)  De Na Po Ph (NIL)		320	Wild	G0 V	{ 1 }	(C76-4)	[C93D]	Be	10	-2016
+Farf	H	3119	G'kilpheny	D544000-9	 	            Di 		003	Wild	M0 V	{ -2 }	(900-3)	[0000]	B	10	-27
+Farf	L	3123	Phais Eisert	X310000-0	 	           Ba 		025	VaRo	M0 V D	{ -3 }	(200+4)	[0000]	B	11	8
+Farf	L	3130	Xylon	E6A2000-8	 	             Di Fl He 		003	VaRo	G6 V	{ -3 }	(900-4)	[0000]	B	13	-36
+Farf	P	3134	Lalandra	B742798-A	 	           (NIL)  He Pi Po (NIL)		302	VaRo	M1 V	{ 2 }	(B6B+2)	[B919]	BD	5	1452
+Farf	P	3136	Pentalus	C957620-8	 	           Ag Ni 		504	VaRo	G8 IV	{ -1 }	(C53-1)	[7558]	BC	13	-180
+Farf	P	3137	Piat	D431437-6	 	            Ni Px Po 		900	VaRo	M2 V	{ -3 }	(732-1)	[2158]	B	8	-42
+Farf	D	3204	Josh Sotl	E000000-0	 	              As Va Ba 		002	Wild	G2 V M1 V M8 V	{ -3 }	(600-1)	[0000]	B	13	-6
+Farf	D	3209	Chivlja	E200000-0	 	           Ba Va 		004	Wild	K0 V	{ -3 }	(500-1)	[0000]	B	8	-5
+Farf	H	3213	Dliareq	C435610-7	 	           Ni 		311	Wild	M1 V	{ -2 }	(854-4)	[3438]	B	6	-640
+Farf	H	3214	Iesheqr	X544000-A	 	            Di 		000	Wild	M2 V	{ -1 }	(600-2)	[0000]	B	6	-12
+Farf	H	3218	Kiat	EAA6000-9	 	           Di Fl 		003	Wild	G0 V M7 V	{ -2 }	(A00+1)	[0000]	B	10	10
+Farf	H	3219	Deyil	X744000-5	 	            Di 		013	Wild	G6 V M3 V	{ -3 }	(800+1)	[0000]	B	12	8
+Farf	L	3221	Regalia	D521000-7	 	     Da       Di He Po 		002	Wild	F0 IV G3 V	{ -3 }	(400+1)	[0000]	B	11	4
+Farf	L	3228	Galatea	E685000-5	 	        (Jessa)7 (Satha)3      Di Ga 		002	VaRo	F3 V D	{ -3 }	(800-2)	[0000]	B	14	-16
+Farf	P	3231	Calthustra	D749000-8	 	           Di 		004	VaRo	G4 V	{ -3 }	(A00+1)	[0000]	B	10	10
+Farf	P	3238	Anathos	E830434-8	 	     RsB       De Ni Po 		303	Wild	M1 V M1 V	{ -3 }	(933-2)	[4117]	B	9	-162

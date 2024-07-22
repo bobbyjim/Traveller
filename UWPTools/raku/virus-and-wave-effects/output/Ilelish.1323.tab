@@ -1,0 +1,452 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+Ilel	A	0101	Harding	X100000-E	 	Di Va 		020	Wild	K4 V	{ -1 }	(700-3)	[0000]	B	8	-21
+Ilel	A	0102	Lorne	D546000-5	 	Di 		000	Wild	F5 V M5 V	{ -3 }	(A00-4)	[0000]	B	9	-40
+Ilel	A	0108	Eufemia	X599000-4	 	Di 		012	Wild	M2 V	{ -3 }	(800-3)	[0000]	B	14	-24
+Ilel	A	0110	Randall	X541000-2	 	Di He Po 		014	Wild	F4 V	{ -3 }	(700-1)	[0000]	B	13	-7
+Ilel	E	0113	McCoy	X423000-7	 	Di Po 		001	Wild	M2 V M3 V	{ -3 }	(600+1)	[0000]	B	11	6
+Ilel	E	0116	Fearghal	X430000-C	 	De Di Po 		002	Wild	M2 V	{ -1 }	(800-2)	[0000]	B	11	-16
+Ilel	I	0127	Tyr	X565000-1	 	Di 		013	Wild	M2 V	{ -3 }	(500+1)	[0000]	B	7	5
+Ilel	I	0128	Welles	D893000-6	 	Di 		003	Wild	F5 V	{ -3 }	(400-3)	[0000]	B	12	-12
+Ilel	M	0132	Antwerp	X994000-6	 	Di 		010	Wild	G6 V	{ -3 }	(600+2)	[0000]	B	13	12
+Ilel	M	0133	Rozumund	X765000-2	 	Di Ga 		003	Wild	F8 V M5 V	{ -3 }	(400+3)	[0000]	B	12	12
+Ilel	A	0204	De Camsall	X546000-3	 	Di 		020	Wild	M3 V M6 V	{ -3 }	(600+1)	[0000]	B	15	6
+Ilel	A	0205	Kiril	X544000-3	 	Di 		002	Wild	M1 V	{ -3 }	(500-1)	[0000]	B	13	-5
+Ilel	A	0206	Darven Limner	E576000-3	 	Di 		000	Wild	M3 V	{ -3 }	(700+3)	[0000]	B	8	21
+Ilel	A	0207	Nasi	X200000-E	 	Di Na In Va 		002	Wild	F5 V M9 V M0 V	{ 0 }	(D00+2)	[0000]	BE	13	26
+Ilel	A	0208	Winthrop	X786516-1	 	Ag Pr Ga Ni 		210	Wild	F9 V	{ -2 }	(740+3)	[2381]	BcC	14	84
+Ilel	A	0209	Byrne	C552974-8	 	Hi Po 		102	Wild	M2 V	{ 0 }	(C88+1)	[899A]	BE	11	768
+Ilel	E	0211	Saper	X535000-D	 	Di 		024	Wild	M1 V	{ -1 }	(B00+3)	[0000]	B	10	33
+Ilel	E	0212	Seke	X654000-4	 	Di 		000	Wild	M0 V	{ -3 }	(400+2)	[0000]	B	13	8
+Ilel	E	0217	Heridd	X310000-F	 	Di 		004	Wild	M0 V M1 V	{ -1 }	(700-4)	[0000]	B	9	-28
+Ilel	E	0218	Geldall	X8B4000-8	 	Di Fl 		022	Wild	F1 V	{ -3 }	(E00+3)	[0000]	B	7	42
+Ilel	E	0220	Gons	X310000-F	 	Di 		000	Wild	M1 V M3 V	{ -1 }	(500+1)	[0000]	B	8	5
+Ilel	I	0226	Allentown	EA8A000-5	 	Di Oc 		000	Wild	F6 V M3 V	{ -3 }	(500+1)	[0000]	B	13	5
+Ilel	I	0227	Willlelmo	X798734-0	 	Ag Pi 		203	Wild	K2 V	{ -1 }	(966+1)	[7693]	BCD	12	324
+Ilel	M	0231	Neala	D756444-3	 	Ga Ni Pa 		315	Wild	F6 V	{ -3 }	(732+3)	[1132]	Bc	13	126
+Ilel	M	0232	Tharthar	X528000-9	 	Di 		003	Wild	G4 V M2 V	{ -2 }	(A00+2)	[0000]	B	6	20
+Ilel	M	0233	Gwlsdys	X424000-C	 	Di Px 		024	Wild	M2 V	{ -1 }	(E00+1)	[0000]	B	10	14
+Ilel	A	0303	Woodlawn	X422000-C	 	Di He Na Pi Po 		020	Wild	M1 V	{ -1 }	(C00-1)	[0000]	BD	7	-12
+Ilel	A	0305	Astea	X94A000-5	 	Di Wa 		004	Wild	G2 V M4 V	{ -3 }	(900+4)	[0000]	B	11	36
+Ilel	A	0307	Tylio	X646000-0	 	Ba 		005	Wild	M1 V	{ -3 }	(C00-3)	[0000]	B	8	-36
+Ilel	A	0309	Earnest	X558887-0	 	Pa Ph 		301	Wild	F7 V M4 V	{ -2 }	(A76+1)	[D621]	Bce	9	420
+Ilel	E	0312	Tunis	D565411-4	 	Ni Pa 		104	Wild	F9 V M5 V	{ -3 }	(830+2)	[3138]	Bc	15	48
+Ilel	E	0313	Kerim	X310000-B	 	Di Na 		004	Wild	M1 V M4 V	{ -1 }	(C00-5)	[0000]	B	13	-60
+Ilel	E	0314	Serbia	X310000-9	 	Di 		003	Wild	M0 III	{ -2 }	(A00+4)	[0000]	B	8	40
+Ilel	E	0315	Leuet	E542000-4	 	Di He Po 		004	Wild	M0 V	{ -3 }	(800+1)	[0000]	B	9	8
+Ilel	E	0316	Byrland	X557000-3	 	Di 		012	Wild	M0 V M6 V	{ -3 }	(700+4)	[0000]	B	10	28
+Ilel	E	0318	Bohemia	C879998-5	 	Hi In 		402	Wild	G7 V	{ 1 }	(B8B+3)	[CA52]	BE	7	2904
+Ilel	E	0319	Gwenhwyvar	X795000-5	 	Di 		000	Wild	G4 V M2 V	{ -3 }	(600+1)	[0000]	B	11	6
+Ilel	I	0322	Allanon	XAD6000-8	 	Di 		004	Wild	M1 V M7 V	{ -3 }	(900-4)	[0000]	B	13	-36
+Ilel	I	0328	Irvine	X849000-8	 	Di 		014	Wild	M2 V	{ -3 }	(B00+4)	[0000]	B	8	44
+Ilel	I	0330	Rekagun	X426000-C	 	Di In 		002	Wild	F3 V M2 V	{ 0 }	(E00-4)	[0000]	BE	7	-56
+Ilel	M	0331	Ambolphudrius	X510000-C	 	Di 		003	Wild	F3 V	{ -1 }	(900+5)	[0000]	B	12	45
+Ilel	A	0401	Eggii	X300000-E	 	Di Na In Va 		005	Wild	F2 V M7 V	{ 0 }	(G00-2)	[0000]	BE	12	-32
+Ilel	A	0402	Grannoth	X671000-1	 	Di He 		010	Wild	M1 V M2 V	{ -3 }	(700-3)	[0000]	B	9	-21
+Ilel	A	0403	Ansha	X55277B-0	 	Po 		405	Wild	F8 V	{ -2 }	(C66+4)	[3573]	B	9	1728
+Ilel	A	0406	Kkikla	X693000-3	 	Di 		003	Wild	G2 V	{ -3 }	(C00-3)	[0000]	B	6	-36
+Ilel	A	0407	Salvatore	X888000-3	 	Di 		013	Wild	F0 V M6 V	{ -3 }	(700+1)	[0000]	B	13	7
+Ilel	A	0409	Wei	XAC8000-C	 	Di Fl 		003	Wild	M0 V M6 V	{ -1 }	(900-4)	[0000]	B	8	-36
+Ilel	A	0410	Mick	X200000-E	 	Di Na Pi Va 		004	Wild	F3 V M8 V M1 V	{ -1 }	(E00+1)	[0000]	BD	15	14
+Ilel	E	0413	Saltmaw	X79A000-4	 	Di Wa 		014	Wild	G9 V M2 V M9 V	{ -3 }	(600+1)	[0000]	B	14	6
+Ilel	E	0417	Dominican	X414000-B	 	Di Ic 		002	Wild	K7 V M3 V	{ -1 }	(600+5)	[0000]	B	8	30
+Ilel	E	0419	Lillyng	X432000-C	 	Di Na Po 		004	Wild	M3 V	{ -1 }	(D00+3)	[0000]	B	13	39
+Ilel	E	0420	Bentley	X421000-D	 	Di He Po 		000	Wild	M0 V M3 V	{ -1 }	(600-3)	[0000]	B	8	-18
+Ilel	I	0421	Maddend	X568000-3	 	Di 		012	Wild	M1 V M7 V	{ -3 }	(700-1)	[0000]	B	8	-7
+Ilel	I	0426	Moonshadow	D556776-4	 	Ag 		304	Wild	G9 V	{ -1 }	(96B+1)	[A611]	BC	7	594
+Ilel	I	0427	Kyla	X420000-B	 	De He Di Na Po 		004	Wild	K2 V M0 V	{ -1 }	(C00+1)	[0000]	B	10	12
+Ilel	M	0433	Peronn	X574000-3	 	Di 		023	Wild	K2 V	{ -3 }	(700+1)	[0000]	B	10	7
+Ilel	A	0502	Kagaki	X582000-C	 	Di 		000	Wild	F5 V	{ -1 }	(C00+3)	[0000]	B	9	36
+Ilel	A	0505	Quill	X576000-7	 	Di 		020	Wild	G4 V	{ -3 }	(600+1)	[0000]	B	15	6
+Ilel	A	0506	Howor	X569779-0	 	Ri 		221	Wild	M0 V M3 V	{ -1 }	(963-3)	[6611]	BC	12	-486
+Ilel	A	0510	Arlumer	X572000-3	 	Di He 		025	Wild	M2 V	{ -3 }	(C00-1)	[0000]	B	11	-12
+Ilel	E	0511	Patrel	X773789-0	 	Pi 		124	Wild	M1 V	{ -2 }	(964+1)	[6581]	BD	17	216
+Ilel	E	0512	Spark	X551000-5	 	Di Po 		023	Wild	M1 V M8 V	{ -3 }	(800+1)	[0000]	B	13	8
+Ilel	E	0515	Goldberg	D764888-2	 	Pa Ri Ph 		403	Wild	F3 V	{ -1 }	(A75+1)	[B755]	BcCe	15	350
+Ilel	E	0517	Edaece	X434000-E	 	Di 		004	Wild	M0 V M8 V	{ -1 }	(700-4)	[0000]	B	8	-28
+Ilel	E	0520	K'Ning	X310000-A	 	Di Na 		014	Wild	F9 III M3 V	{ -1 }	(D00+3)	[0000]	B	9	39
+Ilel	I	0521	Zodeeb	X000000-E	 	As Va Di 		000	Wild	M2 V	{ -1 }	(500+3)	[0000]	B	12	15
+Ilel	I	0524	Minaforra	X533000-9	 	Di Na Po 		012	Wild	K2 V	{ -2 }	(B00+4)	[0000]	B	14	44
+Ilel	I	0525	Mengerea	X6517BE-0	 	Po 		103	Wild	F4 V M6 V	{ -2 }	(962+3)	[6541]	B	16	324
+Ilel	I	0526	Klean	X84A000-2	 	Di Wa 		003	Wild	F4 V	{ -3 }	(600+3)	[0000]	B	16	18
+Ilel	I	0527	Istvan	X686946-0	 	Ga Hi Pr 		212	Wild	G4 V	{ -1 }	(B8A+1)	[7841]	BcE	8	880
+Ilel	M	0532	Gypsy	X200000-C	 	Di Na Pi Va 		003	Wild	M2 V	{ -1 }	(C00+2)	[0000]	BD	7	24
+Ilel	A	0602	Porto	E686000-6	 	Di Ga 		010	Wild	G2 V	{ -3 }	(600+2)	[0000]	B	10	12
+Ilel	A	0605	Recoun	X562522-1	 	Ni Pr 		103	Wild	F3 V M8 V	{ -3 }	(741+1)	[3271]	Bc	12	28
+Ilel	A	0607	Almaden	X567000-5	 	Di 		013	Wild	K4 V	{ -3 }	(400-1)	[0000]	B	14	-4
+Ilel	E	0613	Kobayashi	D542000-7	 	Di He Po 		025	Wild	F7 V	{ -3 }	(700-3)	[0000]	B	10	-21
+Ilel	E	0615	Corcoran	X542000-3	 	Di He Po 		002	Wild	K3 V M5 V	{ -3 }	(600-3)	[0000]	B	15	-18
+Ilel	E	0616	Berglund	D5737AD-4	 	Pi 		110	Wild	F4 V	{ -2 }	(965+1)	[8559]	BD	9	270
+Ilel	E	0618	Conley	D68655A-6	 	Ag Pr Ga Ni 		200	Wild	G4 V M1 V	{ -2 }	(742+2)	[6334]	BcC	12	112
+Ilel	E	0619	Cranston	X574000-3	 	Di 		021	Wild	F6 V	{ -3 }	(700+2)	[0000]	B	12	14
+Ilel	E	0620	Shashinke	X686775-0	 	Ag Ri Ga 		200	Wild	K0 V	{ 0 }	(C6B+4)	[B714]	BC	9	3168
+Ilel	I	0623	Amerigo	X423000-8	 	Di Na Pi Po 		005	Wild	M1 V M9 V	{ -3 }	(F00-3)	[0000]	BD	9	-45
+Ilel	I	0625	Chevrolet	C66999A-5	 	Hi Pr 		314	Wild	M2 V	{ 0 }	(B89+4)	[7966]	BcE	9	3168
+Ilel	I	0627	Paige	X511000-E	 	Di Ic 		005	Wild	F1 V M2 V	{ -1 }	(B00-1)	[0000]	B	13	-11
+Ilel	A	0704	Kaszio	X553000-5	 	Di Po 		003	Wild	F8 V	{ -3 }	(600+1)	[0000]	B	11	6
+Ilel	A	0705	Lanka	D54477C-4	 	Ag Pi 		504	Wild	M0 V M6 V	{ -1 }	(969-2)	[8632]	BCD	12	-972
+Ilel	A	0706	Fairchild	XAAA000-B	 	Di Fl 		003	Wild	F2 III D	{ -1 }	(800+1)	[0000]	B	9	8
+Ilel	A	0708	Adia	X547000-4	 	Di 		014	Wild	F7 V	{ -3 }	(B00-5)	[0000]	B	11	-55
+Ilel	A	0709	Aeschylus	X667452-2	 	Ga Ni Pa 		314	Wild	M3 V	{ -3 }	(730-1)	[3154]	Bc	12	-21
+Ilel	E	0712	Rughl	X000000-F	 	As Va Di Na In 		004	Wild	F7 V	{ 0 }	(F00+2)	[0000]	BE	9	30
+Ilel	E	0713	Rayth	X594000-7	 	Di Pi 		002	Wild	G4 V	{ -3 }	(900+3)	[0000]	BD	13	27
+Ilel	E	0715	Dubhglas	X79A000-1	 	Di Wa 		014	Wild	M0 V	{ -3 }	(400-2)	[0000]	B	8	-8
+Ilel	E	0716	Gyliotte	X534000-B	 	Di Px 		004	Wild	M0 V	{ -1 }	(900+1)	[0000]	B	11	9
+Ilel	E	0719	Duel	X536000-9	 	Di 		001	Wild	K0 V M9 V M7 V	{ -2 }	(D00-2)	[0000]	B	7	-26
+Ilel	E	0720	Dionsio	X546000-3	 	Di 		005	Wild	K3 V M7 V	{ -3 }	(600+3)	[0000]	B	11	18
+Ilel	I	0724	Fergie	X000000-F	 	As Va Di 		002	Wild	M1 V	{ -1 }	(500+1)	[0000]	B	13	5
+Ilel	I	0729	Syndarra	X000000-F	 	As Va Di 		022	Wild	M5 III	{ -1 }	(A00+4)	[0000]	B	13	40
+Ilel	M	0732	Ris	E572000-5	 	Di He 		013	Wild	K4 V	{ -3 }	(700+2)	[0000]	B	12	14
+Ilel	A	0806	Laec	X85A576-0	 	Ni Wa 		201	Wild	F4 V M8 V	{ -3 }	(740-1)	[3272]	B	5	-28
+Ilel	A	0808	Bardawulf	X422000-C	 	Di He Na Pi Po 		001	Wild	G3 V	{ -1 }	(A00-5)	[0000]	BD	11	-50
+Ilel	A	0810	Baskin	X430000-C	 	De Di Na Po 		000	Wild	M2 V M5 V	{ -1 }	(A00-2)	[0000]	B	9	-20
+Ilel	E	0811	Ekih	X655000-4	 	Di Ga 		001	Wild	F4 V	{ -3 }	(C00-1)	[0000]	B	12	-12
+Ilel	E	0812	Lana	D553683-3	 	Ni Po 		403	Wild	M3 V	{ -3 }	(853-1)	[A382]	B	7	-120
+Ilel	E	0813	Jacid	X5649CF-1	 	Hi Pr 		212	Wild	M1 V	{ -1 }	(B88+1)	[B8A6]	BcE	10	704
+Ilel	E	0817	Hawkwind	X683986-2	 	Hi Pr 		422	Wild	K3 V	{ -1 }	(B87+1)	[5833]	BcE	10	616
+Ilel	E	0819	Sheridan	X437000-E	 	Di 		000	Wild	M1 V	{ -1 }	(600-1)	[0000]	B	8	-6
+Ilel	I	0821	Dorbyora	X422000-C	 	Di He Na In Po 		000	Wild	M2 V M7 V	{ 0 }	(C00+1)	[0000]	BE	9	12
+Ilel	I	0823	Agnald	X540000-2	 	De He Di Po 		014	Wild	G5 V	{ -3 }	(800-3)	[0000]	B	10	-24
+Ilel	I	0826	Naga	X420000-E	 	De He Di Na In Po 		004	Wild	K1 V	{ 0 }	(F00+2)	[0000]	BE	11	30
+Ilel	I	0827	Bronso	X420000-A	 	De He Di Na Pi Po 		004	Wild	M2 V M7 V	{ -1 }	(E00-3)	[0000]	BD	10	-42
+Ilel	I	0829	Bridhid	X9747AB-0	 	Ag Pi 		203	Wild	M2 V	{ -1 }	(B61+2)	[A641]	BCD	9	132
+Ilel	I	0830	Hannegin	X410000-F	 	Di 		002	Wild	K2 V	{ -1 }	(900-1)	[0000]	B	14	-9
+Ilel	M	0831	Soliel	X95A538-3	 	Ni Wa 		222	Wild	K7 V M5 V	{ -3 }	(740+1)	[A2A1]	B	8	28
+Ilel	M	0832	Igon	X426000-7	 	Di 		013	Wild	M2 V M9 V	{ -3 }	(800+1)	[0000]	B	11	8
+Ilel	B	0903	Guim	X400000-A	 	Di Na In Va 		020	Wild	F5 V	{ 0 }	(D00+4)	[0000]	BE	9	52
+Ilel	B	0906	Lingar	X898000-7	 	Di 		004	Wild	M0 V M1 V	{ -3 }	(400+2)	[0000]	B	13	8
+Ilel	B	0908	Eurydice	X67387C-0	 	Ph Pi 		204	Wild	G6 V M5 V	{ -2 }	(A77+1)	[A651]	BDe	15	490
+Ilel	B	0909	Aubrey	X532000-C	 	Di Po 		023	Wild	M1 V	{ -1 }	(C00+1)	[0000]	B	8	12
+Ilel	F	0911	Shinush	X899000-4	 	Di 		003	Wild	M3 V	{ -3 }	(C00-1)	[0000]	B	16	-12
+Ilel	F	0912	Vivaldi	X438000-B	 	Di 		023	Wild	G0 V M3 V	{ -1 }	(B00-1)	[0000]	B	16	-11
+Ilel	F	0914	Rave	X400000-D	 	Di Va 		003	Wild	M2 V	{ -1 }	(A00-3)	[0000]	B	15	-30
+Ilel	F	0915	Cade	X300000-8	 	Di Na Pi Va 		005	Wild	F4 V	{ -3 }	(F00-1)	[0000]	BD	8	-15
+Ilel	F	0916	Kembald	X83A000-C	 	Di Wa 		004	Wild	M1 V M5 V	{ -1 }	(C00-3)	[0000]	B	7	-36
+Ilel	F	0920	Kimki	X7B2000-F	 	Di Fl He In 		014	Wild	F3 V M4 V	{ 0 }	(H00+3)	[0000]	BE	12	51
+Ilel	J	0921	Newton	X768000-6	 	Di 		000	Wild	K3 V	{ -3 }	(600+2)	[0000]	B	8	12
+Ilel	J	0923	Memphis	X310000-F	 	Di 		001	Wild	M1 V M2 V	{ -1 }	(700-3)	[0000]	B	7	-21
+Ilel	J	0925	Zemu	X423000-D	 	Di Px Po 		005	Wild	G3 V	{ -1 }	(B00+1)	[0000]	B	12	11
+Ilel	J	0926	Ygerna	X410000-B	 	Di Na Pi 		014	Wild	M1 V	{ -1 }	(E00-5)	[0000]	BD	11	-70
+Ilel	J	0927	Livermore	X425000-C	 	Di Pi 		000	Wild	K9 V M5 V	{ -1 }	(900+2)	[0000]	BD	9	18
+Ilel	J	0928	Zetite	E777000-4	 	Di 		011	Wild	F8 V M3 V	{ -3 }	(500-3)	[0000]	B	13	-15
+Ilel	J	0929	Lang	X311000-D	 	Di Ic 		013	Wild	M3 V M8 V	{ -1 }	(700+1)	[0000]	B	7	7
+Ilel	N	0932	Marin	X7B3000-B	 	Di Fl Px 		003	Wild	M1 V	{ -1 }	(B00-3)	[0000]	B	9	-33
+Ilel	B	1001	Masahiko	X899000-2	 	Di 		004	Wild	F4 V M2 V	{ -3 }	(600-4)	[0000]	B	13	-24
+Ilel	B	1003	Taran	XAD9000-C	 	Di 		014	Wild	M1 V M1 V	{ -1 }	(B00+5)	[0000]	B	12	55
+Ilel	B	1004	Ozorak	X423000-F	 	Di Na Pi Po 		002	Wild	M0 V M7 V	{ -1 }	(B00-4)	[0000]	BD	15	-44
+Ilel	B	1005	Mackinaw	X554000-6	 	Di 		002	Wild	M0 V	{ -3 }	(B00-1)	[0000]	B	11	-11
+Ilel	B	1006	Upsin	X400000-E	 	Di Na In Va 		014	Wild	K7 V M7 V	{ 0 }	(G00-2)	[0000]	BE	14	-32
+Ilel	B	1009	Noke	X9C5000-9	 	Di Fl 		003	Wild	M2 V M9 V	{ -2 }	(900-1)	[0000]	B	6	-9
+Ilel	F	1012	Reese	X576000-8	 	Di 		014	Wild	M2 V	{ -3 }	(C00+5)	[0000]	B	9	60
+Ilel	F	1013	Vndyrwynd	X300000-D	 	Di Va 		035	Wild	F4 V M9 V	{ -1 }	(E00+1)	[0000]	B	15	14
+Ilel	F	1017	Dorothea	X565413-1	 	Ni Pa 		111	Wild	F9 V	{ -3 }	(630+2)	[5111]	Bc	6	36
+Ilel	F	1018	Westchester	X988577-1	 	Ag Pr Ni 		202	Wild	F5 V	{ -2 }	(740-1)	[7335]	BcC	9	-28
+Ilel	F	1019	Mariota	X588440-1	 	Ni Pa 		203	Wild	M1 V	{ -3 }	(731-4)	[7181]	Bc	12	-84
+Ilel	F	1020	Water	X675000-2	 	Di In 		000	Wild	M2 V M4 V	{ -2 }	(B00-1)	[0000]	BE	10	-11
+Ilel	J	1021	Dlan	X8D3000-F	 	Di 		015	Wild	F8 V M7 V	{ -1 }	(J00+1)	[0000]	B	9	18
+Ilel	J	1022	Depot	X562532-1	 	Ni Pr 		103	Wild	F9 V M6 V	{ -3 }	(740+2)	[4241]	Bc	8	56
+Ilel	J	1024	Tyd	X432000-D	 	Di Px Po 		001	Wild	M2 V	{ -1 }	(800+2)	[0000]	B	13	16
+Ilel	N	1031	Bombay	X9AA000-F	 	Di Fl 		005	Wild	M0 V	{ -1 }	(A00+1)	[0000]	B	8	10
+Ilel	N	1032	Biffan	X583000-2	 	Di 		022	Wild	M3 V M7 V	{ -3 }	(500+1)	[0000]	B	13	5
+Ilel	B	1101	Urbano	X545743-0	 	Ag Pi 		403	Wild	F6 V M2 V	{ -1 }	(963+4)	[C651]	BCD	8	648
+Ilel	B	1102	Aurelius	X400000-C	 	Di Na Pi Va 		000	Wild	A3 V M0 V	{ -1 }	(900-4)	[0000]	BD	10	-36
+Ilel	B	1107	Ailean	C552751-6	 	Po 		304	Wild	K9 V M4 V	{ -1 }	(966-1)	[9666]	B	12	-324
+Ilel	F	1111	Cymera	D552747-2	 	Po 		502	Wild	M0 V M9 V	{ -2 }	(964+5)	[B5A3]	B	11	1080
+Ilel	F	1114	Kryggelistan	X55447A-1	 	Ni Pa 		102	Wild	M2 V M7 V	{ -3 }	(633+4)	[5151]	Bc	8	216
+Ilel	F	1117	Dwalin	X595000-3	 	Di 		004	Wild	F7 V	{ -3 }	(500+1)	[0000]	B	12	5
+Ilel	F	1118	Bendix	X649000-5	 	Di 		005	Wild	M1 V	{ -3 }	(800-4)	[0000]	B	15	-32
+Ilel	F	1119	Bulgaria	D8897AD-5	 	Ri 		304	Wild	G7 V M9 V	{ -1 }	(964-1)	[5673]	BC	7	-216
+Ilel	J	1122	Tregetour	X570673-0	 	De He Ni 		102	Wild	K2 V	{ -3 }	(850+4)	[3371]	B	11	160
+Ilel	J	1124	Maureen	X99A000-4	 	Di Wa 		010	Wild	F4 V	{ -3 }	(900+3)	[0000]	B	12	27
+Ilel	J	1126	Skrymir	X573000-0	 	Ba 		002	Wild	M1 V M6 V	{ -3 }	(700+1)	[0000]	B	15	7
+Ilel	J	1129	Trianon	X410000-9	 	Di Na Pi 		004	Wild	F3 V M8 V	{ -2 }	(E00-3)	[0000]	BD	7	-42
+Ilel	J	1130	Yemen	X433000-7	 	Di Na Po 		033	Wild	M0 V	{ -3 }	(800-1)	[0000]	B	9	-8
+Ilel	N	1131	Mnemon	X565000-0	 	Ba 		023	Wild	K6 V	{ -3 }	(600+1)	[0000]	B	14	6
+Ilel	N	1132	Copyn	X574000-3	 	Di Droy6 		013	Wild	M0 V	{ -3 }	(B00-3)	[0000]	B	8	-33
+Ilel	B	1201	Maible	X432000-B	 	Di Na Po 		004	Wild	F3 V M3 V	{ -1 }	(C00-1)	[0000]	B	11	-12
+Ilel	B	1203	Adia	X8597AA-1	 			124	Wild	M1 V	{ -2 }	(C66-1)	[4576]	B	10	-432
+Ilel	B	1204	Valeria	X611000-B	 	Di Ic Na Pi 		025	Wild	M0 V	{ -1 }	(G00+2)	[0000]	BD	12	32
+Ilel	B	1206	Lukan	X9C6000-C	 	Di Fl In 		014	Wild	F6 V	{ 0 }	(G00+3)	[0000]	BE	9	48
+Ilel	B	1209	Salaam	E641000-8	 	Di He Po 		013	Wild	M0 V M0 V	{ -3 }	(B00-3)	[0000]	B	9	-33
+Ilel	F	1211	Maris	D540000-6	 	De He Di Po 		012	Wild	M0 V M3 V	{ -3 }	(800+5)	[0000]	B	13	40
+Ilel	F	1212	Ruse	X432000-D	 	Di Na Po 		000	Wild	G2 V	{ -1 }	(A00+1)	[0000]	B	10	10
+Ilel	F	1215	Gifford	D696000-2	 	Di 		004	Wild	F6 V	{ -3 }	(300-1)	[0000]	B	7	-3
+Ilel	F	1217	Nekhi	X647000-8	 	Di In 		004	Wild	K3 V	{ -2 }	(F00+2)	[0000]	BE	13	30
+Ilel	F	1218	Labrador	X310000-B	 	Di 		023	Wild	M1 III D	{ -1 }	(A00+3)	[0000]	B	10	30
+Ilel	F	1219	Cell	X565000-2	 	Di 		014	Wild	M1 V	{ -3 }	(600+4)	[0000]	B	13	24
+Ilel	F	1220	Marquita	X100000-B	 	Di Va 		000	Wild	G8 V M4 V	{ -1 }	(500-1)	[0000]	B	8	-5
+Ilel	J	1221	Finnish	X757000-4	 	Di Ga 		004	Wild	M3 V	{ -3 }	(700+1)	[0000]	B	16	7
+Ilel	J	1224	Aescby	X000000-C	 	As Va Di 		002	Wild	M2 V	{ -1 }	(600-2)	[0000]	B	10	-12
+Ilel	J	1229	Kim	X9B4000-E	 	Di Fl 		003	Wild	M3 V M5 V	{ -1 }	(900+4)	[0000]	B	7	36
+Ilel	J	1230	Nassic	X300000-B	 	Di Va 		022	Wild	K0 V	{ -1 }	(A00-1)	[0000]	B	7	-10
+Ilel	B	1303	Flagstaff	X000000-D	 	As Va Di 		020	Wild	M0 V	{ -1 }	(900+1)	[0000]	B	7	9
+Ilel	B	1308	De Barton	X100000-E	 	Di Va 		024	Wild	M2 V	{ -1 }	(C00+1)	[0000]	B	14	12
+Ilel	B	1309	Grimaldi	X000000-E	 	As Va Di 		002	Wild	M1 V	{ -1 }	(700+3)	[0000]	B	15	21
+Ilel	F	1311	Murda	X766000-4	 	Chir2 Di Ga 		004	Wild	F9 V	{ -3 }	(C00-3)	[0000]	B	10	-36
+Ilel	F	1312	Casey	X543000-8	 	Di Po 		004	Wild	M2 V	{ -3 }	(E00-4)	[0000]	B	14	-56
+Ilel	F	1316	Grau	X577000-4	 	Di 		003	Wild	K3 V	{ -3 }	(700+2)	[0000]	B	15	14
+Ilel	F	1317	Aoea	X765778-0	 	Ag Ri Ga 		100	Wild	G2 V M9 V	{ 0 }	(967+1)	[7771]	BC	13	378
+Ilel	F	1318	Eldin	X420000-D	 	De He Di Po 		000	Wild	M2 V	{ -1 }	(500+1)	[0000]	B	7	5
+Ilel	F	1320	Archman	X66A000-C	 	Di Wa 		010	Wild	F8 V M3 V	{ -1 }	(A00-2)	[0000]	B	7	-20
+Ilel	J	1321	Shagipka	X67197B-2	 	He Hi In 		102	Wild	F5 V	{ 0 }	(B88-4)	[A931]	BE	11	-2816
+Ilel	J	1323	Shunim	X768000-4	 	Di 		014	Wild	F4 V M4 V	{ -3 }	(C00-2)	[0000]	B	17	-24
+Ilel	J	1325	Klesteus	XAAA000-D	 	Di Fl 		013	Wild	M3 V	{ -1 }	(D00+1)	[0000]	B	14	13
+Ilel	J	1326	Strype	X879000-4	 	Di 		013	Wild	G9 V	{ -3 }	(600-3)	[0000]	B	15	-18
+Ilel	J	1328	De Sadyngton	X8879AB-2	 	Ga Hi Pr 		303	Wild	K2 V M1 V	{ -1 }	(B86+4)	[9893]	BcE	10	2112
+Ilel	J	1329	Flo	X400000-F	 	Di Va 		000	Wild	F2 V M0 V	{ -1 }	(600+2)	[0000]	B	7	12
+Ilel	J	1330	Idle	X431000-9	 	Di Px Po 		004	Wild	M2 V	{ -2 }	(A00+4)	[0000]	B	12	40
+Ilel	B	1401	Hadley	X431000-D	 	Di Po 		000	Wild	K6 V	{ -1 }	(600+1)	[0000]	B	5	6
+Ilel	B	1404	Kaler	X571000-3	 	Di He 		011	Wild	G9 V M3 V	{ -3 }	(600+1)	[0000]	B	8	6
+Ilel	B	1406	Krieger	X95A000-0	 	Ba Wa 		035	Wild	F8 V	{ -3 }	(400+1)	[0000]	B	12	4
+Ilel	B	1407	Sherwood	D573000-7	 	Di 		000	Wild	F8 V	{ -3 }	(700+1)	[0000]	B	9	7
+Ilel	B	1409	Wendigo	X665000-6	 	Di Ga 		002	Wild	F5 V M9 V	{ -3 }	(600+4)	[0000]	B	14	24
+Ilel	B	1410	Slavic	D551789-4	 	Po 		401	Wild	M2 V	{ -2 }	(963-2)	[7552]	B	8	-324
+Ilel	F	1412	Catarina	E663977-6	 	Hi Pr 		302	Wild	F8 V M1 V	{ -1 }	(B86+2)	[E855]	BcE	8	1056
+Ilel	F	1413	Lissajous	X432000-9	 	Di Po 		014	Wild	M1 V M4 V	{ -2 }	(A00-4)	[0000]	B	10	-40
+Ilel	F	1418	Daikini	X729000-D	 	Di 		013	Wild	M1 V	{ -1 }	(700+1)	[0000]	B	7	7
+Ilel	F	1419	Rach	D998000-7	 	Di 		023	Wild	F8 V M1 V	{ -3 }	(300+2)	[0000]	B	15	6
+Ilel	J	1424	Neal	D554841-2	 	Pa Ph 		104	Wild	M0 V	{ -2 }	(A71-1)	[5647]	Bce	11	-70
+Ilel	N	1436	Hoyt	X647000-5	 	Di 		005	Wild	K2 V M1 V	{ -3 }	(600+2)	[0000]	B	15	12
+Ilel	B	1501	Tia	X586000-7	 	Di 		004	Wild	F5 V	{ -3 }	(500+1)	[0000]	B	11	5
+Ilel	B	1502	Tardin	X565495-0	 	Ni Pa 		100	Wild	M0 V	{ -3 }	(633+1)	[5111]	Bc	13	54
+Ilel	B	1503	Jacha	C656498-7	 	Ga Ni Pa 		110	Wild	M3 V	{ -2 }	(830+1)	[1256]	Bc	10	24
+Ilel	B	1505	Punit	X55047C-1	 	De Ni Po 		303	Wild	K4 V M0 V	{ -3 }	(733-4)	[3152]	B	10	-252
+Ilel	B	1510	Savankala	X000000-C	 	As Va Di Na 		003	Wild	K0 V	{ -1 }	(B00-3)	[0000]	B	11	-33
+Ilel	F	1511	Beorhthildi	X433000-7	 	Di Na Px Po 		014	Wild	K0 V M3 V	{ -3 }	(800+3)	[0000]	B	9	24
+Ilel	F	1517	Meer	X430000-D	 	De Di Po 		004	Wild	K6 V	{ -1 }	(900-2)	[0000]	B	12	-18
+Ilel	J	1523	Philippo	D86A648-5	 	Ni Ri Wa 		423	Wild	M1 V	{ -2 }	(853-1)	[6494]	BC	8	-120
+Ilel	J	1525	Thurnir	X420000-E	 	De He Di Na Po 		003	Wild	M2 V	{ -1 }	(B00-1)	[0000]	B	14	-11
+Ilel	J	1526	Orcus	X584997-2	 	Hi Pr 		201	Wild	G4 V M8 V	{ -1 }	(B86+2)	[7886]	BcE	14	1056
+Ilel	J	1527	Orion	X420000-F	 	De He Di Po 		014	Wild	K6 V M1 V	{ -1 }	(C00+1)	[0000]	B	8	12
+Ilel	J	1530	Talarin	X844687-0	 	Ag Ni 		504	Wild	F5 V	{ -2 }	(A54-2)	[6483]	BC	7	-400
+Ilel	B	1601	Kapa	X533000-F	 	Di Na Po 		005	Wild	F7 V	{ -1 }	(H00-2)	[0000]	B	8	-34
+Ilel	B	1603	Wild	X597000-4	 	Di 		002	Wild	F4 V	{ -3 }	(800-1)	[0000]	B	8	-8
+Ilel	B	1604	Kubkli	X424000-A	 	Di 		004	Wild	K7 V	{ -1 }	(800-2)	[0000]	B	7	-16
+Ilel	B	1605	Mayre	X758744-0	 	Ag 		112	Wild	G0 V M2 V	{ -1 }	(963+1)	[6631]	BC	13	162
+Ilel	B	1608	Junoi	X000000-F	 	As Va Di 		003	Wild	K2 V	{ -1 }	(900+1)	[0000]	B	14	9
+Ilel	F	1611	Schenectady	X535000-A	 	Di 		000	Wild	M3 V M4 V	{ -1 }	(600+1)	[0000]	B	13	6
+Ilel	F	1613	Newit	X694000-5	 	Di 		002	Wild	K3 V	{ -3 }	(800-2)	[0000]	B	10	-16
+Ilel	F	1615	Winiholdo	X675778-0	 	Ag Pi 		123	Wild	M2 V	{ -1 }	(963+1)	[9621]	BCD	11	162
+Ilel	F	1617	Fomalhaut	X573000-7	 	Di 		013	Wild	M3 V	{ -3 }	(800+1)	[0000]	B	8	8
+Ilel	F	1618	Dakar	X988899-0	 	Pa Ri Ph 		113	Wild	F9 V M5 V	{ -1 }	(A74-5)	[6734]	BcCe	9	-1400
+Ilel	J	1623	Silius	X202000-C	 	Di Ic Va 		003	Wild	M0 V M3 V	{ -1 }	(A00-2)	[0000]	B	15	-20
+Ilel	J	1624	Ffenton	X300000-D	 	Di Va 		000	Wild	M1 V M9 V	{ -1 }	(500-2)	[0000]	B	5	-10
+Ilel	J	1627	Poe	E595000-7	 	Di 		004	Wild	K6 V M1 V	{ -3 }	(400+2)	[0000]	B	8	8
+Ilel	J	1628	Teyle	X867AB9-0	 	Ga Hi 		425	Wild	F9 V M9 V	{ -1 }	(C95-3)	[B945]	BE	10	-1620
+Ilel	J	1630	Lyceum	X431000-A	 	Di Na Po 		023	Wild	F3 V	{ -1 }	(G00+3)	[0000]	B	9	48
+Ilel	N	1631	De Wandesford	D995000-7	 	Di 		003	Wild	K3 V	{ -3 }	(500-3)	[0000]	B	15	-15
+Ilel	C	1701	Base 1701	X425000-D	 	Di Px 		010	Wild	M2 V	{ -1 }	(600+3)	[0000]	B	7	18
+Ilel	C	1703	Drywater	X5615AE-1	 	Ni Pr 		200	Wild	K3 V	{ -3 }	(741+1)	[6223]	Bc	9	28
+Ilel	C	1704	Beaumonde	X55459C-1	 	Ag Ni 		103	Wild	M2 V M7 V	{ -2 }	(740+1)	[1311]	BC	10	28
+Ilel	C	1708	Maxwell's Rock	X201000-D	 	Di Ic Va 		020	Wild	M1 V	{ -1 }	(800+5)	[0000]	B	9	40
+Ilel	C	1709	Granite	X510000-C	 	Di 		013	Wild	M0 V M9 V	{ -1 }	(800+1)	[0000]	B	8	8
+Ilel	C	1710	Vesper	X581000-6	 	Di 		021	Wild	F4 V	{ -3 }	(500+3)	[0000]	B	8	15
+Ilel	G	1711	Hinate	X420000-C	 	De He Di Na Pi Po 		010	Wild	M0 V M1 V M7 V	{ -1 }	(B00+1)	[0000]	BD	11	11
+Ilel	G	1715	Squee'twok	X89A000-6	 	Di Wa 		003	Wild	F5 V	{ -3 }	(500-1)	[0000]	B	11	-5
+Ilel	G	1719	Outpost	X411000-F	 	Di Ic 		020	Wild	M2 V M8 V	{ -1 }	(800+1)	[0000]	B	10	8
+Ilel	G	1720	Brobdignag	X999000-1	 	Di 		010	Wild	F5 V M6 V	{ -3 }	(400+5)	[0000]	B	8	20
+Ilel	K	1721	Azimir	X695000-5	 	Di Pi 		023	Wild	M2 V	{ -3 }	(900-3)	[0000]	BD	8	-27
+Ilel	K	1723	McKee	X432000-C	 	Di Po 		014	Wild	G0 V M4 V	{ -1 }	(C00-3)	[0000]	B	9	-36
+Ilel	K	1725	Orkney	X544000-3	 	Di 		002	Wild	F9 V	{ -3 }	(600-3)	[0000]	B	9	-18
+Ilel	K	1726	Nadia	X537000-6	 	Di 		004	Wild	M3 V M8 V	{ -3 }	(800+2)	[0000]	B	7	16
+Ilel	K	1727	Crepe	D5607BG-4	 	De Ri 		304	Wild	G4 V	{ -1 }	(96A-3)	[8672]	BC	11	-1620
+Ilel	K	1728	Williamwyff	X97A000-3	 	Di Wa 		000	Wild	K3 V M5 V	{ -3 }	(800-3)	[0000]	B	10	-24
+Ilel	K	1729	Desmond	X526000-9	 	Di 		004	Wild	G4 V	{ -2 }	(800+4)	[0000]	B	11	32
+Ilel	C	1801	Ultima Thule	X675850-0	 	Pa Pi Ph 		102	Wild	K3 V M0 V	{ -2 }	(A78+1)	[8661]	BcDe	12	560
+Ilel	C	1807	Ranchero	X578874-0	 	Pa Pi Ph 		404	Wild	F5 V M3 V	{ -2 }	(A73-1)	[C671]	BcDe	9	-210
+Ilel	C	1808	Penance	X433000-B	 	Di Po 		023	Wild	G3 V	{ -1 }	(B00+2)	[0000]	B	13	22
+Ilel	G	1815	Ganesha	X565777-0	 	Ag Ri 		423	Wild	K0 V M7 V	{ 0 }	(968+2)	[3761]	BC	12	864
+Ilel	G	1817	Del Gayr	X786997-2	 	Ga Hi Pr 		203	Wild	M2 V M3 V	{ -1 }	(B86-1)	[E887]	BcE	6	-528
+Ilel	G	1820	Mawer	X553532-0	 	Ni Po 		200	Wild	F4 V	{ -3 }	(B40-3)	[6231]	B	8	-132
+Ilel	K	1824	Maruicio	X839000-9	 	Di 		003	Wild	K2 V	{ -2 }	(900-1)	[0000]	B	10	-9
+Ilel	C	1903	Base 1903	X542000-3	 	Di He Po 		003	Wild	F7 V M3 V	{ -3 }	(700-1)	[0000]	B	10	-7
+Ilel	C	1906	Monda Bella	X56468A-0	 	Ag Ri Ni 		402	Wild	G3 V	{ -1 }	(955+2)	[4561]	BC	11	450
+Ilel	C	1907	Hogan	X100000-B	 	Di Na Pi Va 		005	Wild	F8 V	{ -1 }	(F00-3)	[0000]	BD	9	-45
+Ilel	C	1908	Aramco	X6A7000-A	 	Di Fl 		002	Wild	M0 V	{ -1 }	(600-3)	[0000]	B	6	-18
+Ilel	G	1911	American	D551756-5	 	Po 		403	Wild	G5 V	{ -2 }	(960+1)	[5518]	B	8	54
+Ilel	G	1915	Leoma	X638000-F	 	Di 		012	Wild	M1 V M1 V	{ -1 }	(800-2)	[0000]	B	13	-16
+Ilel	G	1916	Scirocco	X550000-3	 	De Di Po 		002	Wild	M2 V M7 V	{ -3 }	(700+2)	[0000]	B	13	14
+Ilel	G	1919	Pomona	X68487B-0	 	Pa Ri Ph 		402	Wild	M1 V	{ -1 }	(A77+5)	[C721]	BcCe	11	2450
+Ilel	K	1922	Hal	X9C4000-9	 	Di Fl 		003	Wild	F3 V	{ -2 }	(B00-2)	[0000]	B	13	-22
+Ilel	K	1923	Mulyosh	X99A000-0	 	Ba Droy9 Wa 		002	Wild	M2 V M4 V	{ -3 }	(600+1)	[0000]	B	5	6
+Ilel	K	1924	Callipygia	XA98000-1	 	Di 		013	Wild	K2 V	{ -3 }	(700+1)	[0000]	B	15	7
+Ilel	K	1925	Daedalus	D673000-6	 	Di 		003	Wild	F9 V M1 V	{ -3 }	(600+1)	[0000]	B	9	6
+Ilel	K	1926	Gould	X672000-4	 	Di He 		022	Wild	F5 V M7 V	{ -3 }	(600+1)	[0000]	B	11	6
+Ilel	K	1928	Druil	X794000-C	 	Di In 		000	Wild	M1 V M7 V M1 V	{ 0 }	(B00-1)	[0000]	BE	9	-11
+Ilel	K	1929	Holand	XAC7000-A	 	Di Fl 		023	Wild	M2 V M3 V M4 V	{ -1 }	(C00+1)	[0000]	B	9	12
+Ilel	K	1930	Izzy	X420000-C	 	De He Di Po 		004	Wild	F6 V M9 V	{ -1 }	(800+2)	[0000]	B	17	16
+Ilel	C	2001	Cornucopia	C667753-7	 	Ag Ri Ga 		205	Wild	F4 V	{ 1 }	(968+1)	[6878]	BC	8	432
+Ilel	C	2002	Warhead	X422000-B	 	Di He Na Pi Po 		010	Wild	K3 V	{ -1 }	(B00-5)	[0000]	BD	9	-55
+Ilel	C	2004	K28	X100000-C	 	Di Va 		005	Wild	M3 V M9 V	{ -1 }	(B00-1)	[0000]	B	8	-11
+Ilel	C	2005	Grubstake	X439000-F	 	Di 		000	Wild	F4 V M7 V	{ -1 }	(600-4)	[0000]	B	13	-24
+Ilel	G	2013	Atte	X529000-F	 	Di In SuerW 		020	Wild	M2 V	{ 0 }	(E00+1)	[0000]	BE	10	14
+Ilel	G	2014	Carlyle	X543000-0	 	Ba Po 		013	Wild	G1 V M5 V	{ -3 }	(700+1)	[0000]	B	11	7
+Ilel	G	2016	Matteo	D788000-4	 	Di 		015	Wild	F4 V	{ -3 }	(400+1)	[0000]	B	9	4
+Ilel	G	2019	Shalud	X56057B-1	 	De Ni Pr SuerW 		404	Wild	F6 V	{ -3 }	(842+5)	[2243]	Bc	9	320
+Ilel	K	2021	Dave	XAA9000-B	 	Di Fl 		003	Wild	F9 V M9 V	{ -1 }	(700-4)	[0000]	B	8	-28
+Ilel	K	2024	Agaru	X430000-F	 	De Di Na Po Suer8 		023	Wild	F6 V	{ -1 }	(G00+1)	[0000]	B	12	16
+Ilel	K	2027	Sashlunsdham	XA8A9B9-1	 	Hi Oc Pr Suer8 		322	Wild	M3 V M3 V	{ -1 }	(C85+1)	[A811]	BcE	9	480
+Ilel	K	2029	Stapleton	E99A000-4	 	Di Wa 		004	Wild	F6 V M1 V	{ -3 }	(500-3)	[0000]	B	10	-15
+Ilel	K	2030	Kathar	X430000-A	 	De Di Na Po 		025	Wild	G6 V	{ -1 }	(H00+5)	[0000]	B	13	85
+Ilel	C	2101	Shume	X310000-F	 	Di Na In Suer9 		004	Wild	F4 V	{ 0 }	(G00-1)	[0000]	BE	11	-16
+Ilel	C	2102	Dyson's World	X100000-8	 	Di Va 		010	Wild	K2 V M5 V	{ -3 }	(500+1)	[0000]	B	9	5
+Ilel	C	2103	Gobi	X560679-0	 	De Ni Ri 		314	Wild	K6 V M1 V	{ -2 }	(850+1)	[4491]	BC	8	40
+Ilel	C	2105	Pax	D687975-5	 	Ga Hi Pr 		203	Wild	F8 V	{ -1 }	(B89+3)	[8855]	BcE	6	2376
+Ilel	C	2106	Aurora	X66549A-1	 	Ga Ni Pa 		103	Wild	G0 V	{ -3 }	(633-3)	[8165]	Bc	12	-162
+Ilel	C	2108	Flora	X564000-7	 	Di 		004	Wild	K9 V M4 V	{ -3 }	(700+4)	[0000]	B	13	28
+Ilel	G	2113	Krasny Norad	D556876-2	 	Pa Ph 		303	Wild	F7 V M1 V	{ -2 }	(A71+4)	[7671]	Bce	6	280
+Ilel	G	2114	Base 271	X302000-C	 	Di Ic Va Na 		000	Wild	M2 V M3 V	{ -1 }	(800+3)	[0000]	B	13	24
+Ilel	G	2115	Guardian	X611000-C	 	Di Ic 		013	Wild	A3 V	{ -1 }	(A00+1)	[0000]	B	15	10
+Ilel	G	2117	Talbot	C688751-6	N 	Ag Ri 		503	Wild	G1 V M4 V	{ 1 }	(A65+1)	[4834]	BC	16	300
+Ilel	G	2118	Mountain Home	X764000-6	 	Di 		023	Wild	K3 V	{ -3 }	(700+1)	[0000]	B	12	7
+Ilel	K	2123	Hilaire	X727000-7	 	Di Pi 		011	Wild	K1 V	{ -3 }	(A00-4)	[0000]	BD	13	-40
+Ilel	K	2127	Aamuri	X583776-0	 	Ri Suer8 		104	Wild	F4 V	{ -1 }	(C66+4)	[7651]	BC	15	1728
+Ilel	K	2129	Azyuna	X5447BB-0	 	Ag Pi 		114	Wild	F7 V	{ -1 }	(967-2)	[6664]	BCD	11	-756
+Ilel	C	2201	Migid	E65798B-4	 	Ga Hi 		203	Wild	F4 V	{ -1 }	(C86-4)	[E868]	BE	14	-2304
+Ilel	C	2204	Lashaar	X997000-5	 	Di 		023	Wild	M0 V	{ -3 }	(700+3)	[0000]	B	15	21
+Ilel	C	2207	Retreat	X435000-9	 	Di 		001	Wild	K2 V	{ -2 }	(700-3)	[0000]	B	6	-21
+Ilel	C	2208	Khirar	X644000-0	 	Ba SuerW 		000	Wild	M2 V M6 V	{ -3 }	(B00+1)	[0000]	B	13	11
+Ilel	G	2213	Kramer	X435000-D	 	Di Px 		004	Wild	K0 V M7 V	{ -1 }	(900+3)	[0000]	B	8	27
+Ilel	G	2215	Prunt	X435000-7	 	Di SuerW 		001	Wild	K7 V M2 V	{ -3 }	(700+1)	[0000]	B	9	7
+Ilel	G	2216	Imsaggir	D5499C8-7	 	Hi In SuerW 		322	Wild	M2 V M8 V	{ 0 }	(B83+4)	[A95A]	BE	10	1056
+Ilel	G	2217	Reserve	X776000-1	 	Di 		003	Wild	K7 V	{ -3 }	(700-1)	[0000]	B	13	-7
+Ilel	G	2218	Yard 14	X543858-1	 	Ph Pi Po 		304	Wild	M3 V	{ -2 }	(A71+5)	[B661]	BDe	13	350
+Ilel	G	2219	Lidas	X401000-C	 	Di Ic Va 		002	Wild	F7 V	{ -1 }	(500+2)	[0000]	B	10	10
+Ilel	K	2221	Schloss	X7C8000-C	 	Di Fl 		005	Wild	K1 V M9 V	{ -1 }	(B00+2)	[0000]	B	15	22
+Ilel	K	2222	Ghant	X548000-6	 	Di 		002	Wild	M3 V	{ -3 }	(500-2)	[0000]	B	12	-10
+Ilel	K	2224	Agari	X562000-F	 	Di Suer9 		004	Wild	F5 V	{ -1 }	(G00+1)	[0000]	B	13	16
+Ilel	K	2226	Jianwei	D766000-7	 	Di Ga 		003	Wild	K3 V M9 V	{ -3 }	(500-2)	[0000]	B	13	-10
+Ilel	C	2301	Islands	X6598A8-1	 	Ph 		302	Wild	M1 V M5 V	{ -2 }	(A77-1)	[A613]	Be	13	-490
+Ilel	C	2302	Enclave	X542000-6	 	Di He Po 		010	Wild	G3 V M9 V	{ -3 }	(600-1)	[0000]	B	10	-6
+Ilel	C	2305	'Tlak	X88A000-A	 	Di Wa 		003	Wild	F7 V M9 V	{ -1 }	(D00+1)	[0000]	B	7	13
+Ilel	C	2307	Wotan	X672000-0	 	Ba He 		003	Wild	F8 V	{ -3 }	(500+1)	[0000]	B	11	5
+Ilel	C	2310	Wendover	X430000-C	 	De Di Po 		003	Wild	M2 V	{ -1 }	(900+1)	[0000]	B	16	9
+Ilel	G	2311	Tellus Nova	X784777-0	 	Ag Ri 		513	Wild	G6 V M8 V M6 V	{ 0 }	(A66-1)	[9761]	BC	11	-360
+Ilel	G	2312	Yggsdrasil	X9B5000-8	 	Di Fl 		022	Wild	F9 V	{ -3 }	(E00+1)	[0000]	B	7	14
+Ilel	G	2313	Chevron	X7C4000-9	 	Di Fl 		003	Wild	G0 V M1 V	{ -2 }	(900-4)	[0000]	B	13	-36
+Ilel	G	2314	N'gorongoro	X796000-3	 	Di 		003	Wild	G2 V	{ -3 }	(500-3)	[0000]	B	12	-15
+Ilel	G	2315	Durward	X577000-2	 	Di Suer7 		000	Wild	F4 V M5 V	{ -3 }	(B00+1)	[0000]	B	13	11
+Ilel	G	2316	K'laktash	X67A000-4	 	Di Wa 		004	Wild	K0 V	{ -3 }	(700-2)	[0000]	B	17	-14
+Ilel	G	2320	K'lakt'squa	X98A000-3	 	Di Wa 		020	Wild	F6 V M4 V	{ -3 }	(500+1)	[0000]	B	13	5
+Ilel	K	2323	Uruguay	X7A4000-B	 	Di Fl 		003	Wild	G4 V	{ -1 }	(D00+1)	[0000]	B	10	13
+Ilel	K	2325	Calvin	X000000-E	 	As Va Di 		002	Wild	M2 V	{ -1 }	(900+5)	[0000]	B	11	45
+Ilel	K	2326	Arni	X73A000-D	 	Di Wa 		000	Wild	M0 V M1 V	{ -1 }	(900+3)	[0000]	B	11	27
+Ilel	K	2330	Zaadurar	X302000-F	 	Di Ic Va Na In 		000	Wild	F2 V M3 V M0 V	{ 0 }	(C00+1)	[0000]	BE	9	12
+Ilel	C	2401	Hadley	X68457A-1	 	Ag Pr Ni 		112	Wild	F6 V M1 V	{ -2 }	(743+1)	[A381]	BcC	8	84
+Ilel	C	2402	Cordelia	E574000-7	 	Di 		020	Wild	F7 V	{ -3 }	(500+1)	[0000]	B	10	5
+Ilel	C	2403	Sony	X200000-D	 	Di Va 		004	Wild	M6 III	{ -1 }	(800-1)	[0000]	B	15	-8
+Ilel	C	2404	Orcim	X541779-0	 	He Pi Po 		213	Wild	F4 V	{ -2 }	(A62-1)	[7512]	BD	8	-120
+Ilel	C	2408	'Twee	X55A000-3	 	Di Gray8 Wa 		013	Wild	F6 V M1 V	{ -3 }	(800+1)	[0000]	B	10	8
+Ilel	C	2410	Rayaloybex	D546000-8	 	Di Droy7 		015	Wild	M2 V	{ -3 }	(E00-3)	[0000]	B	13	-42
+Ilel	G	2411	Petroleos	X579000-0	 	Ba 		004	Wild	G2 V	{ -3 }	(600+2)	[0000]	B	8	12
+Ilel	G	2418	Ghost Town	X542000-4	 	Di He Po 		013	Wild	F9 V M3 V	{ -3 }	(600-4)	[0000]	B	8	-24
+Ilel	K	2422	Canoga	D987878-4	 	Pa Ri Ph 		314	Wild	F5 V	{ -1 }	(A75+1)	[4755]	BcCe	9	350
+Ilel	K	2425	Corimini	D64A000-7	 	Di Wa 		020	Wild	F6 V M6 V	{ -3 }	(900-2)	[0000]	B	9	-18
+Ilel	K	2427	Lalita	X401000-D	 	Di Ic Va 		002	Wild	M1 V	{ -1 }	(600+5)	[0000]	B	14	30
+Ilel	K	2428	Halifax	X799000-5	 	Di 		004	Wild	M2 V M2 V	{ -3 }	(700-1)	[0000]	B	7	-7
+Ilel	D	2501	Kirsten's Rock	X300000-D	 	Di Va 		004	Wild	M2 V	{ -1 }	(B00+1)	[0000]	B	11	11
+Ilel	D	2503	Wilkenson	X644000-6	 	Di 		013	Wild	M1 V	{ -3 }	(500+5)	[0000]	B	9	25
+Ilel	D	2506	Squee'kak	DA9A000-9	 	Di Oc 		015	Wild	F8 V	{ -2 }	(C00-1)	[0000]	B	12	-12
+Ilel	D	2507	Freedom	X639000-B	 	Di 		005	Wild	M3 V M6 V	{ -1 }	(B00-5)	[0000]	B	12	-55
+Ilel	D	2508	Tanith	X766486-1	 	Ga Ni Pa 		112	Wild	M1 V	{ -3 }	(632-1)	[5151]	Bc	8	-36
+Ilel	D	2509	Mordred	XAB8000-D	 	Di Fl 		004	Wild	M5 III D	{ -1 }	(D00-3)	[0000]	B	10	-39
+Ilel	H	2512	Brandenburg	X433000-E	 	Di Po 		002	Wild	M1 V M3 V	{ -1 }	(700+1)	[0000]	B	9	7
+Ilel	H	2513	Yuma	X550000-3	 	De Di Po 		003	Wild	M1 V	{ -3 }	(400-3)	[0000]	B	7	-12
+Ilel	H	2516	Blessed	X65877A-0	 	Ag 		302	Wild	F4 V M5 V	{ -1 }	(966+1)	[9651]	BC	9	324
+Ilel	H	2517	Fluorine	X7C3000-B	 	Di Fl 		013	Wild	A2 V M3 V	{ -1 }	(D00+1)	[0000]	B	11	13
+Ilel	H	2518	Sandpile	X540000-0	 	Ba De He Po 		025	Wild	M2 V	{ -3 }	(500+1)	[0000]	B	11	5
+Ilel	H	2519	Riverine	E774000-7	 	Di 		002	Wild	F4 V	{ -3 }	(700+4)	[0000]	B	12	28
+Ilel	H	2520	Irlariir	X75778A-0	 	Ag Ga 		200	Wild	K9 V	{ -1 }	(C68-2)	[A681]	BC	12	-1152
+Ilel	L	2521	Luftwaffe	X100000-B	 	Di Va 		014	Wild	F2 V M3 V M2 V	{ -1 }	(C00+1)	[0000]	B	10	12
+Ilel	L	2523	Cretaceous	X748000-7	 	Di 		000	Wild	K2 V	{ -3 }	(700+2)	[0000]	B	8	14
+Ilel	L	2524	Akio	E66279E-4	 	Ri 		323	Wild	M0 V M7 V M2 V	{ -1 }	(B64+1)	[4654]	BC	11	264
+Ilel	L	2526	Austin	X564453-2	 	Ni Pa 		223	Wild	M2 V	{ -3 }	(730-2)	[1147]	Bc	8	-42
+Ilel	L	2527	Benedetto	X5A4000-C	 	Di Fl 		014	Wild	F5 V M6 V	{ -1 }	(900+1)	[0000]	B	12	9
+Ilel	L	2528	Aubert	X57A97A-2	 	Hi In Wa 		220	Wild	K0 V	{ 0 }	(98A+4)	[6981]	BE	11	2880
+Ilel	L	2529	Toye	C677730-6	 	Ag Pi 		402	Wild	F5 V	{ 0 }	(965-3)	[B722]	BCD	5	-810
+Ilel	D	2601	Yard 10	X300000-D	 	Di O:Gush-2839 Va 		022	Wild	K6 III M3 V	{ -1 }	(A00+1)	[0000]	B	7	10
+Ilel	D	2604	Volcano	D576799-4	 	Ag Pi 		105	Wild	M1 V	{ -1 }	(964-4)	[9654]	BCD	10	-864
+Ilel	D	2606	Colony 8	E759000-4	S	Di 		014	Wild	F6 V	{ -3 }	(500-4)	[0000]	B	11	-20
+Ilel	D	2607	Barrington	X574000-6	 	Di Pi Suer4 		022	Wild	M0 V M6 V	{ -3 }	(A00-3)	[0000]	BD	10	-30
+Ilel	D	2609	Rodina	D79569A-3	 	Ag Ni 		503	Wild	G6 V	{ -2 }	(854+1)	[9465]	BC	12	160
+Ilel	D	2610	Garden	X664955-3	 	Hi Pr Suer4 		102	Wild	K0 V M7 V	{ -1 }	(B85+2)	[7885]	BcE	9	880
+Ilel	H	2613	Hell	X9C4000-C	 	Di Fl 		004	Wild	K7 V M9 V	{ -1 }	(800-2)	[0000]	B	8	-16
+Ilel	H	2615	Dilfer Station	X000000-F	 	As Va Di 		002	Wild	F5 V	{ -1 }	(500+1)	[0000]	B	6	5
+Ilel	H	2620	Plateau	X78698B-0	 	Ga Hi Pr 		220	Wild	M0 V M3 V	{ -1 }	(B8B-1)	[B841]	BcE	11	-968
+Ilel	L	2624	Yates	X835000-C	 	Di 		011	Wild	M2 V	{ -1 }	(800-4)	[0000]	B	10	-32
+Ilel	L	2625	Remington	X76A000-1	 	Di Wa 		024	Wild	F4 V	{ -3 }	(700+3)	[0000]	B	12	21
+Ilel	L	2627	Tunge	X888522-1	 	Ag Pr Ni 		114	Wild	M0 V	{ -2 }	(743+3)	[2341]	BcC	13	252
+Ilel	L	2629	Silvio	X426000-D	 	Di Pi 		013	Wild	M0 V	{ -1 }	(E00+3)	[0000]	BD	11	42
+Ilel	D	2702	Vluupge	X422000-B	 	Di He Px Po 		000	Wild	K1 V M1 V	{ -1 }	(700-3)	[0000]	B	13	-21
+Ilel	D	2704	Gamma Lupus 2	X6B4000-D	 	Di Fl 		001	Wild	M0 V M1 V	{ -1 }	(600+5)	[0000]	B	10	30
+Ilel	D	2707	Hardy	D877954-4	 	Hi In Suer8 		311	Wild	M2 V	{ 0 }	(B88+1)	[7983]	BE	15	704
+Ilel	D	2708	Squee'qua	X58A000-6	 	Di SuerW Wa 		000	Wild	F9 V	{ -3 }	(600+3)	[0000]	B	6	18
+Ilel	H	2711	Zhiphar	X668989-0	 	Chir6 Hi Pr 		424	Wild	G6 V	{ -1 }	(B86+1)	[A851]	BcE	12	528
+Ilel	H	2712	Cantos	X55347C-0	 	Ni Po 		212	Wild	M2 V M6 V M4 V	{ -3 }	(730-1)	[6111]	B	15	-21
+Ilel	H	2715	Homestead	D87677B-4	 	Ag Pi 		204	Wild	G2 V	{ -1 }	(96A+3)	[7681]	BCD	9	1620
+Ilel	H	2716	New Dakota	D688978-3	 	Hi Pr Suer7 		103	Wild	K1 V	{ -1 }	(B87+3)	[6861]	BcE	6	1848
+Ilel	H	2717	Thor	X895000-2	 	Di Pi 		002	Wild	K2 V M9 V	{ -3 }	(A00-3)	[0000]	BD	10	-30
+Ilel	H	2718	Sleght	C551435-7	 	Ni Po 		312	Wild	F8 V	{ -2 }	(830-2)	[2236]	B	7	-48
+Ilel	L	2723	Xentak	X79A000-4	 	Di Wa 		022	Wild	F8 V	{ -3 }	(700+1)	[0000]	B	11	7
+Ilel	L	2728	Malabar	X789000-4	 	Di 		000	Wild	F9 V	{ -3 }	(400+1)	[0000]	B	12	4
+Ilel	D	2803	Windsong	X5406A6-0	 	De He Ni Po 		403	Wild	F6 V	{ -3 }	(850+1)	[9352]	B	15	40
+Ilel	D	2806	Haven	X669678-0	 	Ni Ri 		101	Wild	F4 V M7 V	{ -2 }	(850+1)	[7461]	BC	8	40
+Ilel	D	2807	Dilipuu	X672000-0	 	Ba He SuerW 		014	Wild	K5 V	{ -3 }	(C00-2)	[0000]	B	8	-24
+Ilel	D	2810	Canyon	X586000-3	 	Di 		002	Wild	M0 V	{ -3 }	(700+1)	[0000]	B	9	7
+Ilel	H	2812	Maffei	C56587A-5	 	Pa Ri Ph 		213	Wild	G1 V	{ 0 }	(A76+1)	[9827]	BcCe	10	420
+Ilel	H	2813	Goerke's Rock	X310000-E	 	Di 		002	Wild	M2 V M2 V	{ -1 }	(600-5)	[0000]	B	8	-30
+Ilel	H	2814	Viques	X430000-D	 	De Di Po 		002	Wild	M1 V M7 V	{ -1 }	(900-4)	[0000]	B	14	-36
+Ilel	H	2815	Poseidon	X77A000-6	 	Di Suer7 Wa 		000	Wild	F8 V M1 V	{ -3 }	(B00+1)	[0000]	B	9	11
+Ilel	H	2817	Shudash	X526000-F	 	Di In SuerW 		022	Wild	M0 V	{ 0 }	(F00-5)	[0000]	BE	7	-75
+Ilel	H	2819	Target	X400000-F	 	Di Va 		012	Wild	F0 V M8 V	{ -1 }	(900-1)	[0000]	B	16	-9
+Ilel	H	2820	Delta 2	X577000-0	 	Ba 		000	Wild	F4 V M1 V M3 V	{ -3 }	(400-4)	[0000]	B	13	-16
+Ilel	L	2821	Ghali	X9C9000-E	 	Di Fl In 		002	Wild	G1 V M6 V	{ 0 }	(E00+1)	[0000]	BE	10	14
+Ilel	L	2822	Ralsaed	X98A472-3	 	Ni Wa 		104	Wild	K9 V	{ -3 }	(630+3)	[6192]	B	14	54
+Ilel	L	2824	Haag	X898000-5	 	Di 		002	Wild	K0 V M5 V	{ -3 }	(700-4)	[0000]	B	15	-28
+Ilel	L	2825	Lorraine	X542000-6	 	Di He Po 		003	Wild	G2 V M9 V	{ -3 }	(700+1)	[0000]	B	12	7
+Ilel	L	2826	Littleton	X433000-A	 	Di Na Po 		004	Wild	M2 V	{ -1 }	(D00-3)	[0000]	B	9	-39
+Ilel	L	2828	Dolsa	D646000-5	T 	Di 		003	Wild	M1 V	{ -3 }	(700-1)	[0000]	B	10	-7
+Ilel	D	2907	Ilelish	X674000-5	 	(Suerrat) Di 		004	Wild	M0 V	{ -3 }	(C00-1)	[0000]	B	10	-12
+Ilel	D	2909	Haleakala	X558530-1	 	Ag Ni 		120	Wild	M2 V	{ -2 }	(740-1)	[1343]	BC	8	-28
+Ilel	H	2911	Imur	X525000-D	 	Di In SuerW 		013	Wild	K4 V	{ 0 }	(F00+4)	[0000]	BE	13	60
+Ilel	H	2913	H 2913	X653574-1	 	Ni Po 		224	Wild	G6 V M5 V	{ -3 }	(741+1)	[6231]	B	9	28
+Ilel	H	2915	Nihon	X674000-7	 	Di Pi 		012	Wild	M1 V M5 V	{ -3 }	(900+1)	[0000]	BD	10	9
+Ilel	H	2919	Icehouse	XA9A000-8	 	Di Oc 		014	Wild	M2 V	{ -3 }	(C00+4)	[0000]	B	8	48
+Ilel	L	2922	Lessham	X562400-2	 	Ni 		225	Wild	M2 V	{ -3 }	(633-2)	[3154]	B	13	-108
+Ilel	L	2923	Chirtte	X433000-A	 	Di Na Po 		001	Wild	M2 V M9 V	{ -1 }	(B00+2)	[0000]	B	13	22
+Ilel	L	2925	Drogan	D552000-7	 	Di Po 		004	Wild	K2 V M0 V	{ -3 }	(B00+1)	[0000]	B	9	11
+Ilel	L	2929	Hammond	E576000-5	 	Di Pi 		003	Wild	M0 V	{ -3 }	(A00+2)	[0000]	BD	6	20
+Ilel	D	3001	Locus	X545000-3	 	Di 		015	Wild	K1 V	{ -3 }	(600+4)	[0000]	B	12	24
+Ilel	D	3003	Shudiikii	X500000-D	 	Di Na In Suer3 Va 		000	Wild	F0 V	{ 0 }	(B00+2)	[0000]	BE	10	22
+Ilel	D	3004	Kigaru	X594000-8	 	Di SuerW 		003	Wild	M0 V M3 V	{ -3 }	(F00-1)	[0000]	B	6	-15
+Ilel	D	3006	Beta Cygnus 4	X500000-B	 	Di Va 		000	Wild	M0 V M0 V	{ -1 }	(500-5)	[0000]	B	7	-25
+Ilel	D	3008	Freya	D785888-2	 	Ga Pa Ri Ph Suer8 		115	Wild	F5 V M7 V	{ -1 }	(A76-5)	[5781]	BcCe	11	-2100
+Ilel	D	3009	Sean's Landing	X436000-D	 	Di 		002	Wild	M0 V	{ -1 }	(500+1)	[0000]	B	5	5
+Ilel	H	3012	Betio Station	X000000-E	 	As Va Di 		004	Wild	M1 V	{ -1 }	(900+2)	[0000]	B	9	18
+Ilel	H	3015	Jem	X767000-5	 	Di Ga 		005	Wild	F9 V	{ -3 }	(400+4)	[0000]	B	12	16
+Ilel	H	3016	Granery	X544000-5	 	Di 		002	Wild	F9 V	{ -3 }	(700+4)	[0000]	B	5	28
+Ilel	H	3018	H 3018	X535000-A	 	Di 		014	Wild	M2 V	{ -1 }	(900-1)	[0000]	B	14	-9
+Ilel	H	3020	Snohomish	X886000-3	 	Di Ga 		000	Wild	K1 V	{ -3 }	(400-2)	[0000]	B	9	-8
+Ilel	L	3022	Swede	X550000-A	 	De Di Po 		020	Wild	F9 V	{ -1 }	(B00-1)	[0000]	B	11	-11
+Ilel	L	3024	April	X76699C-0	 	Ga Hi Pr 		215	Wild	F4 V	{ -1 }	(B87-1)	[B893]	BcE	9	-616
+Ilel	L	3025	Fredholm	X596000-6	 	Di 		013	Wild	F4 V M3 V	{ -3 }	(800+1)	[0000]	B	11	8
+Ilel	L	3027	Ellia	X9A5000-A	 	Di Fl 		002	Wild	M3 V M8 V	{ -1 }	(500-5)	[0000]	B	7	-25
+Ilel	D	3101	Avery	X88788B-0	 	Ga Pa Ri Ph Suer2 		404	Wild	F5 V	{ -1 }	(A76+3)	[C762]	BcCe	13	1260
+Ilel	D	3103	Squee'tak	X95A000-4	 	Di SuerW Wa 		004	Wild	K0 V M8 V	{ -3 }	(900+1)	[0000]	B	10	9
+Ilel	D	3106	Spring	E675000-6	 	Di Suer6 		002	Wild	M0 V	{ -3 }	(B00+1)	[0000]	B	13	11
+Ilel	D	3108	Hiroshi	X595000-6	 	Di 		000	Wild	G0 V	{ -3 }	(600+2)	[0000]	B	6	12
+Ilel	D	3110	Cupertino	X676000-3	 	Di 		002	Wild	F7 V	{ -3 }	(500+3)	[0000]	B	15	15
+Ilel	H	3119	Sigma Station	X561000-3	 	Di 		013	Wild	G5 V	{ -3 }	(500+1)	[0000]	B	7	5
+Ilel	L	3121	Gadirur	X411000-E	 	Di Ic Na In 		003	Wild	G9 V	{ 0 }	(E00-5)	[0000]	BE	16	-70
+Ilel	L	3124	Clerkson	X555000-1	 	Di 		024	Wild	F7 V	{ -3 }	(700+1)	[0000]	B	11	7
+Ilel	L	3127	Rhuna	X000000-D	 	As Va Di Na Pi 		003	Wild	K4 V M0 V	{ -1 }	(C00-3)	[0000]	BD	11	-36
+Ilel	L	3128	Rotaco	X756544-1	 	Ag Ga Ni 		223	Wild	K3 V M0 V	{ -2 }	(740-4)	[6361]	BC	10	-112
+Ilel	D	3203	Halcyon	X656000-1	 	Di Ga 		004	Wild	F9 V M9 V	{ -3 }	(400+1)	[0000]	B	13	4
+Ilel	D	3204	Khali	X554446-1	 	Ni Pa 		203	Wild	M1 V	{ -3 }	(731+3)	[1151]	Bc	8	63
+Ilel	D	3209	Crystal	X79A000-7	 	Di Wa 		000	Wild	M3 V	{ -3 }	(900+1)	[0000]	B	10	9
+Ilel	H	3216	Alldus	X300000-9	 	Di Na Va 		023	Wild	F5 III	{ -2 }	(D00-5)	[0000]	B	12	-65
+Ilel	H	3218	Ansha	X787694-0	 	Ag Ri Ga Ni 		204	Wild	M1 V	{ -1 }	(C50+1)	[8571]	BC	15	60
+Ilel	H	3219	Zephyr	X550000-4	 	De Di Po 		003	Wild	G1 V	{ -3 }	(600-1)	[0000]	B	12	-6
+Ilel	L	3223	Relicta	X596000-4	 	Di Pi 		000	Wild	F5 V	{ -3 }	(900+4)	[0000]	BD	13	36
+Ilel	L	3225	Carmencita	E767543-5	 	Ag Pr Ga Ni 		204	Wild	F8 V M3 V	{ -2 }	(742+1)	[4393]	BcC	11	56
+Ilel	L	3226	Gunde	X433000-B	 	Di Na Po 		022	Wild	M3 V	{ -1 }	(F00+1)	[0000]	B	16	15
+Ilel	L	3228	Mae	X676000-7	 	Di 		003	Wild	F4 V M3 V	{ -3 }	(600+1)	[0000]	B	12	6

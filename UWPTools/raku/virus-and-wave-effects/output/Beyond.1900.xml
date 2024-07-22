@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Sector>
+  <Y>0</Y>
+  <X>-5</X>
+  <Name>The Beyond</Name>
+  <Name>Beyond</Name>
+  <Name Lang="as">Lerlairlaii</Name>
+  <Name Lang="zh">Zhdiakltlatl</Name>
+  <Credits>
+    <![CDATA[
+
+             <b>Beyond</b> sector was designed by Donald P. Rapp and
+             appears in <cite>The Beyond</cite> (Paranoia Press,
+             1981).
+
+    ]]>
+  </Credits>
+  <Subsectors>
+    <Subsector Index="A">Mapepire</Subsector>
+    <Subsector Index="B">Liberty Hall</Subsector>
+    <Subsector Index="C">Die Weltbund</Subsector>
+    <Subsector Index="D">Mal'Gnar Radiant</Subsector>
+    <Subsector Index="E">Subsector Delta</Subsector>
+    <Subsector Index="F">Metchi' Alagwa</Subsector>
+    <Subsector Index="G">Northeast Middle Beyond</Subsector>
+    <Subsector Index="H">Darkling Regions</Subsector>
+    <Subsector Index="I">Zydar</Subsector>
+    <Subsector Index="J">Middle Beyond</Subsector>
+    <Subsector Index="K">I'Sred*Ni Heptad</Subsector>
+    <Subsector Index="L">Araniopa</Subsector>
+    <Subsector Index="M">Spinward Drift</Subsector>
+    <Subsector Index="N">I-Glathriel</Subsector>
+    <Subsector Index="O">Storm</Subsector>
+    <Subsector Index="P">Aslani</Subsector>
+  </Subsectors>
+
+  <Allegiances>
+    <Allegiance Code="As">Aslan Hierate</Allegiance>
+    <Allegiance Code="Fl">Florian League</Allegiance>
+    <Allegiance Code="CA">Comsentient Alliance</Allegiance>
+  </Allegiances>
+
+   <Borders>
+   </Borders>
+
+ </Sector>

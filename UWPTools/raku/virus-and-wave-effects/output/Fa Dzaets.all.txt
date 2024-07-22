@@ -1,0 +1,1459 @@
+Year	Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+1105	Fadz	E	0113	Ghaerergvoulorz	C9A2777-8	 	Fl He 		920	Ve	F6 V	{ 0 }	(D69+1)	[]	B	0	0
+1157	Fadz	E	0113	Ghaerergvoulorz	C9A27A8-6	 	Fl He 		420	Wild	F6 V	{ -1 }	(B67-2)	[7659]	B	0	-924
+1508	Fadz	E	0113	Ghaerergvoulorz	C9A2720-7	 	Fl He 		320	Wild	F6 V	{ -1 }	(B64-4)	[36A7]	B	0	-1056
+1201	Fadz	E	0113	Ghaerergvoulorz	X9A2000-7	 	Di Fl He 		020	Wild	F6 V	{ -3 }	(B00+2)	[0000]	B	0	22
+1900	Fadz	E	0113	Ghaerergvoulorz	B9A2155-C	 	Fl He Lo 		820	NaVa	F6 V	{ 1 }	(D01-5)	[2239]	B	0	-65
+
+1105	Fadz	E	0119	Dhuou	B596211-4	 	Lo 		424	Ve	F7 V M2 D	{ 0 }	(810-2)	[]	B	0	0
+1201	Fadz	E	0119	Dhuou	X596125-0	 	Lo 		724	Ve	F7 V M2 D	{ -3 }	(800+1)	[2121]	B	0	8
+1157	Fadz	E	0119	Dhuou	X596000-0	 	Ba 		024	Wild	F7 V M2 D	{ -3 }	(800-2)	[0000]	B	0	-16
+1508	Fadz	E	0119	Dhuou	X596000-0	 	Ba 		024	Wild	F7 V M2 D	{ -3 }	(800+2)	[0000]	B	0	16
+1900	Fadz	E	0119	Dhuou	D596743-0	 	Ag Pi 		224	NaVa	F7 V M2 D	{ -1 }	(865+1)	[3691]	BCD	0	240
+
+1105	Fadz	I	0124	Rangoenghorar	C240002-8	 	De Di Po 		202	Ve	F6 V M1 D	{ 0 }	(A00+1)	[]	B	0	0
+1201	Fadz	I	0124	Rangoenghorar	X240002-8	 	De Di Po 		202	Ve	F6 V M1 D	{ -3 }	(A00-2)	[0000]	B	0	-20
+1157	Fadz	I	0124	Rangoenghorar	X240000-8	 	De Di Po 		002	Wild	F6 V M1 D	{ -3 }	(A00+1)	[0000]	B	0	10
+1508	Fadz	I	0124	Rangoenghorar	X240000-8	 	De Di Po 		002	Wild	F6 V M1 D	{ -3 }	(A00-1)	[0000]	B	0	-10
+1900	Fadz	I	0124	Rangoenghorar	E240545-A	 	De Ni Po 		602	NaVa	F6 V M1 D	{ -1 }	(A40-4)	[A469]	B	0	-160
+
+1105	Fadz	M	0131	Kiou	E534326-5	 	Lo Px 		128	Ve	M6 V M8 D	{ 0 }	(A20-3)	[]	B	0	0
+1201	Fadz	M	0131	Kiou	X534000-5	 	Di Px 		028	Ve	M6 V M8 D	{ -3 }	(A00+1)	[0000]	B	0	10
+1157	Fadz	M	0131	Kiou	X534000-5	 	Di Px 		028	Wild	M6 V M8 D	{ -3 }	(A00+1)	[0000]	B	0	10
+1508	Fadz	M	0131	Kiou	X534000-5	 	Di 		028	Wild	M6 V M8 D	{ -3 }	(A00+1)	[0000]	B	0	10
+1900	Fadz	M	0131	Kiou	A534202-C	 	Lo 		428	NaVa	M6 V M8 D	{ 1 }	(L11+3)	[331G]	B	0	60
+
+1105	Fadz	M	0132	Kiou	E534326-5	 	Lo Px 		128	Ve	M6 V M8 D	{ 0 }	(720+4)	[]	B	0	0
+1201	Fadz	M	0132	Kiou	X534000-5	 	Di Px 		028	Ve	M6 V M8 D	{ -3 }	(700+1)	[0000]	B	0	7
+1157	Fadz	M	0132	Kiou	X534000-5	 	Di Px 		028	Wild	M6 V M8 D	{ -3 }	(700-1)	[0000]	B	0	-7
+1508	Fadz	M	0132	Kiou	X534000-5	 	Di 		028	Wild	M6 V M8 D	{ -3 }	(700+1)	[0000]	B	0	7
+1900	Fadz	M	0132	Kiou	E534300-6	 	Lo 		928	NaVa	M6 V M8 D	{ -3 }	(720+2)	[814B]	B	0	28
+
+1105	Fadz	M	0133	Dovo	B748697-6	 	Ag Ni 		204	Ve	F0 V M0 D	{ 0 }	(951+1)	[]	BC	0	0
+1201	Fadz	M	0133	Dovo	D748677-6	 	Ag Ni 	B	304	Ve	F0 V M0 D	{ -2 }	(950+2)	[8456]	BC	0	90
+1157	Fadz	M	0133	Dovo	D748000-6	 	Di 		004	Wild	F0 V M0 D	{ -3 }	(900+1)	[0000]	B	0	9
+1508	Fadz	M	0133	Dovo	D748000-6	 	Di 		004	Wild	F0 V M0 D	{ -3 }	(900+1)	[0000]	B	0	9
+1900	Fadz	M	0133	Dovo	C748347-5	 	Lo 		104	NaVa	F0 V M0 D	{ -2 }	(920+1)	[1137]	B	0	18
+
+1105	Fadz	M	0134	Dovo	B748697-6	 	Ag Ni 		204	Ve	F0 V M0 D	{ 0 }	(651-3)	[]	BC	0	0
+1201	Fadz	M	0134	Dovo	D748672-6	 	Ag Ni 		304	Ve	F0 V M0 D	{ -2 }	(654-3)	[3478]	BC	0	-360
+1157	Fadz	M	0134	Dovo	D748000-6	 	Di 		004	Wild	F0 V M0 D	{ -3 }	(600+3)	[0000]	B	0	18
+1508	Fadz	M	0134	Dovo	D748000-6	 	Di 		004	Wild	F0 V M0 D	{ -3 }	(600-3)	[0000]	B	0	-18
+1900	Fadz	M	0134	Dovo	C748898-4	 	Pa Pi Ph 		204	NaVa	F0 V M0 D	{ -1 }	(676+2)	[6779]	BcDe	0	504
+
+1105	Fadz	M	0135	Kadhaenikhs	C73A100-B	 	Lo Wa 		601	Ve	M7 V	{ 0 }	(300+3)	[]	B	0	0
+1201	Fadz	M	0135	Kadhaenikhs	X73A000-B	 	Di Wa 		001	Ve	M7 V	{ -1 }	(300+1)	[0000]	B	0	3
+1157	Fadz	M	0135	Kadhaenikhs	X73A000-B	 	Di Wa 		001	Wild	M7 V	{ -1 }	(300-1)	[0000]	B	0	-3
+1508	Fadz	M	0135	Kadhaenikhs	X73A000-B	 	Di Wa 		001	Wild	M7 V	{ -1 }	(300-1)	[0000]	B	0	-3
+1900	Fadz	M	0135	Kadhaenikhs	A73A304-F	 	Lo Wa 		901	NaVa	M7 V	{ 1 }	(321-1)	[143E]	B	0	-6
+
+1105	Fadz	M	0137	Kadhaenikhs	C73A100-B	 	Lo Wa 		601	Ve	M7 V	{ 0 }	(600+3)	[]	B	0	0
+1201	Fadz	M	0137	Kadhaenikhs	X73A000-B	 	Di Wa 		001	Ve	M7 V	{ -1 }	(600+1)	[0000]	B	0	6
+1157	Fadz	M	0137	Kadhaenikhs	X73A000-B	 	Di Wa 		001	Wild	M7 V	{ -1 }	(600+1)	[0000]	B	0	6
+1508	Fadz	M	0137	Kadhaenikhs	X73A000-B	 	Di Wa 		001	Wild	M7 V	{ -1 }	(600-1)	[0000]	B	0	-6
+1900	Fadz	M	0137	Kadhaenikhs	A73A98C-F	 	Hi Wa 		401	NaVa	M7 V	{ 3 }	(68A+4)	[BC4H]	BE	0	1920
+
+1105	Fadz	A	0201	Dzaerangaersoen	C655320-4	 	Ga Lo 		525	Ve	G0 V M5 D	{ 0 }	(620+1)	[]	B	0	0
+1157	Fadz	A	0201	Dzaerangaersoen	D655000-4	 	Di Ga 		025	Wild	G0 V M5 D	{ -3 }	(600+4)	[0000]	B	0	24
+1508	Fadz	A	0201	Dzaerangaersoen	D655000-4	 	Di Ga 		025	Wild	G0 V M5 D	{ -3 }	(600+4)	[0000]	B	0	24
+1201	Fadz	A	0201	Dzaerangaersoen	X655000-4	 	Di Ga 		025	Wild	G0 V M5 D	{ -3 }	(600-4)	[0000]	B	0	-24
+1900	Fadz	A	0201	Dzaerangaersoen	C655544-4	 	Ag Ga Ni 		725	NaVa	G0 V M5 D	{ -1 }	(640+4)	[4472]	BC	0	96
+
+1105	Fadz	A	0205	Ksoedhoksikduegh	C300577-9	 	Ni Va 		502	Ve	M0 V	{ 0 }	(943+2)	[]	B	0	0
+1157	Fadz	A	0205	Ksoedhoksikduegh	C300430-7	 	Ni Va 		202	Wild	M0 V	{ -2 }	(732-2)	[2274]	B	0	-84
+1508	Fadz	A	0205	Ksoedhoksikduegh	C300453-9	 	Ni Va 		302	Wild	M0 V	{ -1 }	(931+3)	[5348]	B	0	81
+1201	Fadz	A	0205	Ksoedhoksikduegh	X300000-9	 	Di Va 		002	Wild	M0 V	{ -2 }	(900-2)	[0000]	B	0	-18
+1900	Fadz	A	0205	Ksoedhoksikduegh	D30047B-7	 	Ni Va 		402	NaVa	M0 V	{ -3 }	(733+1)	[4164]	B	0	63
+
+1105	Fadz	E	0213	Khuekoekoeksghan	B7A4330-B	 	Fl Lo 		200	Ve	F7 V	{ 0 }	(920-2)	[]	B	0	0
+1157	Fadz	E	0213	Khuekoekoeksghan	E7A4000-B	 	Di Fl 		000	Wild	F7 V	{ -1 }	(900-2)	[0000]	B	0	-18
+1508	Fadz	E	0213	Khuekoekoeksghan	E7A4000-B	 	Di Fl 		000	Wild	F7 V	{ -1 }	(900-1)	[0000]	B	0	-9
+1201	Fadz	E	0213	Khuekoekoeksghan	X7A4000-B	 	Di Fl 		000	Wild	F7 V	{ -1 }	(900-3)	[0000]	B	0	-27
+1900	Fadz	E	0213	Khuekoekoeksghan	B7A4441-B	 	Fl Ni 		100	NaVa	F7 V	{ 1 }	(936+1)	[358D]	B	0	162
+
+1105	Fadz	E	0218	Ikaekoeng	C335643-5	 	Ni 		502	Ve	K0 V K6 V	{ 0 }	(554+1)	[]	B	0	0
+1201	Fadz	E	0218	Ikaekoeng	X335000-5	 	Di 		002	Ve	K0 V K6 V	{ -3 }	(500-2)	[0000]	B	0	-10
+1157	Fadz	E	0218	Ikaekoeng	X335000-5	 	Di 		002	Wild	K0 V K6 V	{ -3 }	(500+4)	[0000]	B	0	20
+1508	Fadz	E	0218	Ikaekoeng	X335000-5	 	Di 		002	Wild	K0 V K6 V	{ -3 }	(500-1)	[0000]	B	0	-5
+1900	Fadz	E	0218	Ikaekoeng	E335677-3	 	Ni Px 		802	NaVa	K0 V K6 V	{ -3 }	(553+5)	[4381]	B	0	375
+
+1105	Fadz	I	0221	Ghaksoenkankfongoghaedz	B361564-8	 	Ni Pr 		804	Ve	F6 V	{ 0 }	(845-3)	[]	Bc	0	0
+1201	Fadz	I	0221	Ghaksoenkankfongoghaedz	D361534-7	 	Ni Pr 		504	Ve	F6 V	{ -3 }	(440+1)	[4266]	Bc	0	16
+1157	Fadz	I	0221	Ghaksoenkankfongoghaedz	D361000-7	 	Di 		004	Wild	F6 V	{ -3 }	(400+3)	[0000]	B	0	12
+1508	Fadz	I	0221	Ghaksoenkankfongoghaedz	D361000-7	 	Di 		004	Wild	F6 V	{ -3 }	(400+1)	[0000]	B	0	4
+1900	Fadz	I	0221	Ghaksoenkankfongoghaedz	D361643-3	 	Ni Ri 		704	NaVa	F6 V	{ -2 }	(451-1)	[3438]	BC	0	-20
+
+1105	Fadz	I	0230	Radzaenodztsaerr	D334544-5	 	Ni 		707	Ve	M1 V M7 D	{ 0 }	(443-1)	[]	B	0	0
+1201	Fadz	I	0230	Radzaenodztsaerr	X334000-5	 	Di 		007	Ve	M1 V M7 D	{ -3 }	(400-3)	[0000]	B	0	-12
+1157	Fadz	I	0230	Radzaenodztsaerr	X334000-5	 	Di 		007	Wild	M1 V M7 D	{ -3 }	(400+4)	[0000]	B	0	16
+1508	Fadz	I	0230	Radzaenodztsaerr	X334000-5	 	Di 		007	Wild	M1 V M7 D	{ -3 }	(400+1)	[0000]	B	0	4
+1900	Fadz	I	0230	Radzaenodztsaerr	D334440-5	 	Ni 		707	NaVa	M1 V M7 D	{ -3 }	(430+5)	[3146]	B	0	60
+
+1105	Fadz	M	0232	Radzaenodztsaerr	D334544-5	 	Ni 		707	Ve	M1 V M7 D	{ 0 }	(842+1)	[]	B	0	0
+1201	Fadz	M	0232	Radzaenodztsaerr	X334000-5	 	Di 		007	Ve	M1 V M7 D	{ -3 }	(800-1)	[0000]	B	0	-8
+1157	Fadz	M	0232	Radzaenodztsaerr	X334000-5	 	Di 		007	Wild	M1 V M7 D	{ -3 }	(800+1)	[0000]	B	0	8
+1508	Fadz	M	0232	Radzaenodztsaerr	X334000-5	 	Di 		007	Wild	M1 V M7 D	{ -3 }	(800+3)	[0000]	B	0	24
+1900	Fadz	M	0232	Radzaenodztsaerr	B334334-9	 	Lo 		307	NaVa	M1 V M7 D	{ 0 }	(F20+2)	[237A]	B	0	60
+
+1105	Fadz	M	0238	Ruekhsaelkodzors	B596532-7	 	Ag Ni 		314	Ve	F6 V	{ 0 }	(742-4)	[]	BC	0	0
+1201	Fadz	M	0238	Ruekhsaelkodzors	D596575-6	 	Ag Ni 		214	Ve	F6 V	{ -2 }	(741+3)	[4367]	BC	0	84
+1157	Fadz	M	0238	Ruekhsaelkodzors	D596000-6	 	Di 		014	Wild	F6 V	{ -3 }	(700+1)	[0000]	B	0	7
+1508	Fadz	M	0238	Ruekhsaelkodzors	D596000-6	 	Di 		014	Wild	F6 V	{ -3 }	(700-1)	[0000]	B	0	-7
+1900	Fadz	M	0238	Ruekhsaelkodzors	A596455-A	 	Ni Pa 		114	NaVa	F6 V	{ 1 }	(C33+1)	[955D]	Bc	0	108
+
+1105	Fadz	A	0304	Vudhgnaghz	B436977-B	 	Hi 		312	Ve	F4 V M6 D	{ 0 }	(888-2)	[]	BE	0	0
+1157	Fadz	A	0304	Vudhgnaghz	B4369D9-B	 	Hi 		112	Wild	F4 V M6 D	{ 3 }	(88C+1)	[6C7D]	BE	0	768
+1508	Fadz	A	0304	Vudhgnaghz	B436974-A	 	Hi 		212	Wild	F4 V M6 D	{ 3 }	(88D+2)	[6CAD]	BE	0	1664
+1201	Fadz	A	0304	Vudhgnaghz	X436000-A	 	Di 		012	Wild	F4 V M6 D	{ -1 }	(800+3)	[0000]	B	0	24
+1900	Fadz	A	0304	Vudhgnaghz	B436343-A	 	Lo 		412	NaVa	F4 V M6 D	{ 1 }	(821+1)	[7417]	B	0	16
+
+1105	Fadz	A	0309	Angudhfuegh	A230456-C	 	De Ni Po 		502	Ve	M3 V	{ 0 }	(932-4)	[]	B	0	0
+1157	Fadz	A	0309	Angudhfuegh	A23049C-9	 	De Ni Po 		202	Wild	M3 V	{ 0 }	(935-4)	[6478]	B	0	-540
+1508	Fadz	A	0309	Angudhfuegh	A230400-B	 	De Ni Po 		302	Wild	M3 V	{ 1 }	(933-2)	[3558]	B	0	-162
+1201	Fadz	A	0309	Angudhfuegh	X230000-B	 	De Di Po 		002	Wild	M3 V	{ -1 }	(900+1)	[0000]	B	0	9
+1900	Fadz	A	0309	Angudhfuegh	C230573-7	 	De Ni Po 		702	NaVa	M3 V	{ -2 }	(740+1)	[5325]	B	0	28
+
+1105	Fadz	A	0310	Angudhfuegh	A230456-C	 	De Ni Po 		502	Ve	M3 V	{ 0 }	(936+2)	[]	B	0	0
+1157	Fadz	A	0310	Angudhfuegh	E230000-C	 	De Di Po 		002	Wild	M3 V	{ -1 }	(900-2)	[0000]	B	0	-18
+1508	Fadz	A	0310	Angudhfuegh	E230000-C	 	De Di Po 		002	Wild	M3 V	{ -1 }	(900+5)	[0000]	B	0	45
+1201	Fadz	A	0310	Angudhfuegh	X230000-C	 	De Di Po 		002	Wild	M3 V	{ -1 }	(900+2)	[0000]	B	0	18
+1900	Fadz	A	0310	Angudhfuegh	C230473-7	 	De Ni Po 		602	NaVa	M3 V	{ -2 }	(730-1)	[3258]	B	0	-21
+
+1105	Fadz	E	0313	Saaetsoukhksaeng	A544115-A	 	Lo 		801	Ve	F5 V	{ 0 }	(700+4)	[]	B	0	0
+1157	Fadz	E	0313	Saaetsoukhksaeng	D544000-A	 	Di 		001	Wild	F5 V	{ -1 }	(700-1)	[0000]	B	0	-7
+1508	Fadz	E	0313	Saaetsoukhksaeng	D544000-A	 	Di 		001	Wild	F5 V	{ -1 }	(700-4)	[0000]	B	0	-28
+1201	Fadz	E	0313	Saaetsoukhksaeng	X544000-A	 	Di 		001	Wild	F5 V	{ -1 }	(700+3)	[0000]	B	0	21
+1900	Fadz	E	0313	Saaetsoukhksaeng	B54447A-8	 	Ni Pa 		701	NaVa	F5 V	{ -1 }	(734+4)	[1358]	Bc	0	336
+
+1105	Fadz	E	0314	Saaetsoukhksaeng	A544115-A	 	Lo 		801	Ve	F5 V	{ 0 }	(500-3)	[]	B	0	0
+1157	Fadz	E	0314	Saaetsoukhksaeng	X544000-A	 	Di 		001	Wild	F5 V	{ -1 }	(500+1)	[0000]	B	0	5
+1508	Fadz	E	0314	Saaetsoukhksaeng	X544000-A	 	Di 		001	Wild	F5 V	{ -1 }	(500-4)	[0000]	B	0	-20
+1201	Fadz	E	0314	Saaetsoukhksaeng	X544000-A	 	Di 		001	Wild	F5 V	{ -1 }	(500-1)	[0000]	B	0	-5
+1900	Fadz	E	0314	Saaetsoukhksaeng	D544422-4	 	Ni Pa 		501	NaVa	F5 V	{ -3 }	(431+1)	[6181]	Bc	0	12
+
+1105	Fadz	E	0319	Gougzagvoe	C736210-6	 	Lo 		705	Ve	M3 V M2 D	{ 0 }	(510-3)	[]	B	0	0
+1201	Fadz	E	0319	Gougzagvoe	X736000-6	 	Di 		005	Ve	M3 V M2 D	{ -3 }	(500+1)	[0000]	B	0	5
+1157	Fadz	E	0319	Gougzagvoe	X736000-6	 	Di 		005	Wild	M3 V M2 D	{ -3 }	(500-3)	[0000]	B	0	-15
+1508	Fadz	E	0319	Gougzagvoe	X736000-6	 	Di 		005	Wild	M3 V M2 D	{ -3 }	(500+2)	[0000]	B	0	10
+1900	Fadz	E	0319	Gougzagvoe	C73697A-7	 	Hi 		905	NaVa	M3 V M2 D	{ 0 }	(587+3)	[D98A]	BE	0	840
+
+1105	Fadz	E	0320	Gougzagvoe	C736210-6	 	Lo 		705	Ve	M3 V M2 D	{ 0 }	(710-1)	[]	B	0	0
+1201	Fadz	E	0320	Gougzagvoe	X736000-6	 	Di 		005	Ve	M3 V M2 D	{ -3 }	(700-2)	[0000]	B	0	-14
+1157	Fadz	E	0320	Gougzagvoe	X736000-6	 	Di 		005	Wild	M3 V M2 D	{ -3 }	(700+2)	[0000]	B	0	14
+1508	Fadz	E	0320	Gougzagvoe	X736000-6	 	Di 		005	Wild	M3 V M2 D	{ -3 }	(700-2)	[0000]	B	0	-14
+1900	Fadz	E	0320	Gougzagvoe	D7369B7-5	 	Hi 		305	NaVa	M3 V M2 D	{ -1 }	(786+3)	[A878]	BE	0	1008
+
+1105	Fadz	I	0323	Llikhun	B767414-9	 	Ga Ni Pa 		110	Ve	F8 V	{ 0 }	(731+2)	[]	Bc	0	0
+1201	Fadz	I	0323	Llikhun	D767210-3	 	Ga Lo 	B	310	Ve	F8 V	{ -3 }	(610+1)	[5194]	B	0	6
+1157	Fadz	I	0323	Llikhun	D767000-3	 	Di Ga 		010	Wild	F8 V	{ -3 }	(600-1)	[0000]	B	0	-6
+1508	Fadz	I	0323	Llikhun	D767000-3	 	Di Ga 		010	Wild	F8 V	{ -3 }	(600+3)	[0000]	B	0	18
+1900	Fadz	I	0323	Llikhun	E767A9B-8	 	Ga Hi 		410	NaVa	F8 V	{ -1 }	(794-2)	[8967]	BE	0	-504
+
+1105	Fadz	I	0324	Errfaghgnaekhdhol	A532553-A	 	Ni Po 		200	Ve	M5 V	{ 0 }	(442+2)	[]	B	0	0
+1201	Fadz	I	0324	Errfaghgnaekhdhol	X532000-A	 	Di Po 		000	Ve	M5 V	{ -1 }	(400-1)	[0000]	B	0	-4
+1157	Fadz	I	0324	Errfaghgnaekhdhol	X532000-A	 	Di Po 		000	Wild	M5 V	{ -1 }	(400-1)	[0000]	B	0	-4
+1508	Fadz	I	0324	Errfaghgnaekhdhol	X532000-A	 	Di Po 		000	Wild	M5 V	{ -1 }	(400+3)	[0000]	B	0	12
+1900	Fadz	I	0324	Errfaghgnaekhdhol	B532250-8	 	Lo Po 		300	NaVa	M5 V	{ -1 }	(410+3)	[2129]	B	0	12
+
+1105	Fadz	M	0335	Ulliannoerr	B374467-8	 	Ni Pa 		207	Ve	F5 V M0 D	{ 0 }	(H33-2)	[]	Bc	0	0
+1201	Fadz	M	0335	Ulliannoerr	D374416-6	 	Ni Pa 		207	Ve	F5 V M0 D	{ -3 }	(A30-3)	[2154]	Bc	0	-90
+1157	Fadz	M	0335	Ulliannoerr	D374000-6	 	Di 		007	Wild	F5 V M0 D	{ -3 }	(A00+4)	[0000]	B	0	40
+1508	Fadz	M	0335	Ulliannoerr	D374000-6	 	Di 		007	Wild	F5 V M0 D	{ -3 }	(A00+2)	[0000]	B	0	20
+1900	Fadz	M	0335	Ulliannoerr	A374303-B	 	Lo 		107	NaVa	F5 V M0 D	{ 1 }	(H21+4)	[547E]	B	0	136
+
+1105	Fadz	M	0336	Ulliannoerr	B374467-8	 	Ni Pa 		207	Ve	F5 V M0 D	{ 0 }	(H35+1)	[]	Bc	0	0
+1201	Fadz	M	0336	Ulliannoerr	D37448C-7	 	Ni Pa 		207	Ve	F5 V M0 D	{ -3 }	(A31+3)	[1175]	Bc	0	90
+1157	Fadz	M	0336	Ulliannoerr	D374000-7	 	Di 		007	Wild	F5 V M0 D	{ -3 }	(A00-4)	[0000]	B	0	-40
+1508	Fadz	M	0336	Ulliannoerr	D374000-7	 	Di 		007	Wild	F5 V M0 D	{ -3 }	(A00-3)	[0000]	B	0	-30
+1900	Fadz	M	0336	Ulliannoerr	D374102-5	 	Lo 		607	NaVa	F5 V M0 D	{ -3 }	(A00+1)	[1152]	B	0	10
+
+1105	Fadz	M	0338	Duerrkhueth	C573514-8	 	Ni 		413	Ve	F0 V M1 D	{ 0 }	(G45-2)	[]	B	0	0
+1201	Fadz	M	0338	Duerrkhueth	E573556-5	 	Ni 		313	Ve	F0 V M1 D	{ -3 }	(C40-3)	[6288]	B	0	-144
+1157	Fadz	M	0338	Duerrkhueth	E573000-5	 	Di 		013	Wild	F0 V M1 D	{ -3 }	(C00-1)	[0000]	B	0	-12
+1508	Fadz	M	0338	Duerrkhueth	E573000-5	 	Di 		013	Wild	F0 V M1 D	{ -3 }	(C00-1)	[0000]	B	0	-12
+1900	Fadz	M	0338	Duerrkhueth	E573577-6	 	Ni 		713	NaVa	F0 V M1 D	{ -3 }	(C40+2)	[A278]	B	0	96
+
+1105	Fadz	M	0339	Duerrkhueth	C573514-8	 	Ni 		413	Ve	F0 V M1 D	{ 0 }	(A44-2)	[]	B	0	0
+1201	Fadz	M	0339	Duerrkhueth	E573544-7	 	Ni 		313	Ve	F0 V M1 D	{ -3 }	(642-1)	[425B]	B	0	-48
+1157	Fadz	M	0339	Duerrkhueth	E573000-7	 	Di 		013	Wild	F0 V M1 D	{ -3 }	(600-1)	[0000]	B	0	-6
+1508	Fadz	M	0339	Duerrkhueth	E573000-7	 	Di 		013	Wild	F0 V M1 D	{ -3 }	(600-1)	[0000]	B	0	-6
+1900	Fadz	M	0339	Duerrkhueth	A573444-C	 	Ni 		113	NaVa	F0 V M1 D	{ 1 }	(A33+1)	[7578]	B	0	90
+
+1105	Fadz	A	0401	Kfaengozil	E87736A-5	 	Lo 		210	Ve	F2 V	{ 0 }	(620+3)	[]	B	0	0
+1157	Fadz	A	0401	Kfaengozil	E877000-5	 	Di 		010	Wild	F2 V	{ -3 }	(600+1)	[0000]	B	0	6
+1508	Fadz	A	0401	Kfaengozil	E877000-5	 	Di 		010	Wild	F2 V	{ -3 }	(600+2)	[0000]	B	0	12
+1201	Fadz	A	0401	Kfaengozil	X877000-5	 	Di 		010	Wild	F2 V	{ -3 }	(600-4)	[0000]	B	0	-24
+1900	Fadz	A	0401	Kfaengozil	C877586-7	 	Ag Ni 		810	NaVa	F2 V	{ -1 }	(640+1)	[542C]	BC	0	24
+
+1105	Fadz	A	0404	Dzoeghdzalogkfalanoghoks	A232776-9	 	Na Po 		400	Ve	G8 II	{ 0 }	(366+1)	[]	B	0	0
+1157	Fadz	A	0404	Dzoeghdzalogkfalanoghoks	A232759-8	 	Na Po 		200	Wild	G8 II	{ 0 }	(366-2)	[C788]	B	0	-216
+1508	Fadz	A	0404	Dzoeghdzalogkfalanoghoks	A232740-8	 	Na Po 		100	Wild	G8 II	{ 0 }	(36A-4)	[279A]	B	0	-720
+1201	Fadz	A	0404	Dzoeghdzalogkfalanoghoks	X232000-8	 	Di Na Po 		000	Wild	G8 II	{ -3 }	(300+1)	[0000]	B	0	3
+1900	Fadz	A	0404	Dzoeghdzalogkfalanoghoks	E232340-4	 	Lo Po 		300	NaVa	G8 II	{ -3 }	(320+2)	[1155]	B	0	12
+
+1105	Fadz	A	0406	Dhustsogruenaerdzughz	E34079B-6	 	De He Pi Po 		907	Ve	K2 V M8 D	{ 0 }	(465+4)	[]	BD	0	0
+1157	Fadz	A	0406	Dhustsogruenaerdzughz	E340732-4	 	De He Pi Po 		407	Wild	K2 V M8 D	{ -2 }	(466+1)	[7581]	BD	0	144
+1508	Fadz	A	0406	Dhustsogruenaerdzughz	E3407BD-5	 	De He Pi Po 		307	Wild	K2 V M8 D	{ -2 }	(469+1)	[A519]	BD	0	216
+1201	Fadz	A	0406	Dhustsogruenaerdzughz	X340000-5	 	De He Di Pi Po 		007	Wild	K2 V M8 D	{ -3 }	(400+1)	[0000]	BD	0	4
+1900	Fadz	A	0406	Dhustsogruenaerdzughz	A340551-E	 	De He Ni Po 		307	NaVa	K2 V M8 D	{ 1 }	(B47+1)	[766D]	B	0	308
+
+1105	Fadz	A	0408	Rronguel	C251622-6	 	Ni Po 		315	Ve	F3 V M2 D	{ 0 }	(556-3)	[]	B	0	0
+1157	Fadz	A	0408	Rronguel	C251620-4	 	Ni Po 		115	Wild	F3 V M2 D	{ -2 }	(552+1)	[6432]	B	0	50
+1508	Fadz	A	0408	Rronguel	C251675-5	 	Ni Po 		115	Wild	F3 V M2 D	{ -2 }	(550-1)	[6482]	B	0	-25
+1201	Fadz	A	0408	Rronguel	D25166B-3	 	Ni Po 	B	215	Wild	F3 V M2 D	{ -3 }	(552-2)	[7383]	B	0	-100
+1900	Fadz	A	0408	Rronguel	C2519B6-8	 	Hi Po 	B	315	NaVa	F3 V M2 D	{ 0 }	(B89-2)	[8945]	BE	0	-1584
+
+1105	Fadz	A	0410	Rronguel	C251622-6	 	Ni Po 		315	Ve	F3 V M2 D	{ 0 }	(855-3)	[]	B	0	0
+1157	Fadz	A	0410	Rronguel	C25169C-4	 	Ni Po 		115	Wild	F3 V M2 D	{ -2 }	(853-4)	[7461]	B	0	-480
+1508	Fadz	A	0410	Rronguel	C251676-5	 	Ni Po 		215	Wild	F3 V M2 D	{ -2 }	(854+2)	[5485]	B	0	320
+1201	Fadz	A	0410	Rronguel	E251696-5	 	Ni Po 		315	Wild	F3 V M2 D	{ -3 }	(851+2)	[1388]	B	0	80
+1900	Fadz	A	0410	Rronguel	C251352-8	 	Lo Po 		415	NaVa	F3 V M2 D	{ -2 }	(E20-3)	[4144]	B	0	-84
+
+1105	Fadz	E	0412	Rronguel	C251622-6	 	Ni Po 		315	Ve	F3 V M2 D	{ 0 }	(651-3)	[]	B	0	0
+1157	Fadz	E	0412	Rronguel	C251623-4	 	Ni Po 		115	Wild	F3 V M2 D	{ -2 }	(650+1)	[64A6]	B	0	30
+1508	Fadz	E	0412	Rronguel	C251644-5	 	Ni Po 		215	Wild	F3 V M2 D	{ -2 }	(652+5)	[5432]	B	0	300
+1201	Fadz	E	0412	Rronguel	E251635-5	 	Ni Po 		315	Wild	F3 V M2 D	{ -3 }	(651+1)	[5377]	B	0	30
+1900	Fadz	E	0412	Rronguel	B251689-8	 	Ni Po 		515	NaVa	F3 V M2 D	{ -1 }	(C51-1)	[7544]	B	0	-60
+
+1105	Fadz	E	0413	Ksoughzlerrglaethoer	C360533-6	 	De Ni Pr 		702	Ve	F0 V M6 D	{ 0 }	(743-3)	[]	Bc	0	0
+1157	Fadz	E	0413	Ksoughzlerrglaethoer	C360555-5	 	De Ni Pr 		302	Wild	F0 V M6 D	{ -2 }	(743+1)	[7356]	Bc	0	84
+1508	Fadz	E	0413	Ksoughzlerrglaethoer	C36059C-5	 	De Ni Pr 		402	Wild	F0 V M6 D	{ -2 }	(744-2)	[13A6]	Bc	0	-224
+1201	Fadz	E	0413	Ksoughzlerrglaethoer	D360501-1	 	De Ni Pr 	B	302	Wild	F0 V M6 D	{ -3 }	(742+4)	[5231]	Bc	0	224
+1900	Fadz	E	0413	Ksoughzlerrglaethoer	A360504-B	 	De Ni Pr 	B	402	NaVa	F0 V M6 D	{ 1 }	(947+2)	[368A]	Bc	0	504
+
+1105	Fadz	E	0415	Zakhsounzuekathzaekhsrel	C210434-B	 	Ni 		203	Ve	G4 V	{ 0 }	(B34-3)	[]	B	0	0
+1157	Fadz	E	0415	Zakhsounzuekathzaekhsrel	E210000-B	 	Di 		003	Wild	G4 V	{ -1 }	(B00-4)	[0000]	B	0	-44
+1508	Fadz	E	0415	Zakhsounzuekathzaekhsrel	E210000-B	 	Di 		003	Wild	G4 V	{ -1 }	(B00+3)	[0000]	B	0	33
+1201	Fadz	E	0415	Zakhsounzuekathzaekhsrel	X210000-B	 	Di 		003	Wild	G4 V	{ -1 }	(B00+3)	[0000]	B	0	33
+1900	Fadz	E	0415	Zakhsounzuekathzaekhsrel	C210BFE-E	 	Hi Na In 		103	NaVa	G4 V	{ 3 }	(BA7-5)	[EE3E]	BE	0	-3850
+
+1105	Fadz	E	0419	Ngaeknonogh	D400657-6	 	Na Ni Va 		303	Ve	M0 V	{ 0 }	(454+1)	[]	B	0	0
+1201	Fadz	E	0419	Ngaeknonogh	X400000-6	 	Di Na Va 		003	Ve	M0 V	{ -3 }	(400-3)	[0000]	B	0	-12
+1157	Fadz	E	0419	Ngaeknonogh	X400000-6	 	Di Na Va 		003	Wild	M0 V	{ -3 }	(400+1)	[0000]	B	0	4
+1508	Fadz	E	0419	Ngaeknonogh	X400000-6	 	Di Va 		003	Wild	M0 V	{ -3 }	(400+1)	[0000]	B	0	4
+1900	Fadz	E	0419	Ngaeknonogh	B400541-A	 	Ni Va 		303	NaVa	M0 V	{ 1 }	(745+2)	[66AA]	B	0	280
+
+1105	Fadz	I	0424	Llokhsuezaeloenggvaerrkhoksi	B738597-B	 	Ni 		904	Ve	M5 V	{ 0 }	(C41-4)	[]	B	0	0
+1201	Fadz	I	0424	Llokhsuezaeloenggvaerrkhoksi	X738000-B	 	Di 		004	Ve	M5 V	{ -1 }	(C00+4)	[0000]	B	0	48
+1157	Fadz	I	0424	Llokhsuezaeloenggvaerrkhoksi	X738000-B	 	Di 		004	Wild	M5 V	{ -1 }	(C00-5)	[0000]	B	0	-60
+1508	Fadz	I	0424	Llokhsuezaeloenggvaerrkhoksi	X738000-B	 	Di 		004	Wild	M5 V	{ -1 }	(C00+1)	[0000]	B	0	12
+1900	Fadz	I	0424	Llokhsuezaeloenggvaerrkhoksi	C73888B-8	 	Ph 		704	NaVa	M5 V	{ -1 }	(C75+1)	[A77B]	Be	0	420
+
+1105	Fadz	M	0433	Onguerrighzounnguerra	B546A76-A	 	Hi In 		803	Ve	F9 V	{ 0 }	(896+2)	[]	BE	0	0
+1201	Fadz	M	0433	Onguerrighzounnguerra	D546403-8	 	Ni Pa 		503	Ve	F9 V	{ -3 }	(833+1)	[5168]	Bc	0	72
+1157	Fadz	M	0433	Onguerrighzounnguerra	D546000-8	 	Di 		003	Wild	F9 V	{ -3 }	(800+4)	[0000]	B	0	32
+1508	Fadz	M	0433	Onguerrighzounnguerra	D546000-8	 	Di 		003	Wild	F9 V	{ -3 }	(800-4)	[0000]	B	0	-32
+1900	Fadz	M	0433	Onguerrighzounnguerra	E546799-2	 	Ag Pi 		903	NaVa	F9 V	{ -1 }	(564+1)	[4652]	BCD	0	120
+
+1105	Fadz	M	0434	Onguerrighzounnguerra	B546A76-A	 	Hi In 		803	Ve	F9 V	{ 0 }	(A99+3)	[]	BE	0	0
+1201	Fadz	M	0434	Onguerrighzounnguerra	X54676F-7	 	Ag Pi 		903	Ve	F9 V	{ -1 }	(764+1)	[869B]	BCD	0	168
+1157	Fadz	M	0434	Onguerrighzounnguerra	X546000-7	 	Di Pi 		003	Wild	F9 V	{ -3 }	(700-1)	[0000]	BD	0	-7
+1508	Fadz	M	0434	Onguerrighzounnguerra	X546000-7	 	Di 		003	Wild	F9 V	{ -3 }	(700-2)	[0000]	B	0	-14
+1900	Fadz	M	0434	Onguerrighzounnguerra	A546ABB-C	 	Hi In 		503	NaVa	F9 V	{ 4 }	(A9D-1)	[8E5F]	BEf	0	-1170
+
+1105	Fadz	M	0437	Outsalae	D998689-4	 	Ag Ni 		300	Ve	M1 V	{ 0 }	(652+2)	[]	BC	0	0
+1201	Fadz	M	0437	Outsalae	X998674-4	 	Ag Ni 	B	400	Ve	M1 V	{ -2 }	(652+1)	[6443]	BC	0	60
+1157	Fadz	M	0437	Outsalae	X998000-4	 	Di 		000	Wild	M1 V	{ -3 }	(600-1)	[0000]	B	0	-6
+1508	Fadz	M	0437	Outsalae	X998000-4	 	Di 		000	Wild	M1 V	{ -3 }	(600-2)	[0000]	B	0	-12
+1900	Fadz	M	0437	Outsalae	E998876-4	 	Pa Pi Ph 		100	NaVa	M1 V	{ -2 }	(677+2)	[A639]	BcDe	0	588
+
+1105	Fadz	M	0438	Gazrroerak	A225597-D	 	Ni Px 		602	Ve	A6 V	{ 0 }	(846+3)	[]	B	0	0
+1201	Fadz	M	0438	Gazrroerak	X225000-D	 	Di Px 		002	Ve	A6 V	{ -1 }	(800+1)	[0000]	B	0	8
+1157	Fadz	M	0438	Gazrroerak	X225000-D	 	Di Px 		002	Wild	A6 V	{ -1 }	(800+5)	[0000]	B	0	40
+1508	Fadz	M	0438	Gazrroerak	X225000-D	 	Di 		002	Wild	A6 V	{ -1 }	(800-1)	[0000]	B	0	-8
+1900	Fadz	M	0438	Gazrroerak	E225200-8	 	Lo 		202	NaVa	A6 V	{ -3 }	(810-2)	[318A]	B	0	-16
+
+1105	Fadz	M	0439	Gazrroerak	A225597-D	 	Ni Px 		602	Ve	A6 V	{ 0 }	(A42-5)	[]	B	0	0
+1201	Fadz	M	0439	Gazrroerak	X225000-D	 	Di Px 		002	Ve	A6 V	{ -1 }	(A00-2)	[0000]	B	0	-20
+1157	Fadz	M	0439	Gazrroerak	X225000-D	 	Di Px 		002	Wild	A6 V	{ -1 }	(A00-2)	[0000]	B	0	-20
+1508	Fadz	M	0439	Gazrroerak	X225000-D	 	Di 		002	Wild	A6 V	{ -1 }	(A00-4)	[0000]	B	0	-40
+1900	Fadz	M	0439	Gazrroerak	B225998-C	 	Hi In 		602	NaVa	A6 V	{ 4 }	(A8G+1)	[9D5A]	BEf	0	1280
+
+1105	Fadz	E	0515	Eloekhrarr	D678696-4	 	Ag Ni 		805	Ve	F8 V	{ 0 }	(853+1)	[]	BC	0	0
+1157	Fadz	E	0515	Eloekhrarr	D678000-4	 	Di 		005	Wild	F8 V	{ -3 }	(800-1)	[0000]	B	0	-8
+1508	Fadz	E	0515	Eloekhrarr	D678000-4	 	Di 		005	Wild	F8 V	{ -3 }	(800-1)	[0000]	B	0	-8
+1201	Fadz	E	0515	Eloekhrarr	X678000-4	 	Di 		005	Wild	F8 V	{ -3 }	(800+3)	[0000]	B	0	24
+1900	Fadz	E	0515	Eloekhrarr	A678625-A	 	Ag Ni 		505	NaVa	F8 V	{ 2 }	(D58-1)	[A87C]	BC	0	-520
+
+1105	Fadz	E	0517	Knourravoekhs	D000559-9	 	As Va Ni 		804	Ve	M5 V	{ 0 }	(A45-1)	[]	B	0	0
+1201	Fadz	E	0517	Knourravoekhs	X000000-9	 	As Va Di 		004	Ve	M5 V	{ -2 }	(A00+1)	[0000]	B	0	10
+1157	Fadz	E	0517	Knourravoekhs	X000000-9	 	As Va Di 		004	Wild	M5 V	{ -2 }	(A00+1)	[0000]	B	0	10
+1508	Fadz	E	0517	Knourravoekhs	X000000-9	 	As Va Di 		004	Wild	M5 V	{ -2 }	(A00+1)	[0000]	B	0	10
+1900	Fadz	E	0517	Knourravoekhs	A000998-F	 	As Va Hi Na In 		204	NaVa	M5 V	{ 4 }	(A8A+2)	[9D5H]	BEf	0	1600
+
+1105	Fadz	E	0518	Kaeggaegzukan	B8C5200-C	 	Fl Lo 		101	Ve	M8 V	{ 0 }	(B10-1)	[]	B	0	0
+1201	Fadz	E	0518	Kaeggaegzukan	X8C5000-C	 	Di Fl 		001	Ve	M8 V	{ -1 }	(B00-1)	[0000]	B	0	-11
+1157	Fadz	E	0518	Kaeggaegzukan	X8C5000-C	 	Di Fl 		001	Wild	M8 V	{ -1 }	(B00-1)	[0000]	B	0	-11
+1508	Fadz	E	0518	Kaeggaegzukan	X8C5000-C	 	Di Fl 		001	Wild	M8 V	{ -1 }	(B00+4)	[0000]	B	0	44
+1900	Fadz	E	0518	Kaeggaegzukan	C8C557A-9	 	Fl Ni 		901	NaVa	M8 V	{ -1 }	(B41+2)	[644A]	B	0	88
+
+1105	Fadz	I	0523	Kiloekithkhik	B325656-8	 	Ni Px 		905	Ve	M8 V M6 V	{ 0 }	(F52-1)	[]	B	0	0
+1201	Fadz	I	0523	Kiloekithkhik	X325000-8	 	Di Px 		005	Ve	M8 V M6 V	{ -3 }	(F00+2)	[0000]	B	0	30
+1157	Fadz	I	0523	Kiloekithkhik	X325000-8	 	Di Px 		005	Wild	M8 V M6 V	{ -3 }	(F00-1)	[0000]	B	0	-15
+1508	Fadz	I	0523	Kiloekithkhik	X325000-8	 	Di 		005	Wild	M8 V M6 V	{ -3 }	(F00+2)	[0000]	B	0	30
+1900	Fadz	I	0523	Kiloekithkhik	B325643-7	 	Ni 		505	NaVa	M8 V M6 V	{ -1 }	(A53+1)	[2577]	B	0	150
+
+1105	Fadz	M	0537	Ikhsorrgrrudz	D510400-3	 	Ni 		220	Ve	A0 V	{ 0 }	(B33-3)	[]	B	0	0
+1201	Fadz	M	0537	Ikhsorrgrrudz	X510000-3	 	Di 		020	Ve	A0 V	{ -3 }	(B00+2)	[0000]	B	0	22
+1157	Fadz	M	0537	Ikhsorrgrrudz	X510000-3	 	Di 		020	Wild	A0 V	{ -3 }	(B00-2)	[0000]	B	0	-22
+1508	Fadz	M	0537	Ikhsorrgrrudz	X510000-3	 	Di 		020	Wild	A0 V	{ -3 }	(B00-2)	[0000]	B	0	-22
+1900	Fadz	M	0537	Ikhsorrgrrudz	B510544-6	 	Ni 		520	NaVa	A0 V	{ -1 }	(B42+1)	[6467]	B	0	88
+
+1105	Fadz	A	0606	Ragvuoroengvoghzaks	E542555-1	 	He Ni Po 		623	Ve	F3 V	{ 0 }	(841+1)	[]	B	0	0
+1157	Fadz	A	0606	Ragvuoroengvoghzaks	E542000-1	 	Di He Po 		023	Wild	F3 V	{ -3 }	(800-1)	[0000]	B	0	-8
+1508	Fadz	A	0606	Ragvuoroengvoghzaks	E542000-1	 	Di He Po 		023	Wild	F3 V	{ -3 }	(800-1)	[0000]	B	0	-8
+1201	Fadz	A	0606	Ragvuoroengvoghzaks	X542000-1	 	Di He Po 		023	Wild	F3 V	{ -3 }	(800-5)	[0000]	B	0	-40
+1900	Fadz	A	0606	Ragvuoroengvoghzaks	C542422-2	 	He Ni Po 		923	NaVa	F3 V	{ -2 }	(830-3)	[7221]	B	0	-72
+
+1105	Fadz	A	0608	Ruuegzaladh	E342658-8	 	He Ni Po 		302	Ve	F0 V	{ 0 }	(653-4)	[]	B	0	0
+1157	Fadz	A	0608	Ruuegzaladh	E342000-8	 	Di He Po 		002	Wild	F0 V	{ -3 }	(600+1)	[0000]	B	0	6
+1508	Fadz	A	0608	Ruuegzaladh	E342000-8	 	Di He Po 		002	Wild	F0 V	{ -3 }	(600+1)	[0000]	B	0	6
+1201	Fadz	A	0608	Ruuegzaladh	X342000-8	 	Di He Po 		002	Wild	F0 V	{ -3 }	(600-3)	[0000]	B	0	-18
+1900	Fadz	A	0608	Ruuegzaladh	D3427BB-7	 	He Pi Po 		502	NaVa	F0 V	{ -2 }	(466-3)	[8537]	BD	0	-432
+
+1105	Fadz	E	0611	Ruuegzaladh	E342658-8	 	He Ni Po 		302	Ve	F0 V	{ 0 }	(555-2)	[]	B	0	0
+1157	Fadz	E	0611	Ruuegzaladh	E342000-8	 	Di He Po 		002	Wild	F0 V	{ -3 }	(500-4)	[0000]	B	0	-20
+1508	Fadz	E	0611	Ruuegzaladh	E342000-8	 	Di He Po 		002	Wild	F0 V	{ -3 }	(500+1)	[0000]	B	0	5
+1201	Fadz	E	0611	Ruuegzaladh	X342000-8	 	Di He Po 		002	Wild	F0 V	{ -3 }	(500+1)	[0000]	B	0	5
+1900	Fadz	E	0611	Ruuegzaladh	B342875-B	 	He Ph Pi Po 		102	NaVa	F0 V	{ 2 }	(57A-2)	[9A6C]	BDe	0	-700
+
+1105	Fadz	E	0613	Goenaelkfoungtsing	B340562-B	 	Cy Ni De He Po 		802	Ve	F4 V	{ 0 }	(E41-1)	[]	B	0	0
+1157	Fadz	E	0613	Goenaelkfoungtsing	D340000-B	 	Cy Di De He Po 		002	Wild	F4 V	{ -1 }	(E00+2)	[0000]	B	0	28
+1508	Fadz	E	0613	Goenaelkfoungtsing	D340000-B	 	De He Di Po 		002	Wild	F4 V	{ -1 }	(E00+2)	[0000]	B	0	28
+1201	Fadz	E	0613	Goenaelkfoungtsing	X340000-B	 	De He Di Po 		002	Wild	F4 V	{ -1 }	(E00-1)	[0000]	B	0	-14
+1900	Fadz	E	0613	Goenaelkfoungtsing	E340556-8	 	De He Ni Po 		902	NaVa	F4 V	{ -3 }	(E42-3)	[327C]	B	0	-336
+
+1105	Fadz	E	0615	Garrarro	CAD647A-4	 	Ni 		405	Ve	M2 V M2 V	{ 0 }	(635-3)	[]	B	0	0
+1157	Fadz	E	0615	Garrarro	DAD6000-4	 	Di 		005	Wild	M2 V M2 V	{ -3 }	(600+1)	[0000]	B	0	6
+1508	Fadz	E	0615	Garrarro	DAD6000-4	 	Di 		005	Wild	M2 V M2 V	{ -3 }	(600+2)	[0000]	B	0	12
+1201	Fadz	E	0615	Garrarro	XAD6000-4	 	Di 		005	Wild	M2 V M2 V	{ -3 }	(600+1)	[0000]	B	0	6
+1900	Fadz	E	0615	Garrarro	XAD6400-0	 	Ni 		905	NaVa	M2 V M2 V	{ -3 }	(631-1)	[6171]	B	0	-18
+
+1105	Fadz	E	0617	Dhegu	C460320-8	 	De Lo 		401	Ve	F0 V	{ 0 }	(620+1)	[]	B	0	0
+1201	Fadz	E	0617	Dhegu	E460235-6	 	De Lo 		301	Ve	F0 V	{ -3 }	(510-3)	[3117]	B	0	-15
+1157	Fadz	E	0617	Dhegu	E460000-6	 	De Di 		001	Wild	F0 V	{ -3 }	(500+1)	[0000]	B	0	5
+1508	Fadz	E	0617	Dhegu	E460000-6	 	De Di 		001	Wild	F0 V	{ -3 }	(500+2)	[0000]	B	0	10
+1900	Fadz	E	0617	Dhegu	C460400-9	 	De Ni 		401	NaVa	F0 V	{ -1 }	(635+1)	[4355]	B	0	90
+
+1105	Fadz	E	0618	Uroedhfuez	A000786-D	 	As Va Na Pi 		924	Ve	F2 V M8 D	{ 0 }	(C67+5)	[]	BD	0	0
+1201	Fadz	E	0618	Uroedhfuez	X000000-D	 	As Va Di Na Pi 		024	Ve	F2 V M8 D	{ -1 }	(C00+1)	[0000]	BD	0	12
+1157	Fadz	E	0618	Uroedhfuez	X000000-D	 	As Va Di Na Pi 		024	Wild	F2 V M8 D	{ -1 }	(C00+1)	[0000]	BD	0	12
+1508	Fadz	E	0618	Uroedhfuez	X000000-D	 	As Va Di 		024	Wild	F2 V M8 D	{ -1 }	(C00-1)	[0000]	B	0	-12
+1900	Fadz	E	0618	Uroedhfuez	D000276-8	 	As Va Lo 		724	NaVa	F2 V M8 D	{ -3 }	(C10-1)	[1177]	B	0	-12
+
+1105	Fadz	I	0621	Vanaerrglloghz	C21087A-3	 	Na Pi Ph 		210	Ve	F1 V	{ 0 }	(C78+3)	[]	BDe	0	0
+1201	Fadz	I	0621	Vanaerrglloghz	X210000-3	 	Di Na Pi 		010	Ve	F1 V	{ -3 }	(C00-5)	[0000]	BD	0	-60
+1157	Fadz	I	0621	Vanaerrglloghz	X210000-3	 	Di Na Pi 		010	Wild	F1 V	{ -3 }	(C00+1)	[0000]	BD	0	12
+1508	Fadz	I	0621	Vanaerrglloghz	X210000-3	 	Di 		010	Wild	F1 V	{ -3 }	(C00-1)	[0000]	B	0	-12
+1900	Fadz	I	0621	Vanaerrglloghz	C210420-4	 	Ni 		410	NaVa	F1 V	{ -2 }	(C33+3)	[5243]	B	0	324
+
+1105	Fadz	I	0623	Kfoekuthuegvue	A8B4114-C	 	Fl Lo 		903	Ve	K2 V	{ 0 }	(C00+2)	[]	B	0	0
+1201	Fadz	I	0623	Kfoekuthuegvue	X8B4000-C	 	Di Fl 		003	Ve	K2 V	{ -1 }	(C00-4)	[0000]	B	0	-48
+1157	Fadz	I	0623	Kfoekuthuegvue	X8B4000-C	 	Di Fl 		003	Wild	K2 V	{ -1 }	(C00+1)	[0000]	B	0	12
+1508	Fadz	I	0623	Kfoekuthuegvue	X8B4000-C	 	Di Fl 		003	Wild	K2 V	{ -1 }	(C00-4)	[0000]	B	0	-48
+1900	Fadz	I	0623	Kfoekuthuegvue	D8B4643-5	 	Fl Ni 		603	NaVa	K2 V	{ -3 }	(950+2)	[7363]	B	0	90
+
+1105	Fadz	I	0625	Laeghaghztaeggighghoull	E350100-2	 	De Lo Po 		310	Ve	F1 V	{ 0 }	(800-2)	[]	B	0	0
+1201	Fadz	I	0625	Laeghaghztaeggighghoull	X350300-1	 	De Lo Po 		910	Ve	F1 V	{ -3 }	(820+2)	[3142]	B	0	32
+1157	Fadz	I	0625	Laeghaghztaeggighghoull	X350000-1	 	De Di Po 		010	Wild	F1 V	{ -3 }	(800-2)	[0000]	B	0	-16
+1508	Fadz	I	0625	Laeghaghztaeggighghoull	X350000-1	 	De Di Po 		010	Wild	F1 V	{ -3 }	(800-2)	[0000]	B	0	-16
+1900	Fadz	I	0625	Laeghaghztaeggighghoull	X350759-0	 	De Po 		610	NaVa	F1 V	{ -2 }	(865-2)	[7511]	B	0	-480
+
+1105	Fadz	I	0628	Fakhsdhaerzae	A332533-C	 	Ni Po 		602	Ve	M3 V	{ 0 }	(645-1)	[]	B	0	0
+1201	Fadz	I	0628	Fakhsdhaerzae	X332000-C	 	Di Po 		002	Ve	M3 V	{ -1 }	(600+1)	[0000]	B	0	6
+1157	Fadz	I	0628	Fakhsdhaerzae	X332000-C	 	Di Po 		002	Wild	M3 V	{ -1 }	(600+3)	[0000]	B	0	18
+1508	Fadz	I	0628	Fakhsdhaerzae	X332000-C	 	Di Po 		002	Wild	M3 V	{ -1 }	(600+2)	[0000]	B	0	12
+1900	Fadz	I	0628	Fakhsdhaerzae	A332124-C	 	Lo Po 		402	NaVa	M3 V	{ 1 }	(601-4)	[123C]	B	0	-24
+
+1105	Fadz	I	0630	Knoghkoughae	C532147-3	 	Lo Po 		802	Ve	M6 V	{ 0 }	(800+1)	[]	B	0	0
+1201	Fadz	I	0630	Knoghkoughae	X532000-3	 	Di Po 		002	Ve	M6 V	{ -3 }	(800+5)	[0000]	B	0	40
+1157	Fadz	I	0630	Knoghkoughae	X532000-3	 	Di Po 		002	Wild	M6 V	{ -3 }	(800+1)	[0000]	B	0	8
+1508	Fadz	I	0630	Knoghkoughae	X532000-3	 	Di Po 		002	Wild	M6 V	{ -3 }	(800+1)	[0000]	B	0	8
+1900	Fadz	I	0630	Knoghkoughae	E532401-2	 	Ni Po 		302	NaVa	M6 V	{ -3 }	(833+2)	[2162]	B	0	144
+
+1105	Fadz	M	0636	Odugh	B332247-B	 	Lo Po 		302	Ve	M7 II	{ 0 }	(810-4)	[]	B	0	0
+1201	Fadz	M	0636	Odugh	X332000-B	 	Di Po 		002	Ve	M7 II	{ -1 }	(800+5)	[0000]	B	0	40
+1157	Fadz	M	0636	Odugh	X332000-B	 	Di Po 		002	Wild	M7 II	{ -1 }	(800+3)	[0000]	B	0	24
+1508	Fadz	M	0636	Odugh	X332000-B	 	Di Po 		002	Wild	M7 II	{ -1 }	(800+1)	[0000]	B	0	8
+1900	Fadz	M	0636	Odugh	E332698-6	 	Na Px Po Ni 		702	NaVa	M7 II	{ -3 }	(650+3)	[6345]	B	0	90
+
+1105	Fadz	M	0639	Kfuegvoerrodz	XAE3751-0	 			604	Ve	M2 V	{ 0 }	(A67+1)	[]	B	0	0
+1201	Fadz	M	0639	Kfuegvoerrodz	XAE3000-0	 	Ba 		004	Ve	M2 V	{ -3 }	(A00+1)	[0000]	B	0	10
+1157	Fadz	M	0639	Kfuegvoerrodz	XAE3000-0	 	Ba 		004	Wild	M2 V	{ -3 }	(A00+1)	[0000]	B	0	10
+1508	Fadz	M	0639	Kfuegvoerrodz	XAE3000-0	 	Ba 		004	Wild	M2 V	{ -3 }	(A00+2)	[0000]	B	0	20
+1900	Fadz	M	0639	Kfuegvoerrodz	AAE3635-9	 	Ni 		504	NaVa	M2 V	{ 0 }	(E56+1)	[6648]	B	0	420
+
+1105	Fadz	A	0702	Nokferrghauekkfeghzaengu	C988677-3	 	Ag Ri Ni 		100	V0	F4 V	{ 0 }	(752+1)	[]	BC	0	0
+1157	Fadz	A	0702	Nokferrghauekkfeghzaengu	C988553-3	 	Ag Pr Ni 		500	Wild	F4 V	{ -1 }	(743-3)	[5462]	BcC	0	-252
+1508	Fadz	A	0702	Nokferrghauekkfeghzaengu	C988520-3	 	Ag Pr Ni 		600	Wild	F4 V	{ -1 }	(741+1)	[3495]	BcC	0	28
+1201	Fadz	A	0702	Nokferrghauekkfeghzaengu	E988542-1	 	Ag Pr Ni 	B	400	Wild	F4 V	{ -2 }	(740-2)	[6331]	BcC	0	-56
+1900	Fadz	A	0702	Nokferrghauekkfeghzaengu	C98838C-4	 	Lo 	B	200	NaVa	F4 V	{ -2 }	(720-4)	[1142]	B	0	-56
+
+1105	Fadz	A	0706	Ghaeakigzuekh	A434589-D	 	Ni Px 		102	Ve	M2 V M8 V	{ 0 }	(944-1)	[]	B	0	0
+1157	Fadz	A	0706	Ghaeakigzuekh	A434433-B	 	Ni 		502	Wild	M2 V M8 V	{ 1 }	(933-2)	[358D]	B	0	-162
+1508	Fadz	A	0706	Ghaeakigzuekh	A43448A-C	 	Ni 		602	Wild	M2 V M8 V	{ 1 }	(934-3)	[456B]	B	0	-324
+1201	Fadz	A	0706	Ghaeakigzuekh	X434000-C	 	Di 		002	Wild	M2 V M8 V	{ -1 }	(900+1)	[0000]	B	0	9
+1900	Fadz	A	0706	Ghaeakigzuekh	A434222-D	 	Lo 		702	NaVa	M2 V M8 V	{ 1 }	(911+4)	[137B]	B	0	36
+
+1105	Fadz	A	0709	Ghaeakigzuekh	A434589-D	 	Ni Px 		102	Ve	M2 V M8 V	{ 0 }	(C44+3)	[]	B	0	0
+1157	Fadz	A	0709	Ghaeakigzuekh	A434432-B	 	Ni 		502	Wild	M2 V M8 V	{ 1 }	(C35-1)	[158D]	B	0	-180
+1508	Fadz	A	0709	Ghaeakigzuekh	A434444-C	 	Ni 		602	Wild	M2 V M8 V	{ 1 }	(C36+1)	[555E]	B	0	216
+1201	Fadz	A	0709	Ghaeakigzuekh	X434000-C	 	Di 		002	Wild	M2 V M8 V	{ -1 }	(C00+3)	[0000]	B	0	36
+1900	Fadz	A	0709	Ghaeakigzuekh	A434100-E	 	Lo 		502	NaVa	M2 V M8 V	{ 1 }	(C01-5)	[124B]	B	0	-60
+
+1105	Fadz	E	0712	Ghikhaers	A7A4302-8	 	Fl Lo 		804	Ve	M3 III M8 V	{ 0 }	(D20+1)	[]	B	0	0
+1157	Fadz	E	0712	Ghikhaers	D7A4000-8	 	Di Fl 		004	Wild	M3 III M8 V	{ -3 }	(D00+2)	[0000]	B	0	26
+1508	Fadz	E	0712	Ghikhaers	D7A4000-8	 	Di Fl 		004	Wild	M3 III M8 V	{ -3 }	(D00+1)	[0000]	B	0	13
+1201	Fadz	E	0712	Ghikhaers	X7A4000-8	 	Di Fl 		004	Wild	M3 III M8 V	{ -3 }	(D00+3)	[0000]	B	0	39
+1900	Fadz	E	0712	Ghikhaers	A7A4A97-A	 	Fl Hi In 		304	NaVa	M3 III M8 V	{ 4 }	(D9C-4)	[DE2B]	BEf	0	-5616
+
+1105	Fadz	I	0726	Kirraerraellounguegh	C754775-1	 	Ag 		215	Ve	K3 V M6 D	{ 0 }	(76B-1)	[]	BC	0	0
+1201	Fadz	I	0726	Kirraerraellounguegh	E754789-1	 	Ag 	B	315	Ve	K3 V M6 D	{ -1 }	(767+1)	[6631]	BC	0	294
+1157	Fadz	I	0726	Kirraerraellounguegh	E75478A-0	 	Ag 		115	Wild	K3 V M6 D	{ -1 }	(762-5)	[6611]	BC	0	-420
+1508	Fadz	I	0726	Kirraerraellounguegh	E754798-0	 	Ag 		215	Wild	K3 V M6 D	{ -1 }	(768-1)	[A611]	BC	0	-336
+1900	Fadz	I	0726	Kirraerraellounguegh	B754645-3	 	Ag Ni 		815	NaVa	K3 V M6 D	{ 0 }	(754+4)	[5658]	BC	0	560
+
+1105	Fadz	I	0728	Kirraerraellounguegh	C754775-1	 	Ag 		215	Ve	K3 V M6 D	{ 0 }	(B67-1)	[]	BC	0	0
+1201	Fadz	I	0728	Kirraerraellounguegh	E754783-1	 	Ag 	B	315	Ve	K3 V M6 D	{ -1 }	(B64+3)	[B673]	BC	0	792
+1157	Fadz	I	0728	Kirraerraellounguegh	E754788-0	 	Ag 		115	Wild	K3 V M6 D	{ -1 }	(B63+3)	[A621]	BC	0	594
+1508	Fadz	I	0728	Kirraerraellounguegh	E75479C-0	 	Ag 		215	Wild	K3 V M6 D	{ -1 }	(B66-3)	[8661]	BC	0	-1188
+1900	Fadz	I	0728	Kirraerraellounguegh	A754101-7	 	Lo 		615	NaVa	K3 V M6 D	{ -1 }	(B00+1)	[1145]	B	0	11
+
+1105	Fadz	M	0732	Gakhsadall	A645972-D	 	Hi In 		123	Ve	F9 V F7 V	{ 0 }	(B88+1)	[]	BE	0	0
+1201	Fadz	M	0732	Gakhsadall	X645000-8	 	Di 		023	Ve	F9 V F7 V	{ -3 }	(B00+2)	[0000]	B	0	22
+1157	Fadz	M	0732	Gakhsadall	X645000-8	 	Di 		023	Wild	F9 V F7 V	{ -3 }	(B00+1)	[0000]	B	0	11
+1508	Fadz	M	0732	Gakhsadall	X645000-8	 	Di 		023	Wild	F9 V F7 V	{ -3 }	(B00-2)	[0000]	B	0	-22
+1900	Fadz	M	0732	Gakhsadall	E645331-6	 	Lo 		323	NaVa	F9 V F7 V	{ -3 }	(620-2)	[7172]	B	0	-24
+
+1105	Fadz	M	0733	Gakhsadall	A645972-D	 	Hi In 		123	Ve	F9 V F7 V	{ 0 }	(787-3)	[]	BE	0	0
+1201	Fadz	M	0733	Gakhsadall	X645410-6	 	Ni Pa 		523	Ve	F9 V F7 V	{ -3 }	(230+1)	[1199]	Bc	0	6
+1157	Fadz	M	0733	Gakhsadall	X645000-6	 	Di 		023	Wild	F9 V F7 V	{ -3 }	(200+2)	[0000]	B	0	4
+1508	Fadz	M	0733	Gakhsadall	X645000-6	 	Di 		023	Wild	F9 V F7 V	{ -3 }	(200+2)	[0000]	B	0	4
+1900	Fadz	M	0733	Gakhsadall	E645478-6	 	Ni Pa 		823	NaVa	F9 V F7 V	{ -3 }	(233+3)	[517B]	Bc	0	54
+
+1105	Fadz	M	0738	Khuedorurzvaeng	E687579-2	 	Ag Pr Ga Ni 		103	Ve	F1 V M6 D	{ 0 }	(743-2)	[]	BcC	0	0
+1201	Fadz	M	0738	Khuedorurzvaeng	X687411-1	 	Ga Ni Pa 	B	603	Ve	F1 V M6 D	{ -3 }	(732-2)	[5141]	Bc	0	-84
+1157	Fadz	M	0738	Khuedorurzvaeng	X687489-0	 	Ga Ni Pa 		303	Wild	F1 V M6 D	{ -3 }	(730+2)	[6151]	Bc	0	42
+1508	Fadz	M	0738	Khuedorurzvaeng	X687457-0	 	Ga Ni Pa 		203	Wild	F1 V M6 D	{ -3 }	(732-3)	[6151]	Bc	0	-126
+1900	Fadz	M	0738	Khuedorurzvaeng	A687277-8	 	Ga Lo 		803	NaVa	F1 V M6 D	{ -1 }	(A10-2)	[218B]	B	0	-20
+
+1105	Fadz	M	0740	Llorrargnoksath	B997640-7	 	Ag Ni 		410	Ve	F0 V M2 D	{ 0 }	(855+4)	[]	BC	0	0
+1201	Fadz	M	0740	Llorrargnoksath	D997653-7	 	Ag Ni 	B	510	Ve	F0 V M2 D	{ -2 }	(853-4)	[7488]	BC	0	-480
+1157	Fadz	M	0740	Llorrargnoksath	D997000-7	 	Di 		010	Wild	F0 V M2 D	{ -3 }	(800+1)	[0000]	B	0	8
+1508	Fadz	M	0740	Llorrargnoksath	D997000-7	 	Di 		010	Wild	F0 V M2 D	{ -3 }	(800+3)	[0000]	B	0	24
+1900	Fadz	M	0740	Llorrargnoksath	C99737B-6	 	Lo 		610	NaVa	F0 V M2 D	{ -2 }	(820+1)	[2139]	B	0	16
+
+1105	Fadz	A	0801	Veakouna	A746200-C	 	Lo 		703	V0	F4 V	{ 0 }	(A10-1)	[]	B	0	0
+1157	Fadz	A	0801	Veakouna	D746000-C	 	Di 		003	Wild	F4 V	{ -1 }	(A00-1)	[0000]	B	0	-10
+1508	Fadz	A	0801	Veakouna	D746000-C	 	Di 		003	Wild	F4 V	{ -1 }	(A00-1)	[0000]	B	0	-10
+1201	Fadz	A	0801	Veakouna	X746000-C	 	Di 		003	Wild	F4 V	{ -1 }	(A00-3)	[0000]	B	0	-30
+1900	Fadz	A	0801	Veakouna	E746520-5	 	Ag Ni 		803	NaVa	F4 V	{ -2 }	(740+1)	[8349]	BC	0	28
+
+1105	Fadz	A	0802	Veakouna	A746200-C	 	Lo 		703	V0	F4 V	{ 0 }	(610-1)	[]	B	0	0
+1157	Fadz	A	0802	Veakouna	X746000-C	 	Di 		003	Wild	F4 V	{ -1 }	(600-2)	[0000]	B	0	-12
+1508	Fadz	A	0802	Veakouna	X746000-C	 	Di 		003	Wild	F4 V	{ -1 }	(600-5)	[0000]	B	0	-30
+1201	Fadz	A	0802	Veakouna	X746000-C	 	Di 		003	Wild	F4 V	{ -1 }	(600-4)	[0000]	B	0	-24
+1900	Fadz	A	0802	Veakouna	E746337-5	 	Lo 		603	NaVa	F4 V	{ -3 }	(320+4)	[1183]	B	0	24
+
+1105	Fadz	A	0803	Veakouna	A746200-C	 	Lo 		703	V0	F4 V	{ 0 }	(B10+1)	[]	B	0	0
+1157	Fadz	A	0803	Veakouna	X746000-C	 	Di 		003	Wild	F4 V	{ -1 }	(B00-3)	[0000]	B	0	-33
+1508	Fadz	A	0803	Veakouna	X746000-C	 	Di 		003	Wild	F4 V	{ -1 }	(B00-2)	[0000]	B	0	-22
+1201	Fadz	A	0803	Veakouna	X746000-C	 	Di 		003	Wild	F4 V	{ -1 }	(B00+1)	[0000]	B	0	11
+1900	Fadz	A	0803	Veakouna	B746678-8	 	Ag Ni 		603	NaVa	F4 V	{ 0 }	(B56+4)	[4669]	BC	0	1320
+
+1105	Fadz	A	0804	Knaengdzouksueg	D100200-B	 	Lo Va 		400	V0	M8 V	{ 0 }	(810+3)	[]	B	0	0
+1157	Fadz	A	0804	Knaengdzouksueg	D100000-B	 	Di Va 		000	Wild	M8 V	{ -1 }	(800-2)	[0000]	B	0	-16
+1508	Fadz	A	0804	Knaengdzouksueg	D100000-B	 	Di Va 		000	Wild	M8 V	{ -1 }	(800-4)	[0000]	B	0	-32
+1201	Fadz	A	0804	Knaengdzouksueg	X100000-B	 	Di Va 		000	Wild	M8 V	{ -1 }	(800+5)	[0000]	B	0	40
+1900	Fadz	A	0804	Knaengdzouksueg	C100414-C	 	Ni Va 		300	NaVa	M8 V	{ 0 }	(832+1)	[241E]	B	0	48
+
+1105	Fadz	A	0807	Gaefae	E896301-4	 	Lo 		904	Ve	F0 V	{ 0 }	(820-2)	[]	B	0	0
+1157	Fadz	A	0807	Gaefae	E896000-4	 	Di 		004	Wild	F0 V	{ -3 }	(800+4)	[0000]	B	0	32
+1508	Fadz	A	0807	Gaefae	E896000-4	 	Di 		004	Wild	F0 V	{ -3 }	(800+1)	[0000]	B	0	8
+1201	Fadz	A	0807	Gaefae	X896000-4	 	Di 		004	Wild	F0 V	{ -3 }	(800+1)	[0000]	B	0	8
+1900	Fadz	A	0807	Gaefae	E896653-3	 	Ag Ni 		204	NaVa	F0 V	{ -2 }	(852-4)	[54A1]	BC	0	-320
+
+1105	Fadz	E	0812	Dzaersaesae	C542124-6	 	He Lo Po 		211	Ve	G6 V	{ 0 }	(C00-4)	[]	B	0	0
+1157	Fadz	E	0812	Dzaersaesae	E542000-6	 	Di He Po 		011	Wild	G6 V	{ -3 }	(C00+1)	[0000]	B	0	12
+1508	Fadz	E	0812	Dzaersaesae	E542000-6	 	Di He Po 		011	Wild	G6 V	{ -3 }	(C00+1)	[0000]	B	0	12
+1201	Fadz	E	0812	Dzaersaesae	X542000-6	 	Di He Po 		011	Wild	G6 V	{ -3 }	(C00-1)	[0000]	B	0	-12
+1900	Fadz	E	0812	Dzaersaesae	C542388-6	 	He Lo Po 		511	NaVa	G6 V	{ -2 }	(C20-1)	[113A]	B	0	-24
+
+1105	Fadz	E	0814	Goenarrghakhsugz	E784579-6	 	Ag Pr Ni 		200	Ve	F7 V M7 D	{ 0 }	(542-3)	[]	BcC	0	0
+1157	Fadz	E	0814	Goenarrghakhsugz	E784534-4	 	Ag Pr Ni 		100	Wild	F7 V M7 D	{ -2 }	(541+3)	[3313]	BcC	0	60
+1508	Fadz	E	0814	Goenarrghakhsugz	E784555-6	 	Ag Pr Ni 		100	Wild	F7 V M7 D	{ -2 }	(540-1)	[5386]	BcC	0	-20
+1201	Fadz	E	0814	Goenarrghakhsugz	X784449-5	 	Ni Pa 		600	Wild	F7 V M7 D	{ -3 }	(533-1)	[1195]	Bc	0	-45
+1900	Fadz	E	0814	Goenarrghakhsugz	D784000-D	 	Di 		000	NaVa	F7 V M7 D	{ -1 }	(500+1)	[0000]	B	0	5
+
+1105	Fadz	E	0815	Kfagonguae	B120548-B	 	De Ni Po 		319	Ve	M0 V M0 D	{ 0 }	(J43+1)	[]	B	0	0
+1157	Fadz	E	0815	Kfagonguae	B120578-9	 	De Ni Po 		119	Wild	M0 V M0 D	{ 0 }	(J45+1)	[1578]	B	0	360
+1508	Fadz	E	0815	Kfagonguae	B120477-A	 	De Ni Po 		919	Wild	M0 V M0 D	{ 1 }	(J36+5)	[3596]	B	0	1620
+1201	Fadz	E	0815	Kfagonguae	X120000-A	 	De Di Po 		019	Wild	M0 V M0 D	{ -1 }	(J00-1)	[0000]	B	0	-18
+1900	Fadz	E	0815	Kfagonguae	C120588-9	 	De Ni Po 		919	NaVa	M0 V M0 D	{ -1 }	(J43-5)	[A448]	B	0	-1080
+
+1105	Fadz	E	0818	Rrosokhsaersoekhdez	E775001-6	 	Di 		110	Ve	F6 V M4 D M6 D	{ 0 }	(700-1)	[]	B	0	0
+1201	Fadz	E	0818	Rrosokhsaersoekhdez	X775001-6	 	Di 		110	Ve	F6 V M4 D M6 D	{ -3 }	(700-2)	[0000]	B	0	-14
+1157	Fadz	E	0818	Rrosokhsaersoekhdez	X775000-6	 	Di 		010	Wild	F6 V M4 D M6 D	{ -3 }	(700+1)	[0000]	B	0	7
+1508	Fadz	E	0818	Rrosokhsaersoekhdez	X775000-6	 	Di 		010	Wild	F6 V M4 D M6 D	{ -3 }	(700+1)	[0000]	B	0	7
+1900	Fadz	E	0818	Rrosokhsaersoekhdez	C775754-9	 	Ag Pi 		910	NaVa	F6 V M4 D M6 D	{ 1 }	(867+1)	[8849]	BCD	0	336
+
+1105	Fadz	E	0819	Kaegzzongksuzak	E665202-6	 	Ga Lo 		300	Ve	F3 V M1 V	{ 0 }	(710-1)	[]	B	0	0
+1201	Fadz	E	0819	Kaegzzongksuzak	X665144-5	 	Ga Lo 		900	Ve	F3 V M1 V	{ -3 }	(700-1)	[1147]	B	0	-7
+1157	Fadz	E	0819	Kaegzzongksuzak	X665000-5	 	Di Ga 		000	Wild	F3 V M1 V	{ -3 }	(700+1)	[0000]	B	0	7
+1508	Fadz	E	0819	Kaegzzongksuzak	X665000-5	 	Di Ga 		000	Wild	F3 V M1 V	{ -3 }	(700+3)	[0000]	B	0	21
+1900	Fadz	E	0819	Kaegzzongksuzak	B665211-9	 	Ga Lo 		600	NaVa	F3 V M1 V	{ 0 }	(710+2)	[1238]	B	0	14
+
+1105	Fadz	I	0821	Guvaer	CA98410-2	 	Ni Pa 		206	Ve	F8 V M6 D	{ 0 }	(732+5)	[]	Bc	0	0
+1201	Fadz	I	0821	Guvaer	EA98403-1	 	Ni Pa 	B	206	Ve	F8 V M6 D	{ -3 }	(730+1)	[1151]	Bc	0	21
+1157	Fadz	I	0821	Guvaer	EA98000-1	 	Di 		006	Wild	F8 V M6 D	{ -3 }	(700+5)	[0000]	B	0	35
+1508	Fadz	I	0821	Guvaer	EA98000-1	 	Di 		006	Wild	F8 V M6 D	{ -3 }	(700-4)	[0000]	B	0	-28
+1900	Fadz	I	0821	Guvaer	BA98852-4	 	Pa Pi Ph 		306	NaVa	F8 V M6 D	{ 0 }	(777+3)	[6836]	BcDe	0	1029
+
+1105	Fadz	I	0826	Kfoksoudhrrigha	A422666-9	 	He Na Px Po Ni 		422	Ve	M8 V	{ 0 }	(851-1)	[]	B	0	0
+1201	Fadz	I	0826	Kfoksoudhrrigha	X422000-9	 	Di He Na Px Po 		022	Ve	M8 V	{ -2 }	(800-2)	[0000]	B	0	-16
+1157	Fadz	I	0826	Kfoksoudhrrigha	X422000-9	 	Di He Na Px Po 		022	Wild	M8 V	{ -2 }	(800-2)	[0000]	B	0	-16
+1508	Fadz	I	0826	Kfoksoudhrrigha	X422000-9	 	Di He Po 		022	Wild	M8 V	{ -2 }	(800+3)	[0000]	B	0	24
+1900	Fadz	I	0826	Kfoksoudhrrigha	B422799-7	 	He Na Pi Po 		422	NaVa	M8 V	{ 0 }	(46A-1)	[6757]	BD	0	-240
+
+1105	Fadz	M	0831	Koeghzongorrae	A352101-B	 	Lo Po 		805	Ve	F6 V M0 D	{ 0 }	(C00+3)	[]	B	0	0
+1201	Fadz	M	0831	Koeghzongorrae	X352355-0	 	Lo Po 		205	Ve	F6 V M0 D	{ -3 }	(720-5)	[3134]	B	0	-70
+1157	Fadz	M	0831	Koeghzongorrae	X352000-0	 	Ba Po 		005	Wild	F6 V M0 D	{ -3 }	(700+1)	[0000]	B	0	7
+1508	Fadz	M	0831	Koeghzongorrae	X352000-0	 	Ba Po 		005	Wild	F6 V M0 D	{ -3 }	(700+2)	[0000]	B	0	14
+1900	Fadz	M	0831	Koeghzongorrae	C352375-6	 	Lo Po 		705	NaVa	F6 V M0 D	{ -2 }	(720+4)	[3177]	B	0	56
+
+1105	Fadz	M	0833	Ghaerruekakh	E441788-6	 	He Pi Po 		704	Ve	F1 V M5 D	{ 0 }	(567-2)	[]	BD	0	0
+1201	Fadz	M	0833	Ghaerruekakh	X44189A-4	 	He Ph Pi Po 		804	Ve	F1 V M5 D	{ -2 }	(57A+1)	[7652]	BDe	0	350
+1157	Fadz	M	0833	Ghaerruekakh	X441000-4	 	Di He Pi Po 		004	Wild	F1 V M5 D	{ -3 }	(500+5)	[0000]	BD	0	25
+1508	Fadz	M	0833	Ghaerruekakh	X441000-4	 	Di He Po 		004	Wild	F1 V M5 D	{ -3 }	(500+3)	[0000]	B	0	15
+1900	Fadz	M	0833	Ghaerruekakh	C441453-A	 	He Ni Po 		504	NaVa	F1 V M5 D	{ 0 }	(934-4)	[443D]	B	0	-432
+
+1105	Fadz	B	0901	Gvaenuekfourr	D540484-6	 	De He Ni Po 		200	V0	F4 V	{ 0 }	(A34-3)	[]	B	0	0
+1157	Fadz	B	0901	Gvaenuekfourr	D540000-6	 	De He Di Po 		000	Wild	F4 V	{ -3 }	(A00+1)	[0000]	B	0	10
+1508	Fadz	B	0901	Gvaenuekfourr	D540000-6	 	De He Di Po 		000	Wild	F4 V	{ -3 }	(A00-4)	[0000]	B	0	-40
+1201	Fadz	B	0901	Gvaenuekfourr	X540000-6	 	De He Di Po 		000	Wild	F4 V	{ -3 }	(A00+2)	[0000]	B	0	20
+1900	Fadz	B	0901	Gvaenuekfourr	C540338-8	 	De He Lo Po 		100	NaVa	F4 V	{ -2 }	(A20-1)	[219C]	B	0	-20
+
+1105	Fadz	B	0902	Gvaenuekfourr	D540484-6	 	De He Ni Po 		200	V0	F4 V	{ 0 }	(731-1)	[]	B	0	0
+1157	Fadz	B	0902	Gvaenuekfourr	D540451-5	 	De He Ni Po 		100	Wild	F4 V	{ -3 }	(732+1)	[3155]	B	0	42
+1508	Fadz	B	0902	Gvaenuekfourr	D540340-5	 	De He Lo Po 		900	Wild	F4 V	{ -3 }	(720-1)	[4138]	B	0	-14
+1201	Fadz	B	0902	Gvaenuekfourr	X540173-4	 	De He Lo Po 		500	Wild	F4 V	{ -3 }	(700-4)	[21A5]	B	0	-28
+1900	Fadz	B	0902	Gvaenuekfourr	A540674-B	 	De He Ni Po 		700	NaVa	F4 V	{ 1 }	(755+1)	[773B]	B	0	175
+
+1105	Fadz	B	0903	Gvaenuekfourr	D540484-6	 	De He Ni Po 		200	V0	F4 V	{ 0 }	(733+1)	[]	B	0	0
+1157	Fadz	B	0903	Gvaenuekfourr	D540458-5	 	De He Ni Po 		100	Wild	F4 V	{ -3 }	(730-2)	[8175]	B	0	-42
+1508	Fadz	B	0903	Gvaenuekfourr	D540336-5	 	De He Lo Po 		900	Wild	F4 V	{ -3 }	(720+5)	[1147]	B	0	70
+1201	Fadz	B	0903	Gvaenuekfourr	X540345-4	 	De He Lo Po 		600	Wild	F4 V	{ -3 }	(720-1)	[2163]	B	0	-14
+1900	Fadz	B	0903	Gvaenuekfourr	A540223-C	 	De He Lo Po 		300	NaVa	F4 V	{ 1 }	(711+2)	[735B]	B	0	14
+
+1105	Fadz	B	0905	Gvaenuekfourr	D540484-6	 	De He Ni Po 		200	V0	F4 V	{ 0 }	(734-1)	[]	B	0	0
+1157	Fadz	B	0905	Gvaenuekfourr	D540476-4	 	De He Ni Po 		100	Wild	F4 V	{ -3 }	(732+1)	[4166]	B	0	42
+1508	Fadz	B	0905	Gvaenuekfourr	D54049A-5	 	De He Ni Po 		200	Wild	F4 V	{ -3 }	(733+1)	[4115]	B	0	63
+1201	Fadz	B	0905	Gvaenuekfourr	E54047B-2	 	De He Ni Po 	B	200	Wild	F4 V	{ -3 }	(731+5)	[5131]	B	0	105
+1900	Fadz	B	0905	Gvaenuekfourr	B540896-9	 	De He Ph Pi Po 	B	400	NaVa	F4 V	{ 1 }	(775+2)	[8965]	BDe	0	490
+
+1105	Fadz	F	0913	Tsavaekelleokaets	E362322-4	 	Lo 		402	Ve	F0 V M5 D	{ 0 }	(620-3)	[]	B	0	0
+1157	Fadz	F	0913	Tsavaekelleokaets	E362000-4	 	Di 		002	Wild	F0 V M5 D	{ -3 }	(600-3)	[0000]	B	0	-18
+1508	Fadz	F	0913	Tsavaekelleokaets	E362000-4	 	Di 		002	Wild	F0 V M5 D	{ -3 }	(600+2)	[0000]	B	0	12
+1201	Fadz	F	0913	Tsavaekelleokaets	X362000-4	 	Di 		002	Wild	F0 V M5 D	{ -3 }	(600+3)	[0000]	B	0	18
+1900	Fadz	F	0913	Tsavaekelleokaets	A362AA7-D	 	Hi 		602	NaVa	F0 V M5 D	{ 3 }	(898-2)	[6D6G]	BE	0	-1152
+
+1105	Fadz	F	0919	Kfoukhsoeksakhoel	E610878-4	 	Na Pi Ph 		404	Ve	G1 V M3 V	{ 0 }	(875+1)	[]	BDe	0	0
+1201	Fadz	F	0919	Kfoukhsoeksakhoel	X610000-4	 	Di Na Pi 		004	Ve	G1 V M3 V	{ -3 }	(800+3)	[0000]	BD	0	24
+1157	Fadz	F	0919	Kfoukhsoeksakhoel	X610000-4	 	Di Na Pi 		004	Wild	G1 V M3 V	{ -3 }	(800+1)	[0000]	BD	0	8
+1508	Fadz	F	0919	Kfoukhsoeksakhoel	X610000-4	 	Di 		004	Wild	G1 V M3 V	{ -3 }	(800-2)	[0000]	B	0	-16
+1900	Fadz	F	0919	Kfoukhsoeksakhoel	D610375-5	 	Lo 		504	NaVa	G1 V M3 V	{ -3 }	(820+2)	[1132]	B	0	32
+
+1105	Fadz	J	0927	Zoullakhael	E884440-6	 	Ni Pa 		902	Ve	G8 V	{ 0 }	(934-2)	[]	Bc	0	0
+1201	Fadz	J	0927	Zoullakhael	X884436-4	 	Ni Pa 		502	Ve	G8 V	{ -3 }	(930-2)	[51A7]	Bc	0	-54
+1157	Fadz	J	0927	Zoullakhael	X884000-4	 	Di 		002	Wild	G8 V	{ -3 }	(900-2)	[0000]	B	0	-18
+1508	Fadz	J	0927	Zoullakhael	X884000-4	 	Di 		002	Wild	G8 V	{ -3 }	(900+1)	[0000]	B	0	9
+1900	Fadz	J	0927	Zoullakhael	B884977-B	 	Hi Pr 		202	NaVa	G8 V	{ 3 }	(B8B-1)	[8C2B]	BcE	0	-968
+
+1105	Fadz	J	0930	Zaaesikhoe	A552576-9	 	Ni Po 		703	Ve	F9 V	{ 0 }	(C46-2)	[]	B	0	0
+1201	Fadz	J	0930	Zaaesikhoe	B552544-2	 	Ni Po 	B	403	Ve	F9 V	{ -1 }	(943+1)	[9461]	B	0	108
+1157	Fadz	J	0930	Zaaesikhoe	E552000-2	 	Di Po 		003	Wild	F9 V	{ -3 }	(900+3)	[0000]	B	0	27
+1508	Fadz	J	0930	Zaaesikhoe	E552000-2	 	Di Po 		003	Wild	F9 V	{ -3 }	(900-4)	[0000]	B	0	-36
+1900	Fadz	J	0930	Zaaesikhoe	B5527AF-6	 	Po 		103	NaVa	F9 V	{ 0 }	(965+1)	[3716]	B	0	270
+
+1105	Fadz	N	0932	Gherouzdounkhakhaekhug	E243566-5	 	Ni Po 		314	Ve	F7 V	{ 0 }	(746-3)	[]	B	0	0
+1201	Fadz	N	0932	Gherouzdounkhakhaekhug	X243557-4	 	Ni Po 		214	Ve	F7 V	{ -3 }	(740-3)	[5264]	B	0	-84
+1157	Fadz	N	0932	Gherouzdounkhakhaekhug	X243000-4	 	Di Po 		014	Wild	F7 V	{ -3 }	(700+1)	[0000]	B	0	7
+1508	Fadz	N	0932	Gherouzdounkhakhaekhug	X243000-4	 	Di Po 		014	Wild	F7 V	{ -3 }	(700+1)	[0000]	B	0	7
+1900	Fadz	N	0932	Gherouzdounkhakhaekhug	B243220-9	 	Lo Po 		814	NaVa	F7 V	{ 0 }	(C10+2)	[4289]	B	0	24
+
+1105	Fadz	N	0938	Agaknae	C778554-9	 	Ag Ni 		513	Ve	F6 V	{ 0 }	(841-3)	[]	BC	0	0
+1201	Fadz	N	0938	Agaknae	E77856A-4	 	Ag Ni 		313	Ve	F6 V	{ -2 }	(440-2)	[6364]	BC	0	-32
+1157	Fadz	N	0938	Agaknae	E778000-4	 	Di 		013	Wild	F6 V	{ -3 }	(400-4)	[0000]	B	0	-16
+1508	Fadz	N	0938	Agaknae	E778000-4	 	Di 		013	Wild	F6 V	{ -3 }	(400-3)	[0000]	B	0	-12
+1900	Fadz	N	0938	Agaknae	E778321-6	 	Lo 		313	NaVa	F6 V	{ -3 }	(420+4)	[7144]	B	0	32
+
+1105	Fadz	B	1003	Adhagvaedoe	E140001-3	 	De Di Po 		521	V0	F1 V	{ 0 }	(700+1)	[]	B	0	0
+1157	Fadz	B	1003	Adhagvaedoe	E140000-3	 	De Di Po 		021	Wild	F1 V	{ -3 }	(700-3)	[0000]	B	0	-21
+1508	Fadz	B	1003	Adhagvaedoe	E140000-3	 	De Di Po 		021	Wild	F1 V	{ -3 }	(700+1)	[0000]	B	0	7
+1201	Fadz	B	1003	Adhagvaedoe	X140000-3	 	De Di Po 		021	Wild	F1 V	{ -3 }	(700-3)	[0000]	B	0	-21
+1900	Fadz	B	1003	Adhagvaedoe	B140577-A	 	De Ni Po 		221	NaVa	F1 V	{ 1 }	(A45+2)	[A687]	B	0	400
+
+1105	Fadz	B	1005	Korzoukulkfueghzdzorgvung	C9C4202-9	 	Fl Lo 		103	V0	K8 V	{ 0 }	(610-3)	[]	B	0	0
+1157	Fadz	B	1005	Korzoukulkfueghzdzorgvung	D9C4000-9	 	Di Fl 		003	Wild	K8 V	{ -2 }	(600-4)	[0000]	B	0	-24
+1508	Fadz	B	1005	Korzoukulkfueghzdzorgvung	D9C4000-9	 	Di Fl 		003	Wild	K8 V	{ -2 }	(600+1)	[0000]	B	0	6
+1201	Fadz	B	1005	Korzoukulkfueghzdzorgvung	X9C4000-9	 	Di Fl 		003	Wild	K8 V	{ -2 }	(600-5)	[0000]	B	0	-30
+1900	Fadz	B	1005	Korzoukulkfueghzdzorgvung	X9C4342-2	 	Fl Lo 		203	NaVa	K8 V	{ -3 }	(320-4)	[6151]	B	0	-24
+
+1105	Fadz	B	1007	Foekseaerrkhongsokokstharrgh	X582420-2	 	Ni 		205	Ve	F5 V M2 D	{ 0 }	(535-1)	[]	B	0	0
+1157	Fadz	B	1007	Foekseaerrkhongsokokstharrgh	X582430-0	 	Ni 		105	Wild	F5 V M2 D	{ -3 }	(530+1)	[1151]	B	0	15
+1508	Fadz	B	1007	Foekseaerrkhongsokokstharrgh	X582332-1	 	Lo 		905	Wild	F5 V M2 D	{ -3 }	(520-2)	[1183]	B	0	-20
+1201	Fadz	B	1007	Foekseaerrkhongsokokstharrgh	X582256-0	 	Lo 	B	905	Wild	F5 V M2 D	{ -3 }	(510+1)	[1141]	B	0	5
+1900	Fadz	B	1007	Foekseaerrkhongsokokstharrgh	E582100-7	 	Lo 	B	605	NaVa	F5 V M2 D	{ -3 }	(500-3)	[1167]	B	0	-15
+
+1105	Fadz	B	1010	Zakhsoukhsinfokhssun	B696234-9	 	Lo 		502	Ve	F7 V	{ 0 }	(810-1)	[]	B	0	0
+1157	Fadz	B	1010	Zakhsoukhsinfokhssun	X696000-9	 	Di 		002	Wild	F7 V	{ -2 }	(800-3)	[0000]	B	0	-24
+1508	Fadz	B	1010	Zakhsoukhsinfokhssun	X696000-9	 	Di 		002	Wild	F7 V	{ -2 }	(800-5)	[0000]	B	0	-40
+1201	Fadz	B	1010	Zakhsoukhsinfokhssun	X696000-9	 	Di 		002	Wild	F7 V	{ -2 }	(800+4)	[0000]	B	0	32
+1900	Fadz	B	1010	Zakhsoukhsinfokhssun	C69659D-7	 	Ag Ni 		602	NaVa	F7 V	{ -1 }	(642-1)	[3457]	BC	0	-48
+
+1105	Fadz	F	1014	Thallaeuekhourrg	B34277B-8	 	He Pi Po 		702	Ve	F5 V	{ 0 }	(E6A+1)	[]	BD	0	0
+1157	Fadz	F	1014	Thallaeuekhourrg	B342754-7	 	He Pi Po 		302	Wild	F5 V	{ 0 }	(C65+1)	[5769]	BD	0	360
+1508	Fadz	F	1014	Thallaeuekhourrg	B342776-7	 	He Pi Po 		202	Wild	F5 V	{ 0 }	(C63+2)	[8747]	BD	0	432
+1201	Fadz	F	1014	Thallaeuekhourrg	D3429AC-7	 	He Hi In Po 		302	Wild	F5 V	{ 0 }	(C88+2)	[A98A]	BE	0	1536
+1900	Fadz	F	1014	Thallaeuekhourrg	B3429A8-A	 	He Hi In Po 		402	NaVa	F5 V	{ 4 }	(E89+5)	[8D39]	BEf	0	5040
+
+1105	Fadz	F	1016	Varsarsgoughzkur	A9A1332-B	 	Fl He Lo 		301	Ve	M5 V M6 D	{ 0 }	(A20+3)	[]	B	0	0
+1201	Fadz	F	1016	Varsarsgoughzkur	X9A1000-B	 	Di Fl He 		001	Ve	M5 V M6 D	{ -1 }	(A00+4)	[0000]	B	0	40
+1157	Fadz	F	1016	Varsarsgoughzkur	X9A1000-B	 	Di Fl He 		001	Wild	M5 V M6 D	{ -1 }	(A00+5)	[0000]	B	0	50
+1508	Fadz	F	1016	Varsarsgoughzkur	X9A1000-B	 	Di Fl He 		001	Wild	M5 V M6 D	{ -1 }	(A00+1)	[0000]	B	0	10
+1900	Fadz	F	1016	Varsarsgoughzkur	C9A1789-6	 	Fl He 		401	NaVa	M5 V M6 D	{ -1 }	(969-1)	[6623]	B	0	-486
+
+1105	Fadz	F	1018	Vaghueoekogkfenoung	C373200-B	 	Lo 		904	Ve	M7 V	{ 0 }	(C10-2)	[]	B	0	0
+1201	Fadz	F	1018	Vaghueoekogkfenoung	X373312-5	 	Lo 		804	Ve	M7 V	{ -3 }	(820-5)	[5159]	B	0	-80
+1157	Fadz	F	1018	Vaghueoekogkfenoung	X373000-5	 	Di 		004	Wild	M7 V	{ -3 }	(800-2)	[0000]	B	0	-16
+1508	Fadz	F	1018	Vaghueoekogkfenoung	X373000-5	 	Di 		004	Wild	M7 V	{ -3 }	(800+1)	[0000]	B	0	8
+1900	Fadz	F	1018	Vaghueoekogkfenoung	B373794-B	 	Pi 		604	NaVa	M7 V	{ 2 }	(C6B+4)	[9916]	BD	0	3168
+
+1105	Fadz	J	1024	Vuersanuekhuengouz	B672752-A	 	He Pi 		410	Ve	F3 V	{ 0 }	(866-3)	[]	BD	0	0
+1201	Fadz	J	1024	Vuersanuekhuengouz	D6727BC-8	 	He Pi 		510	Ve	F3 V	{ -2 }	(865-1)	[6567]	BD	0	-240
+1157	Fadz	J	1024	Vuersanuekhuengouz	D672000-8	 	Di He Pi 		010	Wild	F3 V	{ -3 }	(800+2)	[0000]	BD	0	16
+1508	Fadz	J	1024	Vuersanuekhuengouz	D672000-8	 	Di He 		010	Wild	F3 V	{ -3 }	(800+1)	[0000]	B	0	8
+1900	Fadz	J	1024	Vuersanuekhuengouz	B672899-9	 	He Ph Pi 		110	NaVa	F3 V	{ 1 }	(878-1)	[8928]	BDe	0	-448
+
+1105	Fadz	J	1028	Koeae	E97A7CA-5	 	Pi Wa 		301	Ve	F7 V M6 D	{ 0 }	(764-2)	[]	BD	0	0
+1201	Fadz	J	1028	Koeae	X97A000-5	 	Di Pi Wa 		001	Ve	F7 V M6 D	{ -3 }	(700-1)	[0000]	BD	0	-7
+1157	Fadz	J	1028	Koeae	X97A000-5	 	Di Pi Wa 		001	Wild	F7 V M6 D	{ -3 }	(700+1)	[0000]	BD	0	7
+1508	Fadz	J	1028	Koeae	X97A000-5	 	Di Wa 		001	Wild	F7 V M6 D	{ -3 }	(700+2)	[0000]	B	0	14
+1900	Fadz	J	1028	Koeae	A97A978-D	 	Hi In Wa 		801	NaVa	F7 V M6 D	{ 4 }	(88E+1)	[7D8D]	BEf	0	896
+
+1105	Fadz	N	1036	Knougthangvuen	B626536-9	 	Ni 		632	Ve	M0 V M5 D	{ 0 }	(C46+2)	[]	B	0	0
+1201	Fadz	N	1036	Knougthangvuen	X626000-9	 	Di 		032	Ve	M0 V M5 D	{ -2 }	(C00-1)	[0000]	B	0	-12
+1157	Fadz	N	1036	Knougthangvuen	X626000-9	 	Di 		032	Wild	M0 V M5 D	{ -2 }	(C00-3)	[0000]	B	0	-36
+1508	Fadz	N	1036	Knougthangvuen	X626000-9	 	Di 		032	Wild	M0 V M5 D	{ -2 }	(C00-3)	[0000]	B	0	-36
+1900	Fadz	N	1036	Knougthangvuen	X626334-1	 	Lo 		132	NaVa	M0 V M5 D	{ -3 }	(720+2)	[3153]	B	0	28
+
+1105	Fadz	N	1039	Thalrueloukhs	A9D0854-9	 	Ph 		204	Ve	G9 V	{ 0 }	(678+1)	[]	Be	0	0
+1201	Fadz	N	1039	Thalrueloukhs	X9D0000-9	 	Di 		004	Ve	G9 V	{ -2 }	(600-4)	[0000]	B	0	-24
+1157	Fadz	N	1039	Thalrueloukhs	X9D0000-9	 	Di 		004	Wild	G9 V	{ -2 }	(600+2)	[0000]	B	0	12
+1508	Fadz	N	1039	Thalrueloukhs	X9D0000-9	 	Di 		004	Wild	G9 V	{ -2 }	(600+3)	[0000]	B	0	18
+1900	Fadz	N	1039	Thalrueloukhs	B9D06B7-6	 	Ni 		904	NaVa	G9 V	{ -1 }	(251+3)	[A556]	B	0	30
+
+1105	Fadz	N	1040	Thalrueloukhs	A9D0854-9	 	Ph 		204	Ve	G9 V	{ 0 }	(D77-1)	[]	Be	0	0
+1201	Fadz	N	1040	Thalrueloukhs	X9D0000-9	 	Di 		004	Ve	G9 V	{ -2 }	(D00-2)	[0000]	B	0	-26
+1157	Fadz	N	1040	Thalrueloukhs	X9D0000-9	 	Di 		004	Wild	G9 V	{ -2 }	(D00-1)	[0000]	B	0	-13
+1508	Fadz	N	1040	Thalrueloukhs	X9D0000-9	 	Di 		004	Wild	G9 V	{ -2 }	(D00+3)	[0000]	B	0	39
+1900	Fadz	N	1040	Thalrueloukhs	B9D07CE-6	 			804	NaVa	G9 V	{ 0 }	(966+1)	[A729]	B	0	324
+
+1105	Fadz	B	1104	Kfoangksoegzksae	A100224-A	 	Lo Va 		600	V0	M2 V	{ 0 }	(310+1)	[]	B	0	0
+1157	Fadz	B	1104	Kfoangksoegzksae	X100000-A	 	Di Va 		000	Wild	M2 V	{ -1 }	(300+3)	[0000]	B	0	9
+1508	Fadz	B	1104	Kfoangksoegzksae	X100000-A	 	Di Va 		000	Wild	M2 V	{ -1 }	(300+3)	[0000]	B	0	9
+1201	Fadz	B	1104	Kfoangksoegzksae	X100000-A	 	Di Va 		000	Wild	M2 V	{ -1 }	(300+1)	[0000]	B	0	3
+1900	Fadz	B	1104	Kfoangksoegzksae	E100877-3	 	Na Pi Ph Va 		700	NaVa	M2 V	{ -2 }	(371+1)	[5658]	BDe	0	21
+
+1105	Fadz	B	1105	Kfoangksoegzksae	A100224-A	 	Lo Va 		600	V0	M2 V	{ 0 }	(610+1)	[]	B	0	0
+1157	Fadz	B	1105	Kfoangksoegzksae	E100000-A	 	Di Va 		000	Wild	M2 V	{ -1 }	(600+3)	[0000]	B	0	18
+1508	Fadz	B	1105	Kfoangksoegzksae	E100000-A	 	Di Va 		000	Wild	M2 V	{ -1 }	(600-1)	[0000]	B	0	-6
+1201	Fadz	B	1105	Kfoangksoegzksae	X100000-A	 	Di Va 		000	Wild	M2 V	{ -1 }	(600-1)	[0000]	B	0	-6
+1900	Fadz	B	1105	Kfoangksoegzksae	D100544-4	 	Ni Va 		500	NaVa	M2 V	{ -3 }	(642-1)	[3237]	B	0	-48
+
+1105	Fadz	B	1107	Kothongkharz	A436674-9	 	Ni 		424	Ve	F7 V M7 D M5 D	{ 0 }	(955-3)	[]	B	0	0
+1157	Fadz	B	1107	Kothongkharz	A436576-8	 	Ni 		224	Wild	F7 V M7 D M5 D	{ -1 }	(940+2)	[14A8]	B	0	72
+1508	Fadz	B	1107	Kothongkharz	A436522-9	 	Ni 		124	Wild	F7 V M7 D M5 D	{ 0 }	(941+1)	[554C]	B	0	36
+1201	Fadz	B	1107	Kothongkharz	X436000-9	 	Di 		024	Wild	F7 V M7 D M5 D	{ -2 }	(900+1)	[0000]	B	0	9
+1900	Fadz	B	1107	Kothongkharz	C436ADG-B	 	Hi 		424	NaVa	F7 V M7 D M5 D	{ 2 }	(99D+4)	[BC3A]	BE	0	4212
+
+1105	Fadz	F	1114	Dueknounora	B140566-A	 	De Ni Po 		513	Ve	K1 V M7 D F4 V	{ 0 }	(F43-3)	[]	B	0	0
+1157	Fadz	F	1114	Dueknounora	B14059B-8	 	De Ni Po 		213	Wild	K1 V M7 D F4 V	{ -1 }	(F43+1)	[3469]	B	0	180
+1508	Fadz	F	1114	Dueknounora	B140500-A	 	De Ni Po 		313	Wild	K1 V M7 D F4 V	{ 1 }	(F45+1)	[2699]	B	0	300
+1201	Fadz	F	1114	Dueknounora	X140134-3	 	De Lo Po 		513	Wild	K1 V M7 D F4 V	{ -3 }	(B00-2)	[6155]	B	0	-22
+1900	Fadz	F	1114	Dueknounora	B140577-A	 	De Ni Po 		113	NaVa	K1 V M7 D F4 V	{ 1 }	(F43+3)	[366F]	B	0	540
+
+1105	Fadz	F	1115	Dueknounora	B140566-A	 	De Ni Po 		513	Ve	K1 V M7 D F4 V	{ 0 }	(646-5)	[]	B	0	0
+1157	Fadz	F	1115	Dueknounora	B140435-8	 	De Ni Po 		213	Wild	K1 V M7 D F4 V	{ -1 }	(630+5)	[1318]	B	0	90
+1508	Fadz	F	1115	Dueknounora	B140431-9	 	De Ni Po 		113	Wild	K1 V M7 D F4 V	{ 0 }	(632+4)	[544A]	B	0	144
+1201	Fadz	F	1115	Dueknounora	D140100-4	 	De Lo Po 		313	Wild	K1 V M7 D F4 V	{ -3 }	(200-1)	[2152]	B	0	-2
+1900	Fadz	F	1115	Dueknounora	D14049D-6	 	De Ni Po 		513	NaVa	K1 V M7 D F4 V	{ -3 }	(232+1)	[4177]	B	0	12
+
+1105	Fadz	J	1123	Koutuenakhuengin	B140300-D	 	De Lo Po 		114	Ve	F8 V M0 D	{ 0 }	(C20+1)	[]	B	0	0
+1201	Fadz	J	1123	Koutuenakhuengin	D140236-7	 	De Lo Po 		614	Ve	F8 V M0 D	{ -3 }	(710-2)	[6136]	B	0	-14
+1157	Fadz	J	1123	Koutuenakhuengin	D140000-7	 	De Di Po 		014	Wild	F8 V M0 D	{ -3 }	(700-3)	[0000]	B	0	-21
+1508	Fadz	J	1123	Koutuenakhuengin	D140000-7	 	De Di Po 		014	Wild	F8 V M0 D	{ -3 }	(700+5)	[0000]	B	0	35
+1900	Fadz	J	1123	Koutuenakhuengin	C140575-A	 	De Ni Po 		414	NaVa	F8 V M0 D	{ 0 }	(C43-1)	[551B]	B	0	-144
+
+1105	Fadz	J	1127	Llozok	C664444-9	 	Ni Pa 		603	Ve	F0 V	{ 0 }	(835+4)	[]	Bc	0	0
+1201	Fadz	J	1127	Llozok	X664410-6	 	Ni Pa 		403	Ve	F0 V	{ -3 }	(531+2)	[71A5]	Bc	0	30
+1157	Fadz	J	1127	Llozok	X664000-6	 	Di 		003	Wild	F0 V	{ -3 }	(500-2)	[0000]	B	0	-10
+1508	Fadz	J	1127	Llozok	X664000-6	 	Di 		003	Wild	F0 V	{ -3 }	(500-3)	[0000]	B	0	-15
+1900	Fadz	J	1127	Llozok	C664300-A	 	Lo 		403	NaVa	F0 V	{ 0 }	(820+3)	[635B]	B	0	48
+
+1105	Fadz	J	1129	Goekhsikhs	X682000-0	 	Ba 		002	Ve	F8 V	{ 0 }	(A00-5)	[]	B	0	0
+1201	Fadz	J	1129	Goekhsikhs	X682000-0	 	Ba 		002	Ve	F8 V	{ -3 }	(A00+1)	[0000]	B	0	10
+1157	Fadz	J	1129	Goekhsikhs	X682000-0	 	Ba 		002	Wild	F8 V	{ -3 }	(A00-1)	[0000]	B	0	-10
+1508	Fadz	J	1129	Goekhsikhs	X682000-0	 	Ba 		002	Wild	F8 V	{ -3 }	(A00-1)	[0000]	B	0	-10
+1900	Fadz	J	1129	Goekhsikhs	D682214-1	 	Lo 		602	NaVa	F8 V	{ -3 }	(A10-2)	[4132]	B	0	-20
+
+1105	Fadz	N	1132	Khiaeue	C110876-6	 	Na Pi Ph 		923	Ve	M8 V	{ 0 }	(777-4)	[]	BDe	0	0
+1201	Fadz	N	1132	Khiaeue	X110000-6	 	Di Na Pi 		023	Ve	M8 V	{ -3 }	(700+1)	[0000]	BD	0	7
+1157	Fadz	N	1132	Khiaeue	X110000-6	 	Di Na Pi 		023	Wild	M8 V	{ -3 }	(700+1)	[0000]	BD	0	7
+1508	Fadz	N	1132	Khiaeue	X110000-6	 	Di 		023	Wild	M8 V	{ -3 }	(700+1)	[0000]	B	0	7
+1900	Fadz	N	1132	Khiaeue	E110678-4	 	Na Ni 		123	NaVa	M8 V	{ -3 }	(750+1)	[7355]	B	0	35
+
+1105	Fadz	N	1133	Llotourzong	C442352-7	 	He Lo Po 		402	Ve	F1 V	{ 0 }	(620+3)	[]	B	0	0
+1201	Fadz	N	1133	Llotourzong	D442332-3	 	He Lo Po 		302	Ve	F1 V	{ -3 }	(620+1)	[5181]	B	0	12
+1157	Fadz	N	1133	Llotourzong	D442000-3	 	Di He Po 		002	Wild	F1 V	{ -3 }	(600+1)	[0000]	B	0	6
+1508	Fadz	N	1133	Llotourzong	D442000-3	 	Di He Po 		002	Wild	F1 V	{ -3 }	(600+1)	[0000]	B	0	6
+1900	Fadz	N	1133	Llotourzong	E442698-3	 	He Ni Po 		602	NaVa	F1 V	{ -3 }	(650-2)	[2353]	B	0	-60
+
+1105	Fadz	N	1139	Ghivokhaka	D555222-4	 	Lo 		703	Ve	M4 V	{ 0 }	(510+3)	[]	B	0	0
+1201	Fadz	N	1139	Ghivokhaka	X555200-3	 	Lo 		303	Ve	M4 V	{ -3 }	(510-1)	[3117]	B	0	-5
+1157	Fadz	N	1139	Ghivokhaka	X555000-3	 	Di 		003	Wild	M4 V	{ -3 }	(500+1)	[0000]	B	0	5
+1508	Fadz	N	1139	Ghivokhaka	X555000-3	 	Di 		003	Wild	M4 V	{ -3 }	(500+2)	[0000]	B	0	10
+1900	Fadz	N	1139	Ghivokhaka	A555332-A	 	Lo 		703	NaVa	M4 V	{ 1 }	(821+1)	[445D]	B	0	16
+
+1105	Fadz	B	1202	Aengaeghuekhstsoel	A432110-8	 	Lo Po 		214	V0	M8 V	{ 0 }	(B00-4)	[]	B	0	0
+1157	Fadz	B	1202	Aengaeghuekhstsoel	E432000-8	 	Di Po 		014	Wild	M8 V	{ -3 }	(B00-1)	[0000]	B	0	-11
+1508	Fadz	B	1202	Aengaeghuekhstsoel	E432000-8	 	Di Po 		014	Wild	M8 V	{ -3 }	(B00+3)	[0000]	B	0	33
+1201	Fadz	B	1202	Aengaeghuekhstsoel	X432000-8	 	Di Po 		014	Wild	M8 V	{ -3 }	(B00-4)	[0000]	B	0	-44
+1900	Fadz	B	1202	Aengaeghuekhstsoel	B432220-6	 	Lo Po 		114	NaVa	M8 V	{ -1 }	(610+2)	[2163]	B	0	12
+
+1105	Fadz	B	1203	Aengaeghuekhstsoel	A432110-8	 	Lo Po 		214	V0	M8 V	{ 0 }	(B00+1)	[]	B	0	0
+1157	Fadz	B	1203	Aengaeghuekhstsoel	E432000-8	 	Di Po 		014	Wild	M8 V	{ -3 }	(B00+1)	[0000]	B	0	11
+1508	Fadz	B	1203	Aengaeghuekhstsoel	E432000-8	 	Di Po 		014	Wild	M8 V	{ -3 }	(B00+1)	[0000]	B	0	11
+1201	Fadz	B	1203	Aengaeghuekhstsoel	X432000-8	 	Di Po 		014	Wild	M8 V	{ -3 }	(B00-4)	[0000]	B	0	-44
+1900	Fadz	B	1203	Aengaeghuekhstsoel	E432210-2	 	Lo Po 		414	NaVa	M8 V	{ -3 }	(610-3)	[1136]	B	0	-18
+
+1105	Fadz	B	1204	Aengaeghuekhstsoel	A432110-8	 	Lo Po 		214	V0	M8 V	{ 0 }	(H00-2)	[]	B	0	0
+1157	Fadz	B	1204	Aengaeghuekhstsoel	X432000-8	 	Di Po 		014	Wild	M8 V	{ -3 }	(H00-2)	[0000]	B	0	-34
+1508	Fadz	B	1204	Aengaeghuekhstsoel	X432000-8	 	Di Po 		014	Wild	M8 V	{ -3 }	(H00-5)	[0000]	B	0	-85
+1201	Fadz	B	1204	Aengaeghuekhstsoel	X432000-8	 	Di Po 		014	Wild	M8 V	{ -3 }	(H00+2)	[0000]	B	0	34
+1900	Fadz	B	1204	Aengaeghuekhstsoel	C432479-4	 	Ni Px Po 		814	NaVa	M8 V	{ -2 }	(C34-4)	[6236]	B	0	-576
+
+1105	Fadz	B	1205	Kfaerron	B74A6AA-8	 	Ni Wa 		804	V0	F8 V	{ 0 }	(A54+4)	[]	B	0	0
+1157	Fadz	B	1205	Kfaerron	E74A000-8	 	Di Wa 		004	Wild	F8 V	{ -3 }	(A00+1)	[0000]	B	0	10
+1508	Fadz	B	1205	Kfaerron	E74A000-8	 	Di Wa 		004	Wild	F8 V	{ -3 }	(A00+1)	[0000]	B	0	10
+1201	Fadz	B	1205	Kfaerron	X74A000-8	 	Di Wa 		004	Wild	F8 V	{ -3 }	(A00-3)	[0000]	B	0	-30
+1900	Fadz	B	1205	Kfaerron	A74A310-B	 	Lo Wa 		404	NaVa	F8 V	{ 1 }	(A21+1)	[2477]	B	0	20
+
+1105	Fadz	F	1216	Avathuedztus	A535879-A	 	Ph 		403	Ve	F9 V	{ 0 }	(D77-1)	[]	Be	0	0
+1201	Fadz	F	1216	Avathuedztus	X535000-A	 	Di 		003	Ve	F9 V	{ -1 }	(D00-1)	[0000]	B	0	-13
+1157	Fadz	F	1216	Avathuedztus	X535000-A	 	Di 		003	Wild	F9 V	{ -1 }	(D00+1)	[0000]	B	0	13
+1508	Fadz	F	1216	Avathuedztus	X535000-A	 	Di 		003	Wild	F9 V	{ -1 }	(D00-3)	[0000]	B	0	-39
+1900	Fadz	F	1216	Avathuedztus	B535788-8	 			303	NaVa	F9 V	{ 0 }	(D69+3)	[B71B]	B	0	2106
+
+1105	Fadz	F	1217	Avathuedztus	A535879-A	 	Ph 		403	Ve	F9 V	{ 0 }	(A73-1)	[]	Be	0	0
+1201	Fadz	F	1217	Avathuedztus	X535000-A	 	Di 		003	Ve	F9 V	{ -1 }	(A00+1)	[0000]	B	0	10
+1157	Fadz	F	1217	Avathuedztus	X535000-A	 	Di 		003	Wild	F9 V	{ -1 }	(A00-3)	[0000]	B	0	-30
+1508	Fadz	F	1217	Avathuedztus	X535000-A	 	Di 		003	Wild	F9 V	{ -1 }	(A00+3)	[0000]	B	0	30
+1900	Fadz	F	1217	Avathuedztus	C53587A-6	 	Ph 		503	NaVa	F9 V	{ -1 }	(775-2)	[5784]	Be	0	-490
+
+1105	Fadz	F	1218	Avathuedztus	A535879-A	 	Ph 		403	Ve	F9 V	{ 0 }	(974+2)	[]	Be	0	0
+1201	Fadz	F	1218	Avathuedztus	X535000-A	 	Di 		003	Ve	F9 V	{ -1 }	(900-2)	[0000]	B	0	-18
+1157	Fadz	F	1218	Avathuedztus	X535000-A	 	Di 		003	Wild	F9 V	{ -1 }	(900+1)	[0000]	B	0	9
+1508	Fadz	F	1218	Avathuedztus	X535000-A	 	Di 		003	Wild	F9 V	{ -1 }	(900+1)	[0000]	B	0	9
+1900	Fadz	F	1218	Avathuedztus	A535ACC-E	 	Hi 		603	NaVa	F9 V	{ 3 }	(998-2)	[9D6D]	BE	0	-1296
+
+1105	Fadz	F	1219	Ksurrghoukuragu	C569766-7	 	Ri 		422	Ve	M7 V	{ 0 }	(B65+5)	[]	BC	0	0
+1201	Fadz	F	1219	Ksurrghoukuragu	E569751-5	 	Ri 	B	522	Ve	M7 V	{ -1 }	(B67+3)	[B65A]	BC	0	1386
+1157	Fadz	F	1219	Ksurrghoukuragu	E5697BE-3	 	Ri 		222	Wild	M7 V	{ -1 }	(B63-1)	[A655]	BC	0	-198
+1508	Fadz	F	1219	Ksurrghoukuragu	E569796-4	 	Ri 		322	Wild	M7 V	{ -1 }	(B62+2)	[4647]	BC	0	264
+1900	Fadz	F	1219	Ksurrghoukuragu	D569630-5	 	Ni Ri 		522	NaVa	M7 V	{ -2 }	(B51-2)	[6474]	BC	0	-110
+
+1105	Fadz	F	1220	Ksurrghoukuragu	C569766-7	 	Ri 		422	Ve	M7 V	{ 0 }	(96B+3)	[]	BC	0	0
+1201	Fadz	F	1220	Ksurrghoukuragu	E569745-4	 	Ri 	B	522	Ve	M7 V	{ -1 }	(969+2)	[9673]	BC	0	972
+1157	Fadz	F	1220	Ksurrghoukuragu	E569778-3	 	Ri 		222	Wild	M7 V	{ -1 }	(96A+1)	[7691]	BC	0	540
+1508	Fadz	F	1220	Ksurrghoukuragu	E569796-4	 	Ri 		322	Wild	M7 V	{ -1 }	(968+2)	[6625]	BC	0	864
+1900	Fadz	F	1220	Ksurrghoukuragu	E569736-5	 	Ri 		122	NaVa	M7 V	{ -1 }	(964+4)	[8614]	BC	0	864
+
+1105	Fadz	J	1222	Loesaego	C541676-5	 	He Ni Po 		111	Ve	F5 V	{ 0 }	(852+1)	[]	B	0	0
+1201	Fadz	J	1222	Loesaego	E54167B-5	 	He Ni Po 	B	211	Ve	F5 V	{ -3 }	(850+1)	[3383]	B	0	40
+1157	Fadz	J	1222	Loesaego	E541000-5	 	Di He Po 		011	Wild	F5 V	{ -3 }	(800+2)	[0000]	B	0	16
+1508	Fadz	J	1222	Loesaego	E541000-5	 	Di He Po 		011	Wild	F5 V	{ -3 }	(800+5)	[0000]	B	0	40
+1900	Fadz	J	1222	Loesaego	D54177B-3	 	He Pi Po 		111	NaVa	F5 V	{ -2 }	(866+4)	[9563]	BD	0	1152
+
+1105	Fadz	J	1223	Loesaego	C541676-5	 	He Ni Po 		111	Ve	F5 V	{ 0 }	(753+1)	[]	B	0	0
+1201	Fadz	J	1223	Loesaego	E541655-5	 	He Ni Po 		211	Ve	F5 V	{ -3 }	(751+2)	[3329]	B	0	70
+1157	Fadz	J	1223	Loesaego	E541000-5	 	Di He Po 		011	Wild	F5 V	{ -3 }	(700-2)	[0000]	B	0	-14
+1508	Fadz	J	1223	Loesaego	E541000-5	 	Di He Po 		011	Wild	F5 V	{ -3 }	(700+3)	[0000]	B	0	21
+1900	Fadz	J	1223	Loesaego	C541579-6	 	He Ni Po 		111	NaVa	F5 V	{ -2 }	(743+1)	[8369]	B	0	84
+
+1105	Fadz	J	1224	Agzorruekhkfoerri	C332979-9	 	Hi Na Po 		528	Ve	G8 V M2 D	{ 0 }	(G87-2)	[]	BE	0	0
+1201	Fadz	J	1224	Agzorruekhkfoerri	X332000-9	 	Di Na Po 		028	Ve	G8 V M2 D	{ -2 }	(G00-1)	[0000]	B	0	-16
+1157	Fadz	J	1224	Agzorruekhkfoerri	X332000-9	 	Di Na Po 		028	Wild	G8 V M2 D	{ -2 }	(G00-1)	[0000]	B	0	-16
+1508	Fadz	J	1224	Agzorruekhkfoerri	X332000-9	 	Di Po 		028	Wild	G8 V M2 D	{ -2 }	(G00+1)	[0000]	B	0	16
+1900	Fadz	J	1224	Agzorruekhkfoerri	C33275A-8	 	Na Po 		428	NaVa	G8 V M2 D	{ -1 }	(G67+2)	[5668]	B	0	1344
+
+1105	Fadz	J	1226	Agzorruekhkfoerri	C332979-9	 	Hi Na Po 		528	Ve	G8 V M2 D	{ 0 }	(C8C-1)	[]	BE	0	0
+1201	Fadz	J	1226	Agzorruekhkfoerri	X332000-9	 	Di Na Po 		028	Ve	G8 V M2 D	{ -2 }	(C00+4)	[0000]	B	0	48
+1157	Fadz	J	1226	Agzorruekhkfoerri	X332000-9	 	Di Na Po 		028	Wild	G8 V M2 D	{ -2 }	(C00+3)	[0000]	B	0	36
+1508	Fadz	J	1226	Agzorruekhkfoerri	X332000-9	 	Di Po 		028	Wild	G8 V M2 D	{ -2 }	(C00+3)	[0000]	B	0	36
+1900	Fadz	J	1226	Agzorruekhkfoerri	C332558-9	 	Ni Px Po 		628	NaVa	G8 V M2 D	{ -1 }	(C40-2)	[5469]	B	0	-96
+
+1105	Fadz	J	1227	Gueroengksuekh	B420688-8	 	De He Na Po Ni 		821	Ve	M6 V M1 D	{ 0 }	(A53-3)	[]	B	0	0
+1201	Fadz	J	1227	Gueroengksuekh	X420000-8	 	De He Di Na Po 		021	Ve	M6 V M1 D	{ -3 }	(A00-1)	[0000]	B	0	-10
+1157	Fadz	J	1227	Gueroengksuekh	X420000-8	 	De He Di Na Po 		021	Wild	M6 V M1 D	{ -3 }	(A00-3)	[0000]	B	0	-30
+1508	Fadz	J	1227	Gueroengksuekh	X420000-8	 	De He Di Po 		021	Wild	M6 V M1 D	{ -3 }	(A00+1)	[0000]	B	0	10
+1900	Fadz	J	1227	Gueroengksuekh	X420341-1	 	De He Lo Po 		821	NaVa	M6 V M1 D	{ -3 }	(720+1)	[5121]	B	0	14
+
+1105	Fadz	N	1234	Roetsuetsdharrghgaerr	C798775-2	 	Ag Pi 		301	Ve	K5 V	{ 0 }	(96A+2)	[]	BCD	0	0
+1201	Fadz	N	1234	Roetsuetsdharrghgaerr	E798789-0	 	Ag Pi 	B	401	Ve	K5 V	{ -1 }	(965+1)	[5661]	BCD	0	270
+1157	Fadz	N	1234	Roetsuetsdharrghgaerr	E79877B-0	 	Ag Pi 		201	Wild	K5 V	{ -1 }	(967+4)	[9681]	BCD	0	1512
+1508	Fadz	N	1234	Roetsuetsdharrghgaerr	E7987A8-0	 	Ag Pi 		301	Wild	K5 V	{ -1 }	(965+2)	[6691]	BCD	0	540
+1900	Fadz	N	1234	Roetsuetsdharrghgaerr	C798899-2	 	Pa Pi Ph 		401	NaVa	K5 V	{ -1 }	(973-4)	[8742]	BcDe	0	-756
+
+1105	Fadz	B	1301	Sangourrghukdzorr	B854554-7	 	Ag Ni 		607	Ve	G4 V M6 D	{ 0 }	(441-1)	[]	BC	0	0
+1157	Fadz	B	1301	Sangourrghukdzorr	B854589-4	 	Ag Ni 		307	Wild	G4 V M6 D	{ 0 }	(445-3)	[6557]	BC	0	-240
+1508	Fadz	B	1301	Sangourrghukdzorr	B854525-5	 	Ag Ni 		307	Wild	G4 V M6 D	{ 0 }	(442-1)	[3585]	BC	0	-32
+1201	Fadz	B	1301	Sangourrghukdzorr	X85457A-1	 	Ag Ni 	B	207	Wild	G4 V M6 D	{ -2 }	(441+2)	[5314]	BC	0	32
+1900	Fadz	B	1301	Sangourrghukdzorr	A854324-8	 	Lo 	B	807	NaVa	G4 V M6 D	{ -1 }	(B20-3)	[1228]	B	0	-66
+
+1105	Fadz	B	1303	Sangourrghukdzorr	B854554-7	 	Ag Ni 		607	V0	G4 V M6 D	{ 0 }	(746+2)	[]	BC	0	0
+1157	Fadz	B	1303	Sangourrghukdzorr	B854510-4	 	Ag Ni 		307	Wild	G4 V M6 D	{ 0 }	(741+5)	[9596]	BC	0	140
+1508	Fadz	B	1303	Sangourrghukdzorr	B854520-5	 	Ag Ni 		207	Wild	G4 V M6 D	{ 0 }	(741-2)	[5529]	BC	0	-56
+1201	Fadz	B	1303	Sangourrghukdzorr	D854554-4	 	Ag Ni 		207	Wild	G4 V M6 D	{ -2 }	(744+1)	[4381]	BC	0	112
+1900	Fadz	B	1303	Sangourrghukdzorr	B854577-6	 	Ag Ni 		507	NaVa	G4 V M6 D	{ 0 }	(746+1)	[7597]	BC	0	168
+
+1105	Fadz	B	1304	Sangourrghukdzorr	B854554-7	 	Ag Ni 		607	V0	G4 V M6 D	{ 0 }	(744+1)	[]	BC	0	0
+1157	Fadz	B	1304	Sangourrghukdzorr	B854579-4	 	Ag Ni 		307	Wild	G4 V M6 D	{ 0 }	(744-3)	[8554]	BC	0	-336
+1508	Fadz	B	1304	Sangourrghukdzorr	B854500-6	 	Ag Ni 		407	Wild	G4 V M6 D	{ 0 }	(742+1)	[1566]	BC	0	56
+1201	Fadz	B	1304	Sangourrghukdzorr	D854548-5	 	Ag Ni 		307	Wild	G4 V M6 D	{ -2 }	(741-4)	[8347]	BC	0	-112
+1900	Fadz	B	1304	Sangourrghukdzorr	E854201-3	 	Lo 		307	NaVa	G4 V M6 D	{ -3 }	(710-5)	[6115]	B	0	-35
+
+1105	Fadz	F	1311	Thakhaen	B697002-9	 	Di 		712	Ve	F6 V M8 D	{ 0 }	(700+1)	[]	B	0	0
+1157	Fadz	F	1311	Thakhaen	D697000-9	 	Di 		012	Wild	F6 V M8 D	{ -2 }	(700-1)	[0000]	B	0	-7
+1508	Fadz	F	1311	Thakhaen	D697000-9	 	Di 		012	Wild	F6 V M8 D	{ -2 }	(700+1)	[0000]	B	0	7
+1201	Fadz	F	1311	Thakhaen	X697000-9	 	Di 		012	Wild	F6 V M8 D	{ -2 }	(700+1)	[0000]	B	0	7
+1900	Fadz	F	1311	Thakhaen	A697876-F	 	Pa Pi Ph 		312	NaVa	F6 V M8 D	{ 2 }	(776+2)	[CA4H]	BcDe	0	588
+
+1105	Fadz	F	1314	Knadhekhdzourrghael	D656278-3	 	Ga Lo 		702	Ve	F6 V M7 D	{ 0 }	(710+1)	[]	B	0	0
+1157	Fadz	F	1314	Knadhekhdzourrghael	D656000-3	 	Di Ga 		002	Wild	F6 V M7 D	{ -3 }	(700-5)	[0000]	B	0	-35
+1508	Fadz	F	1314	Knadhekhdzourrghael	D656000-3	 	Di Ga 		002	Wild	F6 V M7 D	{ -3 }	(700+1)	[0000]	B	0	7
+1201	Fadz	F	1314	Knadhekhdzourrghael	X656000-3	 	Di Ga 		002	Wild	F6 V M7 D	{ -3 }	(700+4)	[0000]	B	0	28
+1900	Fadz	F	1314	Knadhekhdzourrghael	A656495-9	 	Ga Ni Pa 		702	NaVa	F6 V M7 D	{ 0 }	(933-1)	[4465]	Bc	0	-81
+
+1105	Fadz	F	1316	Ghaengoe	D643101-2	 	Lo Po 		814	Ve	F0 V M6 D	{ 0 }	(A00+1)	[]	B	0	0
+1201	Fadz	F	1316	Ghaengoe	X643100-1	 	Lo Po 		414	Ve	F0 V M6 D	{ -3 }	(A00+3)	[1181]	B	0	30
+1157	Fadz	F	1316	Ghaengoe	X643000-1	 	Di Po 		014	Wild	F0 V M6 D	{ -3 }	(A00-1)	[0000]	B	0	-10
+1508	Fadz	F	1316	Ghaengoe	X643000-1	 	Di Po 		014	Wild	F0 V M6 D	{ -3 }	(A00+1)	[0000]	B	0	10
+1900	Fadz	F	1316	Ghaengoe	A643689-6	 	Ni Po 		114	NaVa	F0 V M6 D	{ -1 }	(A55+3)	[6556]	B	0	750
+
+1105	Fadz	J	1324	Ergur	B510510-8	 	Ni 		516	Ve	M3 V M3 V	{ 0 }	(C46-3)	[]	B	0	0
+1201	Fadz	J	1324	Ergur	X510000-8	 	Di 		016	Ve	M3 V M3 V	{ -3 }	(C00+1)	[0000]	B	0	12
+1157	Fadz	J	1324	Ergur	X510000-8	 	Di 		016	Wild	M3 V M3 V	{ -3 }	(C00+1)	[0000]	B	0	12
+1508	Fadz	J	1324	Ergur	X510000-8	 	Di 		016	Wild	M3 V M3 V	{ -3 }	(C00-1)	[0000]	B	0	-12
+1900	Fadz	J	1324	Ergur	B51057A-8	 	Ni 		216	NaVa	M3 V M3 V	{ -1 }	(C42-1)	[8458]	B	0	-96
+
+1105	Fadz	J	1325	Ergur	B510510-8	 	Ni 		516	Ve	M3 V M3 V	{ 0 }	(G44+2)	[]	B	0	0
+1201	Fadz	J	1325	Ergur	X510000-8	 	Di 		016	Ve	M3 V M3 V	{ -3 }	(G00+2)	[0000]	B	0	32
+1157	Fadz	J	1325	Ergur	X510000-8	 	Di 		016	Wild	M3 V M3 V	{ -3 }	(G00+1)	[0000]	B	0	16
+1508	Fadz	J	1325	Ergur	X510000-8	 	Di 		016	Wild	M3 V M3 V	{ -3 }	(G00+2)	[0000]	B	0	32
+1900	Fadz	J	1325	Ergur	E510653-4	 	Na Ni 		716	NaVa	M3 V M3 V	{ -3 }	(950+3)	[5345]	B	0	135
+
+1105	Fadz	J	1327	Azikhsodho	C224212-7	 	Lo 		603	Ve	M8 V	{ 0 }	(610+2)	[]	B	0	0
+1201	Fadz	J	1327	Azikhsodho	X224000-7	 	Di 		003	Ve	M8 V	{ -3 }	(600-4)	[0000]	B	0	-24
+1157	Fadz	J	1327	Azikhsodho	X224000-7	 	Di 		003	Wild	M8 V	{ -3 }	(600-5)	[0000]	B	0	-30
+1508	Fadz	J	1327	Azikhsodho	X224000-7	 	Di 		003	Wild	M8 V	{ -3 }	(600-1)	[0000]	B	0	-6
+1900	Fadz	J	1327	Azikhsodho	C224620-6	 	Ni 		703	NaVa	M8 V	{ -2 }	(653-2)	[74A7]	B	0	-180
+
+1105	Fadz	J	1329	Azikhsodho	C224212-7	 	Lo 		603	Ve	M8 V	{ 0 }	(A10-1)	[]	B	0	0
+1201	Fadz	J	1329	Azikhsodho	X224000-7	 	Di 		003	Ve	M8 V	{ -3 }	(A00-3)	[0000]	B	0	-30
+1157	Fadz	J	1329	Azikhsodho	X224000-7	 	Di 		003	Wild	M8 V	{ -3 }	(A00+4)	[0000]	B	0	40
+1508	Fadz	J	1329	Azikhsodho	X224000-7	 	Di 		003	Wild	M8 V	{ -3 }	(A00-1)	[0000]	B	0	-10
+1900	Fadz	J	1329	Azikhsodho	X224979-2	 	Hi In 		103	NaVa	M8 V	{ 0 }	(A89-2)	[B915]	BE	0	-1440
+
+1105	Fadz	N	1333	Anuekhakhsror	C772879-5	 	He Ph Pi 		500	Ve	F0 V	{ 0 }	(67C-1)	[]	BDe	0	0
+1201	Fadz	N	1333	Anuekhakhsror	E772144-4	 	He Lo 		400	Ve	F0 V	{ -3 }	(600-1)	[1184]	B	0	-6
+1157	Fadz	N	1333	Anuekhakhsror	E772000-4	 	Di He 		000	Wild	F0 V	{ -3 }	(600+1)	[0000]	B	0	6
+1508	Fadz	N	1333	Anuekhakhsror	E772000-4	 	Di He 		000	Wild	F0 V	{ -3 }	(600-2)	[0000]	B	0	-12
+1900	Fadz	N	1333	Anuekhakhsror	C772310-6	 	He Lo 		600	NaVa	F0 V	{ -2 }	(620+1)	[3136]	B	0	12
+
+1105	Fadz	N	1340	Gneknognorae	D777226-2	 	Lo 		210	Ve	F2 V	{ 0 }	(810-3)	[]	B	0	0
+1201	Fadz	N	1340	Gneknognorae	X777210-0	 	Lo 	B	110	Ve	F2 V	{ -3 }	(810+1)	[4142]	B	0	8
+1157	Fadz	N	1340	Gneknognorae	X777000-0	 	Ba 		010	Wild	F2 V	{ -3 }	(800-1)	[0000]	B	0	-8
+1508	Fadz	N	1340	Gneknognorae	X777000-0	 	Ba 		010	Wild	F2 V	{ -3 }	(800-1)	[0000]	B	0	-8
+1900	Fadz	N	1340	Gneknognorae	E777559-3	 	Ag Ni 		710	NaVa	F2 V	{ -2 }	(842-1)	[7355]	BC	0	-64
+
+1105	Fadz	B	1403	Toskfurolkaekh	B000427-B	 	As Va Ni 		610	V0	M2 II	{ 0 }	(A35+1)	[]	B	0	0
+1157	Fadz	B	1403	Toskfurolkaekh	E000000-B	 	As Va Di 		010	Wild	M2 II	{ -1 }	(A00+1)	[0000]	B	0	10
+1508	Fadz	B	1403	Toskfurolkaekh	E000000-B	 	As Va Di 		010	Wild	M2 II	{ -1 }	(A00+4)	[0000]	B	0	40
+1201	Fadz	B	1403	Toskfurolkaekh	X000000-B	 	As Va Di 		010	Wild	M2 II	{ -1 }	(A00+1)	[0000]	B	0	10
+1900	Fadz	B	1403	Toskfurolkaekh	B000995-C	 	As Va Hi Na In 		310	NaVa	M2 II	{ 4 }	(A8A+1)	[7D1C]	BEf	0	800
+
+1105	Fadz	F	1416	Kfaeraekhokhag	D443545-7	 	Ni Po 		412	Ve	F0 V M4 D	{ 0 }	(746-1)	[]	B	0	0
+1201	Fadz	F	1416	Kfaeraekhokhag	X443586-3	 	Ni Po 		312	Ve	F0 V M4 D	{ -3 }	(741+4)	[5212]	B	0	112
+1157	Fadz	F	1416	Kfaeraekhokhag	X443000-3	 	Di Po 		012	Wild	F0 V M4 D	{ -3 }	(700-2)	[0000]	B	0	-14
+1508	Fadz	F	1416	Kfaeraekhokhag	X443000-3	 	Di Po 		012	Wild	F0 V M4 D	{ -3 }	(700+3)	[0000]	B	0	21
+1900	Fadz	F	1416	Kfaeraekhokhag	D443878-6	 	Ph Pi Po 		612	NaVa	F0 V M4 D	{ -2 }	(775-2)	[8665]	BDe	0	-490
+
+1105	Fadz	F	1418	Vezghoutstueg	B100873-8	 	Na Pi Ph Va 		808	Ve	F3 V K6 D	{ 0 }	(K7B+3)	[]	BDe	0	0
+1201	Fadz	F	1418	Vezghoutstueg	X100000-8	 	Di Na Pi Va 		008	Ve	F3 V K6 D	{ -3 }	(K00+5)	[0000]	BD	0	95
+1157	Fadz	F	1418	Vezghoutstueg	X100000-8	 	Di Na Pi Va 		008	Wild	F3 V K6 D	{ -3 }	(K00+1)	[0000]	BD	0	19
+1508	Fadz	F	1418	Vezghoutstueg	X100000-8	 	Di Va 		008	Wild	F3 V K6 D	{ -3 }	(K00+1)	[0000]	B	0	19
+1900	Fadz	F	1418	Vezghoutstueg	B100597-9	 	Ni Va 		708	NaVa	F3 V K6 D	{ 0 }	(K46+3)	[553A]	B	0	1368
+
+1105	Fadz	J	1424	Khueugaenguekzarrg	C330979-A	 	De Hi Na Po 		210	Ve	F9 V	{ 0 }	(586-1)	[]	BE	0	0
+1201	Fadz	J	1424	Khueugaenguekzarrg	X330000-A	 	De Di Na Po 		010	Ve	F9 V	{ -1 }	(500-4)	[0000]	B	0	-20
+1157	Fadz	J	1424	Khueugaenguekzarrg	X330000-A	 	De Di Na Po 		010	Wild	F9 V	{ -1 }	(500+1)	[0000]	B	0	5
+1508	Fadz	J	1424	Khueugaenguekzarrg	X330000-A	 	De Di Po 		010	Wild	F9 V	{ -1 }	(500-2)	[0000]	B	0	-10
+1900	Fadz	J	1424	Khueugaenguekzarrg	A330100-E	 	De Lo Po 		410	NaVa	F9 V	{ 1 }	(501-3)	[126D]	B	0	-15
+
+1105	Fadz	J	1427	Ksuangkharrgh	C150872-4	 	De Ph Po 		535	Ve	F0 V M8 D	{ 0 }	(778-3)	[]	Be	0	0
+1201	Fadz	J	1427	Ksuangkharrgh	E15068B-3	 	De Ni Po 		635	Ve	F0 V M8 D	{ -3 }	(750-3)	[8361]	B	0	-105
+1157	Fadz	J	1427	Ksuangkharrgh	E15067A-0	 	De Ni Po 		335	Wild	F0 V M8 D	{ -3 }	(752+1)	[9342]	B	0	70
+1508	Fadz	J	1427	Ksuangkharrgh	E150643-1	 	De Ni Po 		235	Wild	F0 V M8 D	{ -3 }	(751+3)	[2351]	B	0	105
+1900	Fadz	J	1427	Ksuangkharrgh	A150434-9	 	De Ni Po 		735	NaVa	F0 V M8 D	{ 0 }	(F36-3)	[4459]	B	0	-810
+
+1105	Fadz	J	1428	Ksuangkharrgh	C150872-4	 	De Ph Po 		535	Ve	F0 V M8 D	{ 0 }	(774-2)	[]	Be	0	0
+1201	Fadz	J	1428	Ksuangkharrgh	E150200-3	 	De Lo Po 		635	Ve	F0 V M8 D	{ -3 }	(710+1)	[1163]	B	0	7
+1157	Fadz	J	1428	Ksuangkharrgh	E150000-3	 	De Di Po 		035	Wild	F0 V M8 D	{ -3 }	(700-2)	[0000]	B	0	-14
+1508	Fadz	J	1428	Ksuangkharrgh	E150000-3	 	De Di Po 		035	Wild	F0 V M8 D	{ -3 }	(700+5)	[0000]	B	0	35
+1900	Fadz	J	1428	Ksuangkharrgh	A1509BC-A	 	De Hi Po 		435	NaVa	F0 V M8 D	{ 3 }	(F8E+5)	[7C8C]	BE	0	8400
+
+1105	Fadz	N	1432	Ksuangkharrgh	C150872-4	 	De Ph Po 		535	Ve	F0 V M8 D	{ 0 }	(97A-1)	[]	Be	0	0
+1201	Fadz	N	1432	Ksuangkharrgh	X150000-4	 	De Di Po 		035	Ve	F0 V M8 D	{ -3 }	(900+1)	[0000]	B	0	9
+1157	Fadz	N	1432	Ksuangkharrgh	X150000-4	 	De Di Po 		035	Wild	F0 V M8 D	{ -3 }	(900+1)	[0000]	B	0	9
+1508	Fadz	N	1432	Ksuangkharrgh	X150000-4	 	De Di Po 		035	Wild	F0 V M8 D	{ -3 }	(900+2)	[0000]	B	0	18
+1900	Fadz	N	1432	Ksuangkharrgh	B150599-7	 	De Ni Po 		535	NaVa	F0 V M8 D	{ -1 }	(941+1)	[7433]	B	0	36
+
+1105	Fadz	N	1435	Zuzog	B310887-B	 	Na Pi Ph 		514	Ve	F2 V	{ 0 }	(G7A-3)	[]	BDe	0	0
+1201	Fadz	N	1435	Zuzog	X310000-B	 	Di Na Pi 		014	Ve	F2 V	{ -1 }	(G00+1)	[0000]	BD	0	16
+1157	Fadz	N	1435	Zuzog	X310000-B	 	Di Na Pi 		014	Wild	F2 V	{ -1 }	(G00+2)	[0000]	BD	0	32
+1508	Fadz	N	1435	Zuzog	X310000-B	 	Di 		014	Wild	F2 V	{ -1 }	(G00+1)	[0000]	B	0	16
+1900	Fadz	N	1435	Zuzog	C310646-9	 	Na Ni 		814	NaVa	F2 V	{ -1 }	(G55+1)	[352A]	B	0	400
+
+1105	Fadz	N	1440	Ronzoutslloez	D515000-2	 	Di Ic 		303	Ve	A8 V M5 V	{ 0 }	(C00-1)	[]	B	0	0
+1201	Fadz	N	1440	Ronzoutslloez	X515000-2	 	Di Ic 		003	Ve	A8 V M5 V	{ -3 }	(C00+1)	[0000]	B	0	12
+1157	Fadz	N	1440	Ronzoutslloez	X515000-2	 	Di Ic 		003	Wild	A8 V M5 V	{ -3 }	(C00+1)	[0000]	B	0	12
+1508	Fadz	N	1440	Ronzoutslloez	X515000-2	 	Di Ic 		003	Wild	A8 V M5 V	{ -3 }	(C00+1)	[0000]	B	0	12
+1900	Fadz	N	1440	Ronzoutslloez	X515275-0	 	Ic Lo 		203	NaVa	A8 V M5 V	{ -3 }	(C10-2)	[7133]	B	0	-24
+
+1105	Fadz	B	1504	Thaeuoenorrnakaedh	A476100-D	 	Lo 		405	V0	K3 V	{ 0 }	(900+4)	[]	B	0	0
+1157	Fadz	B	1504	Thaeuoenorrnakaedh	X476000-D	 	Di 		005	Wild	K3 V	{ -1 }	(900+1)	[0000]	B	0	9
+1508	Fadz	B	1504	Thaeuoenorrnakaedh	X476000-D	 	Di 		005	Wild	K3 V	{ -1 }	(900+1)	[0000]	B	0	9
+1201	Fadz	B	1504	Thaeuoenorrnakaedh	X476000-D	 	Di 		005	Wild	K3 V	{ -1 }	(900+1)	[0000]	B	0	9
+1900	Fadz	B	1504	Thaeuoenorrnakaedh	C476876-7	 	Pa Pi Ph 		205	NaVa	K3 V	{ -1 }	(478+1)	[9768]	BcDe	0	224
+
+1105	Fadz	B	1506	Alers	CADA345-B	 	Lo Oc 		700	Ve	M8 V M3 D	{ 0 }	(A20+1)	[]	B	0	0
+1157	Fadz	B	1506	Alers	EADA000-B	 	Di Oc 		000	Wild	M8 V M3 D	{ -1 }	(A00+1)	[0000]	B	0	10
+1508	Fadz	B	1506	Alers	EADA000-B	 	Di Oc 		000	Wild	M8 V M3 D	{ -1 }	(A00+2)	[0000]	B	0	20
+1201	Fadz	B	1506	Alers	XADA000-B	 	Di Oc 		000	Wild	M8 V M3 D	{ -1 }	(A00-2)	[0000]	B	0	-20
+1900	Fadz	B	1506	Alers	AADA101-G	 	Lo Oc 		800	NaVa	M8 V M3 D	{ 2 }	(A02-1)	[335F]	B	0	-20
+
+1105	Fadz	B	1509	Alers	CADA345-B	 	Lo Oc 		700	Ve	M8 V M3 D	{ 0 }	(320+1)	[]	B	0	0
+1157	Fadz	B	1509	Alers	XADA000-B	 	Di Oc 		000	Wild	M8 V M3 D	{ -1 }	(300+3)	[0000]	B	0	9
+1508	Fadz	B	1509	Alers	XADA000-B	 	Di Oc 		000	Wild	M8 V M3 D	{ -1 }	(300+2)	[0000]	B	0	6
+1201	Fadz	B	1509	Alers	XADA000-B	 	Di Oc 		000	Wild	M8 V M3 D	{ -1 }	(300+1)	[0000]	B	0	3
+1900	Fadz	B	1509	Alers	EADA576-9	 	Ni Oc 		300	NaVa	M8 V M3 D	{ -2 }	(341+1)	[431D]	B	0	12
+
+1105	Fadz	F	1512	Fazoklael	B200642-7	 	Na Ni Va 		102	Ve	M6 III	{ 0 }	(554+1)	[]	B	0	0
+1157	Fadz	F	1512	Fazoklael	X200000-7	 	Di Na Va 		002	Wild	M6 III	{ -3 }	(500-1)	[0000]	B	0	-5
+1508	Fadz	F	1512	Fazoklael	X200000-7	 	Di Va 		002	Wild	M6 III	{ -3 }	(500+1)	[0000]	B	0	5
+1201	Fadz	F	1512	Fazoklael	X200000-7	 	Di Va 		002	Wild	M6 III	{ -3 }	(500+5)	[0000]	B	0	25
+1900	Fadz	F	1512	Fazoklael	D200545-4	 	Ni Va 		302	NaVa	M6 III	{ -3 }	(540+1)	[4261]	B	0	20
+
+1105	Fadz	F	1518	Zige	B556610-8	 	Ag Ni 		314	Ve	F7 V	{ 0 }	(C54+1)	[]	BC	0	0
+1201	Fadz	F	1518	Zige	D556642-7	 	Ag Ni 		414	Ve	F7 V	{ -2 }	(751+2)	[1457]	BC	0	70
+1157	Fadz	F	1518	Zige	D556000-7	 	Di 		014	Wild	F7 V	{ -3 }	(700+1)	[0000]	B	0	7
+1508	Fadz	F	1518	Zige	D556000-7	 	Di 		014	Wild	F7 V	{ -3 }	(700+2)	[0000]	B	0	14
+1900	Fadz	F	1518	Zige	C556553-8	 	Ag Ni 		514	NaVa	F7 V	{ -1 }	(C43-1)	[745B]	BC	0	-144
+
+1105	Fadz	F	1519	Zige	B556610-8	 	Ag Ni 		314	Ve	F7 V	{ 0 }	(851-2)	[]	BC	0	0
+1201	Fadz	F	1519	Zige	D556676-7	 	Ag Ni 		414	Ve	F7 V	{ -2 }	(354-2)	[A468]	BC	0	-120
+1157	Fadz	F	1519	Zige	D556673-2	 	Ag Ni 		214	Wild	F7 V	{ -2 }	(353+3)	[6491]	BC	0	135
+1508	Fadz	F	1519	Zige	D55668A-3	 	Ag Ni 		114	Wild	F7 V	{ -2 }	(350-3)	[2433]	BC	0	-45
+1900	Fadz	F	1519	Zige	C556345-7	 	Lo 		414	NaVa	F7 V	{ -2 }	(320+1)	[1173]	B	0	6
+
+1105	Fadz	J	1522	Gvatu	B616410-8	 	Ic Ni 		100	Ve	M2 III	{ 0 }	(935-2)	[]	B	0	0
+1201	Fadz	J	1522	Gvatu	X616000-8	 	Di Ic 		000	Ve	M2 III	{ -3 }	(900+1)	[0000]	B	0	9
+1157	Fadz	J	1522	Gvatu	X616000-8	 	Di Ic 		000	Wild	M2 III	{ -3 }	(900-3)	[0000]	B	0	-27
+1508	Fadz	J	1522	Gvatu	X616000-8	 	Di Ic 		000	Wild	M2 III	{ -3 }	(900-4)	[0000]	B	0	-36
+1900	Fadz	J	1522	Gvatu	X616784-0	 	Ic Pi 		800	NaVa	M2 III	{ -2 }	(962+1)	[3541]	BD	0	108
+
+1105	Fadz	J	1528	Giksrrongoedhalla	B53A778-D	 	Wa 		400	Ve	M3 V	{ 0 }	(C66+1)	[]	B	0	0
+1201	Fadz	J	1528	Giksrrongoedhalla	X53A000-D	 	Di Wa 		000	Ve	M3 V	{ -1 }	(C00+4)	[0000]	B	0	48
+1157	Fadz	J	1528	Giksrrongoedhalla	X53A000-D	 	Di Wa 		000	Wild	M3 V	{ -1 }	(C00-1)	[0000]	B	0	-12
+1508	Fadz	J	1528	Giksrrongoedhalla	X53A000-D	 	Di Wa 		000	Wild	M3 V	{ -1 }	(C00+3)	[0000]	B	0	36
+1900	Fadz	J	1528	Giksrrongoedhalla	D53A877-9	 	Ph Wa 		800	NaVa	M3 V	{ -1 }	(C74+4)	[774C]	Be	0	1344
+
+1105	Fadz	J	1530	Giksrrongoedhalla	B53A778-D	 	Wa 		400	Ve	M3 V	{ 0 }	(56A+5)	[]	B	0	0
+1201	Fadz	J	1530	Giksrrongoedhalla	X53A000-D	 	Di Wa 		000	Ve	M3 V	{ -1 }	(500-5)	[0000]	B	0	-25
+1157	Fadz	J	1530	Giksrrongoedhalla	X53A000-D	 	Di Wa 		000	Wild	M3 V	{ -1 }	(500+1)	[0000]	B	0	5
+1508	Fadz	J	1530	Giksrrongoedhalla	X53A000-D	 	Di Wa 		000	Wild	M3 V	{ -1 }	(500+3)	[0000]	B	0	15
+1900	Fadz	J	1530	Giksrrongoedhalla	D53A000-D	 	Di Wa 		000	NaVa	M3 V	{ -1 }	(500-3)	[0000]	B	0	-15
+
+1105	Fadz	N	1532	Gaekighdhagh	D7786A9-4	 	Ag Ni 		901	Ve	F7 V M5 D	{ 0 }	(652+2)	[]	BC	0	0
+1201	Fadz	N	1532	Gaekighdhagh	X778778-1	 	Ag 	B	101	Ve	F7 V M5 D	{ -1 }	(668-1)	[3682]	BC	0	-288
+1157	Fadz	N	1532	Gaekighdhagh	X778000-1	 	Di 		001	Wild	F7 V M5 D	{ -3 }	(600+1)	[0000]	B	0	6
+1508	Fadz	N	1532	Gaekighdhagh	X778000-1	 	Di 		001	Wild	F7 V M5 D	{ -3 }	(600+4)	[0000]	B	0	24
+1900	Fadz	N	1532	Gaekighdhagh	B778453-A	 	Ni Pa 		901	NaVa	F7 V M5 D	{ 1 }	(733-3)	[456B]	Bc	0	-189
+
+1105	Fadz	N	1535	Gaekighdhagh	D7786A9-4	 	Ag Ni 		901	Ve	F7 V M5 D	{ 0 }	(855+1)	[]	BC	0	0
+1201	Fadz	N	1535	Gaekighdhagh	X77879A-2	 	Ag 	B	101	Ve	F7 V M5 D	{ -1 }	(865-2)	[5651]	BC	0	-480
+1157	Fadz	N	1535	Gaekighdhagh	X778675-0	 	Ag Ni 		501	Wild	F7 V M5 D	{ -2 }	(850+1)	[6431]	BC	0	40
+1508	Fadz	N	1535	Gaekighdhagh	X778678-0	 	Ag Ni 		401	Wild	F7 V M5 D	{ -2 }	(850-1)	[2441]	BC	0	-40
+1900	Fadz	N	1535	Gaekighdhagh	B778577-9	 	Ag Ni 		901	NaVa	F7 V M5 D	{ 1 }	(945+1)	[663A]	BC	0	180
+
+1105	Fadz	N	1536	Gaekighdhagh	D7786A9-4	 	Ag Ni 		901	Ve	F7 V M5 D	{ 0 }	(653-3)	[]	BC	0	0
+1201	Fadz	N	1536	Gaekighdhagh	X778788-1	 	Ag 	B	101	Ve	F7 V M5 D	{ -1 }	(669-4)	[7641]	BC	0	-1296
+1157	Fadz	N	1536	Gaekighdhagh	X778679-0	 	Ag Ni 		501	Wild	F7 V M5 D	{ -2 }	(651-1)	[3421]	BC	0	-30
+1508	Fadz	N	1536	Gaekighdhagh	X77867C-0	 	Ag Ni 		401	Wild	F7 V M5 D	{ -2 }	(651+1)	[6451]	BC	0	30
+1900	Fadz	N	1536	Gaekighdhagh	X778687-0	 	Ag Ni 		801	NaVa	F7 V M5 D	{ -2 }	(653-1)	[8451]	BC	0	-90
+
+1105	Fadz	N	1537	Gaekighdhagh	D7786A9-4	 	Ag Ni 		901	Ve	F7 V M5 D	{ 0 }	(B54+4)	[]	BC	0	0
+1201	Fadz	N	1537	Gaekighdhagh	X778756-4	 	Ag 	B	101	Ve	F7 V M5 D	{ -1 }	(B68-4)	[6662]	BC	0	-2112
+1157	Fadz	N	1537	Gaekighdhagh	X77869B-0	 	Ag Ni 		501	Wild	F7 V M5 D	{ -2 }	(B50-2)	[5421]	BC	0	-110
+1508	Fadz	N	1537	Gaekighdhagh	X778632-0	 	Ag Ni 		601	Wild	F7 V M5 D	{ -2 }	(B53+1)	[8481]	BC	0	165
+1900	Fadz	N	1537	Gaekighdhagh	C778346-7	 	Lo 		201	NaVa	F7 V M5 D	{ -2 }	(B20+1)	[1163]	B	0	22
+
+1105	Fadz	B	1601	Uengriks	D120889-6	 	De Na Pi Po Ph 		902	Ve	F5 V	{ 0 }	(477+1)	[]	BDe	0	0
+1157	Fadz	B	1601	Uengriks	D120856-5	 	De Na Pi Po Ph 		402	Wild	F5 V	{ -2 }	(476-3)	[7636]	BDe	0	-504
+1508	Fadz	B	1601	Uengriks	D12088A-5	 	De Na Pi Po Ph 		402	Wild	F5 V	{ -2 }	(474-3)	[C655]	BDe	0	-336
+1201	Fadz	B	1601	Uengriks	X120000-5	 	De Di Na Pi Po 		002	Wild	F5 V	{ -3 }	(400-4)	[0000]	BD	0	-16
+1900	Fadz	B	1601	Uengriks	C120210-9	 	De Lo Po 		402	NaVa	F5 V	{ -1 }	(610-5)	[1156]	B	0	-30
+
+1105	Fadz	B	1603	Uengriks	D120889-6	 	De Na Pi Po Ph 		902	V0	F5 V	{ 0 }	(578+1)	[]	BDe	0	0
+1157	Fadz	B	1603	Uengriks	D120877-4	 	De Na Pi Po Ph 		402	Wild	F5 V	{ -2 }	(576-1)	[6686]	BDe	0	-210
+1508	Fadz	B	1603	Uengriks	D120854-6	 	De Na Pi Po Ph 		302	Wild	F5 V	{ -2 }	(571+1)	[8677]	BDe	0	35
+1201	Fadz	B	1603	Uengriks	X120000-6	 	De Di Na Pi Po 		002	Wild	F5 V	{ -3 }	(500-3)	[0000]	BD	0	-15
+1900	Fadz	B	1603	Uengriks	C120452-A	 	De Ni Po 		102	NaVa	F5 V	{ 0 }	(733+1)	[245A]	B	0	63
+
+1105	Fadz	B	1605	Koekhsokhsdolek	B210501-9	 	Ni 		203	Ve	F8 V	{ 0 }	(B44+2)	[]	B	0	0
+1157	Fadz	B	1605	Koekhsokhsdolek	B210520-6	 	Ni 		103	Wild	F8 V	{ -1 }	(844+1)	[5445]	B	0	128
+1508	Fadz	B	1605	Koekhsokhsdolek	B210432-7	 	Ni 		903	Wild	F8 V	{ -1 }	(834-4)	[633C]	B	0	-384
+1201	Fadz	B	1605	Koekhsokhsdolek	X210000-7	 	Di 		003	Wild	F8 V	{ -3 }	(800+1)	[0000]	B	0	8
+1900	Fadz	B	1605	Koekhsokhsdolek	A210974-B	 	Hi Na In 		603	NaVa	F8 V	{ 4 }	(B86-2)	[7D2E]	BEf	0	-1056
+
+1105	Fadz	B	1610	Dillanen	C54AA78-9	 	Hi In Wa 		422	Ve	F7 V	{ 0 }	(D9A+5)	[]	BE	0	0
+1157	Fadz	B	1610	Dillanen	C54A853-4	 	Ph Pi Wa 		222	Wild	F7 V	{ -1 }	(974+3)	[6737]	BDe	0	756
+1508	Fadz	B	1610	Dillanen	C54A8DD-6	 	Ph Pi Wa 		122	Wild	F7 V	{ -1 }	(973+5)	[C797]	BDe	0	945
+1201	Fadz	B	1610	Dillanen	E54A8CA-6	 	Ph Pi Wa 		222	Wild	F7 V	{ -2 }	(975+2)	[6675]	BDe	0	630
+1900	Fadz	B	1610	Dillanen	E54A434-4	 	Ni Wa 		822	NaVa	F7 V	{ -3 }	(930+1)	[2177]	B	0	27
+
+1105	Fadz	F	1613	Khaezvitsllugh	C582764-6	 	Ri 		410	Ve	F9 V	{ 0 }	(664+2)	[]	BC	0	0
+1157	Fadz	F	1613	Khaezvitsllugh	C582799-4	 	Ri 		210	Wild	F9 V	{ 0 }	(668-2)	[8766]	BC	0	-576
+1508	Fadz	F	1613	Khaezvitsllugh	C5827BA-5	 	Ri 		310	Wild	F9 V	{ 0 }	(666+2)	[776A]	BC	0	432
+1201	Fadz	F	1613	Khaezvitsllugh	E58277A-5	 	Ri 	B	410	Wild	F9 V	{ -1 }	(664-1)	[5677]	BC	0	-144
+1900	Fadz	F	1613	Khaezvitsllugh	C582158-8	 	Lo 	B	110	NaVa	F9 V	{ -2 }	(700+1)	[1148]	B	0	7
+
+1105	Fadz	F	1614	Ghaeksaraen	D67A001-5	 	Di Wa 		200	Ve	F5 V	{ 0 }	(800-4)	[]	B	0	0
+1157	Fadz	F	1614	Ghaeksaraen	D67A000-5	 	Di Wa 		000	Wild	F5 V	{ -3 }	(800-1)	[0000]	B	0	-8
+1508	Fadz	F	1614	Ghaeksaraen	D67A000-5	 	Di Wa 		000	Wild	F5 V	{ -3 }	(800-4)	[0000]	B	0	-32
+1201	Fadz	F	1614	Ghaeksaraen	X67A000-5	 	Di Wa 		000	Wild	F5 V	{ -3 }	(800+1)	[0000]	B	0	8
+1900	Fadz	F	1614	Ghaeksaraen	C67A579-A	 	Ni Wa 		400	NaVa	F5 V	{ 0 }	(842-3)	[155C]	B	0	-192
+
+1105	Fadz	F	1615	Ghaeksaraen	D67A001-5	 	Di Wa 		200	Ve	F5 V	{ 0 }	(400+3)	[]	B	0	0
+1157	Fadz	F	1615	Ghaeksaraen	D67A000-5	 	Di Wa 		000	Wild	F5 V	{ -3 }	(400-3)	[0000]	B	0	-12
+1508	Fadz	F	1615	Ghaeksaraen	D67A000-5	 	Di Wa 		000	Wild	F5 V	{ -3 }	(400-3)	[0000]	B	0	-12
+1201	Fadz	F	1615	Ghaeksaraen	X67A000-5	 	Di Wa 		000	Wild	F5 V	{ -3 }	(400-3)	[0000]	B	0	-12
+1900	Fadz	F	1615	Ghaeksaraen	D67A543-8	 	Ni Wa 		200	NaVa	F5 V	{ -3 }	(440+5)	[2266]	B	0	80
+
+1105	Fadz	F	1618	Oghughafaedzzikhs	D79A459-7	 	Ni Wa 		401	Ve	F9 V	{ 0 }	(C32+1)	[]	B	0	0
+1201	Fadz	F	1618	Oghughafaedzzikhs	X79A476-3	 	Ni Wa 	B	301	Ve	F9 V	{ -3 }	(C31+5)	[2122]	B	0	180
+1157	Fadz	F	1618	Oghughafaedzzikhs	X79A000-3	 	Di Wa 		001	Wild	F9 V	{ -3 }	(C00+1)	[0000]	B	0	12
+1508	Fadz	F	1618	Oghughafaedzzikhs	X79A000-3	 	Di Wa 		001	Wild	F9 V	{ -3 }	(C00+1)	[0000]	B	0	12
+1900	Fadz	F	1618	Oghughafaedzzikhs	B79A154-B	 	Lo Wa 		301	NaVa	F9 V	{ 1 }	(D01-4)	[621D]	B	0	-52
+
+1105	Fadz	J	1625	Uevorrkfodze	A536331-9	 	Lo 		212	Ve	M6 V M1 V	{ 0 }	(A20+2)	[]	B	0	0
+1201	Fadz	J	1625	Uevorrkfodze	X536000-9	 	Di 		012	Ve	M6 V M1 V	{ -2 }	(A00-3)	[0000]	B	0	-30
+1157	Fadz	J	1625	Uevorrkfodze	X536000-9	 	Di 		012	Wild	M6 V M1 V	{ -2 }	(A00-4)	[0000]	B	0	-40
+1508	Fadz	J	1625	Uevorrkfodze	X536000-9	 	Di 		012	Wild	M6 V M1 V	{ -2 }	(A00+1)	[0000]	B	0	10
+1900	Fadz	J	1625	Uevorrkfodze	D536659-3	 	Ni 		312	NaVa	M6 V M1 V	{ -3 }	(752+1)	[3345]	B	0	70
+
+1105	Fadz	J	1627	Ghurorrakfougaengaerrorr	A99A323-C	 	Lo Wa 		602	Ve	F6 V	{ 0 }	(920+1)	[]	B	0	0
+1201	Fadz	J	1627	Ghurorrakfougaengaerrorr	C99A326-8	 	Lo Wa 	B	502	Ve	F6 V	{ -2 }	(920-3)	[313A]	B	0	-54
+1157	Fadz	J	1627	Ghurorrakfougaengaerrorr	E99A000-8	 	Di Wa 		002	Wild	F6 V	{ -3 }	(900+1)	[0000]	B	0	9
+1508	Fadz	J	1627	Ghurorrakfougaengaerrorr	E99A000-8	 	Di Wa 		002	Wild	F6 V	{ -3 }	(900-4)	[0000]	B	0	-36
+1900	Fadz	J	1627	Ghurorrakfougaengaerrorr	D99A000-8	 	Di Wa 		002	NaVa	F6 V	{ -3 }	(900-1)	[0000]	B	0	-9
+
+1105	Fadz	J	1630	Ghurorrakfougaengaerrorr	A99A323-C	 	Lo Wa 		602	Ve	F6 V	{ 0 }	(620+2)	[]	B	0	0
+1201	Fadz	J	1630	Ghurorrakfougaengaerrorr	X99A200-3	 	Lo Wa 	B	302	Ve	F6 V	{ -3 }	(410+1)	[1121]	B	0	4
+1157	Fadz	J	1630	Ghurorrakfougaengaerrorr	X99A000-3	 	Di Wa 		002	Wild	F6 V	{ -3 }	(400-2)	[0000]	B	0	-8
+1508	Fadz	J	1630	Ghurorrakfougaengaerrorr	X99A000-3	 	Di Wa 		002	Wild	F6 V	{ -3 }	(400+1)	[0000]	B	0	4
+1900	Fadz	J	1630	Ghurorrakfougaengaerrorr	A99A48B-C	 	Ni Wa 		602	NaVa	F6 V	{ 1 }	(635-2)	[155B]	B	0	-180
+
+1105	Fadz	C	1702	Zoughzvungran	C546232-6	 	Lo 		423	Ve	F0 V	{ 0 }	(810-3)	[]	B	0	0
+1157	Fadz	C	1702	Zoughzvungran	E546000-6	 	Di 		023	Wild	F0 V	{ -3 }	(800-5)	[0000]	B	0	-40
+1508	Fadz	C	1702	Zoughzvungran	E546000-6	 	Di 		023	Wild	F0 V	{ -3 }	(800-2)	[0000]	B	0	-16
+1201	Fadz	C	1702	Zoughzvungran	X546000-6	 	Di 		023	Wild	F0 V	{ -3 }	(800-4)	[0000]	B	0	-32
+1900	Fadz	C	1702	Zoughzvungran	C546A99-9	 	Hi In 		123	NaVa	F0 V	{ 2 }	(D99-3)	[AC97]	BE	0	-3159
+
+1105	Fadz	C	1708	Kfagaknu	E636778-6	 			702	Ve	M2 V	{ 0 }	(B68+1)	[]	B	0	0
+1157	Fadz	C	1708	Kfagaknu	E636731-4	 			302	Wild	M2 V	{ -2 }	(B65+3)	[7596]	B	0	990
+1508	Fadz	C	1708	Kfagaknu	E636783-5	 			402	Wild	M2 V	{ -2 }	(B62-1)	[7547]	B	0	-132
+1201	Fadz	C	1708	Kfagaknu	X636000-5	 	Di 		002	Wild	M2 V	{ -3 }	(B00+1)	[0000]	B	0	11
+1900	Fadz	C	1708	Kfagaknu	B636677-A	 	Ni 		502	NaVa	M2 V	{ 1 }	(D55-2)	[6779]	B	0	-650
+
+1105	Fadz	G	1715	Gaethadhoedhong	C689745-7	 	Ri 		611	Ve	F8 V M1 D	{ 0 }	(B67+1)	[]	BC	0	0
+1157	Fadz	G	1715	Gaethadhoedhong	C689788-5	 	Ri 		311	Wild	F8 V M1 D	{ 0 }	(B69+1)	[3765]	BC	0	594
+1508	Fadz	G	1715	Gaethadhoedhong	C689746-6	 	Ri 		211	Wild	F8 V M1 D	{ 0 }	(B62+4)	[57A9]	BC	0	528
+1201	Fadz	G	1715	Gaethadhoedhong	E68977A-6	 	Ri 	B	311	Wild	F8 V M1 D	{ -1 }	(B63+1)	[563A]	BC	0	198
+1900	Fadz	G	1715	Gaethadhoedhong	D689120-6	 	Lo 	B	411	NaVa	F8 V M1 D	{ -3 }	(B00+1)	[1138]	B	0	11
+
+1105	Fadz	G	1716	Gaethadhoedhong	C689745-7	 	Ri 		611	Ve	F8 V M1 D	{ 0 }	(869-5)	[]	BC	0	0
+1201	Fadz	G	1716	Gaethadhoedhong	E689777-7	 	Ri 		711	Ve	F8 V M1 D	{ -1 }	(865-5)	[461B]	BC	0	-1200
+1157	Fadz	G	1716	Gaethadhoedhong	E689799-3	 	Ri 		311	Wild	F8 V M1 D	{ -1 }	(868-1)	[4615]	BC	0	-384
+1508	Fadz	G	1716	Gaethadhoedhong	E689757-5	 	Ri 		311	Wild	F8 V M1 D	{ -1 }	(865-2)	[5621]	BC	0	-480
+1900	Fadz	G	1716	Gaethadhoedhong	E689372-6	 	Lo 		111	NaVa	F8 V M1 D	{ -3 }	(820-4)	[6175]	B	0	-64
+
+1105	Fadz	K	1727	Garrgthueghraeghuerz	D99A353-7	 	Lo Wa 		422	Ve	F9 V	{ 0 }	(B20+2)	[]	B	0	0
+1201	Fadz	K	1727	Garrgthueghraeghuerz	X99A376-6	 	Lo Wa 	B	422	Ve	F9 V	{ -3 }	(B20+1)	[4144]	B	0	22
+1157	Fadz	K	1727	Garrgthueghraeghuerz	X99A000-6	 	Di Wa 		022	Wild	F9 V	{ -3 }	(B00-1)	[0000]	B	0	-11
+1508	Fadz	K	1727	Garrgthueghraeghuerz	X99A000-6	 	Di Wa 		022	Wild	F9 V	{ -3 }	(B00+1)	[0000]	B	0	11
+1900	Fadz	K	1727	Garrgthueghraeghuerz	C99A7A8-7	 	Pi Wa 		322	NaVa	F9 V	{ -1 }	(B64+3)	[2686]	BD	0	792
+
+1105	Fadz	C	1801	Sanatsvoekhog	D726000-1	 	Di 		714	Ve	G8 V	{ 0 }	(800-1)	[]	B	0	0
+1157	Fadz	C	1801	Sanatsvoekhog	D726000-1	 	Di 		014	Wild	G8 V	{ -3 }	(800+2)	[0000]	B	0	16
+1508	Fadz	C	1801	Sanatsvoekhog	D726000-1	 	Di 		014	Wild	G8 V	{ -3 }	(800-1)	[0000]	B	0	-8
+1201	Fadz	C	1801	Sanatsvoekhog	X726000-1	 	Di 		014	Wild	G8 V	{ -3 }	(800+3)	[0000]	B	0	24
+1900	Fadz	C	1801	Sanatsvoekhog	B726520-7	 	Ni 		914	NaVa	G8 V	{ -1 }	(842+3)	[6477]	B	0	192
+
+1105	Fadz	C	1808	Nganrounggaegguz	BAFA543-C	 	Ni Oc 		223	Ve	A7 V	{ 0 }	(B42-1)	[]	B	0	0
+1157	Fadz	C	1808	Nganrounggaegguz	BAFA543-A	 	Ni Oc 		123	Wild	A7 V	{ 1 }	(B46-1)	[3657]	B	0	-264
+1508	Fadz	C	1808	Nganrounggaegguz	BAFA577-B	 	Ni Oc 		123	Wild	A7 V	{ 1 }	(B42+4)	[6618]	B	0	352
+1201	Fadz	C	1808	Nganrounggaegguz	XAFA000-B	 	Di Oc 		023	Wild	A7 V	{ -1 }	(B00+1)	[0000]	B	0	11
+1900	Fadz	C	1808	Nganrounggaegguz	CAFA633-9	 	Ni Oc 		723	NaVa	A7 V	{ -1 }	(B54-2)	[45AD]	B	0	-440
+
+1105	Fadz	K	1830	Ouakour	E338321-4	 	Lo 		713	Ve	A2 V M0 D	{ 0 }	(720-3)	[]	B	0	0
+1201	Fadz	K	1830	Ouakour	X338000-4	 	Di 		013	Ve	A2 V M0 D	{ -3 }	(700+1)	[0000]	B	0	7
+1157	Fadz	K	1830	Ouakour	X338000-4	 	Di 		013	Wild	A2 V M0 D	{ -3 }	(700-2)	[0000]	B	0	-14
+1508	Fadz	K	1830	Ouakour	X338000-4	 	Di 		013	Wild	A2 V M0 D	{ -3 }	(700+4)	[0000]	B	0	28
+1900	Fadz	K	1830	Ouakour	E338610-3	 	Ni 		113	NaVa	A2 V M0 D	{ -3 }	(750+4)	[3394]	B	0	140
+
+1105	Fadz	C	1906	Kseghgodh	C36848C-6	 	Ni Pa 		414	Ve	G9 V	{ 0 }	(735+3)	[]	Bc	0	0
+1157	Fadz	C	1906	Kseghgodh	C368423-4	 	Ni Pa 		214	Wild	G9 V	{ -2 }	(730+4)	[4257]	Bc	0	84
+1508	Fadz	C	1906	Kseghgodh	C368456-6	 	Ni Pa 		114	Wild	G9 V	{ -2 }	(734-1)	[2277]	Bc	0	-84
+1201	Fadz	C	1906	Kseghgodh	E368235-5	 	Lo 		614	Wild	G9 V	{ -3 }	(710+1)	[2147]	B	0	7
+1900	Fadz	C	1906	Kseghgodh	E368652-4	 	Ag Ri Ni 		614	NaVa	G9 V	{ -1 }	(751+1)	[7515]	BC	0	35
+
+1105	Fadz	C	1907	Kseghgodh	C36848C-6	 	Ni Pa 		414	Ve	G9 V	{ 0 }	(735+1)	[]	Bc	0	0
+1157	Fadz	C	1907	Kseghgodh	C368410-4	 	Ni Pa 		214	Wild	G9 V	{ -2 }	(733-3)	[1243]	Bc	0	-189
+1508	Fadz	C	1907	Kseghgodh	C368423-5	 	Ni Pa 		314	Wild	G9 V	{ -2 }	(730-1)	[7251]	Bc	0	-21
+1201	Fadz	C	1907	Kseghgodh	E368425-4	 	Ni Pa 		214	Wild	G9 V	{ -3 }	(733-1)	[4138]	Bc	0	-63
+1900	Fadz	C	1907	Kseghgodh	C368376-6	 	Lo 		914	NaVa	G9 V	{ -2 }	(720+5)	[4175]	B	0	70
+
+1105	Fadz	G	1911	Khirurs	C9A6898-7	 	Fl Ph 		711	Ve	F0 V M3 D	{ 0 }	(C75+3)	[]	Be	0	0
+1157	Fadz	G	1911	Khirurs	C9A6799-5	 	Fl 		311	Wild	F0 V M3 D	{ -1 }	(C6A-2)	[A625]	B	0	-1440
+1508	Fadz	G	1911	Khirurs	C9A6777-6	 	Fl 		211	Wild	F0 V M3 D	{ -1 }	(C65-1)	[6655]	B	0	-360
+1201	Fadz	G	1911	Khirurs	X9A6000-6	 	Di Fl 		011	Wild	F0 V M3 D	{ -3 }	(C00+1)	[0000]	B	0	12
+1900	Fadz	G	1911	Khirurs	B9A6642-9	 	Fl Ni 		511	NaVa	F0 V M3 D	{ 0 }	(E53+5)	[666B]	B	0	1050
+
+1105	Fadz	G	1912	Kothengthek	C342522-5	 	He Ni Po 		500	Ve	M2 V M7 V	{ 0 }	(A44-3)	[]	B	0	0
+1157	Fadz	G	1912	Kothengthek	E342000-5	 	Di He Po 		000	Wild	M2 V M7 V	{ -3 }	(A00-1)	[0000]	B	0	-10
+1508	Fadz	G	1912	Kothengthek	E342000-5	 	Di He Po 		000	Wild	M2 V M7 V	{ -3 }	(A00+1)	[0000]	B	0	10
+1201	Fadz	G	1912	Kothengthek	X342000-5	 	Di He Po 		000	Wild	M2 V M7 V	{ -3 }	(A00-1)	[0000]	B	0	-10
+1900	Fadz	G	1912	Kothengthek	E342123-3	 	He Lo Po 		700	NaVa	M2 V M7 V	{ -3 }	(A00-4)	[1137]	B	0	-40
+
+1105	Fadz	K	1928	Llarrkelkokh	A150575-A	 	De Ni Po 		803	Ve	F8 V M4 D	{ 0 }	(744-5)	[]	B	0	0
+1201	Fadz	K	1928	Llarrkelkokh	X150569-3	 	De Ni Po 		403	Ve	F8 V M4 D	{ -3 }	(440+1)	[5254]	B	0	16
+1157	Fadz	K	1928	Llarrkelkokh	X150000-3	 	De Di Po 		003	Wild	F8 V M4 D	{ -3 }	(400-4)	[0000]	B	0	-16
+1508	Fadz	K	1928	Llarrkelkokh	X150000-3	 	De Di Po 		003	Wild	F8 V M4 D	{ -3 }	(400+2)	[0000]	B	0	8
+1900	Fadz	K	1928	Llarrkelkokh	B150226-8	 	De Lo Po 		903	NaVa	F8 V M4 D	{ -1 }	(710-2)	[1129]	B	0	-14
+
+1105	Fadz	K	1930	Thaellonsuerrallaek	E666203-2	 	Ga Lo 		304	Ve	F3 V	{ 0 }	(810-4)	[]	B	0	0
+1201	Fadz	K	1930	Thaellonsuerrallaek	X666101-1	 	Ga Lo 	B	204	Ve	F3 V	{ -3 }	(800+1)	[5116]	B	0	8
+1157	Fadz	K	1930	Thaellonsuerrallaek	X666000-1	 	Di Ga 		004	Wild	F3 V	{ -3 }	(800+1)	[0000]	B	0	8
+1508	Fadz	K	1930	Thaellonsuerrallaek	X666000-1	 	Di Ga 		004	Wild	F3 V	{ -3 }	(800+1)	[0000]	B	0	8
+1900	Fadz	K	1930	Thaellonsuerrallaek	B6669A7-6	 	Ga Hi Pr 		304	NaVa	F3 V	{ 1 }	(887-2)	[8A36]	BcE	0	-896
+
+1105	Fadz	C	2001	Zidhoorr	C344412-4	 	Ni Pa 		913	Ve	F9 V M1 D	{ 0 }	(835+1)	[]	Bc	0	0
+1157	Fadz	C	2001	Zidhoorr	D344000-4	 	Di 		013	Wild	F9 V M1 D	{ -3 }	(800+1)	[0000]	B	0	8
+1508	Fadz	C	2001	Zidhoorr	D344000-4	 	Di 		013	Wild	F9 V M1 D	{ -3 }	(800-2)	[0000]	B	0	-16
+1201	Fadz	C	2001	Zidhoorr	X344000-4	 	Di 		013	Wild	F9 V M1 D	{ -3 }	(800+1)	[0000]	B	0	8
+1900	Fadz	C	2001	Zidhoorr	A344454-9	 	Ni Pa 		113	NaVa	F9 V M1 D	{ 0 }	(C35+1)	[5499]	Bc	0	180
+
+1105	Fadz	C	2003	Zidhoorr	C344412-4	 	Ni Pa 		913	Ve	F9 V M1 D	{ 0 }	(A32-2)	[]	Bc	0	0
+1157	Fadz	C	2003	Zidhoorr	D344000-4	 	Di 		013	Wild	F9 V M1 D	{ -3 }	(A00+1)	[0000]	B	0	10
+1508	Fadz	C	2003	Zidhoorr	D344000-4	 	Di 		013	Wild	F9 V M1 D	{ -3 }	(A00+1)	[0000]	B	0	10
+1201	Fadz	C	2003	Zidhoorr	X344000-4	 	Di 		013	Wild	F9 V M1 D	{ -3 }	(A00+2)	[0000]	B	0	20
+1900	Fadz	C	2003	Zidhoorr	A344200-9	 	Lo 		513	NaVa	F9 V M1 D	{ 0 }	(E10-3)	[2294]	B	0	-42
+
+1105	Fadz	C	2004	Dhoknaekfuers	A322444-C	 	He Ni Po 		312	Ve	M2 V	{ 0 }	(832-3)	[]	B	0	0
+1157	Fadz	C	2004	Dhoknaekfuers	D322000-C	 	Di He Po 		012	Wild	M2 V	{ -1 }	(800-4)	[0000]	B	0	-32
+1508	Fadz	C	2004	Dhoknaekfuers	D322000-C	 	Di He Po 		012	Wild	M2 V	{ -1 }	(800-3)	[0000]	B	0	-24
+1201	Fadz	C	2004	Dhoknaekfuers	X322000-C	 	Di He Po 		012	Wild	M2 V	{ -1 }	(800-3)	[0000]	B	0	-24
+1900	Fadz	C	2004	Dhoknaekfuers	D322888-5	 	He Na Pi Po Ph 		312	NaVa	M2 V	{ -2 }	(57A+1)	[9641]	BDe	0	350
+
+1105	Fadz	G	2019	Ghuekaedzkherrg	C000974-A	 	As Va Hi Na In 		323	Va	F2 V	{ 0 }	(886-2)	[]	BE	0	0
+1201	Fadz	G	2019	Ghuekaedzkherrg	X000000-A	 	As Va Di Na In 		023	Va	F2 V	{ 0 }	(800-1)	[0000]	BE	0	-8
+1157	Fadz	G	2019	Ghuekaedzkherrg	X000000-A	 	As Va Di Na In 		023	Wild	F2 V	{ 0 }	(800+1)	[0000]	BE	0	8
+1508	Fadz	G	2019	Ghuekaedzkherrg	X000000-A	 	As Va Di 		023	Wild	F2 V	{ -1 }	(800+1)	[0000]	B	0	8
+1900	Fadz	G	2019	Ghuekaedzkherrg	C000896-8	 	As Va Na Pi Ph 		323	NaVa	F2 V	{ -1 }	(876+1)	[B757]	BDe	0	336
+
+1105	Fadz	G	2020	Range	E769766-3	 	Ri 		914	Va	F6 V	{ 0 }	(667-4)	[]	BC	0	0
+1201	Fadz	G	2020	Range	X769830-3	 	Ph Ri 	B	114	Va	F6 V	{ -1 }	(676+3)	[A756]	BCe	0	756
+1157	Fadz	G	2020	Range	X769775-0	 	Ri 		514	Wild	F6 V	{ -1 }	(666+2)	[8631]	BC	0	432
+1508	Fadz	G	2020	Range	X769775-0	 	Ri 		514	Wild	F6 V	{ -1 }	(665-1)	[7625]	BC	0	-180
+1900	Fadz	G	2020	Range	C76959E-6	 	Ni Pr 		114	NaVa	F6 V	{ -2 }	(644-4)	[5348]	Bc	0	-384
+
+1105	Fadz	K	2030	Uefaekhsoursllon	E466434-7	 	Ni Pa 		314	Ve	F1 V M2 D	{ 0 }	(534+1)	[]	Bc	0	0
+1201	Fadz	K	2030	Uefaekhsoursllon	X466484-6	 	Ni Pa 		214	Ve	F1 V M2 D	{ -3 }	(530-4)	[4118]	Bc	0	-60
+1157	Fadz	K	2030	Uefaekhsoursllon	X466000-6	 	Di 		014	Wild	F1 V M2 D	{ -3 }	(500+1)	[0000]	B	0	5
+1508	Fadz	K	2030	Uefaekhsoursllon	X466000-6	 	Di 		014	Wild	F1 V M2 D	{ -3 }	(500+1)	[0000]	B	0	5
+1900	Fadz	K	2030	Uefaekhsoursllon	B4667A8-A	 	Ag Ri 		814	NaVa	F1 V M2 D	{ 4 }	(A6D+1)	[7B59]	BCf	0	780
+
+1105	Fadz	C	2107	Oeoengnokdhis	A524A68-G	 	Hi In 		121	Ve	F2 V	{ 0 }	(A97+3)	[]	BE	0	0
+1157	Fadz	C	2107	Oeoengnokdhis	A5249BA-C	 	Hi In 		521	Wild	F2 V	{ 4 }	(A8A+1)	[BDAD]	BEf	0	800
+1508	Fadz	C	2107	Oeoengnokdhis	A524955-E	 	Hi In 		621	Wild	F2 V	{ 4 }	(A8B-3)	[AD5E]	BEf	0	-2640
+1201	Fadz	C	2107	Oeoengnokdhis	X524000-E	 	Di In 		021	Wild	F2 V	{ 0 }	(A00+1)	[0000]	BE	0	10
+1900	Fadz	C	2107	Oeoengnokdhis	D524215-7	 	Lo 		421	NaVa	F2 V	{ -3 }	(710+1)	[216B]	B	0	7
+
+1105	Fadz	C	2110	Nguegovaghek	E638876-0	 	Ph 		402	Ve	K7 V M3 D	{ 0 }	(774+1)	[]	Be	0	0
+1157	Fadz	C	2110	Nguegovaghek	E63889C-0	 	Ph 		202	Wild	K7 V M3 D	{ -2 }	(775+2)	[8645]	Be	0	490
+1508	Fadz	C	2110	Nguegovaghek	E638899-0	 	Ph 		302	Wild	K7 V M3 D	{ -2 }	(772-1)	[D611]	Be	0	-98
+1201	Fadz	C	2110	Nguegovaghek	X638000-0	 	Ba 		002	Wild	K7 V M3 D	{ -3 }	(700-1)	[0000]	B	0	-7
+1900	Fadz	C	2110	Nguegovaghek	B638787-4	 			402	NaVa	K7 V M3 D	{ 0 }	(767-2)	[A775]	B	0	-588
+
+1105	Fadz	G	2114	Vungaeraraerrgh	B78A579-B	 	Ni Pr Wa 		200	Va	F9 V	{ 0 }	(342+1)	[]	Bc	0	0
+1157	Fadz	G	2114	Vungaeraraerrgh	B78A479-9	 	Ni Wa 		100	Wild	F9 V	{ 0 }	(334+1)	[646B]	B	0	36
+1508	Fadz	G	2114	Vungaeraraerrgh	B78A479-A	 	Ni Wa 		100	Wild	F9 V	{ 1 }	(335-3)	[752B]	B	0	-135
+1201	Fadz	G	2114	Vungaeraraerrgh	D78A102-8	 	Lo Wa 	B	100	Wild	F9 V	{ -3 }	(300+3)	[1113]	B	0	9
+1900	Fadz	G	2114	Vungaeraraerrgh	X78A000-A	 	Di Wa 	B	000	NaVa	F9 V	{ -1 }	(300+1)	[0000]	B	0	3
+
+1105	Fadz	G	2119	Gvaellai	C447675-7	 	Ag Ni 		903	Va	F4 V	{ 0 }	(752+1)	[]	BC	0	0
+1201	Fadz	G	2119	Gvaellai	E447797-5	 	Ag 	B	103	Va	F4 V	{ -1 }	(767+1)	[7648]	BC	0	294
+1157	Fadz	G	2119	Gvaellai	E447000-5	 	Di 		003	Wild	F4 V	{ -3 }	(700+1)	[0000]	B	0	7
+1508	Fadz	G	2119	Gvaellai	E447000-5	 	Di 		003	Wild	F4 V	{ -3 }	(700-5)	[0000]	B	0	-35
+1900	Fadz	G	2119	Gvaellai	A447533-C	 	Ag Ni 		803	NaVa	F4 V	{ 2 }	(A44-5)	[4747]	BC	0	-800
+
+1105	Fadz	C	2201	Zarzikhdaeg	B000468-A	 	As Va Ni 		903	Ve	G3 V	{ 0 }	(E36+4)	[]	B	0	0
+1157	Fadz	C	2201	Zarzikhdaeg	B000457-9	 	As Va Ni 		403	Wild	G3 V	{ 0 }	(E36+5)	[1447]	B	0	1260
+1508	Fadz	C	2201	Zarzikhdaeg	B000422-9	 	As Va Ni 		303	Wild	G3 V	{ 0 }	(E32+3)	[7468]	B	0	252
+1201	Fadz	C	2201	Zarzikhdaeg	X000000-9	 	As Va Di 		003	Wild	G3 V	{ -2 }	(E00+5)	[0000]	B	0	70
+1900	Fadz	C	2201	Zarzikhdaeg	E000344-6	 	As Va Lo 		903	NaVa	G3 V	{ -3 }	(B20+1)	[3126]	B	0	22
+
+1105	Fadz	C	2202	Zarzikhdaeg	B000468-A	 	As Va Ni 		903	Ve	G3 V	{ 0 }	(C32-2)	[]	B	0	0
+1157	Fadz	C	2202	Zarzikhdaeg	B000454-9	 	As Va Ni 		403	Wild	G3 V	{ 0 }	(C35-3)	[6488]	B	0	-540
+1508	Fadz	C	2202	Zarzikhdaeg	B000440-9	 	As Va Ni 		303	Wild	G3 V	{ 0 }	(C35-5)	[1417]	B	0	-900
+1201	Fadz	C	2202	Zarzikhdaeg	X000000-9	 	As Va Di 		003	Wild	G3 V	{ -2 }	(C00+3)	[0000]	B	0	36
+1900	Fadz	C	2202	Zarzikhdaeg	E000400-7	 	As Va Ni 		403	NaVa	G3 V	{ -3 }	(932-2)	[1184]	B	0	-108
+
+1105	Fadz	C	2207	Ksenganzar	C346879-3	 	Pa Pi Ph 		528	Ve	F8 V M3 D M2 D	{ 0 }	(673+2)	[]	BcDe	0	0
+1157	Fadz	C	2207	Ksenganzar	C3468AD-1	 	Pa Pi Ph 		228	Wild	F8 V M3 D M2 D	{ -1 }	(674+2)	[A731]	BcDe	0	336
+1508	Fadz	C	2207	Ksenganzar	C346883-2	 	Pa Pi Ph 		128	Wild	F8 V M3 D M2 D	{ -1 }	(674+2)	[8766]	BcDe	0	336
+1201	Fadz	C	2207	Ksenganzar	E346125-1	 	Lo 		828	Wild	F8 V M3 D M2 D	{ -3 }	(600+1)	[1191]	B	0	6
+1900	Fadz	C	2207	Ksenganzar	D346000-1	 	Di 		028	NaVa	F8 V M3 D M2 D	{ -3 }	(600+1)	[0000]	B	0	6
+
+1105	Fadz	C	2209	Ingaeksllaelarrgaethog	D4946BC-1	 	Ag Ni 		423	Ve	F2 V M0 D M0 D	{ 0 }	(956-4)	[]	BC	0	0
+1157	Fadz	C	2209	Ingaeksllaelarrgaethog	D494000-1	 	Di 		023	Wild	F2 V M0 D M0 D	{ -3 }	(900+2)	[0000]	B	0	18
+1508	Fadz	C	2209	Ingaeksllaelarrgaethog	D494000-1	 	Di 		023	Wild	F2 V M0 D M0 D	{ -3 }	(900-5)	[0000]	B	0	-45
+1201	Fadz	C	2209	Ingaeksllaelarrgaethog	X494000-1	 	Di 		023	Wild	F2 V M0 D M0 D	{ -3 }	(900+1)	[0000]	B	0	9
+1900	Fadz	C	2209	Ingaeksllaelarrgaethog	C4947BA-3	 	Ag Pi 		223	NaVa	F2 V M0 D M0 D	{ 0 }	(967+1)	[8747]	BCD	0	378
+
+1105	Fadz	C	2302	Gzaeou	C400977-9	 	Hi Na In Va 		626	Ve	G0 D M6 D	{ 0 }	(E88-3)	[]	BE	0	0
+1157	Fadz	C	2302	Gzaeou	C40098A-7	 	Hi Na In Va 		326	Wild	G0 D M6 D	{ 1 }	(68B-4)	[8A54]	BE	0	-2112
+1508	Fadz	C	2302	Gzaeou	C400995-8	 	Hi Na In Va 		226	Wild	G0 D M6 D	{ 1 }	(E87+1)	[DA58]	BE	0	784
+1201	Fadz	C	2302	Gzaeou	X400000-8	 	Di Na In Va 		026	Wild	G0 D M6 D	{ -2 }	(E00-2)	[0000]	BE	0	-28
+1900	Fadz	C	2302	Gzaeou	E400685-5	 	Na Ni Va 		526	NaVa	G0 D M6 D	{ -3 }	(653+2)	[6363]	B	0	180
+
+1105	Fadz	C	2307	Gvoedzaerug	CAB4AFK-8	 	Fl Hi In 		220	Ve	F1 V	{ 0 }	(B98+3)	[]	BE	0	0
+1157	Fadz	C	2307	Gvoedzaerug	CAB4ABG-6	 	Fl Hi In 		120	Wild	F1 V	{ 1 }	(999+1)	[DB1B]	BE	0	729
+1508	Fadz	C	2307	Gvoedzaerug	CAB4A88-7	 	Fl Hi In 		120	Wild	F1 V	{ 1 }	(999+2)	[8B78]	BE	0	1458
+1201	Fadz	C	2307	Gvoedzaerug	XAB4000-7	 	Di Fl In 		020	Wild	F1 V	{ -2 }	(900-3)	[0000]	BE	0	-27
+1900	Fadz	C	2307	Gvoedzaerug	CAB489A-4	 	Fl Ph 		820	NaVa	F1 V	{ -1 }	(978-2)	[5724]	Be	0	-1008
+
+1105	Fadz	G	2311	Rueksersaetsknugh	C899200-7	 	Lo 		802	Ve	M6 V M6 D	{ 0 }	(810-4)	[]	B	0	0
+1157	Fadz	G	2311	Rueksersaetsknugh	X899000-7	 	Di 		002	Wild	M6 V M6 D	{ -3 }	(800+2)	[0000]	B	0	16
+1508	Fadz	G	2311	Rueksersaetsknugh	X899000-7	 	Di 		002	Wild	M6 V M6 D	{ -3 }	(800-3)	[0000]	B	0	-24
+1201	Fadz	G	2311	Rueksersaetsknugh	X899000-7	 	Di 		002	Wild	M6 V M6 D	{ -3 }	(800+1)	[0000]	B	0	8
+1900	Fadz	G	2311	Rueksersaetsknugh	A899503-B	 	Ni 		702	NaVa	M6 V M6 D	{ 1 }	(A42+3)	[6638]	B	0	240
+
+1105	Fadz	C	2403	Naenoetssa	C25057A-5	 	De Ni Po 		612	Ve	F8 V	{ 0 }	(745+1)	[]	B	0	0
+1157	Fadz	C	2403	Naenoetssa	X250000-5	 	De Di Po 		012	Wild	F8 V	{ -3 }	(700-2)	[0000]	B	0	-14
+1508	Fadz	C	2403	Naenoetssa	X250000-5	 	De Di Po 		012	Wild	F8 V	{ -3 }	(700-4)	[0000]	B	0	-28
+1201	Fadz	C	2403	Naenoetssa	X250000-5	 	De Di Po 		012	Wild	F8 V	{ -3 }	(700-3)	[0000]	B	0	-21
+1900	Fadz	C	2403	Naenoetssa	D250000-5	 	De Di Po 		012	NaVa	F8 V	{ -3 }	(700+1)	[0000]	B	0	7
+
+1105	Fadz	D	2501	Llaengksaesuezarrghaerr	B8B7588-7	 	Fl Ni 		804	Ve	M7 V	{ 0 }	(845+1)	[]	B	0	0
+1157	Fadz	D	2501	Llaengksaesuezarrghaerr	E8B7000-7	 	Di Fl 		004	Wild	M7 V	{ -3 }	(800+1)	[0000]	B	0	8
+1508	Fadz	D	2501	Llaengksaesuezarrghaerr	E8B7000-7	 	Di Fl 		004	Wild	M7 V	{ -3 }	(800-1)	[0000]	B	0	-8
+1201	Fadz	D	2501	Llaengksaesuezarrghaerr	X8B7000-7	 	Di Fl 		004	Wild	M7 V	{ -3 }	(800+1)	[0000]	B	0	8
+1900	Fadz	D	2501	Llaengksaesuezarrghaerr	E8B7995-4	 	Fl Hi In 		204	NaVa	M7 V	{ 0 }	(887+1)	[C964]	BE	0	448
+
+1105	Fadz	D	2508	Naerraghoungluersdoekfaz	A896563-B	 	Ag Cy Ni 		603	Ve	G4 V M8 D	{ 0 }	(B46+1)	[]	BC	0	0
+1157	Fadz	D	2508	Naerraghoungluersdoekfaz	X896000-B	 	Cy Di 		003	Wild	G4 V M8 D	{ -1 }	(B00-1)	[0000]	B	0	-11
+1508	Fadz	D	2508	Naerraghoungluersdoekfaz	X896000-B	 	Di 		003	Wild	G4 V M8 D	{ -1 }	(B00-3)	[0000]	B	0	-33
+1201	Fadz	D	2508	Naerraghoungluersdoekfaz	X896000-B	 	Di 		003	Wild	G4 V M8 D	{ -1 }	(B00+2)	[0000]	B	0	22
+1900	Fadz	D	2508	Naerraghoungluersdoekfaz	A896445-B	 	Ni Pa 		603	NaVa	G4 V M8 D	{ 1 }	(B37-3)	[1577]	Bc	0	-693
+
+1105	Fadz	D	2601	Aknaen	E6557AC-0	 	Ag Ga 		801	Ve	M2 V M3 D	{ 0 }	(B67-3)	[]	BC	0	0
+1157	Fadz	D	2601	Aknaen	E6557BC-0	 	Ag Ga 		401	Wild	M2 V M3 D	{ -1 }	(B68+2)	[9621]	BC	0	1056
+1508	Fadz	D	2601	Aknaen	E655787-0	 	Ag Ga 		501	Wild	M2 V M3 D	{ -1 }	(B67-2)	[B611]	BC	0	-924
+1201	Fadz	D	2601	Aknaen	X65577C-0	 	Ag Ga 	B	601	Wild	M2 V M3 D	{ -1 }	(B6B+4)	[9641]	BC	0	2904
+1900	Fadz	D	2601	Aknaen	A655100-8	 	Ga Lo 	B	801	NaVa	M2 V M3 D	{ -1 }	(C00+1)	[4188]	B	0	12
+
+1105	Fadz	D	2603	Dhokhgoesgzaengueks	B32065A-B	 	De He Na Po Ni 		504	Ve	M0 V M0 D	{ 0 }	(D55+3)	[]	B	0	0
+1157	Fadz	D	2603	Dhokhgoesgzaengueks	B320678-8	 	De He Na Po Ni 		204	Wild	M0 V M0 D	{ -1 }	(D54+1)	[7516]	B	0	260
+1508	Fadz	D	2603	Dhokhgoesgzaengueks	B320679-9	 	De He Na Po Ni 		204	Wild	M0 V M0 D	{ 0 }	(D51+1)	[A629]	B	0	65
+1201	Fadz	D	2603	Dhokhgoesgzaengueks	X320000-9	 	De He Di Na Po 		004	Wild	M0 V M0 D	{ -2 }	(D00+3)	[0000]	B	0	39
+1900	Fadz	D	2603	Dhokhgoesgzaengueks	C320797-8	 	De He Na Pi Po 		604	NaVa	M0 V M0 D	{ -1 }	(D69-2)	[6628]	BD	0	-1404
+
+1105	Fadz	D	2608	Kfaengfaegzuedz	C638765-5	 			203	Ve	M0 V	{ 0 }	(964-3)	[]	B	0	0
+1157	Fadz	D	2608	Kfaengfaegzuedz	C638778-3	 			103	Wild	M0 V	{ -1 }	(969-4)	[6621]	B	0	-1944
+1508	Fadz	D	2608	Kfaengfaegzuedz	C638674-4	 	Ni 		903	Wild	M0 V	{ -2 }	(952-3)	[9475]	B	0	-270
+1201	Fadz	D	2608	Kfaengfaegzuedz	X638000-4	 	Di 		003	Wild	M0 V	{ -3 }	(900+3)	[0000]	B	0	27
+1900	Fadz	D	2608	Kfaengfaegzuedz	C638400-7	 	Ni 		303	NaVa	M0 V	{ -2 }	(930-3)	[8279]	B	0	-81
+
+1105	Fadz	D	2610	Kfuengluengaghaeng	A746674-8	 	Ag Ni 		117	Ve	F8 V M8 D M1 D	{ 0 }	(F51-2)	[]	BC	0	0
+1157	Fadz	D	2610	Kfuengluengaghaeng	E746000-8	 	Di 		017	Wild	F8 V M8 D M1 D	{ -3 }	(F00-3)	[0000]	B	0	-45
+1508	Fadz	D	2610	Kfuengluengaghaeng	E746000-8	 	Di 		017	Wild	F8 V M8 D M1 D	{ -3 }	(F00-4)	[0000]	B	0	-60
+1201	Fadz	D	2610	Kfuengluengaghaeng	X746000-8	 	Di 		017	Wild	F8 V M8 D M1 D	{ -3 }	(F00+4)	[0000]	B	0	60
+1900	Fadz	D	2610	Kfuengluengaghaeng	C746436-5	 	Ni Pa 		317	NaVa	F8 V M8 D M1 D	{ -2 }	(734-3)	[4254]	Bc	0	-252
+
+1105	Fadz	H	2616	Rratsotsdzeng	E485569-3	 	Ag Pr Ni 		504	Va	F0 V M7 D	{ 0 }	(A42+3)	[]	BcC	0	0
+1201	Fadz	H	2616	Rratsotsdzeng	X485544-2	 	Ag Pr Ni 	B	304	Va	F0 V M7 D	{ -2 }	(A40-1)	[5361]	BcC	0	-40
+1157	Fadz	H	2616	Rratsotsdzeng	X485540-0	 	Ag Pr Ni 		104	Wild	F0 V M7 D	{ -2 }	(A40-2)	[8331]	BcC	0	-80
+1508	Fadz	H	2616	Rratsotsdzeng	X485515-0	 	Ag Pr Ni 		204	Wild	F0 V M7 D	{ -2 }	(A41+4)	[8341]	BcC	0	160
+1900	Fadz	H	2616	Rratsotsdzeng	E485779-2	 	Ag Ri 		904	NaVa	F0 V M7 D	{ 0 }	(A66-2)	[5775]	BC	0	-720
+
+1105	Fadz	D	2702	Saenallsogvursdzits	D100643-4	 	Na Ni Va 		100	Ve	M4 V	{ 0 }	(655+1)	[]	B	0	0
+1157	Fadz	D	2702	Saenallsogvursdzits	D100577-3	 	Ni Va 		500	Wild	M4 V	{ -3 }	(640-5)	[6254]	B	0	-120
+1508	Fadz	D	2702	Saenallsogvursdzits	D100547-4	 	Ni Va 		400	Wild	M4 V	{ -3 }	(640+3)	[5264]	B	0	72
+1201	Fadz	D	2702	Saenallsogvursdzits	X100000-4	 	Di Va 		000	Wild	M4 V	{ -3 }	(600-3)	[0000]	B	0	-18
+1900	Fadz	D	2702	Saenallsogvursdzits	B100584-9	 	Ni Va 		100	NaVa	M4 V	{ 0 }	(645-3)	[653A]	B	0	-360
+
+1105	Fadz	D	2703	Saenallsogvursdzits	D100643-4	 	Na Ni Va 		100	Ve	M4 V	{ 0 }	(651-1)	[]	B	0	0
+1157	Fadz	D	2703	Saenallsogvursdzits	D100000-4	 	Di Na Va 		000	Wild	M4 V	{ -3 }	(600+2)	[0000]	B	0	12
+1508	Fadz	D	2703	Saenallsogvursdzits	D100000-4	 	Di Va 		000	Wild	M4 V	{ -3 }	(600-4)	[0000]	B	0	-24
+1201	Fadz	D	2703	Saenallsogvursdzits	X100000-4	 	Di Va 		000	Wild	M4 V	{ -3 }	(600+2)	[0000]	B	0	12
+1900	Fadz	D	2703	Saenallsogvursdzits	C100ABG-A	 	Hi Na In Va 		100	NaVa	M4 V	{ 3 }	(69B-3)	[AD48]	BE	0	-1782
+
+1105	Fadz	D	2706	Fokhgholl	E402678-6	 	Ic Va Na Ni 		413	Ve	F8 V	{ 0 }	(852+1)	[]	B	0	0
+1157	Fadz	D	2706	Fokhgholl	E402610-4	 	Ic Va Na Ni 		213	Wild	F8 V	{ -3 }	(851-4)	[6384]	B	0	-160
+1508	Fadz	D	2706	Fokhgholl	E40267A-5	 	Ic Va Na Ni 		113	Wild	F8 V	{ -3 }	(851-2)	[4363]	B	0	-80
+1201	Fadz	D	2706	Fokhgholl	X402000-5	 	Di Ic Va Na 		013	Wild	F8 V	{ -3 }	(800+4)	[0000]	B	0	32
+1900	Fadz	D	2706	Fokhgholl	B402210-B	 	Ic Va Lo 		413	NaVa	F8 V	{ 1 }	(C11+2)	[5368]	B	0	24
+
+1105	Fadz	D	2801	Kaedzorrgansukh	EA9A9A8-6	 	Hi In Oc 		804	Ve	F8 V M1 D	{ 0 }	(A87-1)	[]	BE	0	0
+1157	Fadz	D	2801	Kaedzorrgansukh	EA9A9CG-4	 	Hi In Oc 		404	Wild	F8 V M1 D	{ 0 }	(A84-5)	[D914]	BE	0	-1600
+1508	Fadz	D	2801	Kaedzorrgansukh	EA9A9CH-5	 	Hi In Oc 		504	Wild	F8 V M1 D	{ 0 }	(A88+1)	[4927]	BE	0	640
+1201	Fadz	D	2801	Kaedzorrgansukh	XA9A213-4	 	Lo Oc 		904	Wild	F8 V M1 D	{ -3 }	(A10+2)	[4136]	B	0	20
+1900	Fadz	D	2801	Kaedzorrgansukh	DA9A634-4	 	Ni Oc 		904	NaVa	F8 V M1 D	{ -3 }	(A50+3)	[8363]	B	0	150
+
+1105	Fadz	D	2806	Kadzghangknaz	E764551-5	 	Ag Pr Ni 		302	Ve	M1 V	{ 0 }	(B43+1)	[]	BcC	0	0
+1157	Fadz	D	2806	Kadzghangknaz	E764573-2	 	Ag Pr Ni 		102	Wild	M1 V	{ -2 }	(B43-2)	[5334]	BcC	0	-264
+1508	Fadz	D	2806	Kadzghangknaz	E764510-3	 	Ag Pr Ni 		102	Wild	M1 V	{ -2 }	(B42-5)	[3332]	BcC	0	-440
+1201	Fadz	D	2806	Kadzghangknaz	X764484-0	 	Ni Pa 	B	602	Wild	M1 V	{ -3 }	(B33+1)	[6161]	Bc	0	99
+1900	Fadz	D	2806	Kadzghangknaz	X764223-0	 	Lo 	B	702	NaVa	M1 V	{ -3 }	(B10+1)	[4131]	B	0	11
+
+1105	Fadz	D	2809	Thaenggaerrghrorae	A8B0103-C	 	He Lo 		310	Ve	M2 V	{ 0 }	(D00-2)	[]	B	0	0
+1157	Fadz	D	2809	Thaenggaerrghrorae	X8B0000-C	 	Di He 		010	Wild	M2 V	{ -1 }	(D00+3)	[0000]	B	0	39
+1508	Fadz	D	2809	Thaenggaerrghrorae	X8B0000-C	 	Di He 		010	Wild	M2 V	{ -1 }	(D00+1)	[0000]	B	0	13
+1201	Fadz	D	2809	Thaenggaerrghrorae	X8B0000-C	 	Di He 		010	Wild	M2 V	{ -1 }	(D00-1)	[0000]	B	0	-13
+1900	Fadz	D	2809	Thaenggaerrghrorae	C8B0214-7	 	He Lo 		910	NaVa	M2 V	{ -2 }	(C10-1)	[4166]	B	0	-12
+
+1105	Fadz	H	2812	Dzethedzarzgvaeghaekhkuegh	C251000-5	 	Di Po 		711	Ve	F7 V	{ 0 }	(600+3)	[]	B	0	0
+1157	Fadz	H	2812	Dzethedzarzgvaeghaekhkuegh	D251000-5	 	Di Po 		011	Wild	F7 V	{ -3 }	(600+2)	[0000]	B	0	12
+1508	Fadz	H	2812	Dzethedzarzgvaeghaekhkuegh	D251000-5	 	Di Po 		011	Wild	F7 V	{ -3 }	(600+1)	[0000]	B	0	6
+1201	Fadz	H	2812	Dzethedzarzgvaeghaekhkuegh	X251000-5	 	Di Po 		011	Wild	F7 V	{ -3 }	(600+1)	[0000]	B	0	6
+1900	Fadz	H	2812	Dzethedzarzgvaeghaekhkuegh	B251511-B	 	Ni Po 		511	NaVa	F7 V	{ 1 }	(847-2)	[A68E]	B	0	-448
+
+1105	Fadz	D	2904	Ghoknoeghekaekh	C586977-5	 	Hi Pr 		203	Ve	M0 V	{ 0 }	(785+1)	[]	BcE	0	0
+1157	Fadz	D	2904	Ghoknoeghekaekh	C5869BE-3	 	Hi Pr 		103	Wild	M0 V	{ 0 }	(788-2)	[A977]	BcE	0	-896
+1508	Fadz	D	2904	Ghoknoeghekaekh	C586852-3	 	Pa Ri Ph 		903	Wild	M0 V	{ 0 }	(774-1)	[8853]	BcCe	0	-196
+1201	Fadz	D	2904	Ghoknoeghekaekh	X586978-1	 	Hi Pr 	B	103	Wild	M0 V	{ -1 }	(787+2)	[A883]	BcE	0	784
+1900	Fadz	D	2904	Ghoknoeghekaekh	D586479-2	 	Ni Pa 	B	703	NaVa	M0 V	{ -3 }	(730-1)	[2151]	Bc	0	-21
+
+1105	Fadz	D	2905	Ghoknoeghekaekh	C586977-5	 	Hi Pr 		203	Ve	M0 V	{ 0 }	(587+2)	[]	BcE	0	0
+1157	Fadz	D	2905	Ghoknoeghekaekh	C586979-3	 	Hi Pr 		103	Wild	M0 V	{ 0 }	(58B+1)	[9956]	BcE	0	440
+1508	Fadz	D	2905	Ghoknoeghekaekh	C5869B9-4	 	Hi Pr 		103	Wild	M0 V	{ 0 }	(58A-1)	[9987]	BcE	0	-400
+1201	Fadz	D	2905	Ghoknoeghekaekh	E5869BG-4	 	Hi Pr 	B	203	Wild	M0 V	{ -1 }	(585-5)	[6856]	BcE	0	-1000
+1900	Fadz	D	2905	Ghoknoeghekaekh	C586411-4	 	Ni Pa 	B	203	NaVa	M0 V	{ -2 }	(532+1)	[1241]	Bc	0	30
+
+1105	Fadz	D	2907	Zinnedhon	A562679-7	 	Ni Ri 		700	Ve	K9 V	{ 0 }	(653-5)	[]	BC	0	0
+1157	Fadz	D	2907	Zinnedhon	X562000-7	 	Di 		000	Wild	K9 V	{ -3 }	(600+2)	[0000]	B	0	12
+1508	Fadz	D	2907	Zinnedhon	X562000-7	 	Di 		000	Wild	K9 V	{ -3 }	(600+5)	[0000]	B	0	30
+1201	Fadz	D	2907	Zinnedhon	X562000-7	 	Di 		000	Wild	K9 V	{ -3 }	(600+2)	[0000]	B	0	12
+1900	Fadz	D	2907	Zinnedhon	B562425-6	 	Ni 		400	NaVa	K9 V	{ -1 }	(631-2)	[1325]	B	0	-36
+
+1105	Fadz	H	2911	Fogoeganrron	D7688DG-0	 	Pa Ri Ph 		412	Ve	F1 V M6 D	{ 0 }	(774-2)	[]	BcCe	0	0
+1157	Fadz	H	2911	Fogoeganrron	D76888A-0	 	Pa Ri Ph 		212	Wild	F1 V M6 D	{ -1 }	(778+1)	[A741]	BcCe	0	392
+1508	Fadz	H	2911	Fogoeganrron	D768897-0	 	Pa Ri Ph 		312	Wild	F1 V M6 D	{ -1 }	(779+2)	[5751]	BcCe	0	882
+1201	Fadz	H	2911	Fogoeganrron	X768876-0	 	Pa Ri Ph 	B	412	Wild	F1 V M6 D	{ -1 }	(772+1)	[6771]	BcCe	0	98
+1900	Fadz	H	2911	Fogoeganrron	B768574-3	 	Ag Pr Ni 	B	112	NaVa	F1 V M6 D	{ 0 }	(743+1)	[5532]	BcC	0	84
+
+1105	Fadz	H	2913	Noeuekfoungong	B768955-9	 	Hi Pr 		613	Ve	F9 V M5 D	{ 0 }	(D89+1)	[]	BcE	0	0
+1157	Fadz	H	2913	Noeuekfoungong	B768977-6	 	Hi Pr 		313	Wild	F9 V M5 D	{ 1 }	(984-3)	[AA38]	BcE	0	-864
+1508	Fadz	H	2913	Noeuekfoungong	B768957-8	 	Hi Pr 		213	Wild	F9 V M5 D	{ 1 }	(D8A+2)	[6A58]	BcE	0	2080
+1201	Fadz	H	2913	Noeuekfoungong	X76897A-6	 	Hi Pr 	B	313	Wild	F9 V M5 D	{ -1 }	(986-1)	[6868]	BcE	0	-432
+1900	Fadz	H	2913	Noeuekfoungong	C768443-5	 	Ni Pa 	B	413	NaVa	F9 V M5 D	{ -2 }	(931+2)	[6212]	Bc	0	54
+
+1105	Fadz	D	3008	Deiuedourrgh	C98A468-5	 	Ni Wa 		413	Ve	F5 V M5 D	{ 0 }	(331+1)	[]	B	0	0
+1157	Fadz	D	3008	Deiuedourrgh	E98A000-5	 	Di Wa 		013	Wild	F5 V M5 D	{ -3 }	(300+2)	[0000]	B	0	6
+1508	Fadz	D	3008	Deiuedourrgh	E98A000-5	 	Di Wa 		013	Wild	F5 V M5 D	{ -3 }	(300+2)	[0000]	B	0	6
+1201	Fadz	D	3008	Deiuedourrgh	X98A000-5	 	Di Wa 		013	Wild	F5 V M5 D	{ -3 }	(300+1)	[0000]	B	0	3
+1900	Fadz	D	3008	Deiuedourrgh	B98A784-6	 	Ri Wa 		913	NaVa	F5 V M5 D	{ 1 }	(368+1)	[5847]	BC	0	144
+
+1105	Fadz	H	3014	Adaeokfue	E524330-2	 	Lo 		303	Ve	K7 V	{ 0 }	(A20+4)	[]	B	0	0
+1157	Fadz	H	3014	Adaeokfue	E524000-2	 	Di 		003	Wild	K7 V	{ -3 }	(A00+2)	[0000]	B	0	20
+1508	Fadz	H	3014	Adaeokfue	E524000-2	 	Di 		003	Wild	K7 V	{ -3 }	(A00+1)	[0000]	B	0	10
+1201	Fadz	H	3014	Adaeokfue	X524000-2	 	Di 		003	Wild	K7 V	{ -3 }	(A00-3)	[0000]	B	0	-30
+1900	Fadz	H	3014	Adaeokfue	D524000-2	 	Di 		003	NaVa	K7 V	{ -3 }	(A00+1)	[0000]	B	0	10
+
+1105	Fadz	D	3102	Ozaaeving	A430777-A	 	De Na Po 		802	Ve	G8 V	{ 0 }	(866-4)	[]	B	0	0
+1157	Fadz	D	3102	Ozaaeving	A43077A-8	 	De Na Po 		402	Wild	G8 V	{ 0 }	(865-1)	[475A]	B	0	-240
+1508	Fadz	D	3102	Ozaaeving	A4307C9-9	 	De Na Po 		302	Wild	G8 V	{ 1 }	(868-2)	[685C]	B	0	-768
+1201	Fadz	D	3102	Ozaaeving	X430000-9	 	De Di Na Po 		002	Wild	G8 V	{ -2 }	(800-3)	[0000]	B	0	-24
+1900	Fadz	D	3102	Ozaaeving	E430B9C-8	 	De Hi Na Po 		102	NaVa	G8 V	{ -1 }	(8A4-5)	[AA74]	BE	0	-1600
+
+1105	Fadz	D	3103	Ksuerazvaegh	A500975-B	 	Hi Na In Va 		903	Ve	F5 V	{ 0 }	(A88-3)	[]	BE	0	0
+1157	Fadz	D	3103	Ksuerazvaegh	A5009BD-9	 	Hi Na In Va 		403	Wild	F5 V	{ 3 }	(A87-2)	[9C2A]	BE	0	-1120
+1508	Fadz	D	3103	Ksuerazvaegh	A500979-A	 	Hi Na In Va 		303	Wild	F5 V	{ 4 }	(A8E-2)	[BD7A]	BEf	0	-2240
+1201	Fadz	D	3103	Ksuerazvaegh	X500000-A	 	Di Na In Va 		003	Wild	F5 V	{ 0 }	(A00-3)	[0000]	BE	0	-30
+1900	Fadz	D	3103	Ksuerazvaegh	C500241-6	 	Lo Va 		403	NaVa	F5 V	{ -2 }	(710+5)	[1144]	B	0	35
+
+1105	Fadz	D	3105	Ksuerazvaegh	A500975-B	 	Hi Na In Va 		903	Ve	F5 V	{ 0 }	(E85+2)	[]	BE	0	0
+1157	Fadz	D	3105	Ksuerazvaegh	A500989-9	 	Hi Na In Va 		403	Wild	F5 V	{ 3 }	(E89-3)	[6C4A]	BE	0	-3024
+1508	Fadz	D	3105	Ksuerazvaegh	A50099C-A	 	Hi Na In Va 		303	Wild	F5 V	{ 4 }	(E8D-2)	[5D5B]	BEf	0	-2912
+1201	Fadz	D	3105	Ksuerazvaegh	X500000-A	 	Di Na In Va 		003	Wild	F5 V	{ 0 }	(E00+4)	[0000]	BE	0	56
+1900	Fadz	D	3105	Ksuerazvaegh	E50067A-3	 	Na Ni Va 		303	NaVa	F5 V	{ -3 }	(B53+2)	[4362]	B	0	330
+
+1105	Fadz	D	3106	Ksuerazvaegh	A500975-B	 	Hi Na In Va 		903	Ve	F5 V	{ 0 }	(C84-3)	[]	BE	0	0
+1157	Fadz	D	3106	Ksuerazvaegh	A5009C8-9	 	Hi Na In Va 		403	Wild	F5 V	{ 3 }	(C8B+1)	[8C36]	BE	0	1056
+1508	Fadz	D	3106	Ksuerazvaegh	A5009AA-A	 	Hi Na In Va 		303	Wild	F5 V	{ 4 }	(C8D+4)	[DD7E]	BEf	0	4992
+1201	Fadz	D	3106	Ksuerazvaegh	X500000-A	 	Di Na In Va 		003	Wild	F5 V	{ 0 }	(C00+5)	[0000]	BE	0	60
+1900	Fadz	D	3106	Ksuerazvaegh	C50068C-5	 	Na Ni Va 		303	NaVa	F5 V	{ -2 }	(951-5)	[3458]	B	0	-225
+
+1105	Fadz	D	3107	Doaekfoe	E564666-4	 	Ag Ri Ni 		405	Ve	F1 V M2 D	{ 0 }	(551-3)	[]	BC	0	0
+1157	Fadz	D	3107	Doaekfoe	E564610-2	 	Ag Ri Ni 		205	Wild	F1 V M2 D	{ -1 }	(552-1)	[5564]	BC	0	-50
+1508	Fadz	D	3107	Doaekfoe	E564613-3	 	Ag Ri Ni 		305	Wild	F1 V M2 D	{ -1 }	(550+3)	[8574]	BC	0	75
+1201	Fadz	D	3107	Doaekfoe	X564678-3	 	Ag Ri Ni 		405	Wild	F1 V M2 D	{ -1 }	(555+1)	[7543]	BC	0	125
+1900	Fadz	D	3107	Doaekfoe	B56478C-8	 	Ag Ri 		605	NaVa	F1 V M2 D	{ 2 }	(A6A+1)	[8928]	BC	0	600
+
+1105	Fadz	D	3203	Giknaghaergnoedh	C200110-5	 	Lo Va 		703	Ve	M6 V K8 V	{ 0 }	(A00+1)	[]	B	0	0
+1157	Fadz	D	3203	Giknaghaergnoedh	E200000-5	 	Di Va 		003	Wild	M6 V K8 V	{ -3 }	(A00+1)	[0000]	B	0	10
+1508	Fadz	D	3203	Giknaghaergnoedh	E200000-5	 	Di Va 		003	Wild	M6 V K8 V	{ -3 }	(A00-1)	[0000]	B	0	-10
+1201	Fadz	D	3203	Giknaghaergnoedh	X200000-5	 	Di Va 		003	Wild	M6 V K8 V	{ -3 }	(A00+1)	[0000]	B	0	10
+1900	Fadz	D	3203	Giknaghaergnoedh	C200754-5	 	Na Pi Va 		903	NaVa	M6 V K8 V	{ -1 }	(A63-1)	[7616]	BD	0	-180
+
+1105	Fadz	D	3204	Giknaghaergnoedh	C200110-5	 	Lo Va 		703	Ve	M6 V K8 V	{ 0 }	(700+2)	[]	B	0	0
+1157	Fadz	D	3204	Giknaghaergnoedh	E200000-5	 	Di Va 		003	Wild	M6 V K8 V	{ -3 }	(700-5)	[0000]	B	0	-35
+1508	Fadz	D	3204	Giknaghaergnoedh	E200000-5	 	Di Va 		003	Wild	M6 V K8 V	{ -3 }	(700+1)	[0000]	B	0	7
+1201	Fadz	D	3204	Giknaghaergnoedh	X200000-5	 	Di Va 		003	Wild	M6 V K8 V	{ -3 }	(700-2)	[0000]	B	0	-14
+1900	Fadz	D	3204	Giknaghaergnoedh	C200243-5	 	Lo Va 		803	NaVa	M6 V K8 V	{ -2 }	(710-3)	[4154]	B	0	-21
+
+1105	Fadz	D	3207	Khozkhanueks	C360422-7	 	De Ni 		614	Ve	K9 V	{ 0 }	(533-3)	[]	B	0	0
+1157	Fadz	D	3207	Khozkhanueks	C360445-5	 	De Ni 		314	Wild	K9 V	{ -2 }	(533+1)	[5288]	B	0	45
+1508	Fadz	D	3207	Khozkhanueks	C360402-7	 	De Ni 		414	Wild	K9 V	{ -2 }	(530+4)	[2253]	B	0	60
+1201	Fadz	D	3207	Khozkhanueks	E360499-3	 	De Ni 		314	Wild	K9 V	{ -3 }	(531+1)	[4191]	B	0	15
+1900	Fadz	D	3207	Khozkhanueks	B360455-A	 	De Ni 		514	NaVa	K9 V	{ 1 }	(A35-1)	[158F]	B	0	-150
+
+1105	Fadz	D	3208	Khozkhanueks	C360422-7	 	De Ni 		614	Ve	K9 V	{ 0 }	(635+4)	[]	B	0	0
+1157	Fadz	D	3208	Khozkhanueks	C360477-5	 	De Ni 		314	Wild	K9 V	{ -2 }	(633+1)	[1247]	B	0	54
+1508	Fadz	D	3208	Khozkhanueks	C360448-6	 	De Ni 		214	Wild	K9 V	{ -2 }	(630-1)	[3215]	B	0	-18
+1201	Fadz	D	3208	Khozkhanueks	E360435-5	 	De Ni 		214	Wild	K9 V	{ -3 }	(632+3)	[6131]	B	0	108
+1900	Fadz	D	3208	Khozkhanueks	D360000-5	 	De Di 		014	NaVa	K9 V	{ -3 }	(600+1)	[0000]	B	0	6
+

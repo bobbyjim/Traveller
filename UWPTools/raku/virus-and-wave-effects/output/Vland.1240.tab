@@ -1,0 +1,533 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+Vlan	A	0101	Aakhorn	X55677A-0	 	Ag 		104	Wild	F5 V G6 V	{ -1 }	(966-1)	[3655]	BC	11	-324
+Vlan	A	0102	Rokii	X799000-7	 	Di 		010	Wild	M3 V	{ -3 }	(500-3)	[0000]	B	11	-15
+Vlan	A	0104	Maluuf	X432000-9	 	Di Px Po 		010	Wild	K8 V K9 V	{ -2 }	(600+2)	[0000]	B	8	12
+Vlan	A	0105	Gikkon	X543000-6	 	Di Po 		032	Wild	G0 V G8 V	{ -3 }	(700-2)	[0000]	B	11	-14
+Vlan	A	0107	Taraddiin	E656458-6	 	Ga Ni Pa 		111	Wild	M3 V	{ -3 }	(730+1)	[4153]	Bc	13	21
+Vlan	A	0109	Hakkat	E658873-2	 	Pa Ph 		423	Wild	G1 V	{ -2 }	(A73+1)	[A672]	Bce	13	210
+Vlan	A	0110	Ossin	X100000-C	 	Di Na Pi Va 		005	Wild	M1 V	{ -1 }	(F00-2)	[0000]	BD	9	-30
+Vlan	M	0131	Skasputin	E763000-5	 	Di 		024	Wild	M2 V	{ -3 }	(500+4)	[0000]	B	10	20
+Vlan	M	0132	Kald	X550000-3	 	De Di Po 		001	Wild	M1 V M1 V	{ -3 }	(B00+1)	[0000]	B	8	11
+Vlan	M	0134	Zanagud	X66A443-2	 	Ni Wa 		323	Wild	M2 V	{ -3 }	(830-1)	[4144]	B	14	-24
+Vlan	M	0135	Sakin	X430000-A	 	De Di Na Po 		014	Wild	F9 V M4 V	{ -1 }	(D00+1)	[0000]	B	10	13
+Vlan	M	0137	Shaaki	X9B4000-C	 	Di Fl 		020	Wild	F1 V M1 V	{ -1 }	(B00+1)	[0000]	B	15	11
+Vlan	A	0202	Kalkako	X544000-5	 	Di 		024	Wild	F8 V K2 V	{ -3 }	(600+1)	[0000]	B	17	6
+Vlan	A	0203	Bannon's World	X100000-A	 	Di Va 		020	Wild	K6 V M3 V	{ -1 }	(800+2)	[0000]	B	13	16
+Vlan	A	0205	Khankari	X885000-6	 	Di Ga 		010	Wild	M2 V	{ -3 }	(600+2)	[0000]	B	13	12
+Vlan	A	0209	Lankhi	X746000-5	 	Di 		003	Wild	M2 V	{ -3 }	(700+1)	[0000]	B	8	7
+Vlan	A	0210	Khalgun	X576777-0	 	Ag Pi 		301	Wild	M1 V	{ -1 }	(968-4)	[A664]	BCD	12	-1728
+Vlan	E	0211	Giikur	X689541-0	 	Ni Pr 		210	Wild	M2 V M9 V	{ -3 }	(741+1)	[7283]	Bc	8	28
+Vlan	I	0221	Keshiil	X530000-9	 	De Di Na Po 		020	Wild	M2 V	{ -2 }	(C00+1)	[0000]	B	9	12
+Vlan	M	0232	Tratami	X9C7000-9	 	Di Fl 		023	Wild	F7 III M2 V	{ -2 }	(F00-2)	[0000]	B	8	-30
+Vlan	M	0234	Nurrungar	X649000-2	 	Di 		010	Wild	M3 V M3 V	{ -3 }	(300-2)	[0000]	B	11	-6
+Vlan	M	0236	Khishugii	X420000-B	 	De He Di Po 		010	Wild	M0 V	{ -1 }	(800+2)	[0000]	B	14	16
+Vlan	M	0237	Shashim	X427000-C	 	Di 		003	Wild	G8 V	{ -1 }	(B00+2)	[0000]	B	12	22
+Vlan	A	0303	Anert	X9B4000-B	 	Di Fl 		010	Wild	G7 V	{ -1 }	(900+1)	[0000]	B	11	9
+Vlan	A	0306	Skathi	D585678-3	 	Ag Ri Ni 		110	Wild	K0 V M0 V	{ -1 }	(854+5)	[3574]	BC	14	800
+Vlan	A	0307	Enard	X8A3000-9	 	Di Fl 		001	Wild	M1 V M7 V	{ -2 }	(A00+1)	[0000]	B	9	10
+Vlan	E	0311	Omero	X430000-F	 	De Di Po 		022	Wild	G8 V M3 V	{ -1 }	(900-1)	[0000]	B	13	-9
+Vlan	M	0333	Paspaa	X554000-0	 	Ba 		010	Wild	G0 V K3 V	{ -3 }	(600+2)	[0000]	B	11	12
+Vlan	M	0335	Nadud	X97A000-5	 	Di Wa 		020	Wild	M1 V	{ -3 }	(500-2)	[0000]	B	13	-10
+Vlan	M	0336	Parsi	X9899BC-1	 	Hi Pr 		524	Wild	K9 V	{ -1 }	(C86-2)	[B865]	BcE	12	-1152
+Vlan	M	0338	Vanessa	X568000-6	 	Di 		010	Wild	K8 V M0 V	{ -3 }	(500-4)	[0000]	B	14	-20
+Vlan	M	0340	Jessheim	XAC5000-E	 	Di Fl 		025	Wild	M2 V	{ -1 }	(B00+1)	[0000]	B	11	11
+Vlan	A	0402	Kuk	E540000-5	 	De He Di Po 		001	Wild	K2 V K6 V	{ -3 }	(400+1)	[0000]	B	8	4
+Vlan	A	0403	Apkeraas	X438000-9	 	Di 		020	Wild	G2 V	{ -2 }	(900+4)	[0000]	B	8	36
+Vlan	A	0404	Katti	X8D8000-D	 	Di 		004	Wild	M3 V	{ -1 }	(800-3)	[0000]	B	8	-24
+Vlan	A	0408	Shaddukan	X622000-D	 	Di He Po 		010	Wild	G1 V	{ -1 }	(400+1)	[0000]	B	13	4
+Vlan	I	0422	Niirka	X300000-F	 	Di Na Pi Va 		022	Wild	M9 III D	{ -1 }	(D00+1)	[0000]	BD	15	13
+Vlan	I	0430	Khulekii	X6778CC-0	 	Pa Pi Ph 		122	Wild	G3 V	{ -2 }	(A77+1)	[B682]	BcDe	11	490
+Vlan	M	0431	Answerin	X58469C-0	 	(Answerin) Ag Ri Ni 		120	Wild	F7 V G0 V	{ -1 }	(C51-2)	[7551]	BC	10	-120
+Vlan	M	0434	Geguru	X000000-9	 	As Va Di 		025	Wild	K1 V	{ -2 }	(D00+2)	[0000]	B	11	26
+Vlan	M	0435	Ganidam	X100000-B	 	Di Va 		001	Wild	M2 V M5 V	{ -1 }	(700-1)	[0000]	B	5	-7
+Vlan	M	0436	Meprim	X300000-D	 	Di Va 		010	Wild	M1 V	{ -1 }	(400+1)	[0000]	B	10	4
+Vlan	M	0437	Thatii	EA7A000-4	 	Di Oc 		024	Wild	K8 V	{ -3 }	(600-1)	[0000]	B	11	-6
+Vlan	A	0502	Lugaluru	E859452-7	 	Ni 		101	Wild	M0 V	{ -3 }	(632+1)	[315C]	B	9	36
+Vlan	A	0506	Gamibuu	X524000-A	 	Di 		001	Wild	K0 V M3 V	{ -1 }	(900-3)	[0000]	B	9	-27
+Vlan	A	0507	Kharta	X552736-0	 	Po 		404	Wild	G9 V K6 V	{ -2 }	(961-3)	[B564]	B	11	-162
+Vlan	A	0508	Arfaan	X767400-2	 	Ga Ni Pa 		213	Wild	M1 V	{ -3 }	(633-2)	[3112]	Bc	11	-108
+Vlan	I	0530	Pirrom	X884000-2	 	Di 		011	Wild	G2 V	{ -3 }	(700+4)	[0000]	B	14	28
+Vlan	M	0531	Seglound	X99A000-6	 	Di Wa 		020	Wild	M1 V	{ -3 }	(600-3)	[0000]	B	14	-18
+Vlan	M	0532	Kinswana	X310000-B	 	Di Na 		004	Wild	K6 V	{ -1 }	(C00-3)	[0000]	B	9	-36
+Vlan	M	0533	Khi Tai	X668756-1	 	Ag Ri 		201	Wild	M3 V M3 V	{ 0 }	(967+1)	[3761]	BC	9	378
+Vlan	M	0534	Khakkakum	E657732-4	 	Ag Ga 		121	Wild	M3 V	{ -1 }	(965-3)	[4632]	BC	12	-810
+Vlan	M	0536	Fauski	X420000-E	 	De He Di Na Pi Po 		001	Wild	K0 V M1 V	{ -1 }	(A00+3)	[0000]	BD	5	30
+Vlan	A	0601	Athanuez	X100000-B	 	Di Na Pi Va 		001	Wild	K5 V M0 V	{ -1 }	(B00+1)	[0000]	BD	8	11
+Vlan	A	0605	Sheshat	X526000-C	 	Di 		024	Wild	F8 V	{ -1 }	(900+1)	[0000]	B	9	9
+Vlan	A	0610	Rakurram	X200000-C	 	Di Va 		012	Wild	G7 V	{ -1 }	(800+1)	[0000]	B	13	8
+Vlan	E	0619	Lalaki	X9B4000-D	 	Di Fl 		002	Wild	M3 V	{ -1 }	(B00+3)	[0000]	B	10	33
+Vlan	I	0622	Beshe	X8B8000-8	 	Di Fl 		015	Wild	M2 V	{ -3 }	(G00-3)	[0000]	B	12	-48
+Vlan	I	0630	Giraran	X555000-5	 	Di 		024	Wild	K3 V	{ -3 }	(400+3)	[0000]	B	10	12
+Vlan	M	0631	Enbart	X201000-C	 	Di Ic Va Na 		020	Wild	M1 V	{ -1 }	(A00+1)	[0000]	B	8	10
+Vlan	M	0633	Kamar Kurker	X554000-4	 	Di 		010	Wild	K1 V	{ -3 }	(700-3)	[0000]	B	6	-21
+Vlan	M	0635	Savvud	E545000-7	 	Di 		001	Wild	M1 V	{ -3 }	(600+2)	[0000]	B	14	12
+Vlan	M	0637	Bood	X540578-0	 	De He Ni Po 		110	Wild	M0 V	{ -3 }	(743+5)	[1281]	B	14	420
+Vlan	M	0639	Liigima	X7C2000-D	 	Di Fl He 		003	Wild	K2 V K9 V	{ -1 }	(800+1)	[0000]	B	11	8
+Vlan	M	0640	Aquacade	X67A000-5	 	Di Wa 		020	Wild	M2 V	{ -3 }	(400+4)	[0000]	B	8	16
+Vlan	A	0701	Taegzdueg	X665454-1	 	Ga Ni Pa 		114	Wild	G0 V M5 V	{ -3 }	(730+1)	[5151]	Bc	12	21
+Vlan	A	0703	Khigapka	X797000-0	 	Ba 		002	Wild	M2 V	{ -3 }	(600+1)	[0000]	B	9	6
+Vlan	A	0705	Shukhuge	X727000-9	 	Di Pi 		010	Wild	M1 V	{ -2 }	(B00-1)	[0000]	BD	11	-11
+Vlan	A	0707	Lenordi	X000000-8	 	As Va Di 		010	Wild	M2 V	{ -3 }	(700+4)	[0000]	B	8	28
+Vlan	A	0708	Voskhod	X310000-E	 	Di Na In 		001	Wild	M0 V M1 V	{ 0 }	(C00-3)	[0000]	BE	12	-36
+Vlan	A	0709	Kharzet	X565000-5	 	Di 		001	Wild	G3 V M0 V	{ -3 }	(700-1)	[0000]	B	14	-7
+Vlan	E	0711	Rishiin	X539000-B	 	Di 		010	Wild	M2 V M7 V	{ -1 }	(600-2)	[0000]	B	14	-12
+Vlan	M	0732	Pirumush	X524000-8	 	Di 		022	Wild	G4 V M2 V	{ -3 }	(A00+1)	[0000]	B	13	10
+Vlan	M	0734	Kishbar	X301000-D	 	Di Ic Va 		020	Wild	M2 V	{ -1 }	(700-1)	[0000]	B	10	-7
+Vlan	M	0737	Kuzey Anadolu	X500000-9	 	Di Na Va 		003	Wild	K3 V K5 V	{ -2 }	(B00+3)	[0000]	B	9	33
+Vlan	M	0738	Daglari	X310000-A	 	Di Na 		021	Wild	M3 V	{ -1 }	(B00-2)	[0000]	B	14	-22
+Vlan	M	0739	Trabbon	X554775-0	 	Ag 		320	Wild	K7 V	{ -1 }	(969-2)	[A661]	BC	6	-972
+Vlan	M	0740	Kirov	X683000-6	 	Di 		010	Wild	K4 V K5 V	{ -3 }	(C00+4)	[0000]	B	10	48
+Vlan	A	0801	Ogerrgh	X62A000-8	 	Di Pi 		010	Wild	M1 V	{ -3 }	(B00-2)	[0000]	BD	9	-22
+Vlan	A	0804	Kegirur	X76A435-1	 	Ni Wa 		201	Wild	M0 V	{ -3 }	(B30+3)	[1131]	B	10	99
+Vlan	A	0806	Gadiga	X88A000-8	 	Di Wa 		001	Wild	F9 V K8 V M8 V	{ -3 }	(500-4)	[0000]	B	11	-20
+Vlan	A	0807	Kunumi	X554000-7	 	Di 		021	Wild	K0 V	{ -3 }	(600-3)	[0000]	B	12	-18
+Vlan	M	0831	Igsudi	X572000-3	 	Di He 		020	Wild	G4 V K6 V	{ -3 }	(500+1)	[0000]	B	10	5
+Vlan	M	0832	Kirlikin	E5405AE-5	 	De He Ni Po 		202	Wild	M2 V	{ -3 }	(942+2)	[3272]	B	12	144
+Vlan	M	0833	Karbarlah	X587898-0	 	Pa Ri Ph 		110	Wild	M1 V	{ -1 }	(A75+1)	[97A2]	BcCe	12	350
+Vlan	M	0834	Khisber	X87A000-6	 	Di Wa 		023	Wild	F6 V	{ -3 }	(700+1)	[0000]	B	10	7
+Vlan	M	0835	Zhirka	X000000-A	 	As Va Di 		010	Wild	M2 V M9 V	{ -1 }	(400-2)	[0000]	B	12	-8
+Vlan	M	0839	Kiimiim	X672000-0	 	Ba He 		003	Wild	G2 V	{ -3 }	(500+4)	[0000]	B	7	20
+Vlan	B	0902	Otsaellghue	X425000-E	 	Di rg9 		003	Wild	K9 V	{ -1 }	(900+3)	[0000]	B	8	27
+Vlan	B	0906	Iishashun	X625000-A	 	Di 		013	Wild	K3 V	{ -1 }	(A00+3)	[0000]	B	10	30
+Vlan	B	0909	Jiinasha	X200000-A	 	Di Na Pi Va 		020	Wild	M4 III	{ -1 }	(B00-2)	[0000]	BD	7	-22
+Vlan	J	0921	Ganiir	X423000-B	 	Di Po 		005	Wild	M3 V M5 V	{ -1 }	(A00+2)	[0000]	B	16	20
+Vlan	J	0923	Gazzum	X549000-1	 	Di 		020	Wild	M2 V M2 V	{ -3 }	(800+1)	[0000]	B	10	8
+Vlan	J	0924	Shugandarsii	X745000-4	 	Di 		001	Wild	M2 V	{ -3 }	(500+1)	[0000]	B	8	5
+Vlan	J	0927	Havland	D793000-4	 	Di Pi 		001	Wild	M0 V M2 V	{ -3 }	(B00+2)	[0000]	BD	8	22
+Vlan	J	0930	Gokodeyo	X581899-0	 	Ph Ri 		110	Wild	F3 V M0 V	{ -1 }	(A71+2)	[8732]	BCe	14	140
+Vlan	N	0933	Arluk	X411000-C	 	Di Ic Na In 		013	Wild	M2 V	{ 0 }	(F00+1)	[0000]	BE	11	15
+Vlan	N	0934	Imdakhun	X203000-F	 	Di Ic Va 		001	Wild	G5 V M1 V	{ -1 }	(700-3)	[0000]	B	12	-21
+Vlan	N	0938	Rhyolite	E560000-3	 	De Di 		024	Wild	K7 V M0 V	{ -3 }	(500+1)	[0000]	B	9	5
+Vlan	N	0939	Gashumu	X76A573-3	 	Ni Pr Wa 		202	Wild	G8 V	{ -3 }	(842+1)	[8224]	Bc	5	64
+Vlan	B	1001	Odhughe	X525000-9	 	Di rg9 		010	Wild	K0 V M6 V	{ -2 }	(800+1)	[0000]	B	13	8
+Vlan	B	1003	Anaanika	D540000-5	 	De He Di Po 		011	Wild	M1 V	{ -3 }	(700-1)	[0000]	B	8	-7
+Vlan	B	1004	Esngougz	XA7A000-2	 	Di Oc 		020	Wild	M2 V	{ -3 }	(600+1)	[0000]	B	8	6
+Vlan	B	1007	Laaru	X69A000-5	 	Di Wa 		024	Wild	G7 V	{ -3 }	(B00+1)	[0000]	B	9	11
+Vlan	F	1011	Iren	X8C3000-C	 	Di Fl 		014	Wild	K7 V M3 V	{ -1 }	(F00-2)	[0000]	B	10	-30
+Vlan	F	1012	Askhu	E554000-7	 	Di 		002	Wild	G8 V M0 V	{ -3 }	(300-4)	[0000]	B	9	-12
+Vlan	J	1028	Apurshish	X555594-0	 	Ag Ni 		223	Wild	G8 V	{ -2 }	(C40+1)	[1341]	BC	17	48
+Vlan	N	1032	Umaanshar	X432000-9	 	Di Px Po 		023	Wild	K2 V K6 V	{ -2 }	(C00-1)	[0000]	B	10	-12
+Vlan	N	1033	Komirex	X200000-9	 	Di Va 		020	Wild	F8 V G7 V	{ -2 }	(600+5)	[0000]	B	7	30
+Vlan	N	1038	Isle	X68A674-1	 	Ni Ri Wa 		401	Wild	K0 V M3 V	{ -2 }	(C50+4)	[3462]	BC	9	240
+Vlan	B	1102	Azu	X547000-D	 	Di Pi rg2 		001	Wild	M1 V M3 V	{ -1 }	(B00+1)	[0000]	BD	5	11
+Vlan	B	1104	Gvaellekh	E885000-7	 	Di Ga 		010	Wild	K2 V K6 V	{ -3 }	(400+2)	[0000]	B	8	8
+Vlan	B	1107	Sikilar	X432000-A	 	Di Na Po 		022	Wild	G2 V	{ -1 }	(E00-4)	[0000]	B	7	-56
+Vlan	B	1108	Vakhoneri	X76A58D-3	 	Ni Pr Wa 		210	Wild	K8 V	{ -3 }	(B42+3)	[4254]	Bc	14	264
+Vlan	B	1109	Suragginsu	X433000-A	 	Di Po 		011	Wild	F6 V M8 V	{ -1 }	(700-3)	[0000]	B	13	-21
+Vlan	B	1110	Liwar	D550000-7	 	De Di Po 		005	Wild	K2 V	{ -3 }	(500+1)	[0000]	B	9	5
+Vlan	F	1112	Vallae	C897774-4	 	Ag Pi An 		410	Wild	F3 V	{ 0 }	(964-1)	[5751]	BCD	13	-216
+Vlan	F	1113	Thogho	E898000-8	 	Di 		020	Wild	M3 V	{ -3 }	(A00-1)	[0000]	B	11	-10
+Vlan	F	1114	Gukhaga	X877000-5	 	Di 		010	Wild	G4 V M6 V	{ -3 }	(700+4)	[0000]	B	14	28
+Vlan	F	1116	Darmagu	X412000-D	 	Di Ic 		001	Wild	K5 V M3 V	{ -1 }	(600+1)	[0000]	B	11	6
+Vlan	F	1117	The Uris Belt	X000000-E	 	As Va Di 		011	Wild	K5 V M1 V	{ -1 }	(800+3)	[0000]	B	6	24
+Vlan	F	1119	Daku	X432000-A	 	Di Na Po 		004	Wild	K2 V	{ -1 }	(C00-3)	[0000]	B	8	-36
+Vlan	F	1120	Ideshe	D969678-4	 	Ni Ri 		520	Wild	G6 V M1 V	{ -2 }	(852+2)	[7474]	BC	10	160
+Vlan	J	1128	Shakshim	XAA5000-A	 	Di Fl 		001	Wild	M1 V M4 V	{ -1 }	(800-3)	[0000]	B	8	-24
+Vlan	N	1131	Neegak	X537000-B	 	Cy Di 		022	Wild	F8 V	{ -1 }	(C00-4)	[0000]	B	9	-48
+Vlan	N	1134	Jupset	X8C3000-B	 	Di Fl 		023	Wild	M1 V	{ -1 }	(B00-3)	[0000]	B	8	-33
+Vlan	N	1135	Abalakova	E565889-4	 	Pa Ri Ph 		422	Wild	F5 V M3 V	{ -1 }	(A75-4)	[8732]	BcCe	10	-1400
+Vlan	N	1136	Daangiilu	B565599-9	 	Ag Pr Ni 		203	Wild	G2 V M4 V	{ 1 }	(A45-1)	[7635]	BcC	16	-200
+Vlan	N	1137	Usaamkirkhiir	X564444-1	 	Ni Pa 		114	Wild	K1 V	{ -3 }	(731+1)	[3181]	Bc	13	21
+Vlan	N	1138	Chrysantheum	X430000-9	 	De Di Na Po 		001	Wild	M0 V M1 V	{ -2 }	(A00+3)	[0000]	B	13	30
+Vlan	N	1139	Uureg	X553877-0	 	Ph Po 		112	Wild	M2 V	{ -2 }	(A76-3)	[A651]	Be	8	-1260
+Vlan	N	1140	Hiroshi	E675000-6	 	Di Pi 		001	Wild	K5 V M3 V	{ -3 }	(900+4)	[0000]	BD	10	36
+Vlan	B	1201	Erim	E573000-4	 	Di Pi 		001	Wild	K0 V M1 V	{ -3 }	(900+2)	[0000]	BD	9	18
+Vlan	B	1202	Anghurr	X430000-7	 	De Di Na Po 		020	Wild	K9 V	{ -3 }	(A00+1)	[0000]	B	9	10
+Vlan	B	1203	Angvae	X422000-9	 	Di He Px Po rg5 		034	Wild	F3 V K0 V	{ -2 }	(C00+1)	[0000]	B	14	12
+Vlan	B	1206	Kummus	X434000-9	 	Di 		002	Wild	M1 V	{ -2 }	(900-3)	[0000]	B	8	-27
+Vlan	B	1208	Vhodan	X758000-D	 	Di 		023	Wild	K0 IV G1 V	{ -1 }	(H00+2)	[0000]	B	11	34
+Vlan	F	1211	Gagzoe	X585000-1	 	Di 		002	Wild	M2 V M3 V	{ -3 }	(600+2)	[0000]	B	9	12
+Vlan	F	1215	Siruga	X100000-D	 	Di Va 		001	Wild	K3 V M0 V	{ -1 }	(800+5)	[0000]	B	13	40
+Vlan	F	1217	Estoff	X6B6000-C	 	Di Fl 		020	Wild	M2 V	{ -1 }	(700+1)	[0000]	B	11	7
+Vlan	F	1219	Ramir	X66A000-0	 	(Tagi) Ba Wa 		001	Wild	K8 V M2 V	{ -3 }	(500+1)	[0000]	B	9	5
+Vlan	F	1220	Imik	D563000-3	S	Di 		024	Wild	K1 V	{ -3 }	(500+4)	[0000]	B	9	20
+Vlan	J	1227	Sumabaal	X432000-9	 	Di Px Po 		001	Wild	M0 V M3 V	{ -2 }	(700+2)	[0000]	B	11	14
+Vlan	N	1232	Lekziika	X885573-1	 	Ag Pr Ga Ni 		120	Wild	K9 V	{ -2 }	(740+2)	[8371]	BcC	10	56
+Vlan	N	1235	Themistocles	X433000-D	 	Cy Di Po 		001	Wild	F6 V M1 V	{ -1 }	(800+1)	[0000]	B	7	8
+Vlan	N	1236	Fymur	E551798-4	 	Po 		310	Wild	M1 V	{ -2 }	(962+1)	[5515]	B	14	108
+Vlan	N	1237	Kanumshikaa	X755554-1	 	Ag Ga Ni 		120	Wild	M0 V	{ -2 }	(741-1)	[5381]	BC	5	-28
+Vlan	N	1238	Iplukaddesh	X000000-9	 	As Va Di 		011	Wild	K1 V	{ -2 }	(700-1)	[0000]	B	12	-7
+Vlan	N	1240	Nelson	X200000-A	 	Di Va 		020	Wild	M0 V	{ -1 }	(600+1)	[0000]	B	6	6
+Vlan	B	1309	Enpar Konal	X577000-3	 	Di Pi 		021	Wild	K8 V	{ -3 }	(900-3)	[0000]	BD	7	-27
+Vlan	F	1311	Kema	X100000-A	 	Di Va 		010	Wild	M2 V	{ -1 }	(500-2)	[0000]	B	8	-10
+Vlan	F	1312	Taksar	X432000-A	 	Di Po 		010	Wild	K4 V	{ -1 }	(600+1)	[0000]	B	10	6
+Vlan	F	1313	Hisus	E778896-3	 	Pa Pi Ph 		314	Wild	M0 V	{ -2 }	(A76-3)	[8665]	BcDe	12	-1260
+Vlan	F	1317	Anik	X541000-6	 	Di He Po 		011	Wild	M1 V	{ -3 }	(700-3)	[0000]	B	13	-21
+Vlan	F	1319	Ganar	X200000-8	 	Di Va 		021	Wild	M0 V	{ -3 }	(A00+1)	[0000]	B	12	10
+Vlan	J	1323	Robbuun	X524000-E	 	Di 		002	Wild	K0 V K7 V	{ -1 }	(900-1)	[0000]	B	13	-9
+Vlan	N	1332	Nii Khu	C55488A-4	 	Pa Ph 		301	Wild	K0 V M3 V	{ -1 }	(B76+2)	[8782]	Bce	13	924
+Vlan	N	1334	Lukham	X564000-F	 	Di 		002	Wild	K1 V K6 V	{ -1 }	(E00-1)	[0000]	B	9	-14
+Vlan	N	1336	Pygmy	X540000-5	 	De He Di Po 		011	Wild	F8 V K3 V	{ -3 }	(600+1)	[0000]	B	9	6
+Vlan	N	1337	Borealis	X511000-9	 	Di Ic Na 		004	Wild	F5 V M5 V	{ -2 }	(C00-1)	[0000]	B	11	-12
+Vlan	N	1339	Darm	X100000-F	 	Di Va 		024	Wild	M1 V	{ -1 }	(B00+3)	[0000]	B	16	33
+Vlan	N	1340	Anishda	X614000-8	 	Di Ic 		002	Wild	M0 V	{ -3 }	(700+1)	[0000]	B	8	7
+Vlan	B	1403	Deraan	X426000-C	 	Di 		010	Wild	M2 V	{ -1 }	(900+1)	[0000]	B	7	9
+Vlan	B	1405	Diiron	X89A8BF-2	 	Ph Pi Wa 		204	Wild	G3 V	{ -2 }	(A77-5)	[8634]	BDe	10	-2450
+Vlan	B	1406	Timat	D98A798-3	 	Ri Wa 		521	Wild	M0 V	{ -1 }	(967-3)	[8651]	BC	12	-1134
+Vlan	B	1407	Guusimka	X539000-C	 	Di 		011	Wild	M0 V	{ -1 }	(E00-4)	[0000]	B	9	-56
+Vlan	B	1408	Maran	X552000-E	 	Di Po 		022	Wild	M1 V	{ -1 }	(G00+1)	[0000]	B	8	16
+Vlan	B	1410	Zentove	X8A3000-9	 	Di Fl Px 		020	Wild	G4 V K3 V	{ -2 }	(900-3)	[0000]	B	10	-27
+Vlan	F	1412	Karka	X200000-8	 	Di Na Pi Va 		001	Wild	M0 V	{ -3 }	(B00+3)	[0000]	BD	13	33
+Vlan	F	1414	Centra	X592000-7	T 	Di He 		024	Wild	M1 V	{ -3 }	(700+1)	[0000]	B	16	7
+Vlan	F	1417	Astira	X552448-1	 	Ni Po 		220	Wild	M0 V	{ -3 }	(630+1)	[2143]	B	11	18
+Vlan	N	1431	Daalurge	E558576-5	 	Ag Ni 		110	Wild	M1 V M2 V	{ -2 }	(740-2)	[1386]	BC	11	-56
+Vlan	N	1432	Agagir	X430000-B	 	De Di Po 		010	Wild	M4 V	{ -1 }	(800+2)	[0000]	B	14	16
+Vlan	N	1435	Dakeshir	X401000-C	 	Di Ic Va 		002	Wild	M1 V	{ -1 }	(800+4)	[0000]	B	14	32
+Vlan	N	1437	Igikuuni	X797756-1	 	Ag Pi 		222	Wild	G0 V	{ -1 }	(965-3)	[5671]	BCD	14	-810
+Vlan	N	1438	Zaal	X896000-6	 	Di 		001	Wild	K4 V M5 V	{ -3 }	(700-2)	[0000]	B	12	-14
+Vlan	B	1505	Odinaga	X201000-C	 	Di Ic Va Na 		003	Wild	M0 V M5 V	{ -1 }	(B00+1)	[0000]	B	10	11
+Vlan	B	1509	Audhumla	X98A000-0	 	Ba Wa 		001	Wild	G1 V M1 V	{ -3 }	(600+2)	[0000]	B	9	12
+Vlan	F	1515	Luunbu	X8D6000-9	 	Di 		010	Wild	M2 V	{ -2 }	(500+1)	[0000]	B	13	5
+Vlan	F	1516	Duam	X564887-0	 	Pa Ri Ph 		410	Wild	M1 V	{ -1 }	(A74-3)	[8781]	BcCe	11	-840
+Vlan	F	1519	Kagamira	X577000-1	 	Di 		025	Wild	G4 V	{ -3 }	(C00+4)	[0000]	B	10	48
+Vlan	F	1520	Shulishu	X552556-2	 	Ni Po 		110	Wild	K1 V M0 V	{ -3 }	(740+3)	[5271]	B	10	84
+Vlan	J	1523	Ilma	X510000-7	 	(Qiceteu) Di Na Pi 		001	Wild	M0 V	{ -3 }	(900+2)	[0000]	BD	9	18
+Vlan	J	1530	Bakog	X8D9000-F	 	Di 		032	Wild	G8 V	{ -1 }	(A00+3)	[0000]	B	12	30
+Vlan	N	1531	Kolrado	X422000-A	 	Di He Po 		010	Wild	M0 V	{ -1 }	(700+1)	[0000]	B	9	7
+Vlan	N	1533	Samotk	X100000-F	 	Di Va 		001	Wild	M1 V M8 V	{ -1 }	(700+1)	[0000]	B	8	7
+Vlan	N	1534	Senkon	X510000-9	 	Di 		023	Wild	G6 V M3 V	{ -2 }	(800+1)	[0000]	B	9	8
+Vlan	N	1535	Malapaan	X426000-A	 	Di Pi 		020	Wild	K0 V	{ -1 }	(C00-3)	[0000]	BD	9	-36
+Vlan	N	1536	Pamiimkhi	X000000-D	 	As Va Di 		020	Wild	M0 V	{ -1 }	(800+1)	[0000]	B	14	8
+Vlan	N	1539	Zarurza	X95A577-0	 	Ni Wa 		212	Wild	F6 V M1 V G6 V	{ -3 }	(742-2)	[6211]	B	9	-112
+Vlan	N	1540	Limed	X430000-B	 	De Di Na Po 		013	Wild	M2 V	{ -1 }	(C00+1)	[0000]	B	11	12
+Vlan	B	1604	Gamgilebo	X000000-B	 	As Va Di Na Pi 		012	Wild	F4 IV M1 V M1 V	{ -1 }	(C00-3)	[0000]	BD	11	-36
+Vlan	B	1606	Dannar	X200000-A	 	Di Na Va 		020	Wild	F6 V M3 V	{ -1 }	(A00-3)	[0000]	B	15	-30
+Vlan	B	1608	Riinel	X746000-4	 	Di 		001	Wild	M3 V	{ -3 }	(800-1)	[0000]	B	11	-8
+Vlan	B	1609	Sakkuum	X310000-A	 	Di Na Pi 		001	Wild	M1 V	{ -1 }	(A00+1)	[0000]	BD	10	10
+Vlan	F	1612	Ersii	X561000-5	 	Di 		010	Wild	F6 V	{ -3 }	(600+1)	[0000]	B	12	6
+Vlan	F	1619	Midku	X764000-2	 	Di 		010	Wild	M3 V	{ -3 }	(700+1)	[0000]	B	10	7
+Vlan	J	1623	Etsur	X410000-A	 	Di 		020	Wild	M4 III K3 V	{ -1 }	(900+2)	[0000]	B	7	18
+Vlan	J	1624	Zushar	X631000-A	 	Di Na Po 		011	Wild	K9 V M2 V	{ -1 }	(C00-4)	[0000]	B	14	-48
+Vlan	J	1625	Bashimus	X542000-4	 	Di He Po 		020	Wild	M4 V	{ -3 }	(700+1)	[0000]	B	12	7
+Vlan	J	1626	Lalazim	X8C4000-9	 	Di Fl 		010	Wild	M1 V	{ -2 }	(700+2)	[0000]	B	10	14
+Vlan	J	1628	Akumid	X867000-3	 	Di Ga 		023	Wild	K0 V	{ -3 }	(600+2)	[0000]	B	14	12
+Vlan	J	1630	Kanoka	X7B2000-8	 	Di Fl He Px 		003	Wild	M2 V	{ -3 }	(A00+1)	[0000]	B	12	10
+Vlan	N	1632	Imdur	X540000-7	 	De He Di Po 		010	Wild	M1 V	{ -3 }	(300-1)	[0000]	B	8	-3
+Vlan	N	1633	Darkishar	X420000-D	 	De He Di Po 		010	Wild	K0 V M3 V	{ -1 }	(800+1)	[0000]	B	12	8
+Vlan	N	1634	Isuugi	X756533-0	 	Ag Ga Ni 		113	Wild	G0 V G6 V	{ -2 }	(744+1)	[4381]	BC	12	112
+Vlan	N	1637	Preserve	X551000-6	 	Di Po 		001	Wild	M1 V	{ -3 }	(400-2)	[0000]	B	11	-8
+Vlan	N	1638	Twana	E553445-5	 	Ni Po 		320	Wild	G8 V M8 V M2 V	{ -3 }	(730+1)	[4152]	B	6	21
+Vlan	C	1701	Taksarrgh	X624000-A	 	Di Px rg4 		010	Wild	M1 V	{ -1 }	(900-2)	[0000]	B	8	-18
+Vlan	C	1703	Dathsuts	X310000-A	 	Di rg3 		001	Wild	F7 V M0 V	{ -1 }	(500-4)	[0000]	B	8	-20
+Vlan	C	1704	Rronaetuts	X424000-7	 	Di rg6 		020	Wild	M1 V	{ -3 }	(300+1)	[0000]	B	10	3
+Vlan	C	1705	Ugarun	X7C2000-9	 	Di Fl He 		002	Wild	G8 V	{ -2 }	(B00+4)	[0000]	B	7	44
+Vlan	C	1708	Zelaklaka	X7B2000-B	 	Di Fl He 		001	Wild	M2 V M2 V	{ -1 }	(600+2)	[0000]	B	8	12
+Vlan	C	1709	Zigaadig	D541000-7	 	Di He Po 		023	Wild	G9 V K6 V	{ -3 }	(500+2)	[0000]	B	9	10
+Vlan	C	1710	Tollori	D88459B-3	 	Ag Pr Ni 		101	Wild	M3 V	{ -2 }	(744+3)	[4333]	BcC	7	336
+Vlan	G	1716	Enaa	X300000-B	 	Di Na Pi Va 		002	Wild	M2 V	{ -1 }	(C00-3)	[0000]	BD	9	-36
+Vlan	G	1717	Vland	X9679CC-1	 	Hi Pr [Vilani] 		410	Wild	F8 V	{ -1 }	(C8B+1)	[5811]	BcE	7	1056
+Vlan	G	1718	Kirma	X797000-A	 	Di 		025	Wild	G8 V K2 V	{ -1 }	(A00+2)	[0000]	B	11	20
+Vlan	G	1719	Sazisi	X586746-0	 	Ag Ri 		403	Wild	M0 V M2 V	{ 0 }	(969-4)	[8711]	BC	7	-1944
+Vlan	K	1722	Asanik	X554000-6	 	Di 		004	Wild	G4 V G6 V	{ -3 }	(500-3)	[0000]	B	16	-15
+Vlan	K	1725	Kalimgar	X799000-5	 	Di 		024	Wild	K8 V	{ -3 }	(800+2)	[0000]	B	13	16
+Vlan	K	1726	Gunavarum	X553576-1	 	Ni Po 		104	Wild	K0 V K1 V	{ -3 }	(743+3)	[6261]	B	14	252
+Vlan	K	1728	Ashok	X698000-6	 	Di 		020	Wild	G0 V	{ -3 }	(300-4)	[0000]	B	15	-12
+Vlan	K	1729	Kargem	X310000-9	 	Di Na 		020	Wild	G8 V M1 V	{ -2 }	(A00+1)	[0000]	B	5	10
+Vlan	K	1730	Lurkha	X674000-4	 	An Di Pi 		020	Wild	F7 V	{ -3 }	(A00+1)	[0000]	BD	9	10
+Vlan	O	1732	Nikham	X89A000-6	 	Di Wa 		010	Wild	M3 V	{ -3 }	(600-1)	[0000]	B	11	-6
+Vlan	O	1734	Miku	X8C3000-E	 	Di Fl 		004	Wild	M1 V	{ -1 }	(B00-1)	[0000]	B	8	-11
+Vlan	O	1735	Zhinutar	X312000-F	 	Di Ic 		004	Wild	G6 V M0 V	{ -1 }	(B00+1)	[0000]	B	9	11
+Vlan	O	1736	Ake	X528000-A	 	Di 		001	Wild	A9 V M1 V	{ -1 }	(700+1)	[0000]	B	12	7
+Vlan	O	1740	Glanidarn	X435000-A	 	Di 		023	Wild	M2 V	{ -1 }	(G00+1)	[0000]	B	11	16
+Vlan	C	1801	Newcastle	E5677B8-4	 	Ag Ri 		402	Wild	M2 V	{ 0 }	(962+1)	[8793]	BC	8	108
+Vlan	C	1802	Zannokh	D545000-7	 	Di 		020	Wild	G8 V	{ -3 }	(400-4)	[0000]	B	13	-16
+Vlan	C	1803	Ronni	E645000-7	 	(Ronnin) Di 		022	Wild	G7 V	{ -3 }	(700+2)	[0000]	B	9	14
+Vlan	C	1804	Kashiin	D540000-7	 	De He Di Po 		020	Wild	M2 V M8 V	{ -3 }	(A00+3)	[0000]	B	12	30
+Vlan	C	1807	Ranilson	X999000-4	 	Di 		001	Wild	G5 V K1 V	{ -3 }	(600+2)	[0000]	B	10	12
+Vlan	C	1810	Eshu	E560000-5	S	De Di 		022	Wild	K3 V	{ -3 }	(300+1)	[0000]	B	9	3
+Vlan	G	1811	Anaam	X424000-B	 	Di Pi 		010	Wild	G1 V	{ -1 }	(A00-3)	[0000]	BD	11	-30
+Vlan	G	1813	Khusher	E646779-4	 	Ag Pi 		422	Wild	G5 V G9 V	{ -1 }	(964+5)	[A6A5]	BCD	11	1080
+Vlan	G	1816	Shinla	E560000-7	 	De Di 		034	Wild	K2 V M9 V	{ -3 }	(A00+4)	[0000]	B	16	40
+Vlan	G	1817	Tauri	X430000-F	 	De Di Na Po 		020	Wild	K3 V	{ -1 }	(D00+4)	[0000]	B	7	52
+Vlan	G	1819	Dusu	X9E4000-A	 	Di 		020	Wild	F3 V	{ -1 }	(800-3)	[0000]	B	6	-24
+Vlan	G	1820	Kha	B86A641-9	 	Ni Ri Wa 		424	Wild	K6 V	{ 1 }	(E53+2)	[673B]	BC	11	420
+Vlan	K	1821	Iikhok	X434000-D	 	Di 		024	Wild	M2 V	{ -1 }	(C00-2)	[0000]	B	16	-24
+Vlan	K	1822	Kasear	X547000-4	 	Di 		020	Wild	G5 V M2 V	{ -3 }	(B00-5)	[0000]	B	11	-55
+Vlan	K	1825	Karfir	X753000-F	 	Di Po 		023	Wild	K4 V	{ -1 }	(H00-2)	[0000]	B	12	-34
+Vlan	K	1830	Sindal	X9B8000-A	 	Di Fl 		001	Wild	G6 V M3 V	{ -1 }	(600-3)	[0000]	B	13	-18
+Vlan	O	1831	Mekhe	E546000-7	 	Di 		025	Wild	K3 V M1 V	{ -3 }	(700+1)	[0000]	B	11	7
+Vlan	O	1833	Shadi	X597000-6	 	Di 		001	Wild	G6 V M3 V	{ -3 }	(600-1)	[0000]	B	11	-6
+Vlan	O	1839	Kordanor	X778000-6	 	Di Pi 		003	Wild	M3 V	{ -3 }	(900+4)	[0000]	BD	16	36
+Vlan	C	1901	Ghurrllekh	X56048A-1	 	De Ni 		220	Wild	M3 V	{ -3 }	(730+1)	[5121]	B	7	21
+Vlan	C	1903	Gemid	X423000-E	 	Di Na In Po 		024	Wild	K0 V	{ 0 }	(H00+1)	[0000]	BE	10	17
+Vlan	C	1904	Daama	X576000-4	 	Di 		001	Wild	K4 V M2 V	{ -3 }	(700-2)	[0000]	B	8	-14
+Vlan	C	1906	Envar	X9C5000-9	 	Di Fl 		001	Wild	M2 V	{ -2 }	(600+5)	[0000]	B	8	30
+Vlan	C	1907	Kakkin	X423000-C	 	Di Po 		002	Wild	G8 V	{ -1 }	(700+3)	[0000]	B	9	21
+Vlan	C	1909	Nashazi	X300000-F	 	Di Va 		020	Wild	M2 III F7 IV	{ -1 }	(600+1)	[0000]	B	8	6
+Vlan	G	1915	Giinam	X565000-3	 	Di 		004	Wild	M3 V	{ -3 }	(500+1)	[0000]	B	14	5
+Vlan	G	1916	Kipii	X430000-D	 	De Di Po 		002	Wild	M3 V	{ -1 }	(600+4)	[0000]	B	8	24
+Vlan	G	1918	Kusheggi	X5967AA-0	 	Ag Pi 		220	Wild	F8 V	{ -1 }	(964+5)	[7691]	BCD	7	1080
+Vlan	G	1919	Khula	X575000-3	 	(Khulans) Di 		010	Wild	M0 V	{ -3 }	(C00+2)	[0000]	B	10	24
+Vlan	G	1920	Inkha	X797000-1	 	Di 		010	Wild	M0 V M4 V	{ -3 }	(600-5)	[0000]	B	9	-30
+Vlan	K	1923	Sagida	X423000-C	 	Di Na In Po 		002	Wild	M0 V M0 V	{ 0 }	(D00+3)	[0000]	BE	14	39
+Vlan	K	1928	Nimmer	X420000-D	 	De He Di Po 		024	Wild	G4 V	{ -1 }	(900-4)	[0000]	B	9	-36
+Vlan	K	1929	Sakhem	X404000-D	 	Di Ic Va 		010	Wild	M0 V	{ -1 }	(700-2)	[0000]	B	7	-14
+Vlan	K	1930	Ziirkago	X878000-2	 	Di 		013	Wild	M0 V	{ -3 }	(800-1)	[0000]	B	7	-8
+Vlan	O	1931	Shorlon	X430000-9	 	De Di Po 		002	Wild	M1 V	{ -2 }	(900+1)	[0000]	B	9	9
+Vlan	O	1932	Sharan	E765000-5	 	Di Ga 		024	Wild	G8 V	{ -3 }	(500-3)	[0000]	B	9	-15
+Vlan	O	1933	Kaskar	E673000-7	 	Di 		001	Wild	K6 V M0 V	{ -3 }	(800+4)	[0000]	B	12	32
+Vlan	O	1936	Ekhin	X400000-7	 	Di Na Va 		001	Wild	M0 III M7 V	{ -3 }	(800+1)	[0000]	B	8	8
+Vlan	O	1937	Nulisud	X8A3000-D	 	Di Fl 		021	Wild	K3 V	{ -1 }	(B00-4)	[0000]	B	15	-44
+Vlan	C	2005	Gadushan	X536000-A	 	Di 		010	Wild	M4 V M5 V	{ -1 }	(700+3)	[0000]	B	10	21
+Vlan	C	2006	Niitomok	E552000-4	 	Di Po 		001	Wild	M2 V	{ -3 }	(700+2)	[0000]	B	9	14
+Vlan	C	2007	Kaaka	E898677-4	 	Ag An Ni 		501	Wild	F7 V M8 V	{ -2 }	(852+1)	[5435]	BC	7	80
+Vlan	C	2008	Morimur	X550544-1	 	De Ni Po 		213	Wild	M0 V	{ -3 }	(C41+2)	[3294]	B	14	96
+Vlan	G	2013	Isbudin	X9C5000-B	 	Di Fl In 		023	Wild	F6 V M7 V	{ 0 }	(G00+3)	[0000]	BE	8	48
+Vlan	G	2016	Zurrian	X563000-6	 	Di 		002	Wild	M1 V M1 V	{ -3 }	(700+4)	[0000]	B	10	28
+Vlan	G	2017	Tahaver	X769000-1	 	(Tahavi) Di 		010	Wild	M2 V	{ -3 }	(C00+3)	[0000]	B	13	36
+Vlan	G	2019	Lobode	X5546AB-0	 	Ag Ni 		310	Wild	M2 V M3 V	{ -2 }	(853-3)	[4453]	BC	8	-360
+Vlan	G	2020	Shushguum	X522000-B	 	Di He Px Po 		024	Wild	G6 V	{ -1 }	(D00+1)	[0000]	B	13	13
+Vlan	K	2022	Emrim	X100000-9	 	Di Va 		001	Wild	M0 V	{ -2 }	(700+2)	[0000]	B	14	14
+Vlan	K	2023	Zhattar	X88A000-3	 	Di Wa 		010	Wild	M3 V	{ -3 }	(400-3)	[0000]	B	9	-12
+Vlan	K	2027	Gaarluzargu	D775000-8	 	Di Pi 		020	Wild	M0 V M1 V	{ -3 }	(B00-2)	[0000]	BD	7	-22
+Vlan	K	2029	Gabik	X512000-D	 	Di Ic 		033	Wild	F2 V	{ -1 }	(900+1)	[0000]	B	11	9
+Vlan	K	2030	Duusan	X9CA000-D	 	Di Fl 		022	Wild	M3 V	{ -1 }	(C00-1)	[0000]	B	13	-12
+Vlan	O	2032	Vuldaan	X522000-9	 	Di He Na Pi Po 		023	Wild	F8 V	{ -2 }	(E00-2)	[0000]	BD	12	-28
+Vlan	O	2035	Hykluitt	E540000-7	 	De He Di Po 		004	Wild	M1 V	{ -3 }	(B00+1)	[0000]	B	9	11
+Vlan	O	2036	Diinagar	X560445-1	 	De Ni 		110	Wild	K0 V M2 V	{ -3 }	(633-4)	[1111]	B	14	-216
+Vlan	O	2039	Miizam	X573000-3	 	Di 		010	Wild	M0 V M2 V	{ -3 }	(700-1)	[0000]	B	5	-7
+Vlan	C	2101	Miiko Belt	X000000-9	 	As Va Di 		020	Wild	F1 V	{ -2 }	(600-2)	[0000]	B	7	-12
+Vlan	C	2103	Hteh Hut	X000000-E	 	As Va Di 		011	Wild	K7 V M5 V	{ -1 }	(900-2)	[0000]	B	8	-18
+Vlan	C	2105	Ninnigam	X9D5000-9	 	Di 		010	Wild	M1 V	{ -2 }	(A00+3)	[0000]	B	13	30
+Vlan	C	2106	Hellvaplace	XAB5000-8	 	Di Fl 		001	Wild	G2 V M2 V	{ -3 }	(700+1)	[0000]	B	10	7
+Vlan	C	2107	Sadniben	E7788AD-0	 	Pa Pi Ph 		104	Wild	M1 V	{ -2 }	(B75+1)	[A651]	BcDe	15	385
+Vlan	G	2111	Flire	X779000-5	 	Di Pi 		023	Wild	K8 V	{ -3 }	(C00-4)	[0000]	BD	9	-48
+Vlan	G	2113	Ishala	X866784-0	 	Ag Ri Ga 		204	Wild	M1 V	{ 0 }	(967+3)	[6741]	BC	13	1134
+Vlan	G	2115	Zedu Gisla	X533000-6	 	Di Px Po 		001	Wild	M1 V M2 V	{ -3 }	(700-2)	[0000]	B	6	-14
+Vlan	G	2117	Uri	X313000-E	 	Di Ic Na 		020	Wild	F9 V	{ -1 }	(A00-1)	[0000]	B	12	-10
+Vlan	G	2120	Pyam	X799000-1	 	Di 		020	Wild	M1 V	{ -3 }	(500+2)	[0000]	B	15	10
+Vlan	K	2122	Lekkon	X540585-1	 	De He Ni Po 		202	Wild	K8 V M1 V	{ -3 }	(741-1)	[6221]	B	12	-28
+Vlan	K	2123	Blikig	E544000-7	 	Di 		001	Wild	K7 V M9 V	{ -3 }	(800+1)	[0000]	B	14	8
+Vlan	K	2124	Razzun	C572744-5	 	He Pi 		510	Wild	M2 V M2 V	{ -1 }	(966-5)	[3647]	BD	7	-1620
+Vlan	K	2125	Shib	X799000-7	 	Di 		010	Wild	K2 V M2 V	{ -3 }	(800+2)	[0000]	B	7	16
+Vlan	K	2126	Dekhuun	E578000-6	 	Di 		020	Wild	M3 V	{ -3 }	(900-3)	[0000]	B	13	-27
+Vlan	K	2129	Gunnar	X000000-9	 	As Va Di Na Pi 		010	Wild	M2 V	{ -2 }	(A00-2)	[0000]	BD	10	-20
+Vlan	O	2132	Imshiig	X574000-5	 	Di 		020	Wild	M3 V	{ -3 }	(700+2)	[0000]	B	12	14
+Vlan	O	2133	Iddun	X583000-7	 	An Di 		020	Wild	F7 V	{ -3 }	(400+1)	[0000]	B	10	4
+Vlan	O	2134	Zemal	X699000-6	 	Di 		010	Wild	M3 V M5 V	{ -3 }	(300-3)	[0000]	B	8	-9
+Vlan	O	2137	Shaka	X410000-A	 	Di 		012	Wild	F0 V	{ -1 }	(700-4)	[0000]	B	9	-28
+Vlan	O	2138	Istuary	X582000-4	 	Di 		022	Wild	M1 V	{ -3 }	(C00+1)	[0000]	B	14	12
+Vlan	O	2139	Zolo	X628000-9	 	Di 		001	Wild	M1 V	{ -2 }	(900-2)	[0000]	B	12	-18
+Vlan	C	2203	Angvae	D65768A-4	 	Ag Ga Ni 		420	Wild	M2 V	{ -2 }	(852+4)	[8448]	BC	12	320
+Vlan	C	2205	Anarsi	X747000-7	 	Di 		020	Wild	G3 V M3 V	{ -3 }	(B00-3)	[0000]	B	15	-33
+Vlan	C	2208	Kuzashamir	X546000-7	 	Di Pi 		020	Wild	M3 V	{ -3 }	(A00+1)	[0000]	BD	10	10
+Vlan	C	2210	Deglaraarbiis	X737000-7	 	Di 		012	Wild	G4 V K2 V K4 V	{ -3 }	(900-5)	[0000]	B	6	-45
+Vlan	G	2211	Irila	D568000-7	 	Di 		023	Wild	M1 V	{ -3 }	(600+1)	[0000]	B	8	6
+Vlan	G	2216	Ashbakha	X672000-5	 	Di He 		001	Wild	K9 V M2 V	{ -3 }	(700-1)	[0000]	B	14	-7
+Vlan	K	2221	Karlum	X57A000-0	 	Ba Wa 		020	Wild	K2 V K5 V	{ -3 }	(700+2)	[0000]	B	10	14
+Vlan	K	2222	Markassar	X778000-5	 	Di Pi 		023	Wild	G2 V G4 V	{ -3 }	(A00+1)	[0000]	BD	12	10
+Vlan	K	2223	Gurzish	X76A000-2	 	Di Wa 		001	Wild	M2 V M8 V	{ -3 }	(500+1)	[0000]	B	12	5
+Vlan	K	2225	Iamone	X310000-E	 	Di Na In 		024	Wild	K4 V	{ 0 }	(J00+1)	[0000]	BE	11	18
+Vlan	K	2227	Zikurag	X536000-E	 	Di 		024	Wild	F8 V	{ -1 }	(D00+4)	[0000]	B	15	52
+Vlan	K	2229	Munakhiin	X202000-8	 	Di Ic Va Na Pi 		010	Wild	K5 V	{ -3 }	(A00+2)	[0000]	BD	7	20
+Vlan	O	2232	Gikarlum	D999000-4	 	Di 		010	Wild	G2 V M3 V	{ -3 }	(700+1)	[0000]	B	14	7
+Vlan	O	2233	Segikin	X768000-3	 	Di 		001	Wild	M3 V	{ -3 }	(C00+2)	[0000]	B	11	24
+Vlan	O	2235	Rishin	X310000-9	 	Di 		024	Wild	G0 V	{ -2 }	(D00-4)	[0000]	B	14	-52
+Vlan	O	2236	Gaarid	X543000-4	 	Di Pi Po 		013	Wild	K7 V M2 V	{ -3 }	(900-5)	[0000]	BD	10	-45
+Vlan	O	2238	Khugan	X786000-4	 	Di Ga 		004	Wild	M3 V	{ -3 }	(600+3)	[0000]	B	13	18
+Vlan	O	2240	Bakor	C878787-4	 	Ag Pi 		410	Wild	K0 V M3 V	{ 0 }	(A68+1)	[B791]	BCD	14	480
+Vlan	C	2301	Knaeghzoka	X431000-B	 	Di Na Po 		001	Wild	M1 V M1 V	{ -1 }	(A00+2)	[0000]	B	7	20
+Vlan	C	2306	Nelak	D64A8DD-8	 	Ph Pi Wa 		110	Wild	M0 V	{ -2 }	(974-2)	[868A]	BDe	9	-504
+Vlan	C	2308	Bolziin	X310000-D	 	Di 		014	Wild	M3 V	{ -1 }	(900-4)	[0000]	B	14	-36
+Vlan	C	2309	Moribur	E550674-4	 	De Ni Po 		520	Wild	M2 V	{ -3 }	(852-5)	[2392]	B	13	-400
+Vlan	C	2310	Barshun	X510000-B	 	Di Na 		020	Wild	F8 V M8 V	{ -1 }	(A00+4)	[0000]	B	12	40
+Vlan	G	2314	Dangasha	E550678-4	 	De Ni Po 		401	Wild	M3 V	{ -3 }	(850-5)	[A364]	B	6	-200
+Vlan	G	2316	Kagush	X736000-A	 	Di 		024	Wild	K6 V	{ -1 }	(B00-4)	[0000]	B	9	-44
+Vlan	G	2319	Shudi	B766952-7	 	Ga Hi Pr 		225	Wild	G2 V G6 V	{ 1 }	(B8A+3)	[AA87]	BcE	12	2640
+Vlan	G	2320	Gidapisek	X200000-C	 	Di Na Va 		010	Wild	K7 V	{ -1 }	(900-2)	[0000]	B	11	-18
+Vlan	K	2321	Gikarlum	X432000-A	 	Di Px Po 		033	Wild	M3 V	{ -1 }	(C00+1)	[0000]	B	9	12
+Vlan	K	2322	Hefas	E775855-3	 	Pa Pi Ph 		315	Wild	M2 V	{ -2 }	(B71+3)	[8662]	BcDe	9	231
+Vlan	K	2323	Zruub	X553000-3	 	Di Po 		003	Wild	M1 V	{ -3 }	(700+2)	[0000]	B	15	14
+Vlan	K	2324	Firdakh	X432000-A	 	Di Po 		020	Wild	K9 V	{ -1 }	(800+1)	[0000]	B	14	8
+Vlan	K	2325	Derkhuun	X310000-9	 	Di 		005	Wild	F1 V K5 V	{ -2 }	(900-2)	[0000]	B	12	-18
+Vlan	K	2328	Fharnas	X8D8000-B	 	Di 		001	Wild	M0 V	{ -1 }	(D00-2)	[0000]	B	9	-26
+Vlan	K	2329	Tobrun	X400000-E	 	Di Va 		010	Wild	F8 V M9 V	{ -1 }	(800+4)	[0000]	B	14	32
+Vlan	K	2330	Umzgaa	X000000-C	 	As Va Di 		010	Wild	M3 V	{ -1 }	(600-1)	[0000]	B	14	-6
+Vlan	O	2331	Aaluggidira	X79A000-6	 	Di Wa 		003	Wild	F3 V	{ -3 }	(500-2)	[0000]	B	11	-10
+Vlan	O	2332	Zaakkusham	X583447-1	 	Ni 		301	Wild	M1 V M8 V	{ -3 }	(730-1)	[3135]	B	12	-21
+Vlan	O	2335	Miiliinlur	X422000-C	 	Di He Na Po 		024	Wild	G7 V M4 V	{ -1 }	(E00+3)	[0000]	B	13	42
+Vlan	O	2336	Kunni	X784572-1	 	Ag Pr Ni 		101	Wild	M0 V M2 V	{ -2 }	(743+1)	[2322]	BcC	5	84
+Vlan	O	2337	Idi	C561447-7	 	Ni 		112	Wild	G8 V M6 V	{ -2 }	(633-1)	[9247]	B	10	-54
+Vlan	O	2340	Orguk	X545000-6	 	Di 		020	Wild	M3 V	{ -3 }	(800-1)	[0000]	B	7	-8
+Vlan	C	2402	Kfoerudzo	D559000-8	 	Di 		021	Wild	M1 V	{ -3 }	(800+1)	[0000]	B	14	8
+Vlan	C	2406	Derekam	D546000-5	 	Di In 		020	Wild	K6 V	{ -2 }	(A00+1)	[0000]	BE	10	10
+Vlan	C	2407	Gida	X200000-9	 	Di Va 		010	Wild	M3 V	{ -2 }	(500-1)	[0000]	B	10	-5
+Vlan	C	2408	Shabii	D854626-4	 	Ag Ni 		101	Wild	G9 V M1 V	{ -2 }	(854-2)	[1495]	BC	9	-320
+Vlan	C	2409	Sardiika	X544000-1	 	Di 		010	Wild	F9 V	{ -3 }	(800-2)	[0000]	B	6	-16
+Vlan	C	2410	Karamursel	X438000-A	 	Di 		020	Wild	K6 V	{ -1 }	(600-1)	[0000]	B	15	-6
+Vlan	G	2412	Ansin	X563000-8	 	Di 		020	Wild	K2 V K2 V	{ -3 }	(E00+3)	[0000]	B	8	42
+Vlan	G	2416	Liisurkhish	X562745-0	 	Ri 		310	Wild	K0 V M2 V	{ -1 }	(96A+2)	[5651]	BC	14	1080
+Vlan	G	2419	Nasha	X200000-9	 	Di Va 		010	Wild	M0 V M2 V	{ -2 }	(500+1)	[0000]	B	11	5
+Vlan	K	2425	Martle	D540788-4	S	De He Pi Po 		224	Wild	M0 V	{ -2 }	(B66+2)	[9554]	BD	10	792
+Vlan	K	2426	Khanaddar	X000000-F	 	As Va Di 		012	Wild	K6 V M6 V	{ -1 }	(800-4)	[0000]	B	12	-32
+Vlan	K	2429	Irgar	X420000-8	 	De He Di Po 		012	Wild	M3 V	{ -3 }	(900-3)	[0000]	B	12	-27
+Vlan	O	2431	Dusekhip	X633000-D	 	Di Na Po 		022	Wild	K7 V	{ -1 }	(F00+4)	[0000]	B	10	60
+Vlan	O	2432	Korm	X987899-0	 	Pa Ri Ph 		203	Wild	M0 V	{ -1 }	(A75+1)	[4721]	BcCe	13	350
+Vlan	O	2433	Ashuugakher	X310000-8	 	Di Na Pi 		020	Wild	G6 V	{ -3 }	(C00-2)	[0000]	BD	8	-24
+Vlan	O	2435	Li	X423000-7	 	Di Na Pi Po 		020	Wild	M1 V	{ -3 }	(A00+1)	[0000]	BD	9	10
+Vlan	O	2438	Shakir	X626000-F	 	Di 		023	Wild	K6 V	{ -1 }	(900+3)	[0000]	B	12	27
+Vlan	O	2440	Shuurdiikha	X652530-1	 	Ni Po 		210	Wild	F8 V M5 V	{ -3 }	(742-1)	[2261]	B	11	-56
+Vlan	D	2501	Khugan	X623000-A	 	Di Po 		023	Wild	M0 V M1 V	{ -1 }	(C00-1)	[0000]	B	11	-12
+Vlan	D	2502	Rhodes	X413000-C	 	Di Ic 		002	Wild	F0 III M5 V	{ -1 }	(900+3)	[0000]	B	10	27
+Vlan	D	2507	Shunisar	X556000-7	 	Di 		001	Wild	M3 V M6 V	{ -3 }	(700+1)	[0000]	B	8	7
+Vlan	D	2508	Nii	X425000-7	 	Di 		010	Wild	M1 V	{ -3 }	(700-1)	[0000]	B	14	-7
+Vlan	H	2511	Iigshuren	X66A000-4	 	Di Wa 		023	Wild	G5 V	{ -3 }	(900+2)	[0000]	B	11	18
+Vlan	H	2512	Imziinune	X627000-C	 	Di 		020	Wild	M1 V	{ -1 }	(700-3)	[0000]	B	9	-21
+Vlan	H	2513	Shiigus	X571654-0	 	He Ni 		501	Wild	F5 V M9 V	{ -3 }	(953+1)	[5321]	B	14	135
+Vlan	H	2515	Gookir	X9D7000-A	 	Di 		022	Wild	K8 V	{ -1 }	(E00-2)	[0000]	B	10	-28
+Vlan	H	2518	Khe	X433000-8	 	Di Po 		001	Wild	M2 V	{ -3 }	(700+2)	[0000]	B	14	14
+Vlan	H	2519	Muukakam	X523000-A	 	Di Na Po 		011	Wild	M1 V	{ -1 }	(A00-2)	[0000]	B	7	-20
+Vlan	H	2520	Ma	E585000-7	 	Di 		010	Wild	M0 V M0 V	{ -3 }	(400-1)	[0000]	B	13	-4
+Vlan	L	2524	Kakhashedir	X560000-4	 	De Di 		002	Wild	M2 V	{ -3 }	(500+2)	[0000]	B	12	10
+Vlan	L	2526	Daapuken	X564000-6	 	Di 		010	Wild	G8 V M1 V	{ -3 }	(400+3)	[0000]	B	12	12
+Vlan	L	2527	Kaple	X421000-9	 	Di He Na Px Po 		011	Wild	K9 V	{ -2 }	(A00+2)	[0000]	B	11	20
+Vlan	L	2528	Shuurnnish	X202000-B	 	Di Ic Va 		001	Wild	M1 V	{ -1 }	(500+1)	[0000]	B	12	5
+Vlan	L	2530	Thaggesh	X66689A-0	 	(Thaggeshi) Ga Pa Ri Ph 		301	Wild	F6 V M7 V M6 V	{ -1 }	(A77+1)	[8752]	BcCe	14	490
+Vlan	P	2531	Kiddinu	X555000-6	 	Di 		034	Wild	M0 V	{ -3 }	(700+2)	[0000]	B	11	14
+Vlan	P	2533	Aki	X697000-3	 	Di 		010	Wild	F5 V M0 V	{ -3 }	(C00-2)	[0000]	B	13	-24
+Vlan	P	2534	Zerapii	X411000-A	 	Di Ic Na Pi 		022	Wild	M1 V	{ -1 }	(D00+1)	[0000]	BD	12	13
+Vlan	P	2536	Linissa	X200000-8	 	Di Na Pi Va 		010	Wild	G9 V	{ -3 }	(A00+1)	[0000]	BD	12	10
+Vlan	P	2539	Nunaat	X624000-C	 	Di 		024	Wild	M0 V	{ -1 }	(A00+4)	[0000]	B	9	40
+Vlan	P	2540	Kalaalit	X769872-1	 	Ph Ri 		210	Wild	M3 V	{ -1 }	(A78-2)	[A753]	BCe	6	-1120
+Vlan	D	2602	Daztsoun	E556000-6	 	Di 		011	Wild	F7 V	{ -3 }	(500+2)	[0000]	B	11	10
+Vlan	D	2603	Kaengtsaelzon	X100000-A	 	Di Na Pi Va rg8 		001	Wild	M3 V M3 V	{ -1 }	(B00+1)	[0000]	BD	8	11
+Vlan	D	2604	Fongknoe	X300000-8	 	Di Na Pi Va 		001	Wild	M0 V	{ -3 }	(B00-3)	[0000]	BD	10	-33
+Vlan	D	2605	Raltaedz	X430000-D	 	De Di Po 		004	Wild	M1 V	{ -1 }	(800+1)	[0000]	B	15	8
+Vlan	D	2610	Malokh	X571000-6	 	Di He 		001	Wild	F8 V M2 V	{ -3 }	(800-5)	[0000]	B	10	-40
+Vlan	H	2611	Kimii	X403000-8	 	Di Ic Va Na Pi 		001	Wild	K2 V M3 V	{ -3 }	(A00+3)	[0000]	BD	9	30
+Vlan	H	2612	Gaska Khiin	E544000-5	 	Di 		023	Wild	M1 V	{ -3 }	(700-1)	[0000]	B	12	-7
+Vlan	H	2613	Kusu	X541000-6	 	Di He Po 		002	Wild	K3 IV	{ -3 }	(800-4)	[0000]	B	9	-32
+Vlan	H	2615	Malta	X000000-C	 	As Va Di 		011	Wild	K6 V M3 V	{ -1 }	(600-2)	[0000]	B	11	-12
+Vlan	H	2616	St. George	X7C5000-D	 	Di Fl In 		020	Wild	G5 IV	{ 0 }	(D00+1)	[0000]	BE	12	13
+Vlan	H	2618	Dudid	X510000-A	 	Di 		001	Wild	M0 V M0 V	{ -1 }	(800-1)	[0000]	B	8	-8
+Vlan	H	2620	Mennoral	D85878D-3	 	Ag 		221	Wild	K3 V	{ -1 }	(963+2)	[6614]	BC	10	324
+Vlan	L	2621	Malvar	E6837AA-4	 	Ri 		424	Wild	F8 V M3 V	{ -1 }	(962-1)	[8647]	BC	12	-108
+Vlan	L	2624	Shera	E683889-4	 	Ph Ri 		303	Wild	M1 V	{ -1 }	(A72+1)	[9741]	BCe	7	140
+Vlan	L	2627	Taluza	X594000-4	 	Di 		023	Wild	K6 V	{ -3 }	(700-3)	[0000]	B	13	-21
+Vlan	L	2628	Floranus	X8B3000-9	 	Di Fl 		001	Wild	M0 V M3 V	{ -2 }	(A00-2)	[0000]	B	14	-20
+Vlan	L	2629	Rikaan	X8D8000-7	 	Di 		010	Wild	M2 V	{ -3 }	(A00+5)	[0000]	B	9	50
+Vlan	P	2631	Kane	X789635-0	 	Ni Ri 		423	Wild	K9 V	{ -2 }	(C50+4)	[8464]	BC	10	240
+Vlan	P	2634	Wakarsat	X68A8BF-1	 	Ph Ri Wa 		314	Wild	M0 V	{ -1 }	(979+1)	[7711]	BCe	13	567
+Vlan	P	2636	Kakadan	X9C7000-F	 	Di Fl 		001	Wild	M2 V	{ -1 }	(700-1)	[0000]	B	8	-7
+Vlan	P	2637	Akon	X563546-1	 	Ni Pr 		203	Wild	K4 V M1 V	{ -3 }	(741+3)	[3254]	Bc	10	84
+Vlan	P	2640	Statia	X300000-D	 	Di Va 		010	Wild	M1 V	{ -1 }	(700+1)	[0000]	B	13	7
+Vlan	H	2713	Aanshi	XA8A558-0	 	Ni Oc Pr 		101	Wild	M3 V	{ -3 }	(C40+1)	[2245]	Bc	10	48
+Vlan	H	2716	Eriston	D69A000-3	 	Di Wa 		020	Wild	G7 V G8 V	{ -3 }	(300+1)	[0000]	B	14	3
+Vlan	L	2721	Nodden	X774000-5	 	Di 		001	Wild	G6 V M0 V	{ -3 }	(700+1)	[0000]	B	12	7
+Vlan	L	2723	Klidon	X76389B-0	 	Ph Ri 		510	Wild	K7 V	{ -1 }	(A75+1)	[6711]	BCe	4	350
+Vlan	L	2725	Duranus	X000000-C	 	As Va Di 		015	Wild	M1 V	{ -1 }	(B00+4)	[0000]	B	16	44
+Vlan	L	2728	Depot	X594000-1	 	Di 		021	Wild	K6 V	{ -3 }	(800-1)	[0000]	B	13	-8
+Vlan	P	2732	Dnak'kritz	X582738-0	 	Ri 		104	Wild	G0 V M2 V	{ -1 }	(966-1)	[A612]	BC	7	-324
+Vlan	P	2733	Jarmat	X310000-D	 	Di 		014	Wild	M0 V	{ -1 }	(800+2)	[0000]	B	9	16
+Vlan	P	2734	Rambant	X310000-C	 	Di 		004	Wild	F4 V K0 V	{ -1 }	(700-5)	[0000]	B	11	-35
+Vlan	P	2737	Kesali	X200000-E	 	Di Na In Va 		003	Wild	M3 V	{ 0 }	(E00-1)	[0000]	BE	6	-14
+Vlan	P	2738	Tepmaa	X410000-D	 	Di 		023	Wild	M0 V	{ -1 }	(900+4)	[0000]	B	12	36
+Vlan	P	2739	Sg'aa	XAB5000-D	 	Di Fl 		013	Wild	K6 V M4 V	{ -1 }	(E00+1)	[0000]	B	11	14
+Vlan	P	2740	P'ginzh	D554545-5	S	Ag Ni 		210	Wild	M2 V	{ -2 }	(744-3)	[5321]	BC	14	-336
+Vlan	D	2804	Ongvaturr	X98977A-0	 	Ri 		202	Wild	M3 V	{ -1 }	(968+4)	[5642]	BC	9	1728
+Vlan	D	2806	Paval	X581000-6	 	Di 		024	Wild	M3 V	{ -3 }	(400-3)	[0000]	B	15	-12
+Vlan	D	2808	Spinport	X575000-3	 	Di 		020	Wild	M2 V	{ -3 }	(C00+1)	[0000]	B	15	12
+Vlan	H	2812	Alkhaas	X997000-6	 	Di 		033	Wild	M1 V M2 V	{ -3 }	(800-4)	[0000]	B	9	-32
+Vlan	H	2815	Karmanidora	X310000-B	 	Di 		002	Wild	K4 V	{ -1 }	(700-1)	[0000]	B	9	-7
+Vlan	H	2816	Faranidon	D656586-2	 	Ag Ga Ni 		210	Wild	M0 V	{ -2 }	(B40+3)	[7373]	BC	12	132
+Vlan	H	2818	Tazaris	X9B4000-9	 	Di Fl Px 		002	Wild	M3 V	{ -2 }	(A00+1)	[0000]	B	12	10
+Vlan	H	2820	Anzalits	XA9A000-5	 	Di Oc 		034	Wild	M3 V M7 V	{ -3 }	(400+3)	[0000]	B	16	12
+Vlan	L	2823	Tektras	X536000-9	 	Di 		001	Wild	M2 V M3 V	{ -2 }	(800-2)	[0000]	B	9	-16
+Vlan	L	2824	Jana	X300000-C	 	Cy Di Na In Va 		023	Wild	G6 V	{ 0 }	(G00+2)	[0000]	BE	18	32
+Vlan	L	2825	Arron	X424000-9	 	An Di 		020	Wild	F3 V	{ -2 }	(600-2)	[0000]	B	9	-12
+Vlan	L	2826	Zafron	X575000-6	 	Di 		035	Wild	F4 V	{ -3 }	(600+1)	[0000]	B	11	6
+Vlan	L	2827	Hannipur	X100000-B	 	Di Na In Va 		001	Wild	F4 IV M2 V	{ 0 }	(C00-1)	[0000]	BE	11	-12
+Vlan	L	2829	Luukon	X577000-C	 	Di In 		001	Wild	K3 V M1 V	{ 0 }	(C00-1)	[0000]	BE	11	-12
+Vlan	L	2830	Lezaneraz	X547000-6	 	Di 		002	Wild	M2 V	{ -3 }	(600-3)	[0000]	B	7	-18
+Vlan	P	2831	Kiimzhal	X554543-1	 	Ag Ni 		201	Wild	M3 V M7 V	{ -2 }	(744-2)	[2341]	BC	8	-224
+Vlan	P	2832	Telkaa	X635000-A	 	Di 		021	Wild	K3 V M2 V K3 V	{ -1 }	(A00-1)	[0000]	B	10	-10
+Vlan	P	2836	Inushir	X989A78-0	 	Hi 		323	Wild	K0 V	{ -1 }	(C95+1)	[8922]	BE	17	540
+Vlan	P	2837	Piazza	D794000-4	 	Di 		022	Wild	K4 V M3 V	{ -3 }	(800+4)	[0000]	B	12	32
+Vlan	P	2839	Zombagu	X684755-0	 	Ag Ri An 		424	Wild	F7 V	{ 0 }	(966-1)	[6791]	BC	9	-324
+Vlan	D	2905	Zupilak	X553000-7	 	Di Po 		034	Wild	K8 V	{ -3 }	(500-2)	[0000]	B	10	-10
+Vlan	D	2907	Akkunat	X878000-4	 	Di 		001	Wild	K8 V M2 V	{ -3 }	(700+4)	[0000]	B	13	28
+Vlan	D	2909	Goobsfol	X544000-4	 	Di 		023	Wild	M2 V	{ -3 }	(400+1)	[0000]	B	9	4
+Vlan	H	2911	Naalkin	X555543-1	 	Ag Ni 		201	Wild	K3 V M3 V	{ -2 }	(740+4)	[9351]	BC	6	112
+Vlan	H	2912	Damakho	X998000-0	 	Ba 		023	Wild	M0 V	{ -3 }	(700+3)	[0000]	B	8	21
+Vlan	H	2914	Mimere	X9B6000-D	 	Di Fl In 		010	Wild	M1 V M2 V	{ 0 }	(C00+1)	[0000]	BE	12	12
+Vlan	H	2915	Lormiza	X435000-D	 	Di 		010	Wild	M0 V M6 V	{ -1 }	(900+1)	[0000]	B	12	9
+Vlan	H	2916	Iizmarna	X427000-B	 	Di 		020	Wild	M3 V	{ -1 }	(800+1)	[0000]	B	12	8
+Vlan	H	2918	Beroni	E563798-4	 	Ri 		301	Wild	M1 V M5 V	{ -1 }	(969-2)	[6625]	BC	10	-972
+Vlan	H	2919	Alanidon	X554000-5	 	Di 		020	Wild	M0 V M1 V	{ -3 }	(600-2)	[0000]	B	6	-12
+Vlan	H	2920	Sidenis	X310000-8	 	Di Na 		020	Wild	K8 V M1 V	{ -3 }	(A00-4)	[0000]	B	15	-40
+Vlan	L	2921	Iton	XAA7000-9	 	Di Fl 		001	Wild	M1 V	{ -2 }	(800-1)	[0000]	B	10	-8
+Vlan	L	2923	Zircon	E571000-7	 	Di He 		010	Wild	M0 V M6 V	{ -3 }	(300-5)	[0000]	B	7	-15
+Vlan	L	2925	Kaanpush	X430000-D	 	De Di Po 		020	Wild	M2 V	{ -1 }	(800+2)	[0000]	B	10	16
+Vlan	L	2926	Sanderson	X9C4000-D	 	Di Fl 		020	Wild	K9 V	{ -1 }	(A00-1)	[0000]	B	9	-10
+Vlan	P	2931	Icuspin	X200000-F	 	Di Na In Va 		020	Wild	M2 V	{ 0 }	(D00-3)	[0000]	BE	13	-39
+Vlan	P	2932	Zanski	X58557A-1	 	Ag Pr Ni 		121	Wild	M3 V	{ -2 }	(740-2)	[7371]	BcC	12	-56
+Vlan	P	2933	Kanat	X567000-2	 	Di 		013	Wild	M2 V	{ -3 }	(500+2)	[0000]	B	13	10
+Vlan	P	2934	Assazak	E590773-4	 	De He Pi 		201	Wild	M1 V	{ -2 }	(A63+2)	[3516]	BD	11	360
+Vlan	P	2936	Elafdt	X200000-8	 	Di Va 		001	Wild	G0 V K9 V M0 V	{ -3 }	(600+3)	[0000]	B	5	18
+Vlan	P	2938	Punnari	X737000-D	 	Di RsA 		001	Wild	M2 V M5 V	{ -1 }	(600+4)	[0000]	B	13	24
+Vlan	P	2939	Teralvar	E5855A8-5	 	Ag Pr Ni 		201	Wild	G3 V M8 V	{ -2 }	(740+1)	[4371]	BcC	7	28
+Vlan	D	3002	Ksuerrgh	X427000-8	 	Di Pi 		014	Wild	M1 V	{ -3 }	(F00-1)	[0000]	BD	16	-15
+Vlan	D	3003	Khughfudz	X999000-5	 	Di 		020	Wild	M2 V	{ -3 }	(700+2)	[0000]	B	12	14
+Vlan	D	3004	Shupin	X511000-B	 	Di Ic 		034	Wild	M1 V	{ -1 }	(C00+3)	[0000]	B	17	36
+Vlan	D	3006	Mukata	X310000-E	 	Di 		001	Wild	F0 V M3 V	{ -1 }	(700+1)	[0000]	B	6	7
+Vlan	D	3008	Shishaldin	X420000-9	 	De He Di Na Po 		003	Wild	M0 V	{ -2 }	(B00-4)	[0000]	B	12	-44
+Vlan	H	3011	Lourer	X594000-A	 	Di In 		010	Wild	M3 V M8 V	{ 0 }	(D00+1)	[0000]	BE	12	13
+Vlan	H	3014	Zaan	E557000-6	 	Di 		004	Wild	G5 V	{ -3 }	(600+4)	[0000]	B	7	24
+Vlan	H	3018	Sikal	E545000-7	 	Di 		010	Wild	M1 V M1 V	{ -3 }	(800+2)	[0000]	B	11	16
+Vlan	H	3019	Braldini	E897776-4	 	Ag Pi 		320	Wild	M2 V M6 V	{ -1 }	(963+1)	[B627]	BCD	10	162
+Vlan	H	3020	Trilorn	X100000-C	 	Di Na Pi Va 		010	Wild	K3 V M5 V	{ -1 }	(B00+1)	[0000]	BD	11	11
+Vlan	L	3021	Talama	X410000-A	 	Di Na 		002	Wild	M3 V M8 V	{ -1 }	(A00+4)	[0000]	B	7	40
+Vlan	L	3022	Arklin	X9CA000-E	 	Di Fl 		034	Wild	M3 III	{ -1 }	(C00+2)	[0000]	B	12	24
+Vlan	L	3024	Bertrand	X200000-7	 	Di Na Va 		013	Wild	M1 V	{ -3 }	(800-1)	[0000]	B	9	-8
+Vlan	L	3025	Shervan	X545789-0	 	Ag Pi 		124	Wild	G2 V K6 V	{ -1 }	(964+1)	[5641]	BCD	10	216
+Vlan	L	3029	Kamolad	X8D8000-B	 	Di 		001	Wild	G4 V M4 V M1 V	{ -1 }	(600-1)	[0000]	B	12	-6
+Vlan	P	3031	New Salen	X202000-C	 	Di Ic Va Na In 		020	Wild	M2 V	{ 0 }	(D00+1)	[0000]	BE	13	13
+Vlan	P	3032	Matuyama	D540000-6	 	De He Di Po 		023	Wild	G0 V M0 V	{ -3 }	(A00-1)	[0000]	B	8	-10
+Vlan	P	3035	Zhanora	X651784-0	 	Po 		101	Wild	G2 V M3 V	{ -2 }	(963+1)	[8551]	B	7	162
+Vlan	P	3037	Raanbazziil	X428000-E	 	Di 		010	Wild	M0 V	{ -1 }	(600+3)	[0000]	B	10	18
+Vlan	P	3039	Gilnat Paz	X535000-E	 	Di 		021	Wild	M1 V	{ -1 }	(800+3)	[0000]	B	11	24
+Vlan	D	3106	Arga	X300000-C	 	Di Na In Va 		010	Wild	M1 V M8 V	{ 0 }	(C00+1)	[0000]	BE	8	12
+Vlan	D	3107	Theton	XABA000-C	 	Di Fl 		010	Wild	K1 V M0 V	{ -1 }	(900-3)	[0000]	B	4	-27
+Vlan	H	3111	Kalanuu	X754553-2	 	Ag Ni 		224	Wild	M1 V	{ -2 }	(741+1)	[4313]	BC	9	28
+Vlan	H	3115	Dusuureg	X404000-B	 	Di Ic Va 		022	Wild	F9 V K6 V	{ -1 }	(A00-1)	[0000]	B	10	-10
+Vlan	H	3116	Kirlasesh	E546000-8	 	Di 		023	Wild	G5 V	{ -3 }	(D00-3)	[0000]	B	8	-39
+Vlan	H	3117	Altman	X561000-5	 	Di 		010	Wild	K6 V	{ -3 }	(800-1)	[0000]	B	4	-8
+Vlan	H	3119	Aarkhiin	X577000-2	 	Di 		025	Wild	M1 V	{ -3 }	(800+3)	[0000]	B	13	24
+Vlan	L	3122	Ekum	X560655-1	 	De Ni Ri 		324	Wild	G6 V M9 V	{ -2 }	(852+5)	[3481]	BC	9	400
+Vlan	L	3124	Thaar	X87A000-5	 	Di Wa 		002	Wild	M1 V M6 V	{ -3 }	(900-3)	[0000]	B	7	-27
+Vlan	L	3125	Inandir	X676000-3	 	Di 		011	Wild	K9 V M0 V	{ -3 }	(C00+2)	[0000]	B	11	24
+Vlan	L	3126	Renbad	E568530-3	 	Ag Pr Ni 		110	Wild	K9 V	{ -2 }	(743+1)	[2344]	BcC	13	84
+Vlan	L	3128	Xantril	D676000-6	 	Di 		020	Wild	M3 V	{ -3 }	(800+1)	[0000]	B	9	8
+Vlan	L	3129	Wimorel	E765577-4	 	Ag Pr An  (Kolzar) Ga Ni 		124	Wild	F6 V	{ -2 }	(740+1)	[2344]	BcC	13	28
+Vlan	L	3130	Gamidan	XA5A413-0	 	Ni Oc 		112	Wild	G1 V M1 V	{ -3 }	(633+1)	[5184]	B	15	54
+Vlan	P	3131	Maamibrin	X562000-0	 	Ba 		020	Wild	F7 V	{ -3 }	(B00+4)	[0000]	B	13	44
+Vlan	P	3134	Toborit	X424000-8	 	Di 		022	Wild	M2 V	{ -3 }	(C00+1)	[0000]	B	10	12
+Vlan	P	3135	Debekov	X572000-1	 	Di He 		001	Wild	M2 V	{ -3 }	(500-1)	[0000]	B	11	-5
+Vlan	P	3137	Alleman	X200000-F	 	Di Va 		002	Wild	K6 III K1 V	{ -1 }	(900-2)	[0000]	B	13	-18
+Vlan	P	3138	Nasaa	X425000-9	 	Di 		020	Wild	G8 V	{ -2 }	(900+1)	[0000]	B	13	9
+Vlan	P	3140	Zana	X65355A-2	 	Ni Po 		110	Wild	K0 V M2 V	{ -3 }	(743+3)	[5243]	B	8	252
+Vlan	D	3201	Thoegzknaedz	X676000-3	 	Di 		003	Wild	M2 V	{ -3 }	(700-3)	[0000]	B	7	-21
+Vlan	D	3202	Vutsarrgh	X6659AE-0	 	Ga Hi Pr 		420	Wild	M0 V M8 V	{ -1 }	(B86+4)	[5881]	BcE	9	2112
+Vlan	D	3206	Argonos	X89A000-7	 	(minor) Di Wa 		020	Wild	M0 V	{ -3 }	(400+3)	[0000]	B	7	12
+Vlan	D	3208	Sardia	X436000-A	 	Di 		033	Wild	K6 V	{ -1 }	(D00+2)	[0000]	B	11	26
+Vlan	D	3209	Veppim	X684000-4	 	Di 		004	Wild	M2 V	{ -3 }	(700+4)	[0000]	B	11	28
+Vlan	D	3210	Tasho	X425000-A	 	Di 		022	Wild	K1 IV	{ -1 }	(900+4)	[0000]	B	13	36
+Vlan	H	3211	Urkimgar	E577000-7	 	Di 		010	Wild	M1 V	{ -3 }	(600+1)	[0000]	B	11	6
+Vlan	H	3212	Amnukun	X410000-E	 	Di Na In 		011	Wild	M1 V	{ 0 }	(D00-3)	[0000]	BE	12	-39
+Vlan	H	3213	Ami	X5675AA-1	 	Ag Pr Ni 		102	Wild	M1 V M3 V	{ -2 }	(740+1)	[7361]	BcC	15	28
+Vlan	H	3214	Khunimmam	X9B7000-8	 	Di Fl 		002	Wild	M2 V	{ -3 }	(600-3)	[0000]	B	13	-18
+Vlan	H	3215	Shaia	X64A000-1	 	Di Wa 		010	Wild	M1 V	{ -3 }	(B00-1)	[0000]	B	12	-11
+Vlan	H	3216	Kigirgam	X561000-5	 	Di 		013	Wild	M1 V	{ -3 }	(600+3)	[0000]	B	13	18
+Vlan	H	3218	Gisharu	X556432-0	 	Ni Pa 		110	Wild	M1 V M7 V	{ -3 }	(730-4)	[1164]	Bc	8	-84
+Vlan	L	3221	Sadkha	X836000-C	 	Di 		021	Wild	G6 V	{ -1 }	(800+2)	[0000]	B	15	16
+Vlan	L	3222	Nemsa	X300000-A	 	Di Va 		020	Wild	F5 V M1 V	{ -1 }	(700+1)	[0000]	B	10	7
+Vlan	L	3224	Anakod	X796000-2	 	An Di 		024	Wild	F7 V	{ -3 }	(400-2)	[0000]	B	13	-8
+Vlan	L	3226	Eshdigi	X747000-6	 	Di 		023	Wild	K2 V K4 V	{ -3 }	(500-3)	[0000]	B	17	-15
+Vlan	L	3228	Nirnalur	D544000-8	 	Di 		023	Wild	G3 V	{ -3 }	(B00+1)	[0000]	B	9	11
+Vlan	L	3229	Diikaras	XA9A000-4	 	Di Oc 		002	Wild	M2 V	{ -3 }	(800-1)	[0000]	B	9	-8
+Vlan	P	3231	Vanutappan	X547000-3	 	Di 		024	Wild	F7 V M9 V	{ -3 }	(700+1)	[0000]	B	14	7
+Vlan	P	3232	Tamayo	X779000-5	 	Di 		001	Wild	G6 V M0 V M6 V	{ -3 }	(700+2)	[0000]	B	11	14
+Vlan	P	3235	Debort	C581796-6	 	Ri 		210	Wild	F9 V G4 V	{ 0 }	(968+1)	[4765]	BC	14	432
+Vlan	P	3237	Zhannag	X534000-A	 	Di 		034	Wild	G8 V	{ -1 }	(C00-1)	[0000]	B	13	-12
+Vlan	P	3238	Lamiina	X768000-4	 	Di 		013	Wild	K0 V K1 V	{ -3 }	(500+1)	[0000]	B	12	5
+Vlan	P	3239	Lannazol	X845000-3	 	Di 		001	Wild	M3 V	{ -3 }	(300-2)	[0000]	B	12	-6

@@ -1,0 +1,10 @@
+
+default-order = [ "virus", "wave" ]
+
+[location]
+y = -1
+x = -2
+
+[virus]
+preserve-by-hex = "0119 0218 0221 2239"
+

@@ -1,0 +1,6 @@
+
+default-order = [ "virus", "wave" ]
+
+[location]
+y = 1
+x = 3

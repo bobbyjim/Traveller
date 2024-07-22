@@ -1,0 +1,11 @@
+location {
+   y	-1
+   x	-4
+}
+cow {
+   radius	15
+   center	27, 16
+}
+default {
+   order	wave
+}

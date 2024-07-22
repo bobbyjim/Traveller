@@ -1,0 +1,388 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+Ley	A	0101	Amikell	C545896-8	 	     Pz  Pa Pi Ph (NIL)		504	ImDg	K8 V	-1	(E77-4)	[A725]	BcDe	9	-2744
+Ley	A	0102	Kagemushi	X435000-6	 	     Di 		012	ImDg	K1 V	-3	(800-2)	[0000]	B	15	-16
+Ley	A	0107	Lousanne	E564977-5	 	     Hi Pr (NIL)	B	800	ImDg	M1 V M9 V	-1	(B85-2)	[B841]	BcE	5	-880
+Ley	A	0108	Askiimir	X79A477-6	 	     Ni Wa 		514	ImDg	K2 V M2 V	-3	(830+2)	[2146]	B	15	48
+Ley	A	0109	Khingir	E547740-3	 	      Ag Pi (NIL)	B	212	ImDg	K7 V M7 V	-1	(964-1)	[8624]	BCD	13	-216
+Ley	E	0111	Kalu Marasiin	CA7A311-4	 	     Lo Oc 		903	ImDg	K0 V M9 V	-2	(720+2)	[4153]	B	12	28
+Ley	E	0113	Naasirka Ual	D75465A-7	 	     Ag Ni 	B	300	ImDg	K6 V	-2	(850-4)	[7476]	BC	11	-160
+Ley	E	0114	Ir	D68676B-3	 	     O:0214  Ag Ri Ga (NIL)	B	900	ImDg	F9 V	0	(96B+1)	[7752]	BC	13	594
+Ley	E	0118	119-404	DA9A103-5	 	     Lo Oc 	B	912	ImDg	M1 V	-3	(500+3)	[2154]	B	9	15
+Ley	E	0119	Ikstraat	E544313-4	 	       Lo (NIL)		600	ImDg	K3 V M9 V	-3	(A20+3)	[4143]	B	5	60
+Ley	I	0122	Sikiir	X566112-4	 	      Lo 		710	ImDg	G9 V	-3	(600+1)	[1148]	B	11	6
+Ley	I	0123	Urewr	X887AEK-4	 	     Ga Hi (NIL)	B	505	ImDg	G2 V	-1	(C92-2)	[C957]	BE	8	-432
+Ley	I	0127	720-018	X8C3000-A	 	     Di Fl 		004	ImDg	M2 V	-1	(B00+1)	[0000]	B	10	11
+Ley	I	0129	Dirir	E888978-5	 	    Pz Luri1  Hi Pr (NIL)	B	400	ImDg	F5 V	-1	(B87+3)	[8839]	BcE	7	1848
+Ley	M	0139	Secundus	X403000-D	 	      Di Ic Va 		002	ImDg	M2 V M2 V	-1	(800-3)	[0000]	B	8	-24
+Ley	A	0201	Econdora	X400000-E	 	     Di Na Va 		014	ImDg	M2 V	-1	(D00+1)	[0000]	B	10	13
+Ley	A	0202	Garakhu	X533000-6	 	     O:0201  Di Na Px Po 		003	ImDg	M2 V	-3	(800+1)	[0000]	B	10	8
+Ley	A	0204	Agalamgur	X300000-B	 	      Di Na Pi Va 		013	ImDg	M2 V M5 V	-1	(D00-1)	[0000]	BD	11	-13
+Ley	A	0205	Alsuy	X57559A-4	 	     Ag Ni 		204	ImDg	K6 V	-2	(740+1)	[5381]	BC	7	28
+Ley	E	0213	Kaapelli	X000000-9	 	     Luri9  As Va Di Na 		021	ImLu	G0 IV M5 V	-2	(B00-2)	[0000]	B	8	-22
+Ley	E	0214	Rurur	C560444-4	 	     Pz Luri9  De Ni (NIL)		203	ImLu	G4 V	-2	(B34-2)	[4254]	B	10	-264
+Ley	E	0217	Guill En	X5736A7-2	 	     Ni 	B	205	ImDg	G1 V	-3	(850+1)	[9391]	B	8	40
+Ley	E	0219	Es Aal Insi	X573423-4	 	     Ni 		204	ImDg	G2 V	-3	(630-5)	[4155]	B	7	-90
+Ley	I	0221	Silver	X424000-9	 	    Di Px 		003	ImDg	M1 V	-2	(A00+3)	[0000]	B	9	30
+Ley	I	0223	Umshush	X421000-8	 	     Di He Po 		013	ImDg	K5 V M7 V	-3	(700+2)	[0000]	B	10	14
+Ley	I	0224	Rising	X969433-5	 	      Ni 	B	512	ImDg	G2 V	-3	(730-2)	[2159]	B	8	-42
+Ley	I	0226	Llushtor	B77456E-3	 	     Ag Ni 	B	412	ImDg	G7 V	0	(744+3)	[4581]	BC	10	336
+Ley	I	0227	Dir-Lackbaad	X5778A8-3	 	     Pz  Pa Pi Ph (NIL)	B	802	ImDg	M0 V	-2	(A76+1)	[3642]	BcDe	9	420
+Ley	I	0228	Elizibeth	D540576-1	 	      De He Ni Po 	B	304	ImDg	K8 V M7 V	-3	(740-5)	[5284]	B	10	-140
+Ley	M	0231	L'Orient	C547614-7	 	     Ag Ni 		713	ImDg	F3 V	-1	(852+1)	[755C]	BC	7	80
+Ley	A	0302	Admidar	D570488-4	 	      De He Ni 		303	ImDg	K1 V	-3	(630-1)	[8116]	B	11	-18
+Ley	A	0310	Zagu	X100000-B	 	    LuriW  Di Va 		011	ImLu	M1 V	-1	(800-3)	[0000]	B	11	-24
+Ley	E	0311	Gishuumka	X435000-9	 	   Di Luri9  (NIL)		000	ImLu	K3 V	-2	(900+1)	[0000]	B	13	9
+Ley	E	0313	Tile	X7C3000-B	 	    Pz Luri9  Di Fl In (ENIL)		013	ImLu	F9 V	0	(F00-1)	[0000]	BE	8	-15
+Ley	E	0314	Tender Mercy	X547124-4	 	    LuriW  Lo 		800	ImLu	K2 V M6 V	-3	(400+2)	[3179]	B	13	8
+Ley	E	0315	Shore	X54568A-4	 	    Luri9  Ag Ni 	B	304	ImLu	F5 V M4 V	-2	(854-2)	[5471]	BC	12	-320
+Ley	E	0316	Luria	X522000-7	 	    LuriW  Di He Po 		002	ImLu	K7 V	-3	(600-4)	[0000]	B	7	-24
+Ley	E	0318	Ithukar	X543000-A	 	     Pz  Di Pi Po (NIL)		004	ImDg	G3 V	-1	(E00+5)	[0000]	BD	8	70
+Ley	I	0322	Xenophone	E88A612-7	 	     Ni Ri Wa 	B	604	ImDg	M0 V	-2	(852+4)	[3457]	BC	10	320
+Ley	I	0327	Kasuma	X000000-C	 	      As Va Di Na Pi 		002	ImDg	M2 V	-1	(B00-2)	[0000]	BD	14	-22
+Ley	I	0328	Sharone	X432000-9	 	      Di Na Po 		022	ImDg	K5 V K6 V M8 V	-2	(C00-1)	[0000]	B	11	-12
+Ley	I	0330	Kaluud	E968746-7	 	     Pz Chir3  Ag Ri (NIL)	B	802	ImDg	F4 V	0	(965+3)	[7754]	BC	14	810
+Ley	M	0333	Unlimited	D551474-7	 	     Ni Po 	B	404	ImDg	G4 V	-3	(631+2)	[6145]	B	12	36
+Ley	A	0401	Irnak-Kodur	X536000-B	 	     Di 		013	ImDg	K0 V M2 V	-1	(A00+3)	[0000]	B	8	30
+Ley	A	0402	Ku	X430000-C	 	     De Di Na Po (NIL)		012	ImDg	M0 V	-1	(C00-3)	[0000]	B	6	-36
+Ley	A	0403	Ligate	X565556-2	 	     O:0204  Ag Pr Ni 	B	301	ImDg	F6 V M8 V	-2	(744+1)	[3361]	BcC	12	112
+Ley	A	0404	Banir	E576410-4	 	     Ni Pa 		514	ImDg	G3 V M8 V	-3	(630+2)	[6154]	Bc	15	36
+Ley	A	0405	Kiiriirshi	X534000-7	 	      Cy Di 		013	ImDg	K3 V	-3	(800-1)	[0000]	B	14	-8
+Ley	A	0406	Peraan	X865501-2	 	     O:0705  Ag Pr Ga Ni 	B	503	ImDg	G4 V M0 V	-2	(743+1)	[8382]	BcC	6	84
+Ley	A	0408	Kii Tarnii	X438000-6	 	    LuriW  Di 		002	ImLu	K2 V	-3	(500+1)	[0000]	B	11	5
+Ley	E	0411	Prouse	X000000-A	 	     LuriW O:0812  As Va Di 		024	ImLu	K4 V M4 V	-1	(D00-2)	[0000]	B	10	-26
+Ley	E	0413	Eshuun	E999545-7	 	    LuriW  Ni 	B	503	ImLu	M2 V	-3	(740+2)	[A267]	B	6	56
+Ley	E	0414	Qaarz	X652669-2	 	    LuriW  Ni Po 	B	503	ImLu	F9 V M6 V	-3	(850+1)	[8351]	B	12	40
+Ley	E	0417	Ashmaze	E759256-5	 	     Lo 		722	ImDg	F7 V M3 V	-3	(510-3)	[4134]	B	12	-15
+Ley	E	0418	Kaan	X542124-3	 	     He Lo Po 	B	203	ImDg	K3 V	-3	(400+1)	[3153]	B	9	4
+Ley	I	0425	New Brunswick	X570300-3	 	      De He Lo 		411	ImDg	K5 V	-3	(520-4)	[7161]	B	13	-40
+Ley	I	0428	Market	X544100-6	 	     Lo 		122	ImDg	K9 V	-3	(500-1)	[1176]	B	8	-5
+Ley	I	0430	El Jerarquía	X589886-5	 	      Ph Ri (NIL)		304	ImDg	F9 V M9 V M3 V	-1	(A76+2)	[B736]	BCe	14	840
+Ley	M	0434	Plaisante	X300000-7	 	     Di Na Pi Va 		004	ImDg	G0 V	-3	(900+3)	[0000]	BD	11	27
+Ley	A	0501	Ercuu	E540100-7	 	     O:0402  De He Lo Po 		103	ImDg	G6 V	-3	(500+2)	[1185]	B	8	10
+Ley	A	0504	Maissia	X000000-B	 	      As Va Di 		001	ImDg	M0 V M6 V	-1	(800+1)	[0000]	B	12	8
+Ley	A	0505	Dugam	X99A334-2	 	    O:0705  Lo Wa 		414	ImDg	K8 V M9 V	-3	(420+1)	[5142]	B	12	8
+Ley	A	0506	Ashmiki	X200000-7	 	    O:0705  Di Na Va 		013	ImDg	M3 V	-3	(800+1)	[0000]	B	13	8
+Ley	A	0508	Piir Kalaan	X000000-8	 	     LuriW  As Va Di Na 		003	ImLu	M1 V M8 V	-3	(B00+1)	[0000]	B	13	11
+Ley	A	0509	Gaguume	X434000-7	 	    LuriW  Di 		025	ImLu	K0 V M5 V	-3	(700-1)	[0000]	B	13	-7
+Ley	E	0512	Stalwart	X433000-B	 	    LuriW  Di Po 		003	ImLu	K3 V	-1	(A00+1)	[0000]	B	8	10
+Ley	E	0513	Mastiraak	X564200-6	 	    LuriW  Lo 		103	ImLu	M1 V M2 V	-3	(410+1)	[1123]	B	12	4
+Ley	E	0514	Leshuil	X88A321-3	 	    LuriW  Lo Wa 	B	602	ImLu	K7 V M1 V	-3	(320-2)	[5165]	B	9	-12
+Ley	E	0515	Ahadi	X536000-6	 	    Luri9  Di (NIL)		013	ImLu	K4 V M0 V	-3	(A00+1)	[0000]	B	13	10
+Ley	E	0517	Puluke	C545443-6	 	     Ni Pa 		405	ImDg	F4 V M2 V	-2	(631+3)	[5267]	Bc	9	54
+Ley	E	0518	Tling	X666969-1	 	     Ga Hi Pr (NIL)	B	310	ImDg	K2 V M7 V	-1	(B88-1)	[B863]	BcE	7	-704
+Ley	E	0519	Mamdinga	X878573-6	 	     Ag Ni 	B	402	ImDg	G5 V M5 V	-2	(743+1)	[5324]	BC	13	84
+Ley	I	0530	Nicaceum	X522000-C	 	      Di He Na Pi Po (NIL)		002	ImDg	M3 V	-1	(B00+1)	[0000]	BD	15	11
+Ley	M	0533	Ipsham	X594435-2	 	     Ni Pa 		404	ImDg	K2 V M4 V	-3	(630-2)	[7154]	Bc	10	-36
+Ley	A	0601	Gig	X876632-6	 	     Ag Ni 	B	803	ImDg	F9 V	-2	(852-3)	[943A]	BC	7	-240
+Ley	A	0606	570-432	XAC5000-9	 	     Di Fl 		004	ImDg	M3 V M4 V	-2	(A00-1)	[0000]	B	7	-10
+Ley	A	0608	Secord	D580669-7	 	    Luri9  De Ni Ri 		703	ImLu	F5 V	-2	(850+3)	[7443]	BC	6	120
+Ley	A	0609	Galir	X57096C-3	 	    Luri9  De He Hi In (NIL)	B	400	ImLu	G8 V	0	(983-2)	[C955]	BE	13	-432
+Ley	E	0614	Mur Mura	D88A279-7	 	    LuriW  Lo Wa 		634	ImLu	F5 V	-3	(510+1)	[317B]	B	12	5
+Ley	E	0616	Arsim	X000000-D	 	      As Va Di 		023	ImDg	K3 V	-1	(A00+1)	[0000]	B	11	10
+Ley	E	0618	Weston	D77889E-5	 	     Pz  Pa Pi Ph (NIL)	B	805	ImDg	F7 V	-2	(A76+4)	[9656]	BcDe	18	1680
+Ley	E	0620	Kerin's Tyr	D575773-6	 	     rg0  Ag Pi (NIL)		420	ImDg	F8 V	-1	(966+3)	[8689]	BCD	7	972
+Ley	I	0624	Longstop	X556400-6	 	    O:0824  Ni Pa 	B	601	ImDg	M1 V M8 V	-3	(733+2)	[1156]	Bc	13	126
+Ley	I	0626	Evermore	E654577-6	 	     Ag Ni 		524	ImDg	G4 V M7 V	-2	(740+2)	[1318]	BC	9	56
+Ley	I	0628	Danka	D574104-3	 	     Lo 		920	ImDg	G5 V M2 V	-3	(400-4)	[1146]	B	13	-16
+Ley	A	0703	349-942	XAB7000-9	 	    O:0705  Di Fl (ENIL)		013	ImDg	G2 V	-2	(E00+2)	[0000]	B	15	28
+Ley	A	0704	Kremei	X423000-8	 	     Di Po 		005	ImDg	G7 V	-3	(A00+1)	[0000]	B	12	10
+Ley	A	0705	Shaada Kur	X88A667-6	 	     Ni Ri Wa 	B	803	ImDg	K6 V M6 V	-2	(854+1)	[6489]	BC	12	160
+Ley	A	0707	Liberty	X796416-5	 	     Ni Pa 		413	ImDg	G2 V	-3	(631-1)	[1133]	Bc	15	-18
+Ley	A	0710	Integron	E56699B-3	 	     Pz Luri9  Hi Pr (NIL)	B	114	ImLu	K8 V	-1	(A87+3)	[8875]	BcE	8	1680
+Ley	E	0713	Kidush	X410000-8	 	    Luri9  Di Na Pi 		004	ImLu	M0 V M3 V M8 V	-3	(D00+2)	[0000]	BD	7	26
+Ley	E	0714	Integrity	X589444-3	 	    LuriW  Ni 	B	304	ImLu	M0 V M7 V M1 V	-3	(630+5)	[6162]	B	7	90
+Ley	E	0715	Re	E682100-1	 	    LuriW  Lo 		913	ImLu	K8 V M2 V M7 V	-3	(500+2)	[1152]	B	17	10
+Ley	E	0717	Conway	D687595-5	 	      Ag Pr Ga Ni 	B	313	ImDg	M1 V	-2	(742-3)	[5367]	BcC	10	-168
+Ley	I	0721	Fonnein	CA9A7B9-5	 	      Oc Pi 	B	803	ImDg	M2 V M8 V	-1	(765+1)	[6688]	BD	10	210
+Ley	I	0722	Adukgin	X434000-A	 	     Di 		004	ImDg	F4 V	-1	(A00-2)	[0000]	B	10	-20
+Ley	I	0724	900-790	X9AA000-9	 	    Da  Di Fl 		000	ImDg	M3 V	-2	(600+3)	[0000]	B	11	18
+Ley	I	0726	Dugemaa	X554777-8	 	     Ag (NIL)		900	ImDg	G3 V	-1	(C63-1)	[561B]	BC	12	-216
+Ley	I	0728	Caledonia	X201000-9	 	      Di Ic Va 		004	ImDg	M2 V M5 V	-2	(900+1)	[0000]	B	8	9
+Ley	I	0729	Urchem	X430000-7	 	     De Di Na Po (NIL)		013	ImDg	M3 V	-3	(900+5)	[0000]	B	7	45
+Ley	A	0806	Khiir	X400000-7	 	     Di Va 		001	ImDg	K8 V	-3	(400+1)	[0000]	B	8	4
+Ley	A	0810	Gashiddi	X000000-F	 	     LuriW  As Va Di 		024	ImLu	M1 V	-1	(C00+2)	[0000]	B	10	24
+Ley	E	0811	Luur	E564785-5	 	     Pz LuriW  Ag Ri (NIL)	B	800	ImLu	G7 V M2 V	0	(969-1)	[4772]	BC	12	-486
+Ley	E	0812	Daramm	X76A86A-2	 	    (Luriani/Roryniar)  Ph Ri Wa (NIL)	B	320	ImLu	K0 V	-1	(C78-2)	[8766]	BCe	13	-1344
+Ley	E	0813	Huagamm	X310000-C	 	     LuriW  Di Na Pi 		001	ImLu	F0 V	-1	(B00-3)	[0000]	BD	6	-33
+Ley	E	0815	Shirshagi	X88596B-5	 	    Luri9  Ga Hi Pr (NIL)	B	504	ImLu	M3 V	-1	(B8B+2)	[B817]	BcE	7	1936
+Ley	E	0817	409-704	X89A572-3	 	    LuriW  Ni Wa 	B	515	ImLu	G2 V	-3	(841-1)	[3286]	B	13	-32
+Ley	E	0819	Miip	X999533-4	 	    Da Ursa3  Ni 	B	300	ImDg	F4 V	-3	(742-4)	[4251]	B	10	-224
+Ley	E	0820	Alef	X6728AB-5	 	    Fo rg0  He Ph Pi (NIL)	B	510	ImDg	K3 V	-2	(B78+1)	[3652]	BDe	12	616
+Ley	I	0824	Harukaze	X302000-F	 	      Di Ic Va Na Pi 		000	ImDg	M2 V	-1	(900+1)	[0000]	BD	6	9
+Ley	I	0825	354-123	XAC5000-9	 	     Di Fl 		005	ImDg	M0 V	-2	(B00-1)	[0000]	B	9	-11
+Ley	M	0835	Gambler's Ruin	X56465A-4	 	      Ag Ri Ni 		203	ImDg	G3 V	-1	(853-2)	[8519]	BC	7	-240
+Ley	B	0903	Ler	X632000-6	 	     Di Px Po 		030	ImDg	K1 V M1 V	-3	(700+1)	[0000]	B	9	7
+Ley	B	0905	Haze	B989355-8	 	     Lo 		310	ImDg	G4 V M4 V	-1	(620+1)	[629A]	B	14	12
+Ley	B	0906	Yrial Raa	X64A87A-6	 	   Da  Ph Pi Wa 		804	ImDg	K3 V	-2	(877+1)	[B697]	BDe	15	392
+Ley	B	0908	Matsu	X424000-7	 	     Di 		005	ImDg	M0 V	-3	(400+2)	[0000]	B	8	8
+Ley	F	0912	Tamandare	X427000-7	 	    Luri9  Di Pi (NIL)		024	ImLu	G9 V M1 V	-3	(A00-3)	[0000]	BD	9	-30
+Ley	F	0914	Shi	X66A300-2	 	    LuriW  Lo Wa 		200	ImLu	F5 V	-3	(520-1)	[2151]	B	10	-10
+Ley	F	0915	Sauma Forain	X66499E-3	 	     Luri9  Hi Pr (NIL)	B	104	ImLu	F5 V	-1	(A81+4)	[6822]	BcE	12	320
+Ley	F	0917	Kha Amon	X553679-4	 	     Ni Po 	B	504	ImDg	F5 V	-3	(850+1)	[5387]	B	7	40
+Ley	J	0921	Sentry	X548997-3	 	    Pz  Hi In (NIL)	B	310	ImDg	M2 V	0	(C84+4)	[A952]	BE	8	1536
+Ley	J	0924	Magi	D573455-6	 	     Ni 		314	ImDg	M3 V M9 V	-3	(630-2)	[313B]	B	11	-36
+Ley	J	0925	Barau Monac	C676558-9	 	     Ag Ni 		204	ImDg	G7 V	0	(B45+1)	[956D]	BC	12	220
+Ley	J	0929	846-395	X9C7000-D	 	     Di Fl 		013	ImDg	K5 V	-1	(800+1)	[0000]	B	7	8
+Ley	N	0933	Shangri La	X000000-D	 	      As Va Di Na Pi 		003	ImDg	M1 V M6 V	-1	(C00+4)	[0000]	BD	9	48
+Ley	N	0938	Ethan's Rest	X957443-4	 	     Ni Pa 	B	613	ImDg	K9 V M2 V	-3	(730+1)	[2181]	Bc	16	21
+Ley	B	1002	Didshep	X545100-5	 	     Pz  Lo (NIL)		904	ImDg	M0 V	-3	(B00-1)	[4187]	B	9	-11
+Ley	B	1004	Giann Osi	D586302-5	 	     Lo 		104	ImDg	K5 V	-3	(420+1)	[1159]	B	11	8
+Ley	B	1005	Saviin	X525000-C	 	    Da  Di 		022	ImDg	M1 V	-1	(A00+1)	[0000]	B	8	10
+Ley	B	1010	Akkaad	X576323-3	 	    Da LuriW  Lo 		500	ImLu	G9 V M4 V	-3	(420-3)	[1176]	B	13	-24
+Ley	F	1014	Lakam	C5546AA-7	 	   Luri9  Ag Ni (NIL)		734	ImLu	G4 V	-1	(B54-5)	[6519]	BC	10	-1100
+Ley	F	1016	Ayarynea	X8C3000-9	 	    LuriW  Di Fl 		000	ImLu	F0 IV M6 V	-2	(700-1)	[0000]	B	12	-7
+Ley	F	1018	Bashtu	X668431-0	 	     Ni Pa 	B	224	ImDg	F9 V M0 V	-3	(633+2)	[3151]	Bc	9	108
+Ley	J	1021	Liar's Oath	X424000-7	 	    Di Pi (NIL)		002	ImDg	M4 V	-3	(900-1)	[0000]	BD	9	-9
+Ley	J	1023	Shanape	X437000-D	 	    Pz  Di (NIL)		014	ImDg	M2 V	-1	(G00+1)	[0000]	B	12	16
+Ley	J	1024	182-466	X67767B-3	 	     Ag Ni 	B	323	ImDg	F3 V	-2	(850+1)	[2484]	BC	15	40
+Ley	J	1025	Charlet	X576147-6	 	     Lo 		700	ImDg	F7 V	-3	(500+1)	[4196]	B	12	5
+Ley	N	1033	Gash	X635000-A	 	     Di (NIL)		003	ImDg	M2 V M2 V	-1	(C00+1)	[0000]	B	6	12
+Ley	N	1039	Great Ocean	E96A247-4	 	     Lo Wa 	B	104	ImDg	M2 V M2 V	-3	(510-2)	[7121]	B	12	-10
+Ley	B	1107	Aevan	E798845-5	 	     Pz  Pa Pi Ph (NIL)	B	904	ImDg	F8 V M4 V	-2	(A76+4)	[7627]	BcDe	8	1680
+Ley	B	1110	Arum	X8589BB-8	 	    Pz Luri9  Hi (NIL)	B	421	ImLu	K0 V M1 V M7 V	-1	(E8A+1)	[8818]	BE	15	1120
+Ley	F	1113	Isk	EA87877-3	 	     Luri9  Pa Ri Ph (NIL)	B	223	ImLu	K0 V	-1	(A74-5)	[B723]	BcCe	9	-1400
+Ley	F	1115	Ibix	X563578-5	 	    LuriW O:1315  Ni Pr 	B	403	ImLu	G1 V	-3	(743+2)	[1281]	Bc	13	168
+Ley	F	1117	Triton	X100000-9	 	    LuriW  Di Va 		011	ImLu	K6 V M5 V M9 V	-2	(700-2)	[0000]	B	6	-14
+Ley	J	1123	Grunwald	E553720-8	 	      Po 		104	ImDg	K2 V	-2	(C68-5)	[4529]	B	9	-2880
+Ley	J	1128	Avatar	X642400-3	 	     He Ni Po 		204	ImDg	K0 V	-3	(632+1)	[71A4]	B	7	36
+Ley	J	1130	Blue	X434000-8	 	    Pz  Di (NIL)		003	ImDg	K2 V	-3	(F00-3)	[0000]	B	11	-45
+Ley	N	1134	New Kurdistan	X540475-5	 	      De He Ni Po 		503	ImDg	F7 V M9 V	-3	(630-2)	[2115]	B	10	-36
+Ley	B	1201	Saala Kis	X000000-9	 	     Pz  As Va Di Na Pi 		010	ImDg	G7 V	-2	(A00+1)	[0000]	BD	6	10
+Ley	B	1202	Iswaladan	X644666-1	 	    O:1002  Ag Ni 	B	523	ImDg	G2 V	-2	(850+2)	[A455]	BC	13	80
+Ley	B	1203	Shaasi	D888231-5	 	     Lo 		313	ImDg	M0 V	-3	(310+1)	[1174]	B	17	3
+Ley	B	1205	911-851	X7B5000-8	 	     Di Fl 		023	ImDg	K2 V M6 V	-3	(D00+1)	[0000]	B	11	13
+Ley	B	1209	Kashapkhi	X000000-7	 	      Luri9  As Va Di Na Pi 		001	ImLu	F3 V	-3	(A00-2)	[0000]	BD	12	-20
+Ley	B	1210	Dukh	X665968-4	 	     Pz Luri9  Ga Hi Pr (NIL)	B	110	ImLu	G1 V M5 V	-1	(B87+3)	[7876]	BcE	9	1848
+Ley	F	1212	Mistletoe	X430000-9	 	     LuriW  De Di Na Po 		010	ImLu	M2 V M9 V	-2	(900+5)	[0000]	B	14	45
+Ley	F	1213	New Batu	D87A896-8	 	    Luri9  Ph Pi Wa (NIL)		304	ImLu	K6 V	-2	(E77-2)	[86AA]	BDe	15	-1372
+Ley	F	1215	Gimram	X542667-2	 	    Da LuriW  He Ni Po 		200	ImLu	M3 V M5 V	-3	(850-3)	[7354]	B	13	-120
+Ley	F	1216	Horner	X85747C-0	 	    LuriW  Ga Ni Pa 	B	202	ImLu	G9 V	-3	(630-1)	[1151]	Bc	11	-18
+Ley	F	1217	Sashi	X413000-E	 	    LuriW  Di Ic 		014	ImLu	M2 V	-1	(C00+4)	[0000]	B	17	48
+Ley	F	1218	Diagidt	D67A332-4	 	     Luri9  Lo Wa (NIL)		413	ImLu	F1 V	-3	(A20-1)	[5161]	B	14	-20
+Ley	J	1222	Kukelu	D572652-5	 	     He Ni 		404	ImDg	G7 V	-3	(850+1)	[9313]	B	7	40
+Ley	J	1223	Shanim	X553410-5	 	     Ni Po 		503	ImDg	G1 V M8 V	-3	(730+2)	[7145]	B	10	42
+Ley	J	1228	Nundishaag	X300000-D	 	       Di Na In Va 		000	ImDg	K3 V	0	(C00-1)	[0000]	BE	11	-12
+Ley	J	1230	Akerm	C662675-9	 	     Ni Ri 		313	ImDg	M1 V M9 V	0	(C53+1)	[3697]	BC	8	180
+Ley	N	1231	Lirshe	X202000-A	 	      Di Ic Va Na 		003	ImDg	G0 V	-1	(B00-3)	[0000]	B	9	-33
+Ley	N	1235	Kiikkedir	D868A8B-8	 	      Hi (NIL)		115	ImDg	K8 V	-1	(H9A+1)	[A958]	BE	13	1530
+Ley	N	1237	Kiliinemi	X523000-7	 	     Da  Di Na Po 		004	ImDg	M0 V M2 V	-3	(800+1)	[0000]	B	8	8
+Ley	B	1301	Kikir Saana	X100000-8	 	    Da  Di Na Va 		000	ImDg	M2 V	-3	(800+2)	[0000]	B	6	16
+Ley	B	1304	Ishkad	E754775-3	 	    Droy4  Ag (NIL)	B	320	ImDg	M2 V	-1	(964+2)	[B624]	BC	14	432
+Ley	B	1305	Desaa	X423000-7	 	     Di Po 		004	ImDg	M3 V	-3	(500-3)	[0000]	B	12	-15
+Ley	B	1306	Armaghigi	X000000-8	 	      As Va Di 		010	ImDg	M3 V	-3	(700-2)	[0000]	B	5	-14
+Ley	F	1311	Girmaha	E785234-6	 	    LuriW O:1210  Ga Lo 		304	ImLu	K7 V	-3	(510-4)	[216A]	B	9	-20
+Ley	F	1313	Intiaura	X9B8000-C	 	    LuriW  Di Fl 		013	ImLu	M1 V M6 V	-1	(B00+1)	[0000]	B	8	11
+Ley	F	1314	Luan	X302000-7	 	     LuriW  Di Ic Va Na 		013	ImLu	M2 V M3 V	-3	(800+1)	[0000]	B	13	8
+Ley	F	1315	Sarun	X400000-F	 	      Luri9  Di Na In Va 		033	ImLu	F5 V M1 V	0	(H00-3)	[0000]	BE	9	-51
+Ley	F	1317	Shikun Lake	X438000-6	 	     Di 		012	ImDg	M3 V	-3	(800+5)	[0000]	B	7	40
+Ley	N	1332	Hadaskilid	X77468B-4	 	     Ag Ni 	B	422	ImDg	K4 V M6 V	-2	(854+2)	[5458]	BC	13	320
+Ley	N	1334	Baakh	X588799-7	 	      Ag Ri (NIL)	B	805	ImDg	F6 V	0	(969-3)	[777C]	BC	9	-1458
+Ley	N	1339	Umu Harat	E684426-5	 	     Ni Pa 		324	ImDg	G1 V M6 V M9 V	-3	(630-1)	[8111]	Bc	10	-18
+Ley	B	1401	947-394	X89A430-1	 	     Ni Wa 	B	303	ImDg	G0 V	-3	(633+1)	[3193]	B	11	54
+Ley	B	1404	Dimme	X786979-2	 	     Fo  Ga Hi Pr (NIL)	B	123	ImDg	F8 V M3 V	-1	(A87-3)	[B813]	BcE	8	-1680
+Ley	B	1405	277-542	X776458-3	 	     Ni Pa 	B	304	ImDg	K2 V	-3	(630+1)	[1172]	Bc	13	18
+Ley	B	1406	Kukugukhe	X654575-3	 	     Ag Ni 	B	414	ImDg	F3 V	-2	(740+3)	[2371]	BC	16	84
+Ley	F	1413	Shah Moran	X310000-9	 	    LuriW  Di 		000	ImLu	G2 V	-2	(700+1)	[0000]	B	7	7
+Ley	F	1415	Ushtar	D5676AA-8	 	     LuriW  Ag Ri Ni 		602	ImLu	M3 V	-1	(A53+4)	[5535]	BC	15	600
+Ley	F	1416	Gorshon	X423000-7	 	     LuriW O:1315  Cy Di Na Po 		001	ImLu	K2 V M7 V	-3	(800+2)	[0000]	B	13	16
+Ley	F	1417	Urdilinu	E87A578-7	 	     Luri9  Ni Wa (NIL)		402	ImLu	G0 V M3 V	-3	(A40+2)	[5277]	B	12	80
+Ley	F	1418	Iseda	XA9A000-A	 	     Di Oc 		003	ImDg	M1 V M1 V	-1	(A00-1)	[0000]	B	10	-10
+Ley	F	1420	Depot	X553400-2	 	    Da   Ni Po 	B	500	ImDg	K1 V	-3	(730+2)	[3157]	B	12	42
+Ley	J	1424	Damushka	X544573-6	 	     Ag Ni 	B	404	ImDg	F3 V	-2	(742-2)	[2326]	BC	13	-112
+Ley	J	1425	Daggar's Edge	X200000-9	 	     Di Na Va 		004	ImDg	M0 V M3 V	-2	(C00+4)	[0000]	B	12	48
+Ley	J	1427	Misig	X654446-3	 	     Ni Pa 	B	300	ImDg	K1 V M7 V	-3	(632-2)	[1144]	Bc	11	-72
+Ley	J	1429	Ledii	X69658B-5	 	     Ag Ni 		501	ImDg	K1 V M7 V	-2	(741+1)	[6378]	BC	7	28
+Ley	N	1434	Marda	X000000-B	 	      As Va Di 		000	ImDg	K7 V	-1	(400-2)	[0000]	B	11	-8
+Ley	N	1435	Ohasset	X510000-F	 	       Di Na In 		002	ImDg	G4 V M6 V	0	(D00-1)	[0000]	BE	12	-13
+Ley	N	1436	Khinakhi	X657220-1	 	     Ga Lo 	B	804	ImDg	K7 V	-3	(410+2)	[2121]	B	9	8
+Ley	N	1437	Gulem Kilar	X679552-5	 	    O:1435  Ni 	B	423	ImDg	F3 V M3 V	-3	(743+1)	[7265]	B	16	84
+Ley	B	1503	283-931	X8B6000-8	 	     Di Fl 		013	ImDg	G8 V	-3	(900-2)	[0000]	B	15	-18
+Ley	B	1506	Ashmikii	X547534-4	 	     Ag Ni 		304	ImDg	F7 V M1 V	-2	(744+4)	[8321]	BC	13	448
+Ley	B	1509	Kedakhume	X310000-D	 	      Cy Di 		004	ImDg	G2 V	-1	(B00+3)	[0000]	B	17	33
+Ley	F	1511	Shirgegge	X55776D-5	 	     Ag (NIL)	B	805	ImDg	K0 V M5 V	-1	(965+1)	[6655]	BC	9	270
+Ley	F	1513	Bleue Mer	X99A665-5	 	    O:1315  Ni Wa 	B	605	ImDg	K1 V M4 V	-3	(852-1)	[6388]	B	16	-80
+Ley	F	1519	Khisa	X562887-5	 	    Pz  Ph Ri (NIL)	B	503	ImDg	G6 V	-1	(A75-2)	[8727]	BCe	7	-700
+Ley	F	1520	Norwaal	X310000-A	 	     Di Na 		000	ImDg	K6 V M0 V	-1	(800+3)	[0000]	B	13	24
+Ley	J	1521	Gidakhiiki	X59447A-6	 	    Da  Ni Pa 	B	503	ImDg	G6 V M3 V	-3	(633+2)	[4156]	Bc	10	108
+Ley	J	1522	614-048	X7677CD-1	 	      Ag Ri Ga (NIL)	B	222	ImDg	G5 V M7 V	0	(964+5)	[4713]	BC	16	1080
+Ley	J	1523	Adigigi	X200000-8	 	     Di Va 		010	ImDg	K1 V	-3	(700-2)	[0000]	B	10	-14
+Ley	J	1524	586-281	X8B5000-8	 	     Di Fl (ENIL)		003	ImDg	G3 V	-3	(D00-2)	[0000]	B	7	-26
+Ley	J	1525	Long Island	X76A000-4	 	    Pz  Di Wa (NIL)		021	ImDg	K3 V	-3	(900+1)	[0000]	B	11	9
+Ley	J	1526	558-617	XAD9000-C	 	     Di 		002	ImDg	G5 V M8 V	-1	(600+1)	[0000]	B	13	6
+Ley	J	1528	Griik Maeii	C575577-8	 	     Ag Ni 		213	ImDg	G6 V M0 V	-1	(B44+4)	[6458]	BC	10	704
+Ley	N	1534	Gidikurda	X200000-C	 	     Di Va 		003	ImDg	M0 V M5 V	-1	(900+1)	[0000]	B	16	9
+Ley	N	1538	Initiate	X000000-7	 	      As Va Di 		003	ImDg	K1 V M7 V	-3	(700+1)	[0000]	B	10	7
+Ley	N	1540	Khiskami	X529000-B	 	     Di Pi (NIL)		004	ImDg	M2 V M2 V	-1	(E00-3)	[0000]	BD	12	-42
+Ley	B	1603	Caeruleus	X75A323-4	 	     Lo Wa 	B	712	ImDg	F4 V	-3	(620+2)	[4172]	B	14	24
+Ley	B	1604	Makhan's Hold	X682658-3	 	     Ni Ri 	B	400	ImDg	K3 V M0 V	-2	(852-2)	[A411]	BC	8	-160
+Ley	B	1605	Gilanshaar	E5795A8-7	 	     Ni 		503	ImDg	F4 V M9 V	-3	(740-4)	[5276]	B	6	-112
+Ley	B	1607	Lamda	EA98532-7	 	    O:1511  Ag Ni 	B	304	ImDg	M0 V M1 V	-2	(740+4)	[1372]	BC	11	112
+Ley	F	1613	Cyllene	X663446-6	 	    O:1315  Ni 	B	204	ImDg	K5 V	-3	(630+1)	[5155]	B	15	18
+Ley	F	1614	Shurmon	X000000-7	 	       As Va Di Na Pi 		002	ImDg	F2 V M6 V	-3	(A00+3)	[0000]	BD	8	30
+Ley	F	1616	Rusted Root	X310000-D	 	     Di Na 		012	ImDg	M2 V	-1	(B00+1)	[0000]	B	13	11
+Ley	J	1623	Keene	D997787-7	 	     Da  Ag 		104	ImDg	F6 V	-1	(86B+3)	[5624]	BC	10	1584
+Ley	J	1625	Asili	E56589C-4	 	      Pa Ri Ph (NIL)	B	314	ImDg	G1 V	-1	(A76+2)	[97A6]	BcCe	11	840
+Ley	J	1628	Kaga	X535000-6	 	     Di 		005	ImDg	M1 V M5 V	-3	(600+2)	[0000]	B	12	12
+Ley	N	1633	Guarda	X000000-9	 	     O:1435  As Va Di 		014	ImDg	G3 V M6 V	-2	(C00-2)	[0000]	B	11	-24
+Ley	N	1636	Sikali	X424000-7	 	     Di 		003	ImDg	K2 V	-3	(600-3)	[0000]	B	6	-18
+Ley	N	1637	Dalganar	X400000-B	 	     Di Va 		014	ImDg	G0 V	-1	(C00-2)	[0000]	B	8	-24
+Ley	N	1638	Shusknuu	D645554-6	 	     Ag Ni 	B	402	ImDg	F4 V M2 V	-2	(743+2)	[5359]	BC	11	168
+Ley	C	1701	Gudkir	X427000-A	 	     Di 		004	ImDg	G4 V M7 V	-1	(B00-5)	[0000]	B	9	-55
+Ley	C	1703	Damzi	X530000-9	 	      De Di Na Po (NIL)		002	ImDg	M2 V	-2	(E00+2)	[0000]	B	13	28
+Ley	C	1704	Um Shudu	X435000-6	 	     Di 		003	ImDg	M0 V M9 V	-3	(800+1)	[0000]	B	10	8
+Ley	C	1708	Lempir	X95A68B-5	 	     Ni Wa 	B	421	ImDg	K3 V M1 V	-3	(850+1)	[9341]	B	10	40
+Ley	G	1712	Missarge	C54455A-6	 	     Ag Ni 		513	ImDg	K7 V M8 V	-1	(743-3)	[7456]	BC	13	-252
+Ley	G	1714	Ashiizish	X536000-7	 	     Di 		014	ImDg	M1 V	-3	(800+2)	[0000]	B	12	16
+Ley	K	1723	Ibaki	X515000-7	 	   O:1926  Di Ic Pi 		014	ImDg	K0 V	-3	(900+3)	[0000]	BD	14	27
+Ley	K	1724	Saaka	X413000-7	 	     Pz  Di Ic Na Pi 		024	ImDg	F4 V M9 V	-3	(A00+2)	[0000]	BD	13	20
+Ley	K	1728	Taylor's World	X310000-C	 	     Di 		013	ImDg	K5 V	-1	(A00-2)	[0000]	B	8	-20
+Ley	K	1730	Shikirmi	B564757-8	 	      Ag Ri (NIL)		201	ImDg	G1 V M8 V	2	(A6A+2)	[C96B]	BC	14	1200
+Ley	O	1732	750-857	X9D5000-4	 	     Di 		013	ImDg	G0 V	-3	(600-3)	[0000]	B	9	-18
+Ley	O	1733	New Konigsberg	X200000-7	 	     Di Na Pi Va 		022	ImDg	K1 V	-3	(900-1)	[0000]	BD	7	-9
+Ley	O	1735	Lepanto	E555535-6	 	     Ag Ni 		424	ImDg	G0 V M8 V	-2	(744+1)	[A383]	BC	9	112
+Ley	C	1804	Khush	E99859B-6	 	    (Ursa)  Ag Ni 	B	404	ImDg	G2 V	-2	(742+3)	[7347]	BC	14	168
+Ley	G	1812	960-604	X9B6000-8	 	     Di Fl 		020	ImDg	M0 III	-3	(A00+2)	[0000]	B	9	20
+Ley	G	1814	Mugdange	D594477-5	 	     Ni Pa 		503	ImDg	F6 V	-3	(630+1)	[51A3]	Bc	9	18
+Ley	G	1815	New G'dansk	X310000-A	 	      Di Na Pi 		023	ImDg	K1 V	-1	(F00+1)	[0000]	BD	15	15
+Ley	G	1816	Gasash	E667789-7	 	      Ag Ri Ga (NIL)		702	ImDg	K0 V	0	(966-2)	[774B]	BC	12	-648
+Ley	G	1817	Zirziba	D977200-5	 	    Da  Lo 	B	304	ImDg	K6 V	-3	(510+1)	[4135]	B	12	5
+Ley	G	1820	Melash	X310000-7	 	     Di Na 		023	ImDg	G3 V	-3	(800+3)	[0000]	B	11	24
+Ley	K	1822	Shaasimamir	D564153-4	 	     Lo 		702	ImDg	F8 V M1 V	-3	(400+4)	[1184]	B	15	16
+Ley	K	1829	Jaeger	X9A8000-8	 	     Di Fl 		024	ImDg	G9 V M2 V	-3	(C00+1)	[0000]	B	9	12
+Ley	K	1830	Kuchenwald	X757883-1	 	    Droy6  Ga Pa Ph (NIL)	B	614	ImDg	K3 V	-2	(A74-2)	[5631]	Bce	11	-560
+Ley	O	1832	Egran	X556577-4	 	     Ag Ni 		400	ImDg	K3 V	-2	(740+3)	[2311]	BC	11	84
+Ley	O	1836	Dadegadi	C543775-7	 	       Po (NIL)	B	104	ImDg	M3 V	-1	(968-3)	[6615]	B	13	-1296
+Ley	O	1837	Glen Murdoch	X54A210-2	 	     Lo Wa (NIL)		402	ImDg	K9 V	-3	(910+1)	[6131]	B	12	9
+Ley	O	1838	Jutland	X436000-A	 	     Di (NIL)		003	ImDg	K1 V	-1	(C00+4)	[0000]	B	8	48
+Ley	C	1909	Kimirk	D775679-8	 	     Ag Ni 		422	ImDg	K0 V	-2	(C50+1)	[94A6]	BC	9	60
+Ley	G	1911	Sunset	E86A555-5	 	     Ni Pr Wa (NIL)	B	403	ImDg	G2 V M9 V	-3	(A41+2)	[8293]	Bc	15	80
+Ley	G	1912	768-781	X87A669-5	 	     Ni Wa 	B	200	ImDg	M2 V	-3	(850-1)	[3336]	B	12	-40
+Ley	G	1913	Wonder	E86A320-5	 	     Lo Wa 		503	ImDg	G4 V M9 V	-3	(520+5)	[2195]	B	10	50
+Ley	G	1914	Gem	X657410-2	 	    O:1912  Ga Ni Pa 	B	314	ImDg	G9 V	-3	(630+3)	[5112]	Bc	14	54
+Ley	G	1915	Shagimi	X300000-7	 	     Di Na Pi Va 		002	ImDg	M1 V	-3	(900-4)	[0000]	BD	12	-36
+Ley	G	1919	Harrison	X420000-F	 	      De He Di Po 		003	ImDg	K2 V M1 V	-1	(A00+4)	[0000]	B	10	40
+Ley	K	1921	Kagalidli	X434000-A	 	     Di 		005	ImDg	K6 V M0 V	-1	(C00+1)	[0000]	B	8	12
+Ley	K	1926	Dimurkash	X100000-A	 	      Di Na Pi Va 		004	ImDg	F1 V	-1	(E00+3)	[0000]	BD	9	42
+Ley	K	1927	Raa	X5645AA-5	 	     O:2227  Ag Pr Ni 	B	422	ImDg	K2 V	-2	(740-1)	[5347]	BcC	11	-28
+Ley	O	1933	Kishimaa	X78587A-2	 	     Ga Pa Ri Ph (NIL)	B	103	ImDg	F5 V	-1	(978-5)	[8765]	BcCe	9	-2520
+Ley	O	1936	Annapabar	X436000-D	 	     Di (NIL)		010	ImDg	K3 V	-1	(A00+2)	[0000]	B	14	20
+Ley	O	1937	Ur	C652677-8	 	     Ni Po 		400	ImDg	G1 V	-2	(850+1)	[3448]	B	9	40
+Ley	O	1938	Igikur	X573545-5	 	    (Igikur)  Ni 		313	ImDg	F3 V	-3	(743-2)	[5218]	B	13	-168
+Ley	O	1939	Niin	X432000-7	 	    O:1838  Di Po 		003	ImDg	K3 V	-3	(600+1)	[0000]	B	15	6
+Ley	C	2009	Kagelstadt	X300000-7	 	    O:1912  Cy Di Na Va 		023	ImDg	M2 V	-3	(800+2)	[0000]	B	11	16
+Ley	G	2012	Gidry	X88A457-7	 	      Ni Wa 		600	ImDg	M1 V M7 V	-3	(733+4)	[512A]	B	8	252
+Ley	G	2013	Heath	E653200-1	 	    O:1912  Lo Po 	B	900	ImDg	K7 V	-3	(510+2)	[6161]	B	10	10
+Ley	G	2015	Grenoble	X502000-C	 	      Di Ic Va 		002	ImDg	M3 V	-1	(900-1)	[0000]	B	14	-9
+Ley	G	2016	Hagim	X7549B9-4	 	      Hi (NIL)	B	122	ImDg	M0 V	-1	(A89+1)	[D815]	BE	7	720
+Ley	G	2019	Khimudire	X56777B-6	 	      Ag Ri (NIL)		803	ImDg	G0 V	0	(C68+3)	[9795]	BC	15	1728
+Ley	K	2023	Shiloh	X426000-7	 	    Pz  Di Pi (NIL)		022	ImDg	K0 V	-3	(A00+1)	[0000]	BD	12	10
+Ley	K	2024	706-900	X99A456-5	 	    Pz  Ni Wa (NIL)		305	ImDg	F4 V M3 V	-3	(930-1)	[5188]	B	16	-27
+Ley	K	2029	Ulikmimki	X100000-A	 	     Di Va 		001	ImDg	M2 V M2 V	-1	(700+2)	[0000]	B	13	14
+Ley	O	2032	Landing	C560522-5	 	     De Ni Pr 		402	ImDg	G4 V M1 V M6 V	-2	(740+1)	[5374]	Bc	9	28
+Ley	O	2033	Udeshasdiin	X564186-4	 	     Lo 		222	ImDg	G7 V M1 V	-3	(500+3)	[1146]	B	15	15
+Ley	O	2034	Kam	E554134-7	 	     Lo 		710	ImDg	G1 V M4 V	-3	(500-1)	[1199]	B	9	-5
+Ley	O	2036	Saanshakase	X550500-3	 	    (Saanshakase) (minor)  De Ni Po 	B	314	ImDg	G9 V	-3	(740-2)	[4295]	B	15	-56
+Ley	O	2037	Angel	X201000-7	 	      Di Ic Va 		001	ImDg	M0 V M3 V	-3	(600+1)	[0000]	B	9	6
+Ley	G	2115	Verdant	E558575-4	 	    Da  Ag Ni 		213	ImDg	K0 V	-2	(741-1)	[73A4]	BC	16	-28
+Ley	G	2117	Kimu	X200000-D	 	     O:2019  Di Na Pi Va 		014	ImDg	K6 III	-1	(F00-1)	[0000]	BD	10	-15
+Ley	G	2118	Lekharu	B568477-8	 	     Ni Pa 		503	ImDg	M1 V	-1	(930+2)	[6327]	Bc	10	54
+Ley	K	2122	Flous	X855000-6	 	    Fo  Di Ga (NIL)		024	ImDg	K2 V M4 V	-3	(C00-4)	[0000]	B	9	-48
+Ley	K	2129	Darksky	X423000-B	 	     Di Px Po 		004	ImDg	M1 V	-1	(900-1)	[0000]	B	8	-9
+Ley	O	2131	Sik	E896401-3	 	     Ni Pa 	B	423	ImDg	F9 V	-3	(633+2)	[5191]	Bc	13	108
+Ley	O	2133	Shamuus	E55375A-8	 	     Po (NIL)		503	ImDg	M3 V	-2	(C63-3)	[5527]	B	9	-648
+Ley	O	2137	Zuge	X67656E-2	 	     Ag Ni 		324	ImDg	G7 V M4 V	-2	(740-1)	[5314]	BC	14	-28
+Ley	O	2140	470-092	X8D6000-8	 	     Di (NIL)		002	CsIm	M1 V	-3	(C00+3)	[0000]	B	8	36
+Ley	G	2216	Schulenburg	X66657A-3	 	      Ag Pr Ga Ni 	B	323	ImDg	G7 V M5 V	-2	(741-1)	[3375]	BcC	9	-28
+Ley	G	2219	Mishka	E54317B-4	 	     Lo Po 		804	ImDg	M1 V	-3	(500+2)	[1122]	B	12	10
+Ley	K	2221	Aarirshir	X74476D-4	 	     Pz  Ag Pi (NIL)	B	822	ImDg	K6 V M7 V	-1	(B65+2)	[9657]	BCD	10	660
+Ley	K	2222	Saramid	X200000-F	 	       Di Na In Va 		023	ImDg	G3 V	0	(G00+2)	[0000]	BE	8	32
+Ley	K	2227	Olegansimen	X648557-6	 	     Ag Ni (NIL)	B	302	ImDg	F4 V	-2	(B40+1)	[8377]	BC	8	44
+Ley	O	2232	Gashuki	X401000-E	 	      Di Ic Va Na 		005	NaHu	M2 V	-1	(D00+1)	[0000]	B	11	13
+Ley	O	2234	Karsim	X7768A9-5	 	      Pa Pi Ph (NIL)	B	900	NaHu	K0 V	-2	(A76+1)	[9622]	BcDe	7	420
+Ley	O	2236	Dikam	E566786-5	 	     O:1936  Ag Ri (NIL)	B	302	ImDg	G1 V M4 V	0	(965-1)	[779A]	BC	10	-270
+Ley	O	2237	Mamikha	X848357-5	 	      Lo (NIL)		902	NaHu	G2 V M9 V M4 V	-3	(B20+4)	[1155]	B	10	88
+Ley	O	2239	Lirguu	X786455-1	 	     Ga Ni Pa 	B	210	ImDg	M0 V	-3	(630-1)	[3152]	Bc	13	-18
+Ley	G	2313	Nugun	X624000-8	 	     Di 		002	ImDg	K3 V M0 V	-3	(900-3)	[0000]	B	8	-27
+Ley	G	2314	Superior	X89A788-5	 	     Fo  Wa 	B	104	ImDg	K6 V M3 V	-2	(866-1)	[8536]	B	9	-288
+Ley	G	2316	Rushize	X425000-9	 	     Di 		004	ImDg	M2 V	-2	(900+2)	[0000]	B	16	18
+Ley	G	2318	Frieden	D792404-7	 	     He Ni 		214	ImDg	M2 V M5 V	-3	(633+1)	[41A6]	B	10	54
+Ley	G	2320	Mi	X598422-3	 	    Da  Ni Pa 		500	ImDg	K3 V M4 V	-3	(631-2)	[7113]	Bc	13	-36
+Ley	K	2326	Kamaskusis	X550300-3	 	     De Lo Po 		414	ImDg	F5 V	-3	(320-3)	[3151]	B	10	-18
+Ley	K	2327	Guular	X586478-5	 	     Ni Pa 		303	ImDg	K1 V	-3	(632-1)	[3133]	Bc	16	-36
+Ley	O	2332	Makkidaan	E553200-4	 	     Lo Po 		712	CsIm	M0 V M2 V M1 V	-3	(410+1)	[2148]	B	10	4
+Ley	G	2415	Migimmar	X533000-A	 	     Di Po 		000	ImDg	K4 V	-1	(600+1)	[0000]	B	11	6
+Ley	G	2420	Derluga	X684202-3	 	     Lo 		324	NaHu	G2 V	-3	(310-1)	[1162]	B	16	-3
+Ley	K	2422	Zaada	X87A377-2	 	     Lo Wa (NIL)	B	813	ImDg	K2 V	-3	(920-4)	[1175]	B	8	-72
+Ley	K	2424	Barnes	D545656-6	 	     Ag Ni 	B	302	ImDg	F6 V	-2	(850-3)	[4468]	BC	7	-120
+Ley	O	2435	Rukirligi	E54367B-5	 	     Ni Po 	B	313	ImDg	G7 V	-3	(853-3)	[3365]	B	9	-360
+Ley	O	2438	Gis	C778300-6	 	     Lo 		913	NaHu	K3 V M2 V	-2	(420-1)	[31A5]	B	9	-8
+Ley	O	2439	Aam	X434000-7	 	     Di (NIL)		010	NaHu	G7 V M7 V	-3	(A00-1)	[0000]	B	11	-10
+Ley	H	2513	Khaanlisha	X79568A-3	 	     Ag Ni 	B	904	ImDg	G2 V M2 V	-2	(854-2)	[4433]	BC	9	-320
+Ley	H	2515	Amlir	X87A473-4	 	    Da  Ni Wa 	B	202	ImDg	M3 V	-3	(632+5)	[1161]	B	11	180
+Ley	H	2517	Ssissth	X64496C-3	 	    Pz (Zithari)  Hi In (NIL)	B	203	CsIm	M1 V	0	(B88-2)	[9922]	BE	8	-1408
+Ley	L	2521	Ukham	E978573-6	 	     Ag Ni 	B	323	ImDg	F6 V M9 V	-2	(743-5)	[1337]	BC	12	-420
+Ley	L	2526	Dagkhanesh	E554432-2	 	     Ni Pa 		504	CsIm	G2 V	-3	(630-5)	[7184]	Bc	9	-90
+Ley	L	2530	Udirgimma	X773567-3	 	    SydiW  Ni 	B	514	KhLe	G6 V	-3	(741+2)	[7297]	B	14	56
+Ley	P	2533	Maakar	X310000-C	 	    Da  Di Na 		004	NaHu	G1 V	-1	(C00+2)	[0000]	B	12	24
+Ley	P	2534	Endless Blue	X68A112-2	 	     Lo Wa 	B	802	CsIm	K0 V	-3	(500-1)	[1141]	B	12	-5
+Ley	P	2537	Gergigi	X896200-5	 	     Lo 	B	523	CsIm	G0 V	-3	(510+1)	[3112]	B	13	5
+Ley	P	2538	Navarino	X547274-0	 	      Lo 		903	CsIm	G0 V M3 V	-3	(610+1)	[3111]	B	9	6
+Ley	H	2614	Nushanita	X537000-8	 	     Di (NIL)		003	ImDg	K2 V	-3	(C00-2)	[0000]	B	11	-24
+Ley	L	2624	Igmigi	X520000-9	 	       De He Di Na Po 		004	ImDg	G0 V M4 V	-2	(C00-1)	[0000]	B	10	-12
+Ley	L	2629	Aankemishas	X55556A-0	 	     SydiW  Ag Ni 	B	410	KhLe	M2 V	-2	(740-1)	[5351]	BC	6	-28
+Ley	L	2630	Kherkhine	E557176-5	 	    SydiW  Lo 		703	KhLe	F8 V	-3	(500-1)	[1197]	B	14	-5
+Ley	P	2631	502-740	X8C3000-9	 	     Di Fl 		024	CsIm	M3 V M5 V	-2	(C00+3)	[0000]	B	10	36
+Ley	P	2635	Annaagmaa	X000000-8	 	      As Va Di 		001	CsIm	M4 V M8 V M5 V	-3	(500+1)	[0000]	B	8	5
+Ley	P	2637	Ishga	X400000-8	 	     Pz  Di Na Pi Va 		025	CsIm	K9 V	-3	(H00-2)	[0000]	BD	14	-34
+Ley	P	2639	Holloway	E541347-4	 	     He Lo Po (NIL)		415	CsIm	M0 V	-3	(920-1)	[1117]	B	13	-18
+Ley	D	2701	M'nanga	X300000-B	 	     Di Na Va 		014	NaHu	K3 V	-1	(D00+1)	[0000]	B	13	13
+Ley	D	2710	Ir Ferith	X000000-9	 	      As Va Di Na 		001	NaHu	K4 V	-2	(900-2)	[0000]	B	12	-18
+Ley	H	2717	Magulus	X536000-7	 	     Di 		012	CsIm	M2 V M6 V	-3	(700+4)	[0000]	B	15	28
+Ley	L	2724	Shurril Gami	X433000-9	 	    Sydi4  Di Na Po (NIL)		021	ImDg	M3 V	-2	(C00+4)	[0000]	B	12	48
+Ley	L	2725	Brightlett	X430000-9	 	     De Di Po 		024	CsIm	M3 V	-2	(B00+1)	[0000]	B	14	11
+Ley	L	2727	Lasagima	E78A473-6	 	    SydiW  Ni Wa 	B	202	KhLe	F5 V	-3	(630-4)	[6116]	B	11	-72
+Ley	L	2728	Ulagaska	E655775-3	 	    SydiW  Ag Ga (NIL)		722	KhLe	F1 V M9 V	-1	(962+1)	[A684]	BC	11	108
+Ley	L	2729	Arakaska	X63A000-7	 	    SydiW  Di Wa (NIL)		002	KhLe	K8 V	-3	(A00-3)	[0000]	B	14	-30
+Ley	P	2731	Er	X675645-6	 	     Ag Ni 	B	503	CsIm	F6 V M6 V	-2	(854-1)	[3466]	BC	11	-160
+Ley	P	2732	Lizir	X552410-2	 	    Fo  Ni Po 	B	403	CsIm	M3 V	-3	(631+1)	[7191]	B	10	18
+Ley	P	2734	Iceball	X203000-9	 	      Di Ic Va 		001	NaHu	M9 V	-2	(800-4)	[0000]	B	9	-32
+Ley	P	2736	Revelation	E897456-4	 	     Ni Pa 	B	604	CsIm	G3 V	-3	(730+5)	[1156]	Bc	8	105
+Ley	P	2740	Barely Planet	X310000-7	 	     Di Na Pi 		000	CsIm	M3 V	-3	(900+1)	[0000]	BD	4	9
+Ley	D	2801	Misrilou	X647449-3	 	      Ni Pa (NIL)	B	423	CsIm	F3 V M1 V	-3	(A32+1)	[2177]	Bc	13	60
+Ley	D	2808	Impress	X77876B-7	 	      Ag Pi (NIL)	B	800	CsIm	F7 V	-1	(964+1)	[764A]	BCD	6	216
+Ley	L	2824	Irdashdis	B54776D-6	 	      Ag Pi (NIL)	B	700	NaHu	G4 V M9 V	1	(967-1)	[781A]	BCD	12	-378
+Ley	L	2828	Ugkimlu	D75A5AC-7	 	    Pz SydiW  Ni Wa (NIL)	B	202	KhLe	M0 V	-3	(A40-2)	[5297]	B	7	-80
+Ley	L	2829	Khiigi	X430000-6	 	    Pz SydiW  De Di Na Po (NIL)		024	KhLe	K6 V	-3	(900+1)	[0000]	B	14	9
+Ley	P	2831	Qaran	X67A868-4	 	    Pz  Ph Pi Wa (NIL)	B	223	NaHu	M2 V	-2	(C70+3)	[8647]	BDe	14	252
+Ley	P	2832	Sham	X859785-7	 	      (NIL)	B	410	NaHu	F7 V M1 V	-2	(968+1)	[357A]	B	9	432
+Ley	P	2836	Du	X537000-6	 	    Da  Di 		003	NaHu	M3 V	-3	(800+1)	[0000]	B	11	8
+Ley	L	2921	Ushlash	X420000-C	 	      Da  De He Di Na Po 		002	NaHu	K1 IV M4 V	-1	(A00+1)	[0000]	B	10	10
+Ley	L	2924	Iizirgar	C5817BA-8	 	     Ri (NIL)	B	703	NaHu	K3 V	0	(C69-1)	[9764]	BC	14	-648
+Ley	P	2934	241-281	X9C6000-A	 	     Di Fl 		012	NaHu	K5 V M8 V	-1	(800-1)	[0000]	B	6	-8
+Ley	P	2935	Kaalan	XA99242-2	 	     Lo 	B	213	CsIm	K3 V M1 V	-3	(510+1)	[2124]	B	14	5
+Ley	P	2938	Vanessa	X311000-B	 	     Di Ic 		003	CsIm	M3 V	-1	(900+3)	[0000]	B	14	27
+Ley	P	2940	Gikii	X739000-A	 	     Di 		002	NaHu	M2 V	-1	(800-1)	[0000]	B	9	-8
+Ley	D	3003	New Durbin	X000000-A	 	      Pz  As Va Di Na Pi 		014	CsIm	F9 V M1 V	-1	(F00+1)	[0000]	BD	10	15
+Ley	H	3016	Mensure	X678532-4	 	    Pz  Ag Ni (NIL)	B	500	NaHu	K4 V	-2	(B40-2)	[2365]	BC	6	-88
+Ley	L	3021	Ma	D865103-5	 	    Da (Mahkahraik)  Ga Lo 	B	213	NaHu	K3 V	-3	(300+2)	[1167]	B	15	6
+Ley	L	3023	Ked	X663278-4	 	     Lo 		302	NaHu	F9 V	-3	(610-3)	[1171]	B	12	-18
+Ley	L	3026	Khuur	X959973-3	 	    (Sydites)  Hi (NIL)	B	604	KhLe	F5 V	-1	(B87-5)	[7885]	BE	9	-3080
+Ley	L	3030	Gasala	X573200-4	 	     Lo 		305	CsIm	M0 V	-3	(410+4)	[1174]	B	14	16
+Ley	P	3034	Askhar	X59A447-6	 	     Ni Wa 		403	CsIm	G5 V	-3	(632+3)	[4126]	B	10	108
+Ley	P	3039	Larshi	X562531-5	 	     Ni Pr 	B	500	NaHu	F7 V	-3	(842+1)	[3299]	Bc	9	64
+Ley	P	3040	475-782	XAC5000-9	 	     Di Fl 		023	NaHu	M2 V M5 V	-2	(D00+1)	[0000]	B	14	13
+Ley	D	3103	Marfa	X431000-6	 	     Di Na Po (NIL)		001	CsIm	K2 V M6 V	-3	(900+3)	[0000]	B	9	27
+Ley	D	3107	Dafoe	D57169B-7	 	     He Ni 		501	CsIm	F8 V	-3	(852+2)	[3354]	B	7	160
+Ley	D	3109	Gimmick	X645736-2	 	     Da  Ag 	B	114	CsIm	M2 V M2 V	-1	(869+1)	[6651]	BC	12	432
+Ley	L	3126	Irgamki	E794674-5	 	     Ag Ni 	B	701	CsIm	G2 V	-2	(851+1)	[3438]	BC	9	40
+Ley	L	3130	Piir	X426000-B	 	     Di 		014	CsIm	M0 V M2 V	-1	(C00-5)	[0000]	B	10	-60
+Ley	P	3131	Phoniwt	X431000-B	 	      Di Na Po (NIL)		014	NaHu	G2 V	-1	(H00-1)	[0000]	B	14	-17
+Ley	P	3133	Karaell	X555766-1	 	     Ag (NIL)	B	820	NaHu	F4 V	-1	(968-2)	[5651]	BC	7	-864
+Ley	P	3138	Liggusla	E545130-5	 	     Lo 		203	CsIm	M1 V	-3	(400+2)	[1164]	B	13	8
+Ley	P	3139	945-755	X8C3000-9	 	    Di Fl (ENIL)		003	CsIm	M1 V M6 V	-2	(C00+3)	[0000]	B	9	36
+Ley	P	3140	807-946	E548245-8	 	     Pz  Lo (NIL)		402	NaHu	M0 V	-3	(D10+3)	[1175]	B	8	39
+Ley	L	3226	Kug	X000000-C	 	     SydiW  As Va Di 		010	KhLe	K1 III M5 V	-1	(400-4)	[0000]	B	13	-16
+Ley	L	3229	452-696	X7C2000-9	 	      Di Fl He 		004	CsIm	K0 V	-2	(A00+2)	[0000]	B	8	20
+Ley	P	3232	Aspiration	X000000-B	 	     O:3133  As Va Di 		003	NaHu	K0 V M6 V	-1	(A00+1)	[0000]	B	11	10
+Ley	P	3234	Hope	X637000-8	 	     Di 		015	NaHu	K1 V	-3	(900+2)	[0000]	B	11	18
+Ley	P	3236	Burkona	X545430-4	 	     Ni Pa 	B	304	CsIm	F9 V M4 V	-3	(631+2)	[8146]	Bc	16	36

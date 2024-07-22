@@ -1,0 +1,1791 @@
+Year	Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+1105	Beyo	A	0101	Delzin	C424630-8	 	     Ni 		211	NaHu	K5 V	-2	(852-1)	[44A9]	B	7	-80
+1281	Beyo	A	0101	Delzin	X424000-8	 	     Di 		011	Wild	K5 V	-3	(800+1)	[0000]	B	7	8
+1508	Beyo	A	0101	Delzin	X424000-8	 	     Di 		011	Wild	K5 V	-3	(800+1)	[0000]	B	7	8
+1900	Beyo	A	0101	Delzin	X424000-8	 	     Di 		011	Wild	K5 V	-3	(800-3)	[0000]	B	7	-24
+
+1105	Beyo	A	0104	Barba Amarilla	D440234-9	 	     An Co  De He Lo Po 		313	MaCl	M0 V M5 V	-2	(E10+3)	[217C]	B	13	42
+1281	Beyo	A	0104	Barba Amarilla	D440000-9	 	     An Co  De He Di Po 		013	Wild	M0 V M5 V	-2	(E00-1)	[0000]	B	13	-14
+1508	Beyo	A	0104	Barba Amarilla	D440000-9	 	     An Co  De He Di Po 		013	Wild	M0 V M5 V	-2	(E00-3)	[0000]	B	13	-42
+1900	Beyo	A	0104	Barba Amarilla	D440000-9	 	     An Co  De He Di Po 		013	Wild	M0 V M5 V	-2	(E00-3)	[0000]	B	13	-42
+
+1105	Beyo	A	0105	Shalimar	C867649-7	 	      Ag Ri Ga Ni 		611	MaCl	G6 V	0	(854+1)	[6649]	BC	12	160
+1281	Beyo	A	0105	Shalimar	C86768A-5	 	      Ag Ri Ga Ni 		311	Wild	G6 V	0	(855-1)	[9668]	BC	12	-200
+1508	Beyo	A	0105	Shalimar	C867610-6	 	      Ag Ri Ga Ni 		211	Wild	G6 V	0	(854-5)	[6676]	BC	12	-800
+1900	Beyo	A	0105	Shalimar	C8676AB-7	 	      Ag Ri Ga Ni 		111	Wild	G6 V	0	(852-1)	[3632]	BC	12	-80
+
+1105	Beyo	A	0107	Lanthesandra	D940576-6	 	     Ho  De He Ni Po 		322	CoLg	K6 V	-3	(341+1)	[5295]	B	9	12
+1281	Beyo	A	0107	Lanthesandra	D940578-4	 	     Ho  De He Ni Po 		122	Wild	K6 V	-3	(342-2)	[5251]	B	9	-48
+1508	Beyo	A	0107	Lanthesandra	D940455-6	 	     Ho  De He Ni Po 		922	Wild	K6 V	-3	(330-3)	[3174]	B	9	-27
+1900	Beyo	A	0107	Lanthesandra	D940478-6	 	     Ho  De He Ni Po 		822	Wild	K6 V	-3	(330-1)	[7186]	B	9	-9
+
+1105	Beyo	A	0110	Luz Negra	C833684-9	 	      Na Po Ni 		212	CoLg	K7 V M3 V M1 V	-1	(A51-3)	[657A]	B	13	-150
+1281	Beyo	A	0110	Luz Negra	C833653-8	 	      Na Po Ni 		112	Wild	K7 V M3 V M1 V	-2	(A53+5)	[6489]	B	13	750
+1508	Beyo	A	0110	Luz Negra	C833548-9	 	      Ni Px Po 		912	Wild	K7 V M3 V M1 V	-1	(A42+2)	[A448]	B	13	160
+1900	Beyo	A	0110	Luz Negra	C8336BC-9	 	      Na Po Ni 		112	Wild	K7 V M3 V M1 V	-1	(A51-3)	[9518]	B	13	-150
+
+1105	Beyo	E	0111	Nehwon	D866572-4	 	      Ag Pr Ga Ni 		302	CoLg	G4 V	-2	(641+3)	[8379]	BcC	7	72
+1281	Beyo	E	0111	Nehwon	D866534-2	 	      Ag Pr Ga Ni 		102	Wild	G4 V	-2	(644+2)	[5316]	BcC	7	192
+1508	Beyo	E	0111	Nehwon	D866559-4	 	      Ag Pr Ga Ni 		202	Wild	G4 V	-2	(643-3)	[1323]	BcC	7	-216
+1900	Beyo	E	0111	Nehwon	D866587-4	 	      Ag Pr Ga Ni 		102	Wild	G4 V	-2	(641+1)	[3333]	BcC	7	24
+
+1105	Beyo	E	0113	Al Mustan	C869363-8	 	    O:0314  Lo 		521	CoLg	K2 V	-2	(920-1)	[4194]	B	9	-18
+1281	Beyo	E	0113	Al Mustan	E869000-8	 	    O:0314  Di 		021	Wild	K2 V	-3	(900-2)	[0000]	B	9	-18
+1508	Beyo	E	0113	Al Mustan	E869000-8	 	    O:0314  Di 		021	Wild	K2 V	-3	(900-4)	[0000]	B	9	-36
+1900	Beyo	E	0113	Al Mustan	E869000-8	 	    O:0314  Di 		021	Wild	K2 V	-3	(900-2)	[0000]	B	9	-18
+
+1105	Beyo	E	0114	Gehenna	B5487AA-A	 	      Ag Pi (NIL)		414	CoLg	F5 V D	3	(G6C+2)	[7A1A]	BCD	9	2304
+1281	Beyo	E	0114	Gehenna	E548000-A	 	     Di Pi (NIL)		014	Wild	F5 V D	-1	(G00-1)	[0000]	BD	9	-16
+1508	Beyo	E	0114	Gehenna	E548000-A	 	      Di (NIL)		014	Wild	F5 V D	-1	(G00-3)	[0000]	B	9	-48
+1900	Beyo	E	0114	Gehenna	E548000-A	 	      Di (NIL)		014	Wild	F5 V D	-1	(G00+4)	[0000]	B	9	64
+
+1105	Beyo	E	0116	Quatenon	D8A6674-4	 	    (Aniyun) Tz  Fl Ni 		212	CoLg	M1 V	-3	(850+1)	[4361]	B	11	40
+1281	Beyo	E	0116	Quatenon	D8A6000-4	 	    (Aniyun) Tz  Di Fl 		012	Wild	M1 V	-3	(800-3)	[0000]	B	11	-24
+1508	Beyo	E	0116	Quatenon	D8A6000-4	 	    (Aniyun) Tz  Di Fl 		012	Wild	M1 V	-3	(800+1)	[0000]	B	11	8
+1900	Beyo	E	0116	Quatenon	D8A6000-4	 	    (Aniyun) Tz  Di Fl 		012	Wild	M1 V	-3	(800+1)	[0000]	B	11	8
+
+1105	Beyo	E	0119	Sha'anoe	B863788-B	 	    Tz  Ri (NIL)		713	CoLg	M1 V	3	(B6A-2)	[8A8G]	BC	14	-1320
+1281	Beyo	E	0119	Sha'anoe	B8637BD-9	 	    Tz  Ri (NIL)		313	Wild	M1 V	2	(B69+4)	[9929]	BC	14	2376
+1508	Beyo	E	0119	Sha'anoe	B8637A8-A	 	    Tz  Ri (NIL)		413	Wild	M1 V	3	(B68-1)	[4A57]	BC	14	-528
+1900	Beyo	E	0119	Sha'anoe	B863778-B	 	    Tz  Ri (NIL)		313	Wild	M1 V	3	(B6D+2)	[6A3C]	BC	14	1716
+
+1105	Beyo	I	0121	Besulla	D500110-8	 	    Sa  Lo Va 		504	CoLg	M6 V	-3	(900-1)	[1173]	B	9	-9
+1281	Beyo	I	0121	Besulla	D500000-8	 	    Sa  Di Va 		004	Wild	M6 V	-3	(900+4)	[0000]	B	9	36
+1508	Beyo	I	0121	Besulla	D500000-8	 	    Sa  Di Va 		004	Wild	M6 V	-3	(900-4)	[0000]	B	9	-36
+1900	Beyo	I	0121	Besulla	D500000-8	 	    Sa  Di Va 		004	Wild	M6 V	-3	(900-2)	[0000]	B	9	-18
+
+1105	Beyo	I	0122	Rabanitas	A869446-B	 	     Ni 		422	CoLg	F9 V	1	(934-2)	[254E]	B	7	-216
+1281	Beyo	I	0122	Rabanitas	X869000-B	 	     Di 		022	Wild	F9 V	-1	(900+2)	[0000]	B	7	18
+1508	Beyo	I	0122	Rabanitas	X869000-B	 	     Di 		022	Wild	F9 V	-1	(900-4)	[0000]	B	7	-36
+1900	Beyo	I	0122	Rabanitas	X869000-B	 	     Di 		022	Wild	F9 V	-1	(900-2)	[0000]	B	7	-18
+
+1105	Beyo	I	0125	Thynca	C558621-7	 	     Ag Ni 		412	CoLg	K5 V	-1	(A53+1)	[7549]	BC	6	150
+1281	Beyo	I	0125	Thynca	C558658-6	 	     Ag Ni 		212	Wild	K5 V	-1	(A50-3)	[953A]	BC	6	-150
+1508	Beyo	I	0125	Thynca	C558677-6	 	     Ag Ni 		112	Wild	K5 V	-1	(A55-2)	[7536]	BC	6	-500
+1900	Beyo	I	0125	Thynca	C558544-8	 	     Ag Ni 		912	Wild	K5 V	-1	(D40-1)	[3448]	BC	6	-52
+
+1105	Beyo	I	0127	Lyheric	A445834-D	 	      Pa Pi Ph (NIL)		611	CoLg	M1 V M6 V	3	(A7A+2)	[9B5B]	BcDe	12	1400
+1281	Beyo	I	0127	Lyheric	A445786-B	 	       Ag Pi (NIL)		311	Wild	M1 V M6 V	3	(A6A+2)	[6A5D]	BCD	12	1200
+1508	Beyo	I	0127	Lyheric	A445776-C	 	       Ag Pi (NIL)		411	Wild	M1 V M6 V	3	(A67+1)	[5A6A]	BCD	12	420
+1900	Beyo	I	0127	Lyheric	A44575A-E	 	       Ag Pi (NIL)		311	Wild	M1 V M6 V	3	(A69+1)	[4A3E]	BCD	12	540
+
+1105	Beyo	I	0128	Destrada	C511233-8	 	    Ho Tz  Ic Lo 		502	CoLg	M1 V D	-2	(610+1)	[3175]	B	8	6
+1281	Beyo	I	0128	Destrada	D511000-8	 	    Ho Tz  Di Ic 		002	Wild	M1 V D	-3	(600+1)	[0000]	B	8	6
+1508	Beyo	I	0128	Destrada	D511000-8	 	    Ho Tz  Di Ic 		002	Wild	M1 V D	-3	(600+1)	[0000]	B	8	6
+1900	Beyo	I	0128	Destrada	D511000-8	 	    Ho Tz  Di Ic 		002	Wild	M1 V D	-3	(600+1)	[0000]	B	8	6
+
+1105	Beyo	I	0130	Dizuro	B000227-B	 	      As Va Lo 		301	NaHu	M3 V M4 V	1	(A11+2)	[534C]	B	6	20
+1281	Beyo	I	0130	Dizuro	E000000-B	 	      As Va Di 		001	Wild	M3 V M4 V	-1	(A00-5)	[0000]	B	6	-50
+1508	Beyo	I	0130	Dizuro	E000000-B	 	      As Va Di 		001	Wild	M3 V M4 V	-1	(A00-3)	[0000]	B	6	-30
+1900	Beyo	I	0130	Dizuro	E000000-B	 	      As Va Di 		001	Wild	M3 V M4 V	-1	(A00+3)	[0000]	B	6	30
+
+1105	Beyo	M	0135	Khiiszarbi	B775684-A	 	     Ag Ni 		310	HeCo	K3 V	2	(958+1)	[585B]	BC	8	360
+1281	Beyo	M	0135	Khiiszarbi	E775000-A	 	      Di 		010	Wild	K3 V	-1	(900+1)	[0000]	B	8	9
+1508	Beyo	M	0135	Khiiszarbi	E775000-A	 	      Di 		010	Wild	K3 V	-1	(900+1)	[0000]	B	8	9
+1900	Beyo	M	0135	Khiiszarbi	E775000-A	 	      Di 		010	Wild	K3 V	-1	(900-4)	[0000]	B	8	-36
+
+1105	Beyo	M	0136	Trend	B562489-9	 	    Ho  Ni 		410	HeCo	K1 V	0	(635-2)	[6485]	B	8	-180
+1281	Beyo	M	0136	Trend	D562000-9	 	    Ho  Di 		010	Wild	K1 V	-2	(600+2)	[0000]	B	8	12
+1508	Beyo	M	0136	Trend	D562000-9	 	    Ho  Di 		010	Wild	K1 V	-2	(600-3)	[0000]	B	8	-18
+1900	Beyo	M	0136	Trend	D562000-9	 	    Ho  Di 		010	Wild	K1 V	-2	(600-4)	[0000]	B	8	-24
+
+1105	Beyo	A	0205	Alpha Centre	B668778-8	 	      Ag Ri (NIL)		512	MaCl	G8 V K4 V	2	(C68+1)	[3987]	BC	15	576
+1281	Beyo	A	0205	Alpha Centre	B668757-7	 	      Ag Ri (NIL)		212	Wild	G8 V K4 V	2	(96A-2)	[6977]	BC	15	-1080
+1508	Beyo	A	0205	Alpha Centre	B66877A-7	 	      Ag Ri (NIL)		312	Wild	G8 V K4 V	2	(968+1)	[6919]	BC	15	432
+1900	Beyo	A	0205	Alpha Centre	B668735-8	 	      Ag Ri (NIL)		412	Wild	G8 V K4 V	2	(C68+4)	[896B]	BC	15	2304
+
+1105	Beyo	A	0208	Gullan	XA02000-0	 	     Tz  Ba Ic Va 		013	NaXX	M7 V	-3	(900+1)	[0000]	B	11	9
+1281	Beyo	A	0208	Gullan	XA02000-0	 	     Tz  Ba Ic Va 		013	Wild	M7 V	-3	(900-4)	[0000]	B	11	-36
+1508	Beyo	A	0208	Gullan	XA02000-0	 	     Tz  Ba Ic Va 		013	Wild	M7 V	-3	(900+3)	[0000]	B	11	27
+1900	Beyo	A	0208	Gullan	XA02000-0	 	     Tz  Ba Ic Va 		013	Wild	M7 V	-3	(900-5)	[0000]	B	11	-45
+
+1105	Beyo	E	0214	Z'chmel	D559614-4	 	    Sa  Ni 		311	CoLg	M0 V M7 V	-3	(950-5)	[6332]	B	8	-225
+1281	Beyo	E	0214	Z'chmel	D559652-3	 	    Sa  Ni 		111	Wild	M0 V M7 V	-3	(950-4)	[4346]	B	8	-180
+1508	Beyo	E	0214	Z'chmel	D5596BC-3	 	    Sa  Ni 		111	Wild	M0 V M7 V	-3	(950+1)	[5376]	B	8	45
+1900	Beyo	E	0214	Z'chmel	D559578-5	 	    Sa  Ni 		911	Wild	M0 V M7 V	-3	(940+1)	[8268]	B	8	36
+
+1105	Beyo	E	0216	Dorstyal	BA96847-B	 	      Pa Pi Ph (NIL)		412	CoLg	K3 V	3	(C78-2)	[CB6A]	BcDe	11	-1344
+1281	Beyo	E	0216	Dorstyal	XA96000-B	 	      Di Pi (NIL)		012	Wild	K3 V	-1	(C00+1)	[0000]	BD	11	12
+1508	Beyo	E	0216	Dorstyal	XA96000-B	 	       Di (NIL)		012	Wild	K3 V	-1	(C00+1)	[0000]	B	11	12
+1900	Beyo	E	0216	Dorstyal	XA96000-B	 	       Di (NIL)		012	Wild	K3 V	-1	(C00-1)	[0000]	B	11	-12
+
+1105	Beyo	E	0218	Utopia	C855311-9	 	    Da Ho Tr  Ga Lo 	A	510	CoLg	G3 V M1 V	-1	(720-2)	[7246]	B	5	-28
+1281	Beyo	E	0218	Utopia	E855000-9	 	    Da Ho Tr  Di Ga 		010	Wild	G3 V M1 V	-2	(700-1)	[0000]	B	5	-7
+1508	Beyo	E	0218	Utopia	E855000-9	 	    Da Ho Tr  Di Ga 		010	Wild	G3 V M1 V	-2	(700+1)	[0000]	B	5	7
+1900	Beyo	E	0218	Utopia	E855000-9	 	    Da Ho Tr  Di Ga 		010	Wild	G3 V M1 V	-2	(700+2)	[0000]	B	5	14
+
+1105	Beyo	E	0220	Innuit	CB97778-8	 	     Co  Ag Pi (NIL)		421	CoLg	G2 V BD	0	(668-5)	[8747]	BCD	11	-1440
+1281	Beyo	E	0220	Innuit	CB977B9-6	 	     Co  Ag Pi (NIL)		221	Wild	G2 V BD	0	(367+1)	[8786]	BCD	11	126
+1508	Beyo	E	0220	Innuit	CB97754-8	 	     Co  Ag Pi (NIL)		121	Wild	G2 V BD	0	(668+3)	[A765]	BCD	11	864
+1900	Beyo	E	0220	Innuit	CB97776-8	 	     Co  Ag Pi (NIL)		121	Wild	G2 V BD	0	(667+2)	[6747]	BCD	11	504
+
+1105	Beyo	I	0226	Phoenix	C666559-9	 	      Ag Pr Ga Ni 		713	CoLg	G1 V	0	(A45-4)	[15AC]	BcC	13	-800
+1281	Beyo	I	0226	Phoenix	C666476-6	 	      Ga Ni Pa 		313	Wild	G1 V	-2	(630+3)	[5255]	Bc	13	54
+1508	Beyo	I	0226	Phoenix	C666474-7	 	      Ga Ni Pa 		313	Wild	G1 V	-2	(634+5)	[3267]	Bc	13	360
+1900	Beyo	I	0226	Phoenix	C666455-9	 	      Ga Ni Pa 		413	Wild	G1 V	-1	(A33+1)	[436C]	Bc	13	90
+
+1105	Beyo	M	0232	Zydoquir	D522363-8	 	    O:0630 Fr Sa  He Lo Po 		124	ZyCo	G2 V D	-3	(C20-1)	[4158]	B	14	-24
+1281	Beyo	M	0232	Zydoquir	D522000-8	 	    O:0630 Fr Sa  Di He Po 		024	Wild	G2 V D	-3	(C00-1)	[0000]	B	14	-12
+1508	Beyo	M	0232	Zydoquir	D522000-8	 	    O:0630 Fr Sa  Di He Po 		024	Wild	G2 V D	-3	(C00+2)	[0000]	B	14	24
+1900	Beyo	M	0232	Zydoquir	D522000-8	 	    O:0630 Fr Sa  Di He Po 		024	Wild	G2 V D	-3	(C00-2)	[0000]	B	14	-24
+
+1105	Beyo	M	0238	Deata Chi	D323240-6	 	     Lo Po 		812	NaHu	K8 V	-3	(910+1)	[1155]	B	12	9
+1281	Beyo	M	0238	Deata Chi	D323000-6	 	     Di Po 		012	Wild	K8 V	-3	(900-1)	[0000]	B	12	-9
+1508	Beyo	M	0238	Deata Chi	D323000-6	 	     Di Po 		012	Wild	K8 V	-3	(900+1)	[0000]	B	12	9
+1900	Beyo	M	0238	Deata Chi	D323000-6	 	     Di Po 		012	Wild	K8 V	-3	(900-4)	[0000]	B	12	-36
+
+1105	Beyo	A	0304	Sextans	B767853-A	 	      Ga Pa Ri Ph (NIL)		920	MaCl	K3 V M1 V	3	(776+1)	[7B6D]	BcCe	10	294
+1281	Beyo	A	0304	Sextans	B767877-7	 	      Ga Pa Ri Ph (NIL)		420	Wild	K3 V M1 V	1	(574+1)	[9938]	BcCe	10	140
+1508	Beyo	A	0304	Sextans	B76789D-8	 	      Ga Pa Ri Ph (NIL)		520	Wild	K3 V M1 V	1	(778+1)	[9938]	BcCe	10	392
+1900	Beyo	A	0304	Sextans	B767844-9	 	      Ga Pa Ri Ph (NIL)		620	Wild	K3 V M1 V	2	(77B+1)	[5A68]	BcCe	10	539
+
+1105	Beyo	A	0307	Araataga	D446651-7	 	    Fr Sa  Ag Ni 		424	MaCl	K6 V M3 V	-2	(752+2)	[7476]	BC	10	140
+1281	Beyo	A	0307	Araataga	D446000-7	 	     Fr Sa  Di 		024	Wild	K6 V M3 V	-3	(700+4)	[0000]	B	10	28
+1508	Beyo	A	0307	Araataga	D446000-7	 	     Fr Sa  Di 		024	Wild	K6 V M3 V	-3	(700+4)	[0000]	B	10	28
+1900	Beyo	A	0307	Araataga	D446000-7	 	     Fr Sa  Di 		024	Wild	K6 V M3 V	-3	(700+4)	[0000]	B	10	28
+
+1105	Beyo	E	0311	Trayfowen	CA64549-9	 	     Co  Ag Pr Ni 		522	CoLg	K1 V	0	(D43+1)	[355A]	BcC	10	156
+1281	Beyo	E	0311	Trayfowen	CA64445-7	 	     Co  Ni Pa 		222	Wild	K1 V	-2	(930+1)	[2215]	Bc	10	27
+1508	Beyo	E	0311	Trayfowen	CA64412-8	 	     Co  Ni Pa 		222	Wild	K1 V	-2	(D30-1)	[323A]	Bc	10	-39
+1900	Beyo	E	0311	Trayfowen	CA64425-9	 	     Co  Ni Pa 		322	Wild	K1 V	-1	(D35+1)	[6346]	Bc	10	195
+
+1105	Beyo	E	0312	Chicomecal	D333322-8	 	    Ho Tz  Lo Po 		324	CoLg	M2 V M2 V	-3	(A20+2)	[6185]	B	11	40
+1281	Beyo	E	0312	Chicomecal	D333000-8	 	    Ho Tz  Di Po 		024	Wild	M2 V M2 V	-3	(A00-1)	[0000]	B	11	-10
+1508	Beyo	E	0312	Chicomecal	D333000-8	 	    Ho Tz  Di Po 		024	Wild	M2 V M2 V	-3	(A00-3)	[0000]	B	11	-30
+1900	Beyo	E	0312	Chicomecal	D333000-8	 	    Ho Tz  Di Po 		024	Wild	M2 V M2 V	-3	(A00-2)	[0000]	B	11	-20
+
+1105	Beyo	E	0313	Qat's Key	CA54454-6	 	     Ni Pa 		324	CoLg	K5 V	-2	(230-4)	[3295]	Bc	15	-24
+1281	Beyo	E	0313	Qat's Key	CA5449C-3	 	     Ni Pa 		124	Wild	K5 V	-2	(231-1)	[2231]	Bc	15	-6
+1508	Beyo	E	0313	Qat's Key	CA54433-4	 	     Ni Pa 		224	Wild	K5 V	-2	(234+2)	[5214]	Bc	15	48
+1900	Beyo	E	0313	Qat's Key	CA54474-5	 	     Ni Pa 		124	Wild	K5 V	-2	(230+3)	[1276]	Bc	15	18
+
+1105	Beyo	E	0314	Corella	A864855-D	 	       Pa Ri Ph (NIL)		834	CoLg	G2 V G8 V	4	(F7C+1)	[B958]	BcCef	11	1260
+1281	Beyo	E	0314	Corella	A86488D-A	 	       Pa Ri Ph (NIL)		434	Wild	G2 V G8 V	3	(F7D-2)	[AB4B]	BcCe	11	-2730
+1508	Beyo	E	0314	Corella	A8648DA-D	 	       Pa Ri Ph (NIL)		534	Wild	G2 V G8 V	3	(F7C+1)	[9B4F]	BcCe	11	1260
+1900	Beyo	E	0314	Corella	A864885-C	 	       Pa Ri Ph (NIL)		634	Wild	G2 V G8 V	3	(F7D-1)	[AB4B]	BcCe	11	-1365
+
+1105	Beyo	E	0316	Liberty	C4406BB-9	 	     Da Tz  De He Ni Po 	A	312	CoLg	M1 V	-1	(655+2)	[555C]	B	8	300
+1281	Beyo	E	0316	Liberty	C440673-7	 	     Da Tz  De He Ni Po 		112	Wild	M1 V	-2	(350-4)	[944A]	B	8	-60
+1508	Beyo	E	0316	Liberty	C440651-9	 	     Da Tz  De He Ni Po 		212	Wild	M1 V	-1	(655+1)	[656B]	B	8	150
+1900	Beyo	E	0316	Liberty	C440677-9	 	     Da Tz  De He Ni Po 		112	Wild	M1 V	-1	(654-3)	[5565]	B	8	-360
+
+1105	Beyo	E	0318	Shangra La	EB66421-4	 	     Ni Pa 		515	CoLg	K3 V M1 V	-3	(230+1)	[5153]	Bc	13	6
+1281	Beyo	E	0318	Shangra La	EB66000-4	 	      Di 		015	Wild	K3 V M1 V	-3	(200+1)	[0000]	B	13	2
+1508	Beyo	E	0318	Shangra La	EB66000-4	 	      Di 		015	Wild	K3 V M1 V	-3	(200-2)	[0000]	B	13	-4
+1900	Beyo	E	0318	Shangra La	EB66000-4	 	      Di 		015	Wild	K3 V M1 V	-3	(200-2)	[0000]	B	13	-4
+
+1105	Beyo	I	0328	Keshto	C645644-6	 	     Ag Ni 		324	NaHu	M0 V	-1	(551-4)	[6526]	BC	11	-100
+1281	Beyo	I	0328	Keshto	E645000-6	 	      Di 		024	Wild	M0 V	-3	(500+1)	[0000]	B	11	5
+1508	Beyo	I	0328	Keshto	E645000-6	 	      Di 		024	Wild	M0 V	-3	(500+1)	[0000]	B	11	5
+1900	Beyo	I	0328	Keshto	E645000-6	 	      Di 		024	Wild	M0 V	-3	(500+3)	[0000]	B	11	15
+
+1105	Beyo	I	0329	Indaraliggu	B57A557-B	 	    Co Sa  Ni Wa 		423	CoLg	M0 V BD	1	(D46+2)	[4647]	B	14	624
+1281	Beyo	I	0329	Indaraliggu	X57A000-B	 	    Co Sa  Di Wa 		023	Wild	M0 V BD	-1	(D00+4)	[0000]	B	14	52
+1508	Beyo	I	0329	Indaraliggu	X57A000-B	 	    Co Sa  Di Wa 		023	Wild	M0 V BD	-1	(D00+1)	[0000]	B	14	13
+1900	Beyo	I	0329	Indaraliggu	X57A000-B	 	    Co Sa  Di Wa 		023	Wild	M0 V BD	-1	(D00-2)	[0000]	B	14	-26
+
+1105	Beyo	M	0335	Efflung	CAC7100-C	 	      Fl Lo 		723	HeCo	M8 V BD	0	(B00+2)	[113E]	B	15	22
+1281	Beyo	M	0335	Efflung	XAC7000-C	 	      Di Fl 		023	Wild	M8 V BD	-1	(B00+1)	[0000]	B	15	11
+1508	Beyo	M	0335	Efflung	XAC7000-C	 	      Di Fl 		023	Wild	M8 V BD	-1	(B00+2)	[0000]	B	15	22
+1900	Beyo	M	0335	Efflung	XAC7000-C	 	      Di Fl 		023	Wild	M8 V BD	-1	(B00-2)	[0000]	B	15	-22
+
+1105	Beyo	M	0336	Teldarra	C8A8313-C	 	     Fl Lo 		413	HeCo	F4 V M1 V	0	(920-1)	[432B]	B	13	-18
+1281	Beyo	M	0336	Teldarra	E8A8000-C	 	     Di Fl 		013	Wild	F4 V M1 V	-1	(900-1)	[0000]	B	13	-9
+1508	Beyo	M	0336	Teldarra	E8A8000-C	 	     Di Fl 		013	Wild	F4 V M1 V	-1	(900+3)	[0000]	B	13	27
+1900	Beyo	M	0336	Teldarra	E8A8000-C	 	     Di Fl 		013	Wild	F4 V M1 V	-1	(900+2)	[0000]	B	13	18
+
+1105	Beyo	M	0337	Eromnek	B4025A9-8	 	     Sa  Ic Va Ni 		511	HeCo	M3 V M6 V	-1	(642+2)	[4436]	B	14	96
+1281	Beyo	M	0337	Eromnek	B4025A8-6	 	     Sa  Ic Va Ni 		211	Wild	M3 V M6 V	-1	(440+1)	[5452]	B	14	16
+1508	Beyo	M	0337	Eromnek	B40259A-7	 	     Sa  Ic Va Ni 		311	Wild	M3 V M6 V	-1	(445-5)	[7475]	B	14	-400
+1900	Beyo	M	0337	Eromnek	B402542-8	 	     Sa  Ic Va Ni 		411	Wild	M3 V M6 V	-1	(645+1)	[7474]	B	14	120
+
+1105	Beyo	M	0340	Gonzo	E872000-0	 	     Ba He 		014	NaXX	K1 V	-3	(800+2)	[0000]	B	14	16
+1281	Beyo	M	0340	Gonzo	E872000-0	 	     Ba He 		014	Wild	K1 V	-3	(800-3)	[0000]	B	14	-24
+1508	Beyo	M	0340	Gonzo	E872000-0	 	     Ba He 		014	Wild	K1 V	-3	(800+4)	[0000]	B	14	32
+1900	Beyo	M	0340	Gonzo	E872000-0	 	     Ba He 		014	Wild	K1 V	-3	(800-1)	[0000]	B	14	-8
+
+1105	Beyo	A	0401	Vlad	C664659-5	 	      Ag Ri Ni 		511	MaCl	G5 V	0	(456+1)	[96A8]	BC	7	120
+1281	Beyo	A	0401	Vlad	C664678-2	 	      Ag Ri Ni 		211	Wild	G5 V	0	(456+1)	[5671]	BC	7	120
+1508	Beyo	A	0401	Vlad	C664673-3	 	      Ag Ri Ni 		111	Wild	G5 V	0	(454+1)	[8655]	BC	7	80
+1900	Beyo	A	0401	Vlad	C664548-5	 	      Ag Pr Ni 		911	Wild	G5 V	-1	(441+1)	[5442]	BcC	7	16
+
+1105	Beyo	A	0402	Beaumonde	CA99974-B	 	    Ho  Hi In (NIL)		433	MaCl	K9 V M4 V M0 V M5 V	3	(F8D+3)	[BC5B]	BE	13	4680
+1281	Beyo	A	0402	Beaumonde	CA99954-A	 	    Ho  Hi In (NIL)		233	Wild	K9 V M4 V M0 V M5 V	3	(F88+3)	[7C49]	BE	13	2880
+1508	Beyo	A	0402	Beaumonde	CA9999E-A	 	    Ho  Hi In (NIL)		333	Wild	K9 V M4 V M0 V M5 V	3	(F8B+2)	[9C37]	BE	13	2640
+1900	Beyo	A	0402	Beaumonde	CA99978-B	 	    Ho  Hi In (NIL)		233	Wild	K9 V M4 V M0 V M5 V	3	(F8E+1)	[9C4C]	BE	13	1680
+
+1105	Beyo	A	0405	Lilith	D7665A7-5	 	     Ho Tr  Ag Pr Ga Ni 		224	MaCl	K1 V K1 V	-2	(542-1)	[3327]	BcC	14	-40
+1281	Beyo	A	0405	Lilith	D766000-5	 	      Ho Tr  Di Ga 		024	Wild	K1 V K1 V	-3	(500-4)	[0000]	B	14	-20
+1508	Beyo	A	0405	Lilith	D766000-5	 	      Ho Tr  Di Ga 		024	Wild	K1 V K1 V	-3	(500+1)	[0000]	B	14	5
+1900	Beyo	A	0405	Lilith	D766000-5	 	      Ho Tr  Di Ga 		024	Wild	K1 V K1 V	-3	(500+1)	[0000]	B	14	5
+
+1105	Beyo	A	0409	Between	B996783-A	 	     Ho  Ag Pi (NIL)		514	NaHu	G7 V	3	(768+2)	[8A5A]	BCD	14	672
+1281	Beyo	A	0409	Between	E996000-A	 	    Ho  Di Pi (NIL)		014	Wild	G7 V	-1	(700+2)	[0000]	BD	14	14
+1508	Beyo	A	0409	Between	E996000-A	 	     Ho  Di (NIL)		014	Wild	G7 V	-1	(700-3)	[0000]	B	14	-21
+1900	Beyo	A	0409	Between	E996000-A	 	     Ho  Di (NIL)		014	Wild	G7 V	-1	(700-3)	[0000]	B	14	-21
+
+1105	Beyo	E	0417	Aytah	A000463-D	 	     O:0314  As Va Ni 		924	CoLg	M2 V	1	(C36+4)	[355F]	B	13	864
+1281	Beyo	E	0417	Aytah	A000479-B	 	     O:0314  As Va Ni 		424	Wild	M2 V	1	(C33+1)	[957F]	B	13	108
+1508	Beyo	E	0417	Aytah	A000489-C	 	     O:0314  As Va Ni 		324	Wild	M2 V	1	(C33-2)	[2519]	B	13	-216
+1900	Beyo	E	0417	Aytah	A000421-D	 	     O:0314  As Va Ni 		424	Wild	M2 V	1	(C35+1)	[8559]	B	13	180
+
+1105	Beyo	I	0422	Farhaven	D552325-3	 	     Lo Po 		733	CoLg	K4 V	-3	(520+4)	[1121]	B	17	40
+1281	Beyo	I	0422	Farhaven	D552000-3	 	     Di Po 		033	Wild	K4 V	-3	(500+4)	[0000]	B	17	20
+1508	Beyo	I	0422	Farhaven	D552000-3	 	     Di Po 		033	Wild	K4 V	-3	(500-1)	[0000]	B	17	-5
+1900	Beyo	I	0422	Farhaven	D552000-3	 	     Di Po 		033	Wild	K4 V	-3	(500-2)	[0000]	B	17	-10
+
+1105	Beyo	I	0423	Nowhere	E67A000-0	 	    Fr Sa  Ba Wa 		023	CoLg	M1 V M2 V	-3	(300-4)	[0000]	B	11	-12
+1281	Beyo	I	0423	Nowhere	E67A000-0	 	    Fr Sa  Ba Wa 		023	Wild	M1 V M2 V	-3	(300+2)	[0000]	B	11	6
+1508	Beyo	I	0423	Nowhere	E67A000-0	 	    Fr Sa  Ba Wa 		023	Wild	M1 V M2 V	-3	(300-1)	[0000]	B	11	-3
+1900	Beyo	I	0423	Nowhere	E67A000-0	 	    Fr Sa  Ba Wa 		023	Wild	M1 V M2 V	-3	(300+2)	[0000]	B	11	6
+
+1105	Beyo	I	0430	Nestor	B684216-C	 	    Ho Tr  Lo 		323	NaHu	K2 V	1	(B11+2)	[136F]	B	12	22
+1281	Beyo	I	0430	Nestor	X684000-C	 	    Ho Tr  Di 		023	Wild	K2 V	-1	(B00+1)	[0000]	B	12	11
+1508	Beyo	I	0430	Nestor	X684000-C	 	    Ho Tr  Di 		023	Wild	K2 V	-1	(B00+2)	[0000]	B	12	22
+1900	Beyo	I	0430	Nestor	X684000-C	 	    Ho Tr  Di 		023	Wild	K2 V	-1	(B00-1)	[0000]	B	12	-11
+
+1105	Beyo	M	0431	Zydanar	B442555-A	 	     He Ni Po 		512	ZyCo	M0 V M3 V	1	(743-4)	[5658]	B	10	-336
+1281	Beyo	M	0431	Zydanar	X442000-A	 	     Di He Po 		012	Wild	M0 V M3 V	-1	(700+2)	[0000]	B	10	14
+1508	Beyo	M	0431	Zydanar	X442000-A	 	     Di He Po 		012	Wild	M0 V M3 V	-1	(700-3)	[0000]	B	10	-21
+1900	Beyo	M	0431	Zydanar	X442000-A	 	     Di He Po 		012	Wild	M0 V M3 V	-1	(700-1)	[0000]	B	10	-7
+
+1105	Beyo	M	0432	Zydexnar	B852326-B	 	    Ho  Lo Po 		323	ZyCo	F8 V	1	(C21+1)	[8459]	B	17	24
+1281	Beyo	M	0432	Zydexnar	X852000-B	 	    Ho  Di Po 		023	Wild	F8 V	-1	(C00-1)	[0000]	B	17	-12
+1508	Beyo	M	0432	Zydexnar	X852000-B	 	    Ho  Di Po 		023	Wild	F8 V	-1	(C00+1)	[0000]	B	17	12
+1900	Beyo	M	0432	Zydexnar	X852000-B	 	    Ho  Di Po 		023	Wild	F8 V	-1	(C00+2)	[0000]	B	17	24
+
+1105	Beyo	M	0434	Kuuna	D000225-9	 	      As Va Lo 		321	HeCo	M2 V	-2	(910+3)	[117B]	B	14	27
+1281	Beyo	M	0434	Kuuna	D000000-9	 	      As Va Di 		021	Wild	M2 V	-2	(900+1)	[0000]	B	14	9
+1508	Beyo	M	0434	Kuuna	D000000-9	 	      As Va Di 		021	Wild	M2 V	-2	(900-1)	[0000]	B	14	-9
+1900	Beyo	M	0434	Kuuna	D000000-9	 	      As Va Di 		021	Wild	M2 V	-2	(900+1)	[0000]	B	14	9
+
+1105	Beyo	M	0435	Bartinil	DA57147-6	 	     Lo 		610	HeCo	K2 V	-3	(700+2)	[1163]	B	5	14
+1281	Beyo	M	0435	Bartinil	DA57000-6	 	     Di 		010	Wild	K2 V	-3	(700-3)	[0000]	B	5	-21
+1508	Beyo	M	0435	Bartinil	DA57000-6	 	     Di 		010	Wild	K2 V	-3	(700-1)	[0000]	B	5	-7
+1900	Beyo	M	0435	Bartinil	DA57000-6	 	     Di 		010	Wild	K2 V	-3	(700-2)	[0000]	B	5	-14
+
+1105	Beyo	A	0504	Jheszes	C323250-8	 	    Co  Lo Po 		522	MaCl	K7 V M2 V	-2	(D10-1)	[1176]	B	11	-13
+1281	Beyo	A	0504	Jheszes	E323000-8	 	    Co  Di Po 		022	Wild	K7 V M2 V	-3	(D00-1)	[0000]	B	11	-13
+1508	Beyo	A	0504	Jheszes	E323000-8	 	    Co  Di Po 		022	Wild	K7 V M2 V	-3	(D00+2)	[0000]	B	11	26
+1900	Beyo	A	0504	Jheszes	E323000-8	 	    Co  Di Po 		022	Wild	K7 V M2 V	-3	(D00-3)	[0000]	B	11	-39
+
+1105	Beyo	A	0506	Opar Nevis	D867872-6	 	      Ga Pa Ri Ph (NIL)		323	MaCl	F9 V	-1	(774-1)	[D732]	BcCe	11	-196
+1281	Beyo	A	0506	Opar Nevis	D867876-4	 	      Ga Pa Ri Ph (NIL)		123	Wild	F9 V	-1	(77A+4)	[A764]	BcCe	11	1960
+1508	Beyo	A	0506	Opar Nevis	D867889-5	 	      Ga Pa Ri Ph (NIL)		223	Wild	F9 V	-1	(777-2)	[B754]	BcCe	11	-686
+1900	Beyo	A	0506	Opar Nevis	D867848-6	 	      Ga Pa Ri Ph (NIL)		323	Wild	F9 V	-1	(77A-1)	[4744]	BcCe	11	-490
+
+1105	Beyo	A	0507	Kawstee	C564595-6	 	     Sa  Ag Pr Ni 		833	MaCl	K1 V M1 V	-1	(A42-2)	[4447]	BcC	15	-160
+1281	Beyo	A	0507	Kawstee	C564525-4	 	     Sa  Ag Pr Ni 		433	Wild	K1 V M1 V	-1	(A43+5)	[5417]	BcC	15	600
+1508	Beyo	A	0507	Kawstee	C564576-5	 	     Sa  Ag Pr Ni 		333	Wild	K1 V M1 V	-1	(A44-3)	[4423]	BcC	15	-480
+1900	Beyo	A	0507	Kawstee	C564510-6	 	     Sa  Ag Pr Ni 		433	Wild	K1 V M1 V	-1	(A44+2)	[8449]	BcC	15	320
+
+1105	Beyo	A	0508	Bel's Station	B212313-A	 	    Ho Sa  Ic Lo 		424	NaHu	M5 V BD	1	(C21+1)	[741C]	B	16	24
+1281	Beyo	A	0508	Bel's Station	D212000-A	 	    Ho Sa  Di Ic 		024	Wild	M5 V BD	-1	(C00+1)	[0000]	B	16	12
+1508	Beyo	A	0508	Bel's Station	D212000-A	 	    Ho Sa  Di Ic 		024	Wild	M5 V BD	-1	(C00+1)	[0000]	B	16	12
+1900	Beyo	A	0508	Bel's Station	D212000-A	 	    Ho Sa  Di Ic 		024	Wild	M5 V BD	-1	(C00+4)	[0000]	B	16	48
+
+1105	Beyo	E	0511	Zeno	E613000-0	 	    Tz  Ba Ic 		011	NaXX	M1 V	-3	(600+1)	[0000]	B	12	6
+1281	Beyo	E	0511	Zeno	E613000-0	 	    Tz  Ba Ic 		011	Wild	M1 V	-3	(600+1)	[0000]	B	12	6
+1508	Beyo	E	0511	Zeno	E613000-0	 	    Tz  Ba Ic 		011	Wild	M1 V	-3	(600+2)	[0000]	B	12	12
+1900	Beyo	E	0511	Zeno	E613000-0	 	    Tz  Ba Ic 		011	Wild	M1 V	-3	(600+1)	[0000]	B	12	6
+
+1105	Beyo	E	0512	Tezcat	D548220-7	 	     Lo 		822	CoLg	K4 V K9 V	-3	(310-3)	[511A]	B	12	-9
+1281	Beyo	E	0512	Tezcat	D548000-7	 	     Di 		022	Wild	K4 V K9 V	-3	(300+1)	[0000]	B	12	3
+1508	Beyo	E	0512	Tezcat	D548000-7	 	     Di 		022	Wild	K4 V K9 V	-3	(300+1)	[0000]	B	12	3
+1900	Beyo	E	0512	Tezcat	D548000-7	 	     Di 		022	Wild	K4 V K9 V	-3	(300+1)	[0000]	B	12	3
+
+1105	Beyo	E	0513	Chulte	B310555-B	 	    Sa  Ni 		723	CoLg	M1 V	1	(D46+1)	[565B]	B	10	312
+1281	Beyo	E	0513	Chulte	E310000-B	 	    Sa  Di 		023	Wild	M1 V	-1	(D00+1)	[0000]	B	10	13
+1508	Beyo	E	0513	Chulte	E310000-B	 	    Sa  Di 		023	Wild	M1 V	-1	(D00+2)	[0000]	B	10	26
+1900	Beyo	E	0513	Chulte	E310000-B	 	    Sa  Di 		023	Wild	M1 V	-1	(D00-1)	[0000]	B	10	-13
+
+1105	Beyo	E	0519	Xanadu	A7675A7-C	 	      Ag Pr Ga Ni 		814	CoLg	G4 V	2	(C46+2)	[671B]	BcC	12	576
+1281	Beyo	E	0519	Xanadu	D767000-C	 	       Di Ga 		014	Wild	G4 V	-1	(C00+4)	[0000]	B	12	48
+1508	Beyo	E	0519	Xanadu	D767000-C	 	       Di Ga 		014	Wild	G4 V	-1	(C00+1)	[0000]	B	12	12
+1900	Beyo	E	0519	Xanadu	D767000-C	 	       Di Ga 		014	Wild	G4 V	-1	(C00-2)	[0000]	B	12	-24
+
+1105	Beyo	I	0522	Dawn	E583783-3	 	    Ho  Ri (NIL)		523	CoLg	K4 V	-1	(86B+2)	[8655]	BC	16	1056
+1281	Beyo	I	0522	Dawn	E583799-1	 	    Ho  Ri (NIL)		223	Wild	K4 V	-1	(867-3)	[3633]	BC	16	-1008
+1508	Beyo	I	0522	Dawn	E583734-2	 	    Ho  Ri (NIL)		323	Wild	K4 V	-1	(867-3)	[7611]	BC	16	-1008
+1900	Beyo	I	0522	Dawn	E583774-3	 	    Ho  Ri (NIL)		223	Wild	K4 V	-1	(869+1)	[7631]	BC	16	432
+
+1105	Beyo	I	0528	Ouisahed	B576643-9	 	     Ag Ni 		503	CoLg	K0 V	1	(B55-2)	[3726]	BC	9	-550
+1281	Beyo	I	0528	Ouisahed	D576000-9	 	      Di 		003	Wild	K0 V	-2	(B00-1)	[0000]	B	9	-11
+1508	Beyo	I	0528	Ouisahed	D576000-9	 	      Di 		003	Wild	K0 V	-2	(B00+1)	[0000]	B	9	11
+1900	Beyo	I	0528	Ouisahed	D576000-9	 	      Di 		003	Wild	K0 V	-2	(B00+1)	[0000]	B	9	11
+
+1105	Beyo	M	0537	Hactor	D434339-7	 	    Lo Px 		631	NaHu	G3 V	-3	(920+1)	[1147]	B	13	18
+1281	Beyo	M	0537	Hactor	D434000-7	 	    Di Px 		031	Wild	G3 V	-3	(900+1)	[0000]	B	13	9
+1508	Beyo	M	0537	Hactor	D434000-7	 	     Di 		031	Wild	G3 V	-3	(900+3)	[0000]	B	13	27
+1900	Beyo	M	0537	Hactor	D434000-7	 	     Di 		031	Wild	G3 V	-3	(900+1)	[0000]	B	13	9
+
+1105	Beyo	A	0602	Mapepire Balsayn	A000835-D	 	       Sa  As Va Na Pi Ph 		723	MaCl	M4 V M4 V	2	(C7B+1)	[6A3F]	BDe	13	924
+1281	Beyo	A	0602	Mapepire Balsayn	A000872-B	 	       Sa  As Va Na Pi Ph 		323	Wild	M4 V M4 V	2	(C74+1)	[5A4C]	BDe	13	336
+1508	Beyo	A	0602	Mapepire Balsayn	A000877-C	 	       Sa  As Va Na Pi Ph 		223	Wild	M4 V M4 V	2	(C78+1)	[9A3B]	BDe	13	672
+1900	Beyo	A	0602	Mapepire Balsayn	A000874-D	 	       Sa  As Va Na Pi Ph 		323	Wild	M4 V M4 V	2	(C7A+1)	[DA5D]	BDe	13	840
+
+1105	Beyo	A	0608	Thorn	E552779-2	 	     Po (NIL)		632	NaHu	F9 V	-2	(865+2)	[C542]	B	10	480
+1281	Beyo	A	0608	Thorn	E552745-0	 	     Po (NIL)		332	Wild	F9 V	-2	(865-2)	[5561]	B	10	-480
+1508	Beyo	A	0608	Thorn	E552777-1	 	     Po (NIL)		432	Wild	F9 V	-2	(868+3)	[9541]	B	10	1152
+1900	Beyo	A	0608	Thorn	E552773-2	 	     Po (NIL)		332	Wild	F9 V	-2	(863+3)	[3582]	B	10	432
+
+1105	Beyo	E	0616	Kemlos	B5679B8-8	 	    (Kemlae) Sa  Hi Pr (NIL)		513	CoLg	M0 V	1	(A86-1)	[6A88]	BcE	9	-480
+1281	Beyo	E	0616	Kemlos	B567974-6	 	    (Kemlae) Sa  Hi Pr (NIL)		213	Wild	M0 V	1	(68A-2)	[6A69]	BcE	9	-960
+1508	Beyo	E	0616	Kemlos	B5679DE-9	 	    (Kemlae) Sa  Hi Pr (NIL)		313	Wild	M0 V	2	(A8C+3)	[6B37]	BcE	9	2880
+1900	Beyo	E	0616	Kemlos	B5679BA-8	 	    (Kemlae) Sa  Hi Pr (NIL)		413	Wild	M0 V	1	(A87+1)	[6A56]	BcE	9	560
+
+1105	Beyo	E	0618	Valhalla	A963844-B	 	    Ho Tr  Ph Ri (NIL)		622	CoLg	G8 V	4	(A7B+4)	[8C18]	BCef	10	3080
+1281	Beyo	E	0618	Valhalla	A96387A-9	 	    Ho Tr  Ph Ri (NIL)		322	Wild	G8 V	2	(A77-2)	[8A5A]	BCe	10	-980
+1508	Beyo	E	0618	Valhalla	A963888-A	 	    Ho Tr  Ph Ri (NIL)		422	Wild	G8 V	3	(A76+1)	[9B4A]	BCe	10	420
+1900	Beyo	E	0618	Valhalla	A96388D-B	 	    Ho Tr  Ph Ri (NIL)		322	Wild	G8 V	3	(A78-4)	[9B28]	BCe	10	-2240
+
+1105	Beyo	I	0623	Healer	E689422-5	 	    Ho  Ni 		523	CoLg	G3 V K3 V	-3	(631+3)	[3122]	B	12	54
+1281	Beyo	I	0623	Healer	E689000-5	 	    Ho  Di 		023	Wild	G3 V K3 V	-3	(600+1)	[0000]	B	12	6
+1508	Beyo	I	0623	Healer	E689000-5	 	    Ho  Di 		023	Wild	G3 V K3 V	-3	(600+3)	[0000]	B	12	18
+1900	Beyo	I	0623	Healer	E689000-5	 	    Ho  Di 		023	Wild	G3 V K3 V	-3	(600-3)	[0000]	B	12	-18
+
+1105	Beyo	I	0625	Asimov	D555695-B	 	     Ag Ni 		614	CoLg	K3 V	0	(752+3)	[862D]	BC	11	210
+1281	Beyo	I	0625	Asimov	D55569A-9	 	     Ag Ni 		314	Wild	K3 V	-1	(752-1)	[7538]	BC	11	-70
+1508	Beyo	I	0625	Asimov	D555686-A	 	     Ag Ni 		214	Wild	K3 V	0	(752-2)	[9679]	BC	11	-140
+1900	Beyo	I	0625	Asimov	D555645-B	 	     Ag Ni 		314	Wild	K3 V	0	(754+3)	[9666]	BC	11	420
+
+1105	Beyo	I	0626	Virtue	E571345-B	 	    Ho  He Lo 		822	CoLg	F7 V	-1	(920+1)	[125C]	B	11	18
+1281	Beyo	I	0626	Virtue	E571000-B	 	    Ho  Di He 		022	Wild	F7 V	-1	(900-1)	[0000]	B	11	-9
+1508	Beyo	I	0626	Virtue	E571000-B	 	    Ho  Di He 		022	Wild	F7 V	-1	(900+1)	[0000]	B	11	9
+1900	Beyo	I	0626	Virtue	E571000-B	 	    Ho  Di He 		022	Wild	F7 V	-1	(900+2)	[0000]	B	11	18
+
+1105	Beyo	I	0630	Zydar	A9669D9-A	 	     Pz  Hi Pr (NIL)	A	820	ZyCo	G2 V	3	(D8D+4)	[AC6B]	BcE	10	5408
+1281	Beyo	I	0630	Zydar	A966999-6	 	     Pz  Hi Pr (NIL)		420	Wild	G2 V	1	(B87-2)	[5A47]	BcE	10	-1232
+1508	Beyo	I	0630	Zydar	A966941-7	 	     Pz  Hi Pr (NIL)		520	Wild	G2 V	1	(B89-1)	[7A27]	BcE	10	-792
+1900	Beyo	I	0630	Zydar	A96699A-8	 	     Pz  Hi Pr (NIL)		420	Wild	G2 V	1	(D89+1)	[BA9B]	BcE	10	936
+
+1105	Beyo	M	0636	Homeward	C100212-A	 	    Fr Sa  Lo Va 		413	NaHu	M5 V	0	(A10-1)	[3217]	B	13	-10
+1281	Beyo	M	0636	Homeward	X100000-A	 	    Fr Sa  Di Va 		013	Wild	M5 V	-1	(A00+3)	[0000]	B	13	30
+1508	Beyo	M	0636	Homeward	X100000-A	 	    Fr Sa  Di Va 		013	Wild	M5 V	-1	(A00-3)	[0000]	B	13	-30
+1900	Beyo	M	0636	Homeward	X100000-A	 	    Fr Sa  Di Va 		013	Wild	M5 V	-1	(A00+1)	[0000]	B	13	10
+
+1105	Beyo	M	0639	Hornent	XDB1000-0	 	     Ba Fl 		031	NaXX	M1 V M8 V	-3	(500-2)	[0000]	B	12	-10
+1281	Beyo	M	0639	Hornent	XDB1000-0	 	     Ba Fl 		031	Wild	M1 V M8 V	-3	(500+1)	[0000]	B	12	5
+1508	Beyo	M	0639	Hornent	XDB1000-0	 	     Ba Fl 		031	Wild	M1 V M8 V	-3	(500+1)	[0000]	B	12	5
+1900	Beyo	M	0639	Hornent	XDB1000-0	 	     Ba Fl 		031	Wild	M1 V M8 V	-3	(500-5)	[0000]	B	12	-25
+
+1105	Beyo	A	0704	Friedland	C533310-7	 	    Ho  Lo Po 		424	MaCl	G6 V	-2	(420-4)	[3186]	B	14	-32
+1281	Beyo	A	0704	Friedland	X533000-7	 	    Ho  Di Po 		024	Wild	G6 V	-3	(400+1)	[0000]	B	14	4
+1508	Beyo	A	0704	Friedland	X533000-7	 	    Ho  Di Po 		024	Wild	G6 V	-3	(400+2)	[0000]	B	14	8
+1900	Beyo	A	0704	Friedland	X533000-7	 	    Ho  Di Po 		024	Wild	G6 V	-3	(400+1)	[0000]	B	14	4
+
+1105	Beyo	A	0705	Terdis	C769748-8	 	     Ri (NIL)		513	MaCl	G7 V M3 V	0	(B63+2)	[B78A]	BC	12	396
+1281	Beyo	A	0705	Terdis	C769773-6	 	     Ri (NIL)		213	Wild	G7 V M3 V	0	(763+1)	[8782]	BC	12	126
+1508	Beyo	A	0705	Terdis	C769775-7	 	     Ri (NIL)		113	Wild	G7 V M3 V	0	(762+1)	[A798]	BC	12	84
+1900	Beyo	A	0705	Terdis	C769787-8	 	     Ri (NIL)		113	Wild	G7 V M3 V	0	(B69+1)	[274B]	BC	12	594
+
+1105	Beyo	E	0714	Garr	D8679D8-4	 	     Ga Hi Pr (NIL)		422	CoLg	F9 V	-1	(686-1)	[B841]	BcE	8	-288
+1281	Beyo	E	0714	Garr	D8679CD-0	 	     Ga Hi Pr (NIL)		222	Wild	F9 V	-1	(683+1)	[B845]	BcE	8	144
+1508	Beyo	E	0714	Garr	D8679B9-1	 	     Ga Hi Pr (NIL)		322	Wild	F9 V	-1	(689-2)	[8831]	BcE	8	-864
+1900	Beyo	E	0714	Garr	D867958-3	 	     Ga Hi Pr (NIL)		322	Wild	F9 V	-1	(686+1)	[B861]	BcE	8	288
+
+1105	Beyo	E	0718	Enigma	C454212-A	 	    An Fo Ho  Lo 	R	623	CoLg	K2 IV	0	(C10-1)	[1295]	B	11	-12
+1281	Beyo	E	0718	Enigma	X454000-A	 	    An Fo Ho  Di 		023	Wild	K2 IV	-1	(C00+4)	[0000]	B	11	48
+1508	Beyo	E	0718	Enigma	X454000-A	 	    An Fo Ho  Di 		023	Wild	K2 IV	-1	(C00+2)	[0000]	B	11	24
+1900	Beyo	E	0718	Enigma	X454000-A	 	    An Fo Ho  Di 		023	Wild	K2 IV	-1	(C00-4)	[0000]	B	11	-48
+
+1105	Beyo	E	0719	Kadeth	B320666-9	 	      O:0618 Sa  De He Na Po Ni 		714	CoLg	M4 V	0	(G55+4)	[764B]	B	12	1600
+1281	Beyo	E	0719	Kadeth	B320678-7	 	      O:0618 Sa  De He Na Po Ni 		314	Wild	M4 V	-1	(B55+1)	[5532]	B	12	275
+1508	Beyo	E	0719	Kadeth	B320673-8	 	      O:0618 Sa  De He Na Po Ni 		414	Wild	M4 V	-1	(G50-3)	[8579]	B	12	-240
+1900	Beyo	E	0719	Kadeth	B320676-9	 	      O:0618 Sa  De He Na Po Ni 		314	Wild	M4 V	0	(G54+1)	[861D]	B	12	320
+
+1105	Beyo	I	0723	Atlantis	B86A657-C	 	     Ni Ri Wa 		534	CoLg	G2 V	2	(955+2)	[786A]	BC	11	450
+1281	Beyo	I	0723	Atlantis	B86A577-A	 	     Ni Pr Wa 		234	Wild	G2 V	1	(943-3)	[6639]	Bc	11	-324
+1508	Beyo	I	0723	Atlantis	B86A545-B	 	     Ni Pr Wa 		134	Wild	G2 V	1	(944+1)	[462E]	Bc	11	144
+1900	Beyo	I	0723	Atlantis	B86A540-C	 	     Ni Pr Wa 		234	Wild	G2 V	1	(944+1)	[263C]	Bc	11	144
+
+1105	Beyo	I	0724	Kermanshah	C412456-A	 	    Co Tz  Ic Ni 		912	CoLg	M9 V	0	(633+1)	[5487]	B	7	54
+1281	Beyo	I	0724	Kermanshah	C412445-7	 	    Co Tz  Ic Ni 		412	Wild	M9 V	-2	(333+1)	[5247]	B	7	27
+1508	Beyo	I	0724	Kermanshah	C412411-8	 	    Co Tz  Ic Ni 		512	Wild	M9 V	-2	(634+1)	[2247]	B	7	72
+1900	Beyo	I	0724	Kermanshah	C412444-9	 	    Co Tz  Ic Ni 		412	Wild	M9 V	-1	(632+1)	[834A]	B	7	36
+
+1105	Beyo	M	0735	Haes	E533561-6	 	    Ho   Cy Ni Po 		310	NaHu	G5 V	-3	(A42-1)	[4245]	B	10	-80
+1281	Beyo	M	0735	Haes	E533000-6	 	    Ho   Cy Di Po 		010	Wild	G5 V	-3	(A00+3)	[0000]	B	10	30
+1508	Beyo	M	0735	Haes	E533000-6	 	    Ho   Di Po 		010	Wild	G5 V	-3	(A00-4)	[0000]	B	10	-40
+1900	Beyo	M	0735	Haes	E533000-6	 	    Ho   Di Po 		010	Wild	G5 V	-3	(A00-1)	[0000]	B	10	-10
+
+1105	Beyo	M	0738	Nubb	XCCA000-0	 	     Ba Fl 		022	NaXX	A0 V	-3	(B00+1)	[0000]	B	12	11
+1281	Beyo	M	0738	Nubb	XCCA000-0	 	     Ba Fl 		022	Wild	A0 V	-3	(B00+3)	[0000]	B	12	33
+1508	Beyo	M	0738	Nubb	XCCA000-0	 	     Ba Fl 		022	Wild	A0 V	-3	(B00+1)	[0000]	B	12	11
+1900	Beyo	M	0738	Nubb	XCCA000-0	 	     Ba Fl 		022	Wild	A0 V	-3	(B00-3)	[0000]	B	12	-33
+
+1105	Beyo	M	0739	Apparos	B976753-9	 	      Ag Pi (NIL)		811	NaHu	K0 IV	2	(A6B+1)	[7966]	BCD	15	660
+1281	Beyo	M	0739	Apparos	D976000-9	 	     Di Pi (NIL)		011	Wild	K0 IV	-2	(A00-3)	[0000]	BD	15	-30
+1508	Beyo	M	0739	Apparos	D976000-9	 	      Di (NIL)		011	Wild	K0 IV	-2	(A00-3)	[0000]	B	15	-30
+1900	Beyo	M	0739	Apparos	D976000-9	 	      Di (NIL)		011	Wild	K0 IV	-2	(A00+1)	[0000]	B	15	10
+
+1105	Beyo	A	0803	Hunyadi	C986479-B	 	     Ni Pa 		513	NaHu	K3 V	0	(834+1)	[7498]	Bc	12	96
+1281	Beyo	A	0803	Hunyadi	X986000-B	 	      Di 		013	Wild	K3 V	-1	(800-1)	[0000]	B	12	-8
+1508	Beyo	A	0803	Hunyadi	X986000-B	 	      Di 		013	Wild	K3 V	-1	(800-2)	[0000]	B	12	-16
+1900	Beyo	A	0803	Hunyadi	X986000-B	 	      Di 		013	Wild	K3 V	-1	(800-3)	[0000]	B	12	-24
+
+1105	Beyo	A	0806	Glynaese	B867733-8	 	     Ho Tr  Ag Ri Ga (NIL)		322	NaHu	F7 V	2	(C67+3)	[7924]	BC	8	1512
+1281	Beyo	A	0806	Glynaese	B867795-6	 	     Ho Tr  Ag Ri Ga (NIL)		122	Wild	F7 V	2	(86A-1)	[A975]	BC	8	-480
+1508	Beyo	A	0806	Glynaese	B86777B-7	 	     Ho Tr  Ag Ri Ga (NIL)		222	Wild	F7 V	2	(865-2)	[594B]	BC	8	-480
+1900	Beyo	A	0806	Glynaese	B86779D-8	 	     Ho Tr  Ag Ri Ga (NIL)		122	Wild	F7 V	2	(C67+2)	[595B]	BC	8	1008
+
+1105	Beyo	E	0814	Azathoth	B544322-A	 	     Lo 		532	CoLg	K3 V	1	(E21+5)	[1429]	B	16	140
+1281	Beyo	E	0814	Azathoth	X544000-A	 	     Di 		032	Wild	K3 V	-1	(E00+5)	[0000]	B	16	70
+1508	Beyo	E	0814	Azathoth	X544000-A	 	     Di 		032	Wild	K3 V	-1	(E00+2)	[0000]	B	16	28
+1900	Beyo	E	0814	Azathoth	X544000-A	 	     Di 		032	Wild	K3 V	-1	(E00+5)	[0000]	B	16	70
+
+1105	Beyo	E	0815	Siva	C000721-A	 	       As Va Na Pi 		723	CoLg	M5 V M7 V	1	(86A-1)	[B868]	BD	13	-480
+1281	Beyo	E	0815	Siva	C000740-8	 	       As Va Na Pi 		323	Wild	M5 V M7 V	-1	(865+5)	[761D]	BD	13	1200
+1508	Beyo	E	0815	Siva	C000777-9	 	       As Va Na Pi 		223	Wild	M5 V M7 V	0	(863-3)	[5759]	BD	13	-432
+1900	Beyo	E	0815	Siva	C000733-A	 	       As Va Na Pi 		123	Wild	M5 V M7 V	1	(86C-1)	[7858]	BD	13	-576
+
+1105	Beyo	I	0821	Farquhar	E967541-3	 	     Ho Tr  Ag Pr Ni 		523	CoLg	G7 V	-2	(444-1)	[5316]	BcC	13	-64
+1281	Beyo	I	0821	Farquhar	E967572-1	 	     Ho Tr  Ag Pr Ni 		223	Wild	G7 V	-2	(440+2)	[2361]	BcC	13	32
+1508	Beyo	I	0821	Farquhar	E967535-2	 	     Ho Tr  Ag Pr Ni 		123	Wild	G7 V	-2	(443-2)	[13A7]	BcC	13	-96
+1900	Beyo	I	0821	Farquhar	E967585-3	 	     Ho Tr  Ag Pr Ni 		123	Wild	G7 V	-2	(442-2)	[6375]	BcC	13	-64
+
+1105	Beyo	I	0825	Abchandler	C869674-6	 	    Co Tz  Ni Ri 		613	CoLg	M3 V M9 V	-1	(550-1)	[A577]	BC	11	-25
+1281	Beyo	I	0825	Abchandler	C869445-5	 	     Co Tz  Ni 		313	Wild	M3 V M9 V	-2	(533+2)	[2239]	B	11	90
+1508	Beyo	I	0825	Abchandler	C869411-6	 	     Co Tz  Ni 		313	Wild	M3 V M9 V	-2	(532+5)	[3253]	B	11	150
+1900	Beyo	I	0825	Abchandler	C869486-7	 	     Co Tz  Ni 		213	Wild	M3 V M9 V	-2	(530+1)	[2255]	B	11	15
+
+1105	Beyo	I	0828	Backside	E331000-0	 	    Co Sa  Ba Po 		023	NaHu	M4 V	-3	(600-5)	[0000]	B	10	-30
+1281	Beyo	I	0828	Backside	E331000-0	 	    Co Sa  Ba Po 		023	Wild	M4 V	-3	(600-1)	[0000]	B	10	-6
+1508	Beyo	I	0828	Backside	E331000-0	 	    Co Sa  Ba Po 		023	Wild	M4 V	-3	(600+3)	[0000]	B	10	18
+1900	Beyo	I	0828	Backside	E331000-0	 	    Co Sa  Ba Po 		023	Wild	M4 V	-3	(600+1)	[0000]	B	10	6
+
+1105	Beyo	B	0905	Fraldon	B100234-B	 	     Lo Va 		523	NaHu	G8 V	1	(B11-1)	[1367]	B	9	-11
+1281	Beyo	B	0905	Fraldon	D100000-B	 	     Di Va 		023	Wild	G8 V	-1	(B00-2)	[0000]	B	9	-22
+1508	Beyo	B	0905	Fraldon	D100000-B	 	     Di Va 		023	Wild	G8 V	-1	(B00+3)	[0000]	B	9	33
+1900	Beyo	B	0905	Fraldon	D100000-B	 	     Di Va 		023	Wild	G8 V	-1	(B00-1)	[0000]	B	9	-11
+
+1105	Beyo	F	0911	Nemesis	E5488DC-5	 	      Pa Pi Ph (NIL)		114	CoLg	G4 V	-2	(A72+1)	[6682]	BcDe	12	140
+1281	Beyo	F	0911	Nemesis	E548789-1	 	       Ag Pi (NIL)		514	Wild	G4 V	-1	(A63+1)	[5631]	BCD	12	180
+1508	Beyo	F	0911	Nemesis	E5487A7-2	 	       Ag Pi (NIL)		414	Wild	G4 V	-1	(A67+2)	[8681]	BCD	12	840
+1900	Beyo	F	0911	Nemesis	E548736-3	 	       Ag Pi (NIL)		314	Wild	G4 V	-1	(A67+2)	[7612]	BCD	12	840
+
+1105	Beyo	F	0915	Centrum	C5638C9-9	 	    Sa  Ph Ri (NIL)		622	CoLg	F6 V	1	(A78+1)	[9948]	BCe	12	560
+1281	Beyo	F	0915	Centrum	C5638BA-7	 	    Sa  Ph Ri (NIL)		322	Wild	F6 V	0	(675+2)	[888A]	BCe	12	420
+1508	Beyo	F	0915	Centrum	C563897-8	 	    Sa  Ph Ri (NIL)		422	Wild	F6 V	0	(A78+1)	[5859]	BCe	12	560
+1900	Beyo	F	0915	Centrum	C56389A-9	 	    Sa  Ph Ri (NIL)		322	Wild	F6 V	1	(A75+1)	[698A]	BCe	12	350
+
+1105	Beyo	F	0920	Angkor	E312775-8	 	     Sa  Ic Na Pi 		812	CoLg	M0 V M5 V	-2	(764+4)	[4564]	BD	12	672
+1281	Beyo	F	0920	Angkor	E312778-6	 	     Sa  Ic Na Pi 		412	Wild	M0 V M5 V	-2	(464+2)	[6534]	BD	12	192
+1508	Beyo	F	0920	Angkor	E312776-7	 	     Sa  Ic Na Pi 		512	Wild	M0 V M5 V	-2	(464+3)	[8546]	BD	12	288
+1900	Beyo	F	0920	Angkor	E31279B-8	 	     Sa  Ic Na Pi 		412	Wild	M0 V M5 V	-2	(765-5)	[3577]	BD	12	-1050
+
+1105	Beyo	J	0923	Emptor	E553566-7	 	    O:0723 Co  Ni Po 		930	CoLg	G4 V	-3	(640-1)	[829B]	B	8	-24
+1281	Beyo	J	0923	Emptor	E553579-5	 	    O:0723 Co  Ni Po 		430	Wild	G4 V	-3	(640+4)	[4285]	B	8	96
+1508	Beyo	J	0923	Emptor	E553588-6	 	    O:0723 Co  Ni Po 		530	Wild	G4 V	-3	(643+5)	[5285]	B	8	360
+1900	Beyo	J	0923	Emptor	E553575-7	 	    O:0723 Co  Ni Po 		430	Wild	G4 V	-3	(641+1)	[6235]	B	8	24
+
+1105	Beyo	J	0924	Mornavin	DB93310-A	 	    Ho  Lo 		410	CoLg	F9 IV G5 V K9 V	-1	(A20+1)	[327B]	B	7	20
+1281	Beyo	J	0924	Mornavin	DB93000-A	 	    Ho  Di 		010	Wild	F9 IV G5 V K9 V	-1	(A00-4)	[0000]	B	7	-40
+1508	Beyo	J	0924	Mornavin	DB93000-A	 	    Ho  Di 		010	Wild	F9 IV G5 V K9 V	-1	(A00+1)	[0000]	B	7	10
+1900	Beyo	J	0924	Mornavin	DB93000-A	 	    Ho  Di 		010	Wild	F9 IV G5 V K9 V	-1	(A00+1)	[0000]	B	7	10
+
+1105	Beyo	J	0930	Shashur	B43476A-9	 	    O:1230 Sa  (NIL)		723	NkCo	K5 V M0 V	1	(C64-3)	[4879]	B	12	-864
+1281	Beyo	J	0930	Shashur	B434788-7	 	    O:1230 Sa  (NIL)		323	Wild	K5 V M0 V	0	(768+2)	[C789]	B	12	672
+1508	Beyo	J	0930	Shashur	B43477B-8	 	    O:1230 Sa  (NIL)		223	Wild	K5 V M0 V	0	(C64-1)	[A744]	B	12	-288
+1900	Beyo	J	0930	Shashur	B434776-9	 	    O:1230 Sa  (NIL)		323	Wild	K5 V M0 V	1	(C63+4)	[A888]	B	12	864
+
+1105	Beyo	N	0935	Goal Terminus	B925432-A	 	    Fr  Ni 		522	NaHu	D	1	(736-2)	[158F]	B	14	-252
+1281	Beyo	N	0935	Goal Terminus	E925000-A	 	    Fr  Di 		022	Wild	D	-1	(700-1)	[0000]	B	14	-7
+1508	Beyo	N	0935	Goal Terminus	E925000-A	 	    Fr  Di 		022	Wild	D	-1	(700+1)	[0000]	B	14	7
+1900	Beyo	N	0935	Goal Terminus	E925000-A	 	    Fr  Di 		022	Wild	D	-1	(700-4)	[0000]	B	14	-28
+
+1105	Beyo	N	0938	Clanheim	D451531-9	 	    Co Sa  Ni Po 		723	NaHu	M1 V	-2	(940+1)	[5369]	B	10	36
+1281	Beyo	N	0938	Clanheim	D451554-8	 	    Co Sa  Ni Po 		323	Wild	M1 V	-3	(940+1)	[A21B]	B	10	36
+1508	Beyo	N	0938	Clanheim	D451535-8	 	    Co Sa  Ni Po 		423	Wild	M1 V	-3	(941+1)	[4258]	B	10	36
+1900	Beyo	N	0938	Clanheim	D451538-9	 	    Co Sa  Ni Po 		523	Wild	M1 V	-2	(940+1)	[63AB]	B	10	36
+
+1105	Beyo	B	1002	Dragonrest	C767485-7	 	    Tz  Ga Ni Pa 		834	NaHu	M1 V	-2	(732+3)	[4249]	Bc	15	126
+1281	Beyo	B	1002	Dragonrest	C767475-5	 	    Tz  Ga Ni Pa 		434	Wild	M1 V	-2	(734+1)	[4276]	Bc	15	84
+1508	Beyo	B	1002	Dragonrest	C767422-6	 	    Tz  Ga Ni Pa 		334	Wild	M1 V	-2	(730+1)	[7259]	Bc	15	21
+1900	Beyo	B	1002	Dragonrest	C767437-7	 	    Tz  Ga Ni Pa 		234	Wild	M1 V	-2	(734-1)	[8259]	Bc	15	-84
+
+1105	Beyo	B	1006	Bethoom	C200110-9	 	    Co  Lo Va 		603	NaHu	M0 V M7 V	-1	(600-5)	[4144]	B	11	-30
+1281	Beyo	B	1006	Bethoom	X200000-9	 	    Co  Di Va 		003	Wild	M0 V M7 V	-2	(600+1)	[0000]	B	11	6
+1508	Beyo	B	1006	Bethoom	X200000-9	 	    Co  Di Va 		003	Wild	M0 V M7 V	-2	(600+1)	[0000]	B	11	6
+1900	Beyo	B	1006	Bethoom	X200000-9	 	    Co  Di Va 		003	Wild	M0 V M7 V	-2	(600-1)	[0000]	B	11	-6
+
+1105	Beyo	F	1014	Tinzhy	C210200-8	 	    Co  Lo 		812	CoLg	M0 V	-2	(610-1)	[1158]	B	11	-6
+1281	Beyo	F	1014	Tinzhy	X210000-8	 	    Co  Di 		012	Wild	M0 V	-3	(600+1)	[0000]	B	11	6
+1508	Beyo	F	1014	Tinzhy	X210000-8	 	    Co  Di 		012	Wild	M0 V	-3	(600+3)	[0000]	B	11	18
+1900	Beyo	F	1014	Tinzhy	X210000-8	 	    Co  Di 		012	Wild	M0 V	-3	(600+2)	[0000]	B	11	12
+
+1105	Beyo	F	1017	Bran's Cage	X400100-8	 	    Fo Co  Lo Va 	R	112	CoLg	M1 V	-3	(A00+3)	[1179]	B	13	30
+1281	Beyo	F	1017	Bran's Cage	X400000-8	 	    Fo Co  Di Va 		012	Wild	M1 V	-3	(A00-2)	[0000]	B	13	-20
+1508	Beyo	F	1017	Bran's Cage	X400000-8	 	    Fo Co  Di Va 		012	Wild	M1 V	-3	(A00-3)	[0000]	B	13	-30
+1900	Beyo	F	1017	Bran's Cage	X400000-8	 	    Fo Co  Di Va 		012	Wild	M1 V	-3	(A00+2)	[0000]	B	13	20
+
+1105	Beyo	J	1023	Cambyses Nova	C546475-6	 	     Ni Pa 		513	CoLg	K0 V	-2	(933-2)	[6223]	Bc	11	-162
+1281	Beyo	J	1023	Cambyses Nova	D546000-6	 	      Di 		013	Wild	K0 V	-3	(900-3)	[0000]	B	11	-27
+1508	Beyo	J	1023	Cambyses Nova	D546000-6	 	      Di 		013	Wild	K0 V	-3	(900-4)	[0000]	B	11	-36
+1900	Beyo	J	1023	Cambyses Nova	D546000-6	 	      Di 		013	Wild	K0 V	-3	(900+1)	[0000]	B	11	9
+
+1105	Beyo	J	1024	Zebulon	D658343-7	 	    Co Sa  Lo 		423	CoLg	G4 V	-3	(320+1)	[1195]	B	15	6
+1281	Beyo	J	1024	Zebulon	D658000-7	 	    Co Sa  Di 		023	Wild	G4 V	-3	(300+1)	[0000]	B	15	3
+1508	Beyo	J	1024	Zebulon	D658000-7	 	    Co Sa  Di 		023	Wild	G4 V	-3	(300+3)	[0000]	B	15	9
+1900	Beyo	J	1024	Zebulon	D658000-7	 	    Co Sa  Di 		023	Wild	G4 V	-3	(300+1)	[0000]	B	15	3
+
+1105	Beyo	J	1026	Pit Stop	B100214-A	 	    Sa  Lo Va 		424	NaHu	M1 V	1	(E11+2)	[1348]	B	12	28
+1281	Beyo	J	1026	Pit Stop	E100000-A	 	    Sa  Di Va 		024	Wild	M1 V	-1	(E00+1)	[0000]	B	12	14
+1508	Beyo	J	1026	Pit Stop	E100000-A	 	    Sa  Di Va 		024	Wild	M1 V	-1	(E00+2)	[0000]	B	12	28
+1900	Beyo	J	1026	Pit Stop	E100000-A	 	    Sa  Di Va 		024	Wild	M1 V	-1	(E00+2)	[0000]	B	12	28
+
+1105	Beyo	J	1028	Roffair	C546512-A	 	     Ag Ni 		813	NkCo	K3 V D	1	(A42-2)	[6679]	BC	14	-160
+1281	Beyo	J	1028	Roffair	D546000-A	 	      Di 		013	Wild	K3 V D	-1	(A00-4)	[0000]	B	14	-40
+1508	Beyo	J	1028	Roffair	D546000-A	 	      Di 		013	Wild	K3 V D	-1	(A00+1)	[0000]	B	14	10
+1900	Beyo	J	1028	Roffair	D546000-A	 	      Di 		013	Wild	K3 V D	-1	(A00+5)	[0000]	B	14	50
+
+1105	Beyo	N	1031	Mien	C674410-A	 	     Ni Pa 		624	NkCo	K0 V	0	(B36+2)	[448A]	Bc	15	396
+1281	Beyo	N	1031	Mien	X674000-A	 	      Di 		024	Wild	K0 V	-1	(B00+1)	[0000]	B	15	11
+1508	Beyo	N	1031	Mien	X674000-A	 	      Di 		024	Wild	K0 V	-1	(B00+2)	[0000]	B	15	22
+1900	Beyo	N	1031	Mien	X674000-A	 	      Di 		024	Wild	K0 V	-1	(B00-1)	[0000]	B	15	-11
+
+1105	Beyo	N	1034	Perdiam	XDB3000-0	 	     Ba Fl 		010	NaXX	M2 V	-3	(900-2)	[0000]	B	7	-18
+1281	Beyo	N	1034	Perdiam	XDB3000-0	 	     Ba Fl 		010	Wild	M2 V	-3	(900-1)	[0000]	B	7	-9
+1508	Beyo	N	1034	Perdiam	XDB3000-0	 	     Ba Fl 		010	Wild	M2 V	-3	(900+1)	[0000]	B	7	9
+1900	Beyo	N	1034	Perdiam	XDB3000-0	 	     Ba Fl 		010	Wild	M2 V	-3	(900+4)	[0000]	B	7	36
+
+1105	Beyo	N	1038	Iruukadan	X100000-0	 	    Sa  Ba Va 		021	NaXX	M3 V M6 V	-3	(500+3)	[0000]	B	11	15
+1281	Beyo	N	1038	Iruukadan	X100000-0	 	    Sa  Ba Va 		021	Wild	M3 V M6 V	-3	(500-2)	[0000]	B	11	-10
+1508	Beyo	N	1038	Iruukadan	X100000-0	 	    Sa  Ba Va 		021	Wild	M3 V M6 V	-3	(500-1)	[0000]	B	11	-5
+1900	Beyo	N	1038	Iruukadan	X100000-0	 	    Sa  Ba Va 		021	Wild	M3 V M6 V	-3	(500+1)	[0000]	B	11	5
+
+1105	Beyo	B	1102	Utgardar	CC82532-A	 	    Ho  Ni Pr 		422	NaHu	K4 V D	0	(846+5)	[751D]	Bc	14	960
+1281	Beyo	B	1102	Utgardar	CC82575-8	 	    Ho  Ni Pr 		222	Wild	K4 V D	-2	(842-1)	[8344]	Bc	14	-64
+1508	Beyo	B	1102	Utgardar	CC82555-A	 	    Ho  Ni Pr 		322	Wild	K4 V D	0	(844+1)	[551A]	Bc	14	128
+1900	Beyo	B	1102	Utgardar	CC82599-A	 	    Ho  Ni Pr 		422	Wild	K4 V D	0	(845-2)	[1528]	Bc	14	-320
+
+1105	Beyo	B	1103	Ixchel	B534435-B	 	    Fr  Ni 		602	NaHu	K1 V M9 V	1	(432+1)	[355C]	B	9	24
+1281	Beyo	B	1103	Ixchel	B534455-A	 	    Fr  Ni 		302	Wild	K1 V M9 V	1	(432+1)	[554B]	B	9	24
+1508	Beyo	B	1103	Ixchel	B534454-B	 	    Fr  Ni 		402	Wild	K1 V M9 V	1	(437+2)	[155C]	B	9	168
+1900	Beyo	B	1103	Ixchel	B534443-B	 	    Fr  Ni 		502	Wild	K1 V M9 V	1	(435+1)	[154B]	B	9	60
+
+1105	Beyo	B	1104	Kursor	B666758-B	 	     Tr  Ag Ri Ga (NIL)		823	NaHu	F7 V D	4	(C66+3)	[5B2F]	BCf	11	1296
+1281	Beyo	B	1104	Kursor	B666722-8	 	     Tr  Ag Ri Ga (NIL)		423	Wild	F7 V D	2	(C66+3)	[4958]	BC	11	1296
+1508	Beyo	B	1104	Kursor	B6667BA-9	 	     Tr  Ag Ri Ga (NIL)		523	Wild	F7 V D	3	(C68+1)	[7A65]	BC	11	576
+1900	Beyo	B	1104	Kursor	B666779-A	 	     Tr  Ag Ri Ga (NIL)		523	Wild	F7 V D	4	(C6A-1)	[5B78]	BCf	11	-720
+
+1105	Beyo	B	1107	Liberty Hall	B311320-C	 	    Co Sa  Ic Lo 		613	NaHu	M1 V	1	(D21+1)	[1458]	B	13	26
+1281	Beyo	B	1107	Liberty Hall	D311000-C	 	    Co Sa  Di Ic 		013	Wild	M1 V	-1	(D00-4)	[0000]	B	13	-52
+1508	Beyo	B	1107	Liberty Hall	D311000-C	 	    Co Sa  Di Ic 		013	Wild	M1 V	-1	(D00-1)	[0000]	B	13	-13
+1900	Beyo	B	1107	Liberty Hall	D311000-C	 	    Co Sa  Di Ic 		013	Wild	M1 V	-1	(D00-2)	[0000]	B	13	-26
+
+1105	Beyo	F	1114	Talmut	D563469-6	 	    O:0911  Ni 		330	CoLg	G1 V	-3	(330+1)	[4185]	B	13	9
+1281	Beyo	F	1114	Talmut	D563000-6	 	    O:0911  Di 		030	Wild	G1 V	-3	(300-3)	[0000]	B	13	-9
+1508	Beyo	F	1114	Talmut	D563000-6	 	    O:0911  Di 		030	Wild	G1 V	-3	(300-2)	[0000]	B	13	-6
+1900	Beyo	F	1114	Talmut	D563000-6	 	    O:0911  Di 		030	Wild	G1 V	-3	(300+1)	[0000]	B	13	3
+
+1105	Beyo	F	1118	Bushido	A577738-C	 	     Co  Ag Pi (NIL)		522	CoLg	F9 V	4	(G6E-3)	[9B2G]	BCDf	14	-4032
+1281	Beyo	F	1118	Bushido	D577000-C	 	    Co  Di Pi (NIL)		022	Wild	F9 V	-1	(G00+3)	[0000]	BD	14	48
+1508	Beyo	F	1118	Bushido	D577000-C	 	     Co  Di (NIL)		022	Wild	F9 V	-1	(G00-3)	[0000]	B	14	-48
+1900	Beyo	F	1118	Bushido	D577000-C	 	     Co  Di (NIL)		022	Wild	F9 V	-1	(G00+3)	[0000]	B	14	48
+
+1105	Beyo	J	1123	New Damascus	D655476-5	 	     Ga Ni Pa 		613	CoLg	G8 V	-3	(830+1)	[7161]	Bc	13	24
+1281	Beyo	J	1123	New Damascus	D655453-4	 	     Ga Ni Pa 		313	Wild	G8 V	-3	(830+2)	[4133]	Bc	13	48
+1508	Beyo	J	1123	New Damascus	D655400-5	 	     Ga Ni Pa 		413	Wild	G8 V	-3	(830+1)	[5168]	Bc	13	24
+1900	Beyo	J	1123	New Damascus	D655473-5	 	     Ga Ni Pa 		513	Wild	G8 V	-3	(830+2)	[3135]	Bc	13	48
+
+1105	Beyo	J	1126	Neibling	E211000-0	 	     Ba Ic 		030	NaXX	M7 V BD	-3	(400-1)	[0000]	B	9	-4
+1281	Beyo	J	1126	Neibling	E211000-0	 	     Ba Ic 		030	Wild	M7 V BD	-3	(400+5)	[0000]	B	9	20
+1508	Beyo	J	1126	Neibling	E211000-0	 	     Ba Ic 		030	Wild	M7 V BD	-3	(400+3)	[0000]	B	9	12
+1900	Beyo	J	1126	Neibling	E211000-0	 	     Ba Ic 		030	Wild	M7 V BD	-3	(400-2)	[0000]	B	9	-8
+
+1105	Beyo	N	1131	Mieskka	B583878-C	 	     Ph Ri (NIL)		400	NkCo	K3 V M7 V	3	(97B-3)	[AB5H]	BCe	7	-2079
+1281	Beyo	N	1131	Mieskka	B583877-A	 	     Ph Ri (NIL)		200	Wild	K3 V M7 V	3	(97D+3)	[8B38]	BCe	7	2457
+1508	Beyo	N	1131	Mieskka	B583872-B	 	     Ph Ri (NIL)		300	Wild	K3 V M7 V	3	(97C-5)	[8B87]	BCe	7	-3780
+1900	Beyo	N	1131	Mieskka	B583888-C	 	     Ph Ri (NIL)		300	Wild	K3 V M7 V	3	(97C+1)	[AB5F]	BCe	7	756
+
+1105	Beyo	N	1140	Trarken	E443201-A	 	    Ho Sa  Lo Po 		612	NaHu	M0 V	-1	(810-4)	[1188]	B	12	-32
+1281	Beyo	N	1140	Trarken	E443000-A	 	    Ho Sa  Di Po 		012	Wild	M0 V	-1	(800+1)	[0000]	B	12	8
+1508	Beyo	N	1140	Trarken	E443000-A	 	    Ho Sa  Di Po 		012	Wild	M0 V	-1	(800+3)	[0000]	B	12	24
+1900	Beyo	N	1140	Trarken	E443000-A	 	    Ho Sa  Di Po 		012	Wild	M0 V	-1	(800+3)	[0000]	B	12	24
+
+1105	Beyo	B	1205	Jeldemar	E523000-0	 	     Ba Po 		001	PrBr	K1 V M4 V	-3	(700-4)	[0000]	B	13	-28
+1281	Beyo	B	1205	Jeldemar	E523000-0	 	     Ba Po 		001	Wild	K1 V M4 V	-3	(700-1)	[0000]	B	13	-7
+1508	Beyo	B	1205	Jeldemar	E523000-0	 	     Ba Po 		001	Wild	K1 V M4 V	-3	(700-3)	[0000]	B	13	-21
+1900	Beyo	B	1205	Jeldemar	E523000-0	 	     Ba Po 		001	Wild	K1 V M4 V	-3	(700+2)	[0000]	B	13	14
+
+1105	Beyo	F	1214	Shekerleb	A310798-B	 	     Tz  Na Pi 		521	CoLg	M8 V	2	(96A+1)	[7918]	BD	10	540
+1281	Beyo	F	1214	Shekerleb	A3107AC-9	 	     Tz  Na Pi 		221	Wild	M8 V	1	(964-1)	[586D]	BD	10	-216
+1508	Beyo	F	1214	Shekerleb	A310775-A	 	     Tz  Na Pi 		221	Wild	M8 V	2	(968-1)	[492D]	BD	10	-432
+1900	Beyo	F	1214	Shekerleb	A310753-C	 	     Tz  Na Pi 		221	Wild	M8 V	2	(96D+4)	[89AD]	BD	10	2808
+
+1105	Beyo	F	1215	Inagu	E654338-4	 	     Lo 		621	CoLg	K5 V	-3	(520-2)	[3152]	B	11	-20
+1281	Beyo	F	1215	Inagu	E654000-4	 	     Di 		021	Wild	K5 V	-3	(500+1)	[0000]	B	11	5
+1508	Beyo	F	1215	Inagu	E654000-4	 	     Di 		021	Wild	K5 V	-3	(500-3)	[0000]	B	11	-15
+1900	Beyo	F	1215	Inagu	E654000-4	 	     Di 		021	Wild	K5 V	-3	(500+1)	[0000]	B	11	5
+
+1105	Beyo	J	1225	Nekro	X221000-0	 	    Fo  Ba Po 	R	010	NaXX	M0 V M7 V	-3	(B00-3)	[0000]	B	5	-33
+1281	Beyo	J	1225	Nekro	X221000-0	 	    Fo  Ba Po 		010	Wild	M0 V M7 V	-3	(B00+1)	[0000]	B	5	11
+1508	Beyo	J	1225	Nekro	X221000-0	 	    Fo  Ba Po 		010	Wild	M0 V M7 V	-3	(B00+2)	[0000]	B	5	22
+1900	Beyo	J	1225	Nekro	X221000-0	 	    Fo  Ba Po 		010	Wild	M0 V M7 V	-3	(B00-4)	[0000]	B	5	-44
+
+1105	Beyo	J	1227	Gateway	B822313-B	 	    Ho  He Lo Po 		402	NaHu	M2 V BD	1	(A21+1)	[345A]	B	11	20
+1281	Beyo	J	1227	Gateway	X822000-B	 	    Ho  Di He Po 		002	Wild	M2 V BD	-1	(A00+2)	[0000]	B	11	20
+1508	Beyo	J	1227	Gateway	X822000-B	 	    Ho  Di He Po 		002	Wild	M2 V BD	-1	(A00-1)	[0000]	B	11	-10
+1900	Beyo	J	1227	Gateway	X822000-B	 	    Ho  Di He Po 		002	Wild	M2 V BD	-1	(A00+1)	[0000]	B	11	10
+
+1105	Beyo	J	1229	Atie	C675768-C	 	     O:1230  Ag Pi (NIL)		402	NkCo	K0 V	2	(76A+2)	[995C]	BCD	13	840
+1281	Beyo	J	1229	Atie	C675752-B	 	     O:1230  Ag Pi (NIL)		202	Wild	K0 V	2	(76A-4)	[A959]	BCD	13	-1680
+1508	Beyo	J	1229	Atie	C6757BA-B	 	     O:1230  Ag Pi (NIL)		102	Wild	K0 V	2	(764+1)	[6917]	BCD	13	168
+1900	Beyo	J	1229	Atie	C675696-C	 	    O:1230  Ag Ni (NIL)		902	Wild	K0 V	1	(754-3)	[676A]	BC	13	-420
+
+1105	Beyo	J	1230	Nakris	A6669A8-C	 	      Ga Hi Pr (NIL)		422	NkCo	G4 V	3	(789+1)	[BC68]	BcE	11	504
+1281	Beyo	J	1230	Nakris	A666999-A	 	      Ga Hi Pr (NIL)		222	Wild	G4 V	3	(787+2)	[8C6B]	BcE	11	784
+1508	Beyo	J	1230	Nakris	A666955-C	 	      Ga Hi Pr (NIL)		322	Wild	G4 V	3	(78F-2)	[6C7F]	BcE	11	-1680
+1900	Beyo	J	1230	Nakris	A66697A-C	 	      Ga Hi Pr (NIL)		422	Wild	G4 V	3	(789-1)	[AC9C]	BcE	11	-504
+
+1105	Beyo	N	1231	Dacadad	D853465-A	 	    O:1230  Ni Po 		613	NkCo	K3 V M6 V	-1	(831-3)	[431A]	B	13	-72
+1281	Beyo	N	1231	Dacadad	D853000-A	 	    O:1230  Di Po 		013	Wild	K3 V M6 V	-1	(800+3)	[0000]	B	13	24
+1508	Beyo	N	1231	Dacadad	D853000-A	 	    O:1230  Di Po 		013	Wild	K3 V M6 V	-1	(800-2)	[0000]	B	13	-16
+1900	Beyo	N	1231	Dacadad	D853000-A	 	    O:1230  Di Po 		013	Wild	K3 V M6 V	-1	(800+5)	[0000]	B	13	40
+
+1105	Beyo	N	1239	Spindrift	C221310-9	 	     Lo Po 		432	NaHu	K0 V	-1	(720+3)	[4269]	B	12	42
+1281	Beyo	N	1239	Spindrift	E221000-9	 	     Di Po 		032	Wild	K0 V	-2	(700+1)	[0000]	B	12	7
+1508	Beyo	N	1239	Spindrift	E221000-9	 	     Di Po 		032	Wild	K0 V	-2	(700+2)	[0000]	B	12	14
+1900	Beyo	N	1239	Spindrift	E221000-9	 	     Di Po 		032	Wild	K0 V	-2	(700-3)	[0000]	B	12	-21
+
+1105	Beyo	B	1302	Dumark	B846735-A	 	      Ag Pi (NIL)		502	NaHu	F7 V	3	(B69+1)	[5A69]	BCD	8	594
+1281	Beyo	B	1302	Dumark	B8467A8-8	 	      Ag Pi (NIL)		202	Wild	F7 V	1	(B67-2)	[7877]	BCD	8	-924
+1508	Beyo	B	1302	Dumark	B846772-9	 	      Ag Pi (NIL)		302	Wild	F7 V	2	(B66-3)	[C92B]	BCD	8	-1188
+1900	Beyo	B	1302	Dumark	B846799-A	 	      Ag Pi (NIL)		402	Wild	F7 V	3	(B6C-1)	[6A3A]	BCD	8	-792
+
+1105	Beyo	B	1306	Dikkengwep	E733630-5	 	     Fo (Ewurmer)  Na Po Ni 	R	513	PrBr	F8 V BD	-3	(650+2)	[8354]	B	16	60
+1281	Beyo	B	1306	Dikkengwep	E733000-5	 	     Fo (Ewurmer)  Di Na Po 		013	Wild	F8 V BD	-3	(600+4)	[0000]	B	16	24
+1508	Beyo	B	1306	Dikkengwep	E733000-5	 	     Fo (Ewurmer)  Di Po 		013	Wild	F8 V BD	-3	(600+2)	[0000]	B	16	12
+1900	Beyo	B	1306	Dikkengwep	E733000-5	 	     Fo (Ewurmer)  Di Po 		013	Wild	F8 V BD	-3	(600+1)	[0000]	B	16	6
+
+1105	Beyo	B	1307	Braga	C8A6632-9	 	    Sa  Fl Ni 		410	PrBr	M2 V BD	-1	(A54-2)	[A574]	B	5	-400
+1281	Beyo	B	1307	Braga	X8A6000-9	 	    Sa  Di Fl 		010	Wild	M2 V BD	-2	(A00+2)	[0000]	B	5	20
+1508	Beyo	B	1307	Braga	X8A6000-9	 	    Sa  Di Fl 		010	Wild	M2 V BD	-2	(A00+3)	[0000]	B	5	30
+1900	Beyo	B	1307	Braga	X8A6000-9	 	    Sa  Di Fl 		010	Wild	M2 V BD	-2	(A00+1)	[0000]	B	5	10
+
+1105	Beyo	B	1308	Reha	B963483-8	 	    Tz  Ni 		711	PrBr	M2 V	-1	(B30+4)	[4374]	B	7	132
+1281	Beyo	B	1308	Reha	X963000-8	 	    Tz  Di 		011	Wild	M2 V	-3	(B00+1)	[0000]	B	7	11
+1508	Beyo	B	1308	Reha	X963000-8	 	    Tz  Di 		011	Wild	M2 V	-3	(B00-1)	[0000]	B	7	-11
+1900	Beyo	B	1308	Reha	X963000-8	 	    Tz  Di 		011	Wild	M2 V	-3	(B00+1)	[0000]	B	7	11
+
+1105	Beyo	F	1313	Eswea	E445362-6	 	    O:1214  Lo 		910	CoLg	M3 V M6 V	-3	(920+1)	[616B]	B	13	18
+1281	Beyo	F	1313	Eswea	E445000-6	 	    O:1214  Di 		010	Wild	M3 V M6 V	-3	(900-1)	[0000]	B	13	-9
+1508	Beyo	F	1313	Eswea	E445000-6	 	    O:1214  Di 		010	Wild	M3 V M6 V	-3	(900+5)	[0000]	B	13	45
+1900	Beyo	F	1313	Eswea	E445000-6	 	    O:1214  Di 		010	Wild	M3 V M6 V	-3	(900-1)	[0000]	B	13	-9
+
+1105	Beyo	F	1314	Jeremiah	A9758D8-B	 	     Ho Tr  Pa Pi Ph (NIL)		101	CoLg	K7 V M2 V	2	(97A-3)	[BA8B]	BcDe	11	-1890
+1281	Beyo	F	1314	Jeremiah	A975655-8	 	     Ho Tr  Ag Ni (NIL)		501	Wild	K7 V M2 V	0	(952+3)	[4693]	BC	11	270
+1508	Beyo	F	1314	Jeremiah	A9756A9-8	 	     Ho Tr  Ag Ni (NIL)		601	Wild	K7 V M2 V	0	(954+3)	[2659]	BC	11	540
+1900	Beyo	F	1314	Jeremiah	A975635-9	 	     Ho Tr  Ag Ni (NIL)		701	Wild	K7 V M2 V	1	(957+1)	[9775]	BC	11	315
+
+1105	Beyo	F	1319	Costen	D756434-4	 	    Co Tu  Ga Ni Pa 		422	CoLg	K3 V	-3	(431+2)	[1135]	Bc	17	24
+1281	Beyo	F	1319	Costen	D756478-2	 	    Co Tu  Ga Ni Pa 		222	Wild	K3 V	-3	(433+2)	[3134]	Bc	17	72
+1508	Beyo	F	1319	Costen	D756433-3	 	    Co Tu  Ga Ni Pa 		122	Wild	K3 V	-3	(431-4)	[3151]	Bc	17	-48
+1900	Beyo	F	1319	Costen	D756433-4	 	    Co Tu  Ga Ni Pa 		222	Wild	K3 V	-3	(430+2)	[4141]	Bc	17	24
+
+1105	Beyo	F	1320	Chang	C865557-6	 	      Ag Pr Ga Ni 		324	CoLg	G5 V	-1	(445-1)	[3417]	BcC	12	-80
+1281	Beyo	F	1320	Chang	C865547-3	 	      Ag Pr Ga Ni 		124	Wild	G5 V	-1	(445-2)	[4452]	BcC	12	-160
+1508	Beyo	F	1320	Chang	C865546-4	 	      Ag Pr Ga Ni 		224	Wild	G5 V	-1	(440+2)	[2443]	BcC	12	32
+1900	Beyo	F	1320	Chang	C865545-5	 	      Ag Pr Ga Ni 		324	Wild	G5 V	-1	(442+4)	[6448]	BcC	12	128
+
+1105	Beyo	J	1324	Stovall	B212314-9	 	     Ic Lo 		213	NaHu	K3 III D	0	(B20+1)	[1327]	B	10	22
+1281	Beyo	J	1324	Stovall	E212000-9	 	     Di Ic 		013	Wild	K3 III D	-2	(B00-4)	[0000]	B	10	-44
+1508	Beyo	J	1324	Stovall	E212000-9	 	     Di Ic 		013	Wild	K3 III D	-2	(B00-1)	[0000]	B	10	-11
+1900	Beyo	J	1324	Stovall	E212000-9	 	     Di Ic 		013	Wild	K3 III D	-2	(B00-3)	[0000]	B	10	-33
+
+1105	Beyo	J	1330	Heby	B765537-A	 	      Ag Pr Ga Ni 		412	NkCo	K4 IV	2	(747-5)	[374A]	BcC	11	-980
+1281	Beyo	J	1330	Heby	B765577-8	 	      Ag Pr Ga Ni 		212	Wild	K4 IV	0	(743-1)	[358B]	BcC	11	-84
+1508	Beyo	J	1330	Heby	B765575-9	 	      Ag Pr Ga Ni 		312	Wild	K4 IV	1	(746+1)	[466A]	BcC	11	168
+1900	Beyo	J	1330	Heby	B765555-B	 	      Ag Pr Ga Ni 		212	Wild	K4 IV	2	(746-5)	[272C]	BcC	11	-840
+
+1105	Beyo	N	1332	Vroekmozaas	C6746AD-9	 	    Da  Ag Ni 	A	702	NkCo	K1 V	0	(855+1)	[7677]	BC	10	200
+1281	Beyo	N	1332	Vroekmozaas	E674000-9	 	     Da  Di 		002	Wild	K1 V	-2	(800+1)	[0000]	B	10	8
+1508	Beyo	N	1332	Vroekmozaas	E674000-9	 	     Da  Di 		002	Wild	K1 V	-2	(800-3)	[0000]	B	10	-24
+1900	Beyo	N	1332	Vroekmozaas	E674000-9	 	     Da  Di 		002	Wild	K1 V	-2	(800-2)	[0000]	B	10	-16
+
+1105	Beyo	N	1334	Lotrakoast	EA01000-0	 	     Fr  Ba Ic Va 		010	NaXX	M3 V	-3	(600-2)	[0000]	B	6	-12
+1281	Beyo	N	1334	Lotrakoast	EA01000-0	 	     Fr  Ba Ic Va 		010	Wild	M3 V	-3	(600-3)	[0000]	B	6	-18
+1508	Beyo	N	1334	Lotrakoast	EA01000-0	 	     Fr  Ba Ic Va 		010	Wild	M3 V	-3	(600-4)	[0000]	B	6	-24
+1900	Beyo	N	1334	Lotrakoast	EA01000-0	 	     Fr  Ba Ic Va 		010	Wild	M3 V	-3	(600-3)	[0000]	B	6	-18
+
+1105	Beyo	N	1335	Goblin's Planet	X912100-8	 	    Fo (Goblin)  Ic Lo 	R	811	NaXX	M2 V	-3	(800-4)	[1174]	B	9	-32
+1281	Beyo	N	1335	Goblin's Planet	X912000-8	 	    Fo (Goblin)  Di Ic 		011	Wild	M2 V	-3	(800+3)	[0000]	B	9	24
+1508	Beyo	N	1335	Goblin's Planet	X912000-8	 	    Fo (Goblin)  Di Ic 		011	Wild	M2 V	-3	(800+1)	[0000]	B	9	8
+1900	Beyo	N	1335	Goblin's Planet	X912000-8	 	    Fo (Goblin)  Di Ic 		011	Wild	M2 V	-3	(800+4)	[0000]	B	9	32
+
+1105	Beyo	B	1401	Tejcek	B856527-9	 	     Ag Ga Ni 		921	NaHu	M2 V	1	(745-3)	[666D]	BC	15	-420
+1281	Beyo	B	1401	Tejcek	B856589-7	 	     Ag Ga Ni 		421	Wild	M2 V	0	(445+4)	[9569]	BC	15	320
+1508	Beyo	B	1401	Tejcek	B856525-8	 	     Ag Ga Ni 		421	Wild	M2 V	0	(742+3)	[552D]	BC	15	168
+1900	Beyo	B	1401	Tejcek	B856576-9	 	     Ag Ga Ni 		421	Wild	M2 V	1	(742+1)	[361A]	BC	15	56
+
+1105	Beyo	B	1403	Reis	C766554-9	 	      Ag Pr Ga Ni 		502	PrBr	K1 V	0	(B44-3)	[754C]	BcC	11	-528
+1281	Beyo	B	1403	Reis	C76657A-6	 	      Ag Pr Ga Ni 		202	Wild	K1 V	-1	(945-4)	[5465]	BcC	11	-720
+1508	Beyo	B	1403	Reis	C766573-7	 	      Ag Pr Ga Ni 		302	Wild	K1 V	-1	(942+1)	[5437]	BcC	11	72
+1900	Beyo	B	1403	Reis	C76657C-8	 	      Ag Pr Ga Ni 		402	Wild	K1 V	-1	(B41-1)	[1499]	BcC	11	-44
+
+1105	Beyo	B	1405	Koewing	C000431-B	 	     Co  As Va Ni 		422	PrBr	M0 V	0	(C36+3)	[245B]	B	8	648
+1281	Beyo	B	1405	Koewing	C00045A-A	 	     Co  As Va Ni 		222	Wild	M0 V	0	(C33+1)	[343E]	B	8	108
+1508	Beyo	B	1405	Koewing	C000474-A	 	     Co  As Va Ni 		122	Wild	M0 V	0	(C35+1)	[1449]	B	8	180
+1900	Beyo	B	1405	Koewing	C000410-B	 	     Co  As Va Ni 		122	Wild	M0 V	0	(C33+3)	[245B]	B	8	324
+
+1105	Beyo	B	1409	Chubbuck	D663659-6	 	     Ni Ri 		502	NaHu	F7 V	-2	(654+1)	[94A7]	BC	8	120
+1281	Beyo	B	1409	Chubbuck	D663000-6	 	      Di 		002	Wild	F7 V	-3	(600+4)	[0000]	B	8	24
+1508	Beyo	B	1409	Chubbuck	D663000-6	 	      Di 		002	Wild	F7 V	-3	(600-2)	[0000]	B	8	-12
+1900	Beyo	B	1409	Chubbuck	D663000-6	 	      Di 		002	Wild	F7 V	-3	(600-2)	[0000]	B	8	-12
+
+1105	Beyo	F	1411	Bantu	C563655-8	 	    Sa  Ni Ri 		723	CoLg	M1 V	-1	(C51+1)	[8566]	BC	8	60
+1281	Beyo	F	1411	Bantu	C563657-6	 	    Sa  Ni Ri 		323	Wild	M1 V	-1	(755-3)	[6577]	BC	8	-525
+1508	Beyo	F	1411	Bantu	C563653-7	 	    Sa  Ni Ri 		223	Wild	M1 V	-1	(755+1)	[B535]	BC	8	175
+1900	Beyo	F	1411	Bantu	C563656-8	 	    Sa  Ni Ri 		323	Wild	M1 V	-1	(C52+5)	[5575]	BC	8	600
+
+1105	Beyo	F	1412	Techlan	BB85473-8	 	     Ni Pa 		314	CoLg	K3 V	-1	(931-4)	[1378]	Bc	14	-108
+1281	Beyo	F	1412	Techlan	XB85000-8	 	      Di 		014	Wild	K3 V	-3	(900+3)	[0000]	B	14	27
+1508	Beyo	F	1412	Techlan	XB85000-8	 	      Di 		014	Wild	K3 V	-3	(900+2)	[0000]	B	14	18
+1900	Beyo	F	1412	Techlan	XB85000-8	 	      Di 		014	Wild	K3 V	-3	(900-2)	[0000]	B	14	-18
+
+1105	Beyo	F	1414	Freya	A869646-B	 	    Ho  Ni Ri 		602	CoLg	G5 V K2 V	2	(D58+3)	[582B]	BC	9	1560
+1281	Beyo	F	1414	Freya	A869651-A	 	    Ho  Ni Ri 		302	Wild	G5 V K2 V	2	(D53+3)	[886F]	BC	9	585
+1508	Beyo	F	1414	Freya	A869630-A	 	    Ho  Ni Ri 		402	Wild	G5 V K2 V	2	(D57+2)	[7869]	BC	9	910
+1900	Beyo	F	1414	Freya	A869646-B	 	    Ho  Ni Ri 		302	Wild	G5 V K2 V	2	(D56-2)	[48AA]	BC	9	-780
+
+1105	Beyo	F	1415	Elba	E571345-6	 	     He Lo 		523	CoLg	M0 V M2 V	-3	(720+1)	[41A9]	B	18	14
+1281	Beyo	F	1415	Elba	E571000-6	 	     Di He 		023	Wild	M0 V M2 V	-3	(700+2)	[0000]	B	18	14
+1508	Beyo	F	1415	Elba	E571000-6	 	     Di He 		023	Wild	M0 V M2 V	-3	(700-4)	[0000]	B	18	-28
+1900	Beyo	F	1415	Elba	E571000-6	 	     Di He 		023	Wild	M0 V M2 V	-3	(700-2)	[0000]	B	18	-14
+
+1105	Beyo	F	1417	Salin	E412456-8	 	    An Tz  Ic Ni 		313	CoLg	M2 V M5 V	-3	(831-4)	[3137]	B	12	-96
+1281	Beyo	F	1417	Salin	E412000-8	 	    An Tz  Di Ic 		013	Wild	M2 V M5 V	-3	(800+1)	[0000]	B	12	8
+1508	Beyo	F	1417	Salin	E412000-8	 	    An Tz  Di Ic 		013	Wild	M2 V M5 V	-3	(800-1)	[0000]	B	12	-8
+1900	Beyo	F	1417	Salin	E412000-8	 	    An Tz  Di Ic 		013	Wild	M2 V M5 V	-3	(800+1)	[0000]	B	12	8
+
+1105	Beyo	B	1501	Aioaoa	B52695A-B	 	    Fo  Hi In (NIL)	R	522	NaAs	K2 V M1 V	4	(C8C+1)	[AD6C]	BEf	15	1152
+1281	Beyo	B	1501	Aioaoa	B526998-8	 	    Fo  Hi In (NIL)		222	Wild	K2 V M1 V	2	(C88+1)	[AB65]	BE	15	768
+1508	Beyo	B	1501	Aioaoa	B5269AA-9	 	    Fo  Hi In (NIL)		122	Wild	K2 V M1 V	3	(C86-1)	[7C6A]	BE	15	-576
+1900	Beyo	B	1501	Aioaoa	B5268CA-8	 	    Fo  Ph Pi (NIL)		922	Wild	K2 V M1 V	0	(C79-3)	[8843]	BDe	15	-2268
+
+1105	Beyo	B	1503	Yaple	A674757-C	 	      Ag Pi (NIL)		410	PrBr	K0 V	3	(867+1)	[6A19]	BCD	7	336
+1281	Beyo	B	1503	Yaple	E674000-C	 	     Di Pi (NIL)		010	Wild	K0 V	-1	(800-4)	[0000]	BD	7	-32
+1508	Beyo	B	1503	Yaple	E674000-C	 	      Di (NIL)		010	Wild	K0 V	-1	(800+4)	[0000]	B	7	32
+1900	Beyo	B	1503	Yaple	E674000-C	 	      Di (NIL)		010	Wild	K0 V	-1	(800+3)	[0000]	B	7	24
+
+1105	Beyo	B	1505	Khimi	D234213-A	 	    Co  Lo 		623	PrBr	F8 V	-1	(C10-1)	[1149]	B	13	-12
+1281	Beyo	B	1505	Khimi	D234000-A	 	    Co  Di 		023	Wild	F8 V	-1	(C00+1)	[0000]	B	13	12
+1508	Beyo	B	1505	Khimi	D234000-A	 	    Co  Di 		023	Wild	F8 V	-1	(C00+3)	[0000]	B	13	36
+1900	Beyo	B	1505	Khimi	D234000-A	 	    Co  Di 		023	Wild	F8 V	-1	(C00+1)	[0000]	B	13	12
+
+1105	Beyo	F	1513	Descare	B543343-5	 	     Lo Po 		421	CoLg	K5 V M4 V	-1	(820+3)	[3245]	B	12	48
+1281	Beyo	F	1513	Descare	E543000-5	 	     Di Po 		021	Wild	K5 V M4 V	-3	(800-5)	[0000]	B	12	-40
+1508	Beyo	F	1513	Descare	E543000-5	 	     Di Po 		021	Wild	K5 V M4 V	-3	(800-3)	[0000]	B	12	-24
+1900	Beyo	F	1513	Descare	E543000-5	 	     Di Po 		021	Wild	K5 V M4 V	-3	(800+1)	[0000]	B	12	8
+
+1105	Beyo	F	1516	Wai	D987300-6	 	    Ho  Lo 		612	CoLg	K3 IV	-3	(620+2)	[1178]	B	8	24
+1281	Beyo	F	1516	Wai	D987000-6	 	    Ho  Di 		012	Wild	K3 IV	-3	(600+5)	[0000]	B	8	30
+1508	Beyo	F	1516	Wai	D987000-6	 	    Ho  Di 		012	Wild	K3 IV	-3	(600+2)	[0000]	B	8	12
+1900	Beyo	F	1516	Wai	D987000-6	 	    Ho  Di 		012	Wild	K3 IV	-3	(600+1)	[0000]	B	8	6
+
+1105	Beyo	F	1519	Lini	X110000-0	 	     Ba 		010	NaXX	A2 V	-3	(400+3)	[0000]	B	5	12
+1281	Beyo	F	1519	Lini	X110000-0	 	     Ba 		010	Wild	A2 V	-3	(400+1)	[0000]	B	5	4
+1508	Beyo	F	1519	Lini	X110000-0	 	     Ba 		010	Wild	A2 V	-3	(400+1)	[0000]	B	5	4
+1900	Beyo	F	1519	Lini	X110000-0	 	     Ba 		010	Wild	A2 V	-3	(400+1)	[0000]	B	5	4
+
+1105	Beyo	J	1522	Broduhr	B301213-B	 	      Ic Va Lo 		322	NaHu	A8 V	1	(D11-3)	[1339]	B	12	-39
+1281	Beyo	J	1522	Broduhr	X301000-B	 	      Di Ic Va 		022	Wild	A8 V	-1	(D00-1)	[0000]	B	12	-13
+1508	Beyo	J	1522	Broduhr	X301000-B	 	      Di Ic Va 		022	Wild	A8 V	-1	(D00+3)	[0000]	B	12	39
+1900	Beyo	J	1522	Broduhr	X301000-B	 	      Di Ic Va 		022	Wild	A8 V	-1	(D00+3)	[0000]	B	12	39
+
+1105	Beyo	J	1526	Kale	B556524-B	 	    Sa  Ag Ni 		713	ShRp	G6 V	2	(746-3)	[973C]	BC	8	-504
+1281	Beyo	J	1526	Kale	B556547-9	 	    Sa  Ag Ni 		313	Wild	G6 V	1	(746+4)	[1615]	BC	8	672
+1508	Beyo	J	1526	Kale	B556556-B	 	    Sa  Ag Ni 		413	Wild	G6 V	2	(743-4)	[573A]	BC	8	-336
+1900	Beyo	J	1526	Kale	B556545-B	 	    Sa  Ag Ni 		513	Wild	G6 V	2	(744+2)	[177C]	BC	8	224
+
+1105	Beyo	J	1530	Nosenos	E201000-0	 	      Ba Ic Va 		031	NaXX	K9 V M5 V	-3	(700+3)	[0000]	B	15	21
+1281	Beyo	J	1530	Nosenos	E201000-0	 	      Ba Ic Va 		031	Wild	K9 V M5 V	-3	(700+2)	[0000]	B	15	14
+1508	Beyo	J	1530	Nosenos	E201000-0	 	      Ba Ic Va 		031	Wild	K9 V M5 V	-3	(700-2)	[0000]	B	15	-14
+1900	Beyo	J	1530	Nosenos	E201000-0	 	      Ba Ic Va 		031	Wild	K9 V M5 V	-3	(700+1)	[0000]	B	15	7
+
+1105	Beyo	N	1534	Ember	X300000-0	 	    Ho  Ba Va 		010	NaXX	M9 V BD	-3	(600-3)	[0000]	B	6	-18
+1281	Beyo	N	1534	Ember	X300000-0	 	    Ho  Ba Va 		010	Wild	M9 V BD	-3	(600+1)	[0000]	B	6	6
+1508	Beyo	N	1534	Ember	X300000-0	 	    Ho  Ba Va 		010	Wild	M9 V BD	-3	(600+1)	[0000]	B	6	6
+1900	Beyo	N	1534	Ember	X300000-0	 	    Ho  Ba Va 		010	Wild	M9 V BD	-3	(600+1)	[0000]	B	6	6
+
+1105	Beyo	N	1540	Cortes	C443373-A	 	     Lo Po 		311	NaHu	K6 V	0	(820+1)	[3369]	B	11	16
+1281	Beyo	N	1540	Cortes	D443000-A	 	     Di Po 		011	Wild	K6 V	-1	(800+5)	[0000]	B	11	40
+1508	Beyo	N	1540	Cortes	D443000-A	 	     Di Po 		011	Wild	K6 V	-1	(800-2)	[0000]	B	11	-16
+1900	Beyo	N	1540	Cortes	D443000-A	 	     Di Po 		011	Wild	K6 V	-1	(800+2)	[0000]	B	11	16
+
+1105	Beyo	B	1604	Bruhkarr	A576955-C	 	      Hi In (NIL)		522	PrBr	G3 V	4	(C8E+4)	[BD6A]	BEf	11	5376
+1281	Beyo	B	1604	Bruhkarr	A5768AB-7	 	      Pa Pi Ph (NIL)		222	Wild	G3 V	0	(875+4)	[C8A9]	BcDe	11	1120
+1508	Beyo	B	1604	Bruhkarr	A576876-8	 	      Pa Pi Ph (NIL)		222	Wild	G3 V	0	(C75-4)	[A893]	BcDe	11	-1680
+1900	Beyo	B	1604	Bruhkarr	A57687C-9	 	      Pa Pi Ph (NIL)		122	Wild	G3 V	1	(C79-2)	[7979]	BcDe	11	-1512
+
+1105	Beyo	B	1607	Vinduss	E610000-0	 	    Tz  Ba 		030	NaXX	M6 V M6 V	-3	(900+2)	[0000]	B	10	18
+1281	Beyo	B	1607	Vinduss	E610000-0	 	    Tz  Ba 		030	Wild	M6 V M6 V	-3	(900+4)	[0000]	B	10	36
+1508	Beyo	B	1607	Vinduss	E610000-0	 	    Tz  Ba 		030	Wild	M6 V M6 V	-3	(900+5)	[0000]	B	10	45
+1900	Beyo	B	1607	Vinduss	E610000-0	 	    Tz  Ba 		030	Wild	M6 V M6 V	-3	(900+1)	[0000]	B	10	9
+
+1105	Beyo	B	1609	Maruta	C434434-A	 	     Ni 		413	NaHu	M2 V	0	(B32-5)	[144E]	B	12	-330
+1281	Beyo	B	1609	Maruta	C434455-9	 	     Ni 		213	Wild	M2 V	-1	(B30+1)	[837A]	B	12	33
+1508	Beyo	B	1609	Maruta	C434475-9	 	     Ni 		313	Wild	M2 V	-1	(B31+1)	[33A7]	B	12	33
+1900	Beyo	B	1609	Maruta	C434441-A	 	     Ni 		413	Wild	M2 V	0	(B33-2)	[3496]	B	12	-198
+
+1105	Beyo	F	1613	Navarre	A7776A6-B	 	     Ag Ni 		622	CoLg	K3 V M3 V	3	(859+1)	[6947]	BC	9	360
+1281	Beyo	F	1613	Navarre	E777000-B	 	      Di 		022	Wild	K3 V M3 V	-1	(800-2)	[0000]	B	9	-16
+1508	Beyo	F	1613	Navarre	E777000-B	 	      Di 		022	Wild	K3 V M3 V	-1	(800-1)	[0000]	B	9	-8
+1900	Beyo	F	1613	Navarre	E777000-B	 	      Di 		022	Wild	K3 V M3 V	-1	(800+3)	[0000]	B	9	24
+
+1105	Beyo	F	1614	Zterpyll	D564367-9	 	    O:1414 Sa  Lo 		902	CoLg	K0 V K4 V	-2	(720-1)	[6168]	B	13	-14
+1281	Beyo	F	1614	Zterpyll	D564000-9	 	    O:1414 Sa  Di 		002	Wild	K0 V K4 V	-2	(700-1)	[0000]	B	13	-7
+1508	Beyo	F	1614	Zterpyll	D564000-9	 	    O:1414 Sa  Di 		002	Wild	K0 V K4 V	-2	(700-4)	[0000]	B	13	-28
+1900	Beyo	F	1614	Zterpyll	D564000-9	 	    O:1414 Sa  Di 		002	Wild	K0 V K4 V	-2	(700-2)	[0000]	B	13	-14
+
+1105	Beyo	F	1617	Link	B232312-A	 	    Sa  Lo Po 		413	NaHu	M6 V	1	(C21+1)	[445A]	B	10	24
+1281	Beyo	F	1617	Link	D232000-A	 	    Sa  Di Po 		013	Wild	M6 V	-1	(C00+1)	[0000]	B	10	12
+1508	Beyo	F	1617	Link	D232000-A	 	    Sa  Di Po 		013	Wild	M6 V	-1	(C00+2)	[0000]	B	10	24
+1900	Beyo	F	1617	Link	D232000-A	 	    Sa  Di Po 		013	Wild	M6 V	-1	(C00-1)	[0000]	B	10	-12
+
+1105	Beyo	F	1618	Cypger	X510000-0	 	     Ba 		010	NaXX	M0 V M9 V M3 V	-3	(900+1)	[0000]	B	8	9
+1281	Beyo	F	1618	Cypger	X510000-0	 	     Ba 		010	Wild	M0 V M9 V M3 V	-3	(900-3)	[0000]	B	8	-27
+1508	Beyo	F	1618	Cypger	X510000-0	 	     Ba 		010	Wild	M0 V M9 V M3 V	-3	(900+4)	[0000]	B	8	36
+1900	Beyo	F	1618	Cypger	X510000-0	 	     Ba 		010	Wild	M0 V M9 V M3 V	-3	(900-1)	[0000]	B	8	-9
+
+1105	Beyo	J	1623	Burk	C666424-8	 	     Ga Ni Pa 		512	ShRp	M2 V	-2	(D30-2)	[1298]	Bc	9	-78
+1281	Beyo	J	1623	Burk	X666000-8	 	      Di Ga 		012	Wild	M2 V	-3	(D00+1)	[0000]	B	9	13
+1508	Beyo	J	1623	Burk	X666000-8	 	      Di Ga 		012	Wild	M2 V	-3	(D00-1)	[0000]	B	9	-13
+1900	Beyo	J	1623	Burk	X666000-8	 	      Di Ga 		012	Wild	M2 V	-3	(D00-1)	[0000]	B	9	-13
+
+1105	Beyo	J	1626	Teglass	C442322-A	 	     He Lo Po 		622	ShRp	G1 V G9 V	0	(820+1)	[3326]	B	10	16
+1281	Beyo	J	1626	Teglass	D442000-A	 	     Di He Po 		022	Wild	G1 V G9 V	-1	(800+3)	[0000]	B	10	24
+1508	Beyo	J	1626	Teglass	D442000-A	 	     Di He Po 		022	Wild	G1 V G9 V	-1	(800-1)	[0000]	B	10	-8
+1900	Beyo	J	1626	Teglass	D442000-A	 	     Di He Po 		022	Wild	G1 V G9 V	-1	(800-4)	[0000]	B	10	-32
+
+1105	Beyo	N	1632	Turtsirho	C56585A-A	 	     Pz DroyW Co Sa  Pa Ri Ph (NIL)	A	712	NaDr	G0 V K2 V M0 V K0 V BD	2	(87C+1)	[7A5B]	BcCe	15	672
+1281	Beyo	N	1632	Turtsirho	C5658CF-7	 	     Pz DroyW Co Sa  Pa Ri Ph (NIL)		312	Wild	G0 V K2 V M0 V K0 V BD	0	(577+3)	[88A7]	BcCe	15	735
+1508	Beyo	N	1632	Turtsirho	C565898-8	 	     Pz DroyW Co Sa  Pa Ri Ph (NIL)		412	Wild	G0 V K2 V M0 V K0 V BD	0	(875-1)	[5858]	BcCe	15	-280
+1900	Beyo	N	1632	Turtsirho	C565877-9	 	     Pz DroyW Co Sa  Pa Ri Ph (NIL)		312	Wild	G0 V K2 V M0 V K0 V BD	1	(877+1)	[9999]	BcCe	15	392
+
+1105	Beyo	N	1635	Inkakartys	E511000-0	 	    Tz  Ba Ic 		000	NaXX	M6 V	-3	(400+3)	[0000]	B	5	12
+1281	Beyo	N	1635	Inkakartys	E511000-0	 	    Tz  Ba Ic 		000	Wild	M6 V	-3	(400+1)	[0000]	B	5	4
+1508	Beyo	N	1635	Inkakartys	E511000-0	 	    Tz  Ba Ic 		000	Wild	M6 V	-3	(400+1)	[0000]	B	5	4
+1900	Beyo	N	1635	Inkakartys	E511000-0	 	    Tz  Ba Ic 		000	Wild	M6 V	-3	(400-3)	[0000]	B	5	-12
+
+1105	Beyo	N	1639	Vinadalou	C623313-9	 	    Ho Tz  Lo Po 		433	NaHu	M2 V	-1	(D20+1)	[528C]	B	10	26
+1281	Beyo	N	1639	Vinadalou	D623000-9	 	    Ho Tz  Di Po 		033	Wild	M2 V	-2	(D00+1)	[0000]	B	10	13
+1508	Beyo	N	1639	Vinadalou	D623000-9	 	    Ho Tz  Di Po 		033	Wild	M2 V	-2	(D00+3)	[0000]	B	10	39
+1900	Beyo	N	1639	Vinadalou	D623000-9	 	    Ho Tz  Di Po 		033	Wild	M2 V	-2	(D00+1)	[0000]	B	10	13
+
+1105	Beyo	C	1701	Pingue	C444686-9	 	     Ag Ni 		612	NaHu	M2 V M3 V	0	(755+2)	[6659]	BC	11	350
+1281	Beyo	C	1701	Pingue	E444000-9	 	      Di 		012	Wild	M2 V M3 V	-2	(700-2)	[0000]	B	11	-14
+1508	Beyo	C	1701	Pingue	E444000-9	 	      Di 		012	Wild	M2 V M3 V	-2	(700+3)	[0000]	B	11	21
+1900	Beyo	C	1701	Pingue	E444000-9	 	      Di 		012	Wild	M2 V M3 V	-2	(700+1)	[0000]	B	11	7
+
+1105	Beyo	C	1709	Degmann	B543434-A	 	    Co  Ni Po 		321	NaHu	M2 V	1	(D37+2)	[653F]	B	11	546
+1281	Beyo	C	1709	Degmann	X543000-A	 	    Co  Di Po 		021	Wild	M2 V	-1	(D00+2)	[0000]	B	11	26
+1508	Beyo	C	1709	Degmann	X543000-A	 	    Co  Di Po 		021	Wild	M2 V	-1	(D00+1)	[0000]	B	11	13
+1900	Beyo	C	1709	Degmann	X543000-A	 	    Co  Di Po 		021	Wild	M2 V	-1	(D00+2)	[0000]	B	11	26
+
+1105	Beyo	G	1715	Examma	X911000-0	 	    Fo  Ba Ic 	R	010	NaXX	M5 V	-3	(500+2)	[0000]	B	9	10
+1281	Beyo	G	1715	Examma	X911000-0	 	    Fo  Ba Ic 		010	Wild	M5 V	-3	(500-1)	[0000]	B	9	-5
+1508	Beyo	G	1715	Examma	X911000-0	 	    Fo  Ba Ic 		010	Wild	M5 V	-3	(500+3)	[0000]	B	9	15
+1900	Beyo	G	1715	Examma	X911000-0	 	    Fo  Ba Ic 		010	Wild	M5 V	-3	(500-1)	[0000]	B	9	-5
+
+1105	Beyo	G	1720	Wi	C100263-B	 	     Sa  Lo Va 		233	CoLg	K4 V M4 V	0	(E10+1)	[227E]	B	15	14
+1281	Beyo	G	1720	Wi	D100000-B	 	     Sa  Di Va 		033	Wild	K4 V M4 V	-1	(E00+2)	[0000]	B	15	28
+1508	Beyo	G	1720	Wi	D100000-B	 	     Sa  Di Va 		033	Wild	K4 V M4 V	-1	(E00+2)	[0000]	B	15	28
+1900	Beyo	G	1720	Wi	D100000-B	 	     Sa  Di Va 		033	Wild	K4 V M4 V	-1	(E00-2)	[0000]	B	15	-28
+
+1105	Beyo	K	1724	Stormhaven	A876945-C	 	      Hi In (NIL)		622	ShRp	K2 V M5 V	4	(B86+2)	[AD9E]	BEf	12	1056
+1281	Beyo	K	1724	Stormhaven	A87698A-A	 	      Hi In (NIL)		322	Wild	K2 V M5 V	4	(B89+2)	[8D2B]	BEf	12	1584
+1508	Beyo	K	1724	Stormhaven	A876988-B	 	      Hi In (NIL)		322	Wild	K2 V M5 V	4	(B87+4)	[AD4C]	BEf	12	2464
+1900	Beyo	K	1724	Stormhaven	A8769A8-C	 	      Hi In (NIL)		422	Wild	K2 V M5 V	4	(B8F+1)	[8D68]	BEf	12	1320
+
+1105	Beyo	K	1725	Brennan	C311322-A	 	    Sa  Ic Lo 		411	ShRp	M3 V	0	(C20-1)	[1329]	B	13	-24
+1281	Beyo	K	1725	Brennan	X311000-A	 	    Sa  Di Ic 		011	Wild	M3 V	-1	(C00+1)	[0000]	B	13	12
+1508	Beyo	K	1725	Brennan	X311000-A	 	    Sa  Di Ic 		011	Wild	M3 V	-1	(C00-2)	[0000]	B	13	-24
+1900	Beyo	K	1725	Brennan	X311000-A	 	    Sa  Di Ic 		011	Wild	M3 V	-1	(C00+2)	[0000]	B	13	24
+
+1105	Beyo	K	1726	Bar Shellan	B666544-9	 	      Ag Pr Ga Ni 		902	ShRp	K5 III M1 V	1	(A46-3)	[768E]	BcC	9	-720
+1281	Beyo	K	1726	Bar Shellan	X666000-9	 	       Di Ga 		002	Wild	K5 III M1 V	-2	(A00+2)	[0000]	B	9	20
+1508	Beyo	K	1726	Bar Shellan	X666000-9	 	       Di Ga 		002	Wild	K5 III M1 V	-2	(A00+1)	[0000]	B	9	10
+1900	Beyo	K	1726	Bar Shellan	X666000-9	 	       Di Ga 		002	Wild	K5 III M1 V	-2	(A00-2)	[0000]	B	9	-20
+
+1105	Beyo	K	1729	Quatal	CBC1233-B	 	      Fl He Lo 		312	NaHu	F6 V	0	(910+1)	[1278]	B	12	9
+1281	Beyo	K	1729	Quatal	EBC1000-B	 	      Di Fl He 		012	Wild	F6 V	-1	(900-1)	[0000]	B	12	-9
+1508	Beyo	K	1729	Quatal	EBC1000-B	 	      Di Fl He 		012	Wild	F6 V	-1	(900-1)	[0000]	B	12	-9
+1900	Beyo	K	1729	Quatal	EBC1000-B	 	      Di Fl He 		012	Wild	F6 V	-1	(900+1)	[0000]	B	12	9
+
+1105	Beyo	O	1734	Inferno	XC22000-0	 	    Tz  Ba He Po 		041	NaXX	M5 V M8 V	-3	(900-3)	[0000]	B	14	-27
+1281	Beyo	O	1734	Inferno	XC22000-0	 	    Tz  Ba He Po 		041	Wild	M5 V M8 V	-3	(900-1)	[0000]	B	14	-9
+1508	Beyo	O	1734	Inferno	XC22000-0	 	    Tz  Ba He Po 		041	Wild	M5 V M8 V	-3	(900+3)	[0000]	B	14	27
+1900	Beyo	O	1734	Inferno	XC22000-0	 	    Tz  Ba He Po 		041	Wild	M5 V M8 V	-3	(900-1)	[0000]	B	14	-9
+
+1105	Beyo	O	1740	Delcorre	C321312-B	 	    Ho Sa  He Lo Po 		831	NaHu	M2 V	0	(820-4)	[536C]	B	10	-64
+1281	Beyo	O	1740	Delcorre	D321000-B	 	    Ho Sa  Di He Po 		031	Wild	M2 V	-1	(800-2)	[0000]	B	10	-16
+1508	Beyo	O	1740	Delcorre	D321000-B	 	    Ho Sa  Di He Po 		031	Wild	M2 V	-1	(800-4)	[0000]	B	10	-32
+1900	Beyo	O	1740	Delcorre	D321000-B	 	    Ho Sa  Di He Po 		031	Wild	M2 V	-1	(800+1)	[0000]	B	10	8
+
+1105	Beyo	C	1802	Balleau	C456579-9	 	    Da Sa  Ag Ni 	A	712	NaHu	F7 V D	0	(843-1)	[755B]	BC	6	-96
+1281	Beyo	C	1802	Balleau	C456520-7	 	    Da Sa  Ag Ni 		312	Wild	F7 V D	-1	(541+1)	[6495]	BC	6	20
+1508	Beyo	C	1802	Balleau	C456576-8	 	    Da Sa  Ag Ni 		412	Wild	F7 V D	-1	(840+3)	[4439]	BC	6	96
+1900	Beyo	C	1802	Balleau	C456586-9	 	    Da Sa  Ag Ni 		312	Wild	F7 V D	0	(843+1)	[655B]	BC	6	96
+
+1105	Beyo	C	1810	Tartakover	A560895-B	S	    Pz la2 rg1  De Ph Ri (NIL)	A	900	CsIm	G2 V	3	(A7D+1)	[AB99]	BCe	12	910
+1281	Beyo	C	1810	Tartakover	A560898-9	S	    Pz la2 rg1  De Ph Ri (NIL)		400	Wild	G2 V	2	(A79-4)	[5A47]	BCe	12	-2520
+1508	Beyo	C	1810	Tartakover	A5608AA-A	S	    Pz la2 rg1  De Ph Ri (NIL)		400	Wild	G2 V	3	(A7A-1)	[8B49]	BCe	12	-700
+1900	Beyo	C	1810	Tartakover	A5608B9-B	S	    Pz la2 rg1  De Ph Ri (NIL)		300	Wild	G2 V	3	(A7D-3)	[DB68]	BCe	12	-2730
+
+1105	Beyo	G	1812	Shalukin	B211211-B	 	    Co  Ic Lo 		300	CoLg	M6 V BD	1	(A11+3)	[135E]	B	8	30
+1281	Beyo	G	1812	Shalukin	E211000-B	 	    Co  Di Ic 		000	Wild	M6 V BD	-1	(A00+1)	[0000]	B	8	10
+1508	Beyo	G	1812	Shalukin	E211000-B	 	    Co  Di Ic 		000	Wild	M6 V BD	-1	(A00+3)	[0000]	B	8	30
+1900	Beyo	G	1812	Shalukin	E211000-B	 	    Co  Di Ic 		000	Wild	M6 V BD	-1	(A00-1)	[0000]	B	8	-10
+
+1105	Beyo	G	1817	Torgau	B433455-B	 	     Ni Po 		522	NaHu	K2 V	1	(C32-1)	[256B]	B	16	-72
+1281	Beyo	G	1817	Torgau	B433434-8	 	     Ni Po 		222	Wild	K2 V	-1	(C35+2)	[3365]	B	16	360
+1508	Beyo	G	1817	Torgau	B433430-9	 	     Ni Po 		322	Wild	K2 V	0	(C36-4)	[441B]	B	16	-864
+1900	Beyo	G	1817	Torgau	B433442-A	 	     Ni Po 		322	Wild	K2 V	1	(C37-2)	[1539]	B	16	-504
+
+1105	Beyo	K	1824	Camlaen	C234323-A	 	    Sa  Lo 		642	ShRp	M2 V M4 V	0	(D20-1)	[234D]	B	10	-26
+1281	Beyo	K	1824	Camlaen	D234000-A	 	    Sa  Di 		042	Wild	M2 V M4 V	-1	(D00+4)	[0000]	B	10	52
+1508	Beyo	K	1824	Camlaen	D234000-A	 	    Sa  Di 		042	Wild	M2 V M4 V	-1	(D00+1)	[0000]	B	10	13
+1900	Beyo	K	1824	Camlaen	D234000-A	 	    Sa  Di 		042	Wild	M2 V M4 V	-1	(D00+1)	[0000]	B	10	13
+
+1105	Beyo	K	1827	Akarana	B556679-B	 	     Ag Ni 		510	NaHu	K5 V M0 V	2	(855-1)	[581A]	BC	12	-200
+1281	Beyo	K	1827	Akarana	B556686-9	 	     Ag Ni 		210	Wild	K5 V M0 V	1	(852-3)	[B76E]	BC	12	-240
+1508	Beyo	K	1827	Akarana	B556673-A	 	     Ag Ni 		110	Wild	K5 V M0 V	2	(857+4)	[484C]	BC	12	1120
+1900	Beyo	K	1827	Akarana	B556533-C	 	     Ag Ni 		910	Wild	K5 V M0 V	2	(847+2)	[674E]	BC	12	448
+
+1105	Beyo	O	1831	Siren	C521310-A	 	    Co  He Lo Po 		810	NaHu	K3 V	0	(A20-1)	[8359]	B	6	-20
+1281	Beyo	O	1831	Siren	E521000-A	 	    Co  Di He Po 		010	Wild	K3 V	-1	(A00+1)	[0000]	B	6	10
+1508	Beyo	O	1831	Siren	E521000-A	 	    Co  Di He Po 		010	Wild	K3 V	-1	(A00+1)	[0000]	B	6	10
+1900	Beyo	O	1831	Siren	E521000-A	 	    Co  Di He Po 		010	Wild	K3 V	-1	(A00-2)	[0000]	B	6	-20
+
+1105	Beyo	O	1836	Point Null	X100000-0	 	     Ba Va 		010	NaXX	G2 V	-3	(400-3)	[0000]	B	11	-12
+1281	Beyo	O	1836	Point Null	X100000-0	 	     Ba Va 		010	Wild	G2 V	-3	(400+1)	[0000]	B	11	4
+1508	Beyo	O	1836	Point Null	X100000-0	 	     Ba Va 		010	Wild	G2 V	-3	(400+1)	[0000]	B	11	4
+1900	Beyo	O	1836	Point Null	X100000-0	 	     Ba Va 		010	Wild	G2 V	-3	(400-1)	[0000]	B	11	-4
+
+1105	Beyo	O	1837	Charanta	C54587B-7	 	     Pz  Pa Pi Ph (NIL)	A	311	NaHu	G5 V K2 V	-1	(875+3)	[C73C]	BcDe	10	840
+1281	Beyo	O	1837	Charanta	X545000-7	 	     Pz  Di Pi (NIL)		011	Wild	G5 V K2 V	-3	(800+1)	[0000]	BD	10	8
+1508	Beyo	O	1837	Charanta	X545000-7	 	      Pz  Di (NIL)		011	Wild	G5 V K2 V	-3	(800+1)	[0000]	B	10	8
+1900	Beyo	O	1837	Charanta	X545000-7	 	      Pz  Di (NIL)		011	Wild	G5 V K2 V	-3	(800+1)	[0000]	B	10	8
+
+1105	Beyo	C	1901	Ongjoco	B876856-9	 	      Pa Pi Ph (NIL)		812	NaHu	K4 V M6 V	1	(773-2)	[693A]	BcDe	11	-294
+1281	Beyo	C	1901	Ongjoco	X876000-9	 	      Di Pi (NIL)		012	Wild	K4 V M6 V	-2	(700+2)	[0000]	BD	11	14
+1508	Beyo	C	1901	Ongjoco	X876000-9	 	       Di (NIL)		012	Wild	K4 V M6 V	-2	(700-1)	[0000]	B	11	-7
+1900	Beyo	C	1901	Ongjoco	X876000-9	 	       Di (NIL)		012	Wild	K4 V M6 V	-2	(700-2)	[0000]	B	11	-14
+
+1105	Beyo	C	1904	Kipuushlim	E310000-0	 	     Ba 		020	NaXX	M1 V M1 V	-3	(600+3)	[0000]	B	15	18
+1281	Beyo	C	1904	Kipuushlim	E310000-0	 	     Ba 		020	Wild	M1 V M1 V	-3	(600+1)	[0000]	B	15	6
+1508	Beyo	C	1904	Kipuushlim	E310000-0	 	     Ba 		020	Wild	M1 V M1 V	-3	(600+1)	[0000]	B	15	6
+1900	Beyo	C	1904	Kipuushlim	E310000-0	 	     Ba 		020	Wild	M1 V M1 V	-3	(600+1)	[0000]	B	15	6
+
+1105	Beyo	C	1907	Djend	C645565-9	 	    O:1908  Ag Ni 		613	NaHu	K7 V	0	(745+2)	[85A6]	BC	13	280
+1281	Beyo	C	1907	Djend	E645000-9	 	     O:1908  Di 		013	Wild	K7 V	-2	(700+1)	[0000]	B	13	7
+1508	Beyo	C	1907	Djend	E645000-9	 	     O:1908  Di 		013	Wild	K7 V	-2	(700+1)	[0000]	B	13	7
+1900	Beyo	C	1907	Djend	E645000-9	 	     O:1908  Di 		013	Wild	K7 V	-2	(700+1)	[0000]	B	13	7
+
+1105	Beyo	C	1908	Yangikent	B955687-A	 	    (Gmina)1 Tz  Ag Ni 		802	NaHu	M3 V	2	(A53+1)	[B86B]	BC	7	150
+1281	Beyo	C	1908	Yangikent	B955678-8	 	    (Gmina)1 Tz  Ag Ni 		402	Wild	M3 V	0	(A55+3)	[A659]	BC	7	750
+1508	Beyo	C	1908	Yangikent	B955678-9	 	    (Gmina)1 Tz  Ag Ni 		302	Wild	M3 V	1	(A55-1)	[4718]	BC	7	-250
+1900	Beyo	C	1908	Yangikent	B955632-A	 	    (Gmina)1 Tz  Ag Ni 		402	Wild	M3 V	2	(A54+5)	[683B]	BC	7	1000
+
+1105	Beyo	G	1917	Rolland	B645544-A	 	     Ag Ni 		512	NaHu	G6 V	2	(B44+5)	[1718]	BC	9	880
+1281	Beyo	G	1917	Rolland	X645000-A	 	      Di 		012	Wild	G6 V	-1	(B00+2)	[0000]	B	9	22
+1508	Beyo	G	1917	Rolland	X645000-A	 	      Di 		012	Wild	G6 V	-1	(B00-4)	[0000]	B	9	-44
+1900	Beyo	G	1917	Rolland	X645000-A	 	      Di 		012	Wild	G6 V	-1	(B00+3)	[0000]	B	9	33
+
+1105	Beyo	G	1918	Beriel	BA67835-9	 	      Pa Ri Ph (NIL)		603	NaHu	G9 V	2	(674+3)	[BAA9]	BcCe	8	504
+1281	Beyo	G	1918	Beriel	BA67887-7	 	      Pa Ri Ph (NIL)		303	Wild	G9 V	1	(373+1)	[994A]	BcCe	8	63
+1508	Beyo	G	1918	Beriel	BA67877-8	 	      Pa Ri Ph (NIL)		403	Wild	G9 V	1	(67B+1)	[5977]	BcCe	8	462
+1900	Beyo	G	1918	Beriel	BA678C7-9	 	      Pa Ri Ph (NIL)		503	Wild	G9 V	2	(678-1)	[4A38]	BcCe	8	-336
+
+1105	Beyo	K	1921	Remedius	C511442-A	 	    Sa  Ic Ni 		941	ShRp	M0 V	0	(833-4)	[946A]	B	13	-288
+1281	Beyo	K	1921	Remedius	X511000-A	 	    Sa  Di Ic 		041	Wild	M0 V	-1	(800+1)	[0000]	B	13	8
+1508	Beyo	K	1921	Remedius	X511000-A	 	    Sa  Di Ic 		041	Wild	M0 V	-1	(800-3)	[0000]	B	13	-24
+1900	Beyo	K	1921	Remedius	X511000-A	 	    Sa  Di Ic 		041	Wild	M0 V	-1	(800-5)	[0000]	B	13	-40
+
+1105	Beyo	K	1930	Endore	D221300-A	 	    Sa  Lo Po 		211	NaHu	F9 V	-1	(720-2)	[4279]	B	9	-28
+1281	Beyo	K	1930	Endore	D221000-A	 	    Sa  Di Po 		011	Wild	F9 V	-1	(700+1)	[0000]	B	9	7
+1508	Beyo	K	1930	Endore	D221000-A	 	    Sa  Di Po 		011	Wild	F9 V	-1	(700+4)	[0000]	B	9	28
+1900	Beyo	K	1930	Endore	D221000-A	 	    Sa  Di Po 		011	Wild	F9 V	-1	(700+2)	[0000]	B	9	14
+
+1105	Beyo	O	1933	Devil's Foot	X401000-0	 	     Co Sa  Ba Ic Va 		011	NaXX	M5 V M7 V	-3	(700-4)	[0000]	B	8	-28
+1281	Beyo	O	1933	Devil's Foot	X401000-0	 	     Co Sa  Ba Ic Va 		011	Wild	M5 V M7 V	-3	(700+1)	[0000]	B	8	7
+1508	Beyo	O	1933	Devil's Foot	X401000-0	 	     Co Sa  Ba Ic Va 		011	Wild	M5 V M7 V	-3	(700-1)	[0000]	B	8	-7
+1900	Beyo	O	1933	Devil's Foot	X401000-0	 	     Co Sa  Ba Ic Va 		011	Wild	M5 V M7 V	-3	(700+2)	[0000]	B	8	14
+
+1105	Beyo	O	1939	Delentash	X321000-0	 	     Ba He Po 		010	NaXX	K0 V	-3	(800-4)	[0000]	B	7	-32
+1281	Beyo	O	1939	Delentash	X321000-0	 	     Ba He Po 		010	Wild	K0 V	-3	(800+1)	[0000]	B	7	8
+1508	Beyo	O	1939	Delentash	X321000-0	 	     Ba He Po 		010	Wild	K0 V	-3	(800+1)	[0000]	B	7	8
+1900	Beyo	O	1939	Delentash	X321000-0	 	     Ba He Po 		010	Wild	K0 V	-3	(800+1)	[0000]	B	7	8
+
+1105	Beyo	C	2004	Escobarre	D100212-B	 	     Lo Va 		312	NaHu	M1 V	-1	(810-1)	[5199]	B	12	-8
+1281	Beyo	C	2004	Escobarre	D100000-B	 	     Di Va 		012	Wild	M1 V	-1	(800+1)	[0000]	B	12	8
+1508	Beyo	C	2004	Escobarre	D100000-B	 	     Di Va 		012	Wild	M1 V	-1	(800-5)	[0000]	B	12	-40
+1900	Beyo	C	2004	Escobarre	D100000-B	 	     Di Va 		012	Wild	M1 V	-1	(800+1)	[0000]	B	12	8
+
+1105	Beyo	G	2011	I'Sred*Nillol	B434588-C	 	   SredW  Ni Px 		902	IHPr	F6 V	1	(943-1)	[865D]	B	7	-108
+1281	Beyo	G	2011	I'Sred*Nillol	B434438-A	 	   SredW  Ni Px 		402	Wild	F6 V	1	(934+1)	[1558]	B	7	108
+1508	Beyo	G	2011	I'Sred*Nillol	B434443-B	 	    SredW  Ni 		302	Wild	F6 V	1	(934+1)	[154D]	B	7	108
+1900	Beyo	G	2011	I'Sred*Nillol	B434421-C	 	    SredW  Ni 		402	Wild	F6 V	1	(936-4)	[256B]	B	7	-648
+
+1105	Beyo	G	2012	I'Sred*Nispr	A665888-C	 	     SredW  Ga Pa Ri Ph (NIL)		523	IHPr	K3 V	3	(C79+1)	[8B5D]	BcCe	17	756
+1281	Beyo	G	2012	I'Sred*Nispr	A665851-B	 	     SredW  Ga Pa Ri Ph (NIL)		223	Wild	K3 V	3	(C7E+1)	[CB7G]	BcCe	17	1176
+1508	Beyo	G	2012	I'Sred*Nispr	A665859-C	 	     SredW  Ga Pa Ri Ph (NIL)		123	Wild	K3 V	3	(C7D-3)	[6B4A]	BcCe	17	-3276
+1900	Beyo	G	2012	I'Sred*Nispr	A6657BC-C	 	      SredW  Ag Ri Ga (NIL)		923	Wild	K3 V	4	(C69-1)	[3B5C]	BCf	17	-648
+
+1105	Beyo	G	2016	Tanasi	C854684-9	 	     Ag Ni 		421	NaHu	G9 V M8 V	0	(B55-4)	[5638]	BC	14	-1100
+1281	Beyo	G	2016	Tanasi	X854000-9	 	      Di 		021	Wild	G9 V M8 V	-2	(B00-3)	[0000]	B	14	-33
+1508	Beyo	G	2016	Tanasi	X854000-9	 	      Di 		021	Wild	G9 V M8 V	-2	(B00+1)	[0000]	B	14	11
+1900	Beyo	G	2016	Tanasi	X854000-9	 	      Di 		021	Wild	G9 V M8 V	-2	(B00+1)	[0000]	B	14	11
+
+1105	Beyo	G	2020	Excalibur	A966745-C	 	      Ag Ri (NIL)		413	ShRp	K4 V M3 V	4	(C6C+1)	[9B4D]	BCf	12	864
+1281	Beyo	G	2020	Excalibur	A966799-A	 	      Ag Ri (NIL)		213	Wild	K4 V M3 V	4	(C6B-1)	[7B5C]	BCf	12	-792
+1508	Beyo	G	2020	Excalibur	A96679A-B	 	      Ag Ri (NIL)		313	Wild	K4 V M3 V	4	(C6A-2)	[7B79]	BCf	12	-1440
+1900	Beyo	G	2020	Excalibur	A966788-C	 	      Ag Ri (NIL)		413	Wild	K4 V M3 V	4	(C6B+3)	[BB57]	BCf	12	2376
+
+1105	Beyo	K	2022	Gapoto	B554523-A	 	     Ag Ni 		920	ShRp	G1 V	2	(746-2)	[671F]	BC	7	-336
+1281	Beyo	K	2022	Gapoto	B554574-8	 	     Ag Ni 		420	Wild	G1 V	0	(741-4)	[151B]	BC	7	-112
+1508	Beyo	K	2022	Gapoto	B554555-A	 	     Ag Ni 		520	Wild	G1 V	2	(743+1)	[174A]	BC	7	84
+1900	Beyo	K	2022	Gapoto	B554587-A	 	     Ag Ni 		420	Wild	G1 V	2	(743+2)	[6739]	BC	7	168
+
+1105	Beyo	K	2024	Teas	B512487-B	 	    Co  Ic Ni 		613	ShRp	M8 V	1	(A37-2)	[851F]	B	9	-420
+1281	Beyo	K	2024	Teas	E512000-B	 	    Co  Di Ic 		013	Wild	M8 V	-1	(A00+1)	[0000]	B	9	10
+1508	Beyo	K	2024	Teas	E512000-B	 	    Co  Di Ic 		013	Wild	M8 V	-1	(A00-2)	[0000]	B	9	-20
+1900	Beyo	K	2024	Teas	E512000-B	 	    Co  Di Ic 		013	Wild	M8 V	-1	(A00-2)	[0000]	B	9	-20
+
+1105	Beyo	K	2025	Hell	B612587-A	 	    Co  Ic Ni 		311	ShRp	M1 V	1	(942+1)	[8648]	B	10	72
+1281	Beyo	K	2025	Hell	E612000-A	 	    Co  Di Ic 		011	Wild	M1 V	-1	(900-2)	[0000]	B	10	-18
+1508	Beyo	K	2025	Hell	E612000-A	 	    Co  Di Ic 		011	Wild	M1 V	-1	(900-1)	[0000]	B	10	-9
+1900	Beyo	K	2025	Hell	E612000-A	 	    Co  Di Ic 		011	Wild	M1 V	-1	(900-5)	[0000]	B	10	-45
+
+1105	Beyo	O	2036	Aktohr	X000000-0	 	      As Va Ba 		010	NaXX	F2 V	-3	(600-2)	[0000]	B	10	-12
+1281	Beyo	O	2036	Aktohr	X000000-0	 	      As Va Ba 		010	Wild	F2 V	-3	(600+2)	[0000]	B	10	12
+1508	Beyo	O	2036	Aktohr	X000000-0	 	      As Va Ba 		010	Wild	F2 V	-3	(600-2)	[0000]	B	10	-12
+1900	Beyo	O	2036	Aktohr	X000000-0	 	      As Va Ba 		010	Wild	F2 V	-3	(600-1)	[0000]	B	10	-6
+
+1105	Beyo	C	2102	Teme	B667698-9	 	      Ag Ri Ga Ni 		701	KaEm	M1 V M1 V	2	(955-4)	[1878]	BC	7	-900
+1281	Beyo	C	2102	Teme	B667677-7	 	      Ag Ri Ga Ni 		301	Wild	M1 V M1 V	1	(856-1)	[1768]	BC	7	-240
+1508	Beyo	C	2102	Teme	B66765A-9	 	      Ag Ri Ga Ni 		401	Wild	M1 V M1 V	2	(953+1)	[886A]	BC	7	135
+1900	Beyo	C	2102	Teme	B667679-9	 	      Ag Ri Ga Ni 		301	Wild	M1 V M1 V	2	(955+4)	[482D]	BC	7	900
+
+1105	Beyo	C	2103	Katanga	AA86799-C	 	       Ag Ri (NIL)		512	KaEm	G3 V	4	(968+1)	[8B6B]	BCf	10	432
+1281	Beyo	C	2103	Katanga	AA867AA-A	 	       Ag Ri (NIL)		212	Wild	G3 V	4	(96D+1)	[7B4B]	BCf	10	702
+1508	Beyo	C	2103	Katanga	AA86787-B	 	       Ag Ri (NIL)		212	Wild	G3 V	4	(96A-4)	[8B9F]	BCf	10	-2160
+1900	Beyo	C	2103	Katanga	AA867AA-C	 	       Ag Ri (NIL)		312	Wild	G3 V	4	(969-1)	[9B4E]	BCf	10	-486
+
+1105	Beyo	C	2107	Nyma	B221312-A	 	     Lo Po 		322	NaHu	K7 V M2 V	1	(821+1)	[346D]	B	14	16
+1281	Beyo	C	2107	Nyma	E221000-A	 	     Di Po 		022	Wild	K7 V M2 V	-1	(800-2)	[0000]	B	14	-16
+1508	Beyo	C	2107	Nyma	E221000-A	 	     Di Po 		022	Wild	K7 V M2 V	-1	(800-4)	[0000]	B	14	-32
+1900	Beyo	C	2107	Nyma	E221000-A	 	     Di Po 		022	Wild	K7 V M2 V	-1	(800-3)	[0000]	B	14	-24
+
+1105	Beyo	C	2108	Diversion	B301311-B	 	     Fr  Ic Va Lo 		510	NaHu	G9 IV	1	(721+4)	[747B]	B	6	56
+1281	Beyo	C	2108	Diversion	E301000-B	 	     Fr  Di Ic Va 		010	Wild	G9 IV	-1	(700+1)	[0000]	B	6	7
+1508	Beyo	C	2108	Diversion	E301000-B	 	     Fr  Di Ic Va 		010	Wild	G9 IV	-1	(700+3)	[0000]	B	6	21
+1900	Beyo	C	2108	Diversion	E301000-B	 	     Fr  Di Ic Va 		010	Wild	G9 IV	-1	(700-1)	[0000]	B	6	-7
+
+1105	Beyo	G	2113	I'Sred*Nihil	A668988-C	 	     (Sred!)  Hi Pr (NIL)		711	IHPr	K0 V	3	(A86+4)	[9C4B]	BcE	13	1920
+1281	Beyo	G	2113	I'Sred*Nihil	A66899A-A	 	     (Sred!)  Hi Pr (NIL)		311	Wild	K0 V	3	(A8D+1)	[9C5D]	BcE	13	1040
+1508	Beyo	G	2113	I'Sred*Nihil	A668972-B	 	     (Sred!)  Hi Pr (NIL)		211	Wild	K0 V	3	(A88+1)	[AC6C]	BcE	13	640
+1900	Beyo	G	2113	I'Sred*Nihil	A6689CF-C	 	     (Sred!)  Hi Pr (NIL)		111	Wild	K0 V	3	(A8A+1)	[8C6E]	BcE	13	800
+
+1105	Beyo	G	2115	I'Sred*Nilun	A571788-C	 	    SredW  He Pi (NIL)		622	IHPr	G6 V	2	(D69-5)	[895G]	BD	8	-3510
+1281	Beyo	G	2115	I'Sred*Nilun	A571779-A	 	    SredW  He Pi (NIL)		322	Wild	G6 V	2	(D66+1)	[493A]	BD	8	468
+1508	Beyo	G	2115	I'Sred*Nilun	A57178B-B	 	    SredW  He Pi (NIL)		322	Wild	G6 V	2	(D6B+3)	[A936]	BD	8	2574
+1900	Beyo	G	2115	I'Sred*Nilun	A57178A-C	 	    SredW  He Pi (NIL)		422	Wild	G6 V	2	(D6A-1)	[C94F]	BD	8	-780
+
+1105	Beyo	G	2116	I'Sred*Nixtu	B000588-C	 	     SredW Ho  As Va Ni 		432	IHPr	K5 V	1	(847+1)	[466B]	B	16	224
+1281	Beyo	G	2116	I'Sred*Nixtu	E000000-C	 	     SredW Ho  As Va Di 		032	Wild	K5 V	-1	(800+3)	[0000]	B	16	24
+1508	Beyo	G	2116	I'Sred*Nixtu	E000000-C	 	     SredW Ho  As Va Di 		032	Wild	K5 V	-1	(800-5)	[0000]	B	16	-40
+1900	Beyo	G	2116	I'Sred*Nixtu	E000000-C	 	     SredW Ho  As Va Di 		032	Wild	K5 V	-1	(800+2)	[0000]	B	16	16
+
+1105	Beyo	G	2120	Levahnu	B311214-B	 	    Co Sa  Ic Lo 		613	ShRp	M0 V M5 V	1	(711-1)	[535E]	B	11	-7
+1281	Beyo	G	2120	Levahnu	X311000-B	 	    Co Sa  Di Ic 		013	Wild	M0 V M5 V	-1	(700+1)	[0000]	B	11	7
+1508	Beyo	G	2120	Levahnu	X311000-B	 	    Co Sa  Di Ic 		013	Wild	M0 V M5 V	-1	(700-1)	[0000]	B	11	-7
+1900	Beyo	G	2120	Levahnu	X311000-B	 	    Co Sa  Di Ic 		013	Wild	M0 V M5 V	-1	(700-3)	[0000]	B	11	-21
+
+1105	Beyo	K	2121	Ardor	B622445-B	 	    Co  He Ni Po 		521	ShRp	M3 V M8 V	1	(D37+3)	[255D]	B	11	819
+1281	Beyo	K	2121	Ardor	X622000-B	 	    Co  Di He Po 		021	Wild	M3 V M8 V	-1	(D00+3)	[0000]	B	11	39
+1508	Beyo	K	2121	Ardor	X622000-B	 	    Co  Di He Po 		021	Wild	M3 V M8 V	-1	(D00-4)	[0000]	B	11	-52
+1900	Beyo	K	2121	Ardor	X622000-B	 	    Co  Di He Po 		021	Wild	M3 V M8 V	-1	(D00+4)	[0000]	B	11	52
+
+1105	Beyo	K	2122	Ileshanin	C762643-B	 	    Co  Ni Ri 		712	ShRp	K0 V	1	(A53+2)	[279B]	BC	8	300
+1281	Beyo	K	2122	Ileshanin	C76267A-9	 	    Co  Ni Ri 		312	Wild	K0 V	0	(A56+1)	[5657]	BC	8	300
+1508	Beyo	K	2122	Ileshanin	C762653-B	 	    Co  Ni Ri 		312	Wild	K0 V	1	(A57-4)	[474C]	BC	8	-1400
+1900	Beyo	K	2122	Ileshanin	C762685-B	 	    Co  Ni Ri 		212	Wild	K0 V	1	(A54-3)	[477E]	BC	8	-600
+
+1105	Beyo	K	2125	Joyful Noise	D566522-7	 	     Ho  Ag Pr Ni 		402	ShRp	G5 V	-2	(540+1)	[4358]	BcC	12	20
+1281	Beyo	K	2125	Joyful Noise	D56658C-5	 	     Ho  Ag Pr Ni 		202	Wild	G5 V	-2	(544-2)	[4356]	BcC	12	-160
+1508	Beyo	K	2125	Joyful Noise	D566514-6	 	     Ho  Ag Pr Ni 		302	Wild	G5 V	-2	(543-2)	[4347]	BcC	12	-120
+1900	Beyo	K	2125	Joyful Noise	D566574-7	 	     Ho  Ag Pr Ni 		402	Wild	G5 V	-2	(540+5)	[5313]	BcC	12	100
+
+1105	Beyo	K	2127	Mercuras	A431587-C	 	    Sa  Ni Px Po 		813	NaHu	F8 V	1	(C43-3)	[66AB]	B	11	-432
+1281	Beyo	K	2127	Mercuras	A431547-A	 	    Sa  Ni Px Po 		413	Wild	F8 V	1	(C43+4)	[564B]	B	11	576
+1508	Beyo	K	2127	Mercuras	A43158A-B	 	    Sa  Ni Po 		513	Wild	F8 V	1	(C42-1)	[367C]	B	11	-96
+1900	Beyo	K	2127	Mercuras	A4315A8-C	 	    Sa  Ni Px Po 		613	Wild	F8 V	1	(C42-1)	[365F]	B	11	-96
+
+1105	Beyo	O	2132	Sniel	X723000-0	 	     Ba Po 		020	NaXX	M0 V M5 V	-3	(800-4)	[0000]	B	11	-32
+1281	Beyo	O	2132	Sniel	X723000-0	 	     Ba Po 		020	Wild	M0 V M5 V	-3	(800-4)	[0000]	B	11	-32
+1508	Beyo	O	2132	Sniel	X723000-0	 	     Ba Po 		020	Wild	M0 V M5 V	-3	(800+4)	[0000]	B	11	32
+1900	Beyo	O	2132	Sniel	X723000-0	 	     Ba Po 		020	Wild	M0 V M5 V	-3	(800+1)	[0000]	B	11	8
+
+1105	Beyo	O	2138	Tlankhu	B764676-A	 	     (Teakhea)2  Ag Ri Ni 		611	AsSc	F8 V	3	(B54-2)	[3939]	BC	11	-440
+1281	Beyo	O	2138	Tlankhu	B764500-A	 	     (Teakhea)2  Ag Pr Ni 		311	Wild	F8 V	2	(B45-4)	[674D]	BcC	11	-880
+1508	Beyo	O	2138	Tlankhu	B76459A-A	 	     (Teakhea)2  Ag Pr Ni 		211	Wild	F8 V	2	(B48-5)	[475B]	BcC	11	-1760
+1900	Beyo	O	2138	Tlankhu	B764521-B	 	     (Teakhea)2  Ag Pr Ni 		111	Wild	F8 V	2	(B45+1)	[573B]	BcC	11	220
+
+1105	Beyo	O	2139	Hwyoweas	C422313-A	 	     He Lo Po 		312	AsXX	K7 V M3 V D	0	(720+2)	[133C]	B	12	28
+1281	Beyo	O	2139	Hwyoweas	E422000-A	 	     Di He Po 		012	Wild	K7 V M3 V D	-1	(700+1)	[0000]	B	12	7
+1508	Beyo	O	2139	Hwyoweas	E422000-A	 	     Di He Po 		012	Wild	K7 V M3 V D	-1	(700+1)	[0000]	B	12	7
+1900	Beyo	O	2139	Hwyoweas	E422000-A	 	     Di He Po 		012	Wild	K7 V M3 V D	-1	(700+3)	[0000]	B	12	21
+
+1105	Beyo	C	2201	Tontrir	C776868-7	 	     O:2103  Pa Pi Ph (NIL)		633	KaEm	K0 V BD	-1	(B72+2)	[A779]	BcDe	15	308
+1281	Beyo	C	2201	Tontrir	C776877-5	 	     O:2103  Pa Pi Ph (NIL)		333	Wild	K0 V BD	-1	(B76-4)	[5784]	BcDe	15	-1848
+1508	Beyo	C	2201	Tontrir	C7768CE-6	 	     O:2103  Pa Pi Ph (NIL)		333	Wild	K0 V BD	-1	(B74-3)	[6763]	BcDe	15	-924
+1900	Beyo	C	2201	Tontrir	C776887-7	 	     O:2103  Pa Pi Ph (NIL)		433	Wild	K0 V BD	-1	(B77+3)	[9739]	BcDe	15	1617
+
+1105	Beyo	C	2203	Dagocag	B654598-B	 	    Ho Tr  Ag Ni 		920	KaEm	K3 V	2	(843+3)	[674A]	BC	12	288
+1281	Beyo	C	2203	Dagocag	E654000-B	 	     Ho Tr  Di 		020	Wild	K3 V	-1	(800-1)	[0000]	B	12	-8
+1508	Beyo	C	2203	Dagocag	E654000-B	 	     Ho Tr  Di 		020	Wild	K3 V	-1	(800-2)	[0000]	B	12	-16
+1900	Beyo	C	2203	Dagocag	E654000-B	 	     Ho Tr  Di 		020	Wild	K3 V	-1	(800-1)	[0000]	B	12	-8
+
+1105	Beyo	C	2207	Kao	C100310-A	 	     Lo Va 		412	NaHu	M2 V M2 V	0	(A20-4)	[737C]	B	12	-80
+1281	Beyo	C	2207	Kao	E100000-A	 	     Di Va 		012	Wild	M2 V M2 V	-1	(A00+3)	[0000]	B	12	30
+1508	Beyo	C	2207	Kao	E100000-A	 	     Di Va 		012	Wild	M2 V M2 V	-1	(A00+1)	[0000]	B	12	10
+1900	Beyo	C	2207	Kao	E100000-A	 	     Di Va 		012	Wild	M2 V M2 V	-1	(A00+1)	[0000]	B	12	10
+
+1105	Beyo	G	2218	Dismal	B334441-B	 	    Co Sa  Ni 		702	NaHu	F5 V M7 V	1	(C32+1)	[354B]	B	9	72
+1281	Beyo	G	2218	Dismal	B334479-9	 	   Co Sa  Ni Px 		302	Wild	F5 V M7 V	0	(C35+4)	[448A]	B	9	720
+1508	Beyo	G	2218	Dismal	B334430-A	 	    Co Sa  Ni 		402	Wild	F5 V M7 V	1	(C37-3)	[855D]	B	9	-756
+1900	Beyo	G	2218	Dismal	B334486-B	 	   Co Sa  Ni Px 		302	Wild	F5 V M7 V	1	(C36+4)	[5549]	B	9	864
+
+1105	Beyo	K	2222	Corrugare	B455644-9	 	    Ho Sa  Ag Ni 		913	ShRp	G5 V	1	(754+4)	[876B]	BC	11	560
+1281	Beyo	K	2222	Corrugare	B45559C-8	 	    Ho Sa  Ag Ni 		413	Wild	G5 V	0	(743+1)	[4535]	BC	11	84
+1508	Beyo	K	2222	Corrugare	B455500-A	 	    Ho Sa  Ag Ni 		513	Wild	G5 V	2	(744-4)	[5718]	BC	11	-448
+1900	Beyo	K	2222	Corrugare	B455531-A	 	    Ho Sa  Ag Ni 		413	Wild	G5 V	2	(744+1)	[272B]	BC	11	112
+
+1105	Beyo	K	2225	Frostbite	C564423-9	 	    Co  Ni Pa 		422	ShRp	K1 V D	-1	(733-2)	[532A]	Bc	11	-126
+1281	Beyo	K	2225	Frostbite	X564000-9	 	     Co  Di 		022	Wild	K1 V D	-2	(700-2)	[0000]	B	11	-14
+1508	Beyo	K	2225	Frostbite	X564000-9	 	     Co  Di 		022	Wild	K1 V D	-2	(700+1)	[0000]	B	11	7
+1900	Beyo	K	2225	Frostbite	X564000-9	 	     Co  Di 		022	Wild	K1 V D	-2	(700-1)	[0000]	B	11	-7
+
+1105	Beyo	K	2228	Relam	E512100-A	 	    Co  Ic Lo 		510	NaHu	M5 V	-1	(D00+1)	[114B]	B	7	13
+1281	Beyo	K	2228	Relam	E512000-A	 	    Co  Di Ic 		010	Wild	M5 V	-1	(D00+1)	[0000]	B	7	13
+1508	Beyo	K	2228	Relam	E512000-A	 	    Co  Di Ic 		010	Wild	M5 V	-1	(D00+3)	[0000]	B	7	39
+1900	Beyo	K	2228	Relam	E512000-A	 	    Co  Di Ic 		010	Wild	M5 V	-1	(D00-3)	[0000]	B	7	-39
+
+1105	Beyo	O	2233	Rockhome	X311000-0	 	     Ba Ic 		000	NaXX	M2 V M8 V	-3	(600+1)	[0000]	B	4	6
+1281	Beyo	O	2233	Rockhome	X311000-0	 	     Ba Ic 		000	Wild	M2 V M8 V	-3	(600-3)	[0000]	B	4	-18
+1508	Beyo	O	2233	Rockhome	X311000-0	 	     Ba Ic 		000	Wild	M2 V M8 V	-3	(600-3)	[0000]	B	4	-18
+1900	Beyo	O	2233	Rockhome	X311000-0	 	     Ba Ic 		000	Wild	M2 V M8 V	-3	(600-2)	[0000]	B	4	-12
+
+1105	Beyo	O	2234	Ktiyeia	E101000-0	 	     Fr  Ba Ic Va 		010	NaXX	M2 V BD	-3	(500+4)	[0000]	B	9	20
+1281	Beyo	O	2234	Ktiyeia	E101000-0	 	     Fr  Ba Ic Va 		010	Wild	M2 V BD	-3	(500-5)	[0000]	B	9	-25
+1508	Beyo	O	2234	Ktiyeia	E101000-0	 	     Fr  Ba Ic Va 		010	Wild	M2 V BD	-3	(500-3)	[0000]	B	9	-15
+1900	Beyo	O	2234	Ktiyeia	E101000-0	 	     Fr  Ba Ic Va 		010	Wild	M2 V BD	-3	(500-1)	[0000]	B	9	-5
+
+1105	Beyo	O	2237	Fesoikhte	A8769A5-B	 	     Hi In (NIL)		523	AsWc	G7 V M2 V	4	(G8D+1)	[9D4E]	BEf	12	1664
+1281	Beyo	O	2237	Fesoikhte	A8769BC-9	 	     Hi In (NIL)		223	Wild	G7 V M2 V	3	(G89-4)	[8C66]	BE	12	-4608
+1508	Beyo	O	2237	Fesoikhte	A8769AB-A	 	     Hi In (NIL)		223	Wild	G7 V M2 V	4	(G89-4)	[7D2A]	BEf	12	-4608
+1900	Beyo	O	2237	Fesoikhte	A8769B9-B	 	     Hi In (NIL)		223	Wild	G7 V M2 V	4	(G89+1)	[5D57]	BEf	12	1152
+
+1105	Beyo	C	2301	Thanisha	B645599-A	 	     Ag Ni 		212	KaEm	G7 V M9 V	2	(943+2)	[873A]	BC	13	216
+1281	Beyo	C	2301	Thanisha	E645000-A	 	      Di 		012	Wild	G7 V M9 V	-1	(900-1)	[0000]	B	13	-9
+1508	Beyo	C	2301	Thanisha	E645000-A	 	      Di 		012	Wild	G7 V M9 V	-1	(900-3)	[0000]	B	13	-27
+1900	Beyo	C	2301	Thanisha	E645000-A	 	      Di 		012	Wild	G7 V M9 V	-1	(900-4)	[0000]	B	13	-36
+
+1105	Beyo	C	2305	Morphy	B7536BE-8	 	    Da  Ni Po 	A	621	NaHu	K6 V	-1	(954-5)	[8547]	B	14	-900
+1281	Beyo	C	2305	Morphy	B75368B-6	 	    Da  Ni Po 		321	Wild	K6 V	-1	(653+4)	[3557]	B	14	360
+1508	Beyo	C	2305	Morphy	B753678-7	 	    Da  Ni Po 		321	Wild	K6 V	-1	(654-1)	[4558]	B	14	-120
+1900	Beyo	C	2305	Morphy	B753679-8	 	    Da  Ni Po 		221	Wild	K6 V	-1	(955+5)	[6579]	B	14	1125
+
+1105	Beyo	C	2308	Drygalski	B213311-B	 	    Co Sa  Ic Lo 		302	NaHu	M2 V	1	(C21-1)	[2479]	B	11	-24
+1281	Beyo	C	2308	Drygalski	X213000-B	 	    Co Sa  Di Ic 		002	Wild	M2 V	-1	(C00-4)	[0000]	B	11	-48
+1508	Beyo	C	2308	Drygalski	X213000-B	 	    Co Sa  Di Ic 		002	Wild	M2 V	-1	(C00-2)	[0000]	B	11	-24
+1900	Beyo	C	2308	Drygalski	X213000-B	 	    Co Sa  Di Ic 		002	Wild	M2 V	-1	(C00-1)	[0000]	B	11	-12
+
+1105	Beyo	C	2309	Tyren	E400000-0	 	    Tz  Ba Va 		001	NaXX	M1 V M8 V	-3	(500+1)	[0000]	B	9	5
+1281	Beyo	C	2309	Tyren	E400000-0	 	    Tz  Ba Va 		001	Wild	M1 V M8 V	-3	(500-2)	[0000]	B	9	-10
+1508	Beyo	C	2309	Tyren	E400000-0	 	    Tz  Ba Va 		001	Wild	M1 V M8 V	-3	(500-2)	[0000]	B	9	-10
+1900	Beyo	C	2309	Tyren	E400000-0	 	    Tz  Ba Va 		001	Wild	M1 V M8 V	-3	(500+1)	[0000]	B	9	5
+
+1105	Beyo	G	2312	I'Sred*Nilal	B000488-C	 	     SredW  As Va Ni 		612	IHPr	M2 V M4 V	1	(E37+2)	[7569]	B	10	588
+1281	Beyo	G	2312	I'Sred*Nilal	X000000-C	 	     SredW  As Va Di 		012	Wild	M2 V M4 V	-1	(E00+1)	[0000]	B	10	14
+1508	Beyo	G	2312	I'Sred*Nilal	X000000-C	 	     SredW  As Va Di 		012	Wild	M2 V M4 V	-1	(E00-3)	[0000]	B	10	-42
+1900	Beyo	G	2312	I'Sred*Nilal	X000000-C	 	     SredW  As Va Di 		012	Wild	M2 V M4 V	-1	(E00+2)	[0000]	B	10	28
+
+1105	Beyo	G	2319	Sastri	B75678D-9	 	    Pz  Ag Ga (NIL)	A	910	NaHu	G6 V	2	(869+1)	[799B]	BC	12	432
+1281	Beyo	G	2319	Sastri	B756745-7	 	    Pz  Ag Ga (NIL)		410	Wild	G6 V	1	(768-3)	[7895]	BC	12	-1008
+1508	Beyo	G	2319	Sastri	B756723-8	 	    Pz  Ag Ga (NIL)		310	Wild	G6 V	1	(86C+2)	[7824]	BC	12	1152
+1900	Beyo	G	2319	Sastri	B756754-A	 	    Pz  Ag Ga (NIL)		210	Wild	G6 V	3	(86C-2)	[4A7C]	BC	12	-1152
+
+1105	Beyo	K	2325	Rector	C211325-B	 	    Sa  Ic Lo 		631	ShRp	M1 V BD	0	(C20+1)	[636E]	B	13	24
+1281	Beyo	K	2325	Rector	D211000-B	 	    Sa  Di Ic 		031	Wild	M1 V BD	-1	(C00-1)	[0000]	B	13	-12
+1508	Beyo	K	2325	Rector	D211000-B	 	    Sa  Di Ic 		031	Wild	M1 V BD	-1	(C00-1)	[0000]	B	13	-12
+1900	Beyo	K	2325	Rector	D211000-B	 	    Sa  Di Ic 		031	Wild	M1 V BD	-1	(C00-3)	[0000]	B	13	-36
+
+1105	Beyo	K	2326	Vanity	A632586-C	 	     Ni Px Po 		712	ShRp	F1 V K0 V K0 V	1	(845-3)	[6679]	B	11	-480
+1281	Beyo	K	2326	Vanity	A632540-A	 	     Ni Po 		312	Wild	F1 V K0 V K0 V	1	(843+1)	[165C]	B	11	96
+1508	Beyo	K	2326	Vanity	A632578-B	 	     Ni Px Po 		412	Wild	F1 V K0 V K0 V	1	(847-5)	[965B]	B	11	-1120
+1900	Beyo	K	2326	Vanity	A632548-C	 	     Ni Px Po 		512	Wild	F1 V K0 V K0 V	1	(844+1)	[266C]	B	11	128
+
+1105	Beyo	K	2328	Granite	E200000-0	 	    Da  Ba Va 	A	011	NaXX	M3 V	-3	(700-3)	[0000]	B	14	-21
+1281	Beyo	K	2328	Granite	E200000-0	 	    Da  Ba Va 		011	Wild	M3 V	-3	(700+4)	[0000]	B	14	28
+1508	Beyo	K	2328	Granite	E200000-0	 	    Da  Ba Va 		011	Wild	M3 V	-3	(700+1)	[0000]	B	14	7
+1900	Beyo	K	2328	Granite	E200000-0	 	    Da  Ba Va 		011	Wild	M3 V	-3	(700-3)	[0000]	B	14	-21
+
+1105	Beyo	O	2331	Firuahtuka	B6435A5-B	 	     Ni Po 		422	AsVc	K0 V BD	1	(943+3)	[468B]	B	15	324
+1281	Beyo	O	2331	Firuahtuka	X643000-B	 	     Di Po 		022	Wild	K0 V BD	-1	(900+1)	[0000]	B	15	9
+1508	Beyo	O	2331	Firuahtuka	X643000-B	 	     Di Po 		022	Wild	K0 V BD	-1	(900+4)	[0000]	B	15	36
+1900	Beyo	O	2331	Firuahtuka	X643000-B	 	     Di Po 		022	Wild	K0 V BD	-1	(900-2)	[0000]	B	15	-18
+
+1105	Beyo	O	2333	Ohteewan	X801000-0	 	     Tz  Ba Ic Va 		000	NaXX	M1 V	-3	(400+2)	[0000]	B	7	8
+1281	Beyo	O	2333	Ohteewan	X801000-0	 	     Tz  Ba Ic Va 		000	Wild	M1 V	-3	(400-1)	[0000]	B	7	-4
+1508	Beyo	O	2333	Ohteewan	X801000-0	 	     Tz  Ba Ic Va 		000	Wild	M1 V	-3	(400+3)	[0000]	B	7	12
+1900	Beyo	O	2333	Ohteewan	X801000-0	 	     Tz  Ba Ic Va 		000	Wild	M1 V	-3	(400+2)	[0000]	B	7	8
+
+1105	Beyo	O	2340	Shi Ukhtal	B443736-C	 	      Pi Po (NIL)		512	AsTv	F8 V M0 V	2	(A69-3)	[A95B]	BD	13	-1620
+1281	Beyo	O	2340	Shi Ukhtal	B4437A9-A	 	      Pi Po (NIL)		212	Wild	F8 V M0 V	2	(A66-2)	[6965]	BD	13	-720
+1508	Beyo	O	2340	Shi Ukhtal	B443785-B	 	      Pi Po (NIL)		212	Wild	F8 V M0 V	2	(A68+2)	[795C]	BD	13	960
+1900	Beyo	O	2340	Shi Ukhtal	B443788-C	 	      Pi Po (NIL)		112	Wild	F8 V M0 V	2	(A69-1)	[993F]	BD	13	-540
+
+1105	Beyo	C	2402	Alekhine	BB85497-B	 	     Ni Pa 		820	NaHu	K7 V	1	(636-1)	[455C]	Bc	8	-108
+1281	Beyo	C	2402	Alekhine	EB85000-B	 	      Di 		020	Wild	K7 V	-1	(600-1)	[0000]	B	8	-6
+1508	Beyo	C	2402	Alekhine	EB85000-B	 	      Di 		020	Wild	K7 V	-1	(600+1)	[0000]	B	8	6
+1900	Beyo	C	2402	Alekhine	EB85000-B	 	      Di 		020	Wild	K7 V	-1	(600+1)	[0000]	B	8	6
+
+1105	Beyo	C	2403	Tupac	C556799-9	 	    Tz  Ag (NIL)		731	NaHu	M1 V	1	(A6C+2)	[484B]	BC	8	1440
+1281	Beyo	C	2403	Tupac	C556756-8	 	    Tz  Ag (NIL)		331	Wild	M1 V	0	(A62+3)	[7728]	BC	8	360
+1508	Beyo	C	2403	Tupac	C556731-8	 	    Tz  Ag (NIL)		231	Wild	M1 V	0	(A68+3)	[4787]	BC	8	1440
+1900	Beyo	C	2403	Tupac	C556785-9	 	    Tz  Ag (NIL)		231	Wild	M1 V	1	(A68-3)	[4855]	BC	8	-1440
+
+1105	Beyo	G	2413	I'Sred*Nity	B000488-C	 	     SredW  As Va Ni 		512	IHPr	M0 V	1	(C36+3)	[2558]	B	9	648
+1281	Beyo	G	2413	I'Sred*Nity	B000413-A	 	     SredW  As Va Ni 		212	Wild	M0 V	1	(C36+1)	[455E]	B	9	216
+1508	Beyo	G	2413	I'Sred*Nity	B000459-C	 	     SredW  As Va Ni 		312	Wild	M0 V	1	(C32-2)	[351A]	B	9	-144
+1900	Beyo	G	2413	I'Sred*Nity	B000476-C	 	     SredW  As Va Ni 		212	Wild	M0 V	1	(C32+3)	[45AF]	B	9	216
+
+1105	Beyo	G	2414	Retribution	X610000-0	 	    Fo  Ba 	R	001	NaXX	M1 V	-3	(A00-3)	[0000]	B	8	-30
+1281	Beyo	G	2414	Retribution	X610000-0	 	    Fo  Ba 		001	Wild	M1 V	-3	(A00+1)	[0000]	B	8	10
+1508	Beyo	G	2414	Retribution	X610000-0	 	    Fo  Ba 		001	Wild	M1 V	-3	(A00+2)	[0000]	B	8	20
+1900	Beyo	G	2414	Retribution	X610000-0	 	    Fo  Ba 		001	Wild	M1 V	-3	(A00+1)	[0000]	B	8	10
+
+1105	Beyo	G	2420	Lahasha	C453543-A	 	    Ho  Ni Po 		412	NaHu	K3 V K7 V	0	(A42+2)	[95A7]	B	15	160
+1281	Beyo	G	2420	Lahasha	C453576-8	 	    Ho  Ni Po 		212	Wild	K3 V K7 V	-2	(A40+4)	[534C]	B	15	160
+1508	Beyo	G	2420	Lahasha	C453537-9	 	    Ho  Ni Po 		312	Wild	K3 V K7 V	-1	(A44+1)	[247B]	B	15	160
+1900	Beyo	G	2420	Lahasha	C453556-B	 	    Ho  Ni Po 		312	Wild	K3 V K7 V	0	(A46+1)	[4567]	B	15	240
+
+1105	Beyo	K	2421	Sant Rabloes	BB97845-B	 	     la1  Pa Pi Ph (NIL)		920	NaHu	K2 V D	2	(C79+5)	[BA5F]	BcDe	8	3780
+1281	Beyo	K	2421	Sant Rabloes	BB97889-9	 	     la1  Pa Pi Ph (NIL)		420	Wild	K2 V D	1	(C77-1)	[3985]	BcDe	8	-588
+1508	Beyo	K	2421	Sant Rabloes	BB978BB-A	 	     la1  Pa Pi Ph (NIL)		520	Wild	K2 V D	2	(C7A+5)	[8A1B]	BcDe	8	4200
+1900	Beyo	K	2421	Sant Rabloes	BB97884-B	 	     la1  Pa Pi Ph (NIL)		420	Wild	K2 V D	2	(C79-3)	[8A9C]	BcDe	8	-2268
+
+1105	Beyo	K	2424	Destiny	A967623-C	 	      Ag Ri Ni 		613	ShRp	K2 V M4 V	3	(F56-2)	[3959]	BC	14	-900
+1281	Beyo	K	2424	Destiny	X967000-C	 	       Di 		013	Wild	K2 V M4 V	-1	(F00+1)	[0000]	B	14	15
+1508	Beyo	K	2424	Destiny	X967000-C	 	       Di 		013	Wild	K2 V M4 V	-1	(F00-1)	[0000]	B	14	-15
+1900	Beyo	K	2424	Destiny	X967000-C	 	       Di 		013	Wild	K2 V M4 V	-1	(F00-5)	[0000]	B	14	-75
+
+1105	Beyo	K	2427	Cral	X9C1000-0	 	     Da  Ba Fl He 	A	011	NaXX	F0 V	-3	(400+1)	[0000]	B	10	4
+1281	Beyo	K	2427	Cral	X9C1000-0	 	     Da  Ba Fl He 		011	Wild	F0 V	-3	(400+1)	[0000]	B	10	4
+1508	Beyo	K	2427	Cral	X9C1000-0	 	     Da  Ba Fl He 		011	Wild	F0 V	-3	(400-1)	[0000]	B	10	-4
+1900	Beyo	K	2427	Cral	X9C1000-0	 	     Da  Ba Fl He 		011	Wild	F0 V	-3	(400-5)	[0000]	B	10	-20
+
+1105	Beyo	K	2428	Xenogast	X876000-0	 	    Fo  Ba 	R	012	NaXX	K0 V	-3	(400+2)	[0000]	B	11	8
+1281	Beyo	K	2428	Xenogast	X876000-0	 	    Fo  Ba 		012	Wild	K0 V	-3	(400+3)	[0000]	B	11	12
+1508	Beyo	K	2428	Xenogast	X876000-0	 	    Fo  Ba 		012	Wild	K0 V	-3	(400+3)	[0000]	B	11	12
+1900	Beyo	K	2428	Xenogast	X876000-0	 	    Fo  Ba 		012	Wild	K0 V	-3	(400+4)	[0000]	B	11	16
+
+1105	Beyo	K	2430	Wafoua	C311414-A	 	    Co  Ic Ni 		811	AsXX	F9 V	0	(732-5)	[5445]	B	6	-210
+1281	Beyo	K	2430	Wafoua	C311434-8	 	    Co  Ic Ni 		411	Wild	F9 V	-2	(732-1)	[3266]	B	6	-42
+1508	Beyo	K	2430	Wafoua	C311402-A	 	    Co  Ic Ni 		511	Wild	F9 V	0	(734+1)	[644B]	B	6	84
+1900	Beyo	K	2430	Wafoua	C311436-A	 	    Co  Ic Ni 		411	Wild	F9 V	0	(731+4)	[149D]	B	6	84
+
+1105	Beyo	O	2434	Esoueari	D558472-9	 	     Ni Pa 		603	AsSc	K6 V M5 V	-2	(632+2)	[6276]	Bc	10	72
+1281	Beyo	O	2434	Esoueari	D558427-7	 	     Ni Pa 		303	Wild	K6 V M5 V	-3	(330+2)	[8178]	Bc	10	18
+1508	Beyo	O	2434	Esoueari	D558477-8	 	     Ni Pa 		203	Wild	K6 V M5 V	-3	(630+1)	[3169]	Bc	10	18
+1900	Beyo	O	2434	Esoueari	D55848A-9	 	     Ni Pa 		103	Wild	K6 V M5 V	-2	(634+1)	[224B]	Bc	10	72
+
+1105	Beyo	O	2435	Khukhtyel	CB88436-8	 	     Ni Pa 		712	AsMw	G6 V	-2	(B32+1)	[424B]	Bc	14	66
+1281	Beyo	O	2435	Khukhtyel	EB88000-8	 	      Di 		012	Wild	G6 V	-3	(B00+3)	[0000]	B	14	33
+1508	Beyo	O	2435	Khukhtyel	EB88000-8	 	      Di 		012	Wild	G6 V	-3	(B00+1)	[0000]	B	14	11
+1900	Beyo	O	2435	Khukhtyel	EB88000-8	 	      Di 		012	Wild	G6 V	-3	(B00-4)	[0000]	B	14	-44
+
+1105	Beyo	O	2440	Shitfaowol	B442334-A	 	    Tz  He Lo Po 		513	AsMw	M3 V	1	(821-3)	[546C]	B	15	-48
+1281	Beyo	O	2440	Shitfaowol	X442000-A	 	    Tz  Di He Po 		013	Wild	M3 V	-1	(800-4)	[0000]	B	15	-32
+1508	Beyo	O	2440	Shitfaowol	X442000-A	 	    Tz  Di He Po 		013	Wild	M3 V	-1	(800+1)	[0000]	B	15	8
+1900	Beyo	O	2440	Shitfaowol	X442000-A	 	    Tz  Di He Po 		013	Wild	M3 V	-1	(800+2)	[0000]	B	15	16
+
+1105	Beyo	D	2507	Cirat	B655695-A	S	    Co Tu Sa  Ag Ga Ni 		713	CsIm	K1 V	2	(955-1)	[9899]	BC	8	-225
+1281	Beyo	D	2507	Cirat	D655000-A	T 	     Co Tu Sa  Di Ga 		013	Wild	K1 V	-1	(900+2)	[0000]	B	8	18
+1508	Beyo	D	2507	Cirat	D655000-A	T 	     Co Tu Sa  Di Ga 		013	Wild	K1 V	-1	(900-1)	[0000]	B	8	-9
+1900	Beyo	D	2507	Cirat	D655000-A	T 	     Co Tu Sa  Di Ga 		013	Wild	K1 V	-1	(900+3)	[0000]	B	8	27
+
+1105	Beyo	H	2511	Lod	A7668C9-B	 	     Pz  Ga Pa Ri Ph (NIL)	A	621	MoLo	G1 V M2 V	4	(87C+1)	[8C6B]	BcCef	11	672
+1281	Beyo	H	2511	Lod	A76687A-9	 	     Pz  Ga Pa Ri Ph (NIL)		321	Wild	G1 V M2 V	2	(87B-3)	[5A4B]	BcCe	11	-1848
+1508	Beyo	H	2511	Lod	A766848-A	 	     Pz  Ga Pa Ri Ph (NIL)		321	Wild	G1 V M2 V	3	(87B-2)	[7B46]	BcCe	11	-1232
+1900	Beyo	H	2511	Lod	A76689B-B	 	     Pz  Ga Pa Ri Ph (NIL)		421	Wild	G1 V M2 V	3	(879+2)	[7B7E]	BcCe	11	1008
+
+1105	Beyo	H	2512	Aakumaska	D322420-8	 	    Sa  He Ni Po 		432	NaHu	M2 V	-3	(A30+3)	[3128]	B	15	90
+1281	Beyo	H	2512	Aakumaska	D322000-8	 	    Sa  Di He Po 		032	Wild	M2 V	-3	(A00-2)	[0000]	B	15	-20
+1508	Beyo	H	2512	Aakumaska	D322000-8	 	    Sa  Di He Po 		032	Wild	M2 V	-3	(A00+1)	[0000]	B	15	10
+1900	Beyo	H	2512	Aakumaska	D322000-8	 	    Sa  Di He Po 		032	Wild	M2 V	-3	(A00+1)	[0000]	B	15	10
+
+1105	Beyo	H	2513	Asrogoth	E521000-0	 	     Ba He Po 		010	NaXX	F2 V D	-3	(500+1)	[0000]	B	4	5
+1281	Beyo	H	2513	Asrogoth	E521000-0	 	     Ba He Po 		010	Wild	F2 V D	-3	(500-2)	[0000]	B	4	-10
+1508	Beyo	H	2513	Asrogoth	E521000-0	 	     Ba He Po 		010	Wild	F2 V D	-3	(500+3)	[0000]	B	4	15
+1900	Beyo	H	2513	Asrogoth	E521000-0	 	     Ba He Po 		010	Wild	F2 V D	-3	(500-2)	[0000]	B	4	-10
+
+1105	Beyo	H	2514	Web Edge	B211210-C	 	    Co Sa  Ic Lo 		212	NaHu	M4 V M4 V	1	(C11-3)	[131E]	B	9	-36
+1281	Beyo	H	2514	Web Edge	E211000-C	 	    Co Sa  Di Ic 		012	Wild	M4 V M4 V	-1	(C00+1)	[0000]	B	9	12
+1508	Beyo	H	2514	Web Edge	E211000-C	 	    Co Sa  Di Ic 		012	Wild	M4 V M4 V	-1	(C00+3)	[0000]	B	9	36
+1900	Beyo	H	2514	Web Edge	E211000-C	 	    Co Sa  Di Ic 		012	Wild	M4 V M4 V	-1	(C00+4)	[0000]	B	9	48
+
+1105	Beyo	H	2516	Bingo	E610000-0	 	    Tz  Ba 		030	NaXX	M5 V BD	-3	(700-3)	[0000]	B	11	-21
+1281	Beyo	H	2516	Bingo	E610000-0	 	    Tz  Ba 		030	Wild	M5 V BD	-3	(700-1)	[0000]	B	11	-7
+1508	Beyo	H	2516	Bingo	E610000-0	 	    Tz  Ba 		030	Wild	M5 V BD	-3	(700+4)	[0000]	B	11	28
+1900	Beyo	H	2516	Bingo	E610000-0	 	    Tz  Ba 		030	Wild	M5 V BD	-3	(700-3)	[0000]	B	11	-21
+
+1105	Beyo	H	2518	Tellus	B322310-9	 	    Ho  He Lo Po 		102	NaHu	K8 V M8 V	0	(920+1)	[1398]	B	6	18
+1281	Beyo	H	2518	Tellus	D322000-9	 	    Ho  Di He Po 		002	Wild	K8 V M8 V	-2	(900-2)	[0000]	B	6	-18
+1508	Beyo	H	2518	Tellus	D322000-9	 	    Ho  Di He Po 		002	Wild	K8 V M8 V	-2	(900+2)	[0000]	B	6	18
+1900	Beyo	H	2518	Tellus	D322000-9	 	    Ho  Di He Po 		002	Wild	K8 V M8 V	-2	(900+1)	[0000]	B	6	9
+
+1105	Beyo	L	2526	Gafhadad	E101000-0	 	      Ba Ic Va 		010	NaXX	F4 V	-3	(500-1)	[0000]	B	4	-5
+1281	Beyo	L	2526	Gafhadad	E101000-0	 	      Ba Ic Va 		010	Wild	F4 V	-3	(500-4)	[0000]	B	4	-20
+1508	Beyo	L	2526	Gafhadad	E101000-0	 	      Ba Ic Va 		010	Wild	F4 V	-3	(500-2)	[0000]	B	4	-10
+1900	Beyo	L	2526	Gafhadad	E101000-0	 	      Ba Ic Va 		010	Wild	F4 V	-3	(500+2)	[0000]	B	4	10
+
+1105	Beyo	P	2531	Tal'ao	B644438-9	 	     Ni Pa 		412	AsWc	F9 V M0 V	0	(E34-1)	[242B]	Bc	13	-168
+1281	Beyo	P	2531	Tal'ao	E644000-9	 	      Di 		012	Wild	F9 V M0 V	-2	(E00-1)	[0000]	B	13	-14
+1508	Beyo	P	2531	Tal'ao	E644000-9	 	      Di 		012	Wild	F9 V M0 V	-2	(E00+1)	[0000]	B	13	14
+1900	Beyo	P	2531	Tal'ao	E644000-9	 	      Di 		012	Wild	F9 V M0 V	-2	(E00-4)	[0000]	B	13	-56
+
+1105	Beyo	P	2535	Tekhaao	A876834-C	 	     Sa  Pa Pi Ph (NIL)		613	AsVc	K3 V M1 V	2	(877+4)	[6A5C]	BcDe	10	1568
+1281	Beyo	P	2535	Tekhaao	A8768A7-A	 	     Sa  Pa Pi Ph (NIL)		313	Wild	K3 V M1 V	2	(87A+1)	[AA5B]	BcDe	10	560
+1508	Beyo	P	2535	Tekhaao	A876876-B	 	     Sa  Pa Pi Ph (NIL)		313	Wild	K3 V M1 V	2	(87B-3)	[9A9C]	BcDe	10	-1848
+1900	Beyo	P	2535	Tekhaao	A87687A-C	 	     Sa  Pa Pi Ph (NIL)		213	Wild	K3 V M1 V	2	(87A+4)	[6A6A]	BcDe	10	2240
+
+1105	Beyo	P	2539	Khteareaye	B412433-A	 	    Sa  Ic Ni 		321	AsMw	M1 V M1 V	1	(A35+1)	[4539]	B	13	150
+1281	Beyo	P	2539	Khteareaye	D412000-A	 	    Sa  Di Ic 		021	Wild	M1 V M1 V	-1	(A00+3)	[0000]	B	13	30
+1508	Beyo	P	2539	Khteareaye	D412000-A	 	    Sa  Di Ic 		021	Wild	M1 V M1 V	-1	(A00-5)	[0000]	B	13	-50
+1900	Beyo	P	2539	Khteareaye	D412000-A	 	    Sa  Di Ic 		021	Wild	M1 V M1 V	-1	(A00+2)	[0000]	B	13	20
+
+1105	Beyo	D	2601	Midway	B511323-A	 	     Ic Lo 		212	NaHu	D	1	(B21-2)	[441B]	B	6	-44
+1281	Beyo	D	2601	Midway	E511000-A	 	     Di Ic 		012	Wild	D	-1	(B00+1)	[0000]	B	6	11
+1508	Beyo	D	2601	Midway	E511000-A	 	     Di Ic 		012	Wild	D	-1	(B00+4)	[0000]	B	6	44
+1900	Beyo	D	2601	Midway	E511000-A	 	     Di Ic 		012	Wild	D	-1	(B00+1)	[0000]	B	6	11
+
+1105	Beyo	D	2602	Thrape	C201211-A	 	      Ic Va Lo 		402	NaHu	M1 V	0	(810-1)	[2269]	B	11	-8
+1281	Beyo	D	2602	Thrape	E201000-A	 	      Di Ic Va 		002	Wild	M1 V	-1	(800+1)	[0000]	B	11	8
+1508	Beyo	D	2602	Thrape	E201000-A	 	      Di Ic Va 		002	Wild	M1 V	-1	(800+4)	[0000]	B	11	32
+1900	Beyo	D	2602	Thrape	E201000-A	 	      Di Ic Va 		002	Wild	M1 V	-1	(800-1)	[0000]	B	11	-8
+
+1105	Beyo	D	2604	Ghaehaah	C634556-9	 	   rg4 Tz  Ni Px 		631	NaHu	M3 V	-1	(A41+2)	[8438]	B	10	80
+1281	Beyo	D	2604	Ghaehaah	C634500-7	 	    rg4 Tz  Ni 		331	Wild	M3 V	-2	(642-1)	[5345]	B	10	-48
+1508	Beyo	D	2604	Ghaehaah	C634598-7	 	   rg4 Tz  Ni Px 		331	Wild	M3 V	-2	(643+1)	[7378]	B	10	72
+1900	Beyo	D	2604	Ghaehaah	C634557-9	 	   rg4 Tz  Ni Px 		231	Wild	M3 V	-1	(A40-4)	[742E]	B	10	-160
+
+1105	Beyo	D	2608	Marrakesh	B8769D9-8	 	    Pz  Hi In (NIL)	A	412	NaHu	K2 V K9 V	2	(B8E+1)	[AB67]	BE	9	1232
+1281	Beyo	D	2608	Marrakesh	X876000-8	 	    Pz  Di In (NIL)		012	Wild	K2 V K9 V	-2	(B00-3)	[0000]	BE	9	-33
+1508	Beyo	D	2608	Marrakesh	X876000-8	 	     Pz  Di (NIL)		012	Wild	K2 V K9 V	-3	(B00-1)	[0000]	B	9	-11
+1900	Beyo	D	2608	Marrakesh	X876000-8	 	     Pz  Di (NIL)		012	Wild	K2 V K9 V	-3	(B00-1)	[0000]	B	9	-11
+
+1105	Beyo	H	2611	Eerker	B424569-A	 	   O:2511  Ni Px 		930	MoLo	K9 V	1	(B43+1)	[768A]	B	10	132
+1281	Beyo	H	2611	Eerker	X424000-A	 	   O:2511  Di Px 		030	Wild	K9 V	-1	(B00-1)	[0000]	B	10	-11
+1508	Beyo	H	2611	Eerker	X424000-A	 	    O:2511  Di 		030	Wild	K9 V	-1	(B00-3)	[0000]	B	10	-33
+1900	Beyo	H	2611	Eerker	X424000-A	 	    O:2511  Di 		030	Wild	K9 V	-1	(B00-2)	[0000]	B	10	-22
+
+1105	Beyo	H	2614	Extro	EAB1000-0	 	     Ho  Ba Fl He 		020	NaXX	F0 V F4 V	-3	(600-2)	[0000]	B	6	-12
+1281	Beyo	H	2614	Extro	EAB1000-0	 	     Ho  Ba Fl He 		020	Wild	F0 V F4 V	-3	(600+3)	[0000]	B	6	18
+1508	Beyo	H	2614	Extro	EAB1000-0	 	     Ho  Ba Fl He 		020	Wild	F0 V F4 V	-3	(600-2)	[0000]	B	6	-12
+1900	Beyo	H	2614	Extro	EAB1000-0	 	     Ho  Ba Fl He 		020	Wild	F0 V F4 V	-3	(600+2)	[0000]	B	6	12
+
+1105	Beyo	L	2624	Mefebit	C5556AB-7	 	    Fo DroyW  Ag Ni 	R	911	NaDr	G9 V M7 V	-1	(B52+1)	[957C]	BC	8	110
+1281	Beyo	L	2624	Mefebit	C555678-5	 	    Fo DroyW  Ag Ni 		411	Wild	G9 V M7 V	-1	(B53-1)	[1545]	BC	8	-165
+1508	Beyo	L	2624	Mefebit	C555645-6	 	    Fo DroyW  Ag Ni 		311	Wild	G9 V M7 V	-1	(B54-2)	[6536]	BC	8	-440
+1900	Beyo	L	2624	Mefebit	C555679-7	 	    Fo DroyW  Ag Ni 		311	Wild	G9 V M7 V	-1	(B53-1)	[752C]	BC	8	-165
+
+1105	Beyo	L	2628	Kaiear	CA835A5-9	 	     Ni Pr 		312	AsVc	K6 V	-1	(543+4)	[1439]	Bc	7	240
+1281	Beyo	L	2628	Kaiear	CA83540-7	 	     Ni Pr 		112	Wild	K6 V	-2	(242+1)	[6388]	Bc	7	16
+1508	Beyo	L	2628	Kaiear	CA83458-9	 	      Ni 		912	Wild	K6 V	-1	(531+1)	[6354]	B	7	15
+1900	Beyo	L	2628	Kaiear	CA83473-9	 	      Ni 		812	Wild	K6 V	-1	(531+1)	[434C]	B	7	15
+
+1105	Beyo	L	2629	Tlehiui	E432354-9	 	    Fr  Lo Po 		421	AsVc	M2 V M9 V	-2	(B20+3)	[8169]	B	11	66
+1281	Beyo	L	2629	Tlehiui	E432000-9	 	    Fr  Di Po 		021	Wild	M2 V M9 V	-2	(B00+3)	[0000]	B	11	33
+1508	Beyo	L	2629	Tlehiui	E432000-9	 	    Fr  Di Po 		021	Wild	M2 V M9 V	-2	(B00-3)	[0000]	B	11	-33
+1900	Beyo	L	2629	Tlehiui	E432000-9	 	    Fr  Di Po 		021	Wild	M2 V M9 V	-2	(B00-2)	[0000]	B	11	-22
+
+1105	Beyo	P	2631	Akhwohyal	A211335-A	 	    Co  Ic Lo 		632	AsXX	F2 V	1	(E21+1)	[1486]	B	8	28
+1281	Beyo	P	2631	Akhwohyal	E211000-A	 	    Co  Di Ic 		032	Wild	F2 V	-1	(E00+1)	[0000]	B	8	14
+1508	Beyo	P	2631	Akhwohyal	E211000-A	 	    Co  Di Ic 		032	Wild	F2 V	-1	(E00-4)	[0000]	B	8	-56
+1900	Beyo	P	2631	Akhwohyal	E211000-A	 	    Co  Di Ic 		032	Wild	F2 V	-1	(E00+1)	[0000]	B	8	14
+
+1105	Beyo	P	2634	Tlasoistsen	D443372-8	 	     Lo Po 		611	AsSc	K6 V	-3	(820-3)	[117D]	B	10	-48
+1281	Beyo	P	2634	Tlasoistsen	D443000-8	 	     Di Po 		011	Wild	K6 V	-3	(800+5)	[0000]	B	10	40
+1508	Beyo	P	2634	Tlasoistsen	D443000-8	 	     Di Po 		011	Wild	K6 V	-3	(800+3)	[0000]	B	10	24
+1900	Beyo	P	2634	Tlasoistsen	D443000-8	 	     Di Po 		011	Wild	K6 V	-3	(800+3)	[0000]	B	10	24
+
+1105	Beyo	P	2636	Yehstalwye	B418454-A	 	    Fr  Ic Ni 		713	AsXX	M5 V	1	(932-2)	[152D]	B	12	-108
+1281	Beyo	P	2636	Yehstalwye	D418000-A	 	    Fr  Di Ic 		013	Wild	M5 V	-1	(900-2)	[0000]	B	12	-18
+1508	Beyo	P	2636	Yehstalwye	D418000-A	 	    Fr  Di Ic 		013	Wild	M5 V	-1	(900+1)	[0000]	B	12	9
+1900	Beyo	P	2636	Yehstalwye	D418000-A	 	    Fr  Di Ic 		013	Wild	M5 V	-1	(900-4)	[0000]	B	12	-36
+
+1105	Beyo	P	2637	Astraykte	C99A316-9	 	    Ho  Lo Wa 		820	AsXX	K3 V	-1	(920+5)	[5214]	B	12	90
+1281	Beyo	P	2637	Astraykte	E99A000-9	 	    Ho  Di Wa 		020	Wild	K3 V	-2	(900+2)	[0000]	B	12	18
+1508	Beyo	P	2637	Astraykte	E99A000-9	 	    Ho  Di Wa 		020	Wild	K3 V	-2	(900+1)	[0000]	B	12	9
+1900	Beyo	P	2637	Astraykte	E99A000-9	 	    Ho  Di Wa 		020	Wild	K3 V	-2	(900-4)	[0000]	B	12	-36
+
+1105	Beyo	D	2705	Agunvall	B665786-9	 	     rg2  Ag Ri Ga (NIL)		812	NaHu	K4 V K6 V	3	(76F+5)	[6A78]	BC	10	3150
+1281	Beyo	D	2705	Agunvall	B6657A9-7	 	     rg2  Ag Ri Ga (NIL)		412	Wild	K4 V K6 V	2	(46A-1)	[5987]	BC	10	-240
+1508	Beyo	D	2705	Agunvall	B665777-8	 	     rg2  Ag Ri Ga (NIL)		312	Wild	K4 V K6 V	2	(76D+1)	[5918]	BC	10	546
+1900	Beyo	D	2705	Agunvall	B665726-9	 	     rg2  Ag Ri Ga (NIL)		212	Wild	K4 V K6 V	3	(76B+3)	[5A57]	BC	10	1386
+
+1105	Beyo	D	2706	Thoznaen	A876874-C	 	     Pz rgW  Pa Pi Ph (NIL)	A	523	NaVa	G0 V G0 V	2	(E75-3)	[9A2H]	BcDe	12	-1470
+1281	Beyo	D	2706	Thoznaen	A87689C-A	 	     Pz rgW  Pa Pi Ph (NIL)		223	Wild	G0 V G0 V	2	(E77+1)	[AA7A]	BcDe	12	686
+1508	Beyo	D	2706	Thoznaen	A8768A6-B	 	     Pz rgW  Pa Pi Ph (NIL)		323	Wild	G0 V G0 V	2	(E7A+3)	[BA6A]	BcDe	12	2940
+1900	Beyo	D	2706	Thoznaen	A876877-C	 	     Pz rgW  Pa Pi Ph (NIL)		423	Wild	G0 V G0 V	2	(E76+1)	[7A89]	BcDe	12	588
+
+1105	Beyo	D	2709	Dedeged	B322544-9	S	    Tz  He Ni Po 		422	CsIm	M2 V	0	(746-1)	[5536]	B	7	-168
+1281	Beyo	D	2709	Dedeged	E322000-9	T 	    Tz  Di He Po 		022	Wild	M2 V	-2	(700+3)	[0000]	B	7	21
+1508	Beyo	D	2709	Dedeged	E322000-9	T 	    Tz  Di He Po 		022	Wild	M2 V	-2	(700-3)	[0000]	B	7	-21
+1900	Beyo	D	2709	Dedeged	E322000-9	T 	    Tz  Di He Po 		022	Wild	M2 V	-2	(700-3)	[0000]	B	7	-21
+
+1105	Beyo	H	2717	Testrous	B533434-B	 	    orW  Ni Po 		513	FlLe	A1 III	1	(A34-1)	[2539]	B	10	-120
+1281	Beyo	H	2717	Testrous	B533411-9	 	    orW  Ni Po 		213	Wild	A1 III	0	(A36+2)	[442A]	B	10	360
+1508	Beyo	H	2717	Testrous	B533477-A	 	    orW  Ni Px Po 		313	Wild	A1 III	1	(A34+4)	[555C]	B	10	480
+1900	Beyo	H	2717	Testrous	B533489-B	 	    orW  Ni Px Po 		413	Wild	A1 III	1	(A34+5)	[352C]	B	10	600
+
+1105	Beyo	H	2720	Aacheon	E410000-0	 	    An Sa  Ba 		021	NaXX	K0 III	-3	(A00-3)	[0000]	B	6	-30
+1281	Beyo	H	2720	Aacheon	E410000-0	 	    An Sa  Ba 		021	Wild	K0 III	-3	(A00-4)	[0000]	B	6	-40
+1508	Beyo	H	2720	Aacheon	E410000-0	 	    An Sa  Ba 		021	Wild	K0 III	-3	(A00-2)	[0000]	B	6	-20
+1900	Beyo	H	2720	Aacheon	E410000-0	 	    An Sa  Ba 		021	Wild	K0 III	-3	(A00-4)	[0000]	B	6	-40
+
+1105	Beyo	L	2724	Chymos	E543000-0	 	    Fr  Ba Po 		012	NaXX	M3 V M9 V	-3	(B00+1)	[0000]	B	12	11
+1281	Beyo	L	2724	Chymos	E543000-0	 	    Fr  Ba Po 		012	Wild	M3 V M9 V	-3	(B00+3)	[0000]	B	12	33
+1508	Beyo	L	2724	Chymos	E543000-0	 	    Fr  Ba Po 		012	Wild	M3 V M9 V	-3	(B00+1)	[0000]	B	12	11
+1900	Beyo	L	2724	Chymos	E543000-0	 	    Fr  Ba Po 		012	Wild	M3 V M9 V	-3	(B00-1)	[0000]	B	12	-11
+
+1105	Beyo	P	2735	Eteasteah	C6676A5-9	 	      Ag Ri Ga Ni 		301	AsVc	K2 V	1	(555+1)	[5735]	BC	6	125
+1281	Beyo	P	2735	Eteasteah	C667637-7	 	      Ag Ri Ga Ni 		101	Wild	K2 V	0	(452-2)	[9666]	BC	6	-80
+1508	Beyo	P	2735	Eteasteah	C66765A-9	 	      Ag Ri Ga Ni 		201	Wild	K2 V	1	(557-3)	[777D]	BC	6	-525
+1900	Beyo	P	2735	Eteasteah	C66765A-A	 	      Ag Ri Ga Ni 		301	Wild	K2 V	2	(556+1)	[4838]	BC	6	150
+
+1105	Beyo	P	2738	Eiwiytih	C422437-A	 	    Co  He Ni Px Po 		512	AsWc	F0 V	0	(B35-2)	[245A]	B	9	-330
+1281	Beyo	P	2738	Eiwiytih	X422000-A	 	    Co  Di He Px Po 		012	Wild	F0 V	-1	(B00+2)	[0000]	B	9	22
+1508	Beyo	P	2738	Eiwiytih	X422000-A	 	    Co  Di He Po 		012	Wild	F0 V	-1	(B00+1)	[0000]	B	9	11
+1900	Beyo	P	2738	Eiwiytih	X422000-A	 	    Co  Di He Po 		012	Wild	F0 V	-1	(B00+3)	[0000]	B	9	33
+
+1105	Beyo	P	2739	Khyuryate	B874978-B	 	    Tr Sa  Hi In (NIL)		922	AsSc	M0 V M3 V	4	(C8G+1)	[CD28]	BEf	16	1536
+1281	Beyo	P	2739	Khyuryate	B874976-9	 	    Tr Sa  Hi In (NIL)		422	Wild	M0 V M3 V	3	(C8B-3)	[9C77]	BE	16	-3168
+1508	Beyo	P	2739	Khyuryate	B874994-A	 	    Tr Sa  Hi In (NIL)		522	Wild	M0 V M3 V	4	(C8D-3)	[CD56]	BEf	16	-3744
+1900	Beyo	P	2739	Khyuryate	B874977-B	 	    Tr Sa  Hi In (NIL)		622	Wild	M0 V M3 V	4	(C87-1)	[AD7E]	BEf	16	-672
+
+1105	Beyo	D	2802	Sannavall	CA88533-7	 	      Ag Pr Ni 		513	NaHu	G8 V	-1	(840-2)	[143B]	BcC	13	-64
+1281	Beyo	D	2802	Sannavall	CA88573-5	 	      Ag Pr Ni 		213	Wild	G8 V	-1	(843+1)	[2414]	BcC	13	96
+1508	Beyo	D	2802	Sannavall	CA88552-7	 	      Ag Pr Ni 		313	Wild	G8 V	-1	(842+5)	[144C]	BcC	13	320
+1900	Beyo	D	2802	Sannavall	CA8858B-7	 	      Ag Pr Ni 		413	Wild	G8 V	-1	(845+2)	[9458]	BcC	13	320
+
+1105	Beyo	D	2803	Mal'Gnar El	X485673-2	 	     Fo (MalG) Co  Ag Ri Ni 	R	813	NaHu	K4 V	-1	(855+4)	[5551]	BC	7	800
+1281	Beyo	D	2803	Mal'Gnar El	X485000-2	 	      Fo (MalG) Co  Di 		013	Wild	K4 V	-3	(800+2)	[0000]	B	7	16
+1508	Beyo	D	2803	Mal'Gnar El	X485000-2	 	      Fo (MalG) Co  Di 		013	Wild	K4 V	-3	(800-3)	[0000]	B	7	-24
+1900	Beyo	D	2803	Mal'Gnar El	X485000-2	 	      Fo (MalG) Co  Di 		013	Wild	K4 V	-3	(800-1)	[0000]	B	7	-8
+
+1105	Beyo	H	2811	Amsigiiga	B867668-8	 	     O:2511  Ag Ri Ga Ni 		621	MoLo	K6 V	2	(754+2)	[B888]	BC	8	280
+1281	Beyo	H	2811	Amsigiiga	B867414-7	 	     O:2511  Ga Ni Pa 		321	Wild	K6 V	-1	(432+1)	[6343]	Bc	8	24
+1508	Beyo	H	2811	Amsigiiga	B867477-8	 	     O:2511  Ga Ni Pa 		321	Wild	K6 V	-1	(735+1)	[4389]	Bc	8	105
+1900	Beyo	H	2811	Amsigiiga	B867431-9	 	     O:2511  Ga Ni Pa 		221	Wild	K6 V	0	(734+2)	[3457]	Bc	8	168
+
+1105	Beyo	L	2822	Lzamengen	E322000-0	 	     Ba He Po 		020	NaXX	M1 V M2 V	-3	(700+4)	[0000]	B	7	28
+1281	Beyo	L	2822	Lzamengen	E322000-0	 	     Ba He Po 		020	Wild	M1 V M2 V	-3	(700+2)	[0000]	B	7	14
+1508	Beyo	L	2822	Lzamengen	E322000-0	 	     Ba He Po 		020	Wild	M1 V M2 V	-3	(700+1)	[0000]	B	7	7
+1900	Beyo	L	2822	Lzamengen	E322000-0	 	     Ba He Po 		020	Wild	M1 V M2 V	-3	(700-5)	[0000]	B	7	-35
+
+1105	Beyo	L	2824	Hruhyaiu	A433537-D	 	    Fr  Ni Px Po 		613	AsT2	M2 V M2 V	1	(947+4)	[5659]	B	15	1008
+1281	Beyo	L	2824	Hruhyaiu	A433599-B	 	    Fr  Ni Px Po 		313	Wild	M2 V M2 V	1	(945+1)	[364C]	B	15	180
+1508	Beyo	L	2824	Hruhyaiu	A433532-C	 	    Fr  Ni Po 		213	Wild	M2 V M2 V	1	(947+1)	[964D]	B	15	252
+1900	Beyo	L	2824	Hruhyaiu	A433575-D	 	    Fr  Ni Po 		113	Wild	M2 V M2 V	1	(947-4)	[265D]	B	15	-1008
+
+1105	Beyo	L	2826	Easakhou	A566786-C	 	     Huma0  Ag Ri (NIL)		402	AsTv	G7 V	4	(B6A-4)	[3B3C]	BCf	9	-2640
+1281	Beyo	L	2826	Easakhou	A566777-A	 	     Huma0  Ag Ri (NIL)		202	Wild	G7 V	4	(B69-1)	[5B68]	BCf	9	-594
+1508	Beyo	L	2826	Easakhou	A5667BC-B	 	     Huma0  Ag Ri (NIL)		102	Wild	G7 V	4	(B69+1)	[5B4E]	BCf	9	594
+1900	Beyo	L	2826	Easakhou	A566654-D	 	    Huma0  Ag Ri Ni (NIL)		902	Wild	G7 V	3	(B56-2)	[696E]	BC	9	-660
+
+1105	Beyo	L	2830	Oakhlafah	C211315-A	 	    Sa  Ic Lo 		310	AsXX	M4 III M6 V	0	(820-2)	[435C]	B	5	-32
+1281	Beyo	L	2830	Oakhlafah	E211000-A	 	    Sa  Di Ic 		010	Wild	M4 III M6 V	-1	(800+4)	[0000]	B	5	32
+1508	Beyo	L	2830	Oakhlafah	E211000-A	 	    Sa  Di Ic 		010	Wild	M4 III M6 V	-1	(800+1)	[0000]	B	5	8
+1900	Beyo	L	2830	Oakhlafah	E211000-A	 	    Sa  Di Ic 		010	Wild	M4 III M6 V	-1	(800+4)	[0000]	B	5	32
+
+1105	Beyo	P	2832	Hleakhawa	C534534-9	 	    Tz  Ni 		913	AsWc	M0 V M7 V	-1	(A45+1)	[2468]	B	9	200
+1281	Beyo	P	2832	Hleakhawa	D534000-9	 	    Tz  Di 		013	Wild	M0 V M7 V	-2	(A00+3)	[0000]	B	9	30
+1508	Beyo	P	2832	Hleakhawa	D534000-9	 	    Tz  Di 		013	Wild	M0 V M7 V	-2	(A00+3)	[0000]	B	9	30
+1900	Beyo	P	2832	Hleakhawa	D534000-9	 	    Tz  Di 		013	Wild	M0 V M7 V	-2	(A00-3)	[0000]	B	9	-30
+
+1105	Beyo	P	2835	Ktiskheao	C613555-9	 	     Ic Ni 		422	AsWc	K7 V M3 V	-1	(944+1)	[3418]	B	7	144
+1281	Beyo	P	2835	Ktiskheao	X613000-9	 	     Di Ic 		022	Wild	K7 V M3 V	-2	(900+1)	[0000]	B	7	9
+1508	Beyo	P	2835	Ktiskheao	X613000-9	 	     Di Ic 		022	Wild	K7 V M3 V	-2	(900+3)	[0000]	B	7	27
+1900	Beyo	P	2835	Ktiskheao	X613000-9	 	     Di Ic 		022	Wild	K7 V M3 V	-2	(900-1)	[0000]	B	7	-9
+
+1105	Beyo	P	2840	Teavearl	CBA8452-A	 	    Ho  Fl Ni 		711	AsWc	F9 V	0	(B32-2)	[546D]	B	13	-132
+1281	Beyo	P	2840	Teavearl	EBA8000-A	 	    Ho  Di Fl 		011	Wild	F9 V	-1	(B00+4)	[0000]	B	13	44
+1508	Beyo	P	2840	Teavearl	EBA8000-A	 	    Ho  Di Fl 		011	Wild	F9 V	-1	(B00+1)	[0000]	B	13	11
+1900	Beyo	P	2840	Teavearl	EBA8000-A	 	    Ho  Di Fl 		011	Wild	F9 V	-1	(B00-1)	[0000]	B	13	-11
+
+1105	Beyo	D	2903	Iniidez	A966747-A	N 	      Ag Ri (NIL)		803	CsIm	K3 V M9 V	4	(96C+2)	[8B3F]	BCf	8	1296
+1281	Beyo	D	2903	Iniidez	A966777-8	N 	      Ag Ri (NIL)		403	Wild	K3 V M9 V	2	(969+1)	[7956]	BC	8	486
+1508	Beyo	D	2903	Iniidez	A966775-9	N 	      Ag Ri (NIL)		503	Wild	K3 V M9 V	3	(96A-2)	[6A68]	BC	8	-1080
+1900	Beyo	D	2903	Iniidez	A966799-A	N 	      Ag Ri (NIL)		403	Wild	K3 V M9 V	4	(96C-1)	[BB8A]	BCf	8	-648
+
+1105	Beyo	D	2907	Thaezdhugh	E588512-3	 	     rg5  Ag Pr Ni 		520	NaVa	K8 V	-2	(C41-4)	[2361]	BcC	12	-192
+1281	Beyo	D	2907	Thaezdhugh	E588573-1	 	     rg5  Ag Pr Ni 		220	Wild	K8 V	-2	(C40+1)	[5361]	BcC	12	48
+1508	Beyo	D	2907	Thaezdhugh	E588572-2	 	     rg5  Ag Pr Ni 		320	Wild	K8 V	-2	(C40+1)	[9314]	BcC	12	48
+1900	Beyo	D	2907	Thaezdhugh	E588573-3	 	     rg5  Ag Pr Ni 		420	Wild	K8 V	-2	(C44-2)	[1375]	BcC	12	-384
+
+1105	Beyo	H	2911	Hapapo	C322479-B	 	    Ho  He Ni Px Po 		330	NaHu	G9 V	0	(735+3)	[1458]	B	9	315
+1281	Beyo	H	2911	Hapapo	E322000-B	 	    Ho  Di He Px Po 		030	Wild	G9 V	-1	(700+3)	[0000]	B	9	21
+1508	Beyo	H	2911	Hapapo	E322000-B	 	    Ho  Di He Po 		030	Wild	G9 V	-1	(700+1)	[0000]	B	9	7
+1900	Beyo	H	2911	Hapapo	E322000-B	 	    Ho  Di He Po 		030	Wild	G9 V	-1	(700-2)	[0000]	B	9	-14
+
+1105	Beyo	H	2913	Eptid	B675654-B	 	    orW Tz  Ag Ni 		612	FlLe	M2 V	2	(B56+1)	[4839]	BC	11	330
+1281	Beyo	H	2913	Eptid	E675000-B	 	     orW Tz  Di 		012	Wild	M2 V	-1	(B00+4)	[0000]	B	11	44
+1508	Beyo	H	2913	Eptid	E675000-B	 	     orW Tz  Di 		012	Wild	M2 V	-1	(B00-1)	[0000]	B	11	-11
+1900	Beyo	H	2913	Eptid	E675000-B	 	     orW Tz  Di 		012	Wild	M2 V	-1	(B00-1)	[0000]	B	11	-11
+
+1105	Beyo	H	2915	Sarlon	C532313-A	 	    orW Tz  Lo Po 		321	FlLe	M0 V M9 V	1	(821-3)	[1427]	B	11	-48
+1281	Beyo	H	2915	Sarlon	D532000-A	 	    orW Tz  Di Po 		021	Wild	M0 V M9 V	-1	(800+3)	[0000]	B	11	24
+1508	Beyo	H	2915	Sarlon	D532000-A	 	    orW Tz  Di Po 		021	Wild	M0 V M9 V	-1	(800-3)	[0000]	B	11	-24
+1900	Beyo	H	2915	Sarlon	D532000-A	 	    orW Tz  Di Po 		021	Wild	M0 V M9 V	-1	(800-2)	[0000]	B	11	-16
+
+1105	Beyo	H	2920	Hruhyaou	A634587-D	 	   Sa  Ni Px 		412	AsT4	M8 V	1	(545+1)	[469D]	B	9	100
+1281	Beyo	H	2920	Hruhyaou	A634444-B	 	    Sa  Ni 		212	Wild	M8 V	1	(535-1)	[359D]	B	9	-75
+1508	Beyo	H	2920	Hruhyaou	A634442-C	 	    Sa  Ni 		312	Wild	M8 V	1	(534+1)	[653C]	B	9	60
+1900	Beyo	H	2920	Hruhyaou	A634456-E	 	   Sa  Ni Px 		312	Wild	M8 V	1	(533+1)	[255G]	B	9	45
+
+1105	Beyo	L	2922	Delta Base	B000327-D	S	     Rs  As Va Lo 		432	CsIm	G1 Ib B8 IV	1	(A21+1)	[345A]	B	16	20
+1281	Beyo	L	2922	Delta Base	E000000-D	T 	     Rs  As Va Di 		032	Wild	G1 Ib B8 IV	-1	(A00+2)	[0000]	B	16	20
+1508	Beyo	L	2922	Delta Base	E000000-D	T 	     Rs  As Va Di 		032	Wild	G1 Ib B8 IV	-1	(A00-1)	[0000]	B	16	-10
+1900	Beyo	L	2922	Delta Base	E000000-D	T 	     Rs  As Va Di 		032	Wild	G1 Ib B8 IV	-1	(A00-3)	[0000]	B	16	-30
+
+1105	Beyo	L	2924	Ihkyatou	C552434-A	 	    Sa  Ni Po 		721	AsVc	M2 V	0	(835+1)	[345A]	B	10	120
+1281	Beyo	L	2924	Ihkyatou	E552000-A	 	    Sa  Di Po 		021	Wild	M2 V	-1	(800-3)	[0000]	B	10	-24
+1508	Beyo	L	2924	Ihkyatou	E552000-A	 	    Sa  Di Po 		021	Wild	M2 V	-1	(800+2)	[0000]	B	10	16
+1900	Beyo	L	2924	Ihkyatou	E552000-A	 	    Sa  Di Po 		021	Wild	M2 V	-1	(800-4)	[0000]	B	10	-32
+
+1105	Beyo	L	2929	Yieakye	B454555-9	 	     Ag Ni 		513	AsVc	F9 V	1	(B47-3)	[9679]	BC	12	-924
+1281	Beyo	L	2929	Yieakye	B45457A-6	 	     Ag Ni 		213	Wild	F9 V	0	(741+1)	[2564]	BC	12	28
+1508	Beyo	L	2929	Yieakye	B454546-7	 	     Ag Ni 		113	Wild	F9 V	0	(741+1)	[7527]	BC	12	28
+1900	Beyo	L	2929	Yieakye	B454524-8	 	     Ag Ni 		213	Wild	F9 V	0	(B44-1)	[853A]	BC	12	-176
+
+1105	Beyo	L	2930	Aokaoreah	D433365-A	 	    O:3132 Co  Lo Po 		632	AsXX	K0 V M5 V	-1	(B20-2)	[526B]	B	12	-44
+1281	Beyo	L	2930	Aokaoreah	D433000-A	 	    O:3132 Co  Di Po 		032	Wild	K0 V M5 V	-1	(B00+1)	[0000]	B	12	11
+1508	Beyo	L	2930	Aokaoreah	D433000-A	 	    O:3132 Co  Di Po 		032	Wild	K0 V M5 V	-1	(B00+1)	[0000]	B	12	11
+1900	Beyo	L	2930	Aokaoreah	D433000-A	 	    O:3132 Co  Di Po 		032	Wild	K0 V M5 V	-1	(B00-3)	[0000]	B	12	-33
+
+1105	Beyo	P	2934	Khte Hryea	E100000-0	 	     Ba Va 		013	AsXX	M4 V	-3	(300+1)	[0000]	B	11	3
+1281	Beyo	P	2934	Khte Hryea	E100000-0	 	     Ba Va 		013	Wild	M4 V	-3	(300-3)	[0000]	B	11	-9
+1508	Beyo	P	2934	Khte Hryea	E100000-0	 	     Ba Va 		013	Wild	M4 V	-3	(300+3)	[0000]	B	11	9
+1900	Beyo	P	2934	Khte Hryea	E100000-0	 	     Ba Va 		013	Wild	M4 V	-3	(300+4)	[0000]	B	11	12
+
+1105	Beyo	P	2935	Taroeakh	C324595-B	 	    Ho  Ni 		522	AsVc	K4 V M2 V	0	(D43-2)	[557E]	B	11	-312
+1281	Beyo	P	2935	Taroeakh	E324000-B	 	    Ho  Di 		022	Wild	K4 V M2 V	-1	(D00+1)	[0000]	B	11	13
+1508	Beyo	P	2935	Taroeakh	E324000-B	 	    Ho  Di 		022	Wild	K4 V M2 V	-1	(D00-2)	[0000]	B	11	-26
+1900	Beyo	P	2935	Taroeakh	E324000-B	 	    Ho  Di 		022	Wild	K4 V M2 V	-1	(D00+2)	[0000]	B	11	26
+
+1105	Beyo	P	2937	Layeaukhtyei	A975A75-D	 	    Fr  Hi In (NIL)		713	AsT7	F3 V	5	(D9G+1)	[9F1D]	BEf	15	1872
+1281	Beyo	P	2937	Layeaukhtyei	A975AAA-B	 	    Fr  Hi In (NIL)		313	Wild	F3 V	4	(D9E-1)	[AE4D]	BEf	15	-1638
+1508	Beyo	P	2937	Layeaukhtyei	A975A86-C	 	    Fr  Hi In (NIL)		213	Wild	F3 V	4	(D9A+5)	[BE2C]	BEf	15	5850
+1900	Beyo	P	2937	Layeaukhtyei	A975AED-D	 	    Fr  Hi In (NIL)		313	Wild	F3 V	4	(D9A+3)	[BE59]	BEf	15	3510
+
+1105	Beyo	P	2939	Taroekh	B574897-B	 	      Pa Pi Ph (NIL)		920	AsT2	K1 V	2	(87B-3)	[AA2D]	BcDe	7	-1848
+1281	Beyo	P	2939	Taroekh	E574000-B	 	      Di Pi (NIL)		020	Wild	K1 V	-1	(800+4)	[0000]	BD	7	32
+1508	Beyo	P	2939	Taroekh	E574000-B	 	       Di (NIL)		020	Wild	K1 V	-1	(800-2)	[0000]	B	7	-16
+1900	Beyo	P	2939	Taroekh	E574000-B	 	       Di (NIL)		020	Wild	K1 V	-1	(800-3)	[0000]	B	7	-24
+
+1105	Beyo	D	3001	Kazar	B565654-B	S	     rg3 Sa  Ag Ri Ni 		812	CsIm	M4 V	3	(859-2)	[5969]	BC	8	-720
+1281	Beyo	D	3001	Kazar	B565512-9	S	     rg3 Sa  Ag Pr Ni 		412	Wild	M4 V	1	(842+3)	[6698]	BcC	8	192
+1508	Beyo	D	3001	Kazar	B565589-A	S	     rg3 Sa  Ag Pr Ni 		512	Wild	M4 V	2	(846-1)	[A76A]	BcC	8	-192
+1900	Beyo	D	3001	Kazar	B565577-B	S	     rg3 Sa  Ag Pr Ni 		612	Wild	M4 V	2	(846-1)	[476C]	BcC	8	-192
+
+1105	Beyo	D	3003	Pritchard	DA866AB-3	 	     Da  Ag Ri Ni 	A	522	NaHu	G1 V	-1	(353+3)	[3511]	BC	8	135
+1281	Beyo	D	3003	Pritchard	DA86679-1	 	     Da  Ag Ri Ni 		222	Wild	G1 V	-1	(351+1)	[6515]	BC	8	15
+1508	Beyo	D	3003	Pritchard	DA86674-2	 	     Da  Ag Ri Ni 		322	Wild	G1 V	-1	(355+1)	[A532]	BC	8	75
+1900	Beyo	D	3003	Pritchard	DA86633-3	 	     Da  Ag Ri Ni 		422	Wild	G1 V	-1	(354+2)	[5564]	BC	8	120
+
+1105	Beyo	D	3004	Datir	C332553-9	 	    Co  Ni Po 		632	NaHu	M0 V M2 V	-1	(A40+1)	[6456]	B	11	40
+1281	Beyo	D	3004	Datir	C332577-6	 	    Co  Ni Px Po 		332	Wild	M0 V M2 V	-2	(542-3)	[6346]	B	11	-120
+1508	Beyo	D	3004	Datir	C332548-7	 	    Co  Ni Px Po 		332	Wild	M0 V M2 V	-2	(540+1)	[5343]	B	11	20
+1900	Beyo	D	3004	Datir	C33257B-8	 	    Co  Ni Po 		232	Wild	M0 V M2 V	-2	(A44-1)	[5346]	B	11	-160
+
+1105	Beyo	D	3007	Aueaiai	E894325-2	 	     Lo 		523	NaAs	K4 V	-3	(420-1)	[1156]	B	9	-8
+1281	Beyo	D	3007	Aueaiai	E894000-2	 	     Di 		023	Wild	K4 V	-3	(400-1)	[0000]	B	9	-4
+1508	Beyo	D	3007	Aueaiai	E894000-2	 	     Di 		023	Wild	K4 V	-3	(400+3)	[0000]	B	9	12
+1900	Beyo	D	3007	Aueaiai	E894000-2	 	     Di 		023	Wild	K4 V	-3	(400+1)	[0000]	B	9	4
+
+1105	Beyo	H	3011	Radion	C432536-A	 	    orW  Ni Px Po 		431	FlLe	F2 V M1 V F5 V K8 V	0	(B44-1)	[4549]	B	9	-176
+1281	Beyo	H	3011	Radion	C432578-8	 	    orW  Ni Px Po 		231	Wild	F2 V M1 V F5 V K8 V	-2	(B41+1)	[637C]	B	9	44
+1508	Beyo	H	3011	Radion	C432520-9	 	    orW  Ni Po 		331	Wild	F2 V M1 V F5 V K8 V	-1	(B43-1)	[344C]	B	9	-132
+1900	Beyo	H	3011	Radion	C43257B-A	 	    orW  Ni Po 		431	Wild	F2 V M1 V F5 V K8 V	0	(B46+1)	[1539]	B	9	264
+
+1105	Beyo	H	3015	Indarin	B521336-B	 	    orW Tz  He Lo Px Po 		512	FlLe	M0 V M2 V	1	(821+1)	[244A]	B	9	16
+1281	Beyo	H	3015	Indarin	E521000-B	 	    orW Tz  Di He Px Po 		012	Wild	M0 V M2 V	-1	(800+4)	[0000]	B	9	32
+1508	Beyo	H	3015	Indarin	E521000-B	 	    orW Tz  Di He Po 		012	Wild	M0 V M2 V	-1	(800+2)	[0000]	B	9	16
+1900	Beyo	H	3015	Indarin	E521000-B	 	    orW Tz  Di He Po 		012	Wild	M0 V M2 V	-1	(800+3)	[0000]	B	9	24
+
+1105	Beyo	H	3016	Micruss	A641538-C	 	    orW Co  He Ni Po 		331	FlLe	G4 V M2 V	1	(B45+1)	[565C]	B	12	220
+1281	Beyo	H	3016	Micruss	X641000-C	 	    orW Co  Di He Po 		031	Wild	G4 V M2 V	-1	(B00+1)	[0000]	B	12	11
+1508	Beyo	H	3016	Micruss	X641000-C	 	    orW Co  Di He Po 		031	Wild	G4 V M2 V	-1	(B00+1)	[0000]	B	12	11
+1900	Beyo	H	3016	Micruss	X641000-C	 	    orW Co  Di He Po 		031	Wild	G4 V M2 V	-1	(B00+1)	[0000]	B	12	11
+
+1105	Beyo	H	3020	Healveakh	C321434-A	 	     He Ni Po 		522	AsXX	F8 V	0	(C34+3)	[1489]	B	8	432
+1281	Beyo	H	3020	Healveakh	X321000-A	 	     Di He Po 		022	Wild	F8 V	-1	(C00+1)	[0000]	B	8	12
+1508	Beyo	H	3020	Healveakh	X321000-A	 	     Di He Po 		022	Wild	F8 V	-1	(C00-3)	[0000]	B	8	-36
+1900	Beyo	H	3020	Healveakh	X321000-A	 	     Di He Po 		022	Wild	F8 V	-1	(C00+1)	[0000]	B	8	12
+
+1105	Beyo	L	3025	Shotkaha	B104254-B	 	     Fr  Ic Va Lo 		312	AsXX	M2 V M6 V	1	(D11-4)	[232D]	B	14	-52
+1281	Beyo	L	3025	Shotkaha	X104000-B	 	     Fr  Di Ic Va 		012	Wild	M2 V M6 V	-1	(D00+1)	[0000]	B	14	13
+1508	Beyo	L	3025	Shotkaha	X104000-B	 	     Fr  Di Ic Va 		012	Wild	M2 V M6 V	-1	(D00+1)	[0000]	B	14	13
+1900	Beyo	L	3025	Shotkaha	X104000-B	 	     Fr  Di Ic Va 		012	Wild	M2 V M6 V	-1	(D00+3)	[0000]	B	14	39
+
+1105	Beyo	L	3029	Ya' Uiyakh	E615000-0	 	    Co  Ba Ic 		001	AsXX	A3 V	-3	(700-5)	[0000]	B	7	-35
+1281	Beyo	L	3029	Ya' Uiyakh	E615000-0	 	    Co  Ba Ic 		001	Wild	A3 V	-3	(700+5)	[0000]	B	7	35
+1508	Beyo	L	3029	Ya' Uiyakh	E615000-0	 	    Co  Ba Ic 		001	Wild	A3 V	-3	(700-1)	[0000]	B	7	-7
+1900	Beyo	L	3029	Ya' Uiyakh	E615000-0	 	    Co  Ba Ic 		001	Wild	A3 V	-3	(700+1)	[0000]	B	7	7
+
+1105	Beyo	P	3034	Khteiaueaou	A8449B6-C	 	     Hi In (NIL)		522	AsTv	K3 V M7 V	5	(88C-5)	[9E39]	BEf	8	-3840
+1281	Beyo	P	3034	Khteiaueaou	D844000-C	 	     Di In (NIL)		022	Wild	K3 V M7 V	0	(800+1)	[0000]	BE	8	8
+1508	Beyo	P	3034	Khteiaueaou	D844000-C	 	      Di (NIL)		022	Wild	K3 V M7 V	-1	(800+2)	[0000]	B	8	16
+1900	Beyo	P	3034	Khteiaueaou	D844000-C	 	      Di (NIL)		022	Wild	K3 V M7 V	-1	(800+2)	[0000]	B	8	16
+
+1105	Beyo	P	3039	Etwaynah	CCC2217-C	 	     Ho  Fl He Lo 		311	AsXX	M3 V	0	(B10-1)	[4269]	B	12	-11
+1281	Beyo	P	3039	Etwaynah	DCC2000-C	 	     Ho  Di Fl He 		011	Wild	M3 V	-1	(B00-1)	[0000]	B	12	-11
+1508	Beyo	P	3039	Etwaynah	DCC2000-C	 	     Ho  Di Fl He 		011	Wild	M3 V	-1	(B00+4)	[0000]	B	12	44
+1900	Beyo	P	3039	Etwaynah	DCC2000-C	 	     Ho  Di Fl He 		011	Wild	M3 V	-1	(B00+3)	[0000]	B	12	33
+
+1105	Beyo	D	3101	Udsi	CAD4447-A	S	    Ho  Ni 		511	CsIm	K5 V K8 V M6 V	0	(B34+1)	[1477]	B	13	132
+1281	Beyo	D	3101	Udsi	XAD4000-A	T 	    Ho  Di 		011	Wild	K5 V K8 V M6 V	-1	(B00+1)	[0000]	B	13	11
+1508	Beyo	D	3101	Udsi	XAD4000-A	T 	    Ho  Di 		011	Wild	K5 V K8 V M6 V	-1	(B00+4)	[0000]	B	13	44
+1900	Beyo	D	3101	Udsi	XAD4000-A	T 	    Ho  Di 		011	Wild	K5 V K8 V M6 V	-1	(B00-1)	[0000]	B	13	-11
+
+1105	Beyo	D	3108	Kubalikki	C100401-A	 	    Ho Sa  Ni Va 		331	NaHu	A8 IV	0	(935+1)	[1479]	B	7	135
+1281	Beyo	D	3108	Kubalikki	C100477-7	 	    Ho Sa  Ni Va 		131	Wild	A8 IV	-2	(530-1)	[4289]	B	7	-15
+1508	Beyo	D	3108	Kubalikki	C100430-8	 	    Ho Sa  Ni Va 		131	Wild	A8 IV	-2	(931+1)	[7246]	B	7	27
+1900	Beyo	D	3108	Kubalikki	C100330-9	 	    Ho Sa  Lo Va 		931	Wild	A8 IV	-1	(920+1)	[2269]	B	7	18
+
+1105	Beyo	H	3112	Mis Noam	A556737-B	 	    orW  Ag (NIL)		612	FlLe	G9 V M0 V M5 V	3	(C6D+3)	[7A5B]	BC	15	2808
+1281	Beyo	H	3112	Mis Noam	A5567BB-9	 	    orW  Ag (NIL)		312	Wild	G9 V M0 V M5 V	2	(C69-1)	[9967]	BC	15	-648
+1508	Beyo	H	3112	Mis Noam	A556799-A	 	    orW  Ag (NIL)		412	Wild	G9 V M0 V M5 V	3	(C6B+4)	[7A7E]	BC	15	3168
+1900	Beyo	H	3112	Mis Noam	A5567A5-B	 	    orW  Ag (NIL)		312	Wild	G9 V M0 V M5 V	3	(C66+2)	[8A2F]	BC	15	864
+
+1105	Beyo	H	3114	Peopus	A875946-D	 	    orW Co  Hi In (NIL)		722	FlLe	M1 V	4	(F8G+3)	[8D4C]	BEf	7	5760
+1281	Beyo	H	3114	Peopus	A8759CA-B	 	    orW Co  Hi In (NIL)		322	Wild	M1 V	4	(F89+4)	[BD6B]	BEf	7	4320
+1508	Beyo	H	3114	Peopus	A875998-C	 	    orW Co  Hi In (NIL)		422	Wild	M1 V	4	(F8B-2)	[9D5D]	BEf	7	-2640
+1900	Beyo	H	3114	Peopus	A875979-D	 	    orW Co  Hi In (NIL)		322	Wild	M1 V	4	(F8C+5)	[9D18]	BEf	7	7200
+
+1105	Beyo	L	3122	Ihateieakh	C768655-9	 	      Ag Ri Ni 		202	AsWc	K0 V	1	(654+5)	[9758]	BC	13	600
+1281	Beyo	L	3122	Ihateieakh	C768677-6	 	      Ag Ri Ni 		102	Wild	K0 V	0	(456+1)	[7669]	BC	13	120
+1508	Beyo	L	3122	Ihateieakh	C768576-8	 	      Ag Pr Ni 		902	Wild	K0 V	-1	(643+1)	[346C]	BcC	13	72
+1900	Beyo	L	3122	Ihateieakh	C768634-8	 	      Ag Ri Ni 		102	Wild	K0 V	0	(654+2)	[9638]	BC	13	240
+
+1105	Beyo	L	3124	Leitihakei	C315232-A	 	    Fr  Ic Lo 		320	AsXX	M0 V	0	(B10-3)	[128F]	B	10	-33
+1281	Beyo	L	3124	Leitihakei	X315000-A	 	    Fr  Di Ic 		020	Wild	M0 V	-1	(B00+2)	[0000]	B	10	22
+1508	Beyo	L	3124	Leitihakei	X315000-A	 	    Fr  Di Ic 		020	Wild	M0 V	-1	(B00-3)	[0000]	B	10	-33
+1900	Beyo	L	3124	Leitihakei	X315000-A	 	    Fr  Di Ic 		020	Wild	M0 V	-1	(B00-3)	[0000]	B	10	-33
+
+1105	Beyo	L	3125	Teiykiea	A575875-B	 	     Pz  Pa Pi Ph (NIL)	A	722	AsSc	G6 V	2	(E7A+1)	[6A3B]	BcDe	9	980
+1281	Beyo	L	3125	Teiykiea	D575000-B	 	     Pz  Di Pi (NIL)		022	Wild	G6 V	-1	(E00+3)	[0000]	BD	9	42
+1508	Beyo	L	3125	Teiykiea	D575000-B	 	      Pz  Di (NIL)		022	Wild	G6 V	-1	(E00-1)	[0000]	B	9	-14
+1900	Beyo	L	3125	Teiykiea	D575000-B	 	      Pz  Di (NIL)		022	Wild	G6 V	-1	(E00+5)	[0000]	B	9	70
+
+1105	Beyo	L	3126	Sueiyrie	C945336-A	 	    Co  Lo 		321	AsMw	G6 V M5 V	0	(C20-1)	[4347]	B	10	-24
+1281	Beyo	L	3126	Sueiyrie	E945000-A	 	    Co  Di 		021	Wild	G6 V M5 V	-1	(C00+2)	[0000]	B	10	24
+1508	Beyo	L	3126	Sueiyrie	E945000-A	 	    Co  Di 		021	Wild	G6 V M5 V	-1	(C00+3)	[0000]	B	10	36
+1900	Beyo	L	3126	Sueiyrie	E945000-A	 	    Co  Di 		021	Wild	G6 V M5 V	-1	(C00-1)	[0000]	B	10	-12
+
+1105	Beyo	L	3128	Ka'aheakh	C876672-B	 	    (Ktiauao)5  Ag Ni 		611	AsSc	K0 V	1	(B55+2)	[775C]	BC	8	550
+1281	Beyo	L	3128	Ka'aheakh	E876000-B	 	     (Ktiauao)5  Di 		011	Wild	K0 V	-1	(B00-2)	[0000]	B	8	-22
+1508	Beyo	L	3128	Ka'aheakh	E876000-B	 	     (Ktiauao)5  Di 		011	Wild	K0 V	-1	(B00-1)	[0000]	B	8	-11
+1900	Beyo	L	3128	Ka'aheakh	E876000-B	 	     (Ktiauao)5  Di 		011	Wild	K0 V	-1	(B00-1)	[0000]	B	8	-11
+
+1105	Beyo	L	3129	Airhelu	D110212-A	 	     Lo 		310	AsXX	M3 V M4 V	-1	(910+1)	[2146]	B	12	9
+1281	Beyo	L	3129	Airhelu	D110000-A	 	     Di 		010	Wild	M3 V M4 V	-1	(900+2)	[0000]	B	12	18
+1508	Beyo	L	3129	Airhelu	D110000-A	 	     Di 		010	Wild	M3 V M4 V	-1	(900-1)	[0000]	B	12	-9
+1900	Beyo	L	3129	Airhelu	D110000-A	 	     Di 		010	Wild	M3 V M4 V	-1	(900-4)	[0000]	B	12	-36
+
+1105	Beyo	P	3131	Elkoikholaya	B564555-9	 	      Ag Pr Ni 		602	AsWc	K8 V	1	(B47+1)	[4679]	BcC	9	308
+1281	Beyo	P	3131	Elkoikholaya	B564586-6	 	      Ag Pr Ni 		302	Wild	K8 V	0	(943+3)	[3544]	BcC	9	324
+1508	Beyo	P	3131	Elkoikholaya	B564577-7	 	      Ag Pr Ni 		202	Wild	K8 V	0	(943+5)	[7567]	BcC	9	540
+1900	Beyo	P	3131	Elkoikholaya	B564558-9	 	      Ag Pr Ni 		302	Wild	K8 V	1	(B42+1)	[766D]	BcC	9	88
+
+1105	Beyo	P	3132	Flykalear	D655975-A	 	    Ho Tr  Ga Hi (NIL)		411	AsSc	G4 V	2	(788-2)	[AB4B]	BE	10	-896
+1281	Beyo	P	3132	Flykalear	D655976-8	 	    Ho Tr  Ga Hi (NIL)		211	Wild	G4 V	-1	(785+1)	[5847]	BE	10	280
+1508	Beyo	P	3132	Flykalear	D6559A8-9	 	    Ho Tr  Ga Hi (NIL)		211	Wild	G4 V	0	(787+1)	[9986]	BE	10	392
+1900	Beyo	P	3132	Flykalear	D65599A-A	 	    Ho Tr  Ga Hi (NIL)		111	Wild	G4 V	1	(788+1)	[8A7D]	BE	10	448
+
+1105	Beyo	P	3134	Hoisoiwatoua	EA79636-9	 	     Ni 		332	AsVc	G9 V	-2	(H52-1)	[7459]	B	13	-170
+1281	Beyo	P	3134	Hoisoiwatoua	EA79000-9	 	     Di 		032	Wild	G9 V	-2	(H00+1)	[0000]	B	13	17
+1508	Beyo	P	3134	Hoisoiwatoua	EA79000-9	 	     Di 		032	Wild	G9 V	-2	(H00+1)	[0000]	B	13	17
+1900	Beyo	P	3134	Hoisoiwatoua	EA79000-9	 	     Di 		032	Wild	G9 V	-2	(H00-4)	[0000]	B	13	-68
+
+1105	Beyo	P	3136	Khteirir	C8C4522-A	 	     Fl Ni 		900	AsMw	K9 V	0	(745-4)	[257A]	B	6	-560
+1281	Beyo	P	3136	Khteirir	D8C4000-A	 	     Di Fl 		000	Wild	K9 V	-1	(700+1)	[0000]	B	6	7
+1508	Beyo	P	3136	Khteirir	D8C4000-A	 	     Di Fl 		000	Wild	K9 V	-1	(700+5)	[0000]	B	6	35
+1900	Beyo	P	3136	Khteirir	D8C4000-A	 	     Di Fl 		000	Wild	K9 V	-1	(700+1)	[0000]	B	6	7
+
+1105	Beyo	P	3138	Khehkhier	C758238-C	 	     Lo 		702	AsMw	F3 V M1 V	0	(B10-4)	[325E]	B	5	-44
+1281	Beyo	P	3138	Khehkhier	D758000-C	 	     Di 		002	Wild	F3 V M1 V	-1	(B00+2)	[0000]	B	5	22
+1508	Beyo	P	3138	Khehkhier	D758000-C	 	     Di 		002	Wild	F3 V M1 V	-1	(B00+2)	[0000]	B	5	22
+1900	Beyo	P	3138	Khehkhier	D758000-C	 	     Di 		002	Wild	F3 V M1 V	-1	(B00+1)	[0000]	B	5	11
+
+1105	Beyo	D	3201	Vrel	C544555-9	 	    rg3 Sa  Ag Ni 		612	NaHu	F8 V	0	(841+1)	[7517]	BC	11	32
+1281	Beyo	D	3201	Vrel	D544000-9	 	     rg3 Sa  Di 		012	Wild	F8 V	-2	(800-1)	[0000]	B	11	-8
+1508	Beyo	D	3201	Vrel	D544000-9	 	     rg3 Sa  Di 		012	Wild	F8 V	-2	(800+2)	[0000]	B	11	16
+1900	Beyo	D	3201	Vrel	D544000-9	 	     rg3 Sa  Di 		012	Wild	F8 V	-2	(800-2)	[0000]	B	11	-16
+
+1105	Beyo	D	3203	Padgo	B856643-8	 	    Ho Tr  Ag Ga Ni 		510	CsIm	K1 V	0	(856+3)	[9667]	BC	7	720
+1281	Beyo	D	3203	Padgo	B856673-6	 	    Ho Tr  Ag Ga Ni 		210	Wild	K1 V	0	(756-1)	[6672]	BC	7	-210
+1508	Beyo	D	3203	Padgo	B856642-7	 	    Ho Tr  Ag Ga Ni 		210	Wild	K1 V	0	(755-1)	[8649]	BC	7	-175
+1900	Beyo	D	3203	Padgo	B856688-8	 	    Ho Tr  Ag Ga Ni 		210	Wild	K1 V	0	(851+1)	[6644]	BC	7	40
+
+1105	Beyo	D	3206	Thozgul	C313361-A	 	    Da rg8 Co  Sa  Ic Lo 	A	622	NaVa	M1 V	0	(720-3)	[1389]	B	13	-42
+1281	Beyo	D	3206	Thozgul	D313000-A	 	    Da rg8 Co  Sa  Di Ic 		022	Wild	M1 V	-1	(700+1)	[0000]	B	13	7
+1508	Beyo	D	3206	Thozgul	D313000-A	 	    Da rg8 Co  Sa  Di Ic 		022	Wild	M1 V	-1	(700+1)	[0000]	B	13	7
+1900	Beyo	D	3206	Thozgul	D313000-A	 	    Da rg8 Co  Sa  Di Ic 		022	Wild	M1 V	-1	(700-1)	[0000]	B	13	-7
+
+1105	Beyo	H	3220	Shikhyuryatre	CC6A458-A	 	    Tz  Ni Oc 		303	AsVc	M4 V	0	(734-3)	[846C]	B	7	-252
+1281	Beyo	H	3220	Shikhyuryatre	CC6A443-7	 	    Tz  Ni Oc 		103	Wild	M4 V	-2	(431+2)	[6263]	B	7	24
+1508	Beyo	H	3220	Shikhyuryatre	CC6A335-8	 	    Tz  Lo Oc 		903	Wild	M4 V	-2	(720-3)	[41AA]	B	7	-42
+1900	Beyo	H	3220	Shikhyuryatre	CC6A302-A	 	    Tz  Lo Oc 		903	Wild	M4 V	0	(720+3)	[731A]	B	7	42
+
+1105	Beyo	L	3221	Tlasostsea	D967753-B	 	     Ho Tr  Ag Ri (NIL)		831	AsVc	G2 V M2 V	2	(66D+1)	[795F]	BC	10	468
+1281	Beyo	L	3221	Tlasostsea	D967788-8	 	     Ho Tr  Ag Ri (NIL)		431	Wild	G2 V M2 V	0	(669-5)	[7743]	BC	10	-1620
+1508	Beyo	L	3221	Tlasostsea	D967776-9	 	     Ho Tr  Ag Ri (NIL)		331	Wild	G2 V M2 V	1	(667+3)	[6826]	BC	10	756
+1900	Beyo	L	3221	Tlasostsea	D967784-A	 	     Ho Tr  Ag Ri (NIL)		431	Wild	G2 V M2 V	2	(66C+1)	[697E]	BC	10	432
+
+1105	Beyo	L	3225	Ukhtaihasoi	C769214-B	 	     Lo 		413	AsXX	G6 V M9 V	0	(B10+1)	[128B]	B	13	11
+1281	Beyo	L	3225	Ukhtaihasoi	X769000-B	 	     Di 		013	Wild	G6 V M9 V	-1	(B00-1)	[0000]	B	13	-11
+1508	Beyo	L	3225	Ukhtaihasoi	X769000-B	 	     Di 		013	Wild	G6 V M9 V	-1	(B00+2)	[0000]	B	13	22
+1900	Beyo	L	3225	Ukhtaihasoi	X769000-B	 	     Di 		013	Wild	G6 V M9 V	-1	(B00-5)	[0000]	B	13	-55
+
+1105	Beyo	L	3228	Khrykyrie	B5645A8-9	 	      Ag Pr Ni 		831	AsMw	K6 V	1	(B45+4)	[8686]	BcC	12	880
+1281	Beyo	L	3228	Khrykyrie	E564000-9	 	       Di 		031	Wild	K6 V	-2	(B00+1)	[0000]	B	12	11
+1508	Beyo	L	3228	Khrykyrie	E564000-9	 	       Di 		031	Wild	K6 V	-2	(B00+5)	[0000]	B	12	55
+1900	Beyo	L	3228	Khrykyrie	E564000-9	 	       Di 		031	Wild	K6 V	-2	(B00+2)	[0000]	B	12	22
+
+1105	Beyo	P	3232	Htoleakh	A675979-D	 	     Hi In (NIL)		732	AsSc	G4 V	5	(B8D+4)	[BE1H]	BEf	8	4576
+1281	Beyo	P	3232	Htoleakh	A675720-9	 	      Ag Pi (NIL)		332	Wild	G4 V	2	(B65+1)	[A93C]	BCD	8	330
+1508	Beyo	P	3232	Htoleakh	A675776-A	 	      Ag Pi (NIL)		432	Wild	G4 V	3	(B69+3)	[7A48]	BCD	8	1782
+1900	Beyo	P	3232	Htoleakh	A675724-B	 	      Ag Pi (NIL)		432	Wild	G4 V	3	(B67+1)	[9A1B]	BCD	8	462
+
+1105	Beyo	P	3235	Shieahk	B8A6474-A	 	     Fl Ni 		810	AsSc	M1 V	1	(734+5)	[6549]	B	7	420
+1281	Beyo	P	3235	Shieahk	E8A6000-A	 	     Di Fl 		010	Wild	M1 V	-1	(700-4)	[0000]	B	7	-28
+1508	Beyo	P	3235	Shieahk	E8A6000-A	 	     Di Fl 		010	Wild	M1 V	-1	(700+2)	[0000]	B	7	14
+1900	Beyo	P	3235	Shieahk	E8A6000-A	 	     Di Fl 		010	Wild	M1 V	-1	(700-5)	[0000]	B	7	-35
+
+1105	Beyo	P	3236	Flyukhtai	E742000-0	 	    Ho  Ba He Po 		020	AsXX	G1 V M3 V	-3	(B00+3)	[0000]	B	7	33
+1281	Beyo	P	3236	Flyukhtai	E742000-0	 	    Ho  Ba He Po 		020	Wild	G1 V M3 V	-3	(B00-4)	[0000]	B	7	-44
+1508	Beyo	P	3236	Flyukhtai	E742000-0	 	    Ho  Ba He Po 		020	Wild	G1 V M3 V	-3	(B00+4)	[0000]	B	7	44
+1900	Beyo	P	3236	Flyukhtai	E742000-0	 	    Ho  Ba He Po 		020	Wild	G1 V M3 V	-3	(B00-3)	[0000]	B	7	-33
+
+1105	Beyo	P	3239	Grunthieuy	B6756A8-B	 	    Ho Tr  Ag Ni 		301	AsTv	F6 V	2	(953+1)	[885C]	BC	6	135
+1281	Beyo	P	3239	Grunthieuy	D675000-B	 	     Ho Tr  Di 		001	Wild	F6 V	-1	(900+1)	[0000]	B	6	9
+1508	Beyo	P	3239	Grunthieuy	D675000-B	 	     Ho Tr  Di 		001	Wild	F6 V	-1	(900-1)	[0000]	B	6	-9
+1900	Beyo	P	3239	Grunthieuy	D675000-B	 	     Ho Tr  Di 		001	Wild	F6 V	-1	(900+1)	[0000]	B	6	9
+

@@ -1,0 +1,12 @@
+location {
+	y   -2 
+	x   -6
+}
+
+default {
+	order 	virus wave
+}
+
+source {
+	path  /Users/rje/git/travellermap/res/t5ss/data/Tienspevnekr.tab 
+}

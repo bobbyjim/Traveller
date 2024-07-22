@@ -1,0 +1,12 @@
+location {
+	y   -2 
+	x   -8
+}
+
+default {
+	order 	virus wave
+}
+
+source {
+	path  /Users/rje/git/travellermap/res/Sectors/M1105/Eiaplial.tab 
+}

@@ -1,0 +1,2077 @@
+Year	Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+1105	Delp	A	0102	Murphy	C544596-6	 	     Ag Ni 		101	ImDc	M0 V	-1	(743-2)	[4445]	BC	11	-168
+1201	Delp	A	0102	Murphy	E544424-5	 	     Ni Pa 		601	ImDc	M0 V	-3	(733+1)	[4145]	Bc	11	63
+1323	Delp	A	0102	Murphy	E544000-5	 	      Di 		001	Wild	M0 V	-3	(700-4)	[0000]	B	11	-28
+1508	Delp	A	0102	Murphy	E544000-5	 	      Di 		001	Wild	M0 V	-3	(700-1)	[0000]	B	11	-7
+1900	Delp	A	0102	Murphy	E544000-5	 	      Di 		001	Wild	M0 V	-3	(700-5)	[0000]	B	11	-35
+
+1105	Delp	A	0103	Oxnard	E6756A9-5	 	     Ag Ni 		524	ImDc	M2 V M6 V	-2	(852-1)	[7466]	BC	15	-80
+1201	Delp	A	0103	Oxnard	X6756BG-5	 	     Ag Ni 		624	ImDc	M2 V M6 V	-2	(850+1)	[5458]	BC	15	40
+1323	Delp	A	0103	Oxnard	X675000-5	 	      Di 		024	Wild	M2 V M6 V	-3	(800-1)	[0000]	B	15	-8
+1508	Delp	A	0103	Oxnard	X675000-5	 	      Di 		024	Wild	M2 V M6 V	-3	(800-2)	[0000]	B	15	-16
+1900	Delp	A	0103	Oxnard	X675000-5	 	      Di 		024	Wild	M2 V M6 V	-3	(800-2)	[0000]	B	15	-16
+
+1105	Delp	A	0105	Dunlap	A575221-B	 	     Lo 		604	ImDc	K3 V M8 V	1	(811-3)	[1317]	B	15	-24
+1201	Delp	A	0105	Dunlap	X575201-2	 	     Lo 	B	204	ImDc	K3 V M8 V	-3	(410-1)	[4165]	B	15	-4
+1323	Delp	A	0105	Dunlap	X575000-2	 	     Di 		004	Wild	K3 V M8 V	-3	(400+1)	[0000]	B	15	4
+1508	Delp	A	0105	Dunlap	X575000-2	 	     Di 		004	Wild	K3 V M8 V	-3	(400-4)	[0000]	B	15	-16
+1900	Delp	A	0105	Dunlap	X575000-2	 	     Di 		004	Wild	K3 V M8 V	-3	(400-1)	[0000]	B	15	-4
+
+1105	Delp	A	0106	Wrall	D100595-9	 	    Da  Ni Va 	A	600	ImDc	M2 V	-2	(742-4)	[3337]	B	6	-224
+1201	Delp	A	0106	Wrall	X100000-9	 	    Da  Di Va 		000	ImDc	M2 V	-2	(700-2)	[0000]	B	6	-14
+1323	Delp	A	0106	Wrall	X100000-9	 	    Da  Di Va 		000	Wild	M2 V	-2	(700-2)	[0000]	B	6	-14
+1508	Delp	A	0106	Wrall	X100000-9	 	    Da  Di Va 		000	Wild	M2 V	-2	(700-3)	[0000]	B	6	-21
+1900	Delp	A	0106	Wrall	X100000-9	 	    Da  Di Va 		000	Wild	M2 V	-2	(700+1)	[0000]	B	6	7
+
+1105	Delp	A	0107	McPherson	B564657-9	 	       Ag Ri Ni 		303	ImDc	K4 V	2	(B56+2)	[6859]	BC	10	660
+1201	Delp	A	0107	McPherson	X564673-5	 	       Ag Ri Ni 		303	ImDc	K4 V	-1	(853-1)	[4587]	BC	10	-120
+1323	Delp	A	0107	McPherson	X56467A-0	 	       Ag Ri Ni 		103	Wild	K4 V	-1	(854+2)	[4521]	BC	10	320
+1508	Delp	A	0107	McPherson	X564643-0	 	       Ag Ri Ni 		203	Wild	K4 V	-1	(852-3)	[4521]	BC	10	-240
+1900	Delp	A	0107	McPherson	X564652-1	 	       Ag Ri Ni 		303	Wild	K4 V	-1	(850-5)	[7531]	BC	10	-200
+
+1105	Delp	A	0108	Kornag	E310240-9	 	     Lo 		820	ImDc	G4 V M2 V	-2	(610-5)	[1114]	B	12	-30
+1201	Delp	A	0108	Kornag	X310000-9	 	     Di 		020	ImDc	G4 V M2 V	-2	(600-1)	[0000]	B	12	-6
+1323	Delp	A	0108	Kornag	X310000-9	 	     Di 		020	Wild	G4 V M2 V	-2	(600+1)	[0000]	B	12	6
+1508	Delp	A	0108	Kornag	X310000-9	 	     Di 		020	Wild	G4 V M2 V	-2	(600-1)	[0000]	B	12	-6
+1900	Delp	A	0108	Kornag	X310000-9	 	     Di 		020	Wild	G4 V M2 V	-2	(600+4)	[0000]	B	12	24
+
+1105	Delp	A	0109	Freyja	B435522-9	S	     Ni 		100	ImDc	G7 V	0	(744-4)	[1515]	B	9	-448
+1201	Delp	A	0109	Freyja	X435000-9	 	     Di 		000	ImDc	G7 V	-2	(700+3)	[0000]	B	9	21
+1323	Delp	A	0109	Freyja	X435000-9	 	     Di 		000	Wild	G7 V	-2	(700+1)	[0000]	B	9	7
+1508	Delp	A	0109	Freyja	X435000-9	 	     Di 		000	Wild	G7 V	-2	(700+1)	[0000]	B	9	7
+1900	Delp	A	0109	Freyja	X435000-9	 	     Di 		000	Wild	G7 V	-2	(700-2)	[0000]	B	9	-14
+
+1105	Delp	A	0110	Ravenkin	E310587-9	 	     Ni 		303	ImDc	M0 V M6 V	-2	(A42-2)	[5359]	B	6	-160
+1201	Delp	A	0110	Ravenkin	X310000-9	 	     Di 		003	ImDc	M0 V M6 V	-2	(A00+1)	[0000]	B	6	10
+1323	Delp	A	0110	Ravenkin	X310000-9	 	     Di 		003	Wild	M0 V M6 V	-2	(A00-3)	[0000]	B	6	-30
+1508	Delp	A	0110	Ravenkin	X310000-9	 	     Di 		003	Wild	M0 V M6 V	-2	(A00+1)	[0000]	B	6	10
+1900	Delp	A	0110	Ravenkin	X310000-9	 	     Di 		003	Wild	M0 V M6 V	-2	(A00-3)	[0000]	B	6	-30
+
+1105	Delp	E	0112	Catan	C679345-A	 	     Lo 		104	ImDc	M2 V M7 V	0	(920-2)	[1338]	B	10	-36
+1201	Delp	E	0112	Catan	E679200-8	 	     Lo 		304	ImDc	M2 V M7 V	-3	(910+1)	[1188]	B	10	9
+1323	Delp	E	0112	Catan	E679000-8	 	     Di 		004	Wild	M2 V M7 V	-3	(900+3)	[0000]	B	10	27
+1508	Delp	E	0112	Catan	E679000-8	 	     Di 		004	Wild	M2 V M7 V	-3	(900+4)	[0000]	B	10	36
+1900	Delp	E	0112	Catan	E679000-8	 	     Di 		004	Wild	M2 V M7 V	-3	(900-1)	[0000]	B	10	-9
+
+1105	Delp	E	0114	Leng-Hioh	D100101-7	 	     Lo Va 		423	ImDc	M0 V	-3	(300-5)	[1113]	B	11	-15
+1201	Delp	E	0114	Leng-Hioh	X100000-7	 	     Di Va 		023	ImDc	M0 V	-3	(300-1)	[0000]	B	11	-3
+1323	Delp	E	0114	Leng-Hioh	X100000-7	 	     Di Va 		023	Wild	M0 V	-3	(300-4)	[0000]	B	11	-12
+1508	Delp	E	0114	Leng-Hioh	X100000-7	 	     Di Va 		023	Wild	M0 V	-3	(300-1)	[0000]	B	11	-3
+1900	Delp	E	0114	Leng-Hioh	X100000-7	 	     Di Va 		023	Wild	M0 V	-3	(300+2)	[0000]	B	11	6
+
+1105	Delp	E	0118	Doghailen	D541458-6	 	     He Ni Po 		220	ImDc	G2 V M2 V	-3	(631-3)	[4156]	B	13	-54
+1201	Delp	E	0118	Doghailen	E541446-3	 	     He Ni Po 		220	ImDc	G2 V M2 V	-3	(631+4)	[3182]	B	13	72
+1323	Delp	E	0118	Doghailen	E541000-3	 	     Di He Po 		020	Wild	G2 V M2 V	-3	(600-3)	[0000]	B	13	-18
+1508	Delp	E	0118	Doghailen	E541000-3	 	     Di He Po 		020	Wild	G2 V M2 V	-3	(600+5)	[0000]	B	13	30
+1900	Delp	E	0118	Doghailen	E541000-3	 	     Di He Po 		020	Wild	G2 V M2 V	-3	(600+1)	[0000]	B	13	6
+
+1105	Delp	I	0122	Aprapo	C310853-8	 	     Pz  Na Pi Ph 	A	803	ImDc	M7 III	-1	(D77-4)	[5725]	BDe	6	-2548
+1201	Delp	I	0122	Aprapo	X310000-8	 	     Pz  Di Na Pi 		003	ImDc	M7 III	-3	(D00+1)	[0000]	BD	6	13
+1323	Delp	I	0122	Aprapo	X310000-8	 	     Pz  Di Na Pi 		003	Wild	M7 III	-3	(D00-3)	[0000]	BD	6	-39
+1508	Delp	I	0122	Aprapo	X310000-8	 	      Pz  Di 		003	Wild	M7 III	-3	(D00-2)	[0000]	B	6	-26
+1900	Delp	I	0122	Aprapo	X310000-8	 	      Pz  Di 		003	Wild	M7 III	-3	(D00-3)	[0000]	B	6	-39
+
+1105	Delp	I	0123	Cosimio	C667249-8	 	     Ga Lo 		903	ImDc	G0 V	-2	(710-1)	[3169]	B	15	-7
+1201	Delp	I	0123	Cosimio	D667236-5	 	     Ga Lo 		903	ImDc	G0 V	-3	(410+3)	[4145]	B	15	12
+1323	Delp	I	0123	Cosimio	D667000-5	 	     Di Ga 		003	Wild	G0 V	-3	(400+1)	[0000]	B	15	4
+1508	Delp	I	0123	Cosimio	D667000-5	 	     Di Ga 		003	Wild	G0 V	-3	(400-2)	[0000]	B	15	-8
+1900	Delp	I	0123	Cosimio	D667000-5	 	     Di Ga 		003	Wild	G0 V	-3	(400+1)	[0000]	B	15	4
+
+1105	Delp	I	0127	Kirby	B893133-8	 	     Lo 		803	ImDc	G2 V	-1	(600-4)	[1125]	B	14	-24
+1201	Delp	I	0127	Kirby	C893144-5	 	     Lo 		103	ImDc	G2 V	-2	(300+1)	[1164]	B	14	3
+1323	Delp	I	0127	Kirby	X893000-5	 	     Di 		003	Wild	G2 V	-3	(300+1)	[0000]	B	14	3
+1508	Delp	I	0127	Kirby	X893000-5	 	     Di 		003	Wild	G2 V	-3	(300+1)	[0000]	B	14	3
+1900	Delp	I	0127	Kirby	X893000-5	 	     Di 		003	Wild	G2 V	-3	(300+4)	[0000]	B	14	12
+
+1105	Delp	I	0129	Walden	E687769-4	 	     O:0329  Ag Ri Ga (NIL)		533	ImDc	G1 V	0	(966+1)	[8765]	BC	12	324
+1201	Delp	I	0129	Walden	X687734-4	 	     O:0329  Ag Ri Ga (NIL)		633	ImDc	G1 V	0	(967+4)	[8724]	BC	12	1512
+1323	Delp	I	0129	Walden	X687721-0	 	     O:0329  Ag Ri Ga (NIL)		333	Wild	G1 V	0	(964-1)	[8761]	BC	12	-216
+1508	Delp	I	0129	Walden	X68779C-0	 	     O:0329  Ag Ri Ga (NIL)		433	Wild	G1 V	0	(965+2)	[9744]	BC	12	540
+1900	Delp	I	0129	Walden	X68778B-0	 	     O:0329  Ag Ri Ga (NIL)		533	Wild	G1 V	0	(966-2)	[7771]	BC	12	-648
+
+1105	Delp	M	0133	Cey	B310101-9	 	     Lo 		412	ImDc	M6 V M8 V	0	(600-4)	[1115]	B	8	-24
+1201	Delp	M	0133	Cey	X310000-9	 	     Di 		012	ImDc	M6 V M8 V	-2	(600+2)	[0000]	B	8	12
+1323	Delp	M	0133	Cey	X310000-9	 	     Di 		012	Wild	M6 V M8 V	-2	(600-4)	[0000]	B	8	-24
+1508	Delp	M	0133	Cey	X310000-9	 	     Di 		012	Wild	M6 V M8 V	-2	(600+1)	[0000]	B	8	6
+1900	Delp	M	0133	Cey	X310000-9	 	     Di 		012	Wild	M6 V M8 V	-2	(600+3)	[0000]	B	8	18
+
+1105	Delp	M	0134	Iimnime	E767988-3	 	     Ga Hi Pr (NIL)		323	ImDc	M1 V	-1	(B86-1)	[9853]	BcE	13	-528
+1201	Delp	M	0134	Iimnime	X76796B-0	 	     Ga Hi Pr (NIL)	B	423	ImDc	M1 V	-1	(B8A-3)	[D812]	BcE	13	-2640
+1323	Delp	M	0134	Iimnime	X767974-0	 	     Ga Hi Pr (NIL)		223	Wild	M1 V	-1	(B87-2)	[4871]	BcE	13	-1232
+1508	Delp	M	0134	Iimnime	X7679CC-0	 	     Ga Hi Pr (NIL)		323	Wild	M1 V	-1	(B87+4)	[6821]	BcE	13	2464
+1900	Delp	M	0134	Iimnime	X767977-0	 	     Ga Hi Pr (NIL)		223	Wild	M1 V	-1	(B89-3)	[B841]	BcE	13	-2376
+
+1105	Delp	M	0138	Dashuun	B577765-A	 	     O:Mass-3136  Ag Pi (NIL)		612	ImDc	G0 V M8 V	3	(C6C+1)	[5A38]	BCD	9	864
+1201	Delp	M	0138	Dashuun	X57776A-5	 	     O:Mass-3136  Ag Pi (NIL)	B	612	ImDc	G0 V M8 V	-1	(964-3)	[7621]	BCD	9	-648
+1323	Delp	M	0138	Dashuun	X577000-5	 	    O:Mass-3136  Di Pi (NIL)		012	Wild	G0 V M8 V	-3	(900-5)	[0000]	BD	9	-45
+1508	Delp	M	0138	Dashuun	X577000-5	 	     O:Mass-3136  Di (NIL)		012	Wild	G0 V M8 V	-3	(900-1)	[0000]	B	9	-9
+1900	Delp	M	0138	Dashuun	X577000-5	 	     O:Mass-3136  Di (NIL)		012	Wild	G0 V M8 V	-3	(900-3)	[0000]	B	9	-27
+
+1105	Delp	M	0139	Bditri	B31079C-8	 	     Pz  Na Pi 	A	712	ImDc	G2 V	0	(C68+3)	[A78B]	BD	13	1728
+1201	Delp	M	0139	Bditri	X310000-8	 	    Pz  Di Na Pi 		012	ImDc	G2 V	-3	(C00+1)	[0000]	BD	13	12
+1323	Delp	M	0139	Bditri	X310000-8	 	    Pz  Di Na Pi 		012	Wild	G2 V	-3	(C00-2)	[0000]	BD	13	-24
+1508	Delp	M	0139	Bditri	X310000-8	 	     Pz  Di 		012	Wild	G2 V	-3	(C00-5)	[0000]	B	13	-60
+1900	Delp	M	0139	Bditri	X310000-8	 	     Pz  Di 		012	Wild	G2 V	-3	(C00-4)	[0000]	B	13	-48
+
+1105	Delp	M	0140	Critzer	C524210-7	 	     Lo 		701	ImDc	M1 V M9 V	-2	(410-5)	[1112]	B	11	-20
+1201	Delp	M	0140	Critzer	X524000-7	 	     Di 		001	ImDc	M1 V M9 V	-3	(400-1)	[0000]	B	11	-4
+1323	Delp	M	0140	Critzer	X524000-7	 	     Di 		001	Wild	M1 V M9 V	-3	(400+1)	[0000]	B	11	4
+1508	Delp	M	0140	Critzer	X524000-7	 	     Di 		001	Wild	M1 V M9 V	-3	(400+1)	[0000]	B	11	4
+1900	Delp	M	0140	Critzer	X524000-7	 	     Di 		001	Wild	M1 V M9 V	-3	(400+2)	[0000]	B	11	8
+
+1105	Delp	A	0202	Ewoin	X66487A-2	 	     Fo DroyW  Pa Ri Ph (NIL)	R	204	ImDc	M3 V	-1	(A74+1)	[A774]	BcCe	9	280
+1201	Delp	A	0202	Ewoin	X664885-0	 	     Fo DroyW  Pa Ri Ph (NIL)	B	304	ImDc	M3 V	-1	(A77+1)	[8745]	BcCe	9	490
+1323	Delp	A	0202	Ewoin	X664877-0	 	     Fo DroyW  Pa Ri Ph (NIL)		104	Wild	M3 V	-1	(A73-4)	[7721]	BcCe	9	-840
+1508	Delp	A	0202	Ewoin	X664796-1	 	      Fo DroyW  Ag Ri (NIL)		904	Wild	M3 V	0	(A63-2)	[A751]	BC	9	-360
+1900	Delp	A	0202	Ewoin	X664743-2	 	      Fo DroyW  Ag Ri (NIL)		804	Wild	M3 V	0	(A68+2)	[3762]	BC	9	960
+
+1105	Delp	A	0204	Per	B100532-D	 	     Ni Va 		925	ImDc	M2 V	1	(E45-3)	[1619]	B	11	-840
+1201	Delp	A	0204	Per	X100000-D	 	     Di Va 		025	ImDc	M2 V	-1	(E00+1)	[0000]	B	11	14
+1323	Delp	A	0204	Per	X100000-D	 	     Di Va 		025	Wild	M2 V	-1	(E00-2)	[0000]	B	11	-28
+1508	Delp	A	0204	Per	X100000-D	 	     Di Va 		025	Wild	M2 V	-1	(E00+3)	[0000]	B	11	42
+1900	Delp	A	0204	Per	X100000-D	 	     Di Va 		025	Wild	M2 V	-1	(E00-3)	[0000]	B	11	-42
+
+1105	Delp	A	0205	Dareene	X526300-7	 	    Fo  Lo 	R	125	ImDc	M1 V	-3	(520-5)	[1112]	B	10	-50
+1201	Delp	A	0205	Dareene	X526000-7	 	    Fo  Di 		025	ImDc	M1 V	-3	(500-3)	[0000]	B	10	-15
+1323	Delp	A	0205	Dareene	X526000-7	 	    Fo  Di 		025	Wild	M1 V	-3	(500-1)	[0000]	B	10	-5
+1508	Delp	A	0205	Dareene	X526000-7	 	    Fo  Di 		025	Wild	M1 V	-3	(500-3)	[0000]	B	10	-15
+1900	Delp	A	0205	Dareene	X526000-7	 	    Fo  Di 		025	Wild	M1 V	-3	(500+2)	[0000]	B	10	10
+
+1105	Delp	A	0209	Waconthaco	C693656-7	 	     Ni 		201	ImDc	M2 V M8 V	-2	(852-3)	[5446]	B	11	-240
+1201	Delp	A	0209	Waconthaco	X69367B-5	 	     Ni 		301	ImDc	M2 V M8 V	-3	(851-4)	[2358]	B	11	-160
+1323	Delp	A	0209	Waconthaco	X693000-5	 	     Di 		001	Wild	M2 V M8 V	-3	(800+1)	[0000]	B	11	8
+1508	Delp	A	0209	Waconthaco	X693000-5	 	     Di 		001	Wild	M2 V M8 V	-3	(800+4)	[0000]	B	11	32
+1900	Delp	A	0209	Waconthaco	X693000-5	 	     Di 		001	Wild	M2 V M8 V	-3	(800-3)	[0000]	B	11	-24
+
+1105	Delp	A	0210	Ceileachan	D428896-8	 	     Ph Pi (NIL)		103	ImDc	K1 V	-2	(D76-3)	[7647]	BDe	7	-1638
+1201	Delp	A	0210	Ceileachan	X428000-8	 	     Di Pi (NIL)		003	ImDc	K1 V	-3	(D00+1)	[0000]	BD	7	13
+1323	Delp	A	0210	Ceileachan	X428000-8	 	     Di Pi (NIL)		003	Wild	K1 V	-3	(D00+1)	[0000]	BD	7	13
+1508	Delp	A	0210	Ceileachan	X428000-8	 	      Di (NIL)		003	Wild	K1 V	-3	(D00-5)	[0000]	B	7	-65
+1900	Delp	A	0210	Ceileachan	X428000-8	 	      Di (NIL)		003	Wild	K1 V	-3	(D00-2)	[0000]	B	7	-26
+
+1105	Delp	E	0211	Ildwater	C310510-7	S	     Ni 		624	ImDc	M0 V M2 V	-2	(742-5)	[1312]	B	12	-280
+1201	Delp	E	0211	Ildwater	X310000-7	 	     Di 		024	ImDc	M0 V M2 V	-3	(700+3)	[0000]	B	12	21
+1323	Delp	E	0211	Ildwater	X310000-7	 	     Di 		024	Wild	M0 V M2 V	-3	(700-3)	[0000]	B	12	-21
+1508	Delp	E	0211	Ildwater	X310000-7	 	     Di 		024	Wild	M0 V M2 V	-3	(700-1)	[0000]	B	12	-7
+1900	Delp	E	0211	Ildwater	X310000-7	 	     Di 		024	Wild	M0 V M2 V	-3	(700+2)	[0000]	B	12	14
+
+1105	Delp	E	0214	Moravia	D627364-7	 	    O:0313  Lo 		301	ImDc	M0 V	-3	(520-5)	[1135]	B	11	-50
+1201	Delp	E	0214	Moravia	X627000-7	 	    O:0313  Di 		001	ImDc	M0 V	-3	(500+1)	[0000]	B	11	5
+1323	Delp	E	0214	Moravia	X627000-7	 	    O:0313  Di 		001	Wild	M0 V	-3	(500-2)	[0000]	B	11	-10
+1508	Delp	E	0214	Moravia	X627000-7	 	    O:0313  Di 		001	Wild	M0 V	-3	(500+5)	[0000]	B	11	25
+1900	Delp	E	0214	Moravia	X627000-7	 	    O:0313  Di 		001	Wild	M0 V	-3	(500-1)	[0000]	B	11	-5
+
+1105	Delp	E	0218	Linor	B544524-8	 	     Ag Ni 		824	ImDc	M0 V	0	(D44-2)	[3536]	BC	9	-416
+1201	Delp	E	0218	Linor	D544549-5	 	     Ag Ni 	B	524	ImDc	M0 V	-2	(741+1)	[2314]	BC	9	28
+1323	Delp	E	0218	Linor	D544000-5	 	      Di 		024	Wild	M0 V	-3	(700+1)	[0000]	B	9	7
+1508	Delp	E	0218	Linor	D544000-5	 	      Di 		024	Wild	M0 V	-3	(700-3)	[0000]	B	9	-21
+1900	Delp	E	0218	Linor	D544000-5	 	      Di 		024	Wild	M0 V	-3	(700+1)	[0000]	B	9	7
+
+1105	Delp	E	0219	Yildiz	C566430-6	 	     Ni Pa 		205	ImDc	M0 V M4 V	-2	(631-5)	[1211]	Bc	12	-90
+1201	Delp	E	0219	Yildiz	D56648A-2	 	     Ni Pa 	B	205	ImDc	M0 V M4 V	-3	(630-1)	[6121]	Bc	12	-18
+1323	Delp	E	0219	Yildiz	D566426-2	 	     Ni Pa 		105	Wild	M0 V M4 V	-3	(630+1)	[2134]	Bc	12	18
+1508	Delp	E	0219	Yildiz	D566334-3	 	      Lo 		905	Wild	M0 V M4 V	-3	(620+1)	[4124]	B	12	12
+1900	Delp	E	0219	Yildiz	D566423-4	 	     Ni Pa 		105	Wild	M0 V M4 V	-3	(631-2)	[3162]	Bc	12	-36
+
+1105	Delp	E	0220	Winnie	A100124-D	 	     Lo Va 		910	ImDc	M0 V M2 V	1	(401-1)	[123B]	B	14	-4
+1201	Delp	E	0220	Winnie	X100000-D	 	     Di Va 		010	ImDc	M0 V M2 V	-1	(400-4)	[0000]	B	14	-16
+1323	Delp	E	0220	Winnie	X100000-D	 	     Di Va 		010	Wild	M0 V M2 V	-1	(400-2)	[0000]	B	14	-8
+1508	Delp	E	0220	Winnie	X100000-D	 	     Di Va 		010	Wild	M0 V M2 V	-1	(400-4)	[0000]	B	14	-16
+1900	Delp	E	0220	Winnie	X100000-D	 	     Di Va 		010	Wild	M0 V M2 V	-1	(400-1)	[0000]	B	14	-4
+
+1105	Delp	I	0222	Duana	B653203-9	 	    Da  Lo Po 	A	604	ImDc	K1 V M9 V	0	(810-3)	[1226]	B	8	-24
+1201	Delp	I	0222	Duana	D653300-6	 	    Da  Lo Po 		404	ImDc	K1 V M9 V	-3	(420+1)	[4158]	B	8	8
+1323	Delp	I	0222	Duana	D653000-6	 	    Da  Di Po 		004	Wild	K1 V M9 V	-3	(400+2)	[0000]	B	8	8
+1508	Delp	I	0222	Duana	D653000-6	 	    Da  Di Po 		004	Wild	K1 V M9 V	-3	(400+5)	[0000]	B	8	20
+1900	Delp	I	0222	Duana	D653000-6	 	    Da  Di Po 		004	Wild	K1 V M9 V	-3	(400-3)	[0000]	B	8	-12
+
+1105	Delp	I	0225	Monmouth	D893277-5	 	     Lo 		923	ImDc	K6 V M1 V	-3	(410-3)	[2155]	B	11	-12
+1201	Delp	I	0225	Monmouth	X893146-3	 	     Lo 	B	623	ImDc	K6 V M1 V	-3	(400+5)	[6116]	B	11	20
+1323	Delp	I	0225	Monmouth	X893000-3	 	     Di 		023	Wild	K6 V M1 V	-3	(400+2)	[0000]	B	11	8
+1508	Delp	I	0225	Monmouth	X893000-3	 	     Di 		023	Wild	K6 V M1 V	-3	(400+1)	[0000]	B	11	4
+1900	Delp	I	0225	Monmouth	X893000-3	 	     Di 		023	Wild	K6 V M1 V	-3	(400-3)	[0000]	B	11	-12
+
+1105	Delp	I	0226	Bishan	D7699DH-4	 	    Pz  Hi Pr (NIL)	A	304	ImDc	M1 V	-1	(B86+4)	[E8A9]	BcE	8	2112
+1201	Delp	I	0226	Bishan	X769967-1	 	    Pz  Hi Pr (NIL)	B	404	ImDc	M1 V	-1	(B86-3)	[B844]	BcE	8	-1584
+1323	Delp	I	0226	Bishan	X7699CE-0	 	    Pz  Hi Pr (NIL)		204	Wild	M1 V	-1	(B8A-4)	[9884]	BcE	8	-3520
+1508	Delp	I	0226	Bishan	X769946-0	 	    Pz  Hi Pr (NIL)		304	Wild	M1 V	-1	(B8A+1)	[9842]	BcE	8	880
+1900	Delp	I	0226	Bishan	X769972-0	 	    Pz  Hi Pr (NIL)		204	Wild	M1 V	-1	(B88-3)	[8871]	BcE	8	-2112
+
+1105	Delp	I	0228	Koenig	B792841-8	 	     He Ph Pi (NIL)		603	ImDc	M1 V	0	(D78-4)	[4814]	BDe	14	-2912
+1201	Delp	I	0228	Koenig	D792443-7	 	      He Ni (NIL)	B	403	ImDc	M1 V	-3	(A30-2)	[6118]	B	14	-60
+1323	Delp	I	0228	Koenig	D792000-7	 	      Di He (NIL)		003	Wild	M1 V	-3	(A00+1)	[0000]	B	14	10
+1508	Delp	I	0228	Koenig	D792000-7	 	      Di He (NIL)		003	Wild	M1 V	-3	(A00+1)	[0000]	B	14	10
+1900	Delp	I	0228	Koenig	D792000-7	 	      Di He (NIL)		003	Wild	M1 V	-3	(A00+1)	[0000]	B	14	10
+
+1105	Delp	M	0238	Facendaa	D20068D-7	 	    Da  Na Ni Va 	A	601	ImDc	A4 V D	-3	(851+1)	[A39B]	B	13	40
+1201	Delp	M	0238	Facendaa	X200000-7	 	    Da  Di Na Va 		001	ImDc	A4 V D	-3	(800-4)	[0000]	B	13	-32
+1323	Delp	M	0238	Facendaa	X200000-7	 	    Da  Di Na Va 		001	Wild	A4 V D	-3	(800+2)	[0000]	B	13	16
+1508	Delp	M	0238	Facendaa	X200000-7	 	     Da  Di Va 		001	Wild	A4 V D	-3	(800+1)	[0000]	B	13	8
+1900	Delp	M	0238	Facendaa	X200000-7	 	     Da  Di Va 		001	Wild	A4 V D	-3	(800+1)	[0000]	B	13	8
+
+1105	Delp	A	0303	Ziraa	C5559EJ-6	 	    Pz  Hi (NIL)	A	914	ImDc	K6 V	0	(B88+5)	[E9AB]	BE	13	3520
+1201	Delp	A	0303	Ziraa	E555783-6	 	    Pz  Ag (NIL)		114	ImDc	K6 V	-1	(B69+3)	[A666]	BC	13	1782
+1323	Delp	A	0303	Ziraa	E555673-0	 	   Pz  Ag Ni (NIL)		514	Wild	K6 V	-2	(B51+1)	[9452]	BC	13	55
+1508	Delp	A	0303	Ziraa	E555630-1	 	   Pz  Ag Ni (NIL)		614	Wild	K6 V	-2	(B50-3)	[5441]	BC	13	-165
+1900	Delp	A	0303	Ziraa	E555676-2	 	   Pz  Ag Ni (NIL)		514	Wild	K6 V	-2	(B51+1)	[6441]	BC	13	55
+
+1105	Delp	A	0310	Irishmen	B547645-5	N 	    Da  Ag Ni 	A	305	ImDc	M1 V M6 V	0	(854-2)	[4633]	BC	10	-320
+1201	Delp	A	0310	Irishmen	D547687-5	 	    Da  Ag Ni 	B	405	ImDc	M1 V M6 V	-2	(853+1)	[6445]	BC	10	120
+1323	Delp	A	0310	Irishmen	D547000-5	 	     Da  Di 		005	Wild	M1 V M6 V	-3	(800-3)	[0000]	B	10	-24
+1508	Delp	A	0310	Irishmen	D547000-5	 	     Da  Di 		005	Wild	M1 V M6 V	-3	(800+4)	[0000]	B	10	32
+1900	Delp	A	0310	Irishmen	D547000-5	 	     Da  Di 		005	Wild	M1 V M6 V	-3	(800+1)	[0000]	B	10	8
+
+1105	Delp	E	0311	Croftes	C676223-7	 	     Lo 		901	ImDc	K3 V	-2	(410-5)	[1124]	B	5	-20
+1201	Delp	E	0311	Croftes	E676173-5	 	     Lo 		801	ImDc	K3 V	-3	(400+4)	[1191]	B	5	16
+1323	Delp	E	0311	Croftes	E676000-5	 	     Di 		001	Wild	K3 V	-3	(400-3)	[0000]	B	5	-12
+1508	Delp	E	0311	Croftes	E676000-5	 	     Di 		001	Wild	K3 V	-3	(400+2)	[0000]	B	5	8
+1900	Delp	E	0311	Croftes	E676000-5	 	     Di 		001	Wild	K3 V	-3	(400+2)	[0000]	B	5	8
+
+1105	Delp	E	0312	Font	E557545-6	 	     Ag Ni 		304	ImDc	M2 V	-2	(742-4)	[3334]	BC	11	-224
+1201	Delp	E	0312	Font	X557578-5	 	     Ag Ni 	B	204	ImDc	M2 V	-2	(741+1)	[4374]	BC	11	28
+1323	Delp	E	0312	Font	X557574-0	 	     Ag Ni 		104	Wild	M2 V	-2	(744-3)	[9391]	BC	11	-336
+1508	Delp	E	0312	Font	X557447-1	 	     Ni Pa 		904	Wild	M2 V	-3	(730-4)	[1171]	Bc	11	-84
+1900	Delp	E	0312	Font	X557445-2	 	     Ni Pa 		904	Wild	M2 V	-3	(730-5)	[3161]	Bc	11	-105
+
+1105	Delp	E	0313	Zukhimi	A427979-B	 	      Hi In (NIL)		313	ImDc	M2 V M7 V	4	(F8F+5)	[AD6C]	BEf	15	9000
+1201	Delp	E	0313	Zukhimi	X427000-B	 	      Di In (NIL)		013	ImDc	M2 V M7 V	0	(F00-3)	[0000]	BE	15	-45
+1323	Delp	E	0313	Zukhimi	X427000-B	 	      Di In (NIL)		013	Wild	M2 V M7 V	0	(F00+3)	[0000]	BE	15	45
+1508	Delp	E	0313	Zukhimi	X427000-B	 	       Di (NIL)		013	Wild	M2 V M7 V	-1	(F00+2)	[0000]	B	15	30
+1900	Delp	E	0313	Zukhimi	X427000-B	 	       Di (NIL)		013	Wild	M2 V M7 V	-1	(F00-3)	[0000]	B	15	-45
+
+1105	Delp	E	0314	Soranal	A687374-8	 	     Ga Lo 		500	ImDc	G1 V M1 V	-1	(520-3)	[1236]	B	10	-30
+1201	Delp	E	0314	Soranal	C687210-4	 	     Ga Lo 	B	700	ImDc	G1 V M1 V	-2	(510+1)	[1123]	B	10	5
+1323	Delp	E	0314	Soranal	E687000-4	 	     Di Ga 		000	Wild	G1 V M1 V	-3	(500+3)	[0000]	B	10	15
+1508	Delp	E	0314	Soranal	E687000-4	 	     Di Ga 		000	Wild	G1 V M1 V	-3	(500+2)	[0000]	B	10	10
+1900	Delp	E	0314	Soranal	E687000-4	 	     Di Ga 		000	Wild	G1 V M1 V	-3	(500+2)	[0000]	B	10	10
+
+1105	Delp	E	0316	Hlutwig	B5777C9-6	 	     Pz  Ag Pi (NIL)	A	405	ImDc	K3 V	1	(968+2)	[8867]	BCD	8	864
+1201	Delp	E	0316	Hlutwig	D577779-3	 	     Pz  Ag Pi (NIL)	B	505	ImDc	K3 V	-1	(962+1)	[5615]	BCD	8	108
+1323	Delp	E	0316	Hlutwig	D577749-0	 	     Pz  Ag Pi (NIL)		205	Wild	K3 V	-1	(967-3)	[5651]	BCD	8	-1134
+1508	Delp	E	0316	Hlutwig	D5777AB-1	 	     Pz  Ag Pi (NIL)		305	Wild	K3 V	-1	(96A+1)	[3653]	BCD	8	540
+1900	Delp	E	0316	Hlutwig	D577736-2	 	     Pz  Ag Pi (NIL)		305	Wild	K3 V	-1	(965+3)	[5632]	BCD	8	810
+
+1105	Delp	E	0317	Bootes	A3106B9-C	N 	    Da  Na Ni 	A	520	ImDc	K0 V	1	(A55+2)	[776D]	B	11	500
+1201	Delp	E	0317	Bootes	X310000-C	 	    Da  Di Na 		020	ImDc	K0 V	-1	(A00+3)	[0000]	B	11	30
+1323	Delp	E	0317	Bootes	X310000-C	 	    Da  Di Na 		020	Wild	K0 V	-1	(A00+1)	[0000]	B	11	10
+1508	Delp	E	0317	Bootes	X310000-C	 	     Da  Di 		020	Wild	K0 V	-1	(A00+1)	[0000]	B	11	10
+1900	Delp	E	0317	Bootes	X310000-C	 	     Da  Di 		020	Wild	K0 V	-1	(A00-1)	[0000]	B	11	-10
+
+1105	Delp	E	0319	McCallum	D786885-3	S	      Ga Pa Ri Ph (NIL)		612	ImDc	M0 V M4 V	-1	(A75-3)	[6731]	BcCe	10	-1050
+1201	Delp	E	0319	McCallum	X786878-3	 	      Ga Pa Ri Ph (NIL)	B	712	ImDc	M0 V M4 V	-1	(A76+1)	[7753]	BcCe	10	420
+1323	Delp	E	0319	McCallum	X78689B-0	 	      Ga Pa Ri Ph (NIL)		312	Wild	M0 V M4 V	-1	(A77+1)	[B731]	BcCe	10	490
+1508	Delp	E	0319	McCallum	X7868BF-0	 	      Ga Pa Ri Ph (NIL)		212	Wild	M0 V M4 V	-1	(A71-3)	[9791]	BcCe	10	-210
+1900	Delp	E	0319	McCallum	X786876-0	 	      Ga Pa Ri Ph (NIL)		112	Wild	M0 V M4 V	-1	(A77+2)	[5751]	BcCe	10	980
+
+1105	Delp	E	0320	Dyce	C432576-9	 	     Ni Px Po 		302	ImDc	K4 V	-1	(943-2)	[4448]	B	12	-216
+1201	Delp	E	0320	Dyce	X432000-9	 	     Di Px Po 		002	ImDc	K4 V	-2	(900+1)	[0000]	B	12	9
+1323	Delp	E	0320	Dyce	X432000-9	 	     Di Px Po 		002	Wild	K4 V	-2	(900+3)	[0000]	B	12	27
+1508	Delp	E	0320	Dyce	X432000-9	 	     Di Po 		002	Wild	K4 V	-2	(900+3)	[0000]	B	12	27
+1900	Delp	E	0320	Dyce	X432000-9	 	     Di Po 		002	Wild	K4 V	-2	(900+1)	[0000]	B	12	9
+
+1105	Delp	I	0328	Napoleonic	E423633-7	 	     Da  Na Po Ni 	A	204	ImDc	M1 V M3 V	-3	(851-5)	[3324]	B	13	-200
+1201	Delp	I	0328	Napoleonic	X423000-7	 	     Da  Di Na Po 		004	ImDc	M1 V M3 V	-3	(800-2)	[0000]	B	13	-16
+1323	Delp	I	0328	Napoleonic	X423000-7	 	     Da  Di Na Po 		004	Wild	M1 V M3 V	-3	(800+1)	[0000]	B	13	8
+1508	Delp	I	0328	Napoleonic	X423000-7	 	     Da  Di Po 		004	Wild	M1 V M3 V	-3	(800-4)	[0000]	B	13	-32
+1900	Delp	I	0328	Napoleonic	X423000-7	 	     Da  Di Po 		004	Wild	M1 V M3 V	-3	(800-3)	[0000]	B	13	-24
+
+1105	Delp	I	0329	Aklan	B573986-B	 	     Hi In (NIL)		503	ImDc	K2 V M3 V	4	(E8F+3)	[8D4A]	BEf	12	5040
+1201	Delp	I	0329	Aklan	D573555-5	 	      Ni (NIL)		303	ImDc	K2 V M3 V	-3	(B41+1)	[7284]	B	12	44
+1323	Delp	I	0329	Aklan	D573000-5	 	      Di (NIL)		003	Wild	K2 V M3 V	-3	(B00+1)	[0000]	B	12	11
+1508	Delp	I	0329	Aklan	D573000-5	 	      Di (NIL)		003	Wild	K2 V M3 V	-3	(B00-2)	[0000]	B	12	-22
+1900	Delp	I	0329	Aklan	D573000-5	 	      Di (NIL)		003	Wild	K2 V M3 V	-3	(B00-1)	[0000]	B	12	-11
+
+1105	Delp	I	0330	Zarkov	C777843-5	 	      Pa Pi Ph (NIL)		522	ImDc	M2 V	-1	(A76-4)	[5722]	BcDe	7	-1680
+1201	Delp	I	0330	Zarkov	E777876-4	 	      Pa Pi Ph (NIL)	B	622	ImDc	M2 V	-2	(A74+1)	[5653]	BcDe	7	280
+1323	Delp	I	0330	Zarkov	E7778BA-1	 	      Pa Pi Ph (NIL)		322	Wild	M2 V	-2	(A70+3)	[9645]	BcDe	7	210
+1508	Delp	I	0330	Zarkov	E7778AA-2	 	      Pa Pi Ph (NIL)		222	Wild	M2 V	-2	(A78+2)	[8674]	BcDe	7	1120
+1900	Delp	I	0330	Zarkov	E777878-3	 	      Pa Pi Ph (NIL)		322	Wild	M2 V	-2	(A76-5)	[C621]	BcDe	7	-2100
+
+1105	Delp	M	0332	Vessaal	B583675-6	 	     Ni Ri 		923	ImDc	M1 V M3 V	0	(854-2)	[4634]	BC	9	-320
+1201	Delp	M	0332	Vessaal	D583796-6	 	      Ri 	B	123	ImDc	M1 V M3 V	-1	(862+4)	[B648]	BC	9	384
+1323	Delp	M	0332	Vessaal	D58369A-0	 	     Ni Ri 		523	Wild	M1 V M3 V	-2	(851+1)	[6461]	BC	9	40
+1508	Delp	M	0332	Vessaal	D583699-1	 	     Ni Ri 		423	Wild	M1 V M3 V	-2	(852-1)	[3461]	BC	9	-80
+1900	Delp	M	0332	Vessaal	D583678-2	 	     Ni Ri 		523	Wild	M1 V M3 V	-2	(853-3)	[6467]	BC	9	-360
+
+1105	Delp	M	0334	Huette	E655452-8	 	     Ga Ni Pa 		403	ImDc	K1 V M4 V	-3	(931-5)	[1114]	Bc	9	-135
+1201	Delp	M	0334	Huette	X655424-7	 	     Ga Ni Pa 		303	ImDc	K1 V M4 V	-3	(630+1)	[4113]	Bc	9	18
+1323	Delp	M	0334	Huette	X655410-1	 	     Ga Ni Pa 		103	Wild	K1 V M4 V	-3	(632+1)	[4131]	Bc	9	36
+1508	Delp	M	0334	Huette	X655335-2	 	      Ga Lo 		903	Wild	K1 V M4 V	-3	(620+3)	[3144]	B	9	36
+1900	Delp	M	0334	Huette	X655346-3	 	      Ga Lo 		803	Wild	K1 V M4 V	-3	(620-2)	[2151]	B	9	-24
+
+1105	Delp	M	0339	Zeno	C591679-7	 	     He Ni 		403	ImDc	M1 V	-2	(852-1)	[7468]	B	11	-80
+1201	Delp	M	0339	Zeno	E591674-7	 	     He Ni 		503	ImDc	M1 V	-3	(850+2)	[3347]	B	11	80
+1323	Delp	M	0339	Zeno	E591000-7	 	     Di He 		003	Wild	M1 V	-3	(800-2)	[0000]	B	11	-16
+1508	Delp	M	0339	Zeno	E591000-7	 	     Di He 		003	Wild	M1 V	-3	(800+1)	[0000]	B	11	8
+1900	Delp	M	0339	Zeno	E591000-7	 	     Di He 		003	Wild	M1 V	-3	(800-3)	[0000]	B	11	-24
+
+1105	Delp	A	0401	Lloyd	X994433-5	 	    Fo  Ni Pa 	R	625	ImDc	G2 V M0 V	-3	(631-5)	[1122]	Bc	10	-90
+1201	Delp	A	0401	Lloyd	X994425-4	 	    Fo  Ni Pa 	B	425	ImDc	G2 V M0 V	-3	(630-3)	[1154]	Bc	10	-54
+1323	Delp	A	0401	Lloyd	X994000-4	 	     Fo  Di 		025	Wild	G2 V M0 V	-3	(600-2)	[0000]	B	10	-12
+1508	Delp	A	0401	Lloyd	X994000-4	 	     Fo  Di 		025	Wild	G2 V M0 V	-3	(600+3)	[0000]	B	10	18
+1900	Delp	A	0401	Lloyd	X994000-4	 	     Fo  Di 		025	Wild	G2 V M0 V	-3	(600+2)	[0000]	B	10	12
+
+1105	Delp	A	0403	Raritan	C573452-9	 	     Ni 		904	ImDc	K2 V M6 V M1 V	-1	(A32-5)	[1315]	B	12	-300
+1201	Delp	A	0403	Raritan	D573455-2	 	     Ni 		504	ImDc	K2 V M6 V M1 V	-3	(633+4)	[4194]	B	12	216
+1323	Delp	A	0403	Raritan	D573000-2	 	     Di 		004	Wild	K2 V M6 V M1 V	-3	(600-1)	[0000]	B	12	-6
+1508	Delp	A	0403	Raritan	D573000-2	 	     Di 		004	Wild	K2 V M6 V M1 V	-3	(600-2)	[0000]	B	12	-12
+1900	Delp	A	0403	Raritan	D573000-2	 	     Di 		004	Wild	K2 V M6 V M1 V	-3	(600-2)	[0000]	B	12	-12
+
+1105	Delp	A	0407	Naldo	C664897-7	 	     Pz  Pa Ri Ph (NIL)	A	900	ImDc	K3 V	0	(A78+1)	[8857]	BcCe	9	560
+1201	Delp	A	0407	Naldo	D664943-6	 	     Pz  Hi Pr (NIL)	B	100	ImDc	K3 V	-1	(A8A-5)	[C868]	BcE	9	-4000
+1323	Delp	A	0407	Naldo	D664877-3	 	     Pz  Pa Ri Ph (NIL)		500	Wild	K3 V	-1	(A78-4)	[5734]	BcCe	9	-2240
+1508	Delp	A	0407	Naldo	D6648BC-4	 	     Pz  Pa Ri Ph (NIL)		400	Wild	K3 V	-1	(A76+2)	[8745]	BcCe	9	840
+1900	Delp	A	0407	Naldo	D664888-5	 	     Pz  Pa Ri Ph (NIL)		500	Wild	K3 V	-1	(A75+3)	[7763]	BcCe	9	1050
+
+1105	Delp	A	0410	Wade	C645311-7	 	     Lo 		213	ImDc	M3 V M6 V	-2	(520-5)	[1113]	B	13	-50
+1201	Delp	A	0410	Wade	E645125-6	 	     Lo 		913	ImDc	M3 V M6 V	-3	(500-2)	[1159]	B	13	-10
+1323	Delp	A	0410	Wade	E645000-6	 	     Di 		013	Wild	M3 V M6 V	-3	(500+2)	[0000]	B	13	10
+1508	Delp	A	0410	Wade	E645000-6	 	     Di 		013	Wild	M3 V M6 V	-3	(500+2)	[0000]	B	13	10
+1900	Delp	A	0410	Wade	E645000-6	 	     Di 		013	Wild	M3 V M6 V	-3	(500+1)	[0000]	B	13	5
+
+1105	Delp	E	0411	Ffort	D66A557-7	W	     Ni Pr Wa 		312	ImDc	G6 V M5 V	-2	(742-2)	[5357]	Bc	13	-112
+1201	Delp	E	0411	Ffort	X66A579-6	 	     Ni Pr Wa 		212	ImDc	G6 V M5 V	-3	(740+1)	[421A]	Bc	13	28
+1323	Delp	E	0411	Ffort	X66A576-0	 	     Ni Pr Wa 		112	Wild	G6 V M5 V	-3	(741-5)	[3241]	Bc	13	-140
+1508	Delp	E	0411	Ffort	X66A57B-1	 	     Ni Pr Wa 		212	Wild	G6 V M5 V	-3	(742+1)	[7241]	Bc	13	56
+1900	Delp	E	0411	Ffort	X66A579-2	 	     Ni Pr Wa 		212	Wild	G6 V M5 V	-3	(740+1)	[4241]	Bc	13	28
+
+1105	Delp	E	0413	Orlando	E673785-6	 	     Pi (NIL)		720	ImDc	M1 V M2 V	-2	(965-4)	[5534]	BD	14	-1080
+1201	Delp	E	0413	Orlando	X673779-6	 	     Pi (NIL)	B	820	ImDc	M1 V M2 V	-2	(968+3)	[3515]	BD	14	1296
+1323	Delp	E	0413	Orlando	X67379B-0	 	     Pi (NIL)		420	Wild	M1 V M2 V	-2	(964-2)	[4562]	BD	14	-432
+1508	Delp	E	0413	Orlando	X67377A-1	 	     Pi (NIL)		520	Wild	M1 V M2 V	-2	(963-2)	[B591]	BD	14	-324
+1900	Delp	E	0413	Orlando	X6737AE-2	 	     Pi (NIL)		620	Wild	M1 V M2 V	-2	(964-4)	[5551]	BD	14	-864
+
+1105	Delp	E	0415	Althea	C88A300-A	 	     Lo Wa 		904	ImDc	M3 V M3 V	0	(920-4)	[1315]	B	10	-72
+1201	Delp	E	0415	Althea	X88A210-5	 	     Lo Wa 	B	304	ImDc	M3 V M3 V	-3	(510+1)	[3117]	B	10	5
+1323	Delp	E	0415	Althea	X88A000-5	 	     Di Wa 		004	Wild	M3 V M3 V	-3	(500+1)	[0000]	B	10	5
+1508	Delp	E	0415	Althea	X88A000-5	 	     Di Wa 		004	Wild	M3 V M3 V	-3	(500-3)	[0000]	B	10	-15
+1900	Delp	E	0415	Althea	X88A000-5	 	     Di Wa 		004	Wild	M3 V M3 V	-3	(500+3)	[0000]	B	10	15
+
+1105	Delp	I	0421	Withern	C100963-B	 	     O:0623  Cy Hi Na In Va 		603	ImDc	M2 V M9 V	3	(E8E+1)	[6C28]	BE	7	1568
+1201	Delp	I	0421	Withern	X100000-B	 	     O:0623  Cy Di Na In Va 		003	ImDc	M2 V M9 V	0	(E00+4)	[0000]	BE	7	56
+1323	Delp	I	0421	Withern	X100000-B	 	     O:0623  Cy Di Na In Va 		003	Wild	M2 V M9 V	0	(E00+1)	[0000]	BE	7	14
+1508	Delp	I	0421	Withern	X100000-B	 	      O:0623  Di Va 		003	Wild	M2 V M9 V	-1	(E00+1)	[0000]	B	7	14
+1900	Delp	I	0421	Withern	X100000-B	 	      O:0623  Di Va 		003	Wild	M2 V M9 V	-1	(E00-2)	[0000]	B	7	-28
+
+1105	Delp	I	0422	Dunk	C769AEF-B	 	    Pz  Hi (NIL)	A	713	ImDc	G3 V	2	(G9D+5)	[FCAG]	BE	11	9360
+1201	Delp	I	0422	Dunk	X769424-4	 	    Pz  Ni (NIL)	B	413	ImDc	G3 V	-3	(C30+1)	[3162]	B	11	36
+1323	Delp	I	0422	Dunk	X769000-4	 	    Pz  Di (NIL)		013	Wild	G3 V	-3	(C00+1)	[0000]	B	11	12
+1508	Delp	I	0422	Dunk	X769000-4	 	    Pz  Di (NIL)		013	Wild	G3 V	-3	(C00-3)	[0000]	B	11	-36
+1900	Delp	I	0422	Dunk	X769000-4	 	    Pz  Di (NIL)		013	Wild	G3 V	-3	(C00-2)	[0000]	B	11	-24
+
+1105	Delp	I	0423	Byrd	B300343-D	 	     Lo Va 		300	ImDc	A9 V	1	(521-2)	[142A]	B	9	-20
+1201	Delp	I	0423	Byrd	X300000-D	 	     Di Va 		000	ImDc	A9 V	-1	(500+2)	[0000]	B	9	10
+1323	Delp	I	0423	Byrd	X300000-D	 	     Di Va 		000	Wild	A9 V	-1	(500-2)	[0000]	B	9	-10
+1508	Delp	I	0423	Byrd	X300000-D	 	     Di Va 		000	Wild	A9 V	-1	(500+1)	[0000]	B	9	5
+1900	Delp	I	0423	Byrd	X300000-D	 	     Di Va 		000	Wild	A9 V	-1	(500-4)	[0000]	B	9	-20
+
+1105	Delp	I	0425	Steinngium	D63245A-6	 	    Da  Ni Po 	A	804	ImDc	F3 V	-3	(631-1)	[6178]	B	14	-18
+1201	Delp	I	0425	Steinngium	X632000-6	 	    Da  Di Po 		004	ImDc	F3 V	-3	(600-2)	[0000]	B	14	-12
+1323	Delp	I	0425	Steinngium	X632000-6	 	    Da  Di Po 		004	Wild	F3 V	-3	(600+4)	[0000]	B	14	24
+1508	Delp	I	0425	Steinngium	X632000-6	 	    Da  Di Po 		004	Wild	F3 V	-3	(600+1)	[0000]	B	14	6
+1900	Delp	I	0425	Steinngium	X632000-6	 	    Da  Di Po 		004	Wild	F3 V	-3	(600-2)	[0000]	B	14	-12
+
+1105	Delp	I	0427	Irys	B88957A-B	 	     Ni Pr 		405	ImDc	M0 V M5 V M2 V	1	(C45+3)	[767D]	Bc	11	720
+1201	Delp	I	0427	Irys	D88959C-8	 	     Ni Pr 	B	305	ImDc	M0 V M5 V M2 V	-3	(C42-4)	[626D]	Bc	11	-384
+1323	Delp	I	0427	Irys	D889421-5	 	      Ni 		105	Wild	M0 V M5 V M2 V	-3	(730+1)	[1124]	B	11	21
+1508	Delp	I	0427	Irys	D889415-6	 	      Ni 		105	Wild	M0 V M5 V M2 V	-3	(731+1)	[1121]	B	11	21
+1900	Delp	I	0427	Irys	D889475-7	 	      Ni 		205	Wild	M0 V M5 V M2 V	-3	(733+1)	[3156]	B	11	63
+
+1105	Delp	I	0429	Ray	B310511-9	 	     Ni 		300	ImDc	M0 V M3 V	0	(744-4)	[1515]	B	9	-448
+1201	Delp	I	0429	Ray	X310000-9	 	     Di 		000	ImDc	M0 V M3 V	-2	(700+1)	[0000]	B	9	7
+1323	Delp	I	0429	Ray	X310000-9	 	     Di 		000	Wild	M0 V M3 V	-2	(700-1)	[0000]	B	9	-7
+1508	Delp	I	0429	Ray	X310000-9	 	     Di 		000	Wild	M0 V M3 V	-2	(700-1)	[0000]	B	9	-7
+1900	Delp	I	0429	Ray	X310000-9	 	     Di 		000	Wild	M0 V M3 V	-2	(700-3)	[0000]	B	9	-21
+
+1105	Delp	M	0431	Plauka	E695340-6	 	    Da  Lo 	A	804	ImDc	K1 V M1 V	-3	(520-5)	[1111]	B	13	-50
+1201	Delp	M	0431	Plauka	X695232-5	 	    Da  Lo 		804	ImDc	K1 V M1 V	-3	(510+1)	[6167]	B	13	5
+1323	Delp	M	0431	Plauka	X695000-5	 	    Da  Di 		004	Wild	K1 V M1 V	-3	(500+1)	[0000]	B	13	5
+1508	Delp	M	0431	Plauka	X695000-5	 	    Da  Di 		004	Wild	K1 V M1 V	-3	(500+1)	[0000]	B	13	5
+1900	Delp	M	0431	Plauka	X695000-5	 	    Da  Di 		004	Wild	K1 V M1 V	-3	(500-1)	[0000]	B	13	-5
+
+1105	Delp	M	0436	Regis	B566655-9	 	      Ag Ri Ni 		103	ImDc	M2 V	2	(B56+1)	[4837]	BC	16	330
+1201	Delp	M	0436	Regis	X566555-2	 	      Ag Pr Ni 	B	503	ImDc	M2 V	-2	(841-5)	[4311]	BcC	16	-160
+1323	Delp	M	0436	Regis	X566576-0	 	      Ag Pr Ni 		203	Wild	M2 V	-2	(840-3)	[5341]	BcC	16	-96
+1508	Delp	M	0436	Regis	X566522-0	 	      Ag Pr Ni 		103	Wild	M2 V	-2	(841-1)	[5341]	BcC	16	-32
+1900	Delp	M	0436	Regis	X566572-1	 	      Ag Pr Ni 		203	Wild	M2 V	-2	(844+1)	[4362]	BcC	16	128
+
+1105	Delp	M	0437	Pavillion	D544720-5	 	      Ag Pi (NIL)		603	ImDc	K3 V M3 V M5 V	-1	(966-5)	[2611]	BCD	6	-1620
+1201	Delp	M	0437	Pavillion	X544778-4	 	      Ag Pi (NIL)		703	ImDc	K3 V M3 V M5 V	-1	(964+4)	[7672]	BCD	6	864
+1323	Delp	M	0437	Pavillion	X544774-0	 	      Ag Pi (NIL)		303	Wild	K3 V M3 V M5 V	-1	(96A+1)	[4651]	BCD	6	540
+1508	Delp	M	0437	Pavillion	X544776-0	 	      Ag Pi (NIL)		203	Wild	K3 V M3 V M5 V	-1	(969+2)	[8653]	BCD	6	972
+1900	Delp	M	0437	Pavillion	X544774-1	 	      Ag Pi (NIL)		203	Wild	K3 V M3 V M5 V	-1	(966+3)	[4611]	BCD	6	972
+
+1105	Delp	M	0438	Gushamad	D2009AD-A	 	     Pz  Hi Na In Va 	A	423	ImDc	M3 V M9 V	2	(G8C+5)	[DB9E]	BE	14	7680
+1201	Delp	M	0438	Gushamad	X200000-A	 	     Pz  Di Na In Va 		023	ImDc	M3 V M9 V	0	(G00+3)	[0000]	BE	14	48
+1323	Delp	M	0438	Gushamad	X200000-A	 	     Pz  Di Na In Va 		023	Wild	M3 V M9 V	0	(G00-3)	[0000]	BE	14	-48
+1508	Delp	M	0438	Gushamad	X200000-A	 	      Pz  Di Va 		023	Wild	M3 V M9 V	-1	(G00-3)	[0000]	B	14	-48
+1900	Delp	M	0438	Gushamad	X200000-A	 	      Pz  Di Va 		023	Wild	M3 V M9 V	-1	(G00-2)	[0000]	B	14	-32
+
+1105	Delp	A	0505	Dreyfuss	B310378-C	 	     Lo 		703	ImDc	G0 V	1	(821+1)	[345C]	B	10	16
+1201	Delp	A	0505	Dreyfuss	X310000-C	 	     Di 		003	ImDc	G0 V	-1	(800+3)	[0000]	B	10	24
+1323	Delp	A	0505	Dreyfuss	X310000-C	 	     Di 		003	Wild	G0 V	-1	(800+1)	[0000]	B	10	8
+1508	Delp	A	0505	Dreyfuss	X310000-C	 	     Di 		003	Wild	G0 V	-1	(800+1)	[0000]	B	10	8
+1900	Delp	A	0505	Dreyfuss	X310000-C	 	     Di 		003	Wild	G0 V	-1	(800+3)	[0000]	B	10	24
+
+1105	Delp	A	0506	Theresann	C67868B-5	 	     Ag Ni 		804	ImDc	M3 V	-1	(853+1)	[8577]	BC	13	120
+1201	Delp	A	0506	Theresann	X678630-2	 	     Ag Ni 		904	ImDc	M3 V	-2	(851-2)	[9461]	BC	13	-80
+1323	Delp	A	0506	Theresann	X678000-2	 	      Di 		004	Wild	M3 V	-3	(800+2)	[0000]	B	13	16
+1508	Delp	A	0506	Theresann	X678000-2	 	      Di 		004	Wild	M3 V	-3	(800+1)	[0000]	B	13	8
+1900	Delp	A	0506	Theresann	X678000-2	 	      Di 		004	Wild	M3 V	-3	(800-1)	[0000]	B	13	-8
+
+1105	Delp	A	0508	Iason	B979443-7	 	     Ni 		800	ImDc	M2 V M3 V	-1	(632-4)	[1324]	B	13	-144
+1201	Delp	A	0508	Iason	X979487-3	 	     Ni 	B	500	ImDc	M2 V M3 V	-3	(630+2)	[1131]	B	13	36
+1323	Delp	A	0508	Iason	X979000-3	 	     Di 		000	Wild	M2 V M3 V	-3	(600-1)	[0000]	B	13	-6
+1508	Delp	A	0508	Iason	X979000-3	 	     Di 		000	Wild	M2 V M3 V	-3	(600+4)	[0000]	B	13	24
+1900	Delp	A	0508	Iason	X979000-3	 	     Di 		000	Wild	M2 V M3 V	-3	(600+1)	[0000]	B	13	6
+
+1105	Delp	A	0510	Pabst	C000640-8	 	      As Va Na Ni 		932	ImDc	M2 V M3 V	-2	(D52-5)	[1413]	B	9	-650
+1201	Delp	A	0510	Pabst	X000000-8	 	      As Va Di Na 		032	ImDc	M2 V M3 V	-3	(D00+3)	[0000]	B	9	39
+1323	Delp	A	0510	Pabst	X000000-8	 	      As Va Di Na 		032	Wild	M2 V M3 V	-3	(D00-4)	[0000]	B	9	-52
+1508	Delp	A	0510	Pabst	X000000-8	 	       As Va Di 		032	Wild	M2 V M3 V	-3	(D00-2)	[0000]	B	9	-26
+1900	Delp	A	0510	Pabst	X000000-8	 	       As Va Di 		032	Wild	M2 V M3 V	-3	(D00-4)	[0000]	B	9	-52
+
+1105	Delp	E	0511	Warmage	B000666-C	N 	       As Va Na Ni 		314	ImDc	M3 V	1	(D55+1)	[574B]	B	8	325
+1201	Delp	E	0511	Warmage	X000000-C	 	       As Va Di Na 		014	ImDc	M3 V	-1	(D00+3)	[0000]	B	8	39
+1323	Delp	E	0511	Warmage	X000000-C	 	       As Va Di Na 		014	Wild	M3 V	-1	(D00+4)	[0000]	B	8	52
+1508	Delp	E	0511	Warmage	X000000-C	 	        As Va Di 		014	Wild	M3 V	-1	(D00-3)	[0000]	B	8	-39
+1900	Delp	E	0511	Warmage	X000000-C	 	        As Va Di 		014	Wild	M3 V	-1	(D00+2)	[0000]	B	8	26
+
+1105	Delp	E	0512	Wart	A00077C-C	 	       As Va Na Pi 		434	ImDc	G2 V M4 V	2	(G6C+5)	[A98F]	BD	10	5760
+1201	Delp	E	0512	Wart	X000000-C	 	      As Va Di Na Pi 		034	ImDc	G2 V M4 V	-1	(G00+1)	[0000]	BD	10	16
+1323	Delp	E	0512	Wart	X000000-C	 	      As Va Di Na Pi 		034	Wild	G2 V M4 V	-1	(G00-1)	[0000]	BD	10	-16
+1508	Delp	E	0512	Wart	X000000-C	 	       As Va Di 		034	Wild	G2 V M4 V	-1	(G00+1)	[0000]	B	10	16
+1900	Delp	E	0512	Wart	X000000-C	 	       As Va Di 		034	Wild	G2 V M4 V	-1	(G00-2)	[0000]	B	10	-32
+
+1105	Delp	E	0514	Venus	D66A620-8	 	     Ni Ri Wa 		705	ImDc	M1 V M3 V	-2	(D52-5)	[1413]	BC	9	-650
+1201	Delp	E	0514	Venus	X66A6B6-8	 	     Ni Ri Wa 		805	ImDc	M1 V M3 V	-2	(D50+1)	[5468]	BC	9	65
+1323	Delp	E	0514	Venus	X66A68A-2	 	     Ni Ri Wa 		405	Wild	M1 V M3 V	-2	(850+1)	[4443]	BC	9	40
+1508	Delp	E	0514	Venus	X66A67A-3	 	     Ni Ri Wa 		405	Wild	M1 V M3 V	-2	(851-2)	[5435]	BC	9	-80
+1900	Delp	E	0514	Venus	X66A645-4	 	     Ni Ri Wa 		305	Wild	M1 V M3 V	-2	(852+4)	[1484]	BC	9	320
+
+1105	Delp	E	0515	Stoneburner	B59176A-8	 	    O:0313  He Pi (NIL)		202	ImDc	K7 V	0	(B68+2)	[977A]	BD	14	1056
+1201	Delp	E	0515	Stoneburner	D591767-5	 	    O:0313  He Pi (NIL)	B	302	ImDc	K7 V	-2	(963+2)	[7522]	BD	14	324
+1323	Delp	E	0515	Stoneburner	D591000-5	 	   O:0313  Di He Pi (NIL)		002	Wild	K7 V	-3	(900-2)	[0000]	BD	14	-18
+1508	Delp	E	0515	Stoneburner	D591000-5	 	    O:0313  Di He (NIL)		002	Wild	K7 V	-3	(900+3)	[0000]	B	14	27
+1900	Delp	E	0515	Stoneburner	D591000-5	 	    O:0313  Di He (NIL)		002	Wild	K7 V	-3	(900+4)	[0000]	B	14	36
+
+1105	Delp	E	0516	De Rome	A541873-9	 	     Droy?  He Ph Pi Po (NIL)		900	ImDc	M3 V	1	(A7A-2)	[5926]	BDe	7	-1400
+1201	Delp	E	0516	De Rome	X541123-2	 	     Droy?  He Lo Po (NIL)		800	ImDc	M3 V	-3	(A00+1)	[3163]	B	7	10
+1323	Delp	E	0516	De Rome	X541000-2	 	     Droy?  Di He Po (NIL)		000	Wild	M3 V	-3	(A00-2)	[0000]	B	7	-20
+1508	Delp	E	0516	De Rome	X541000-2	 	     Droy?  Di He Po (NIL)		000	Wild	M3 V	-3	(A00-5)	[0000]	B	7	-50
+1900	Delp	E	0516	De Rome	X541000-2	 	     Droy?  Di He Po (NIL)		000	Wild	M3 V	-3	(A00+1)	[0000]	B	7	10
+
+1105	Delp	E	0520	Ashland	B879545-B	 	     Ni 		503	ImDc	M3 V	1	(A45-1)	[3639]	B	14	-200
+1201	Delp	E	0520	Ashland	X87956A-4	 	     Ni 		303	ImDc	M3 V	-3	(740-3)	[5225]	B	14	-84
+1323	Delp	E	0520	Ashland	X879000-4	 	     Di 		003	Wild	M3 V	-3	(700+2)	[0000]	B	14	14
+1508	Delp	E	0520	Ashland	X879000-4	 	     Di 		003	Wild	M3 V	-3	(700+2)	[0000]	B	14	14
+1900	Delp	E	0520	Ashland	X879000-4	 	     Di 		003	Wild	M3 V	-3	(700+1)	[0000]	B	14	7
+
+1105	Delp	I	0523	Ziina	E42399A-7	 	      Pz  Hi Na In Po (NIL)	A	403	ImDc	K4 V M9 V	0	(B89+2)	[B979]	BE	14	1584
+1201	Delp	I	0523	Ziina	X423000-7	 	      Pz  Di Na In Po (NIL)		003	ImDc	K4 V M9 V	-2	(B00+2)	[0000]	BE	14	22
+1323	Delp	I	0523	Ziina	X423000-7	 	      Pz  Di Na In Po (NIL)		003	Wild	K4 V M9 V	-2	(B00+1)	[0000]	BE	14	11
+1508	Delp	I	0523	Ziina	X423000-7	 	      Pz  Di Po (NIL)		003	Wild	K4 V M9 V	-3	(B00+1)	[0000]	B	14	11
+1900	Delp	I	0523	Ziina	X423000-7	 	      Pz  Di Po (NIL)		003	Wild	K4 V M9 V	-3	(B00-2)	[0000]	B	14	-22
+
+1105	Delp	I	0527	Hadamard	B100230-9	 	    Da  Lo Va 	A	923	ImDc	G7 V	0	(910-4)	[1214]	B	9	-36
+1201	Delp	I	0527	Hadamard	X100000-9	 	    Da  Di Va 		023	ImDc	G7 V	-2	(900+1)	[0000]	B	9	9
+1323	Delp	I	0527	Hadamard	X100000-9	 	    Da  Di Va 		023	Wild	G7 V	-2	(900+3)	[0000]	B	9	27
+1508	Delp	I	0527	Hadamard	X100000-9	 	    Da  Di Va 		023	Wild	G7 V	-2	(900-5)	[0000]	B	9	-45
+1900	Delp	I	0527	Hadamard	X100000-9	 	    Da  Di Va 		023	Wild	G7 V	-2	(900+3)	[0000]	B	9	27
+
+1105	Delp	I	0528	Valli	B562876-6	 	    Pz  Ph Ri (NIL)	A	104	ImDc	M1 V	1	(A78+1)	[7945]	BCe	15	560
+1201	Delp	I	0528	Valli	D562875-3	 	    Pz  Ph Ri (NIL)	B	204	ImDc	M1 V	-1	(A76+1)	[4727]	BCe	15	420
+1323	Delp	I	0528	Valli	D56287B-0	 	    Pz  Ph Ri (NIL)		104	Wild	M1 V	-1	(A75-1)	[7711]	BCe	15	-350
+1508	Delp	I	0528	Valli	D562785-1	 	     Pz  Ri (NIL)		904	Wild	M1 V	-1	(A67+1)	[4651]	BC	15	420
+1900	Delp	I	0528	Valli	D562754-3	 	     Pz  Ri (NIL)		804	Wild	M1 V	-1	(A64-3)	[7633]	BC	15	-720
+
+1105	Delp	M	0532	Piinur	E200533-7	 	     Ni Va 		200	ImDc	K4 V M0 V	-3	(741-5)	[2224]	B	12	-140
+1201	Delp	M	0532	Piinur	X200000-7	 	     Di Va 		000	ImDc	K4 V M0 V	-3	(700+1)	[0000]	B	12	7
+1323	Delp	M	0532	Piinur	X200000-7	 	     Di Va 		000	Wild	K4 V M0 V	-3	(700+1)	[0000]	B	12	7
+1508	Delp	M	0532	Piinur	X200000-7	 	     Di Va 		000	Wild	K4 V M0 V	-3	(700-2)	[0000]	B	12	-14
+1900	Delp	M	0532	Piinur	X200000-7	 	     Di Va 		000	Wild	K4 V M0 V	-3	(700+1)	[0000]	B	12	7
+
+1105	Delp	M	0533	Korbak	A432320-B	NW	      Lo Po 		913	ImDc	F9 V	2	(922-2)	[1516]	B	13	-72
+1201	Delp	M	0533	Korbak	X432000-B	 	      Di Po 		013	ImDc	F9 V	-1	(900-5)	[0000]	B	13	-45
+1323	Delp	M	0533	Korbak	X432000-B	 	      Di Po 		013	Wild	F9 V	-1	(900+1)	[0000]	B	13	9
+1508	Delp	M	0533	Korbak	X432000-B	 	      Di Po 		013	Wild	F9 V	-1	(900-4)	[0000]	B	13	-36
+1900	Delp	M	0533	Korbak	X432000-B	 	      Di Po 		013	Wild	F9 V	-1	(900+4)	[0000]	B	13	36
+
+1105	Delp	M	0534	Eta-Gu	B73A552-E	 	     Ni Wa 		602	ImDc	M1 V	1	(945-3)	[161A]	B	10	-540
+1201	Delp	M	0534	Eta-Gu	X73A000-E	 	     Di Wa 		002	ImDc	M1 V	-1	(900+1)	[0000]	B	10	9
+1323	Delp	M	0534	Eta-Gu	X73A000-E	 	     Di Wa 		002	Wild	M1 V	-1	(900-1)	[0000]	B	10	-9
+1508	Delp	M	0534	Eta-Gu	X73A000-E	 	     Di Wa 		002	Wild	M1 V	-1	(900-4)	[0000]	B	10	-36
+1900	Delp	M	0534	Eta-Gu	X73A000-E	 	     Di Wa 		002	Wild	M1 V	-1	(900-1)	[0000]	B	10	-9
+
+1105	Delp	M	0536	Ektuurim	C788774-4	 	      Ag Ri (NIL)		703	ImDc	M0 V	1	(967-1)	[5832]	BC	7	-378
+1201	Delp	M	0536	Ektuurim	E788735-4	 	      Ag Ri (NIL)	B	803	ImDc	M0 V	0	(969-3)	[6725]	BC	7	-1458
+1323	Delp	M	0536	Ektuurim	E7887AA-0	 	      Ag Ri (NIL)		403	Wild	M0 V	0	(966+1)	[6721]	BC	7	324
+1508	Delp	M	0536	Ektuurim	E788774-1	 	      Ag Ri (NIL)		303	Wild	M0 V	0	(967+1)	[7744]	BC	7	378
+1900	Delp	M	0536	Ektuurim	E788752-3	 	      Ag Ri (NIL)		303	Wild	M0 V	0	(964+4)	[7787]	BC	7	864
+
+1105	Delp	M	0537	Uowdin	C31049B-7	 	    Da  Ni 	A	805	ImDc	K3 V M5 V	-2	(631+1)	[6279]	B	15	18
+1201	Delp	M	0537	Uowdin	X310000-7	 	    Da  Di 		005	ImDc	K3 V M5 V	-3	(600-5)	[0000]	B	15	-30
+1323	Delp	M	0537	Uowdin	X310000-7	 	    Da  Di 		005	Wild	K3 V M5 V	-3	(600+2)	[0000]	B	15	12
+1508	Delp	M	0537	Uowdin	X310000-7	 	    Da  Di 		005	Wild	K3 V M5 V	-3	(600+4)	[0000]	B	15	24
+1900	Delp	M	0537	Uowdin	X310000-7	 	    Da  Di 		005	Wild	K3 V M5 V	-3	(600-5)	[0000]	B	15	-30
+
+1105	Delp	A	0603	Iaian	D768456-5	 	     Ni Pa 		223	ImDc	M2 V M6 V	-3	(631-4)	[3144]	Bc	9	-72
+1201	Delp	A	0603	Iaian	X768497-3	 	     Ni Pa 	B	223	ImDc	M2 V M6 V	-3	(631+1)	[7161]	Bc	9	18
+1323	Delp	A	0603	Iaian	X768000-3	 	      Di 		023	Wild	M2 V M6 V	-3	(600+3)	[0000]	B	9	18
+1508	Delp	A	0603	Iaian	X768000-3	 	      Di 		023	Wild	M2 V M6 V	-3	(600-3)	[0000]	B	9	-18
+1900	Delp	A	0603	Iaian	X768000-3	 	      Di 		023	Wild	M2 V M6 V	-3	(600+2)	[0000]	B	9	12
+
+1105	Delp	A	0605	Ader	D874ABE-7	 	    Pz  Hi In (NIL)	A	704	ImDc	M1 V	0	(C99+4)	[EA9B]	BE	9	3888
+1201	Delp	A	0605	Ader	X874000-7	 	    Pz  Di In (NIL)		004	ImDc	M1 V	-2	(C00-1)	[0000]	BE	9	-12
+1323	Delp	A	0605	Ader	X874000-7	 	    Pz  Di In (NIL)		004	Wild	M1 V	-2	(C00-4)	[0000]	BE	9	-48
+1508	Delp	A	0605	Ader	X874000-7	 	     Pz  Di (NIL)		004	Wild	M1 V	-3	(C00+1)	[0000]	B	9	12
+1900	Delp	A	0605	Ader	X874000-7	 	     Pz  Di (NIL)		004	Wild	M1 V	-3	(C00-1)	[0000]	B	9	-12
+
+1105	Delp	A	0607	Walters	C100765-9	 	     O:0706  Na Pi Va 		414	ImDc	M0 V	0	(E69-2)	[5737]	BD	14	-1512
+1201	Delp	A	0607	Walters	X100000-9	 	    O:0706  Di Na Pi Va 		014	ImDc	M0 V	-2	(E00+4)	[0000]	BD	14	56
+1323	Delp	A	0607	Walters	X100000-9	 	    O:0706  Di Na Pi Va 		014	Wild	M0 V	-2	(E00-2)	[0000]	BD	14	-28
+1508	Delp	A	0607	Walters	X100000-9	 	     O:0706  Di Va 		014	Wild	M0 V	-2	(E00-2)	[0000]	B	14	-28
+1900	Delp	A	0607	Walters	X100000-9	 	     O:0706  Di Va 		014	Wild	M0 V	-2	(E00+4)	[0000]	B	14	56
+
+1105	Delp	E	0616	Chapman	B566127-9	N 	     Lo 		313	ImDc	G6 V M9 V	0	(700+1)	[1159]	B	12	7
+1201	Delp	E	0616	Chapman	D566220-3	 	     Lo 		113	ImDc	G6 V M9 V	-3	(310-4)	[1111]	B	12	-12
+1323	Delp	E	0616	Chapman	D566000-3	 	     Di 		013	Wild	G6 V M9 V	-3	(300+1)	[0000]	B	12	3
+1508	Delp	E	0616	Chapman	D566000-3	 	     Di 		013	Wild	G6 V M9 V	-3	(300+2)	[0000]	B	12	6
+1900	Delp	E	0616	Chapman	D566000-3	 	     Di 		013	Wild	G6 V M9 V	-3	(300+1)	[0000]	B	12	3
+
+1105	Delp	E	0618	Magveil	B675513-8	N 	     Ag Ni 		705	ImDc	K2 V M3 V	0	(C44-3)	[2525]	BC	10	-576
+1201	Delp	E	0618	Magveil	D675524-4	 	     Ag Ni 	B	405	ImDc	K2 V M3 V	-2	(740+1)	[5336]	BC	10	28
+1323	Delp	E	0618	Magveil	D675000-4	 	      Di 		005	Wild	K2 V M3 V	-3	(700-1)	[0000]	B	10	-7
+1508	Delp	E	0618	Magveil	D675000-4	 	      Di 		005	Wild	K2 V M3 V	-3	(700+3)	[0000]	B	10	21
+1900	Delp	E	0618	Magveil	D675000-4	 	      Di 		005	Wild	K2 V M3 V	-3	(700+1)	[0000]	B	10	7
+
+1105	Delp	I	0623	Ychea	A427988-D	 	      Hi In (NIL)		502	ImDc	K0 V	4	(D8G+4)	[9D5D]	BEf	7	6656
+1201	Delp	I	0623	Ychea	X427000-D	 	      Di In (NIL)		002	ImDc	K0 V	0	(D00-2)	[0000]	BE	7	-26
+1323	Delp	I	0623	Ychea	X427000-D	 	      Di In (NIL)		002	Wild	K0 V	0	(D00+3)	[0000]	BE	7	39
+1508	Delp	I	0623	Ychea	X427000-D	 	       Di (NIL)		002	Wild	K0 V	-1	(D00-1)	[0000]	B	7	-13
+1900	Delp	I	0623	Ychea	X427000-D	 	       Di (NIL)		002	Wild	K0 V	-1	(D00-1)	[0000]	B	7	-13
+
+1105	Delp	I	0625	Xaviar	A561510-9	N 	     Ni Pr 		703	ImDc	G3 V	0	(A44-4)	[1514]	Bc	11	-640
+1201	Delp	I	0625	Xaviar	X56155A-3	 	     Ni Pr 		403	ImDc	G3 V	-3	(740+2)	[6221]	Bc	11	56
+1323	Delp	I	0625	Xaviar	X561558-0	 	     Ni Pr 		203	Wild	G3 V	-3	(741+4)	[8252]	Bc	11	112
+1508	Delp	I	0625	Xaviar	X561555-0	 	     Ni Pr 		103	Wild	G3 V	-3	(741+1)	[4282]	Bc	11	28
+1900	Delp	I	0625	Xaviar	X561447-0	 	      Ni 		903	Wild	G3 V	-3	(730+1)	[6161]	B	11	21
+
+1105	Delp	I	0627	Laura	B555211-7	 	     Lo 		203	ImDc	G4 V M4 V	-1	(410-5)	[1113]	B	9	-20
+1201	Delp	I	0627	Laura	D555310-6	 	     Lo 		903	ImDc	G4 V M4 V	-3	(420-5)	[2166]	B	9	-40
+1323	Delp	I	0627	Laura	D555000-6	 	     Di 		003	Wild	G4 V M4 V	-3	(400+1)	[0000]	B	9	4
+1508	Delp	I	0627	Laura	D555000-6	 	     Di 		003	Wild	G4 V M4 V	-3	(400-3)	[0000]	B	9	-12
+1900	Delp	I	0627	Laura	D555000-6	 	     Di 		003	Wild	G4 V M4 V	-3	(400-4)	[0000]	B	9	-16
+
+1105	Delp	I	0630	Knightsbridge	D725310-7	S	    Da  Lo 	A	320	ImDc	M1 V	-3	(520-5)	[1112]	B	7	-50
+1201	Delp	I	0630	Knightsbridge	X725000-7	 	    Da  Di 		020	ImDc	M1 V	-3	(500-5)	[0000]	B	7	-25
+1323	Delp	I	0630	Knightsbridge	X725000-7	 	    Da  Di 		020	Wild	M1 V	-3	(500+3)	[0000]	B	7	15
+1508	Delp	I	0630	Knightsbridge	X725000-7	 	    Da  Di 		020	Wild	M1 V	-3	(500+1)	[0000]	B	7	5
+1900	Delp	I	0630	Knightsbridge	X725000-7	 	    Da  Di 		020	Wild	M1 V	-3	(500+5)	[0000]	B	7	25
+
+1105	Delp	M	0631	Altoveros	D896451-5	 	     Ni Pa 		215	ImDc	M1 V M9 V	-3	(631-5)	[1111]	Bc	9	-90
+1201	Delp	M	0631	Altoveros	X896474-3	 	     Ni Pa 	B	215	ImDc	M1 V M9 V	-3	(631+3)	[6185]	Bc	9	54
+1323	Delp	M	0631	Altoveros	X896000-3	 	      Di 		015	Wild	M1 V M9 V	-3	(600+1)	[0000]	B	9	6
+1508	Delp	M	0631	Altoveros	X896000-3	 	      Di 		015	Wild	M1 V M9 V	-3	(600-3)	[0000]	B	9	-18
+1900	Delp	M	0631	Altoveros	X896000-3	 	      Di 		015	Wild	M1 V M9 V	-3	(600-2)	[0000]	B	9	-12
+
+1105	Delp	M	0637	Harwart	B310427-9	 	     Ni 		205	ImDc	M3 V	0	(B33+1)	[4459]	B	12	99
+1201	Delp	M	0637	Harwart	X310000-9	 	     Di 		005	ImDc	M3 V	-2	(B00-3)	[0000]	B	12	-33
+1323	Delp	M	0637	Harwart	X310000-9	 	     Di 		005	Wild	M3 V	-2	(B00+5)	[0000]	B	12	55
+1508	Delp	M	0637	Harwart	X310000-9	 	     Di 		005	Wild	M3 V	-2	(B00+1)	[0000]	B	12	11
+1900	Delp	M	0637	Harwart	X310000-9	 	     Di 		005	Wild	M3 V	-2	(B00+2)	[0000]	B	12	22
+
+1105	Delp	M	0639	Braaza	B574578-A	 	     Ag Ni 		523	ImDc	K7 V	2	(C46+2)	[575A]	BC	13	576
+1201	Delp	M	0639	Braaza	X574567-3	 	     Ag Ni 	B	323	ImDc	K7 V	-2	(741+4)	[2341]	BC	13	112
+1323	Delp	M	0639	Braaza	X574000-3	 	      Di 		023	Wild	K7 V	-3	(700+1)	[0000]	B	13	7
+1508	Delp	M	0639	Braaza	X574000-3	 	      Di 		023	Wild	K7 V	-3	(700-1)	[0000]	B	13	-7
+1900	Delp	M	0639	Braaza	X574000-3	 	      Di 		023	Wild	K7 V	-3	(700+5)	[0000]	B	13	35
+
+1105	Delp	A	0701	Jazz	C421777-7	 	       He Na Pi Po (NIL)		600	ImDc	M1 V	-1	(967-1)	[7657]	BD	12	-378
+1201	Delp	A	0701	Jazz	X421000-7	 	      Di He Na Pi Po (NIL)		000	ImDc	M1 V	-3	(900-2)	[0000]	BD	12	-18
+1323	Delp	A	0701	Jazz	X421000-7	 	      Di He Na Pi Po (NIL)		000	Wild	M1 V	-3	(900+1)	[0000]	BD	12	9
+1508	Delp	A	0701	Jazz	X421000-7	 	      Di He Po (NIL)		000	Wild	M1 V	-3	(900+1)	[0000]	B	12	9
+1900	Delp	A	0701	Jazz	X421000-7	 	      Di He Po (NIL)		000	Wild	M1 V	-3	(900+1)	[0000]	B	12	9
+
+1105	Delp	A	0702	Newcastle	C634214-6	 	     Lo 		115	ImDc	M0 V	-2	(410-4)	[1134]	B	15	-16
+1201	Delp	A	0702	Newcastle	X634000-6	 	     Di 		015	ImDc	M0 V	-3	(400-1)	[0000]	B	15	-4
+1323	Delp	A	0702	Newcastle	X634000-6	 	     Di 		015	Wild	M0 V	-3	(400-5)	[0000]	B	15	-20
+1508	Delp	A	0702	Newcastle	X634000-6	 	     Di 		015	Wild	M0 V	-3	(400-3)	[0000]	B	15	-12
+1900	Delp	A	0702	Newcastle	X634000-6	 	     Di 		015	Wild	M0 V	-3	(400+3)	[0000]	B	15	12
+
+1105	Delp	A	0703	Krishnan	A578100-A	 	     Lo 		402	ImDc	M0 V	1	(501-3)	[1215]	B	6	-15
+1201	Delp	A	0703	Krishnan	C578100-6	 	     Lo 		602	ImDc	M0 V	-2	(300-1)	[1146]	B	6	-3
+1323	Delp	A	0703	Krishnan	X578000-6	 	     Di 		002	Wild	M0 V	-3	(300-3)	[0000]	B	6	-9
+1508	Delp	A	0703	Krishnan	X578000-6	 	     Di 		002	Wild	M0 V	-3	(300-3)	[0000]	B	6	-9
+1900	Delp	A	0703	Krishnan	X578000-6	 	     Di 		002	Wild	M0 V	-3	(300-1)	[0000]	B	6	-3
+
+1105	Delp	A	0705	Deng	E645741-5	 	      Ag Pi (NIL)		104	ImDc	M0 V	-1	(966-5)	[3611]	BCD	7	-1620
+1201	Delp	A	0705	Deng	X645798-5	 	      Ag Pi (NIL)		204	ImDc	M0 V	-1	(967-2)	[7666]	BCD	7	-756
+1323	Delp	A	0705	Deng	X645000-5	 	     Di Pi (NIL)		004	Wild	M0 V	-3	(900+1)	[0000]	BD	7	9
+1508	Delp	A	0705	Deng	X645000-5	 	      Di (NIL)		004	Wild	M0 V	-3	(900+2)	[0000]	B	7	18
+1900	Delp	A	0705	Deng	X645000-5	 	      Di (NIL)		004	Wild	M0 V	-3	(900-2)	[0000]	B	7	-18
+
+1105	Delp	A	0706	Everglades	B99A6AA-A	 	    Da  Ni Wa 	A	905	ImDc	M3 V M6 V	1	(D55+3)	[877C]	B	12	975
+1201	Delp	A	0706	Everglades	D99A657-6	 	    Da  Ni Wa 	B	905	ImDc	M3 V M6 V	-3	(850+1)	[2367]	B	12	40
+1323	Delp	A	0706	Everglades	D99A000-6	 	    Da  Di Wa 		005	Wild	M3 V M6 V	-3	(800-2)	[0000]	B	12	-16
+1508	Delp	A	0706	Everglades	D99A000-6	 	    Da  Di Wa 		005	Wild	M3 V M6 V	-3	(800-3)	[0000]	B	12	-24
+1900	Delp	A	0706	Everglades	D99A000-6	 	    Da  Di Wa 		005	Wild	M3 V M6 V	-3	(800+1)	[0000]	B	12	8
+
+1105	Delp	A	0709	Modesta	B857410-8	 	     Ga Ni Pa 		703	ImDc	M2 V	-1	(932-5)	[1313]	Bc	15	-270
+1201	Delp	A	0709	Modesta	D857421-7	 	     Ga Ni Pa 		403	ImDc	M2 V	-3	(630-3)	[3156]	Bc	15	-54
+1323	Delp	A	0709	Modesta	D857000-7	 	      Di Ga 		003	Wild	M2 V	-3	(600+4)	[0000]	B	15	24
+1508	Delp	A	0709	Modesta	D857000-7	 	      Di Ga 		003	Wild	M2 V	-3	(600+3)	[0000]	B	15	18
+1900	Delp	A	0709	Modesta	D857000-7	 	      Di Ga 		003	Wild	M2 V	-3	(600+2)	[0000]	B	15	12
+
+1105	Delp	E	0712	Addis	D694672-6	 	     Ag Ni 		904	ImDc	G6 V	-2	(852-5)	[2412]	BC	13	-400
+1201	Delp	E	0712	Addis	X694778-6	 	      Ag 		104	ImDc	G6 V	-1	(866-1)	[8618]	BC	13	-288
+1323	Delp	E	0712	Addis	X694642-0	 	     Ag Ni 		504	Wild	G6 V	-2	(854+2)	[7451]	BC	13	320
+1508	Delp	E	0712	Addis	X6946BD-1	 	     Ag Ni 		604	Wild	G6 V	-2	(854-3)	[7491]	BC	13	-480
+1900	Delp	E	0712	Addis	X6946AB-2	 	     Ag Ni 		504	Wild	G6 V	-2	(850+1)	[A421]	BC	13	40
+
+1105	Delp	E	0713	Durrell	B544358-8	 	     Lo 		911	ImDc	K1 V	-1	(720-1)	[3258]	B	11	-14
+1201	Delp	E	0713	Durrell	D544355-4	 	     Lo 		911	ImDc	K1 V	-3	(520+3)	[5161]	B	11	30
+1323	Delp	E	0713	Durrell	D544000-4	 	     Di 		011	Wild	K1 V	-3	(500+4)	[0000]	B	11	20
+1508	Delp	E	0713	Durrell	D544000-4	 	     Di 		011	Wild	K1 V	-3	(500-2)	[0000]	B	11	-10
+1900	Delp	E	0713	Durrell	D544000-4	 	     Di 		011	Wild	K1 V	-3	(500-2)	[0000]	B	11	-10
+
+1105	Delp	E	0715	Heine	A98A244-E	 	    Da  Lo Wa 	A	203	ImDc	M1 V	1	(711-1)	[133C]	B	16	-7
+1201	Delp	E	0715	Heine	X98A200-3	 	    Da  Lo Wa 	B	403	ImDc	M1 V	-3	(410+1)	[3183]	B	16	4
+1323	Delp	E	0715	Heine	X98A000-3	 	    Da  Di Wa 		003	Wild	M1 V	-3	(400+1)	[0000]	B	16	4
+1508	Delp	E	0715	Heine	X98A000-3	 	    Da  Di Wa 		003	Wild	M1 V	-3	(400+2)	[0000]	B	16	8
+1900	Delp	E	0715	Heine	X98A000-3	 	    Da  Di Wa 		003	Wild	M1 V	-3	(400+1)	[0000]	B	16	4
+
+1105	Delp	E	0716	Pragon	B757686-7	 	     Ag Ga Ni 		923	ImDc	K3 V	0	(854-1)	[5646]	BC	9	-160
+1201	Delp	E	0716	Pragon	D757788-4	 	      Ag Ga 	B	123	ImDc	K3 V	-1	(86A+1)	[6654]	BC	9	480
+1323	Delp	E	0716	Pragon	D757655-2	 	     Ag Ga Ni 		523	Wild	K3 V	-2	(850-3)	[4465]	BC	9	-120
+1508	Delp	E	0716	Pragon	D7576A7-2	 	     Ag Ga Ni 		523	Wild	K3 V	-2	(854+4)	[7473]	BC	9	640
+1900	Delp	E	0716	Pragon	D7576B9-3	 	     Ag Ga Ni 		423	Wild	K3 V	-2	(853-2)	[7432]	BC	9	-240
+
+1105	Delp	E	0717	Distant Smoke	A583500-A	 	     Ni Pr 		404	ImDc	K7 V M3 V	1	(B45-3)	[1615]	Bc	9	-660
+1201	Delp	E	0717	Distant Smoke	C58356B-4	 	     Ni Pr 		204	ImDc	K7 V M3 V	-2	(743-3)	[7361]	Bc	9	-252
+1323	Delp	E	0717	Distant Smoke	E583000-4	 	      Di 		004	Wild	K7 V M3 V	-3	(700-3)	[0000]	B	9	-21
+1508	Delp	E	0717	Distant Smoke	E583000-4	 	      Di 		004	Wild	K7 V M3 V	-3	(700+2)	[0000]	B	9	14
+1900	Delp	E	0717	Distant Smoke	E583000-4	 	      Di 		004	Wild	K7 V M3 V	-3	(700+3)	[0000]	B	9	21
+
+1105	Delp	E	0719	Hearst	B557635-7	 	     Ag Ni 		104	ImDc	M0 V M6 V	0	(854-2)	[4635]	BC	10	-320
+1201	Delp	E	0719	Hearst	D557679-7	 	     Ag Ni 		204	ImDc	M0 V M6 V	-2	(851-2)	[8448]	BC	10	-80
+1323	Delp	E	0719	Hearst	D557510-2	 	     Ag Ni 		104	Wild	M0 V M6 V	-2	(844+1)	[A315]	BC	10	128
+1508	Delp	E	0719	Hearst	D557410-3	 	     Ni Pa 		904	Wild	M0 V M6 V	-3	(830+1)	[3142]	Bc	10	24
+1900	Delp	E	0719	Hearst	D557451-5	 	     Ni Pa 		904	Wild	M0 V M6 V	-3	(832-1)	[3156]	Bc	10	-48
+
+1105	Delp	I	0721	T'Ch'aikotta	C5716AB-6	 	    Da  He Ni 	A	204	ImDc	M3 V M5 V	-2	(852+1)	[8478]	B	16	80
+1201	Delp	I	0721	T'Ch'aikotta	E57167C-6	 	    Da  He Ni 		304	ImDc	M3 V M5 V	-3	(850-3)	[2363]	B	16	-120
+1323	Delp	I	0721	T'Ch'aikotta	E571000-6	 	    Da  Di He 		004	Wild	M3 V M5 V	-3	(800+1)	[0000]	B	16	8
+1508	Delp	I	0721	T'Ch'aikotta	E571000-6	 	    Da  Di He 		004	Wild	M3 V M5 V	-3	(800+3)	[0000]	B	16	24
+1900	Delp	I	0721	T'Ch'aikotta	E571000-6	 	    Da  Di He 		004	Wild	M3 V M5 V	-3	(800+3)	[0000]	B	16	24
+
+1105	Delp	I	0722	Ituxi	AA79555-E	 	     Ni 		102	ImDc	K1 V	1	(945-1)	[363C]	B	6	-180
+1201	Delp	I	0722	Ituxi	XA79441-8	 	     Ni 	B	502	ImDc	K1 V	-3	(932-5)	[5189]	B	6	-270
+1323	Delp	I	0722	Ituxi	XA79000-8	 	     Di 		002	Wild	K1 V	-3	(900+2)	[0000]	B	6	18
+1508	Delp	I	0722	Ituxi	XA79000-8	 	     Di 		002	Wild	K1 V	-3	(900+5)	[0000]	B	6	45
+1900	Delp	I	0722	Ituxi	XA79000-8	 	     Di 		002	Wild	K1 V	-3	(900-2)	[0000]	B	6	-18
+
+1105	Delp	I	0723	Drinishok	A100400-F	 	     Ni Va 		224	ImDc	M3 III	1	(C34-3)	[151A]	B	9	-432
+1201	Delp	I	0723	Drinishok	X100000-F	 	     Di Va 		024	ImDc	M3 III	-1	(C00+4)	[0000]	B	9	48
+1323	Delp	I	0723	Drinishok	X100000-F	 	     Di Va 		024	Wild	M3 III	-1	(C00+4)	[0000]	B	9	48
+1508	Delp	I	0723	Drinishok	X100000-F	 	     Di Va 		024	Wild	M3 III	-1	(C00-1)	[0000]	B	9	-12
+1900	Delp	I	0723	Drinishok	X100000-F	 	     Di Va 		024	Wild	M3 III	-1	(C00-2)	[0000]	B	9	-24
+
+1105	Delp	I	0724	McAllister	A574524-8	 	     Ag Ni 		905	ImDc	M1 V M5 V	0	(C44-2)	[3536]	BC	17	-384
+1201	Delp	I	0724	McAllister	C574541-6	 	     Ag Ni 	B	505	ImDc	M1 V M5 V	-1	(741+1)	[1481]	BC	17	28
+1323	Delp	I	0724	McAllister	D574000-6	 	      Di 		005	Wild	M1 V M5 V	-3	(700+2)	[0000]	B	17	14
+1508	Delp	I	0724	McAllister	D574000-6	 	      Di 		005	Wild	M1 V M5 V	-3	(700-2)	[0000]	B	17	-14
+1900	Delp	I	0724	McAllister	D574000-6	 	      Di 		005	Wild	M1 V M5 V	-3	(700-1)	[0000]	B	17	-7
+
+1105	Delp	I	0725	Darniki	C624994-7	 	     Hi In (NIL)		104	ImDc	G3 V M7 V	1	(B8A-1)	[7A35]	BE	9	-880
+1201	Delp	I	0725	Darniki	X624000-7	 	     Di In (NIL)		004	ImDc	G3 V M7 V	-2	(B00-2)	[0000]	BE	9	-22
+1323	Delp	I	0725	Darniki	X624000-7	 	     Di In (NIL)		004	Wild	G3 V M7 V	-2	(B00+5)	[0000]	BE	9	55
+1508	Delp	I	0725	Darniki	X624000-7	 	      Di (NIL)		004	Wild	G3 V M7 V	-3	(B00+1)	[0000]	B	9	11
+1900	Delp	I	0725	Darniki	X624000-7	 	      Di (NIL)		004	Wild	G3 V M7 V	-3	(B00-4)	[0000]	B	9	-44
+
+1105	Delp	I	0730	Fforte	C435226-6	 	     Lo 		524	ImDc	K2 V	-2	(410-3)	[1145]	B	13	-12
+1201	Delp	I	0730	Fforte	X435000-6	 	     Di 		024	ImDc	K2 V	-3	(400+4)	[0000]	B	13	16
+1323	Delp	I	0730	Fforte	X435000-6	 	     Di 		024	Wild	K2 V	-3	(400-1)	[0000]	B	13	-4
+1508	Delp	I	0730	Fforte	X435000-6	 	     Di 		024	Wild	K2 V	-3	(400+5)	[0000]	B	13	20
+1900	Delp	I	0730	Fforte	X435000-6	 	     Di 		024	Wild	K2 V	-3	(400+2)	[0000]	B	13	8
+
+1105	Delp	M	0731	Moldovaan	C100752-8	 	     Pz  Na Pi Va 	A	904	ImDc	K6 III M2 V	-1	(D67-5)	[3614]	BD	9	-2730
+1201	Delp	M	0731	Moldovaan	X100000-8	 	    Pz  Di Na Pi Va 		004	ImDc	K6 III M2 V	-3	(D00-5)	[0000]	BD	9	-65
+1323	Delp	M	0731	Moldovaan	X100000-8	 	    Pz  Di Na Pi Va 		004	Wild	K6 III M2 V	-3	(D00+1)	[0000]	BD	9	13
+1508	Delp	M	0731	Moldovaan	X100000-8	 	     Pz  Di Va 		004	Wild	K6 III M2 V	-3	(D00+1)	[0000]	B	9	13
+1900	Delp	M	0731	Moldovaan	X100000-8	 	     Pz  Di Va 		004	Wild	K6 III M2 V	-3	(D00-3)	[0000]	B	9	-39
+
+1105	Delp	M	0732	Vashtii	A529455-F	 	     Ni 		222	ImDc	K5 V M9 V	1	(A34-1)	[253D]	B	11	-120
+1201	Delp	M	0732	Vashtii	X529000-F	 	     Di 		022	ImDc	K5 V M9 V	-1	(A00-4)	[0000]	B	11	-40
+1323	Delp	M	0732	Vashtii	X529000-F	 	     Di 		022	Wild	K5 V M9 V	-1	(A00-5)	[0000]	B	11	-50
+1508	Delp	M	0732	Vashtii	X529000-F	 	     Di 		022	Wild	K5 V M9 V	-1	(A00-4)	[0000]	B	11	-40
+1900	Delp	M	0732	Vashtii	X529000-F	 	     Di 		022	Wild	K5 V M9 V	-1	(A00+1)	[0000]	B	11	10
+
+1105	Delp	M	0737	Patnor	B673465-A	 	    O:0739  Ni 		604	ImDc	K0 V M3 V	1	(A34-1)	[2538]	B	11	-120
+1201	Delp	M	0737	Patnor	X673434-3	 	    O:0739  Ni 		304	ImDc	K0 V M3 V	-3	(633-3)	[5133]	B	11	-162
+1323	Delp	M	0737	Patnor	X673000-3	 	    O:0739  Di 		004	Wild	K0 V M3 V	-3	(600-3)	[0000]	B	11	-18
+1508	Delp	M	0737	Patnor	X673000-3	 	    O:0739  Di 		004	Wild	K0 V M3 V	-3	(600-3)	[0000]	B	11	-18
+1900	Delp	M	0737	Patnor	X673000-3	 	    O:0739  Di 		004	Wild	K0 V M3 V	-3	(600+1)	[0000]	B	11	6
+
+1105	Delp	M	0739	Altsuulervin	B100721-D	 	      Na Pi Va 		803	ImDc	K2 V	2	(C6D-2)	[3919]	BD	9	-1872
+1201	Delp	M	0739	Altsuulervin	X100000-D	 	     Di Na Pi Va 		003	ImDc	K2 V	-1	(C00+3)	[0000]	BD	9	36
+1323	Delp	M	0739	Altsuulervin	X100000-D	 	     Di Na Pi Va 		003	Wild	K2 V	-1	(C00+3)	[0000]	BD	9	36
+1508	Delp	M	0739	Altsuulervin	X100000-D	 	      Di Va 		003	Wild	K2 V	-1	(C00-2)	[0000]	B	9	-24
+1900	Delp	M	0739	Altsuulervin	X100000-D	 	      Di Va 		003	Wild	K2 V	-1	(C00-3)	[0000]	B	9	-36
+
+1105	Delp	A	0802	Darken	E310537-7	 	     Ni 		804	ImDc	M0 V	-3	(741-3)	[5257]	B	15	-84
+1201	Delp	A	0802	Darken	X310000-7	 	     Di 		004	ImDc	M0 V	-3	(700+1)	[0000]	B	15	7
+1323	Delp	A	0802	Darken	X310000-7	 	     Di 		004	Wild	M0 V	-3	(700+1)	[0000]	B	15	7
+1508	Delp	A	0802	Darken	X310000-7	 	     Di 		004	Wild	M0 V	-3	(700-4)	[0000]	B	15	-28
+1900	Delp	A	0802	Darken	X310000-7	 	     Di 		004	Wild	M0 V	-3	(700+2)	[0000]	B	15	14
+
+1105	Delp	A	0803	Drumma	C565677-6	 	      Ag Ri Ni 		703	ImDc	G3 V	0	(854+1)	[6656]	BC	13	160
+1201	Delp	A	0803	Drumma	E56567B-6	 	      Ag Ri Ni 		803	ImDc	G3 V	-1	(850+5)	[1573]	BC	13	200
+1323	Delp	A	0803	Drumma	E565457-4	 	      Ni Pa 		403	Wild	G3 V	-3	(832-2)	[2168]	Bc	13	-96
+1508	Delp	A	0803	Drumma	E565486-4	 	      Ni Pa 		303	Wild	G3 V	-3	(830-2)	[1186]	Bc	13	-48
+1900	Delp	A	0803	Drumma	E565432-5	 	      Ni Pa 		203	Wild	G3 V	-3	(830-4)	[616A]	Bc	13	-96
+
+1105	Delp	A	0804	Metellus	E310332-7	 	     Lo 		702	ImDc	M1 V	-3	(520-5)	[1113]	B	12	-50
+1201	Delp	A	0804	Metellus	X310000-7	 	     Di 		002	ImDc	M1 V	-3	(500+3)	[0000]	B	12	15
+1323	Delp	A	0804	Metellus	X310000-7	 	     Di 		002	Wild	M1 V	-3	(500+4)	[0000]	B	12	20
+1508	Delp	A	0804	Metellus	X310000-7	 	     Di 		002	Wild	M1 V	-3	(500+1)	[0000]	B	12	5
+1900	Delp	A	0804	Metellus	X310000-7	 	     Di 		002	Wild	M1 V	-3	(500-3)	[0000]	B	12	-15
+
+1105	Delp	E	0813	Capricorn	C421100-9	 	    Da  He Lo Po 	A	312	ImDc	K9 V	-1	(600-5)	[1114]	B	6	-30
+1201	Delp	E	0813	Capricorn	X421000-9	 	    Da  Di He Po 		012	ImDc	K9 V	-2	(600+1)	[0000]	B	6	6
+1323	Delp	E	0813	Capricorn	X421000-9	 	    Da  Di He Po 		012	Wild	K9 V	-2	(600-2)	[0000]	B	6	-12
+1508	Delp	E	0813	Capricorn	X421000-9	 	    Da  Di He Po 		012	Wild	K9 V	-2	(600+3)	[0000]	B	6	18
+1900	Delp	E	0813	Capricorn	X421000-9	 	    Da  Di He Po 		012	Wild	K9 V	-2	(600-4)	[0000]	B	6	-24
+
+1105	Delp	E	0814	Alpharats	A310356-E	 	     Lo 		903	ImDc	M2 V M2 V	1	(821+1)	[244D]	B	10	16
+1201	Delp	E	0814	Alpharats	X310000-E	 	     Di 		003	ImDc	M2 V M2 V	-1	(800+2)	[0000]	B	10	16
+1323	Delp	E	0814	Alpharats	X310000-E	 	     Di 		003	Wild	M2 V M2 V	-1	(800+4)	[0000]	B	10	32
+1508	Delp	E	0814	Alpharats	X310000-E	 	     Di 		003	Wild	M2 V M2 V	-1	(800-4)	[0000]	B	10	-32
+1900	Delp	E	0814	Alpharats	X310000-E	 	     Di 		003	Wild	M2 V M2 V	-1	(800-1)	[0000]	B	10	-8
+
+1105	Delp	E	0816	Vaksogh	B410321-8	 	     Lo 		812	ImDc	M2 V	-1	(820-5)	[1214]	B	10	-80
+1201	Delp	E	0816	Vaksogh	X410000-8	 	     Di 		012	ImDc	M2 V	-3	(800+1)	[0000]	B	10	8
+1323	Delp	E	0816	Vaksogh	X410000-8	 	     Di 		012	Wild	M2 V	-3	(800-1)	[0000]	B	10	-8
+1508	Delp	E	0816	Vaksogh	X410000-8	 	     Di 		012	Wild	M2 V	-3	(800+3)	[0000]	B	10	24
+1900	Delp	E	0816	Vaksogh	X410000-8	 	     Di 		012	Wild	M2 V	-3	(800+1)	[0000]	B	10	8
+
+1105	Delp	E	0817	Orloft	E575310-5	 	    Da  Lo 	A	403	ImDc	M1 V	-3	(520-5)	[1111]	B	15	-50
+1201	Delp	E	0817	Orloft	X575177-4	 	    Da  Lo 		603	ImDc	M1 V	-3	(500+5)	[1193]	B	15	25
+1323	Delp	E	0817	Orloft	X575000-4	 	    Da  Di 		003	Wild	M1 V	-3	(500+2)	[0000]	B	15	10
+1508	Delp	E	0817	Orloft	X575000-4	 	    Da  Di 		003	Wild	M1 V	-3	(500-4)	[0000]	B	15	-20
+1900	Delp	E	0817	Orloft	X575000-4	 	    Da  Di 		003	Wild	M1 V	-3	(500+1)	[0000]	B	15	5
+
+1105	Delp	E	0818	Durkee	B58579B-A	N 	     Pz  Ag Ri (NIL)	A	904	ImDc	K2 V M4 V	4	(D6D+5)	[9B7C]	BCf	17	5070
+1201	Delp	E	0818	Durkee	D585877-9	 	    Pz  Pa Ri Ph (NIL)		104	ImDc	K2 V M4 V	0	(D74+1)	[688C]	BcCe	17	364
+1323	Delp	E	0818	Durkee	D58578B-4	 	     Pz  Ag Ri (NIL)		504	Wild	K2 V M4 V	0	(964-3)	[A733]	BC	17	-648
+1508	Delp	E	0818	Durkee	D58578B-5	 	     Pz  Ag Ri (NIL)		404	Wild	K2 V M4 V	0	(967+1)	[2772]	BC	17	378
+1900	Delp	E	0818	Durkee	D585744-6	 	     Pz  Ag Ri (NIL)		504	Wild	K2 V M4 V	0	(963+2)	[6749]	BC	17	324
+
+1105	Delp	I	0821	Parsifal	E310757-9	 	      Na Pi 		404	ImDc	K4 III	-1	(D68-1)	[7659]	BD	7	-624
+1201	Delp	I	0821	Parsifal	X310000-9	 	     Di Na Pi 		004	ImDc	K4 III	-2	(D00+2)	[0000]	BD	7	26
+1323	Delp	I	0821	Parsifal	X310000-9	 	     Di Na Pi 		004	Wild	K4 III	-2	(D00+1)	[0000]	BD	7	13
+1508	Delp	I	0821	Parsifal	X310000-9	 	      Di 		004	Wild	K4 III	-2	(D00-4)	[0000]	B	7	-52
+1900	Delp	I	0821	Parsifal	X310000-9	 	      Di 		004	Wild	K4 III	-2	(D00+2)	[0000]	B	7	26
+
+1105	Delp	I	0823	Herodotus	A100435-F	 	     Ni Va 		604	ImDc	M2 V	1	(A34-1)	[253D]	B	10	-120
+1201	Delp	I	0823	Herodotus	X100000-F	 	     Di Va 		004	ImDc	M2 V	-1	(A00+2)	[0000]	B	10	20
+1323	Delp	I	0823	Herodotus	X100000-F	 	     Di Va 		004	Wild	M2 V	-1	(A00-1)	[0000]	B	10	-10
+1508	Delp	I	0823	Herodotus	X100000-F	 	     Di Va 		004	Wild	M2 V	-1	(A00-4)	[0000]	B	10	-40
+1900	Delp	I	0823	Herodotus	X100000-F	 	     Di Va 		004	Wild	M2 V	-1	(A00-3)	[0000]	B	10	-30
+
+1105	Delp	I	0826	Midelton	E300867-7	 	     O:0827  Na Pi Ph Va 		713	ImDc	K4 V	-2	(A76-2)	[8657]	BDe	10	-840
+1201	Delp	I	0826	Midelton	X300000-7	 	     O:0827  Di Na Pi Va 		013	ImDc	K4 V	-3	(A00-2)	[0000]	BD	10	-20
+1323	Delp	I	0826	Midelton	X300000-7	 	     O:0827  Di Na Pi Va 		013	Wild	K4 V	-3	(A00-1)	[0000]	BD	10	-10
+1508	Delp	I	0826	Midelton	X300000-7	 	      O:0827  Di Va 		013	Wild	K4 V	-3	(A00+1)	[0000]	B	10	10
+1900	Delp	I	0826	Midelton	X300000-7	 	      O:0827  Di Va 		013	Wild	K4 V	-3	(A00-4)	[0000]	B	10	-40
+
+1105	Delp	I	0827	Cheng	B5448BC-9	 	     Pz  Pa Pi Ph (NIL)	A	605	ImDc	M2 V M4 V	1	(F7A+4)	[B98C]	BcDe	14	4200
+1201	Delp	I	0827	Cheng	X54496B-4	 	     Pz  Hi In (NIL)	B	605	ImDc	M2 V M4 V	0	(A8A-1)	[B984]	BE	14	-800
+1323	Delp	I	0827	Cheng	X544988-1	 	     Pz  Hi In (NIL)		305	Wild	M2 V M4 V	0	(A8C-2)	[9942]	BE	14	-1920
+1508	Delp	I	0827	Cheng	X544975-2	 	     Pz  Hi In (NIL)		205	Wild	M2 V M4 V	0	(A8A+3)	[59A1]	BE	14	2400
+1900	Delp	I	0827	Cheng	X54497B-3	 	     Pz  Hi In (NIL)		305	Wild	M2 V M4 V	0	(A87+2)	[8943]	BE	14	1120
+
+1105	Delp	I	0829	Breandan	A994688-C	N 	     Ag Ni 		310	ImDc	M2 V	2	(956+2)	[685C]	BC	8	540
+1201	Delp	I	0829	Breandan	B99468A-8	 	     Ag Ni 		310	ImDc	M2 V	0	(956-1)	[463C]	BC	8	-270
+1323	Delp	I	0829	Breandan	X994000-8	 	      Di 		010	Wild	M2 V	-3	(900+5)	[0000]	B	8	45
+1508	Delp	I	0829	Breandan	X994000-8	 	      Di 		010	Wild	M2 V	-3	(900+1)	[0000]	B	8	9
+1900	Delp	I	0829	Breandan	X994000-8	 	      Di 		010	Wild	M2 V	-3	(900-2)	[0000]	B	8	-18
+
+1105	Delp	I	0830	Lashkagur	B74498A-C	 	     Hi In (NIL)		902	ImDc	G1 V	4	(D8F+5)	[BD7E]	BEf	14	7800
+1201	Delp	I	0830	Lashkagur	X744000-C	 	     Di In (NIL)		002	ImDc	G1 V	0	(D00-1)	[0000]	BE	14	-13
+1323	Delp	I	0830	Lashkagur	X744000-C	 	     Di In (NIL)		002	Wild	G1 V	0	(D00-1)	[0000]	BE	14	-13
+1508	Delp	I	0830	Lashkagur	X744000-C	 	      Di (NIL)		002	Wild	G1 V	-1	(D00+1)	[0000]	B	14	13
+1900	Delp	I	0830	Lashkagur	X744000-C	 	      Di (NIL)		002	Wild	G1 V	-1	(D00+2)	[0000]	B	14	26
+
+1105	Delp	M	0832	Depot 1	A58346A-D	D 	    Da   Ni 	A	304	ImDc	M3 V M3 V	2	(A35+4)	[667F]	B	12	600
+1201	Delp	M	0832	Depot 1	X583100-2	 	    Da   Lo 	B	604	ImDc	M3 V M3 V	-3	(600-5)	[3141]	B	12	-30
+1323	Delp	M	0832	Depot 1	X583000-2	 	    Da   Di 		004	Wild	M3 V M3 V	-3	(600-4)	[0000]	B	12	-24
+1508	Delp	M	0832	Depot 1	X583000-2	 	    Da   Di 		004	Wild	M3 V M3 V	-3	(600+1)	[0000]	B	12	6
+1900	Delp	M	0832	Depot 1	X583000-2	 	    Da   Di 		004	Wild	M3 V M3 V	-3	(600+1)	[0000]	B	12	6
+
+1105	Delp	M	0836	Wovim	E54A998-6	 	     Hi In Wa (NIL)		914	ImDc	K3 V	0	(B88+1)	[9956]	BE	8	704
+1201	Delp	M	0836	Wovim	X54A727-3	 	       Wa (NIL)	B	114	ImDc	K3 V	-2	(B63-1)	[8591]	B	8	-198
+1323	Delp	M	0836	Wovim	X54A653-0	 	      Ni Wa (NIL)		514	Wild	K3 V	-3	(B50-2)	[6321]	B	8	-110
+1508	Delp	M	0836	Wovim	X54A636-0	 	      Ni Wa (NIL)		514	Wild	K3 V	-3	(B52-1)	[7345]	B	8	-110
+1900	Delp	M	0836	Wovim	X54A651-1	 	      Ni Wa (NIL)		614	Wild	K3 V	-3	(B52-3)	[6323]	B	8	-330
+
+1105	Delp	M	0838	Em	C310331-7	 	     Lo 		512	ImDc	M0 V	-2	(520-5)	[1113]	B	16	-50
+1201	Delp	M	0838	Em	X310000-7	 	     Di 		012	ImDc	M0 V	-3	(500-1)	[0000]	B	16	-5
+1323	Delp	M	0838	Em	X310000-7	 	     Di 		012	Wild	M0 V	-3	(500-2)	[0000]	B	16	-10
+1508	Delp	M	0838	Em	X310000-7	 	     Di 		012	Wild	M0 V	-3	(500+4)	[0000]	B	16	20
+1900	Delp	M	0838	Em	X310000-7	 	     Di 		012	Wild	M0 V	-3	(500+2)	[0000]	B	16	10
+
+1105	Delp	M	0840	Aandimar	C310697-9	 	     Na Ni 		203	ImDc	G3 V M4 V	-1	(B53-1)	[6559]	B	9	-165
+1201	Delp	M	0840	Aandimar	X310000-9	 	     Di Na 		003	ImDc	G3 V M4 V	-2	(B00+1)	[0000]	B	9	11
+1323	Delp	M	0840	Aandimar	X310000-9	 	     Di Na 		003	Wild	G3 V M4 V	-2	(B00-3)	[0000]	B	9	-33
+1508	Delp	M	0840	Aandimar	X310000-9	 	      Di 		003	Wild	G3 V M4 V	-2	(B00-1)	[0000]	B	9	-11
+1900	Delp	M	0840	Aandimar	X310000-9	 	      Di 		003	Wild	G3 V M4 V	-2	(B00-3)	[0000]	B	9	-33
+
+1105	Delp	B	0901	Morrill	C1008A6-7	 	      Na Pi Ph Va 		313	ImDc	K1 V M5 V	-1	(A77-2)	[7746]	BDe	10	-980
+1201	Delp	B	0901	Morrill	X100000-7	 	      Di Na Pi Va 		013	ImDc	K1 V M5 V	-3	(A00+3)	[0000]	BD	10	30
+1323	Delp	B	0901	Morrill	X100000-7	 	      Di Na Pi Va 		013	Wild	K1 V M5 V	-3	(A00+1)	[0000]	BD	10	10
+1508	Delp	B	0901	Morrill	X100000-7	 	       Di Va 		013	Wild	K1 V M5 V	-3	(A00-1)	[0000]	B	10	-10
+1900	Delp	B	0901	Morrill	X100000-7	 	       Di Va 		013	Wild	K1 V M5 V	-3	(A00-2)	[0000]	B	10	-20
+
+1105	Delp	B	0904	Kamikir	B99A99C-C	 	     Pz  Hi In Wa (NIL)	A	504	ImDc	G2 V M2 V	4	(F8F+5)	[CD8F]	BEf	9	9000
+1201	Delp	B	0904	Kamikir	C99A100-7	 	      Pz  Lo Wa (NIL)		404	ImDc	G2 V M2 V	-2	(B00+2)	[214A]	B	9	22
+1323	Delp	B	0904	Kamikir	X99A000-7	 	      Pz  Di Wa (NIL)		004	Wild	G2 V M2 V	-3	(B00+1)	[0000]	B	9	11
+1508	Delp	B	0904	Kamikir	X99A000-7	 	      Pz  Di Wa (NIL)		004	Wild	G2 V M2 V	-3	(B00+3)	[0000]	B	9	33
+1900	Delp	B	0904	Kamikir	X99A000-7	 	      Pz  Di Wa (NIL)		004	Wild	G2 V M2 V	-3	(B00-2)	[0000]	B	9	-22
+
+1105	Delp	B	0905	Siolta	A87A697-E	N 	     Ni Wa 		604	ImDc	K3 V	1	(C55+1)	[675E]	B	13	300
+1201	Delp	B	0905	Siolta	X87A650-6	 	     Ni Wa 		504	ImDc	K3 V	-3	(853-1)	[8338]	B	13	-120
+1323	Delp	B	0905	Siolta	X87A000-6	 	     Di Wa 		004	Wild	K3 V	-3	(800+1)	[0000]	B	13	8
+1508	Delp	B	0905	Siolta	X87A000-6	 	     Di Wa 		004	Wild	K3 V	-3	(800+3)	[0000]	B	13	24
+1900	Delp	B	0905	Siolta	X87A000-6	 	     Di Wa 		004	Wild	K3 V	-3	(800-2)	[0000]	B	13	-16
+
+1105	Delp	B	0906	Robin	B994330-A	N 	     Lo 		114	ImDc	M2 V	1	(A21-3)	[1415]	B	8	-60
+1201	Delp	B	0906	Robin	X994143-3	 	     Lo 	B	314	ImDc	M2 V	-3	(500+3)	[1171]	B	8	15
+1323	Delp	B	0906	Robin	X994000-3	 	     Di 		014	Wild	M2 V	-3	(500+3)	[0000]	B	8	15
+1508	Delp	B	0906	Robin	X994000-3	 	     Di 		014	Wild	M2 V	-3	(500+1)	[0000]	B	8	5
+1900	Delp	B	0906	Robin	X994000-3	 	     Di 		014	Wild	M2 V	-3	(500-1)	[0000]	B	8	-5
+
+1105	Delp	F	0916	Odin	C543444-6	 	     Ni Po 		703	ImDc	K2 V	-2	(631-4)	[2234]	B	7	-72
+1201	Delp	F	0916	Odin	E543446-3	 	     Ni Po 		403	ImDc	K2 V	-3	(631-1)	[1144]	B	7	-18
+1323	Delp	F	0916	Odin	E543000-3	 	     Di Po 		003	Wild	K2 V	-3	(600-1)	[0000]	B	7	-6
+1508	Delp	F	0916	Odin	E543000-3	 	     Di Po 		003	Wild	K2 V	-3	(600-4)	[0000]	B	7	-24
+1900	Delp	F	0916	Odin	E543000-3	 	     Di Po 		003	Wild	K2 V	-3	(600+5)	[0000]	B	7	30
+
+1105	Delp	F	0918	Galis	E425133-7	 	     Lo 		622	ImDc	K4 V	-3	(300-5)	[1124]	B	9	-15
+1201	Delp	F	0918	Galis	X425000-7	 	     Di 		022	ImDc	K4 V	-3	(300-3)	[0000]	B	9	-9
+1323	Delp	F	0918	Galis	X425000-7	 	     Di 		022	Wild	K4 V	-3	(300-3)	[0000]	B	9	-9
+1508	Delp	F	0918	Galis	X425000-7	 	     Di 		022	Wild	K4 V	-3	(300+1)	[0000]	B	9	3
+1900	Delp	F	0918	Galis	X425000-7	 	     Di 		022	Wild	K4 V	-3	(300-1)	[0000]	B	9	-3
+
+1105	Delp	J	0922	Orn	D64A404-8	 	     Ni Wa 		902	ImDc	K4 V	-3	(831-5)	[2136]	B	15	-120
+1201	Delp	J	0922	Orn	E64A457-6	 	     Ni Wa 		502	ImDc	K4 V	-3	(631+1)	[7164]	B	15	18
+1323	Delp	J	0922	Orn	E64A000-6	 	     Di Wa 		002	Wild	K4 V	-3	(600+4)	[0000]	B	15	24
+1508	Delp	J	0922	Orn	E64A000-6	 	     Di Wa 		002	Wild	K4 V	-3	(600+5)	[0000]	B	15	30
+1900	Delp	J	0922	Orn	E64A000-6	 	     Di Wa 		002	Wild	K4 V	-3	(600+1)	[0000]	B	15	6
+
+1105	Delp	J	0925	Konat-Kale	B310886-B	 	       Na Pi Ph 		302	ImDc	M3 V	2	(C7C+1)	[7A4A]	BDe	7	1008
+1201	Delp	J	0925	Konat-Kale	X310000-B	 	       Di Na Pi 		002	ImDc	M3 V	-1	(C00-1)	[0000]	BD	7	-12
+1323	Delp	J	0925	Konat-Kale	X310000-B	 	       Di Na Pi 		002	Wild	M3 V	-1	(C00-2)	[0000]	BD	7	-24
+1508	Delp	J	0925	Konat-Kale	X310000-B	 	        Di 		002	Wild	M3 V	-1	(C00+1)	[0000]	B	7	12
+1900	Delp	J	0925	Konat-Kale	X310000-B	 	        Di 		002	Wild	M3 V	-1	(C00+1)	[0000]	B	7	12
+
+1105	Delp	J	0926	Poynting	C787634-8	 	      Ag Ri Ga Ni 		905	ImDc	M0 V M1 V	0	(D54-2)	[4636]	BC	17	-520
+1201	Delp	J	0926	Poynting	X78778B-5	 	       Ag Ri Ga 	B	105	ImDc	M0 V M1 V	0	(86A+1)	[6714]	BC	17	480
+1323	Delp	J	0926	Poynting	X787678-0	 	      Ag Ri Ga Ni 		505	Wild	M0 V M1 V	-1	(855+1)	[3521]	BC	17	200
+1508	Delp	J	0926	Poynting	X787676-1	 	      Ag Ri Ga Ni 		605	Wild	M0 V M1 V	-1	(851+1)	[5551]	BC	17	40
+1900	Delp	J	0926	Poynting	X787657-3	 	      Ag Ri Ga Ni 		705	Wild	M0 V M1 V	-1	(853-2)	[7588]	BC	17	-240
+
+1105	Delp	J	0929	Gabon	C10088A-B	 	      Na Pi Ph Va 		513	ImDc	K3 V M4 V	1	(E7B+3)	[A97D]	BDe	8	3234
+1201	Delp	J	0929	Gabon	X100000-B	 	      Di Na Pi Va 		013	ImDc	K3 V M4 V	-1	(E00+5)	[0000]	BD	8	70
+1323	Delp	J	0929	Gabon	X100000-B	 	      Di Na Pi Va 		013	Wild	K3 V M4 V	-1	(E00+1)	[0000]	BD	8	14
+1508	Delp	J	0929	Gabon	X100000-B	 	       Di Va 		013	Wild	K3 V M4 V	-1	(E00-2)	[0000]	B	8	-28
+1900	Delp	J	0929	Gabon	X100000-B	 	       Di Va 		013	Wild	K3 V M4 V	-1	(E00+1)	[0000]	B	8	14
+
+1105	Delp	N	0933	Rappik	B57289B-8	 	    Pz  He Ph Pi (NIL)	A	313	ImDc	M2 V	0	(E78+2)	[A87A]	BDe	7	1568
+1201	Delp	N	0933	Rappik	D572176-6	 	     Pz  He Lo (NIL)		713	ImDc	M2 V	-3	(A00+1)	[3149]	B	7	10
+1323	Delp	N	0933	Rappik	D572000-6	 	     Pz  Di He (NIL)		013	Wild	M2 V	-3	(A00-1)	[0000]	B	7	-10
+1508	Delp	N	0933	Rappik	D572000-6	 	     Pz  Di He (NIL)		013	Wild	M2 V	-3	(A00+1)	[0000]	B	7	10
+1900	Delp	N	0933	Rappik	D572000-6	 	     Pz  Di He (NIL)		013	Wild	M2 V	-3	(A00-2)	[0000]	B	7	-20
+
+1105	Delp	N	0935	Pepsi	D566877-2	 	      Pa Ri Ph (NIL)		202	ImDc	M0 V	-1	(A74-1)	[8752]	BcCe	15	-280
+1201	Delp	N	0935	Pepsi	X566879-0	 	      Pa Ri Ph (NIL)	B	302	ImDc	M0 V	-1	(A7A-2)	[C711]	BcCe	15	-1400
+1323	Delp	N	0935	Pepsi	X5668BD-0	 	      Pa Ri Ph (NIL)		102	Wild	M0 V	-1	(A75+1)	[7751]	BcCe	15	350
+1508	Delp	N	0935	Pepsi	X56687A-0	 	      Pa Ri Ph (NIL)		102	Wild	M0 V	-1	(A75+2)	[6721]	BcCe	15	700
+1900	Delp	N	0935	Pepsi	X566778-0	 	       Ag Ri (NIL)		902	Wild	M0 V	0	(A62+2)	[B711]	BC	15	240
+
+1105	Delp	N	0937	Eysellt	E000133-A	 	     Da  As Va Lo 	A	213	ImDc	M8 III D	-1	(700-4)	[1127]	B	14	-28
+1201	Delp	N	0937	Eysellt	X000000-A	 	     Da  As Va Di 		013	ImDc	M8 III D	-1	(700+1)	[0000]	B	14	7
+1323	Delp	N	0937	Eysellt	X000000-A	 	     Da  As Va Di 		013	Wild	M8 III D	-1	(700-3)	[0000]	B	14	-21
+1508	Delp	N	0937	Eysellt	X000000-A	 	     Da  As Va Di 		013	Wild	M8 III D	-1	(700+1)	[0000]	B	14	7
+1900	Delp	N	0937	Eysellt	X000000-A	 	     Da  As Va Di 		013	Wild	M8 III D	-1	(700+3)	[0000]	B	14	21
+
+1105	Delp	N	0938	Jacobite	C686354-7	 	    Da  Ga Lo 	A	225	ImDc	K9 V M9 V	-2	(520-4)	[1135]	B	15	-40
+1201	Delp	N	0938	Jacobite	X686212-3	 	    Da  Ga Lo 		325	ImDc	K9 V M9 V	-3	(510-3)	[2114]	B	15	-15
+1323	Delp	N	0938	Jacobite	X686000-3	 	    Da  Di Ga 		025	Wild	K9 V M9 V	-3	(500+2)	[0000]	B	15	10
+1508	Delp	N	0938	Jacobite	X686000-3	 	    Da  Di Ga 		025	Wild	K9 V M9 V	-3	(500-3)	[0000]	B	15	-15
+1900	Delp	N	0938	Jacobite	X686000-3	 	    Da  Di Ga 		025	Wild	K9 V M9 V	-3	(500+1)	[0000]	B	15	5
+
+1105	Delp	B	1001	Garel	C894335-9	 	     Lo 		604	ImDc	M2 V	-1	(920-3)	[1237]	B	7	-54
+1201	Delp	B	1001	Garel	X894277-2	 	     Lo 		104	ImDc	M2 V	-3	(510+2)	[1181]	B	7	10
+1323	Delp	B	1001	Garel	X894000-2	 	     Di 		004	Wild	M2 V	-3	(500+1)	[0000]	B	7	5
+1508	Delp	B	1001	Garel	X894000-2	 	     Di 		004	Wild	M2 V	-3	(500+1)	[0000]	B	7	5
+1900	Delp	B	1001	Garel	X894000-2	 	     Di 		004	Wild	M2 V	-3	(500+3)	[0000]	B	7	15
+
+1105	Delp	B	1002	Kennedy	C878345-5	 	     Lo 		710	ImDc	G6 V	-2	(520-4)	[1133]	B	10	-40
+1201	Delp	B	1002	Kennedy	E878176-4	 	     Lo 		710	ImDc	G6 V	-3	(500+3)	[2134]	B	10	15
+1323	Delp	B	1002	Kennedy	E878000-4	 	     Di 		010	Wild	G6 V	-3	(500-2)	[0000]	B	10	-10
+1508	Delp	B	1002	Kennedy	E878000-4	 	     Di 		010	Wild	G6 V	-3	(500+2)	[0000]	B	10	10
+1900	Delp	B	1002	Kennedy	E878000-4	 	     Di 		010	Wild	G6 V	-3	(500-2)	[0000]	B	10	-10
+
+1105	Delp	B	1007	Clarinda	E757423-4	 	     Ga Ni Pa 		804	ImDc	M1 V	-3	(631-5)	[1121]	Bc	9	-90
+1201	Delp	B	1007	Clarinda	X757453-1	 	     Ga Ni Pa 	B	504	ImDc	M1 V	-3	(631+1)	[5144]	Bc	9	18
+1323	Delp	B	1007	Clarinda	X757413-0	 	     Ga Ni Pa 		204	Wild	M1 V	-3	(630-1)	[2161]	Bc	9	-18
+1508	Delp	B	1007	Clarinda	X757411-0	 	     Ga Ni Pa 		104	Wild	M1 V	-3	(630+1)	[3181]	Bc	9	18
+1900	Delp	B	1007	Clarinda	X757411-0	 	     Ga Ni Pa 		204	Wild	M1 V	-3	(631+1)	[6121]	Bc	9	18
+
+1105	Delp	B	1009	Ursalem	D100AA9-D	S	      Hi Na In Va 		402	ImDc	K0 V M2 V	2	(E9E+3)	[BC6E]	BE	14	5292
+1201	Delp	B	1009	Ursalem	X100000-D	 	      Di Na In Va 		002	ImDc	K0 V M2 V	0	(E00-3)	[0000]	BE	14	-42
+1323	Delp	B	1009	Ursalem	X100000-D	 	      Di Na In Va 		002	Wild	K0 V M2 V	0	(E00+3)	[0000]	BE	14	42
+1508	Delp	B	1009	Ursalem	X100000-D	 	       Di Va 		002	Wild	K0 V M2 V	-1	(E00-4)	[0000]	B	14	-56
+1900	Delp	B	1009	Ursalem	X100000-D	 	       Di Va 		002	Wild	K0 V M2 V	-1	(E00+4)	[0000]	B	14	56
+
+1105	Delp	B	1010	Aeldra	D537679-6	 	    rg?  Ni 		823	ImDc	G0 V	-3	(851-2)	[7367]	B	14	-80
+1201	Delp	B	1010	Aeldra	X537000-6	 	    rg?  Di 		023	ImDc	G0 V	-3	(800-1)	[0000]	B	14	-8
+1323	Delp	B	1010	Aeldra	X537000-6	 	    rg?  Di 		023	Wild	G0 V	-3	(800+1)	[0000]	B	14	8
+1508	Delp	B	1010	Aeldra	X537000-6	 	    rg?  Di 		023	Wild	G0 V	-3	(800+1)	[0000]	B	14	8
+1900	Delp	B	1010	Aeldra	X537000-6	 	    rg?  Di 		023	Wild	G0 V	-3	(800+1)	[0000]	B	14	8
+
+1105	Delp	F	1013	Aylen	C584161-7	 	    O:1315  Lo 		612	ImDc	M2 V	-2	(300-5)	[1113]	B	13	-15
+1201	Delp	F	1013	Aylen	E584100-6	 	    O:1315  Lo 		812	ImDc	M2 V	-3	(300-3)	[2137]	B	13	-9
+1323	Delp	F	1013	Aylen	E584000-6	 	    O:1315  Di 		012	Wild	M2 V	-3	(300-5)	[0000]	B	13	-15
+1508	Delp	F	1013	Aylen	E584000-6	 	    O:1315  Di 		012	Wild	M2 V	-3	(300+4)	[0000]	B	13	12
+1900	Delp	F	1013	Aylen	E584000-6	 	    O:1315  Di 		012	Wild	M2 V	-3	(300+2)	[0000]	B	13	6
+
+1105	Delp	F	1015	Duane	B310867-C	S	     O:0818  Na Pi Ph 		202	ImDc	M1 V	2	(C7C+2)	[8A5C]	BDe	15	2016
+1201	Delp	F	1015	Duane	X310000-C	 	     O:0818  Di Na Pi 		002	ImDc	M1 V	-1	(C00-1)	[0000]	BD	15	-12
+1323	Delp	F	1015	Duane	X310000-C	 	     O:0818  Di Na Pi 		002	Wild	M1 V	-1	(C00+3)	[0000]	BD	15	36
+1508	Delp	F	1015	Duane	X310000-C	 	      O:0818  Di 		002	Wild	M1 V	-1	(C00+2)	[0000]	B	15	24
+1900	Delp	F	1015	Duane	X310000-C	 	      O:0818  Di 		002	Wild	M1 V	-1	(C00+1)	[0000]	B	15	12
+
+1105	Delp	F	1016	Daon	B9D6454-C	 	     Ni 		204	ImDc	M3 V	1	(A34-1)	[253A]	B	7	-120
+1201	Delp	F	1016	Daon	X9D6000-C	 	     Di 		004	ImDc	M3 V	-1	(A00-2)	[0000]	B	7	-20
+1323	Delp	F	1016	Daon	X9D6000-C	 	     Di 		004	Wild	M3 V	-1	(A00-1)	[0000]	B	7	-10
+1508	Delp	F	1016	Daon	X9D6000-C	 	     Di 		004	Wild	M3 V	-1	(A00+1)	[0000]	B	7	10
+1900	Delp	F	1016	Daon	X9D6000-C	 	     Di 		004	Wild	M3 V	-1	(A00+3)	[0000]	B	7	30
+
+1105	Delp	F	1018	Emila	E744100-8	 	     Lo 		603	ImDc	K9 V	-3	(600-5)	[1113]	B	10	-30
+1201	Delp	F	1018	Emila	X744100-4	 	     Lo 		503	ImDc	K9 V	-3	(300+3)	[1193]	B	10	9
+1323	Delp	F	1018	Emila	X744000-4	 	     Di 		003	Wild	K9 V	-3	(300+1)	[0000]	B	10	3
+1508	Delp	F	1018	Emila	X744000-4	 	     Di 		003	Wild	K9 V	-3	(300+3)	[0000]	B	10	9
+1900	Delp	F	1018	Emila	X744000-4	 	     Di 		003	Wild	K9 V	-3	(300-1)	[0000]	B	10	-3
+
+1105	Delp	F	1019	Zzurvurh	C551A9B-C	 	    Pz  Hi Po (NIL)	A	812	ImDc	M0 V	2	(F9D+4)	[CC7E]	BE	6	7020
+1201	Delp	F	1019	Zzurvurh	E551376-9	 	    Pz  Lo Po (NIL)		512	ImDc	M0 V	-2	(F20-1)	[216A]	B	6	-30
+1323	Delp	F	1019	Zzurvurh	E551000-9	 	    Pz  Di Po (NIL)		012	Wild	M0 V	-2	(F00-1)	[0000]	B	6	-15
+1508	Delp	F	1019	Zzurvurh	E551000-9	 	    Pz  Di Po (NIL)		012	Wild	M0 V	-2	(F00+2)	[0000]	B	6	30
+1900	Delp	F	1019	Zzurvurh	E551000-9	 	    Pz  Di Po (NIL)		012	Wild	M0 V	-2	(F00-2)	[0000]	B	6	-30
+
+1105	Delp	J	1021	Valandor	C100434-B	 	     Ni Va 		811	ImDc	M1 V M2 V	0	(833-2)	[2439]	B	13	-144
+1201	Delp	J	1021	Valandor	X100000-B	 	     Di Va 		011	ImDc	M1 V M2 V	-1	(800-1)	[0000]	B	13	-8
+1323	Delp	J	1021	Valandor	X100000-B	 	     Di Va 		011	Wild	M1 V M2 V	-1	(800+1)	[0000]	B	13	8
+1508	Delp	J	1021	Valandor	X100000-B	 	     Di Va 		011	Wild	M1 V M2 V	-1	(800-5)	[0000]	B	13	-40
+1900	Delp	J	1021	Valandor	X100000-B	 	     Di Va 		011	Wild	M1 V M2 V	-1	(800+1)	[0000]	B	13	8
+
+1105	Delp	J	1022	Gine	A100433-E	 	     Ni Va 		703	ImDc	K4 V	1	(934-2)	[152B]	B	9	-216
+1201	Delp	J	1022	Gine	X100000-E	 	     Di Va 		003	ImDc	K4 V	-1	(900-2)	[0000]	B	9	-18
+1323	Delp	J	1022	Gine	X100000-E	 	     Di Va 		003	Wild	K4 V	-1	(900-2)	[0000]	B	9	-18
+1508	Delp	J	1022	Gine	X100000-E	 	     Di Va 		003	Wild	K4 V	-1	(900-1)	[0000]	B	9	-9
+1900	Delp	J	1022	Gine	X100000-E	 	     Di Va 		003	Wild	K4 V	-1	(900+4)	[0000]	B	9	36
+
+1105	Delp	J	1024	Toirdealbach	B525677-7	 	    Ni Px 		403	ImDc	M0 V M4 V	-1	(853-1)	[6557]	B	13	-120
+1201	Delp	J	1024	Toirdealbach	X525000-7	 	    Di Px 		003	ImDc	M0 V M4 V	-3	(800-2)	[0000]	B	13	-16
+1323	Delp	J	1024	Toirdealbach	X525000-7	 	    Di Px 		003	Wild	M0 V M4 V	-3	(800+2)	[0000]	B	13	16
+1508	Delp	J	1024	Toirdealbach	X525000-7	 	     Di 		003	Wild	M0 V M4 V	-3	(800+2)	[0000]	B	13	16
+1900	Delp	J	1024	Toirdealbach	X525000-7	 	     Di 		003	Wild	M0 V M4 V	-3	(800-4)	[0000]	B	13	-32
+
+1105	Delp	J	1028	Edmonton	C431721-A	 	      Na Po (NIL)		823	ImDc	K3 V M0 V M0 V	1	(E6A-3)	[3816]	B	8	-2520
+1201	Delp	J	1028	Edmonton	X431000-A	 	     Di Na Po (NIL)		023	ImDc	K3 V M0 V M0 V	-1	(E00+4)	[0000]	B	8	56
+1323	Delp	J	1028	Edmonton	X431000-A	 	     Di Na Po (NIL)		023	Wild	K3 V M0 V M0 V	-1	(E00+1)	[0000]	B	8	14
+1508	Delp	J	1028	Edmonton	X431000-A	 	     Di Po (NIL)		023	Wild	K3 V M0 V M0 V	-1	(E00-3)	[0000]	B	8	-42
+1900	Delp	J	1028	Edmonton	X431000-A	 	     Di Po (NIL)		023	Wild	K3 V M0 V M0 V	-1	(E00-1)	[0000]	B	8	-14
+
+1105	Delp	N	1031	De Thorneclay	B527587-C	 	     Ni 		903	ImDc	M2 V M6 V M8 V	1	(A45+1)	[565C]	B	15	200
+1201	Delp	N	1031	De Thorneclay	X527000-C	 	     Di 		003	ImDc	M2 V M6 V M8 V	-1	(A00-3)	[0000]	B	15	-30
+1323	Delp	N	1031	De Thorneclay	X527000-C	 	     Di 		003	Wild	M2 V M6 V M8 V	-1	(A00+4)	[0000]	B	15	40
+1508	Delp	N	1031	De Thorneclay	X527000-C	 	     Di 		003	Wild	M2 V M6 V M8 V	-1	(A00+4)	[0000]	B	15	40
+1900	Delp	N	1031	De Thorneclay	X527000-C	 	     Di 		003	Wild	M2 V M6 V M8 V	-1	(A00+3)	[0000]	B	15	30
+
+1105	Delp	N	1034	Lavoisier	B553420-8	 	     Ni Po 		403	ImDc	M1 V	-1	(932-5)	[1313]	B	8	-270
+1201	Delp	N	1034	Lavoisier	D553432-7	 	     Ni Po 		303	ImDc	M1 V	-3	(632+2)	[1132]	B	8	72
+1323	Delp	N	1034	Lavoisier	D553000-7	 	     Di Po 		003	Wild	M1 V	-3	(600+4)	[0000]	B	8	24
+1508	Delp	N	1034	Lavoisier	D553000-7	 	     Di Po 		003	Wild	M1 V	-3	(600+1)	[0000]	B	8	6
+1900	Delp	N	1034	Lavoisier	D553000-7	 	     Di Po 		003	Wild	M1 V	-3	(600-3)	[0000]	B	8	-18
+
+1105	Delp	N	1035	McConnell	E639340-7	 	     Lo 		711	ImDc	G3 V	-3	(520-5)	[1112]	B	8	-50
+1201	Delp	N	1035	McConnell	X639000-7	 	     Di 		011	ImDc	G3 V	-3	(500-2)	[0000]	B	8	-10
+1323	Delp	N	1035	McConnell	X639000-7	 	     Di 		011	Wild	G3 V	-3	(500-1)	[0000]	B	8	-5
+1508	Delp	N	1035	McConnell	X639000-7	 	     Di 		011	Wild	G3 V	-3	(500+5)	[0000]	B	8	25
+1900	Delp	N	1035	McConnell	X639000-7	 	     Di 		011	Wild	G3 V	-3	(500+1)	[0000]	B	8	5
+
+1105	Delp	N	1036	Belthan	A310877-E	 	       Na Pi Ph 		413	ImDc	K3 V	2	(E7D+2)	[8A5E]	BDe	11	2548
+1201	Delp	N	1036	Belthan	X310000-E	 	       Di Na Pi 		013	ImDc	K3 V	-1	(E00+3)	[0000]	BD	11	42
+1323	Delp	N	1036	Belthan	X310000-E	 	       Di Na Pi 		013	Wild	K3 V	-1	(E00+1)	[0000]	BD	11	14
+1508	Delp	N	1036	Belthan	X310000-E	 	        Di 		013	Wild	K3 V	-1	(E00+1)	[0000]	B	11	14
+1900	Delp	N	1036	Belthan	X310000-E	 	        Di 		013	Wild	K3 V	-1	(E00+2)	[0000]	B	11	28
+
+1105	Delp	N	1039	Beowulf	B996454-B	N 	     Ni Pa 		104	ImDc	G0 V	1	(A34-1)	[2539]	Bc	11	-120
+1201	Delp	N	1039	Beowulf	X996124-3	 	      Lo 	B	704	ImDc	G0 V	-3	(600-5)	[1164]	B	11	-30
+1323	Delp	N	1039	Beowulf	X996000-3	 	      Di 		004	Wild	G0 V	-3	(600-3)	[0000]	B	11	-18
+1508	Delp	N	1039	Beowulf	X996000-3	 	      Di 		004	Wild	G0 V	-3	(600+4)	[0000]	B	11	24
+1900	Delp	N	1039	Beowulf	X996000-3	 	      Di 		004	Wild	G0 V	-3	(600+1)	[0000]	B	11	6
+
+1105	Delp	B	1101	Thomaswyff	C000741-7	 	       As Va Na Pi 		712	ImDc	K0 V	-1	(967-5)	[3613]	BD	7	-1890
+1201	Delp	B	1101	Thomaswyff	X000000-7	 	      As Va Di Na Pi 		012	ImDc	K0 V	-3	(900+3)	[0000]	BD	7	27
+1323	Delp	B	1101	Thomaswyff	X000000-7	 	      As Va Di Na Pi 		012	Wild	K0 V	-3	(900-2)	[0000]	BD	7	-18
+1508	Delp	B	1101	Thomaswyff	X000000-7	 	       As Va Di 		012	Wild	K0 V	-3	(900-2)	[0000]	B	7	-18
+1900	Delp	B	1101	Thomaswyff	X000000-7	 	       As Va Di 		012	Wild	K0 V	-3	(900+2)	[0000]	B	7	18
+
+1105	Delp	B	1103	Tsent	B639954-E	 	     Hi (NIL)		724	ImDc	M3 V M7 V	3	(H8F+1)	[7C3C]	BE	13	2040
+1201	Delp	B	1103	Tsent	X639000-E	 	     Di (NIL)		024	ImDc	M3 V M7 V	-1	(H00+1)	[0000]	B	13	17
+1323	Delp	B	1103	Tsent	X639000-E	 	     Di (NIL)		024	Wild	M3 V M7 V	-1	(H00+1)	[0000]	B	13	17
+1508	Delp	B	1103	Tsent	X639000-E	 	     Di (NIL)		024	Wild	M3 V M7 V	-1	(H00+2)	[0000]	B	13	34
+1900	Delp	B	1103	Tsent	X639000-E	 	     Di (NIL)		024	Wild	M3 V M7 V	-1	(H00-2)	[0000]	B	13	-34
+
+1105	Delp	B	1104	Giuditta	B100434-9	 	     Ni Va 		104	ImDc	G2 IV	0	(A33-2)	[2437]	B	7	-180
+1201	Delp	B	1104	Giuditta	X100000-9	 	     Di Va 		004	ImDc	G2 IV	-2	(A00+3)	[0000]	B	7	30
+1323	Delp	B	1104	Giuditta	X100000-9	 	     Di Va 		004	Wild	G2 IV	-2	(A00-1)	[0000]	B	7	-10
+1508	Delp	B	1104	Giuditta	X100000-9	 	     Di Va 		004	Wild	G2 IV	-2	(A00-1)	[0000]	B	7	-10
+1900	Delp	B	1104	Giuditta	X100000-9	 	     Di Va 		004	Wild	G2 IV	-2	(A00+1)	[0000]	B	7	10
+
+1105	Delp	B	1109	Pale	A100433-D	 	     Ni Va 		412	ImDc	M3 V	1	(934-2)	[152A]	B	11	-216
+1201	Delp	B	1109	Pale	X100000-D	 	     Di Va 		012	ImDc	M3 V	-1	(900-2)	[0000]	B	11	-18
+1323	Delp	B	1109	Pale	X100000-D	 	     Di Va 		012	Wild	M3 V	-1	(900+2)	[0000]	B	11	18
+1508	Delp	B	1109	Pale	X100000-D	 	     Di Va 		012	Wild	M3 V	-1	(900-1)	[0000]	B	11	-9
+1900	Delp	B	1109	Pale	X100000-D	 	     Di Va 		012	Wild	M3 V	-1	(900-4)	[0000]	B	11	-36
+
+1105	Delp	F	1111	Carthage	B525677-8	 	    Ni Px 		100	ImDc	K3 V	-1	(853-1)	[6558]	B	10	-120
+1201	Delp	F	1111	Carthage	X525000-8	 	    Di Px 		000	ImDc	K3 V	-3	(800-3)	[0000]	B	10	-24
+1323	Delp	F	1111	Carthage	X525000-8	 	    Di Px 		000	Wild	K3 V	-3	(800-2)	[0000]	B	10	-16
+1508	Delp	F	1111	Carthage	X525000-8	 	     Di 		000	Wild	K3 V	-3	(800+3)	[0000]	B	10	24
+1900	Delp	F	1111	Carthage	X525000-8	 	     Di 		000	Wild	K3 V	-3	(800+1)	[0000]	B	10	8
+
+1105	Delp	F	1114	Evraud	D431721-6	 	     rg?  Na Po (NIL)		223	ImDc	M1 V	-2	(965-5)	[3512]	B	9	-1350
+1201	Delp	F	1114	Evraud	X431000-6	 	    rg?  Di Na Po (NIL)		023	ImDc	M1 V	-3	(900+1)	[0000]	B	9	9
+1323	Delp	F	1114	Evraud	X431000-6	 	    rg?  Di Na Po (NIL)		023	Wild	M1 V	-3	(900-1)	[0000]	B	9	-9
+1508	Delp	F	1114	Evraud	X431000-6	 	    rg?  Di Po (NIL)		023	Wild	M1 V	-3	(900+1)	[0000]	B	9	9
+1900	Delp	F	1114	Evraud	X431000-6	 	    rg?  Di Po (NIL)		023	Wild	M1 V	-3	(900-1)	[0000]	B	9	-9
+
+1105	Delp	F	1116	Lacerta	E000587-7	 	      As Va Ni 		212	ImDc	M0 V M3 V	-3	(741-3)	[5257]	B	9	-84
+1201	Delp	F	1116	Lacerta	X000000-7	 	      As Va Di 		012	ImDc	M0 V M3 V	-3	(700-2)	[0000]	B	9	-14
+1323	Delp	F	1116	Lacerta	X000000-7	 	      As Va Di 		012	Wild	M0 V M3 V	-3	(700-1)	[0000]	B	9	-7
+1508	Delp	F	1116	Lacerta	X000000-7	 	      As Va Di 		012	Wild	M0 V M3 V	-3	(700-1)	[0000]	B	9	-7
+1900	Delp	F	1116	Lacerta	X000000-7	 	      As Va Di 		012	Wild	M0 V M3 V	-3	(700+1)	[0000]	B	9	7
+
+1105	Delp	F	1118	Antler	A553420-D	NS	      Ni Po 		603	ImDc	M3 V M8 V	2	(935-2)	[1618]	B	12	-270
+1201	Delp	F	1118	Antler	X553400-7	 	      Ni Po 		303	ImDc	M3 V M8 V	-3	(630+1)	[3174]	B	12	18
+1323	Delp	F	1118	Antler	X553000-7	 	      Di Po 		003	Wild	M3 V M8 V	-3	(600+4)	[0000]	B	12	24
+1508	Delp	F	1118	Antler	X553000-7	 	      Di Po 		003	Wild	M3 V M8 V	-3	(600+1)	[0000]	B	12	6
+1900	Delp	F	1118	Antler	X553000-7	 	      Di Po 		003	Wild	M3 V M8 V	-3	(600+5)	[0000]	B	12	30
+
+1105	Delp	F	1119	McDonald	E100434-A	 	     Ni Va 		410	ImDc	M1 V	-1	(732-3)	[2338]	B	9	-126
+1201	Delp	F	1119	McDonald	X100000-A	 	     Di Va 		010	ImDc	M1 V	-1	(700-2)	[0000]	B	9	-14
+1323	Delp	F	1119	McDonald	X100000-A	 	     Di Va 		010	Wild	M1 V	-1	(700+1)	[0000]	B	9	7
+1508	Delp	F	1119	McDonald	X100000-A	 	     Di Va 		010	Wild	M1 V	-1	(700-1)	[0000]	B	9	-7
+1900	Delp	F	1119	McDonald	X100000-A	 	     Di Va 		010	Wild	M1 V	-1	(700+2)	[0000]	B	9	14
+
+1105	Delp	J	1123	De Weton	D565220-5	 	     Lo 		103	ImDc	K9 V	-3	(410-5)	[1111]	B	8	-20
+1201	Delp	J	1123	De Weton	X565205-4	 	     Lo 		503	ImDc	K9 V	-3	(410-4)	[4142]	B	8	-16
+1323	Delp	J	1123	De Weton	X565000-4	 	     Di 		003	Wild	K9 V	-3	(400-5)	[0000]	B	8	-20
+1508	Delp	J	1123	De Weton	X565000-4	 	     Di 		003	Wild	K9 V	-3	(400+2)	[0000]	B	8	8
+1900	Delp	J	1123	De Weton	X565000-4	 	     Di 		003	Wild	K9 V	-3	(400+3)	[0000]	B	8	12
+
+1105	Delp	N	1133	Barett	E756440-5	 	     Ga Ni Pa 		124	ImDc	M3 V	-3	(631-5)	[1111]	Bc	12	-90
+1201	Delp	N	1133	Barett	X756312-2	 	      Ga Lo 	B	124	ImDc	M3 V	-3	(620+1)	[2143]	B	12	12
+1323	Delp	N	1133	Barett	X756000-2	 	      Di Ga 		024	Wild	M3 V	-3	(600+4)	[0000]	B	12	24
+1508	Delp	N	1133	Barett	X756000-2	 	      Di Ga 		024	Wild	M3 V	-3	(600+1)	[0000]	B	12	6
+1900	Delp	N	1133	Barett	X756000-2	 	      Di Ga 		024	Wild	M3 V	-3	(600+3)	[0000]	B	12	18
+
+1105	Delp	N	1134	Martis	A897554-D	 	     Ag Ni 		600	ImDc	M3 V M5 V	2	(746+1)	[373B]	BC	8	168
+1201	Delp	N	1134	Martis	X89758A-7	 	     Ag Ni 	B	300	ImDc	M3 V M5 V	-2	(740-1)	[8355]	BC	8	-28
+1323	Delp	N	1134	Martis	X897000-7	 	      Di 		000	Wild	M3 V M5 V	-3	(700-4)	[0000]	B	8	-28
+1508	Delp	N	1134	Martis	X897000-7	 	      Di 		000	Wild	M3 V M5 V	-3	(700+3)	[0000]	B	8	21
+1900	Delp	N	1134	Martis	X897000-7	 	      Di 		000	Wild	M3 V M5 V	-3	(700+1)	[0000]	B	8	7
+
+1105	Delp	N	1136	Bane	B667253-8	 	     Ga Lo 		802	ImDc	K5 V	-1	(610-4)	[1125]	B	12	-24
+1201	Delp	N	1136	Bane	D667379-7	 	     Ga Lo 		902	ImDc	K5 V	-3	(420+3)	[3156]	B	12	24
+1323	Delp	N	1136	Bane	D667000-7	 	     Di Ga 		002	Wild	K5 V	-3	(400+2)	[0000]	B	12	8
+1508	Delp	N	1136	Bane	D667000-7	 	     Di Ga 		002	Wild	K5 V	-3	(400-3)	[0000]	B	12	-12
+1900	Delp	N	1136	Bane	D667000-7	 	     Di Ga 		002	Wild	K5 V	-3	(400+2)	[0000]	B	12	8
+
+1105	Delp	N	1137	Monticello	E6888CF-2	 	     Pz  Pa Ri Ph (NIL)	A	900	ImDc	M2 V	-1	(A74+4)	[D7A7]	BcCe	7	1120
+1201	Delp	N	1137	Monticello	X688979-2	 	     Pz  Hi Pr (NIL)	B	100	ImDc	M2 V	-1	(A85-5)	[D872]	BcE	7	-2000
+1323	Delp	N	1137	Monticello	X68888A-0	 	     Pz  Pa Ri Ph (NIL)		500	Wild	M2 V	-1	(A7A+2)	[9711]	BcCe	7	1400
+1508	Delp	N	1137	Monticello	X688887-0	 	     Pz  Pa Ri Ph (NIL)		600	Wild	M2 V	-1	(A7A-2)	[7741]	BcCe	7	-1400
+1900	Delp	N	1137	Monticello	X688898-0	 	     Pz  Pa Ri Ph (NIL)		500	Wild	M2 V	-1	(A75-5)	[7761]	BcCe	7	-1750
+
+1105	Delp	N	1138	Bert	A310610-9	 	     Na Ni 		324	ImDc	M0 V M2 V	0	(E54-4)	[1614]	B	9	-1120
+1201	Delp	N	1138	Bert	X310000-9	 	     Di Na 		024	ImDc	M0 V M2 V	-2	(E00+1)	[0000]	B	9	14
+1323	Delp	N	1138	Bert	X310000-9	 	     Di Na 		024	Wild	M0 V M2 V	-2	(E00-1)	[0000]	B	9	-14
+1508	Delp	N	1138	Bert	X310000-9	 	      Di 		024	Wild	M0 V M2 V	-2	(E00+1)	[0000]	B	9	14
+1900	Delp	N	1138	Bert	X310000-9	 	      Di 		024	Wild	M0 V M2 V	-2	(E00+2)	[0000]	B	9	28
+
+1105	Delp	N	1140	McCluskey	C625785-8	 	     Pi (NIL)		103	ImDc	M2 V	-1	(C67-3)	[5636]	BD	11	-1512
+1201	Delp	N	1140	McCluskey	X625000-8	 	    Di Pi (NIL)		003	ImDc	M2 V	-3	(C00+1)	[0000]	BD	11	12
+1323	Delp	N	1140	McCluskey	X625000-8	 	    Di Pi (NIL)		003	Wild	M2 V	-3	(C00-2)	[0000]	BD	11	-24
+1508	Delp	N	1140	McCluskey	X625000-8	 	     Di (NIL)		003	Wild	M2 V	-3	(C00+2)	[0000]	B	11	24
+1900	Delp	N	1140	McCluskey	X625000-8	 	     Di (NIL)		003	Wild	M2 V	-3	(C00+1)	[0000]	B	11	12
+
+1105	Delp	B	1202	Caaling	B532464-B	 	    O:1103  Ni Po 		525	ImDc	M0 V M2 V M8 V	1	(D34-1)	[2539]	B	10	-156
+1201	Delp	B	1202	Caaling	X532000-B	 	    O:1103  Di Po 		025	ImDc	M0 V M2 V M8 V	-1	(D00+1)	[0000]	B	10	13
+1323	Delp	B	1202	Caaling	X532000-B	 	    O:1103  Di Po 		025	Wild	M0 V M2 V M8 V	-1	(D00-2)	[0000]	B	10	-26
+1508	Delp	B	1202	Caaling	X532000-B	 	    O:1103  Di Po 		025	Wild	M0 V M2 V M8 V	-1	(D00-3)	[0000]	B	10	-39
+1900	Delp	B	1202	Caaling	X532000-B	 	    O:1103  Di Po 		025	Wild	M0 V M2 V M8 V	-1	(D00+2)	[0000]	B	10	26
+
+1105	Delp	B	1203	Eustache	E545898-5	 	      Pa Pi Ph (NIL)		422	ImDc	M0 V	-2	(A75-2)	[8655]	BcDe	7	-700
+1201	Delp	B	1203	Eustache	X545477-4	 	      Ni Pa (NIL)		322	ImDc	M0 V	-3	(A30-3)	[1154]	Bc	7	-90
+1323	Delp	B	1203	Eustache	X545000-4	 	       Di (NIL)		022	Wild	M0 V	-3	(A00-5)	[0000]	B	7	-50
+1508	Delp	B	1203	Eustache	X545000-4	 	       Di (NIL)		022	Wild	M0 V	-3	(A00+1)	[0000]	B	7	10
+1900	Delp	B	1203	Eustache	X545000-4	 	       Di (NIL)		022	Wild	M0 V	-3	(A00-3)	[0000]	B	7	-30
+
+1105	Delp	B	1205	Depot 2	A78746A-D	D 	    Da   Ga Ni Pa 	A	105	ImDc	K0 V	2	(B35+4)	[667F]	Bc	17	660
+1201	Delp	B	1205	Depot 2	X787372-3	 	     Da   Ga Lo 		405	ImDc	K0 V	-3	(620+2)	[7145]	B	17	24
+1323	Delp	B	1205	Depot 2	X787000-3	 	     Da   Di Ga 		005	Wild	K0 V	-3	(600-3)	[0000]	B	17	-18
+1508	Delp	B	1205	Depot 2	X787000-3	 	     Da   Di Ga 		005	Wild	K0 V	-3	(600+1)	[0000]	B	17	6
+1900	Delp	B	1205	Depot 2	X787000-3	 	     Da   Di Ga 		005	Wild	K0 V	-3	(600-2)	[0000]	B	17	-12
+
+1105	Delp	B	1208	Pabdy	A542640-C	N 	     He Ni Po 		814	ImDc	G4 V M0 V	1	(D55-3)	[1717]	B	8	-975
+1201	Delp	B	1208	Pabdy	X542676-4	 	     He Ni Po 	B	714	ImDc	G4 V M0 V	-3	(850+2)	[5358]	B	8	80
+1323	Delp	B	1208	Pabdy	X542000-4	 	     Di He Po 		014	Wild	G4 V M0 V	-3	(800-1)	[0000]	B	8	-8
+1508	Delp	B	1208	Pabdy	X542000-4	 	     Di He Po 		014	Wild	G4 V M0 V	-3	(800+2)	[0000]	B	8	16
+1900	Delp	B	1208	Pabdy	X542000-4	 	     Di He Po 		014	Wild	G4 V M0 V	-3	(800+1)	[0000]	B	8	8
+
+1105	Delp	B	1209	Heer	C79679C-8	 	     Pz  Ag Pi (NIL)	A	704	ImDc	M3 V	0	(D68+3)	[A78B]	BCD	10	1872
+1201	Delp	B	1209	Heer	E796745-8	 	     Pz  Ag Pi (NIL)		804	ImDc	M3 V	-1	(D68-2)	[7653]	BCD	10	-1248
+1323	Delp	B	1209	Heer	E796757-5	 	     Pz  Ag Pi (NIL)		404	Wild	M3 V	-1	(967+2)	[5655]	BCD	10	756
+1508	Delp	B	1209	Heer	E796799-5	 	     Pz  Ag Pi (NIL)		304	Wild	M3 V	-1	(965+1)	[9663]	BCD	10	270
+1900	Delp	B	1209	Heer	E796756-7	 	     Pz  Ag Pi (NIL)		304	Wild	M3 V	-1	(963+3)	[A665]	BCD	10	486
+
+1105	Delp	F	1212	Lillibet	B87A320-9	 	    rg?  Lo Wa 		404	ImDc	K8 V	0	(920-4)	[1314]	B	7	-72
+1201	Delp	F	1212	Lillibet	X87A232-6	 	    rg?  Lo Wa 	B	104	ImDc	K8 V	-3	(510-1)	[1136]	B	7	-5
+1323	Delp	F	1212	Lillibet	X87A000-6	 	    rg?  Di Wa 		004	Wild	K8 V	-3	(500-1)	[0000]	B	7	-5
+1508	Delp	F	1212	Lillibet	X87A000-6	 	    rg?  Di Wa 		004	Wild	K8 V	-3	(500-4)	[0000]	B	7	-20
+1900	Delp	F	1212	Lillibet	X87A000-6	 	    rg?  Di Wa 		004	Wild	K8 V	-3	(500-5)	[0000]	B	7	-25
+
+1105	Delp	F	1213	De Coupeland	A767787-C	 	     rg?  Ag Ri Ga (NIL)		102	ImDc	K4 V M5 V M2 V	4	(B6E+4)	[7B5C]	BCf	12	3696
+1201	Delp	F	1213	De Coupeland	X76776A-8	 	     rg?  Ag Ri Ga (NIL)		102	ImDc	K4 V M5 V M2 V	0	(B65-1)	[5728]	BC	12	-330
+1323	Delp	F	1213	De Coupeland	X767633-0	 	    rg?  Ag Ri Ga Ni (NIL)		502	Wild	K4 V M5 V M2 V	-1	(953+1)	[2551]	BC	12	135
+1508	Delp	F	1213	De Coupeland	X767696-1	 	    rg?  Ag Ri Ga Ni (NIL)		602	Wild	K4 V M5 V M2 V	-1	(955+1)	[4544]	BC	12	225
+1900	Delp	F	1213	De Coupeland	X767655-3	 	    rg?  Ag Ri Ga Ni (NIL)		502	Wild	K4 V M5 V M2 V	-1	(955-4)	[7541]	BC	12	-900
+
+1105	Delp	J	1223	Fermi	A100433-C	N 	     Ni Va 		823	ImDc	K3 V M2 V	1	(B34-2)	[1529]	B	11	-264
+1201	Delp	J	1223	Fermi	X100000-C	 	     Di Va 		023	ImDc	K3 V M2 V	-1	(B00+1)	[0000]	B	11	11
+1323	Delp	J	1223	Fermi	X100000-C	 	     Di Va 		023	Wild	K3 V M2 V	-1	(B00+1)	[0000]	B	11	11
+1508	Delp	J	1223	Fermi	X100000-C	 	     Di Va 		023	Wild	K3 V M2 V	-1	(B00+4)	[0000]	B	11	44
+1900	Delp	J	1223	Fermi	X100000-C	 	     Di Va 		023	Wild	K3 V M2 V	-1	(B00-3)	[0000]	B	11	-33
+
+1105	Delp	J	1230	Eudore	A525677-B	 	    Ni Px 		923	ImDc	K9 V	1	(D55+1)	[675B]	B	8	325
+1201	Delp	J	1230	Eudore	X525000-B	 	    Di Px 		023	ImDc	K9 V	-1	(D00+1)	[0000]	B	8	13
+1323	Delp	J	1230	Eudore	X525000-B	 	    Di Px 		023	Wild	K9 V	-1	(D00-3)	[0000]	B	8	-39
+1508	Delp	J	1230	Eudore	X525000-B	 	     Di 		023	Wild	K9 V	-1	(D00-1)	[0000]	B	8	-13
+1900	Delp	J	1230	Eudore	X525000-B	 	     Di 		023	Wild	K9 V	-1	(D00+2)	[0000]	B	8	26
+
+1105	Delp	N	1234	Turkish	C431721-6	 	      Na Po (NIL)		620	ImDc	M2 V M5 V	-1	(966-5)	[3612]	B	14	-1620
+1201	Delp	N	1234	Turkish	X431000-6	 	     Di Na Po (NIL)		020	ImDc	M2 V M5 V	-3	(900+2)	[0000]	B	14	18
+1323	Delp	N	1234	Turkish	X431000-6	 	     Di Na Po (NIL)		020	Wild	M2 V M5 V	-3	(900-2)	[0000]	B	14	-18
+1508	Delp	N	1234	Turkish	X431000-6	 	     Di Po (NIL)		020	Wild	M2 V M5 V	-3	(900+1)	[0000]	B	14	9
+1900	Delp	N	1234	Turkish	X431000-6	 	     Di Po (NIL)		020	Wild	M2 V M5 V	-3	(900+1)	[0000]	B	14	9
+
+1105	Delp	N	1235	Mancournes	C527587-7	 	     Ni 		314	ImDc	K3 V M5 V	-2	(742-2)	[5357]	B	9	-112
+1201	Delp	N	1235	Mancournes	X527000-7	 	     Di 		014	ImDc	K3 V M5 V	-3	(700-1)	[0000]	B	9	-7
+1323	Delp	N	1235	Mancournes	X527000-7	 	     Di 		014	Wild	K3 V M5 V	-3	(700+1)	[0000]	B	9	7
+1508	Delp	N	1235	Mancournes	X527000-7	 	     Di 		014	Wild	K3 V M5 V	-3	(700-2)	[0000]	B	9	-14
+1900	Delp	N	1235	Mancournes	X527000-7	 	     Di 		014	Wild	K3 V M5 V	-3	(700-3)	[0000]	B	9	-21
+
+1105	Delp	N	1236	Metheri	B553420-B	 	     Ni Po 		201	ImDc	K9 V	1	(734-3)	[1516]	B	14	-252
+1201	Delp	N	1236	Metheri	X553310-0	 	     Lo Po 	B	901	ImDc	K9 V	-3	(620+1)	[4161]	B	14	12
+1323	Delp	N	1236	Metheri	X553000-0	 	     Ba Po 		001	Wild	K9 V	-3	(600+1)	[0000]	B	14	6
+1508	Delp	N	1236	Metheri	X553000-0	 	     Ba Po 		001	Wild	K9 V	-3	(600+4)	[0000]	B	14	24
+1900	Delp	N	1236	Metheri	X553000-0	 	     Ba Po 		001	Wild	K9 V	-3	(600-2)	[0000]	B	14	-12
+
+1105	Delp	N	1239	Francine	C639340-A	 	     Lo 		103	ImDc	M1 V M2 V	0	(820-4)	[1315]	B	11	-64
+1201	Delp	N	1239	Francine	X639000-A	 	     Di 		003	ImDc	M1 V M2 V	-1	(800+5)	[0000]	B	11	40
+1323	Delp	N	1239	Francine	X639000-A	 	     Di 		003	Wild	M1 V M2 V	-1	(800+1)	[0000]	B	11	8
+1508	Delp	N	1239	Francine	X639000-A	 	     Di 		003	Wild	M1 V M2 V	-1	(800+1)	[0000]	B	11	8
+1900	Delp	N	1239	Francine	X639000-A	 	     Di 		003	Wild	M1 V M2 V	-1	(800+3)	[0000]	B	11	24
+
+1105	Delp	N	1240	Campe	E89758B-5	 	     Ag Ni 		404	ImDc	M1 V	-2	(742+1)	[7377]	BC	12	56
+1201	Delp	N	1240	Campe	X89756A-1	 	     Ag Ni 	B	304	ImDc	M1 V	-2	(743-3)	[5363]	BC	12	-252
+1323	Delp	N	1240	Campe	X897000-1	 	      Di 		004	Wild	M1 V	-3	(700+1)	[0000]	B	12	7
+1508	Delp	N	1240	Campe	X897000-1	 	      Di 		004	Wild	M1 V	-3	(700+2)	[0000]	B	12	14
+1900	Delp	N	1240	Campe	X897000-1	 	      Di 		004	Wild	M1 V	-3	(700+1)	[0000]	B	12	7
+
+1105	Delp	B	1301	Buren	C587220-9	 	     Lo 		820	ImDc	M1 V	-1	(610-5)	[1114]	B	11	-30
+1201	Delp	B	1301	Buren	X587200-3	 	     Lo 		620	ImDc	M1 V	-3	(410+3)	[4145]	B	11	12
+1323	Delp	B	1301	Buren	X587000-3	 	     Di 		020	Wild	M1 V	-3	(400+2)	[0000]	B	11	8
+1508	Delp	B	1301	Buren	X587000-3	 	     Di 		020	Wild	M1 V	-3	(400-4)	[0000]	B	11	-16
+1900	Delp	B	1301	Buren	X587000-3	 	     Di 		020	Wild	M1 V	-3	(400+1)	[0000]	B	11	4
+
+1105	Delp	B	1305	Fugentun	E100433-7	 	     Ni Va 		923	ImDc	M3 V M4 V	-3	(631-5)	[1124]	B	8	-90
+1201	Delp	B	1305	Fugentun	X100000-7	 	     Di Va 		023	ImDc	M3 V M4 V	-3	(600-3)	[0000]	B	8	-18
+1323	Delp	B	1305	Fugentun	X100000-7	 	     Di Va 		023	Wild	M3 V M4 V	-3	(600+1)	[0000]	B	8	6
+1508	Delp	B	1305	Fugentun	X100000-7	 	     Di Va 		023	Wild	M3 V M4 V	-3	(600-4)	[0000]	B	8	-24
+1900	Delp	B	1305	Fugentun	X100000-7	 	     Di Va 		023	Wild	M3 V M4 V	-3	(600+3)	[0000]	B	8	18
+
+1105	Delp	B	1306	Gallowglas	D525677-7	 	    Ni Px 		302	ImDc	G0 V	-3	(851-3)	[6357]	B	13	-120
+1201	Delp	B	1306	Gallowglas	X525000-7	 	    Di Px 		002	ImDc	G0 V	-3	(800+4)	[0000]	B	13	32
+1323	Delp	B	1306	Gallowglas	X525000-7	 	    Di Px 		002	Wild	G0 V	-3	(800+1)	[0000]	B	13	8
+1508	Delp	B	1306	Gallowglas	X525000-7	 	     Di 		002	Wild	G0 V	-3	(800-2)	[0000]	B	13	-16
+1900	Delp	B	1306	Gallowglas	X525000-7	 	     Di 		002	Wild	G0 V	-3	(800+1)	[0000]	B	13	8
+
+1105	Delp	B	1307	Petronilla	C431721-9	 	      Na Po (NIL)		203	ImDc	M0 V	0	(C69-4)	[3715]	B	11	-2592
+1201	Delp	B	1307	Petronilla	X431000-9	 	     Di Na Po (NIL)		003	ImDc	M0 V	-2	(C00+1)	[0000]	B	11	12
+1323	Delp	B	1307	Petronilla	X431000-9	 	     Di Na Po (NIL)		003	Wild	M0 V	-2	(C00+1)	[0000]	B	11	12
+1508	Delp	B	1307	Petronilla	X431000-9	 	     Di Po (NIL)		003	Wild	M0 V	-2	(C00-3)	[0000]	B	11	-36
+1900	Delp	B	1307	Petronilla	X431000-9	 	     Di Po (NIL)		003	Wild	M0 V	-2	(C00+1)	[0000]	B	11	12
+
+1105	Delp	B	1308	Tharsis	A527587-9	 	     Ni 		704	ImDc	M0 V M8 V	0	(B44+1)	[5559]	B	10	176
+1201	Delp	B	1308	Tharsis	X527000-9	 	     Di 		004	ImDc	M0 V M8 V	-2	(B00+2)	[0000]	B	10	22
+1323	Delp	B	1308	Tharsis	X527000-9	 	     Di 		004	Wild	M0 V M8 V	-2	(B00-5)	[0000]	B	10	-55
+1508	Delp	B	1308	Tharsis	X527000-9	 	     Di 		004	Wild	M0 V M8 V	-2	(B00+2)	[0000]	B	10	22
+1900	Delp	B	1308	Tharsis	X527000-9	 	     Di 		004	Wild	M0 V M8 V	-2	(B00+2)	[0000]	B	10	22
+
+1105	Delp	B	1310	Mexican	C100433-8	 	     Ni Va 		914	ImDc	A8 III D	-2	(B31-5)	[1225]	B	12	-165
+1201	Delp	B	1310	Mexican	X100000-8	 	     Di Va 		014	ImDc	A8 III D	-3	(B00-1)	[0000]	B	12	-11
+1323	Delp	B	1310	Mexican	X100000-8	 	     Di Va 		014	Wild	A8 III D	-3	(B00-3)	[0000]	B	12	-33
+1508	Delp	B	1310	Mexican	X100000-8	 	     Di Va 		014	Wild	A8 III D	-3	(B00-1)	[0000]	B	12	-11
+1900	Delp	B	1310	Mexican	X100000-8	 	     Di Va 		014	Wild	A8 III D	-3	(B00+3)	[0000]	B	12	33
+
+1105	Delp	F	1315	Pasadena	B525677-9	 	    Ni Px 		703	ImDc	K1 V M8 V	0	(B54+1)	[6659]	B	10	220
+1201	Delp	F	1315	Pasadena	X525000-9	 	    Di Px 		003	ImDc	K1 V M8 V	-2	(B00-3)	[0000]	B	10	-33
+1323	Delp	F	1315	Pasadena	X525000-9	 	    Di Px 		003	Wild	K1 V M8 V	-2	(B00+2)	[0000]	B	10	22
+1508	Delp	F	1315	Pasadena	X525000-9	 	     Di 		003	Wild	K1 V M8 V	-2	(B00-4)	[0000]	B	10	-44
+1900	Delp	F	1315	Pasadena	X525000-9	 	     Di 		003	Wild	K1 V M8 V	-2	(B00+1)	[0000]	B	10	11
+
+1105	Delp	N	1335	Wardrop	B100433-D	 	     Ni Va 		522	ImDc	M2 V	1	(A34-2)	[152A]	B	12	-240
+1201	Delp	N	1335	Wardrop	X100000-D	 	     Di Va 		022	ImDc	M2 V	-1	(A00+1)	[0000]	B	12	10
+1323	Delp	N	1335	Wardrop	X100000-D	 	     Di Va 		022	Wild	M2 V	-1	(A00-2)	[0000]	B	12	-20
+1508	Delp	N	1335	Wardrop	X100000-D	 	     Di Va 		022	Wild	M2 V	-1	(A00-1)	[0000]	B	12	-10
+1900	Delp	N	1335	Wardrop	X100000-D	 	     Di Va 		022	Wild	M2 V	-1	(A00-2)	[0000]	B	12	-20
+
+1105	Delp	N	1337	Riverfield	A100434-E	 	     Ni Va 		103	ImDc	G8 IV M8 V	1	(934-1)	[253C]	B	8	-108
+1201	Delp	N	1337	Riverfield	X100000-E	 	     Di Va 		003	ImDc	G8 IV M8 V	-1	(900+1)	[0000]	B	8	9
+1323	Delp	N	1337	Riverfield	X100000-E	 	     Di Va 		003	Wild	G8 IV M8 V	-1	(900-1)	[0000]	B	8	-9
+1508	Delp	N	1337	Riverfield	X100000-E	 	     Di Va 		003	Wild	G8 IV M8 V	-1	(900-1)	[0000]	B	8	-9
+1900	Delp	N	1337	Riverfield	X100000-E	 	     Di Va 		003	Wild	G8 IV M8 V	-1	(900-5)	[0000]	B	8	-45
+
+1105	Delp	N	1340	Ril	C565220-7	 	     Lo 		700	ImDc	G3 V	-2	(410-5)	[1112]	B	11	-20
+1201	Delp	N	1340	Ril	E565312-6	 	     Lo 		700	ImDc	G3 V	-3	(420-4)	[1184]	B	11	-32
+1323	Delp	N	1340	Ril	E565000-6	 	     Di 		000	Wild	G3 V	-3	(400+1)	[0000]	B	11	4
+1508	Delp	N	1340	Ril	E565000-6	 	     Di 		000	Wild	G3 V	-3	(400+1)	[0000]	B	11	4
+1900	Delp	N	1340	Ril	E565000-6	 	     Di 		000	Wild	G3 V	-3	(400+1)	[0000]	B	11	4
+
+1105	Delp	B	1401	Ehrlich	E100434-A	 	     Ni Va 		503	ImDc	M0 V M3 V	-1	(932-3)	[2338]	B	10	-162
+1201	Delp	B	1401	Ehrlich	X100000-A	 	     Di Va 		003	ImDc	M0 V M3 V	-1	(900+1)	[0000]	B	10	9
+1323	Delp	B	1401	Ehrlich	X100000-A	 	     Di Va 		003	Wild	M0 V M3 V	-1	(900-1)	[0000]	B	10	-9
+1508	Delp	B	1401	Ehrlich	X100000-A	 	     Di Va 		003	Wild	M0 V M3 V	-1	(900+1)	[0000]	B	10	9
+1900	Delp	B	1401	Ehrlich	X100000-A	 	     Di Va 		003	Wild	M0 V M3 V	-1	(900-4)	[0000]	B	10	-36
+
+1105	Delp	B	1404	Crede	D565220-7	 	     Lo 		501	ImDc	M0 V M3 V	-3	(410-5)	[1112]	B	14	-20
+1201	Delp	B	1404	Crede	X565326-6	 	     Lo 		401	ImDc	M0 V M3 V	-3	(420-3)	[5164]	B	14	-24
+1323	Delp	B	1404	Crede	X565000-6	 	     Di 		001	Wild	M0 V M3 V	-3	(400+2)	[0000]	B	14	8
+1508	Delp	B	1404	Crede	X565000-6	 	     Di 		001	Wild	M0 V M3 V	-3	(400+3)	[0000]	B	14	12
+1900	Delp	B	1404	Crede	X565000-6	 	     Di 		001	Wild	M0 V M3 V	-3	(400+1)	[0000]	B	14	4
+
+1105	Delp	B	1405	Ainu	A100434-F	 	     Ni Va 		103	ImDc	M3 V	1	(934-1)	[253D]	B	6	-108
+1201	Delp	B	1405	Ainu	X100000-F	 	     Di Va 		003	ImDc	M3 V	-1	(900+1)	[0000]	B	6	9
+1323	Delp	B	1405	Ainu	X100000-F	 	     Di Va 		003	Wild	M3 V	-1	(900-5)	[0000]	B	6	-45
+1508	Delp	B	1405	Ainu	X100000-F	 	     Di Va 		003	Wild	M3 V	-1	(900-3)	[0000]	B	6	-27
+1900	Delp	B	1405	Ainu	X100000-F	 	     Di Va 		003	Wild	M3 V	-1	(900+4)	[0000]	B	6	36
+
+1105	Delp	B	1407	Amaryllis	D565220-3	 	     Lo 		801	ImDc	M2 V M4 V	-3	(410-5)	[1111]	B	14	-20
+1201	Delp	B	1407	Amaryllis	X565100-0	 	     Lo 	B	201	ImDc	M2 V M4 V	-3	(400-5)	[4131]	B	14	-20
+1323	Delp	B	1407	Amaryllis	X565000-0	 	     Ba 		001	Wild	M2 V M4 V	-3	(400-1)	[0000]	B	14	-4
+1508	Delp	B	1407	Amaryllis	X565000-0	 	     Ba 		001	Wild	M2 V M4 V	-3	(400-1)	[0000]	B	14	-4
+1900	Delp	B	1407	Amaryllis	X565000-0	 	     Ba 		001	Wild	M2 V M4 V	-3	(400+2)	[0000]	B	14	8
+
+1105	Delp	B	1409	Gallup	E756440-2	 	     Ga Ni Pa 		820	ImDc	M1 V M1 V	-3	(631-5)	[1111]	Bc	15	-90
+1201	Delp	B	1409	Gallup	X756412-0	 	     Ga Ni Pa 	B	520	ImDc	M1 V M1 V	-3	(631+3)	[5141]	Bc	15	54
+1323	Delp	B	1409	Gallup	X756400-0	 	     Ga Ni Pa 		220	Wild	M1 V M1 V	-3	(630+1)	[1141]	Bc	15	18
+1508	Delp	B	1409	Gallup	X756425-0	 	     Ga Ni Pa 		320	Wild	M1 V M1 V	-3	(630-2)	[3142]	Bc	15	-36
+1900	Delp	B	1409	Gallup	X756434-0	 	     Ga Ni Pa 		320	Wild	M1 V M1 V	-3	(633+1)	[6111]	Bc	15	54
+
+1105	Delp	J	1422	Barnet	C897554-6	 	     Ag Ni 		204	ImDc	K4 V M7 V	-1	(743-3)	[3434]	BC	10	-252
+1201	Delp	J	1422	Barnet	E897588-5	 	     Ag Ni 		204	ImDc	K4 V M7 V	-2	(740+1)	[6381]	BC	10	28
+1323	Delp	J	1422	Barnet	E897000-5	 	      Di 		004	Wild	K4 V M7 V	-3	(700+3)	[0000]	B	10	21
+1508	Delp	J	1422	Barnet	E897000-5	 	      Di 		004	Wild	K4 V M7 V	-3	(700+3)	[0000]	B	10	21
+1900	Delp	J	1422	Barnet	E897000-5	 	      Di 		004	Wild	K4 V M7 V	-3	(700-1)	[0000]	B	10	-7
+
+1105	Delp	N	1435	Urbana	B667253-B	 	     Ga Lo 		103	ImDc	G0 V M9 V	1	(711-2)	[1328]	B	10	-14
+1201	Delp	N	1435	Urbana	X667110-2	 	     Ga Lo 		303	ImDc	G0 V M9 V	-3	(400+1)	[5166]	B	10	4
+1323	Delp	N	1435	Urbana	X667000-2	 	     Di Ga 		003	Wild	G0 V M9 V	-3	(400+1)	[0000]	B	10	4
+1508	Delp	N	1435	Urbana	X667000-2	 	     Di Ga 		003	Wild	G0 V M9 V	-3	(400+3)	[0000]	B	10	12
+1900	Delp	N	1435	Urbana	X667000-2	 	     Di Ga 		003	Wild	G0 V M9 V	-3	(400+1)	[0000]	B	10	4
+
+1105	Delp	N	1438	Mikkim	B6888CF-8	W	     Pz  Pa Ri Ph (NIL)	A	804	ImDc	K4 V	2	(E7A+5)	[DAAD]	BcCe	10	4900
+1201	Delp	N	1438	Mikkim	D688853-7	 	     Pz  Pa Ri Ph (NIL)	B	904	ImDc	K4 V	-1	(A76-3)	[675A]	BcCe	10	-1260
+1323	Delp	N	1438	Mikkim	D688831-2	 	     Pz  Pa Ri Ph (NIL)		404	Wild	K4 V	-1	(A79+1)	[3732]	BcCe	10	630
+1508	Delp	N	1438	Mikkim	D68889A-3	 	     Pz  Pa Ri Ph (NIL)		304	Wild	K4 V	-1	(A74+5)	[6761]	BcCe	10	1400
+1900	Delp	N	1438	Mikkim	D688876-4	 	     Pz  Pa Ri Ph (NIL)		404	Wild	K4 V	-1	(A74+2)	[5714]	BcCe	10	560
+
+1105	Delp	B	1501	Kokba	A310510-E	 	     Ni 		724	ImDc	G6 V M6 V M4 V	1	(D45-3)	[1619]	B	11	-780
+1201	Delp	B	1501	Kokba	X310000-E	 	     Di 		024	ImDc	G6 V M6 V M4 V	-1	(D00+1)	[0000]	B	11	13
+1323	Delp	B	1501	Kokba	X310000-E	 	     Di 		024	Wild	G6 V M6 V M4 V	-1	(D00-2)	[0000]	B	11	-26
+1508	Delp	B	1501	Kokba	X310000-E	 	     Di 		024	Wild	G6 V M6 V M4 V	-1	(D00-4)	[0000]	B	11	-52
+1900	Delp	B	1501	Kokba	X310000-E	 	     Di 		024	Wild	G6 V M6 V M4 V	-1	(D00-2)	[0000]	B	11	-26
+
+1105	Delp	B	1502	Jaleel	B625785-7	N 	     Pi (NIL)		703	ImDc	M2 V	0	(968-2)	[5735]	BD	11	-864
+1201	Delp	B	1502	Jaleel	X625000-7	 	    Di Pi (NIL)		003	ImDc	M2 V	-3	(900+5)	[0000]	BD	11	45
+1323	Delp	B	1502	Jaleel	X625000-7	 	    Di Pi (NIL)		003	Wild	M2 V	-3	(900-4)	[0000]	BD	11	-36
+1508	Delp	B	1502	Jaleel	X625000-7	 	     Di (NIL)		003	Wild	M2 V	-3	(900-4)	[0000]	B	11	-36
+1900	Delp	B	1502	Jaleel	X625000-7	 	     Di (NIL)		003	Wild	M2 V	-3	(900+1)	[0000]	B	11	9
+
+1105	Delp	B	1504	Wuhan	A532464-C	 	    O:1603  Ni Po 		625	ImDc	M0 V M2 V	1	(D34-1)	[253A]	B	10	-156
+1201	Delp	B	1504	Wuhan	X532000-C	 	    O:1603  Di Po 		025	ImDc	M0 V M2 V	-1	(D00+1)	[0000]	B	10	13
+1323	Delp	B	1504	Wuhan	X532000-C	 	    O:1603  Di Po 		025	Wild	M0 V M2 V	-1	(D00+2)	[0000]	B	10	26
+1508	Delp	B	1504	Wuhan	X532000-C	 	    O:1603  Di Po 		025	Wild	M0 V M2 V	-1	(D00-3)	[0000]	B	10	-39
+1900	Delp	B	1504	Wuhan	X532000-C	 	    O:1603  Di Po 		025	Wild	M0 V M2 V	-1	(D00+2)	[0000]	B	10	26
+
+1105	Delp	B	1505	Orinoco	C100433-9	 	     Ni Va 		903	ImDc	K0 V	-1	(932-4)	[1326]	B	10	-216
+1201	Delp	B	1505	Orinoco	X100000-9	 	     Di Va 		003	ImDc	K0 V	-2	(900+1)	[0000]	B	10	9
+1323	Delp	B	1505	Orinoco	X100000-9	 	     Di Va 		003	Wild	K0 V	-2	(900-5)	[0000]	B	10	-45
+1508	Delp	B	1505	Orinoco	X100000-9	 	     Di Va 		003	Wild	K0 V	-2	(900+1)	[0000]	B	10	9
+1900	Delp	B	1505	Orinoco	X100000-9	 	     Di Va 		003	Wild	K0 V	-2	(900+1)	[0000]	B	10	9
+
+1105	Delp	B	1506	Hartley	B525677-B	 	    Ni Px 		200	ImDc	M0 V M1 V	1	(855+1)	[675B]	B	13	200
+1201	Delp	B	1506	Hartley	X525000-B	 	    Di Px 		000	ImDc	M0 V M1 V	-1	(800+1)	[0000]	B	13	8
+1323	Delp	B	1506	Hartley	X525000-B	 	    Di Px 		000	Wild	M0 V M1 V	-1	(800-2)	[0000]	B	13	-16
+1508	Delp	B	1506	Hartley	X525000-B	 	     Di 		000	Wild	M0 V M1 V	-1	(800+1)	[0000]	B	13	8
+1900	Delp	B	1506	Hartley	X525000-B	 	     Di 		000	Wild	M0 V M1 V	-1	(800+1)	[0000]	B	13	8
+
+1105	Delp	B	1507	Antony	X431721-6	 	     Fo  Na Po (NIL)	R	314	ImDc	M0 V	-2	(965-5)	[3512]	B	15	-1350
+1201	Delp	B	1507	Antony	X431000-6	 	    Fo  Di Na Po (NIL)		014	ImDc	M0 V	-3	(900+1)	[0000]	B	15	9
+1323	Delp	B	1507	Antony	X431000-6	 	    Fo  Di Na Po (NIL)		014	Wild	M0 V	-3	(900+1)	[0000]	B	15	9
+1508	Delp	B	1507	Antony	X431000-6	 	    Fo  Di Po (NIL)		014	Wild	M0 V	-3	(900+4)	[0000]	B	15	36
+1900	Delp	B	1507	Antony	X431000-6	 	    Fo  Di Po (NIL)		014	Wild	M0 V	-3	(900+3)	[0000]	B	15	27
+
+1105	Delp	B	1508	Dyconson	D100434-7	 	     Ni Va 		203	ImDc	M2 V	-3	(631-5)	[2135]	B	16	-90
+1201	Delp	B	1508	Dyconson	X100000-7	 	     Di Va 		003	ImDc	M2 V	-3	(600+1)	[0000]	B	16	6
+1323	Delp	B	1508	Dyconson	X100000-7	 	     Di Va 		003	Wild	M2 V	-3	(600+4)	[0000]	B	16	24
+1508	Delp	B	1508	Dyconson	X100000-7	 	     Di Va 		003	Wild	M2 V	-3	(600+1)	[0000]	B	16	6
+1900	Delp	B	1508	Dyconson	X100000-7	 	     Di Va 		003	Wild	M2 V	-3	(600-2)	[0000]	B	16	-12
+
+1105	Delp	J	1521	Kumish	B543988-7	 	      Hi In Po (NIL)		902	ImDc	K7 V M5 V	2	(B8B+2)	[9B57]	BE	10	1936
+1201	Delp	J	1521	Kumish	D543110-6	 	      Lo Po (NIL)		302	ImDc	K7 V M5 V	-3	(B00-1)	[1127]	B	10	-11
+1323	Delp	J	1521	Kumish	D543000-6	 	      Di Po (NIL)		002	Wild	K7 V M5 V	-3	(B00+1)	[0000]	B	10	11
+1508	Delp	J	1521	Kumish	D543000-6	 	      Di Po (NIL)		002	Wild	K7 V M5 V	-3	(B00-4)	[0000]	B	10	-44
+1900	Delp	J	1521	Kumish	D543000-6	 	      Di Po (NIL)		002	Wild	K7 V M5 V	-3	(B00+1)	[0000]	B	10	11
+
+1105	Delp	J	1523	Ashisesh	D565984-8	 	     Hi Pr (NIL)		504	ImDc	K4 V	-1	(F88-3)	[7836]	BcE	16	-2880
+1201	Delp	J	1523	Ashisesh	X5659CB-6	 	     Hi Pr (NIL)		604	ImDc	K4 V	-1	(B84+1)	[9866]	BcE	16	352
+1323	Delp	J	1523	Ashisesh	X5659AA-2	 	     Hi Pr (NIL)		304	Wild	K4 V	-1	(B88-2)	[B874]	BcE	16	-1408
+1508	Delp	J	1523	Ashisesh	X565977-3	 	     Hi Pr (NIL)		404	Wild	K4 V	-1	(B86+1)	[6842]	BcE	16	528
+1900	Delp	J	1523	Ashisesh	X565988-4	 	     Hi Pr (NIL)		304	Wild	K4 V	-1	(B8A-1)	[9852]	BcE	16	-880
+
+1105	Delp	N	1534	Medsa	A431721-E	 	      Na Po (NIL)		903	ImDc	K3 V	2	(C6D-2)	[391A]	B	8	-1872
+1201	Delp	N	1534	Medsa	X431000-E	 	     Di Na Po (NIL)		003	ImDc	K3 V	-1	(C00-2)	[0000]	B	8	-24
+1323	Delp	N	1534	Medsa	X431000-E	 	     Di Na Po (NIL)		003	Wild	K3 V	-1	(C00+1)	[0000]	B	8	12
+1508	Delp	N	1534	Medsa	X431000-E	 	     Di Po (NIL)		003	Wild	K3 V	-1	(C00-2)	[0000]	B	8	-24
+1900	Delp	N	1534	Medsa	X431000-E	 	     Di Po (NIL)		003	Wild	K3 V	-1	(C00+1)	[0000]	B	8	12
+
+1105	Delp	N	1536	Cabot	D100A99-A	 	      Hi Na In Va 		704	ImDc	M2 V	2	(G9C+3)	[BC6B]	BE	8	5184
+1201	Delp	N	1536	Cabot	X100000-A	 	      Di Na In Va 		004	ImDc	M2 V	0	(G00+1)	[0000]	BE	8	16
+1323	Delp	N	1536	Cabot	X100000-A	 	      Di Na In Va 		004	Wild	M2 V	0	(G00+3)	[0000]	BE	8	48
+1508	Delp	N	1536	Cabot	X100000-A	 	       Di Va 		004	Wild	M2 V	-1	(G00+1)	[0000]	B	8	16
+1900	Delp	N	1536	Cabot	X100000-A	 	       Di Va 		004	Wild	M2 V	-1	(G00-1)	[0000]	B	8	-16
+
+1105	Delp	N	1539	Pecos	A525677-D	 	    Ni Px 		600	ImDc	K3 V	1	(855+1)	[675D]	B	6	200
+1201	Delp	N	1539	Pecos	X525000-D	 	    Di Px 		000	ImDc	K3 V	-1	(800+1)	[0000]	B	6	8
+1323	Delp	N	1539	Pecos	X525000-D	 	    Di Px 		000	Wild	K3 V	-1	(800+3)	[0000]	B	6	24
+1508	Delp	N	1539	Pecos	X525000-D	 	     Di 		000	Wild	K3 V	-1	(800+1)	[0000]	B	6	8
+1900	Delp	N	1539	Pecos	X525000-D	 	     Di 		000	Wild	K3 V	-1	(800-4)	[0000]	B	6	-32
+
+1105	Delp	N	1540	Drusolo	C100433-C	 	     Ni Va 		722	ImDc	M2 V M8 V	0	(A33-3)	[1429]	B	13	-270
+1201	Delp	N	1540	Drusolo	X100000-C	 	     Di Va 		022	ImDc	M2 V M8 V	-1	(A00-1)	[0000]	B	13	-10
+1323	Delp	N	1540	Drusolo	X100000-C	 	     Di Va 		022	Wild	M2 V M8 V	-1	(A00+1)	[0000]	B	13	10
+1508	Delp	N	1540	Drusolo	X100000-C	 	     Di Va 		022	Wild	M2 V M8 V	-1	(A00+3)	[0000]	B	13	30
+1900	Delp	N	1540	Drusolo	X100000-C	 	     Di Va 		022	Wild	M2 V M8 V	-1	(A00+1)	[0000]	B	13	10
+
+1105	Delp	B	1601	Quezo	B100434-D	 	     Ni Va 		722	ImDc	M9 II	1	(A34-1)	[253B]	B	11	-120
+1201	Delp	B	1601	Quezo	X100000-D	 	     Di Va 		022	ImDc	M9 II	-1	(A00+3)	[0000]	B	11	30
+1323	Delp	B	1601	Quezo	X100000-D	 	     Di Va 		022	Wild	M9 II	-1	(A00+2)	[0000]	B	11	20
+1508	Delp	B	1601	Quezo	X100000-D	 	     Di Va 		022	Wild	M9 II	-1	(A00+1)	[0000]	B	11	10
+1900	Delp	B	1601	Quezo	X100000-D	 	     Di Va 		022	Wild	M9 II	-1	(A00-1)	[0000]	B	11	-10
+
+1105	Delp	B	1602	April Dawn	A100433-F	 	     Ni Va 		105	ImDc	K9 V	1	(B34-2)	[152C]	B	13	-264
+1201	Delp	B	1602	April Dawn	X100000-F	 	     Di Va 		005	ImDc	K9 V	-1	(B00+3)	[0000]	B	13	33
+1323	Delp	B	1602	April Dawn	X100000-F	 	     Di Va 		005	Wild	K9 V	-1	(B00+1)	[0000]	B	13	11
+1508	Delp	B	1602	April Dawn	X100000-F	 	     Di Va 		005	Wild	K9 V	-1	(B00+5)	[0000]	B	13	55
+1900	Delp	B	1602	April Dawn	X100000-F	 	     Di Va 		005	Wild	K9 V	-1	(B00+1)	[0000]	B	13	11
+
+1105	Delp	B	1603	Krallides	A525677-D	 	    Ni Px 		103	ImDc	K1 V	1	(B55+1)	[675D]	B	8	275
+1201	Delp	B	1603	Krallides	X525000-D	 	    Di Px 		003	ImDc	K1 V	-1	(B00-1)	[0000]	B	8	-11
+1323	Delp	B	1603	Krallides	X525000-D	 	    Di Px 		003	Wild	K1 V	-1	(B00-1)	[0000]	B	8	-11
+1508	Delp	B	1603	Krallides	X525000-D	 	     Di 		003	Wild	K1 V	-1	(B00-3)	[0000]	B	8	-33
+1900	Delp	B	1603	Krallides	X525000-D	 	     Di 		003	Wild	K1 V	-1	(B00-1)	[0000]	B	8	-11
+
+1105	Delp	B	1605	Sao	A431721-E	 	      Na Po (NIL)		603	ImDc	K3 IV	2	(C6D-2)	[391A]	B	12	-1872
+1201	Delp	B	1605	Sao	X431000-E	 	     Di Na Po (NIL)		003	ImDc	K3 IV	-1	(C00+1)	[0000]	B	12	12
+1323	Delp	B	1605	Sao	X431000-E	 	     Di Na Po (NIL)		003	Wild	K3 IV	-1	(C00+1)	[0000]	B	12	12
+1508	Delp	B	1605	Sao	X431000-E	 	     Di Po (NIL)		003	Wild	K3 IV	-1	(C00-3)	[0000]	B	12	-36
+1900	Delp	B	1605	Sao	X431000-E	 	     Di Po (NIL)		003	Wild	K3 IV	-1	(C00+5)	[0000]	B	12	60
+
+1105	Delp	B	1607	Moonfriend	A527587-E	 	     Ni 		523	ImDc	G0 V	1	(C45+1)	[565E]	B	8	240
+1201	Delp	B	1607	Moonfriend	X527000-E	 	     Di 		023	ImDc	G0 V	-1	(C00+5)	[0000]	B	8	60
+1323	Delp	B	1607	Moonfriend	X527000-E	 	     Di 		023	Wild	G0 V	-1	(C00+1)	[0000]	B	8	12
+1508	Delp	B	1607	Moonfriend	X527000-E	 	     Di 		023	Wild	G0 V	-1	(C00+3)	[0000]	B	8	36
+1900	Delp	B	1607	Moonfriend	X527000-E	 	     Di 		023	Wild	G0 V	-1	(C00+2)	[0000]	B	8	24
+
+1105	Delp	N	1635	Ffuntayns	E553420-5	 	     Ni Po 		521	ImDc	M2 V	-3	(631-5)	[1111]	B	10	-90
+1201	Delp	N	1635	Ffuntayns	X553486-4	 	     Ni Po 		321	ImDc	M2 V	-3	(630+1)	[6132]	B	10	18
+1323	Delp	N	1635	Ffuntayns	X553442-0	 	     Ni Po 		121	Wild	M2 V	-3	(633+1)	[8141]	B	10	54
+1508	Delp	N	1635	Ffuntayns	X553420-0	 	     Ni Po 		121	Wild	M2 V	-3	(630-1)	[7151]	B	10	-18
+1900	Delp	N	1635	Ffuntayns	X553453-2	 	     Ni Po 		221	Wild	M2 V	-3	(630+2)	[9141]	B	10	36
+
+1105	Delp	N	1638	Wandesforth	C100434-C	 	     Ni Va 		310	ImDc	K3 V	0	(733-2)	[243A]	B	11	-126
+1201	Delp	N	1638	Wandesforth	X100000-C	 	     Di Va 		010	ImDc	K3 V	-1	(700-1)	[0000]	B	11	-7
+1323	Delp	N	1638	Wandesforth	X100000-C	 	     Di Va 		010	Wild	K3 V	-1	(700+1)	[0000]	B	11	7
+1508	Delp	N	1638	Wandesforth	X100000-C	 	     Di Va 		010	Wild	K3 V	-1	(700-3)	[0000]	B	11	-21
+1900	Delp	N	1638	Wandesforth	X100000-C	 	     Di Va 		010	Wild	K3 V	-1	(700+1)	[0000]	B	11	7
+
+1105	Delp	N	1639	Ginger	C100433-C	 	     Ni Va 		915	ImDc	M2 V	0	(C33-3)	[1429]	B	16	-324
+1201	Delp	N	1639	Ginger	X100000-C	 	     Di Va 		015	ImDc	M2 V	-1	(C00+2)	[0000]	B	16	24
+1323	Delp	N	1639	Ginger	X100000-C	 	     Di Va 		015	Wild	M2 V	-1	(C00-3)	[0000]	B	16	-36
+1508	Delp	N	1639	Ginger	X100000-C	 	     Di Va 		015	Wild	M2 V	-1	(C00-1)	[0000]	B	16	-12
+1900	Delp	N	1639	Ginger	X100000-C	 	     Di Va 		015	Wild	M2 V	-1	(C00-2)	[0000]	B	16	-24
+
+1105	Delp	N	1640	McNaughton	E000677-7	 	      As Va Na Ni 		212	ImDc	K3 V	-3	(851-3)	[6357]	B	10	-120
+1201	Delp	N	1640	McNaughton	X000000-7	 	      As Va Di Na 		012	ImDc	K3 V	-3	(800+5)	[0000]	B	10	40
+1323	Delp	N	1640	McNaughton	X000000-7	 	      As Va Di Na 		012	Wild	K3 V	-3	(800+1)	[0000]	B	10	8
+1508	Delp	N	1640	McNaughton	X000000-7	 	       As Va Di 		012	Wild	K3 V	-3	(800+1)	[0000]	B	10	8
+1900	Delp	N	1640	McNaughton	X000000-7	 	       As Va Di 		012	Wild	K3 V	-3	(800-1)	[0000]	B	10	-8
+
+1105	Delp	C	1701	Portland	C431721-6	 	      Na Po (NIL)		112	ImDc	F3 V	-1	(966-5)	[3612]	B	15	-1620
+1201	Delp	C	1701	Portland	X431000-6	 	     Di Na Po (NIL)		012	ImDc	F3 V	-3	(900-4)	[0000]	B	15	-36
+1323	Delp	C	1701	Portland	X431000-6	 	     Di Na Po (NIL)		012	Wild	F3 V	-3	(900+4)	[0000]	B	15	36
+1508	Delp	C	1701	Portland	X431000-6	 	     Di Po (NIL)		012	Wild	F3 V	-3	(900+3)	[0000]	B	15	27
+1900	Delp	C	1701	Portland	X431000-6	 	     Di Po (NIL)		012	Wild	F3 V	-3	(900+1)	[0000]	B	15	9
+
+1105	Delp	C	1702	Uganda	D527587-7	 	     Ni 		402	ImDc	K5 V M1 V	-3	(741-3)	[5257]	B	7	-84
+1201	Delp	C	1702	Uganda	X527000-7	 	     Di 		002	ImDc	K5 V M1 V	-3	(700+2)	[0000]	B	7	14
+1323	Delp	C	1702	Uganda	X527000-7	 	     Di 		002	Wild	K5 V M1 V	-3	(700+1)	[0000]	B	7	7
+1508	Delp	C	1702	Uganda	X527000-7	 	     Di 		002	Wild	K5 V M1 V	-3	(700-1)	[0000]	B	7	-7
+1900	Delp	C	1702	Uganda	X527000-7	 	     Di 		002	Wild	K5 V M1 V	-3	(700+3)	[0000]	B	7	21
+
+1105	Delp	C	1703	Sakon	E100433-7	 	     Ni Va 		812	ImDc	M2 V	-3	(631-5)	[1124]	B	13	-90
+1201	Delp	C	1703	Sakon	X100000-7	 	     Di Va 		012	ImDc	M2 V	-3	(600+1)	[0000]	B	13	6
+1323	Delp	C	1703	Sakon	X100000-7	 	     Di Va 		012	Wild	M2 V	-3	(600+2)	[0000]	B	13	12
+1508	Delp	C	1703	Sakon	X100000-7	 	     Di Va 		012	Wild	M2 V	-3	(600+1)	[0000]	B	13	6
+1900	Delp	C	1703	Sakon	X100000-7	 	     Di Va 		012	Wild	M2 V	-3	(600+1)	[0000]	B	13	6
+
+1105	Delp	C	1707	Keltus	A525677-D	 	    Ni Px 		813	ImDc	M0 V M1 V	1	(C55+1)	[675D]	B	9	300
+1201	Delp	C	1707	Keltus	X525000-D	 	    Di Px 		013	ImDc	M0 V M1 V	-1	(C00-2)	[0000]	B	9	-24
+1323	Delp	C	1707	Keltus	X525000-D	 	    Di Px 		013	Wild	M0 V M1 V	-1	(C00-1)	[0000]	B	9	-12
+1508	Delp	C	1707	Keltus	X525000-D	 	     Di 		013	Wild	M0 V M1 V	-1	(C00+1)	[0000]	B	9	12
+1900	Delp	C	1707	Keltus	X525000-D	 	     Di 		013	Wild	M0 V M1 V	-1	(C00-3)	[0000]	B	9	-36
+
+1105	Delp	G	1716	Watton	C431721-8	 	      Na Po (NIL)		702	ImDc	K0 V	-1	(B67-5)	[3614]	B	11	-2310
+1201	Delp	G	1716	Watton	X431000-8	 	     Di Na Po (NIL)		002	ImDc	K0 V	-3	(B00+1)	[0000]	B	11	11
+1323	Delp	G	1716	Watton	X431000-8	 	     Di Na Po (NIL)		002	Wild	K0 V	-3	(B00+2)	[0000]	B	11	22
+1508	Delp	G	1716	Watton	X431000-8	 	     Di Po (NIL)		002	Wild	K0 V	-3	(B00-2)	[0000]	B	11	-22
+1900	Delp	G	1716	Watton	X431000-8	 	     Di Po (NIL)		002	Wild	K0 V	-3	(B00+1)	[0000]	B	11	11
+
+1105	Delp	K	1722	Leviticus	B527587-A	N 	     Ni 		213	ImDc	G0 V	1	(B45+1)	[565A]	B	7	220
+1201	Delp	K	1722	Leviticus	X527000-A	 	     Di 		013	ImDc	G0 V	-1	(B00-4)	[0000]	B	7	-44
+1323	Delp	K	1722	Leviticus	X527000-A	 	     Di 		013	Wild	G0 V	-1	(B00-2)	[0000]	B	7	-22
+1508	Delp	K	1722	Leviticus	X527000-A	 	     Di 		013	Wild	G0 V	-1	(B00+2)	[0000]	B	7	22
+1900	Delp	K	1722	Leviticus	X527000-A	 	     Di 		013	Wild	G0 V	-1	(B00+1)	[0000]	B	7	11
+
+1105	Delp	K	1724	Anaxias	A553A85-D	 	      Hi Po (NIL)		900	ImDc	K0 V M3 V	3	(C9F+1)	[8D3B]	BE	11	1620
+1201	Delp	K	1724	Anaxias	X5539BD-4	 	      Hi Po (NIL)	B	800	ImDc	K0 V M3 V	-1	(C8A-1)	[8812]	BE	11	-960
+1323	Delp	K	1724	Anaxias	X5539CD-0	 	      Hi Po (NIL)		400	Wild	K0 V M3 V	-1	(C84-1)	[D891]	BE	11	-384
+1508	Delp	K	1724	Anaxias	X553995-0	 	      Hi Po (NIL)		400	Wild	K0 V M3 V	-1	(C85-2)	[7841]	BE	11	-960
+1900	Delp	K	1724	Anaxias	X5539B9-1	 	      Hi Po (NIL)		400	Wild	K0 V M3 V	-1	(C89+3)	[5881]	BE	11	2592
+
+1105	Delp	O	1736	Gimesh	E1009A7-9	 	      Hi Na In Va 		703	ImDc	M2 V	1	(E8B+1)	[9A59]	BE	9	1232
+1201	Delp	O	1736	Gimesh	X100000-9	 	      Di Na In Va 		003	ImDc	M2 V	-1	(E00-4)	[0000]	BE	9	-56
+1323	Delp	O	1736	Gimesh	X100000-9	 	      Di Na In Va 		003	Wild	M2 V	-1	(E00+1)	[0000]	BE	9	14
+1508	Delp	O	1736	Gimesh	X100000-9	 	       Di Va 		003	Wild	M2 V	-2	(E00-3)	[0000]	B	9	-42
+1900	Delp	O	1736	Gimesh	X100000-9	 	       Di Va 		003	Wild	M2 V	-2	(E00+1)	[0000]	B	9	14
+
+1105	Delp	O	1737	Todd	A100633-C	 	      Na Ni Va 		813	ImDc	K0 V	1	(C55-2)	[3729]	B	17	-600
+1201	Delp	O	1737	Todd	X100000-C	 	      Di Na Va 		013	ImDc	K0 V	-1	(C00+1)	[0000]	B	17	12
+1323	Delp	O	1737	Todd	X100000-C	 	      Di Na Va 		013	Wild	K0 V	-1	(C00-5)	[0000]	B	17	-60
+1508	Delp	O	1737	Todd	X100000-C	 	       Di Va 		013	Wild	K0 V	-1	(C00+3)	[0000]	B	17	36
+1900	Delp	O	1737	Todd	X100000-C	 	       Di Va 		013	Wild	K0 V	-1	(C00+2)	[0000]	B	17	24
+
+1105	Delp	O	1739	Gilina	C756440-9	 	     Ga Ni Pa 		402	ImDc	K2 V	-1	(832-5)	[1314]	Bc	8	-240
+1201	Delp	O	1739	Gilina	X756475-2	 	     Ga Ni Pa 	B	202	ImDc	K2 V	-3	(633-3)	[3165]	Bc	8	-162
+1323	Delp	O	1739	Gilina	X756472-1	 	     Ga Ni Pa 		102	Wild	K2 V	-3	(631+2)	[1181]	Bc	8	36
+1508	Delp	O	1739	Gilina	X75649D-2	 	     Ga Ni Pa 		202	Wild	K2 V	-3	(632+3)	[1154]	Bc	8	108
+1900	Delp	O	1739	Gilina	X756454-4	 	     Ga Ni Pa 		102	Wild	K2 V	-3	(631-1)	[5144]	Bc	8	-18
+
+1105	Delp	O	1740	Thayer	C100433-B	 	     Ni Va 		702	ImDc	K2 V M5 V	0	(833-3)	[1428]	B	14	-216
+1201	Delp	O	1740	Thayer	X100000-B	 	     Di Va 		002	ImDc	K2 V M5 V	-1	(800+3)	[0000]	B	14	24
+1323	Delp	O	1740	Thayer	X100000-B	 	     Di Va 		002	Wild	K2 V M5 V	-1	(800+3)	[0000]	B	14	24
+1508	Delp	O	1740	Thayer	X100000-B	 	     Di Va 		002	Wild	K2 V M5 V	-1	(800-1)	[0000]	B	14	-8
+1900	Delp	O	1740	Thayer	X100000-B	 	     Di Va 		002	Wild	K2 V M5 V	-1	(800-1)	[0000]	B	14	-8
+
+1105	Delp	C	1801	Dishiirpi	B525966-9	N 	      Hi In (NIL)		812	ImDc	M1 V M2 V	3	(E8D+2)	[8C48]	BE	15	2912
+1201	Delp	C	1801	Dishiirpi	X525000-9	 	      Di In (NIL)		012	ImDc	M1 V M2 V	-1	(E00+1)	[0000]	BE	15	14
+1323	Delp	C	1801	Dishiirpi	X525000-9	 	      Di In (NIL)		012	Wild	M1 V M2 V	-1	(E00-1)	[0000]	BE	15	-14
+1508	Delp	C	1801	Dishiirpi	X525000-9	 	       Di (NIL)		012	Wild	M1 V M2 V	-2	(E00+2)	[0000]	B	15	28
+1900	Delp	C	1801	Dishiirpi	X525000-9	 	       Di (NIL)		012	Wild	M1 V M2 V	-2	(E00-1)	[0000]	B	15	-14
+
+1105	Delp	C	1802	Fairhinath	C756440-9	 	     Ga Ni Pa 		604	ImDc	K2 V M8 V	-1	(A32-5)	[1314]	Bc	7	-300
+1201	Delp	C	1802	Fairhinath	X756455-6	 	     Ga Ni Pa 	B	404	ImDc	K2 V M8 V	-3	(630+2)	[5146]	Bc	7	36
+1323	Delp	C	1802	Fairhinath	X756432-1	 	     Ga Ni Pa 		204	Wild	K2 V M8 V	-3	(630+1)	[31A1]	Bc	7	18
+1508	Delp	C	1802	Fairhinath	X756402-3	 	     Ga Ni Pa 		104	Wild	K2 V M8 V	-3	(630+3)	[3186]	Bc	7	54
+1900	Delp	C	1802	Fairhinath	X756400-4	 	     Ga Ni Pa 		104	Wild	K2 V M8 V	-3	(632+1)	[1143]	Bc	7	36
+
+1105	Delp	C	1803	Moriarty	C100433-B	 	     Ni Va 		504	ImDc	M1 V M3 V	0	(A33-3)	[1428]	B	8	-270
+1201	Delp	C	1803	Moriarty	X100000-B	 	     Di Va 		004	ImDc	M1 V M3 V	-1	(A00+1)	[0000]	B	8	10
+1323	Delp	C	1803	Moriarty	X100000-B	 	     Di Va 		004	Wild	M1 V M3 V	-1	(A00+1)	[0000]	B	8	10
+1508	Delp	C	1803	Moriarty	X100000-B	 	     Di Va 		004	Wild	M1 V M3 V	-1	(A00+1)	[0000]	B	8	10
+1900	Delp	C	1803	Moriarty	X100000-B	 	     Di Va 		004	Wild	M1 V M3 V	-1	(A00-5)	[0000]	B	8	-50
+
+1105	Delp	C	1804	Wystan	C525677-7	 	    Ni Px 		403	ImDc	K1 V M3 V	-2	(852-2)	[6457]	B	11	-160
+1201	Delp	C	1804	Wystan	X525000-7	 	    Di Px 		003	ImDc	K1 V M3 V	-3	(800-4)	[0000]	B	11	-32
+1323	Delp	C	1804	Wystan	X525000-7	 	    Di Px 		003	Wild	K1 V M3 V	-3	(800+2)	[0000]	B	11	16
+1508	Delp	C	1804	Wystan	X525000-7	 	     Di 		003	Wild	K1 V M3 V	-3	(800-3)	[0000]	B	11	-24
+1900	Delp	C	1804	Wystan	X525000-7	 	     Di 		003	Wild	K1 V M3 V	-3	(800+3)	[0000]	B	11	24
+
+1105	Delp	C	1805	Mach	B431721-B	 	      Na Po (NIL)		124	ImDc	K7 V M8 V	2	(F6C-2)	[3917]	B	9	-2160
+1201	Delp	C	1805	Mach	X431000-B	 	     Di Na Po (NIL)		024	ImDc	K7 V M8 V	-1	(F00-1)	[0000]	B	9	-15
+1323	Delp	C	1805	Mach	X431000-B	 	     Di Na Po (NIL)		024	Wild	K7 V M8 V	-1	(F00-1)	[0000]	B	9	-15
+1508	Delp	C	1805	Mach	X431000-B	 	     Di Po (NIL)		024	Wild	K7 V M8 V	-1	(F00+1)	[0000]	B	9	15
+1900	Delp	C	1805	Mach	X431000-B	 	     Di Po (NIL)		024	Wild	K7 V M8 V	-1	(F00-3)	[0000]	B	9	-45
+
+1105	Delp	G	1813	V'nebree	E527587-7	 	     Ni 		615	ImDc	M0 V M7 V	-3	(741-3)	[5257]	B	12	-84
+1201	Delp	G	1813	V'nebree	X527000-7	 	     Di 		015	ImDc	M0 V M7 V	-3	(700+3)	[0000]	B	12	21
+1323	Delp	G	1813	V'nebree	X527000-7	 	     Di 		015	Wild	M0 V M7 V	-3	(700-2)	[0000]	B	12	-14
+1508	Delp	G	1813	V'nebree	X527000-7	 	     Di 		015	Wild	M0 V M7 V	-3	(700+1)	[0000]	B	12	7
+1900	Delp	G	1813	V'nebree	X527000-7	 	     Di 		015	Wild	M0 V M7 V	-3	(700+1)	[0000]	B	12	7
+
+1105	Delp	G	1815	Kirkja	C100433-9	 	     Ni Va 		504	ImDc	M1 V	-1	(A32-4)	[1326]	B	10	-240
+1201	Delp	G	1815	Kirkja	X100000-9	 	     Di Va 		004	ImDc	M1 V	-2	(A00-2)	[0000]	B	10	-20
+1323	Delp	G	1815	Kirkja	X100000-9	 	     Di Va 		004	Wild	M1 V	-2	(A00+1)	[0000]	B	10	10
+1508	Delp	G	1815	Kirkja	X100000-9	 	     Di Va 		004	Wild	M1 V	-2	(A00+4)	[0000]	B	10	40
+1900	Delp	G	1815	Kirkja	X100000-9	 	     Di Va 		004	Wild	M1 V	-2	(A00+3)	[0000]	B	10	30
+
+1105	Delp	K	1825	Abell	X525677-7	 	   Fo  Ni Px 	R	404	ImDc	G1 V M6 V	-3	(851-3)	[6357]	B	8	-120
+1201	Delp	K	1825	Abell	X525000-7	 	   Fo  Di Px 		004	ImDc	G1 V M6 V	-3	(800-1)	[0000]	B	8	-8
+1323	Delp	K	1825	Abell	X525000-7	 	   Fo  Di Px 		004	Wild	G1 V M6 V	-3	(800+1)	[0000]	B	8	8
+1508	Delp	K	1825	Abell	X525000-7	 	    Fo  Di 		004	Wild	G1 V M6 V	-3	(800+5)	[0000]	B	8	40
+1900	Delp	K	1825	Abell	X525000-7	 	    Fo  Di 		004	Wild	G1 V M6 V	-3	(800+1)	[0000]	B	8	8
+
+1105	Delp	O	1836	Caret	C100433-8	 	     Ni Va 		102	ImDc	K3 V M6 V	-2	(831-5)	[1225]	B	11	-120
+1201	Delp	O	1836	Caret	X100000-8	 	     Di Va 		002	ImDc	K3 V M6 V	-3	(800+1)	[0000]	B	11	8
+1323	Delp	O	1836	Caret	X100000-8	 	     Di Va 		002	Wild	K3 V M6 V	-3	(800+1)	[0000]	B	11	8
+1508	Delp	O	1836	Caret	X100000-8	 	     Di Va 		002	Wild	K3 V M6 V	-3	(800+3)	[0000]	B	11	24
+1900	Delp	O	1836	Caret	X100000-8	 	     Di Va 		002	Wild	K3 V M6 V	-3	(800+3)	[0000]	B	11	24
+
+1105	Delp	O	1839	Ariome	C525677-7	 	    Ni Px 		415	ImDc	M0 V M2 V	-2	(852-2)	[6457]	B	15	-160
+1201	Delp	O	1839	Ariome	X525000-7	 	    Di Px 		015	ImDc	M0 V M2 V	-3	(800-2)	[0000]	B	15	-16
+1323	Delp	O	1839	Ariome	X525000-7	 	    Di Px 		015	Wild	M0 V M2 V	-3	(800+1)	[0000]	B	15	8
+1508	Delp	O	1839	Ariome	X525000-7	 	     Di 		015	Wild	M0 V M2 V	-3	(800-1)	[0000]	B	15	-8
+1900	Delp	O	1839	Ariome	X525000-7	 	     Di 		015	Wild	M0 V M2 V	-3	(800+2)	[0000]	B	15	16
+
+1105	Delp	O	1840	Fasner	E431721-8	 	      Na Po (NIL)		102	ImDc	M2 V	-2	(B66-5)	[3514]	B	7	-1980
+1201	Delp	O	1840	Fasner	X431000-8	 	     Di Na Po (NIL)		002	ImDc	M2 V	-3	(B00-1)	[0000]	B	7	-11
+1323	Delp	O	1840	Fasner	X431000-8	 	     Di Na Po (NIL)		002	Wild	M2 V	-3	(B00-1)	[0000]	B	7	-11
+1508	Delp	O	1840	Fasner	X431000-8	 	     Di Po (NIL)		002	Wild	M2 V	-3	(B00+1)	[0000]	B	7	11
+1900	Delp	O	1840	Fasner	X431000-8	 	     Di Po (NIL)		002	Wild	M2 V	-3	(B00+1)	[0000]	B	7	11
+
+1105	Delp	C	1903	Trevelian	B527587-B	 	     Ni 		103	ImDc	M3 V	1	(A45+1)	[565B]	B	8	200
+1201	Delp	C	1903	Trevelian	X527000-B	 	     Di 		003	ImDc	M3 V	-1	(A00-2)	[0000]	B	8	-20
+1323	Delp	C	1903	Trevelian	X527000-B	 	     Di 		003	Wild	M3 V	-1	(A00-1)	[0000]	B	8	-10
+1508	Delp	C	1903	Trevelian	X527000-B	 	     Di 		003	Wild	M3 V	-1	(A00+4)	[0000]	B	8	40
+1900	Delp	C	1903	Trevelian	X527000-B	 	     Di 		003	Wild	M3 V	-1	(A00-2)	[0000]	B	8	-20
+
+1105	Delp	C	1905	Izmir	D553420-7	 	     Ni Po 		804	ImDc	K4 V M3 V M4 V	-3	(631-5)	[1112]	B	8	-90
+1201	Delp	C	1905	Izmir	X553424-6	 	     Ni Po 		504	ImDc	K4 V M3 V M4 V	-3	(631-1)	[1175]	B	8	-18
+1323	Delp	C	1905	Izmir	X553458-2	 	     Ni Po 		204	Wild	K4 V M3 V M4 V	-3	(632+1)	[8152]	B	8	36
+1508	Delp	C	1905	Izmir	X553478-2	 	     Ni Po 		204	Wild	K4 V M3 V M4 V	-3	(632+1)	[7143]	B	8	36
+1900	Delp	C	1905	Izmir	X553421-3	 	     Ni Po 		304	Wild	K4 V M3 V M4 V	-3	(631+4)	[3163]	B	8	72
+
+1105	Delp	O	1935	Anise	D100A99-D	 	      Hi Na In Va 		304	ImDc	K2 IV	2	(G9E+3)	[BC6E]	BE	7	6048
+1201	Delp	O	1935	Anise	X100000-D	 	      Di Na In Va 		004	ImDc	K2 IV	0	(G00-1)	[0000]	BE	7	-16
+1323	Delp	O	1935	Anise	X100000-D	 	      Di Na In Va 		004	Wild	K2 IV	0	(G00-3)	[0000]	BE	7	-48
+1508	Delp	O	1935	Anise	X100000-D	 	       Di Va 		004	Wild	K2 IV	-1	(G00+1)	[0000]	B	7	16
+1900	Delp	O	1935	Anise	X100000-D	 	       Di Va 		004	Wild	K2 IV	-1	(G00+5)	[0000]	B	7	80
+
+1105	Delp	O	1937	Grimman	B525677-B	 	    Ni Px 		202	ImDc	K1 V M7 V	1	(A55+1)	[675B]	B	12	250
+1201	Delp	O	1937	Grimman	X525000-B	 	    Di Px 		002	ImDc	K1 V M7 V	-1	(A00-1)	[0000]	B	12	-10
+1323	Delp	O	1937	Grimman	X525000-B	 	    Di Px 		002	Wild	K1 V M7 V	-1	(A00-2)	[0000]	B	12	-20
+1508	Delp	O	1937	Grimman	X525000-B	 	     Di 		002	Wild	K1 V M7 V	-1	(A00-1)	[0000]	B	12	-10
+1900	Delp	O	1937	Grimman	X525000-B	 	     Di 		002	Wild	K1 V M7 V	-1	(A00-2)	[0000]	B	12	-20
+
+1105	Delp	O	1939	Calais	D431721-8	 	      Na Po (NIL)		213	ImDc	M1 V	-2	(D66-5)	[3514]	B	10	-2340
+1201	Delp	O	1939	Calais	X431000-8	 	     Di Na Po (NIL)		013	ImDc	M1 V	-3	(D00+1)	[0000]	B	10	13
+1323	Delp	O	1939	Calais	X431000-8	 	     Di Na Po (NIL)		013	Wild	M1 V	-3	(D00+1)	[0000]	B	10	13
+1508	Delp	O	1939	Calais	X431000-8	 	     Di Po (NIL)		013	Wild	M1 V	-3	(D00-1)	[0000]	B	10	-13
+1900	Delp	O	1939	Calais	X431000-8	 	     Di Po (NIL)		013	Wild	M1 V	-3	(D00+1)	[0000]	B	10	13
+
+1105	Delp	G	2011	Yugoslav	A000587-E	N 	       As Va Ni 		512	ImDc	G2 V	1	(A45+1)	[565E]	B	11	200
+1201	Delp	G	2011	Yugoslav	X000000-E	 	       As Va Di 		012	ImDc	G2 V	-1	(A00+1)	[0000]	B	11	10
+1323	Delp	G	2011	Yugoslav	X000000-E	 	       As Va Di 		012	Wild	G2 V	-1	(A00-3)	[0000]	B	11	-30
+1508	Delp	G	2011	Yugoslav	X000000-E	 	       As Va Di 		012	Wild	G2 V	-1	(A00-2)	[0000]	B	11	-20
+1900	Delp	G	2011	Yugoslav	X000000-E	 	       As Va Di 		012	Wild	G2 V	-1	(A00+3)	[0000]	B	11	30
+
+1105	Delp	G	2014	Whitaker	E100433-7	 	     Ni Va 		104	ImDc	M0 V	-3	(631-5)	[1124]	B	9	-90
+1201	Delp	G	2014	Whitaker	X100000-7	 	     Di Va 		004	ImDc	M0 V	-3	(600+3)	[0000]	B	9	18
+1323	Delp	G	2014	Whitaker	X100000-7	 	     Di Va 		004	Wild	M0 V	-3	(600+4)	[0000]	B	9	24
+1508	Delp	G	2014	Whitaker	X100000-7	 	     Di Va 		004	Wild	M0 V	-3	(600-1)	[0000]	B	9	-6
+1900	Delp	G	2014	Whitaker	X100000-7	 	     Di Va 		004	Wild	M0 V	-3	(600+1)	[0000]	B	9	6
+
+1105	Delp	K	2025	Sian	B100434-E	N 	     Ni Va 		525	ImDc	K3 IV	1	(D34-1)	[253C]	B	10	-156
+1201	Delp	K	2025	Sian	X100000-E	 	     Di Va 		025	ImDc	K3 IV	-1	(D00-1)	[0000]	B	10	-13
+1323	Delp	K	2025	Sian	X100000-E	 	     Di Va 		025	Wild	K3 IV	-1	(D00-3)	[0000]	B	10	-39
+1508	Delp	K	2025	Sian	X100000-E	 	     Di Va 		025	Wild	K3 IV	-1	(D00-1)	[0000]	B	10	-13
+1900	Delp	K	2025	Sian	X100000-E	 	     Di Va 		025	Wild	K3 IV	-1	(D00+1)	[0000]	B	10	13
+
+1105	Delp	K	2026	Riirzukhindi	E565984-8	 	     Hi Pr (NIL)		504	ImDc	K7 V	-1	(F88-3)	[7836]	BcE	7	-2880
+1201	Delp	K	2026	Riirzukhindi	X5659BB-6	 	     Hi Pr (NIL)	B	604	ImDc	K7 V	-1	(B87-2)	[9869]	BcE	7	-1232
+1323	Delp	K	2026	Riirzukhindi	X5659AA-2	 	     Hi Pr (NIL)		304	Wild	K7 V	-1	(B84-1)	[6841]	BcE	7	-352
+1508	Delp	K	2026	Riirzukhindi	X565941-3	 	     Hi Pr (NIL)		204	Wild	K7 V	-1	(B87+1)	[C847]	BcE	7	616
+1900	Delp	K	2026	Riirzukhindi	X565972-4	 	     Hi Pr (NIL)		304	Wild	K7 V	-1	(B87-4)	[8879]	BcE	7	-2464
+
+1105	Delp	K	2030	Hultor	B431721-B	 	      Na Po (NIL)		322	ImDc	M2 V M2 V	2	(D6C-2)	[3917]	B	13	-1872
+1201	Delp	K	2030	Hultor	X431000-B	 	     Di Na Po (NIL)		022	ImDc	M2 V M2 V	-1	(D00+3)	[0000]	B	13	39
+1323	Delp	K	2030	Hultor	X431000-B	 	     Di Na Po (NIL)		022	Wild	M2 V M2 V	-1	(D00+3)	[0000]	B	13	39
+1508	Delp	K	2030	Hultor	X431000-B	 	     Di Po (NIL)		022	Wild	M2 V M2 V	-1	(D00-1)	[0000]	B	13	-13
+1900	Delp	K	2030	Hultor	X431000-B	 	     Di Po (NIL)		022	Wild	M2 V M2 V	-1	(D00+1)	[0000]	B	13	13
+
+1105	Delp	O	2035	Osen	D000587-7	 	      As Va Ni 		512	ImDc	M2 V M8 V	-3	(741-3)	[5257]	B	9	-84
+1201	Delp	O	2035	Osen	X000000-7	 	      As Va Di 		012	ImDc	M2 V M8 V	-3	(700+4)	[0000]	B	9	28
+1323	Delp	O	2035	Osen	X000000-7	 	      As Va Di 		012	Wild	M2 V M8 V	-3	(700+1)	[0000]	B	9	7
+1508	Delp	O	2035	Osen	X000000-7	 	      As Va Di 		012	Wild	M2 V M8 V	-3	(700+1)	[0000]	B	9	7
+1900	Delp	O	2035	Osen	X000000-7	 	      As Va Di 		012	Wild	M2 V M8 V	-3	(700-3)	[0000]	B	9	-21
+
+1105	Delp	C	2110	Navajo	A100433-F	 	     Ni Va 		713	ImDc	K3 V	1	(A34-2)	[152C]	B	11	-240
+1201	Delp	C	2110	Navajo	X100000-F	 	     Di Va 		013	ImDc	K3 V	-1	(A00+1)	[0000]	B	11	10
+1323	Delp	C	2110	Navajo	X100000-F	 	     Di Va 		013	Wild	K3 V	-1	(A00+1)	[0000]	B	11	10
+1508	Delp	C	2110	Navajo	X100000-F	 	     Di Va 		013	Wild	K3 V	-1	(A00-3)	[0000]	B	11	-30
+1900	Delp	C	2110	Navajo	X100000-F	 	     Di Va 		013	Wild	K3 V	-1	(A00-2)	[0000]	B	11	-20
+
+1105	Delp	G	2113	Detroit	B525677-7	 	    Ni Px 		810	ImDc	K2 V M7 V	-1	(853-1)	[6557]	B	10	-120
+1201	Delp	G	2113	Detroit	X525000-7	 	    Di Px 		010	ImDc	K2 V M7 V	-3	(800-2)	[0000]	B	10	-16
+1323	Delp	G	2113	Detroit	X525000-7	 	    Di Px 		010	Wild	K2 V M7 V	-3	(800+1)	[0000]	B	10	8
+1508	Delp	G	2113	Detroit	X525000-7	 	     Di 		010	Wild	K2 V M7 V	-3	(800+3)	[0000]	B	10	24
+1900	Delp	G	2113	Detroit	X525000-7	 	     Di 		010	Wild	K2 V M7 V	-3	(800+1)	[0000]	B	10	8
+
+1105	Delp	O	2135	Zepher	C100433-A	 	     Ni Va 		413	ImDc	M0 V M2 V	0	(A33-3)	[1427]	B	12	-270
+1201	Delp	O	2135	Zepher	X100000-A	 	     Di Va 		013	ImDc	M0 V M2 V	-1	(A00+5)	[0000]	B	12	50
+1323	Delp	O	2135	Zepher	X100000-A	 	     Di Va 		013	Wild	M0 V M2 V	-1	(A00-5)	[0000]	B	12	-50
+1508	Delp	O	2135	Zepher	X100000-A	 	     Di Va 		013	Wild	M0 V M2 V	-1	(A00+1)	[0000]	B	12	10
+1900	Delp	O	2135	Zepher	X100000-A	 	     Di Va 		013	Wild	M0 V M2 V	-1	(A00-5)	[0000]	B	12	-50
+
+1105	Delp	O	2139	Lastir	A100434-D	 	     Ni Va 		613	ImDc	M0 V M8 V	1	(A34-1)	[253B]	B	17	-120
+1201	Delp	O	2139	Lastir	X100000-D	 	     Di Va 		013	ImDc	M0 V M8 V	-1	(A00-3)	[0000]	B	17	-30
+1323	Delp	O	2139	Lastir	X100000-D	 	     Di Va 		013	Wild	M0 V M8 V	-1	(A00+1)	[0000]	B	17	10
+1508	Delp	O	2139	Lastir	X100000-D	 	     Di Va 		013	Wild	M0 V M8 V	-1	(A00+1)	[0000]	B	17	10
+1900	Delp	O	2139	Lastir	X100000-D	 	     Di Va 		013	Wild	M0 V M8 V	-1	(A00+1)	[0000]	B	17	10
+
+1105	Delp	C	2202	Teresa	C565220-7	 	     Lo 		623	CsIm	M1 V M8 V	-2	(410-5)	[1112]	B	8	-20
+1201	Delp	C	2202	Teresa	E565203-6	 	     Lo 		723	CsIm	M1 V M8 V	-3	(410+2)	[1117]	B	8	8
+1323	Delp	C	2202	Teresa	E565000-6	 	     Di 		023	Wild	M1 V M8 V	-3	(400-1)	[0000]	B	8	-4
+1508	Delp	C	2202	Teresa	E565000-6	 	     Di 		023	Wild	M1 V M8 V	-3	(400+1)	[0000]	B	8	4
+1900	Delp	C	2202	Teresa	E565000-6	 	     Di 		023	Wild	M1 V M8 V	-3	(400+1)	[0000]	B	8	4
+
+1105	Delp	C	2204	Sebastia	E756440-4	 	     Ga Ni Pa 		110	CsIm	K2 V	-3	(631-5)	[1111]	Bc	5	-90
+1201	Delp	C	2204	Sebastia	X756389-0	 	      Ga Lo 	B	210	CsIm	K2 V	-3	(620-3)	[4141]	B	5	-36
+1323	Delp	C	2204	Sebastia	X756000-0	 	      Ba Ga 		010	Wild	K2 V	-3	(600-4)	[0000]	B	5	-24
+1508	Delp	C	2204	Sebastia	X756000-0	 	      Ba Ga 		010	Wild	K2 V	-3	(600-3)	[0000]	B	5	-18
+1900	Delp	C	2204	Sebastia	X756000-0	 	      Ba Ga 		010	Wild	K2 V	-3	(600-2)	[0000]	B	5	-12
+
+1105	Delp	K	2224	Hergrom	E525677-7	 	    Ni Px 		804	ImDc	M1 V	-3	(851-3)	[6357]	B	13	-120
+1201	Delp	K	2224	Hergrom	X525000-7	 	    Di Px 		004	ImDc	M1 V	-3	(800+1)	[0000]	B	13	8
+1323	Delp	K	2224	Hergrom	X525000-7	 	    Di Px 		004	Wild	M1 V	-3	(800-1)	[0000]	B	13	-8
+1508	Delp	K	2224	Hergrom	X525000-7	 	     Di 		004	Wild	M1 V	-3	(800+1)	[0000]	B	13	8
+1900	Delp	K	2224	Hergrom	X525000-7	 	     Di 		004	Wild	M1 V	-3	(800-5)	[0000]	B	13	-40
+
+1105	Delp	O	2234	Tyne	B100433-A	 	     Ni Va 		103	NaHu	F0 V	1	(934-2)	[1527]	B	14	-216
+1201	Delp	O	2234	Tyne	X100000-A	 	     Di Va 		003	NaHu	F0 V	-1	(900-1)	[0000]	B	14	-9
+1323	Delp	O	2234	Tyne	X100000-A	 	     Di Va 		003	Wild	F0 V	-1	(900+3)	[0000]	B	14	27
+1508	Delp	O	2234	Tyne	X100000-A	 	     Di Va 		003	Wild	F0 V	-1	(900+2)	[0000]	B	14	18
+1900	Delp	O	2234	Tyne	X100000-A	 	     Di Va 		003	Wild	F0 V	-1	(900+1)	[0000]	B	14	9
+
+1105	Delp	O	2235	Schneider	E525677-7	 	    Ni Px 		205	ImDc	M2 V	-3	(851-3)	[6357]	B	13	-120
+1201	Delp	O	2235	Schneider	X525000-7	 	    Di Px 		005	ImDc	M2 V	-3	(800+1)	[0000]	B	13	8
+1323	Delp	O	2235	Schneider	X525000-7	 	    Di Px 		005	Wild	M2 V	-3	(800-2)	[0000]	B	13	-16
+1508	Delp	O	2235	Schneider	X525000-7	 	     Di 		005	Wild	M2 V	-3	(800+1)	[0000]	B	13	8
+1900	Delp	O	2235	Schneider	X525000-7	 	     Di 		005	Wild	M2 V	-3	(800+1)	[0000]	B	13	8
+
+1105	Delp	O	2240	Beaknose	B431721-8	 	      Na Po (NIL)		201	ImDc	M3 V	0	(A68-4)	[3714]	B	9	-1920
+1201	Delp	O	2240	Beaknose	X431000-8	 	     Di Na Po (NIL)		001	ImDc	M3 V	-3	(A00+1)	[0000]	B	9	10
+1323	Delp	O	2240	Beaknose	X431000-8	 	     Di Na Po (NIL)		001	Wild	M3 V	-3	(A00+4)	[0000]	B	9	40
+1508	Delp	O	2240	Beaknose	X431000-8	 	     Di Po (NIL)		001	Wild	M3 V	-3	(A00+3)	[0000]	B	9	30
+1900	Delp	O	2240	Beaknose	X431000-8	 	     Di Po (NIL)		001	Wild	M3 V	-3	(A00-2)	[0000]	B	9	-20
+
+1105	Delp	K	2323	Gustafson	A000587-B	 	      As Va Ni 		913	CsIm	K7 IV M3 V	1	(B45+1)	[565B]	B	12	220
+1201	Delp	K	2323	Gustafson	X000000-B	 	      As Va Di 		013	CsIm	K7 IV M3 V	-1	(B00+1)	[0000]	B	12	11
+1323	Delp	K	2323	Gustafson	X000000-B	 	      As Va Di 		013	Wild	K7 IV M3 V	-1	(B00-4)	[0000]	B	12	-44
+1508	Delp	K	2323	Gustafson	X000000-B	 	      As Va Di 		013	Wild	K7 IV M3 V	-1	(B00+1)	[0000]	B	12	11
+1900	Delp	K	2323	Gustafson	X000000-B	 	      As Va Di 		013	Wild	K7 IV M3 V	-1	(B00+2)	[0000]	B	12	22
+
+1105	Delp	O	2336	Eisner	A553420-B	 	     Ni Po 		813	NaHu	K1 V M4 V	1	(A34-3)	[1516]	B	15	-360
+1201	Delp	O	2336	Eisner	B553478-5	 	     Ni Po 		413	NaHu	K1 V M4 V	-1	(631-1)	[7329]	B	15	-18
+1323	Delp	O	2336	Eisner	B553488-7	 	     Ni Po 		213	Wild	K1 V M4 V	-1	(631+2)	[6389]	B	15	36
+1508	Delp	O	2336	Eisner	B553453-9	 	     Ni Po 		313	Wild	K1 V M4 V	0	(A34+2)	[5467]	B	15	240
+1900	Delp	O	2336	Eisner	B553412-9	 	     Ni Po 		413	Wild	K1 V M4 V	0	(A34+1)	[442E]	B	15	120
+
+1105	Delp	O	2337	Iino	C639340-A	 	     Lo 		611	CsIm	M1 V M1 V	0	(720-4)	[1315]	B	14	-56
+1201	Delp	O	2337	Iino	X639000-A	 	     Di 		011	CsIm	M1 V M1 V	-1	(700+1)	[0000]	B	14	7
+1323	Delp	O	2337	Iino	X639000-A	 	     Di 		011	Wild	M1 V M1 V	-1	(700+1)	[0000]	B	14	7
+1508	Delp	O	2337	Iino	X639000-A	 	     Di 		011	Wild	M1 V M1 V	-1	(700+1)	[0000]	B	14	7
+1900	Delp	O	2337	Iino	X639000-A	 	     Di 		011	Wild	M1 V M1 V	-1	(700+3)	[0000]	B	14	21
+
+1105	Delp	O	2338	Corineus	C8D758B-5	 	     Ni 		523	NaHu	K1 V M1 V	-2	(742+1)	[7377]	B	16	56
+1201	Delp	O	2338	Corineus	X8D7000-5	 	     Di 		023	NaHu	K1 V M1 V	-3	(700-4)	[0000]	B	16	-28
+1323	Delp	O	2338	Corineus	X8D7000-5	 	     Di 		023	Wild	K1 V M1 V	-3	(700+1)	[0000]	B	16	7
+1508	Delp	O	2338	Corineus	X8D7000-5	 	     Di 		023	Wild	K1 V M1 V	-3	(700+2)	[0000]	B	16	14
+1900	Delp	O	2338	Corineus	X8D7000-5	 	     Di 		023	Wild	K1 V M1 V	-3	(700-2)	[0000]	B	16	-14
+
+1105	Delp	O	2339	Elke	E310000-0	 	     Ba 		005	NaXX	K0 V M7 V	-3	(200-5)	[0000]	B	10	-10
+1201	Delp	O	2339	Elke	X310000-0	 	     Ba 		005	NaXX	K0 V M7 V	-3	(200-4)	[0000]	B	10	-8
+1323	Delp	O	2339	Elke	X310000-0	 	     Ba 		005	Wild	K0 V M7 V	-3	(200-2)	[0000]	B	10	-4
+1508	Delp	O	2339	Elke	X310000-0	 	     Ba 		005	Wild	K0 V M7 V	-3	(200-4)	[0000]	B	10	-8
+1900	Delp	O	2339	Elke	X310000-0	 	     Ba 		005	Wild	K0 V M7 V	-3	(200+2)	[0000]	B	10	4
+
+1105	Delp	O	2340	Gibbs	C625785-7	 	     Pi (NIL)		110	ImDc	K2 V M1 V	-1	(967-3)	[5635]	BD	8	-1134
+1201	Delp	O	2340	Gibbs	X625000-7	 	    Di Pi (NIL)		010	ImDc	K2 V M1 V	-3	(900+1)	[0000]	BD	8	9
+1323	Delp	O	2340	Gibbs	X625000-7	 	    Di Pi (NIL)		010	Wild	K2 V M1 V	-3	(900+2)	[0000]	BD	8	18
+1508	Delp	O	2340	Gibbs	X625000-7	 	     Di (NIL)		010	Wild	K2 V M1 V	-3	(900+1)	[0000]	B	8	9
+1900	Delp	O	2340	Gibbs	X625000-7	 	     Di (NIL)		010	Wild	K2 V M1 V	-3	(900+1)	[0000]	B	8	9
+
+1105	Delp	O	2433	Asher	C532444-6	 	     Ni Po 		403	ImDc	M0 V M8 V	-2	(631-4)	[2234]	B	11	-72
+1201	Delp	O	2433	Asher	X532000-6	 	     Di Po 		003	ImDc	M0 V M8 V	-3	(600+1)	[0000]	B	11	6
+1323	Delp	O	2433	Asher	X532000-6	 	     Di Po 		003	Wild	M0 V M8 V	-3	(600-2)	[0000]	B	11	-12
+1508	Delp	O	2433	Asher	X532000-6	 	     Di Po 		003	Wild	M0 V M8 V	-3	(600+1)	[0000]	B	11	6
+1900	Delp	O	2433	Asher	X532000-6	 	     Di Po 		003	Wild	M0 V M8 V	-3	(600+1)	[0000]	B	11	6
+
+1105	Delp	O	2436	Marty	C545898-7	 	      Pa Pi Ph (NIL)		723	ImDc	M2 V	-1	(A77-1)	[8757]	BcDe	16	-490
+1201	Delp	O	2436	Marty	E545874-7	 	      Pa Pi Ph (NIL)		823	ImDc	M2 V	-2	(A71-3)	[9647]	BcDe	16	-210
+1323	Delp	O	2436	Marty	E545000-7	 	      Di Pi (NIL)		023	Wild	M2 V	-3	(A00+1)	[0000]	BD	16	10
+1508	Delp	O	2436	Marty	E545000-7	 	       Di (NIL)		023	Wild	M2 V	-3	(A00-2)	[0000]	B	16	-20
+1900	Delp	O	2436	Marty	E545000-7	 	       Di (NIL)		023	Wild	M2 V	-3	(A00-3)	[0000]	B	16	-30
+
+1105	Delp	O	2438	Cabra	A787200-C	 	     Ga Lo 		204	ImDc	G2 V	1	(811-3)	[1317]	B	12	-24
+1201	Delp	O	2438	Cabra	X787100-4	 	     Ga Lo 		504	ImDc	G2 V	-3	(400-2)	[4163]	B	12	-8
+1323	Delp	O	2438	Cabra	X787000-4	 	     Di Ga 		004	Wild	G2 V	-3	(400+1)	[0000]	B	12	4
+1508	Delp	O	2438	Cabra	X787000-4	 	     Di Ga 		004	Wild	G2 V	-3	(400-2)	[0000]	B	12	-8
+1900	Delp	O	2438	Cabra	X787000-4	 	     Di Ga 		004	Wild	G2 V	-3	(400+1)	[0000]	B	12	4
+
+1105	Delp	O	2439	Bronx	D100433-A	 	     Ni Va 		714	ImDc	M1 V M9 V	-1	(B32-4)	[1327]	B	10	-264
+1201	Delp	O	2439	Bronx	X100000-A	 	     Di Va 		014	ImDc	M1 V M9 V	-1	(B00-3)	[0000]	B	10	-33
+1323	Delp	O	2439	Bronx	X100000-A	 	     Di Va 		014	Wild	M1 V M9 V	-1	(B00+2)	[0000]	B	10	22
+1508	Delp	O	2439	Bronx	X100000-A	 	     Di Va 		014	Wild	M1 V M9 V	-1	(B00+1)	[0000]	B	10	11
+1900	Delp	O	2439	Bronx	X100000-A	 	     Di Va 		014	Wild	M1 V M9 V	-1	(B00-1)	[0000]	B	10	-11
+
+1105	Delp	O	2440	Fortescue	C525677-7	 	    Ni Px 		804	CsIm	G4 V	-2	(852-2)	[6457]	B	15	-160
+1201	Delp	O	2440	Fortescue	X525000-7	 	    Di Px 		004	CsIm	G4 V	-3	(800+1)	[0000]	B	15	8
+1323	Delp	O	2440	Fortescue	X525000-7	 	    Di Px 		004	Wild	G4 V	-3	(800-4)	[0000]	B	15	-32
+1508	Delp	O	2440	Fortescue	X525000-7	 	     Di 		004	Wild	G4 V	-3	(800+1)	[0000]	B	15	8
+1900	Delp	O	2440	Fortescue	X525000-7	 	     Di 		004	Wild	G4 V	-3	(800+5)	[0000]	B	15	40
+
+1105	Delp	H	2514	Mithra	C431721-9	 	      Na Po (NIL)		501	ImDc	G0 V M5 V	0	(A69-4)	[3715]	B	13	-2160
+1201	Delp	H	2514	Mithra	X431000-9	 	     Di Na Po (NIL)		001	ImDc	G0 V M5 V	-2	(A00-3)	[0000]	B	13	-30
+1323	Delp	H	2514	Mithra	X431000-9	 	     Di Na Po (NIL)		001	Wild	G0 V M5 V	-2	(A00+4)	[0000]	B	13	40
+1508	Delp	H	2514	Mithra	X431000-9	 	     Di Po (NIL)		001	Wild	G0 V M5 V	-2	(A00-5)	[0000]	B	13	-50
+1900	Delp	H	2514	Mithra	X431000-9	 	     Di Po (NIL)		001	Wild	G0 V M5 V	-2	(A00+1)	[0000]	B	13	10
+
+1105	Delp	L	2522	Martina	B527587-7	 	     Ni 		304	ImDc	M2 V	-1	(743-1)	[5457]	B	8	-84
+1201	Delp	L	2522	Martina	X527000-7	 	     Di 		004	ImDc	M2 V	-3	(700+1)	[0000]	B	8	7
+1323	Delp	L	2522	Martina	X527000-7	 	     Di 		004	Wild	M2 V	-3	(700+1)	[0000]	B	8	7
+1508	Delp	L	2522	Martina	X527000-7	 	     Di 		004	Wild	M2 V	-3	(700+5)	[0000]	B	8	35
+1900	Delp	L	2522	Martina	X527000-7	 	     Di 		004	Wild	M2 V	-3	(700-2)	[0000]	B	8	-14
+
+1105	Delp	L	2526	Evanston	E100433-A	 	     Ni Va 		403	CsIm	M1 V	-1	(932-4)	[1327]	B	14	-216
+1201	Delp	L	2526	Evanston	X100000-A	 	     Di Va 		003	CsIm	M1 V	-1	(900+2)	[0000]	B	14	18
+1323	Delp	L	2526	Evanston	X100000-A	 	     Di Va 		003	Wild	M1 V	-1	(900+4)	[0000]	B	14	36
+1508	Delp	L	2526	Evanston	X100000-A	 	     Di Va 		003	Wild	M1 V	-1	(900+5)	[0000]	B	14	45
+1900	Delp	L	2526	Evanston	X100000-A	 	     Di Va 		003	Wild	M1 V	-1	(900-2)	[0000]	B	14	-18
+
+1105	Delp	P	2533	Reagan	E525677-7	 	    Ni Px 		104	ImDc	K6 V M3 V	-3	(851-3)	[6357]	B	14	-120
+1201	Delp	P	2533	Reagan	X525000-7	 	    Di Px 		004	ImDc	K6 V M3 V	-3	(800+3)	[0000]	B	14	24
+1323	Delp	P	2533	Reagan	X525000-7	 	    Di Px 		004	Wild	K6 V M3 V	-3	(800+4)	[0000]	B	14	32
+1508	Delp	P	2533	Reagan	X525000-7	 	     Di 		004	Wild	K6 V M3 V	-3	(800+5)	[0000]	B	14	40
+1900	Delp	P	2533	Reagan	X525000-7	 	     Di 		004	Wild	K6 V M3 V	-3	(800+3)	[0000]	B	14	24
+
+1105	Delp	P	2535	Dem	C100433-C	 	     Ni Va 		703	ImDc	G1 V	0	(933-3)	[1429]	B	14	-243
+1201	Delp	P	2535	Dem	X100000-C	 	     Di Va 		003	ImDc	G1 V	-1	(900-2)	[0000]	B	14	-18
+1323	Delp	P	2535	Dem	X100000-C	 	     Di Va 		003	Wild	G1 V	-1	(900-2)	[0000]	B	14	-18
+1508	Delp	P	2535	Dem	X100000-C	 	     Di Va 		003	Wild	G1 V	-1	(900-3)	[0000]	B	14	-27
+1900	Delp	P	2535	Dem	X100000-C	 	     Di Va 		003	Wild	G1 V	-1	(900+1)	[0000]	B	14	9
+
+1105	Delp	P	2536	Henderson	E525677-7	 	    Ni Px 		624	ImDc	M2 V	-3	(851-3)	[6357]	B	16	-120
+1201	Delp	P	2536	Henderson	X525000-7	 	    Di Px 		024	ImDc	M2 V	-3	(800-2)	[0000]	B	16	-16
+1323	Delp	P	2536	Henderson	X525000-7	 	    Di Px 		024	Wild	M2 V	-3	(800+5)	[0000]	B	16	40
+1508	Delp	P	2536	Henderson	X525000-7	 	     Di 		024	Wild	M2 V	-3	(800+1)	[0000]	B	16	8
+1900	Delp	P	2536	Henderson	X525000-7	 	     Di 		024	Wild	M2 V	-3	(800+1)	[0000]	B	16	8
+
+1105	Delp	P	2537	Adinett	C100433-9	 	     Ni Va 		724	ImDc	G3 V M4 V	-1	(C32-4)	[1326]	B	9	-288
+1201	Delp	P	2537	Adinett	X100000-9	 	     Di Va 		024	ImDc	G3 V M4 V	-2	(C00+3)	[0000]	B	9	36
+1323	Delp	P	2537	Adinett	X100000-9	 	     Di Va 		024	Wild	G3 V M4 V	-2	(C00+2)	[0000]	B	9	24
+1508	Delp	P	2537	Adinett	X100000-9	 	     Di Va 		024	Wild	G3 V M4 V	-2	(C00+1)	[0000]	B	9	12
+1900	Delp	P	2537	Adinett	X100000-9	 	     Di Va 		024	Wild	G3 V M4 V	-2	(C00+1)	[0000]	B	9	12
+
+1105	Delp	P	2538	Menlo	E525677-7	 	    Ni Px 		313	ImDc	K6 V	-3	(851-3)	[6357]	B	13	-120
+1201	Delp	P	2538	Menlo	X525000-7	 	    Di Px 		013	ImDc	K6 V	-3	(800-5)	[0000]	B	13	-40
+1323	Delp	P	2538	Menlo	X525000-7	 	    Di Px 		013	Wild	K6 V	-3	(800+2)	[0000]	B	13	16
+1508	Delp	P	2538	Menlo	X525000-7	 	     Di 		013	Wild	K6 V	-3	(800+1)	[0000]	B	13	8
+1900	Delp	P	2538	Menlo	X525000-7	 	     Di 		013	Wild	K6 V	-3	(800+5)	[0000]	B	13	40
+
+1105	Delp	P	2539	Montaque	C100433-7	 	     Ni Va 		704	ImDc	K4 V M2 V	-2	(631-5)	[1224]	B	15	-90
+1201	Delp	P	2539	Montaque	X100000-7	 	     Di Va 		004	ImDc	K4 V M2 V	-3	(600+1)	[0000]	B	15	6
+1323	Delp	P	2539	Montaque	X100000-7	 	     Di Va 		004	Wild	K4 V M2 V	-3	(600+4)	[0000]	B	15	24
+1508	Delp	P	2539	Montaque	X100000-7	 	     Di Va 		004	Wild	K4 V M2 V	-3	(600-2)	[0000]	B	15	-12
+1900	Delp	P	2539	Montaque	X100000-7	 	     Di Va 		004	Wild	K4 V M2 V	-3	(600-3)	[0000]	B	15	-18
+
+1105	Delp	H	2612	Tolananda	C525986-8	 	     Hi In (NIL)		822	ImDc	M2 V	1	(F8A+1)	[8A47]	BE	10	1200
+1201	Delp	H	2612	Tolananda	X525000-8	 	     Di In (NIL)		022	ImDc	M2 V	-2	(F00+3)	[0000]	BE	10	45
+1323	Delp	H	2612	Tolananda	X525000-8	 	     Di In (NIL)		022	Wild	M2 V	-2	(F00-2)	[0000]	BE	10	-30
+1508	Delp	H	2612	Tolananda	X525000-8	 	      Di (NIL)		022	Wild	M2 V	-3	(F00+1)	[0000]	B	10	15
+1900	Delp	H	2612	Tolananda	X525000-8	 	      Di (NIL)		022	Wild	M2 V	-3	(F00-1)	[0000]	B	10	-15
+
+1105	Delp	L	2630	Robynson	A100434-B	N 	     Ni Va 		303	CsIm	G2 V M6 V	1	(934-1)	[2539]	B	6	-108
+1201	Delp	L	2630	Robynson	X100000-B	 	     Di Va 		003	CsIm	G2 V M6 V	-1	(900+1)	[0000]	B	6	9
+1323	Delp	L	2630	Robynson	X100000-B	 	     Di Va 		003	Wild	G2 V M6 V	-1	(900+2)	[0000]	B	6	18
+1508	Delp	L	2630	Robynson	X100000-B	 	     Di Va 		003	Wild	G2 V M6 V	-1	(900+4)	[0000]	B	6	36
+1900	Delp	L	2630	Robynson	X100000-B	 	     Di Va 		003	Wild	G2 V M6 V	-1	(900+1)	[0000]	B	6	9
+
+1105	Delp	P	2632	Serreg	B565220-B	 	     Lo 		405	ImDc	K2 V	1	(911-3)	[1316]	B	14	-27
+1201	Delp	P	2632	Serreg	X565320-4	 	     Lo 		205	ImDc	K2 V	-3	(420+4)	[6154]	B	14	32
+1323	Delp	P	2632	Serreg	X565000-4	 	     Di 		005	Wild	K2 V	-3	(400+1)	[0000]	B	14	4
+1508	Delp	P	2632	Serreg	X565000-4	 	     Di 		005	Wild	K2 V	-3	(400+1)	[0000]	B	14	4
+1900	Delp	P	2632	Serreg	X565000-4	 	     Di 		005	Wild	K2 V	-3	(400+5)	[0000]	B	14	20
+
+1105	Delp	P	2633	Janice	C100434-A	 	     Ni Va 		802	ImDc	A4 V M7 V	0	(833-2)	[2438]	B	10	-144
+1201	Delp	P	2633	Janice	X100000-A	 	     Di Va 		002	ImDc	A4 V M7 V	-1	(800-1)	[0000]	B	10	-8
+1323	Delp	P	2633	Janice	X100000-A	 	     Di Va 		002	Wild	A4 V M7 V	-1	(800-2)	[0000]	B	10	-16
+1508	Delp	P	2633	Janice	X100000-A	 	     Di Va 		002	Wild	A4 V M7 V	-1	(800+1)	[0000]	B	10	8
+1900	Delp	P	2633	Janice	X100000-A	 	     Di Va 		002	Wild	A4 V M7 V	-1	(800-1)	[0000]	B	10	-8
+
+1105	Delp	P	2638	Hesylwode	B565220-A	 	     Lo 		604	ImDc	G9 V	1	(811-3)	[1315]	B	10	-24
+1201	Delp	P	2638	Hesylwode	X565303-3	 	     Lo 		604	ImDc	G9 V	-3	(420+1)	[5126]	B	10	8
+1323	Delp	P	2638	Hesylwode	X565000-3	 	     Di 		004	Wild	G9 V	-3	(400+3)	[0000]	B	10	12
+1508	Delp	P	2638	Hesylwode	X565000-3	 	     Di 		004	Wild	G9 V	-3	(400+1)	[0000]	B	10	4
+1900	Delp	P	2638	Hesylwode	X565000-3	 	     Di 		004	Wild	G9 V	-3	(400+3)	[0000]	B	10	12
+
+1105	Delp	P	2640	Pott	E756440-5	 	     Ga Ni Pa 		405	ImDc	G4 V M1 V	-3	(631-5)	[1111]	Bc	13	-90
+1201	Delp	P	2640	Pott	X756431-1	 	     Ga Ni Pa 		305	ImDc	G4 V M1 V	-3	(632+1)	[2191]	Bc	13	36
+1323	Delp	P	2640	Pott	X756000-1	 	      Di Ga 		005	Wild	G4 V M1 V	-3	(600+1)	[0000]	B	13	6
+1508	Delp	P	2640	Pott	X756000-1	 	      Di Ga 		005	Wild	G4 V M1 V	-3	(600-4)	[0000]	B	13	-24
+1900	Delp	P	2640	Pott	X756000-1	 	      Di Ga 		005	Wild	G4 V M1 V	-3	(600-1)	[0000]	B	13	-6
+
+1105	Delp	H	2711	Shaw	E897554-5	 	     Ag Ni 		223	ImDc	M2 V	-2	(742-4)	[3333]	BC	12	-224
+1201	Delp	H	2711	Shaw	X897511-4	 	     Ag Ni 	B	223	ImDc	M2 V	-2	(740-3)	[5382]	BC	12	-84
+1323	Delp	H	2711	Shaw	X897000-4	 	      Di 		023	Wild	M2 V	-3	(700+5)	[0000]	B	12	35
+1508	Delp	H	2711	Shaw	X897000-4	 	      Di 		023	Wild	M2 V	-3	(700-4)	[0000]	B	12	-28
+1900	Delp	H	2711	Shaw	X897000-4	 	      Di 		023	Wild	M2 V	-3	(700+2)	[0000]	B	12	14
+
+1105	Delp	H	2720	Shunarshalad	C667989-7	 	     Ga Hi Pr (NIL)		703	ImDc	M3 V	0	(B89+1)	[A968]	BcE	12	792
+1201	Delp	H	2720	Shunarshalad	E6679A6-7	 	     Ga Hi Pr (NIL)		803	ImDc	M3 V	-1	(B84-3)	[A82C]	BcE	12	-1056
+1323	Delp	H	2720	Shunarshalad	E667989-3	 	     Ga Hi Pr (NIL)		403	Wild	M3 V	-1	(B85-1)	[B865]	BcE	12	-440
+1508	Delp	H	2720	Shunarshalad	E667995-4	 	     Ga Hi Pr (NIL)		503	Wild	M3 V	-1	(B85-3)	[C813]	BcE	12	-1320
+1900	Delp	H	2720	Shunarshalad	E6679CF-5	 	     Ga Hi Pr (NIL)		403	Wild	M3 V	-1	(B89+5)	[9875]	BcE	12	3960
+
+1105	Delp	L	2726	Haiji	X8D68AC-2	 	    Fo  Ph (NIL)	R	602	NaHu	M1 V	-2	(A73+1)	[B685]	Be	10	210
+1201	Delp	L	2726	Haiji	X8D6000-2	 	    Fo  Di (NIL)		002	NaHu	M1 V	-3	(A00-2)	[0000]	B	10	-20
+1323	Delp	L	2726	Haiji	X8D6000-2	 	    Fo  Di (NIL)		002	Wild	M1 V	-3	(A00+1)	[0000]	B	10	10
+1508	Delp	L	2726	Haiji	X8D6000-2	 	    Fo  Di (NIL)		002	Wild	M1 V	-3	(A00-2)	[0000]	B	10	-20
+1900	Delp	L	2726	Haiji	X8D6000-2	 	    Fo  Di (NIL)		002	Wild	M1 V	-3	(A00+3)	[0000]	B	10	30
+
+1105	Delp	P	2733	Caddrairc	C310867-7	 	     O:3035  Na Pi Ph 		123	ImDc	G5 IV	-1	(A77-1)	[8757]	BDe	13	-490
+1201	Delp	P	2733	Caddrairc	X310000-7	 	     O:3035  Di Na Pi 		023	ImDc	G5 IV	-3	(A00+3)	[0000]	BD	13	30
+1323	Delp	P	2733	Caddrairc	X310000-7	 	     O:3035  Di Na Pi 		023	Wild	G5 IV	-3	(A00+1)	[0000]	BD	13	10
+1508	Delp	P	2733	Caddrairc	X310000-7	 	      O:3035  Di 		023	Wild	G5 IV	-3	(A00-3)	[0000]	B	13	-30
+1900	Delp	P	2733	Caddrairc	X310000-7	 	      O:3035  Di 		023	Wild	G5 IV	-3	(A00-2)	[0000]	B	13	-20
+
+1105	Delp	P	2735	Coning	C9D6454-9	 	     Ni 		303	ImDc	M3 V M9 V	-1	(932-3)	[2337]	B	14	-162
+1201	Delp	P	2735	Coning	X9D6000-9	 	     Di 		003	ImDc	M3 V M9 V	-2	(900-4)	[0000]	B	14	-36
+1323	Delp	P	2735	Coning	X9D6000-9	 	     Di 		003	Wild	M3 V M9 V	-2	(900+3)	[0000]	B	14	27
+1508	Delp	P	2735	Coning	X9D6000-9	 	     Di 		003	Wild	M3 V M9 V	-2	(900+1)	[0000]	B	14	9
+1900	Delp	P	2735	Coning	X9D6000-9	 	     Di 		003	Wild	M3 V M9 V	-2	(900-1)	[0000]	B	14	-9
+
+1105	Delp	P	2737	Burdewer	E744100-5	 	     Lo 		901	ImDc	K6 V M9 V	-3	(300-5)	[1111]	B	6	-15
+1201	Delp	P	2737	Burdewer	X744259-1	 	     Lo 	B	601	ImDc	K6 V M9 V	-3	(310+1)	[4111]	B	6	3
+1323	Delp	P	2737	Burdewer	X744000-1	 	     Di 		001	Wild	K6 V M9 V	-3	(300+1)	[0000]	B	6	3
+1508	Delp	P	2737	Burdewer	X744000-1	 	     Di 		001	Wild	K6 V M9 V	-3	(300-2)	[0000]	B	6	-6
+1900	Delp	P	2737	Burdewer	X744000-1	 	     Di 		001	Wild	K6 V M9 V	-3	(300+1)	[0000]	B	6	3
+
+1105	Delp	P	2740	Maud	E551522-7	 	     Ni Po 		203	ImDc	K3 V	-3	(741-5)	[1213]	B	9	-140
+1201	Delp	P	2740	Maud	X551538-6	 	     Ni Po 		203	ImDc	K3 V	-3	(741+5)	[9278]	B	9	140
+1323	Delp	P	2740	Maud	X551000-6	 	     Di Po 		003	Wild	K3 V	-3	(700+1)	[0000]	B	9	7
+1508	Delp	P	2740	Maud	X551000-6	 	     Di Po 		003	Wild	K3 V	-3	(700+4)	[0000]	B	9	28
+1900	Delp	P	2740	Maud	X551000-6	 	     Di Po 		003	Wild	K3 V	-3	(700+1)	[0000]	B	9	7
+
+1105	Delp	D	2801	Cretan	D534420-7	 	     Ni 		300	CsIm	M2 V M8 V	-3	(631-5)	[1112]	B	4	-90
+1201	Delp	D	2801	Cretan	X534000-7	 	     Di 		000	CsIm	M2 V M8 V	-3	(600-1)	[0000]	B	4	-6
+1323	Delp	D	2801	Cretan	X534000-7	 	     Di 		000	Wild	M2 V M8 V	-3	(600-4)	[0000]	B	4	-24
+1508	Delp	D	2801	Cretan	X534000-7	 	     Di 		000	Wild	M2 V M8 V	-3	(600+1)	[0000]	B	4	6
+1900	Delp	D	2801	Cretan	X534000-7	 	     Di 		000	Wild	M2 V M8 V	-3	(600-1)	[0000]	B	4	-6
+
+1105	Delp	H	2813	Vermillion	A527587-D	 	     Ni 		203	CsIm	G0 V	1	(A45+1)	[565D]	B	10	200
+1201	Delp	H	2813	Vermillion	X527000-D	 	     Di 		003	CsIm	G0 V	-1	(A00+1)	[0000]	B	10	10
+1323	Delp	H	2813	Vermillion	X527000-D	 	     Di 		003	Wild	G0 V	-1	(A00-2)	[0000]	B	10	-20
+1508	Delp	H	2813	Vermillion	X527000-D	 	     Di 		003	Wild	G0 V	-1	(A00+2)	[0000]	B	10	20
+1900	Delp	H	2813	Vermillion	X527000-D	 	     Di 		003	Wild	G0 V	-1	(A00+2)	[0000]	B	10	20
+
+1105	Delp	L	2830	Vermpe	D553420-3	 	     Ni Po 		503	NaHu	M2 V	-3	(631-5)	[1111]	B	11	-90
+1201	Delp	L	2830	Vermpe	X553434-0	 	     Ni Po 	B	303	NaHu	M2 V	-3	(630+3)	[2151]	B	11	54
+1323	Delp	L	2830	Vermpe	X553472-0	 	     Ni Po 		103	Wild	M2 V	-3	(630-3)	[9151]	B	11	-54
+1508	Delp	L	2830	Vermpe	X553310-0	 	     Lo Po 		903	Wild	M2 V	-3	(620-2)	[1111]	B	11	-24
+1900	Delp	L	2830	Vermpe	X553300-0	 	     Lo Po 		903	Wild	M2 V	-3	(620-3)	[6151]	B	11	-36
+
+1105	Delp	P	2831	Khmer	B639340-C	 	     Lo 		423	NaHu	G1 V M6 V	1	(A21-3)	[1417]	B	14	-60
+1201	Delp	P	2831	Khmer	X639000-C	 	     Di 		023	NaHu	G1 V M6 V	-1	(A00+3)	[0000]	B	14	30
+1323	Delp	P	2831	Khmer	X639000-C	 	     Di 		023	Wild	G1 V M6 V	-1	(A00+2)	[0000]	B	14	20
+1508	Delp	P	2831	Khmer	X639000-C	 	     Di 		023	Wild	G1 V M6 V	-1	(A00+1)	[0000]	B	14	10
+1900	Delp	P	2831	Khmer	X639000-C	 	     Di 		023	Wild	G1 V M6 V	-1	(A00-3)	[0000]	B	14	-30
+
+1105	Delp	P	2832	Nero	B89758B-A	 	     Ag Ni 		413	ImDc	F4 V	2	(B46+4)	[777C]	BC	10	1056
+1201	Delp	P	2832	Nero	C897540-3	 	     Ag Ni 	B	213	ImDc	F4 V	-1	(745+1)	[2483]	BC	10	140
+1323	Delp	P	2832	Nero	E897000-3	 	      Di 		013	Wild	F4 V	-3	(700-2)	[0000]	B	10	-14
+1508	Delp	P	2832	Nero	E897000-3	 	      Di 		013	Wild	F4 V	-3	(700-3)	[0000]	B	10	-21
+1900	Delp	P	2832	Nero	E897000-3	 	      Di 		013	Wild	F4 V	-3	(700+1)	[0000]	B	10	7
+
+1105	Delp	P	2833	Frigidair	B587220-B	NS	     Lo 		405	ImDc	M2 V	2	(912-2)	[1416]	B	13	-36
+1201	Delp	P	2833	Frigidair	X587304-0	 	     Lo 	B	705	ImDc	M2 V	-3	(420-2)	[1141]	B	13	-16
+1323	Delp	P	2833	Frigidair	X587000-0	 	     Ba 		005	Wild	M2 V	-3	(400-5)	[0000]	B	13	-20
+1508	Delp	P	2833	Frigidair	X587000-0	 	     Ba 		005	Wild	M2 V	-3	(400+2)	[0000]	B	13	8
+1900	Delp	P	2833	Frigidair	X587000-0	 	     Ba 		005	Wild	M2 V	-3	(400-1)	[0000]	B	13	-4
+
+1105	Delp	P	2839	Rogis	C544622-6	 	     Ag Ni 		404	ImDc	G3 V	-1	(853-5)	[2512]	BC	8	-600
+1201	Delp	P	2839	Rogis	E544668-3	 	     Ag Ni 		504	ImDc	G3 V	-2	(853+2)	[6463]	BC	8	240
+1323	Delp	P	2839	Rogis	E544000-3	 	      Di 		004	Wild	G3 V	-3	(800-1)	[0000]	B	8	-8
+1508	Delp	P	2839	Rogis	E544000-3	 	      Di 		004	Wild	G3 V	-3	(800-1)	[0000]	B	8	-8
+1900	Delp	P	2839	Rogis	E544000-3	 	      Di 		004	Wild	G3 V	-3	(800+3)	[0000]	B	8	24
+
+1105	Delp	D	2910	Pero	B5746AC-7	 	    Da  Ag Ni 	A	504	NaHu	M3 V	0	(854+3)	[968A]	BC	12	480
+1201	Delp	D	2910	Pero	D574678-7	 	    Da  Ag Ni 	B	604	NaHu	M3 V	-2	(851-4)	[944A]	BC	12	-160
+1323	Delp	D	2910	Pero	D574000-7	 	     Da  Di 		004	Wild	M3 V	-3	(800+4)	[0000]	B	12	32
+1508	Delp	D	2910	Pero	D574000-7	 	     Da  Di 		004	Wild	M3 V	-3	(800-2)	[0000]	B	12	-16
+1900	Delp	D	2910	Pero	D574000-7	 	     Da  Di 		004	Wild	M3 V	-3	(800-2)	[0000]	B	12	-16
+
+1105	Delp	P	2931	Boffit	B566433-9	 	     Ni Pa 		613	CsIm	M3 V M5 V	0	(A33-3)	[1426]	Bc	16	-270
+1201	Delp	P	2931	Boffit	D566410-7	 	     Ni Pa 		413	CsIm	M3 V M5 V	-3	(630-1)	[5166]	Bc	16	-18
+1323	Delp	P	2931	Boffit	D566000-7	 	      Di 		013	Wild	M3 V M5 V	-3	(600-3)	[0000]	B	16	-18
+1508	Delp	P	2931	Boffit	D566000-7	 	      Di 		013	Wild	M3 V M5 V	-3	(600-1)	[0000]	B	16	-6
+1900	Delp	P	2931	Boffit	D566000-7	 	      Di 		013	Wild	M3 V M5 V	-3	(600-1)	[0000]	B	16	-6
+
+1105	Delp	P	2935	Pensacola	A655636-B	 	     Ag Ga Ni 		812	ImDc	M3 V	2	(B56+1)	[584A]	BC	12	330
+1201	Delp	P	2935	Pensacola	X655667-0	 	     Ag Ga Ni 	B	712	ImDc	M3 V	-2	(851+1)	[6451]	BC	12	40
+1323	Delp	P	2935	Pensacola	X655000-0	 	      Ba Ga 		012	Wild	M3 V	-3	(800+1)	[0000]	B	12	8
+1508	Delp	P	2935	Pensacola	X655000-0	 	      Ba Ga 		012	Wild	M3 V	-3	(800-1)	[0000]	B	12	-8
+1900	Delp	P	2935	Pensacola	X655000-0	 	      Ba Ga 		012	Wild	M3 V	-3	(800+2)	[0000]	B	12	16
+
+1105	Delp	P	2937	Dougal	B100433-D	 	     Ni Va 		702	ImDc	M3 V	1	(834-2)	[152A]	B	14	-192
+1201	Delp	P	2937	Dougal	X100000-D	 	     Di Va 		002	ImDc	M3 V	-1	(800+2)	[0000]	B	14	16
+1323	Delp	P	2937	Dougal	X100000-D	 	     Di Va 		002	Wild	M3 V	-1	(800-1)	[0000]	B	14	-8
+1508	Delp	P	2937	Dougal	X100000-D	 	     Di Va 		002	Wild	M3 V	-1	(800+5)	[0000]	B	14	40
+1900	Delp	P	2937	Dougal	X100000-D	 	     Di Va 		002	Wild	M3 V	-1	(800+1)	[0000]	B	14	8
+
+1105	Delp	P	2938	McKenna	E525677-7	 	    Ni Px 		804	ImDc	M0 V	-3	(851-3)	[6357]	B	12	-120
+1201	Delp	P	2938	McKenna	X525000-7	 	    Di Px 		004	ImDc	M0 V	-3	(800+4)	[0000]	B	12	32
+1323	Delp	P	2938	McKenna	X525000-7	 	    Di Px 		004	Wild	M0 V	-3	(800-3)	[0000]	B	12	-24
+1508	Delp	P	2938	McKenna	X525000-7	 	     Di 		004	Wild	M0 V	-3	(800+1)	[0000]	B	12	8
+1900	Delp	P	2938	McKenna	X525000-7	 	     Di 		004	Wild	M0 V	-3	(800+1)	[0000]	B	12	8
+
+1105	Delp	D	3003	Jillott	C100433-8	 	     Ni Va 		214	NaHu	M1 V M3 V	-2	(B31-5)	[1225]	B	10	-165
+1201	Delp	D	3003	Jillott	X100000-8	 	     Di Va 		014	NaHu	M1 V M3 V	-3	(B00-1)	[0000]	B	10	-11
+1323	Delp	D	3003	Jillott	X100000-8	 	     Di Va 		014	Wild	M1 V M3 V	-3	(B00-1)	[0000]	B	10	-11
+1508	Delp	D	3003	Jillott	X100000-8	 	     Di Va 		014	Wild	M1 V M3 V	-3	(B00+1)	[0000]	B	10	11
+1900	Delp	D	3003	Jillott	X100000-8	 	     Di Va 		014	Wild	M1 V M3 V	-3	(B00+4)	[0000]	B	10	44
+
+1105	Delp	P	3034	Bagley	D100434-7	 	     Ni Va 		704	ImDc	K0 V M8 V	-3	(631-5)	[2135]	B	11	-90
+1201	Delp	P	3034	Bagley	X100000-7	 	     Di Va 		004	ImDc	K0 V M8 V	-3	(600+2)	[0000]	B	11	12
+1323	Delp	P	3034	Bagley	X100000-7	 	     Di Va 		004	Wild	K0 V M8 V	-3	(600+2)	[0000]	B	11	12
+1508	Delp	P	3034	Bagley	X100000-7	 	     Di Va 		004	Wild	K0 V M8 V	-3	(600+2)	[0000]	B	11	12
+1900	Delp	P	3034	Bagley	X100000-7	 	     Di Va 		004	Wild	K0 V M8 V	-3	(600+4)	[0000]	B	11	24
+
+1105	Delp	P	3035	Breda	A565984-B	NS	      Hi Pr (NIL)		825	ImDc	M2 V	4	(J8F+2)	[7D39]	BcEf	15	4320
+1201	Delp	P	3035	Breda	X56596B-1	 	      Hi Pr (NIL)	B	725	ImDc	M2 V	-1	(B86+3)	[7893]	BcE	15	1584
+1323	Delp	P	3035	Breda	X565998-0	 	      Hi Pr (NIL)		325	Wild	M2 V	-1	(B87-5)	[8891]	BcE	15	-3080
+1508	Delp	P	3035	Breda	X565972-0	 	      Hi Pr (NIL)		425	Wild	M2 V	-1	(B84-3)	[A861]	BcE	15	-1056
+1900	Delp	P	3035	Breda	X5659AE-1	 	      Hi Pr (NIL)		325	Wild	M2 V	-1	(B89+2)	[C891]	BcE	15	1584
+
+1105	Delp	P	3037	Horshard	B000721-D	 	       As Va Na Pi 		605	ImDc	M2 V	2	(E6D-2)	[3919]	BD	13	-2184
+1201	Delp	P	3037	Horshard	X000000-D	 	      As Va Di Na Pi 		005	ImDc	M2 V	-1	(E00-1)	[0000]	BD	13	-14
+1323	Delp	P	3037	Horshard	X000000-D	 	      As Va Di Na Pi 		005	Wild	M2 V	-1	(E00+1)	[0000]	BD	13	14
+1508	Delp	P	3037	Horshard	X000000-D	 	       As Va Di 		005	Wild	M2 V	-1	(E00+3)	[0000]	B	13	42
+1900	Delp	P	3037	Horshard	X000000-D	 	       As Va Di 		005	Wild	M2 V	-1	(E00+2)	[0000]	B	13	28
+
+1105	Delp	P	3040	Taliarin	B100434-B	N 	     Ni Va 		700	ImDc	K4 V	1	(634-1)	[2539]	B	10	-72
+1201	Delp	P	3040	Taliarin	X100000-B	 	     Di Va 		000	ImDc	K4 V	-1	(600-1)	[0000]	B	10	-6
+1323	Delp	P	3040	Taliarin	X100000-B	 	     Di Va 		000	Wild	K4 V	-1	(600+2)	[0000]	B	10	12
+1508	Delp	P	3040	Taliarin	X100000-B	 	     Di Va 		000	Wild	K4 V	-1	(600-2)	[0000]	B	10	-12
+1900	Delp	P	3040	Taliarin	X100000-B	 	     Di Va 		000	Wild	K4 V	-1	(600-1)	[0000]	B	10	-6
+
+1105	Delp	L	3130	Crofta	B565220-7	 	     Lo 		922	NaHu	K4 V	-1	(410-5)	[1112]	B	13	-20
+1201	Delp	L	3130	Crofta	D565376-4	 	     Lo 		122	NaHu	K4 V	-3	(420+4)	[2127]	B	13	32
+1323	Delp	L	3130	Crofta	D565000-4	 	     Di 		022	Wild	K4 V	-3	(400-1)	[0000]	B	13	-4
+1508	Delp	L	3130	Crofta	D565000-4	 	     Di 		022	Wild	K4 V	-3	(400+2)	[0000]	B	13	8
+1900	Delp	L	3130	Crofta	D565000-4	 	     Di 		022	Wild	K4 V	-3	(400-1)	[0000]	B	13	-4
+
+1105	Delp	P	3134	Willow	B756440-7	 	     Ga Ni Pa 		512	ImDc	M0 V M0 V	-1	(632-5)	[1312]	Bc	7	-180
+1201	Delp	P	3134	Willow	D756476-3	 	     Ga Ni Pa 	B	312	ImDc	M0 V M0 V	-3	(633-1)	[6141]	Bc	7	-54
+1323	Delp	P	3134	Willow	D756000-3	 	      Di Ga 		012	Wild	M0 V M0 V	-3	(600-3)	[0000]	B	7	-18
+1508	Delp	P	3134	Willow	D756000-3	 	      Di Ga 		012	Wild	M0 V M0 V	-3	(600+1)	[0000]	B	7	6
+1900	Delp	P	3134	Willow	D756000-3	 	      Di Ga 		012	Wild	M0 V M0 V	-3	(600+4)	[0000]	B	7	24
+
+1105	Delp	P	3137	Cotes	C897554-6	 	     Ag Ni 		210	ImDc	M2 V	-1	(743-3)	[3434]	BC	12	-252
+1201	Delp	P	3137	Cotes	E897534-2	 	     Ag Ni 	B	210	ImDc	M2 V	-2	(740+2)	[1361]	BC	12	56
+1323	Delp	P	3137	Cotes	E897000-2	 	      Di 		010	Wild	M2 V	-3	(700+2)	[0000]	B	12	14
+1508	Delp	P	3137	Cotes	E897000-2	 	      Di 		010	Wild	M2 V	-3	(700-3)	[0000]	B	12	-21
+1900	Delp	P	3137	Cotes	E897000-2	 	      Di 		010	Wild	M2 V	-3	(700+1)	[0000]	B	12	7
+
+1105	Delp	P	3138	Dami	A200657-D	 	     Na Ni Va 		604	ImDc	K2 V	1	(C55+1)	[675D]	B	10	300
+1201	Delp	P	3138	Dami	X200000-D	 	     Di Na Va 		004	ImDc	K2 V	-1	(C00-2)	[0000]	B	10	-24
+1323	Delp	P	3138	Dami	X200000-D	 	     Di Na Va 		004	Wild	K2 V	-1	(C00+1)	[0000]	B	10	12
+1508	Delp	P	3138	Dami	X200000-D	 	      Di Va 		004	Wild	K2 V	-1	(C00+1)	[0000]	B	10	12
+1900	Delp	P	3138	Dami	X200000-D	 	      Di Va 		004	Wild	K2 V	-1	(C00-1)	[0000]	B	10	-12
+
+1105	Delp	P	3140	Aida	B100433-9	S	     Ni Va 		503	ImDc	M3 V	0	(934-2)	[1426]	B	14	-216
+1201	Delp	P	3140	Aida	X100000-9	 	     Di Va 		003	ImDc	M3 V	-2	(900+2)	[0000]	B	14	18
+1323	Delp	P	3140	Aida	X100000-9	 	     Di Va 		003	Wild	M3 V	-2	(900-2)	[0000]	B	14	-18
+1508	Delp	P	3140	Aida	X100000-9	 	     Di Va 		003	Wild	M3 V	-2	(900+1)	[0000]	B	14	9
+1900	Delp	P	3140	Aida	X100000-9	 	     Di Va 		003	Wild	M3 V	-2	(900+1)	[0000]	B	14	9
+
+1105	Delp	D	3204	Steuenson	B525677-8	 	    Ni Px 		921	CsIm	K1 V	-1	(B53-1)	[6558]	B	10	-165
+1201	Delp	D	3204	Steuenson	X525000-8	 	    Di Px 		021	CsIm	K1 V	-3	(B00-3)	[0000]	B	10	-33
+1323	Delp	D	3204	Steuenson	X525000-8	 	    Di Px 		021	Wild	K1 V	-3	(B00+3)	[0000]	B	10	33
+1508	Delp	D	3204	Steuenson	X525000-8	 	     Di 		021	Wild	K1 V	-3	(B00-5)	[0000]	B	10	-55
+1900	Delp	D	3204	Steuenson	X525000-8	 	     Di 		021	Wild	K1 V	-3	(B00-1)	[0000]	B	10	-11
+
+1105	Delp	D	3207	Wulfrith	C100433-B	 	     Ni Va 		303	CsIm	K1 III D	0	(933-3)	[1428]	B	14	-243
+1201	Delp	D	3207	Wulfrith	X100000-B	 	     Di Va 		003	CsIm	K1 III D	-1	(900+2)	[0000]	B	14	18
+1323	Delp	D	3207	Wulfrith	X100000-B	 	     Di Va 		003	Wild	K1 III D	-1	(900+1)	[0000]	B	14	9
+1508	Delp	D	3207	Wulfrith	X100000-B	 	     Di Va 		003	Wild	K1 III D	-1	(900+2)	[0000]	B	14	18
+1900	Delp	D	3207	Wulfrith	X100000-B	 	     Di Va 		003	Wild	K1 III D	-1	(900-5)	[0000]	B	14	-45
+
+1105	Delp	L	3222	Hays	C525677-9	 	    Ni Px 		220	ImDc	M3 V	-1	(A53-1)	[6559]	B	9	-150
+1201	Delp	L	3222	Hays	X525000-9	 	    Di Px 		020	ImDc	M3 V	-2	(A00+3)	[0000]	B	9	30
+1323	Delp	L	3222	Hays	X525000-9	 	    Di Px 		020	Wild	M3 V	-2	(A00-1)	[0000]	B	9	-10
+1508	Delp	L	3222	Hays	X525000-9	 	     Di 		020	Wild	M3 V	-2	(A00+3)	[0000]	B	9	30
+1900	Delp	L	3222	Hays	X525000-9	 	     Di 		020	Wild	M3 V	-2	(A00-4)	[0000]	B	9	-40
+
+1105	Delp	L	3229	Fuller	B100433-9	 	     Ni Va 		905	NaHu	M3 V	0	(B33-3)	[1426]	B	14	-297
+1201	Delp	L	3229	Fuller	X100000-9	 	     Di Va 		005	NaHu	M3 V	-2	(B00-1)	[0000]	B	14	-11
+1323	Delp	L	3229	Fuller	X100000-9	 	     Di Va 		005	Wild	M3 V	-2	(B00+4)	[0000]	B	14	44
+1508	Delp	L	3229	Fuller	X100000-9	 	     Di Va 		005	Wild	M3 V	-2	(B00+3)	[0000]	B	14	33
+1900	Delp	L	3229	Fuller	X100000-9	 	     Di Va 		005	Wild	M3 V	-2	(B00+1)	[0000]	B	14	11
+
+1105	Delp	P	3234	Huchonson	B431721-7	 	      Na Po (NIL)		624	ImDc	M5 III M5 V	0	(968-4)	[3713]	B	16	-1728
+1201	Delp	P	3234	Huchonson	X431000-7	 	     Di Na Po (NIL)		024	ImDc	M5 III M5 V	-3	(900+2)	[0000]	B	16	18
+1323	Delp	P	3234	Huchonson	X431000-7	 	     Di Na Po (NIL)		024	Wild	M5 III M5 V	-3	(900+2)	[0000]	B	16	18
+1508	Delp	P	3234	Huchonson	X431000-7	 	     Di Po (NIL)		024	Wild	M5 III M5 V	-3	(900+1)	[0000]	B	16	9
+1900	Delp	P	3234	Huchonson	X431000-7	 	     Di Po (NIL)		024	Wild	M5 III M5 V	-3	(900+1)	[0000]	B	16	9
+
+1105	Delp	P	3235	Lindsey	D527587-7	 	     Ni 		404	ImDc	G4 V	-3	(741-3)	[5257]	B	11	-84
+1201	Delp	P	3235	Lindsey	X527000-7	 	     Di 		004	ImDc	G4 V	-3	(700-1)	[0000]	B	11	-7
+1323	Delp	P	3235	Lindsey	X527000-7	 	     Di 		004	Wild	G4 V	-3	(700-1)	[0000]	B	11	-7
+1508	Delp	P	3235	Lindsey	X527000-7	 	     Di 		004	Wild	G4 V	-3	(700+2)	[0000]	B	11	14
+1900	Delp	P	3235	Lindsey	X527000-7	 	     Di 		004	Wild	G4 V	-3	(700-4)	[0000]	B	11	-28
+
+1105	Delp	P	3236	Abbot	C567834-8	 	      Pa Ri Ph (NIL)		324	ImDc	K1 V M4 V	0	(G78-2)	[6836]	BcCe	18	-1792
+1201	Delp	P	3236	Abbot	E56789A-8	 	      Pa Ri Ph (NIL)		424	ImDc	K1 V M4 V	-1	(G74-1)	[D74C]	BcCe	18	-448
+1323	Delp	P	3236	Abbot	E5678BD-4	 	      Pa Ri Ph (NIL)		224	Wild	K1 V M4 V	-1	(A75+1)	[8751]	BcCe	18	350
+1508	Delp	P	3236	Abbot	E56789B-5	 	      Pa Ri Ph (NIL)		124	Wild	K1 V M4 V	-1	(A78-4)	[C782]	BcCe	18	-2240
+1900	Delp	P	3236	Abbot	E56788A-6	 	      Pa Ri Ph (NIL)		124	Wild	K1 V M4 V	-1	(A78+2)	[5753]	BcCe	18	1120
+

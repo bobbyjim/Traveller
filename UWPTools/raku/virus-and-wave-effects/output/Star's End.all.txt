@@ -1,0 +1,907 @@
+Year	Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+1105	Star	A	0101	Akhaka	B584675-A	 	      Ag Ri Ni 		300	JuHl	F9 V M9 V	3	(756+4)	[996A]	BC	11	840
+1201	Star	A	0101	Akhaka	X584678-6	 	      Ag Ri Ni 		300	JuHl	F9 V M9 V	-1	(750-1)	[6538]	BC	11	-35
+1240	Star	A	0101	Akhaka	X584000-6	 	       Di 		000	Wild	F9 V M9 V	-3	(700+2)	[0000]	B	11	14
+1508	Star	A	0101	Akhaka	X584000-6	 	       Di 		000	Wild	F9 V M9 V	-3	(700-1)	[0000]	B	11	-7
+1900	Star	A	0101	Akhaka	X584000-6	 	       Di 		000	Wild	F9 V M9 V	-3	(700-1)	[0000]	B	11	-7
+
+1105	Star	A	0102	Kakunasgup	C524314-B	 	     Lo 		404	JuHl	K2 IV M6 V	0	(820+1)	[833B]	B	13	16
+1201	Star	A	0102	Kakunasgup	X524000-B	 	     Di 		004	JuHl	K2 IV M6 V	-1	(800+1)	[0000]	B	13	8
+1240	Star	A	0102	Kakunasgup	X524000-B	 	     Di 		004	Wild	K2 IV M6 V	-1	(800+2)	[0000]	B	13	16
+1508	Star	A	0102	Kakunasgup	X524000-B	 	     Di 		004	Wild	K2 IV M6 V	-1	(800+1)	[0000]	B	13	8
+1900	Star	A	0102	Kakunasgup	X524000-B	 	     Di 		004	Wild	K2 IV M6 V	-1	(800+1)	[0000]	B	13	8
+
+1105	Star	A	0104	Umpagu	X432000-0	 	     Ba Po 		004	JuHl	M6 V	-3	(700-4)	[0000]	B	13	-28
+1201	Star	A	0104	Umpagu	X432000-0	 	     Ba Po 		004	JuHl	M6 V	-3	(700+1)	[0000]	B	13	7
+1240	Star	A	0104	Umpagu	X432000-0	 	     Ba Po 		004	Wild	M6 V	-3	(700+1)	[0000]	B	13	7
+1508	Star	A	0104	Umpagu	X432000-0	 	     Ba Po 		004	Wild	M6 V	-3	(700-1)	[0000]	B	13	-7
+1900	Star	A	0104	Umpagu	X432000-0	 	     Ba Po 		004	Wild	M6 V	-3	(700-3)	[0000]	B	13	-21
+
+1105	Star	E	0112	Ikakaddu	B5759C9-C	 	     Hi In (NIL)		114	JuHl	F7 V M8 V	4	(B8C+2)	[ADAC]	BEf	14	2112
+1201	Star	E	0112	Ikakaddu	X575478-4	 	     Ni Pa (NIL)	B	514	JuHl	F7 V M8 V	-3	(632+2)	[5197]	Bc	14	72
+1240	Star	E	0112	Ikakaddu	X575000-4	 	      Di (NIL)		014	Wild	F7 V M8 V	-3	(600-2)	[0000]	B	14	-12
+1508	Star	E	0112	Ikakaddu	X575000-4	 	      Di (NIL)		014	Wild	F7 V M8 V	-3	(600-4)	[0000]	B	14	-24
+1900	Star	E	0112	Ikakaddu	X575000-4	 	      Di (NIL)		014	Wild	F7 V M8 V	-3	(600-3)	[0000]	B	14	-18
+
+1105	Star	E	0113	Dekulini	D551653-5	 	     Ni Po 		401	JuHl	G4 V M3 V	-3	(851+2)	[33A3]	B	6	80
+1201	Star	E	0113	Dekulini	X551654-5	 	     Ni Po 		501	JuHl	G4 V M3 V	-3	(852-3)	[8325]	B	6	-240
+1240	Star	E	0113	Dekulini	X551688-0	 	     Ni Po 		201	Wild	G4 V M3 V	-3	(850-2)	[5391]	B	6	-80
+1508	Star	E	0113	Dekulini	X551686-0	 	     Ni Po 		101	Wild	G4 V M3 V	-3	(850+3)	[6361]	B	6	120
+1900	Star	E	0113	Dekulini	X551534-1	 	     Ni Po 		901	Wild	G4 V M3 V	-3	(840+3)	[62A2]	B	6	96
+
+1105	Star	E	0116	Suugirumir	B674544-B	 	     Ag Ni 		613	JuHl	F4 V	2	(E44-2)	[5718]	BC	10	-448
+1201	Star	E	0116	Suugirumir	X67459B-4	 	     Ag Ni 		313	JuHl	F4 V	-2	(A42+2)	[7362]	BC	10	160
+1240	Star	E	0116	Suugirumir	X674000-4	 	      Di 		013	Wild	F4 V	-3	(A00+4)	[0000]	B	10	40
+1508	Star	E	0116	Suugirumir	X674000-4	 	      Di 		013	Wild	F4 V	-3	(A00-3)	[0000]	B	10	-30
+1900	Star	E	0116	Suugirumir	X674000-4	 	      Di 		013	Wild	F4 V	-3	(A00+4)	[0000]	B	10	40
+
+1105	Star	A	0201	Iigigsu	A484438-E	 	     Ni Pa 		803	JuHl	G3 V M6 V	1	(937+1)	[353D]	Bc	9	189
+1201	Star	A	0201	Iigigsu	X48448A-3	 	     Ni Pa 	B	403	JuHl	G3 V M6 V	-3	(633-1)	[3195]	Bc	9	-54
+1240	Star	A	0201	Iigigsu	X484448-2	 	     Ni Pa 		203	Wild	G3 V M6 V	-3	(633+1)	[1134]	Bc	9	54
+1508	Star	A	0201	Iigigsu	X484456-4	 	     Ni Pa 		103	Wild	G3 V M6 V	-3	(633+1)	[8166]	Bc	9	54
+1900	Star	A	0201	Iigigsu	X484498-4	 	     Ni Pa 		203	Wild	G3 V M6 V	-3	(630+1)	[4184]	Bc	9	18
+
+1105	Star	A	0205	Kagag	CAB7440-9	 	    rg3  Fl Ni 		600	JuHl	M2 V	-1	(633-3)	[1335]	B	7	-162
+1201	Star	A	0205	Kagag	XAB7000-9	 	    rg3  Di Fl 		000	JuHl	M2 V	-2	(600+1)	[0000]	B	7	6
+1240	Star	A	0205	Kagag	XAB7000-9	 	    rg3  Di Fl 		000	Wild	M2 V	-2	(600-2)	[0000]	B	7	-12
+1508	Star	A	0205	Kagag	XAB7000-9	 	    rg3  Di Fl 		000	Wild	M2 V	-2	(600-4)	[0000]	B	7	-24
+1900	Star	A	0205	Kagag	XAB7000-9	 	    rg3  Di Fl 		000	Wild	M2 V	-2	(600+1)	[0000]	B	7	6
+
+1105	Star	A	0208	Khaka	C667A48-A	 	     Ga Hi (NIL)		114	JuHl	F5 V	2	(D97+4)	[8C48]	BE	17	3276
+1201	Star	A	0208	Khaka	D667476-8	 	    Ga Ni Pa (NIL)		614	JuHl	F5 V	-3	(D31+1)	[3118]	Bc	17	39
+1240	Star	A	0208	Khaka	D667451-4	 	    Ga Ni Pa (NIL)		314	Wild	F5 V	-3	(830-2)	[2165]	Bc	17	-48
+1508	Star	A	0208	Khaka	D667431-4	 	    Ga Ni Pa (NIL)		414	Wild	F5 V	-3	(831+1)	[4146]	Bc	17	24
+1900	Star	A	0208	Khaka	D667431-5	 	    Ga Ni Pa (NIL)		314	Wild	F5 V	-3	(830-3)	[3158]	Bc	17	-72
+
+1105	Star	A	0209	Ishgadugis	E9B45BA-B	 	    rg4  Fl Ni 		304	JuHl	F0 II	-1	(B44-3)	[644E]	B	10	-528
+1201	Star	A	0209	Ishgadugis	X9B4000-B	 	    rg4  Di Fl 		004	JuHl	F0 II	-1	(B00+3)	[0000]	B	10	33
+1240	Star	A	0209	Ishgadugis	X9B4000-B	 	    rg4  Di Fl 		004	Wild	F0 II	-1	(B00-4)	[0000]	B	10	-44
+1508	Star	A	0209	Ishgadugis	X9B4000-B	 	    rg4  Di Fl 		004	Wild	F0 II	-1	(B00+3)	[0000]	B	10	33
+1900	Star	A	0209	Ishgadugis	X9B4000-B	 	    rg4  Di Fl 		004	Wild	F0 II	-1	(B00+1)	[0000]	B	10	11
+
+1105	Star	E	0213	Gakenud	C401412-B	 	      Ic Va Ni 		504	JuHl	G3 V M3 V	0	(934-3)	[1459]	B	13	-324
+1201	Star	E	0213	Gakenud	X401000-B	 	      Di Ic Va 		004	JuHl	G3 V M3 V	-1	(900+1)	[0000]	B	13	9
+1240	Star	E	0213	Gakenud	X401000-B	 	      Di Ic Va 		004	Wild	G3 V M3 V	-1	(900-3)	[0000]	B	13	-27
+1508	Star	E	0213	Gakenud	X401000-B	 	      Di Ic Va 		004	Wild	G3 V M3 V	-1	(900+1)	[0000]	B	13	9
+1900	Star	E	0213	Gakenud	X401000-B	 	      Di Ic Va 		004	Wild	G3 V M3 V	-1	(900+4)	[0000]	B	13	36
+
+1105	Star	E	0216	Uushakinkush	E230313-A	 	     De Lo Po 		521	JuHl	M2 V M9 V	-1	(C20-1)	[1219]	B	8	-24
+1201	Star	E	0216	Uushakinkush	X230000-A	 	     De Di Po 		021	JuHl	M2 V M9 V	-1	(C00+4)	[0000]	B	8	48
+1240	Star	E	0216	Uushakinkush	X230000-A	 	     De Di Po 		021	Wild	M2 V M9 V	-1	(C00+1)	[0000]	B	8	12
+1508	Star	E	0216	Uushakinkush	X230000-A	 	     De Di Po 		021	Wild	M2 V M9 V	-1	(C00+1)	[0000]	B	8	12
+1900	Star	E	0216	Uushakinkush	X230000-A	 	     De Di Po 		021	Wild	M2 V M9 V	-1	(C00+1)	[0000]	B	8	12
+
+1105	Star	A	0309	Gashuukhe	A246686-C	 	     Ag Ni 		312	JuHl	M0 V M1 V	2	(B57+5)	[3849]	BC	12	1925
+1201	Star	A	0309	Gashuukhe	X24666A-5	 	     Ag Ni 		312	JuHl	M0 V M1 V	-2	(853+1)	[6433]	BC	12	120
+1240	Star	A	0309	Gashuukhe	X246678-0	 	     Ag Ni 		112	Wild	M0 V M1 V	-2	(850-4)	[8434]	BC	12	-160
+1508	Star	A	0309	Gashuukhe	X24667C-1	 	     Ag Ni 		212	Wild	M0 V M1 V	-2	(852+2)	[4444]	BC	12	160
+1900	Star	A	0309	Gashuukhe	X246652-3	 	     Ag Ni 		312	Wild	M0 V M1 V	-2	(850+3)	[3434]	BC	12	120
+
+1105	Star	E	0311	Lekha	A6A1667-7	 	    O:0309  Fl He Ni Px 		910	JuHl	M4 V M9 V	-1	(551-2)	[9555]	B	5	-50
+1201	Star	E	0311	Lekha	X6A1000-7	 	    O:0309  Di Fl He Px 		010	JuHl	M4 V M9 V	-3	(500-3)	[0000]	B	5	-15
+1240	Star	E	0311	Lekha	X6A1000-7	 	    O:0309  Di Fl He Px 		010	Wild	M4 V M9 V	-3	(500-2)	[0000]	B	5	-10
+1508	Star	E	0311	Lekha	X6A1000-7	 	     O:0309  Di Fl He 		010	Wild	M4 V M9 V	-3	(500-2)	[0000]	B	5	-10
+1900	Star	E	0311	Lekha	X6A1000-7	 	     O:0309  Di Fl He 		010	Wild	M4 V M9 V	-3	(500+2)	[0000]	B	5	10
+
+1105	Star	E	0315	Tovo	B7A0468-7	 	    O:0316  He Ni 		203	JuHl	M5 V M8 V	-1	(835-4)	[9318]	B	9	-480
+1201	Star	E	0315	Tovo	X7A0000-7	 	    O:0316  Di He 		003	JuHl	M5 V M8 V	-3	(800+5)	[0000]	B	9	40
+1240	Star	E	0315	Tovo	X7A0000-7	 	    O:0316  Di He 		003	Wild	M5 V M8 V	-3	(800+1)	[0000]	B	9	8
+1508	Star	E	0315	Tovo	X7A0000-7	 	    O:0316  Di He 		003	Wild	M5 V M8 V	-3	(800-1)	[0000]	B	9	-8
+1900	Star	E	0315	Tovo	X7A0000-7	 	    O:0316  Di He 		003	Wild	M5 V M8 V	-3	(800+1)	[0000]	B	9	8
+
+1105	Star	E	0316	Ir	AA89ACG-F	 	    rg1  Hi (NIL)		724	JuHl	F8 V	3	(B9B+1)	[ED6H]	BE	12	1089
+1201	Star	E	0316	Ir	XA89965-4	 	   rg1  Hi Pr (NIL)	B	624	JuHl	F8 V	-1	(588-2)	[9865]	BcE	12	-640
+1240	Star	E	0316	Ir	XA899BD-1	 	   rg1  Hi Pr (NIL)		324	Wild	F8 V	-1	(588-3)	[C841]	BcE	12	-960
+1508	Star	E	0316	Ir	XA899ED-2	 	   rg1  Hi Pr (NIL)		424	Wild	F8 V	-1	(589+1)	[8844]	BcE	12	360
+1900	Star	E	0316	Ir	XA899EJ-3	 	   rg1  Hi Pr (NIL)		524	Wild	F8 V	-1	(587+1)	[9873]	BcE	12	280
+
+1105	Star	A	0401	Kargumar	C682100-6	 	     Lo 		924	JuHl	G4 V M3 V	-2	(400+2)	[1195]	B	15	8
+1201	Star	A	0401	Kargumar	X682100-2	 	     Lo 		124	JuHl	G4 V M3 V	-3	(400+1)	[1134]	B	15	4
+1240	Star	A	0401	Kargumar	X682000-2	 	     Di 		024	Wild	G4 V M3 V	-3	(400+2)	[0000]	B	15	8
+1508	Star	A	0401	Kargumar	X682000-2	 	     Di 		024	Wild	G4 V M3 V	-3	(400-4)	[0000]	B	15	-16
+1900	Star	A	0401	Kargumar	X682000-2	 	     Di 		024	Wild	G4 V M3 V	-3	(400-3)	[0000]	B	15	-12
+
+1105	Star	A	0404	KumguulusJuHlu	B556845-B	 	    rg5  Pa Ph (NIL)		514	JuHl	G9 V	2	(B7E+2)	[AA6E]	Bce	13	2156
+1201	Star	A	0404	KumguulusJuHlu	X5568BC-4	 	    rg5  Pa Ph (NIL)	B	514	JuHl	G9 V	-2	(671-3)	[9615]	Bce	13	-126
+1240	Star	A	0404	KumguulusJuHlu	X556852-2	 	    rg5  Pa Ph (NIL)		214	Wild	G9 V	-2	(671+1)	[8665]	Bce	13	42
+1508	Star	A	0404	KumguulusJuHlu	X556886-2	 	    rg5  Pa Ph (NIL)		114	Wild	G9 V	-2	(672+1)	[7635]	Bce	13	84
+1900	Star	A	0404	KumguulusJuHlu	X556851-4	 	    rg5  Pa Ph (NIL)		114	Wild	G9 V	-2	(674+4)	[96A2]	Bce	13	672
+
+1105	Star	A	0406	Guukiinmile	A97899C-B	 	     Hi In (NIL)		100	JuHl	F9 V M8 V	4	(78E-2)	[AD8C]	BEf	7	-1568
+1201	Star	A	0406	Guukiinmile	X978989-7	 	     Hi Pi (NIL)	B	100	JuHl	F9 V M8 V	-1	(786+1)	[4865]	BDE	7	336
+1240	Star	A	0406	Guukiinmile	X97867B-0	 	     Ag Ni (NIL)		500	Wild	F9 V M8 V	-2	(751+4)	[5442]	BC	7	140
+1508	Star	A	0406	Guukiinmile	X978675-0	 	     Ag Ni (NIL)		400	Wild	F9 V M8 V	-2	(751-5)	[B451]	BC	7	-175
+1900	Star	A	0406	Guukiinmile	X978657-0	 	     Ag Ni (NIL)		400	Wild	F9 V M8 V	-2	(750+1)	[8411]	BC	7	35
+
+1105	Star	A	0408	Legumenkig	A444ABA-C	 	     Hi In (NIL)		123	JuHl	F5 V	4	(89F+1)	[9E2A]	BEf	9	1080
+1201	Star	A	0408	Legumenkig	X444300-2	 	      Lo (NIL)		223	JuHl	F5 V	-3	(320+3)	[3151]	B	9	18
+1240	Star	A	0408	Legumenkig	X444000-2	 	      Di (NIL)		023	Wild	F5 V	-3	(300+1)	[0000]	B	9	3
+1508	Star	A	0408	Legumenkig	X444000-2	 	      Di (NIL)		023	Wild	F5 V	-3	(300+4)	[0000]	B	9	12
+1900	Star	A	0408	Legumenkig	X444000-2	 	      Di (NIL)		023	Wild	F5 V	-3	(300+4)	[0000]	B	9	12
+
+1105	Star	A	0409	Dikemu	X150000-0	 	     Ba De Po 		004	JuHl	G7 V	-3	(900-3)	[0000]	B	7	-27
+1201	Star	A	0409	Dikemu	X150000-0	 	     Ba De Po 		004	JuHl	G7 V	-3	(900+1)	[0000]	B	7	9
+1240	Star	A	0409	Dikemu	X150000-0	 	     Ba De Po 		004	Wild	G7 V	-3	(900+4)	[0000]	B	7	36
+1508	Star	A	0409	Dikemu	X150000-0	 	     Ba De Po 		004	Wild	G7 V	-3	(900+2)	[0000]	B	7	18
+1900	Star	A	0409	Dikemu	X150000-0	 	     Ba De Po 		004	Wild	G7 V	-3	(900+1)	[0000]	B	7	9
+
+1105	Star	E	0413	Geshiimudush	E612300-9	 	     Ic Lo 		515	JuHl	M9 V	-2	(D20-1)	[1157]	B	14	-26
+1201	Star	E	0413	Geshiimudush	X612000-9	 	     Di Ic 		015	JuHl	M9 V	-2	(D00-4)	[0000]	B	14	-52
+1240	Star	E	0413	Geshiimudush	X612000-9	 	     Di Ic 		015	Wild	M9 V	-2	(D00+1)	[0000]	B	14	13
+1508	Star	E	0413	Geshiimudush	X612000-9	 	     Di Ic 		015	Wild	M9 V	-2	(D00-5)	[0000]	B	14	-65
+1900	Star	E	0413	Geshiimudush	X612000-9	 	     Di Ic 		015	Wild	M9 V	-2	(D00-3)	[0000]	B	14	-39
+
+1105	Star	A	0509	Adurnii	C685440-5	 	    rg2  Ga Ni Pa 		724	JuHl	F8 V	-2	(730+1)	[52A5]	Bc	11	21
+1201	Star	A	0509	Adurnii	D685432-2	 	    rg2  Ga Ni Pa 	B	424	JuHl	F8 V	-3	(731+4)	[7144]	Bc	11	84
+1240	Star	A	0509	Adurnii	D685000-2	 	     rg2  Di Ga 		024	Wild	F8 V	-3	(700+2)	[0000]	B	11	14
+1508	Star	A	0509	Adurnii	D685000-2	 	     rg2  Di Ga 		024	Wild	F8 V	-3	(700+1)	[0000]	B	11	7
+1900	Star	A	0509	Adurnii	D685000-2	 	     rg2  Di Ga 		024	Wild	F8 V	-3	(700+2)	[0000]	B	11	14
+
+1105	Star	A	0510	Esherkhesh	C57379A-8	 	    rg3  Pi (NIL)		604	JuHl	F0 V	-1	(C66-4)	[A65B]	BD	15	-1728
+1201	Star	A	0510	Esherkhesh	E573775-8	 	    rg3  Pi (NIL)		704	JuHl	F0 V	-2	(C66-1)	[952D]	BD	15	-432
+1240	Star	A	0510	Esherkhesh	E57377A-4	 	    rg3  Pi (NIL)		304	Wild	F0 V	-2	(86A+4)	[4556]	BD	15	1920
+1508	Star	A	0510	Esherkhesh	E573775-5	 	    rg3  Pi (NIL)		304	Wild	F0 V	-2	(865-4)	[6515]	BD	15	-960
+1900	Star	A	0510	Esherkhesh	E573744-6	 	    rg3  Pi (NIL)		404	Wild	F0 V	-2	(863-4)	[A547]	BD	15	-576
+
+1105	Star	E	0511	Andorin	X999000-0	 	     Ba 		022	JuHl	G3 V	-3	(B00+1)	[0000]	B	10	11
+1201	Star	E	0511	Andorin	X999000-0	 	     Ba 		022	JuHl	G3 V	-3	(B00-2)	[0000]	B	10	-22
+1240	Star	E	0511	Andorin	X999000-0	 	     Ba 		022	Wild	G3 V	-3	(B00+5)	[0000]	B	10	55
+1508	Star	E	0511	Andorin	X999000-0	 	     Ba 		022	Wild	G3 V	-3	(B00-1)	[0000]	B	10	-11
+1900	Star	E	0511	Andorin	X999000-0	 	     Ba 		022	Wild	G3 V	-3	(B00-4)	[0000]	B	10	-44
+
+1105	Star	E	0513	Adishka	X320000-0	 	      Ba De He Po 		003	JuHl	M3 III M6 V	-3	(600-1)	[0000]	B	9	-6
+1201	Star	E	0513	Adishka	X320000-0	 	      Ba De He Po 		003	JuHl	M3 III M6 V	-3	(600+2)	[0000]	B	9	12
+1240	Star	E	0513	Adishka	X320000-0	 	      Ba De He Po 		003	Wild	M3 III M6 V	-3	(600-3)	[0000]	B	9	-18
+1508	Star	E	0513	Adishka	X320000-0	 	      Ba De He Po 		003	Wild	M3 III M6 V	-3	(600+5)	[0000]	B	9	30
+1900	Star	E	0513	Adishka	X320000-0	 	      Ba De He Po 		003	Wild	M3 III M6 V	-3	(600-2)	[0000]	B	9	-12
+
+1105	Star	A	0601	Untouchable	X000000-0	 	     An Fo  As Va Ba 	R	004	JuHl	M0 V M2 V	-3	(800+1)	[0000]	B	12	8
+1201	Star	A	0601	Untouchable	X000000-0	 	     An Fo  As Va Ba 		004	JuHl	M0 V M2 V	-3	(800+1)	[0000]	B	12	8
+1240	Star	A	0601	Untouchable	X000000-0	 	     An Fo  As Va Ba 		004	Wild	M0 V M2 V	-3	(800+1)	[0000]	B	12	8
+1508	Star	A	0601	Untouchable	X000000-0	 	     An Fo  As Va Ba 		004	Wild	M0 V M2 V	-3	(800-2)	[0000]	B	12	-16
+1900	Star	A	0601	Untouchable	X000000-0	 	     An Fo  As Va Ba 		004	Wild	M0 V M2 V	-3	(800-3)	[0000]	B	12	-24
+
+1105	Star	A	0603	Liigagidii	C596653-8	 	    rg1  Ag Ni 		503	JuHl	F2 V	-1	(551+1)	[B56A]	BC	14	25
+1201	Star	A	0603	Liigagidii	E596676-8	 	    rg1  Ag Ni 		603	JuHl	F2 V	-2	(550-3)	[5495]	BC	14	-75
+1240	Star	A	0603	Liigagidii	E596000-8	 	     rg1  Di 		003	Wild	F2 V	-3	(500+1)	[0000]	B	14	5
+1508	Star	A	0603	Liigagidii	E596000-8	 	     rg1  Di 		003	Wild	F2 V	-3	(500+1)	[0000]	B	14	5
+1900	Star	A	0603	Liigagidii	E596000-8	 	     rg1  Di 		003	Wild	F2 V	-3	(500+3)	[0000]	B	14	15
+
+1105	Star	A	0605	Luzumam	X500000-0	 	     Ba Va 		003	JuHl	G9 V M4 V	-3	(800+2)	[0000]	B	10	16
+1201	Star	A	0605	Luzumam	X500000-0	 	     Ba Va 		003	JuHl	G9 V M4 V	-3	(800+3)	[0000]	B	10	24
+1240	Star	A	0605	Luzumam	X500000-0	 	     Ba Va 		003	Wild	G9 V M4 V	-3	(800+4)	[0000]	B	10	32
+1508	Star	A	0605	Luzumam	X500000-0	 	     Ba Va 		003	Wild	G9 V M4 V	-3	(800-2)	[0000]	B	10	-16
+1900	Star	A	0605	Luzumam	X500000-0	 	     Ba Va 		003	Wild	G9 V M4 V	-3	(800-1)	[0000]	B	10	-8
+
+1105	Star	A	0606	Kagiirze	E346400-3	 	     Ni Pa 		220	JuHl	K7 V	-3	(731-1)	[5187]	Bc	11	-21
+1201	Star	A	0606	Kagiirze	X346400-2	 	     Ni Pa 		220	JuHl	K7 V	-3	(733-4)	[4144]	Bc	11	-252
+1240	Star	A	0606	Kagiirze	X346000-2	 	      Di 		020	Wild	K7 V	-3	(700+1)	[0000]	B	11	7
+1508	Star	A	0606	Kagiirze	X346000-2	 	      Di 		020	Wild	K7 V	-3	(700-4)	[0000]	B	11	-28
+1900	Star	A	0606	Kagiirze	X346000-2	 	      Di 		020	Wild	K7 V	-3	(700-4)	[0000]	B	11	-28
+
+1105	Star	A	0607	Sukiirusidar	E411325-9	 	     Ic Lo 		313	JuHl	G7 V	-2	(B20-5)	[316A]	B	11	-110
+1201	Star	A	0607	Sukiirusidar	X411000-9	 	     Di Ic 		013	JuHl	G7 V	-2	(B00-5)	[0000]	B	11	-55
+1240	Star	A	0607	Sukiirusidar	X411000-9	 	     Di Ic 		013	Wild	G7 V	-2	(B00-1)	[0000]	B	11	-11
+1508	Star	A	0607	Sukiirusidar	X411000-9	 	     Di Ic 		013	Wild	G7 V	-2	(B00-3)	[0000]	B	11	-33
+1900	Star	A	0607	Sukiirusidar	X411000-9	 	     Di Ic 		013	Wild	G7 V	-2	(B00-3)	[0000]	B	11	-33
+
+1105	Star	A	0610	Kushuni	C538200-7	 	    rg2  Lo 		104	JuHl	M2 V	-2	(610+1)	[1145]	B	13	6
+1201	Star	A	0610	Kushuni	X538000-7	 	    rg2  Di 		004	JuHl	M2 V	-3	(600+1)	[0000]	B	13	6
+1240	Star	A	0610	Kushuni	X538000-7	 	    rg2  Di 		004	Wild	M2 V	-3	(600+2)	[0000]	B	13	12
+1508	Star	A	0610	Kushuni	X538000-7	 	    rg2  Di 		004	Wild	M2 V	-3	(600-4)	[0000]	B	13	-24
+1900	Star	A	0610	Kushuni	X538000-7	 	    rg2  Di 		004	Wild	M2 V	-3	(600-3)	[0000]	B	13	-18
+
+1105	Star	E	0613	Kiimshamiir	A532ABC-D	 	     rg4  Hi Na Po (NIL)		222	JuHl	G2 V	3	(998+1)	[AD3F]	BE	14	648
+1201	Star	E	0613	Kiimshamiir	X532000-D	 	     rg4  Di Na Po (NIL)		022	JuHl	G2 V	-1	(900-2)	[0000]	B	14	-18
+1240	Star	E	0613	Kiimshamiir	X532000-D	 	     rg4  Di Na Po (NIL)		022	Wild	G2 V	-1	(900+3)	[0000]	B	14	27
+1508	Star	E	0613	Kiimshamiir	X532000-D	 	     rg4  Di Po (NIL)		022	Wild	G2 V	-1	(900+3)	[0000]	B	14	27
+1900	Star	E	0613	Kiimshamiir	X532000-D	 	     rg4  Di Po (NIL)		022	Wild	G2 V	-1	(900+1)	[0000]	B	14	9
+
+1105	Star	E	0614	Amarga	B475767-6	 	     rg1 O:0613  Ag Pi (NIL)		903	JuHl	F2 V	1	(969+1)	[5864]	BCD	14	486
+1201	Star	E	0614	Amarga	D475878-6	 	    rg1 O:0613  Pa Pi Ph (NIL)		103	JuHl	F2 V	-2	(97A-1)	[A636]	BcDe	14	-630
+1240	Star	E	0614	Amarga	D475685-0	 	    rg1 O:0613  Ag Ni (NIL)		503	Wild	F2 V	-2	(950+1)	[9481]	BC	14	45
+1508	Star	E	0614	Amarga	D475688-1	 	    rg1 O:0613  Ag Ni (NIL)		603	Wild	F2 V	-2	(951-2)	[7482]	BC	14	-90
+1900	Star	E	0614	Amarga	D475676-2	 	    rg1 O:0613  Ag Ni (NIL)		703	Wild	F2 V	-2	(952+2)	[1471]	BC	14	180
+
+1105	Star	E	0615	Liniilir	E582576-6	 	    rg3  Ni Pr 		603	JuHl	F9 V M2 V	-3	(641-1)	[8275]	Bc	13	-24
+1201	Star	E	0615	Liniilir	X582556-3	 	    rg3  Ni Pr 	B	403	JuHl	F9 V M2 V	-3	(640-2)	[5281]	Bc	13	-48
+1240	Star	E	0615	Liniilir	X582558-1	 	    rg3  Ni Pr 		203	Wild	F9 V M2 V	-3	(640+1)	[5271]	Bc	13	24
+1508	Star	E	0615	Liniilir	X582510-1	 	    rg3  Ni Pr 		303	Wild	F9 V M2 V	-3	(641-3)	[1261]	Bc	13	-72
+1900	Star	E	0615	Liniilir	X582513-2	 	    rg3  Ni Pr 		203	Wild	F9 V M2 V	-3	(641+3)	[8241]	Bc	13	72
+
+1105	Star	I	0624	Zeshkha	X766000-0	 	     Ba Ga 		013	NaXX	F2 V M2 V	-3	(700+3)	[0000]	B	16	21
+1201	Star	I	0624	Zeshkha	X766000-0	 	     Ba Ga 		013	NaXX	F2 V M2 V	-3	(700+1)	[0000]	B	16	7
+1240	Star	I	0624	Zeshkha	X766000-0	 	     Ba Ga 		013	Wild	F2 V M2 V	-3	(700+3)	[0000]	B	16	21
+1508	Star	I	0624	Zeshkha	X766000-0	 	     Ba Ga 		013	Wild	F2 V M2 V	-3	(700-4)	[0000]	B	16	-28
+1900	Star	I	0624	Zeshkha	X766000-0	 	     Ba Ga 		013	Wild	F2 V M2 V	-3	(700+2)	[0000]	B	16	14
+
+1105	Star	A	0703	Gamushii	C643222-5	 	     Lo Po 		403	JuHl	F7 V M2 V M0 V	-2	(A10+3)	[1165]	B	9	30
+1201	Star	A	0703	Gamushii	X643242-1	 	     Lo Po 		903	JuHl	F7 V M2 V M0 V	-3	(A10-3)	[1182]	B	9	-30
+1240	Star	A	0703	Gamushii	X643000-1	 	     Di Po 		003	Wild	F7 V M2 V M0 V	-3	(A00-3)	[0000]	B	9	-30
+1508	Star	A	0703	Gamushii	X643000-1	 	     Di Po 		003	Wild	F7 V M2 V M0 V	-3	(A00-1)	[0000]	B	9	-10
+1900	Star	A	0703	Gamushii	X643000-1	 	     Di Po 		003	Wild	F7 V M2 V M0 V	-3	(A00-3)	[0000]	B	9	-30
+
+1105	Star	A	0706	Ugirum	BA889C9-B	 	     Hi Pr (NIL)		401	JuHl	G2 V	3	(C8C+1)	[ECAC]	BcE	9	1152
+1201	Star	A	0706	Ugirum	XA88000-B	 	      Di (NIL)		001	JuHl	G2 V	-1	(C00-1)	[0000]	B	9	-12
+1240	Star	A	0706	Ugirum	XA88000-B	 	      Di (NIL)		001	Wild	G2 V	-1	(C00-2)	[0000]	B	9	-24
+1508	Star	A	0706	Ugirum	XA88000-B	 	      Di (NIL)		001	Wild	G2 V	-1	(C00-3)	[0000]	B	9	-36
+1900	Star	A	0706	Ugirum	XA88000-B	 	      Di (NIL)		001	Wild	G2 V	-1	(C00+1)	[0000]	B	9	12
+
+1105	Star	A	0710	Giikiikhir	B597563-7	 	    O:0408  Ag Cy Ni 		701	JuHl	F5 V M0 V	0	(743-3)	[7516]	BC	11	-252
+1201	Star	A	0710	Giikiikhir	D5975A7-6	 	    O:0408  Ag Ni 		401	JuHl	F5 V M0 V	-2	(740+1)	[7393]	BC	11	28
+1240	Star	A	0710	Giikiikhir	D597000-6	 	     O:0408  Di 		001	Wild	F5 V M0 V	-3	(700-3)	[0000]	B	11	-21
+1508	Star	A	0710	Giikiikhir	D597000-6	 	     O:0408  Di 		001	Wild	F5 V M0 V	-3	(700+1)	[0000]	B	11	7
+1900	Star	A	0710	Giikiikhir	D597000-6	 	     O:0408  Di 		001	Wild	F5 V M0 V	-3	(700-2)	[0000]	B	11	-14
+
+1105	Star	E	0713	Gugiim	C6757AA-A	 	      Ag Pi (NIL)		810	JuHl	F5 V	2	(A67+1)	[4967]	BCD	9	420
+1201	Star	E	0713	Gugiim	D675736-8	 	      Ag Pi (NIL)	B	910	JuHl	F5 V	-1	(A65+1)	[469A]	BCD	9	300
+1240	Star	E	0713	Gugiim	D6757CH-6	 	      Ag Pi (NIL)		410	Wild	F5 V	-1	(964-3)	[B699]	BCD	9	-648
+1508	Star	E	0713	Gugiim	D675756-8	 	      Ag Pi (NIL)		510	Wild	F5 V	-1	(A64+1)	[7645]	BCD	9	240
+1900	Star	E	0713	Gugiim	D675775-8	 	      Ag Pi (NIL)		410	Wild	F5 V	-1	(A68+5)	[9658]	BCD	9	2400
+
+1105	Star	A	0806	Ikamki	A85AA84-D	 	    rg5  Hi Wa (NIL)		502	JuHl	F3 V	3	(698-1)	[CD8E]	BE	10	-432
+1201	Star	A	0806	Ikamki	X85A99E-8	 	    rg5  Hi Wa (NIL)	B	502	JuHl	F3 V	-1	(687-1)	[7886]	BE	10	-336
+1240	Star	A	0806	Ikamki	X85A9DE-1	 	    rg5  Hi Wa (NIL)		202	Wild	F3 V	-1	(482-3)	[5811]	BE	10	-192
+1508	Star	A	0806	Ikamki	X85A9B6-0	 	    rg5  Hi Wa (NIL)		302	Wild	F3 V	-1	(486+1)	[C835]	BE	10	192
+1900	Star	A	0806	Ikamki	X85A976-1	 	    rg5  Hi Wa (NIL)		402	Wild	F3 V	-1	(483-3)	[B812]	BE	10	-288
+
+1105	Star	A	0807	Shikhiniluu	X000000-0	 	      As Va Ba 		011	JuHl	M3 V	-3	(900+3)	[0000]	B	13	27
+1201	Star	A	0807	Shikhiniluu	X000000-0	 	      As Va Ba 		011	JuHl	M3 V	-3	(900-4)	[0000]	B	13	-36
+1240	Star	A	0807	Shikhiniluu	X000000-0	 	      As Va Ba 		011	Wild	M3 V	-3	(900+3)	[0000]	B	13	27
+1508	Star	A	0807	Shikhiniluu	X000000-0	 	      As Va Ba 		011	Wild	M3 V	-3	(900+2)	[0000]	B	13	18
+1900	Star	A	0807	Shikhiniluu	X000000-0	 	      As Va Ba 		011	Wild	M3 V	-3	(900+1)	[0000]	B	13	9
+
+1105	Star	E	0814	Khurlazer	B757410-7	 	     Ga Ni Pa 		215	JuHl	F0 V	-1	(734-1)	[137B]	Bc	10	-84
+1201	Star	E	0814	Khurlazer	D757400-3	 	     Ga Ni Pa 	B	215	JuHl	F0 V	-3	(732+1)	[3184]	Bc	10	42
+1240	Star	E	0814	Khurlazer	D757453-2	 	     Ga Ni Pa 		115	Wild	F0 V	-3	(733-3)	[8125]	Bc	10	-189
+1508	Star	E	0814	Khurlazer	D757410-2	 	     Ga Ni Pa 		115	Wild	F0 V	-3	(730-4)	[9143]	Bc	10	-84
+1900	Star	E	0814	Khurlazer	D757434-3	 	     Ga Ni Pa 		215	Wild	F0 V	-3	(732+1)	[8146]	Bc	10	42
+
+1105	Star	E	0815	Arimiresh	E578358-6	 	    rg2  Lo 		902	JuHl	F1 V	-3	(720+1)	[6144]	B	11	14
+1201	Star	E	0815	Arimiresh	X578300-5	 	    rg2  Lo 		602	JuHl	F1 V	-3	(720+2)	[5189]	B	11	28
+1240	Star	E	0815	Arimiresh	X578000-5	 	    rg2  Di 		002	Wild	F1 V	-3	(700-1)	[0000]	B	11	-7
+1508	Star	E	0815	Arimiresh	X578000-5	 	    rg2  Di 		002	Wild	F1 V	-3	(700-1)	[0000]	B	11	-7
+1900	Star	E	0815	Arimiresh	X578000-5	 	    rg2  Di 		002	Wild	F1 V	-3	(700+1)	[0000]	B	11	7
+
+1105	Star	I	0821	Umluushur	X583000-0	 	     Ba 		033	NaXX	F9 V	-3	(200+4)	[0000]	B	18	8
+1201	Star	I	0821	Umluushur	X583000-0	 	     Ba 		033	NaXX	F9 V	-3	(200+1)	[0000]	B	18	2
+1240	Star	I	0821	Umluushur	X583000-0	 	     Ba 		033	Wild	F9 V	-3	(200-2)	[0000]	B	18	-4
+1508	Star	I	0821	Umluushur	X583000-0	 	     Ba 		033	Wild	F9 V	-3	(200+4)	[0000]	B	18	8
+1900	Star	I	0821	Umluushur	X583000-0	 	     Ba 		033	Wild	F9 V	-3	(200+2)	[0000]	B	18	4
+
+1105	Star	B	0901	Pashirshilir	E77A468-8	 	    O:  Ni Wa 		913	JuHl	G9 V	-3	(B30+2)	[3139]	B	12	66
+1201	Star	B	0901	Pashirshilir	X77A436-7	 	    O:  Ni Wa 		513	JuHl	G9 V	-3	(731+1)	[1187]	B	12	21
+1240	Star	B	0901	Pashirshilir	X77A000-7	 	    O:  Di Wa 		013	Wild	G9 V	-3	(700-1)	[0000]	B	12	-7
+1508	Star	B	0901	Pashirshilir	X77A000-7	 	    O:  Di Wa 		013	Wild	G9 V	-3	(700+3)	[0000]	B	12	21
+1900	Star	B	0901	Pashirshilir	X77A000-7	 	    O:  Di Wa 		013	Wild	G9 V	-3	(700-3)	[0000]	B	12	-21
+
+1105	Star	B	0907	Luke	X413000-0	 	     Ba Ic 		003	JuHl	G3 V	-3	(800+4)	[0000]	B	10	32
+1201	Star	B	0907	Luke	X413000-0	 	     Ba Ic 		003	JuHl	G3 V	-3	(800+1)	[0000]	B	10	8
+1240	Star	B	0907	Luke	X413000-0	 	     Ba Ic 		003	Wild	G3 V	-3	(800+3)	[0000]	B	10	24
+1508	Star	B	0907	Luke	X413000-0	 	     Ba Ic 		003	Wild	G3 V	-3	(800+1)	[0000]	B	10	8
+1900	Star	B	0907	Luke	X413000-0	 	     Ba Ic 		003	Wild	G3 V	-3	(800+1)	[0000]	B	10	8
+
+1105	Star	F	0911	Khirarma	E77A123-6	 	     Lo Wa 		603	JuHl	F9 V M9 V	-3	(C00+1)	[1166]	B	11	12
+1201	Star	F	0911	Khirarma	X77A202-5	 	     Lo Wa 		703	JuHl	F9 V M9 V	-3	(C10+1)	[4163]	B	11	12
+1240	Star	F	0911	Khirarma	X77A000-5	 	     Di Wa 		003	Wild	F9 V M9 V	-3	(C00+2)	[0000]	B	11	24
+1508	Star	F	0911	Khirarma	X77A000-5	 	     Di Wa 		003	Wild	F9 V M9 V	-3	(C00+3)	[0000]	B	11	36
+1900	Star	F	0911	Khirarma	X77A000-5	 	     Di Wa 		003	Wild	F9 V M9 V	-3	(C00+1)	[0000]	B	11	12
+
+1105	Star	N	0933	!!rrarii	A9DAA84-E	 	     Hi Wa (NIL)		212	NaHu	F4 V	3	(99C-4)	[DD7F]	BE	11	-3888
+1201	Star	N	0933	!!rrarii	X9DA000-E	 	     Di Wa (NIL)		012	NaHu	F4 V	-1	(900+4)	[0000]	B	11	36
+1240	Star	N	0933	!!rrarii	X9DA000-E	 	     Di Wa (NIL)		012	Wild	F4 V	-1	(900-1)	[0000]	B	11	-9
+1508	Star	N	0933	!!rrarii	X9DA000-E	 	     Di Wa (NIL)		012	Wild	F4 V	-1	(900+1)	[0000]	B	11	9
+1900	Star	N	0933	!!rrarii	X9DA000-E	 	     Di Wa (NIL)		012	Wild	F4 V	-1	(900-2)	[0000]	B	11	-18
+
+1105	Star	B	1005	Kedepar	A865947-D	 	     Ga Hi Pr (NIL)		411	JuHl	K7 V	3	(887-3)	[4C8F]	BcE	11	-1344
+1201	Star	B	1005	Kedepar	X86596B-8	 	     Ga Hi Pr (NIL)	B	411	JuHl	K7 V	-1	(883+5)	[6856]	BcE	11	960
+1240	Star	B	1005	Kedepar	X8659C9-1	 	     Ga Hi Pr (NIL)		211	Wild	K7 V	-1	(683-1)	[D841]	BcE	11	-144
+1508	Star	B	1005	Kedepar	X865999-2	 	     Ga Hi Pr (NIL)		111	Wild	K7 V	-1	(687+1)	[A881]	BcE	11	336
+1900	Star	B	1005	Kedepar	X86598A-3	 	     Ga Hi Pr (NIL)		211	Wild	K7 V	-1	(685-2)	[6853]	BcE	11	-480
+
+1105	Star	B	1009	AsJuHlii	E110100-9	 	    rg1  Lo 		404	JuHl	M7 V	-2	(C00+2)	[118A]	B	11	24
+1201	Star	B	1009	AsJuHlii	X110000-9	 	    rg1  Di 		004	JuHl	M7 V	-2	(C00+2)	[0000]	B	11	24
+1240	Star	B	1009	AsJuHlii	X110000-9	 	    rg1  Di 		004	Wild	M7 V	-2	(C00+5)	[0000]	B	11	60
+1508	Star	B	1009	AsJuHlii	X110000-9	 	    rg1  Di 		004	Wild	M7 V	-2	(C00-1)	[0000]	B	11	-12
+1900	Star	B	1009	AsJuHlii	X110000-9	 	    rg1  Di 		004	Wild	M7 V	-2	(C00+2)	[0000]	B	11	24
+
+1105	Star	B	1101	Gumnima	X424000-0	 	     Ba 		003	JuHl	M1 III M2 V M0 V	-3	(800-5)	[0000]	B	10	-40
+1201	Star	B	1101	Gumnima	X424000-0	 	     Ba 		003	JuHl	M1 III M2 V M0 V	-3	(800+3)	[0000]	B	10	24
+1240	Star	B	1101	Gumnima	X424000-0	 	     Ba 		003	Wild	M1 III M2 V M0 V	-3	(800+3)	[0000]	B	10	24
+1508	Star	B	1101	Gumnima	X424000-0	 	     Ba 		003	Wild	M1 III M2 V M0 V	-3	(800+4)	[0000]	B	10	32
+1900	Star	B	1101	Gumnima	X424000-0	 	     Ba 		003	Wild	M1 III M2 V M0 V	-3	(800-4)	[0000]	B	10	-32
+
+1105	Star	B	1103	Numkii	C55669B-6	 	     Ag Ni 		124	JuHl	F5 V	-1	(554+1)	[9515]	BC	15	100
+1201	Star	B	1103	Numkii	E55667C-3	 	     Ag Ni 		224	JuHl	F5 V	-2	(554+1)	[1482]	BC	15	100
+1240	Star	B	1103	Numkii	E556000-3	 	      Di 		024	Wild	F5 V	-3	(500-2)	[0000]	B	15	-10
+1508	Star	B	1103	Numkii	E556000-3	 	      Di 		024	Wild	F5 V	-3	(500-1)	[0000]	B	15	-5
+1900	Star	B	1103	Numkii	E556000-3	 	      Di 		024	Wild	F5 V	-3	(500+2)	[0000]	B	15	10
+
+1105	Star	B	1105	Argime	X100000-0	 	     Ba Va 		004	JuHl	M6 V	-3	(600+1)	[0000]	B	14	6
+1201	Star	B	1105	Argime	X100000-0	 	     Ba Va 		004	JuHl	M6 V	-3	(600+1)	[0000]	B	14	6
+1240	Star	B	1105	Argime	X100000-0	 	     Ba Va 		004	Wild	M6 V	-3	(600+1)	[0000]	B	14	6
+1508	Star	B	1105	Argime	X100000-0	 	     Ba Va 		004	Wild	M6 V	-3	(600+4)	[0000]	B	14	24
+1900	Star	B	1105	Argime	X100000-0	 	     Ba Va 		004	Wild	M6 V	-3	(600+1)	[0000]	B	14	6
+
+1105	Star	B	1106	Na	X300000-0	 	     Ba Va 		012	JuHl	G7 V M7 V	-3	(500-1)	[0000]	B	12	-5
+1201	Star	B	1106	Na	X300000-0	 	     Ba Va 		012	JuHl	G7 V M7 V	-3	(500+1)	[0000]	B	12	5
+1240	Star	B	1106	Na	X300000-0	 	     Ba Va 		012	Wild	G7 V M7 V	-3	(500+1)	[0000]	B	12	5
+1508	Star	B	1106	Na	X300000-0	 	     Ba Va 		012	Wild	G7 V M7 V	-3	(500-1)	[0000]	B	12	-5
+1900	Star	B	1106	Na	X300000-0	 	     Ba Va 		012	Wild	G7 V M7 V	-3	(500-3)	[0000]	B	12	-15
+
+1105	Star	B	1109	Lelinakuukha	B536526-9	 	    rg2  Ni 		512	JuHl	K0 V	0	(B46+1)	[5586]	B	10	264
+1201	Star	B	1109	Lelinakuukha	X536000-9	 	    rg2  Di 		012	JuHl	K0 V	-2	(B00+1)	[0000]	B	10	11
+1240	Star	B	1109	Lelinakuukha	X536000-9	 	    rg2  Di 		012	Wild	K0 V	-2	(B00+1)	[0000]	B	10	11
+1508	Star	B	1109	Lelinakuukha	X536000-9	 	    rg2  Di 		012	Wild	K0 V	-2	(B00+1)	[0000]	B	10	11
+1900	Star	B	1109	Lelinakuukha	X536000-9	 	    rg2  Di 		012	Wild	K0 V	-2	(B00-3)	[0000]	B	10	-33
+
+1105	Star	F	1111	Maaguukud	C577644-A	 	     Ag Ni 		601	JuHl	F8 V	1	(955+1)	[2757]	BC	10	225
+1201	Star	F	1111	Maaguukud	X577669-4	 	     Ag Ni 	B	601	JuHl	F8 V	-2	(850+1)	[8423]	BC	10	40
+1240	Star	F	1111	Maaguukud	X577000-4	 	      Di 		001	Wild	F8 V	-3	(800+1)	[0000]	B	10	8
+1508	Star	F	1111	Maaguukud	X577000-4	 	      Di 		001	Wild	F8 V	-3	(800-3)	[0000]	B	10	-24
+1900	Star	F	1111	Maaguukud	X577000-4	 	      Di 		001	Wild	F8 V	-3	(800-4)	[0000]	B	10	-32
+
+1105	Star	F	1113	Akingip	E422342-B	 	     He Lo Po 		110	JuHl	M0 V M9 V	-1	(620+3)	[421E]	B	10	36
+1201	Star	F	1113	Akingip	X422000-B	 	     Di He Po 		010	JuHl	M0 V M9 V	-1	(600+2)	[0000]	B	10	12
+1240	Star	F	1113	Akingip	X422000-B	 	     Di He Po 		010	Wild	M0 V M9 V	-1	(600+3)	[0000]	B	10	18
+1508	Star	F	1113	Akingip	X422000-B	 	     Di He Po 		010	Wild	M0 V M9 V	-1	(600+1)	[0000]	B	10	6
+1900	Star	F	1113	Akingip	X422000-B	 	     Di He Po 		010	Wild	M0 V M9 V	-1	(600-4)	[0000]	B	10	-24
+
+1105	Star	N	1132	Niirp'tki	C38299C-8	 	    rg3  Hi Pr (NIL)		601	NaHu	F8 V	0	(58C-2)	[B975]	BcE	12	-960
+1201	Star	N	1132	Niirp'tki	E382224-4	 	     rg3  Lo (NIL)		601	NaHu	F8 V	-3	(410-2)	[1129]	B	12	-8
+1240	Star	N	1132	Niirp'tki	E382000-4	 	     rg3  Di (NIL)		001	Wild	F8 V	-3	(400+1)	[0000]	B	12	4
+1508	Star	N	1132	Niirp'tki	E382000-4	 	     rg3  Di (NIL)		001	Wild	F8 V	-3	(400+4)	[0000]	B	12	16
+1900	Star	N	1132	Niirp'tki	E382000-4	 	     rg3  Di (NIL)		001	Wild	F8 V	-3	(400+1)	[0000]	B	12	4
+
+1105	Star	N	1137	K'lka	D332100-7	 	     Lo Po 		605	CsTw	K4 V M7 V	-3	(700-1)	[112B]	B	17	-7
+1201	Star	N	1137	K'lka	X332000-7	 	     Di Po 		005	CsTw	K4 V M7 V	-3	(700-3)	[0000]	B	17	-21
+1240	Star	N	1137	K'lka	X332000-7	 	     Di Po 		005	Wild	K4 V M7 V	-3	(700-2)	[0000]	B	17	-14
+1508	Star	N	1137	K'lka	X332000-7	 	     Di Po 		005	Wild	K4 V M7 V	-3	(700+3)	[0000]	B	17	21
+1900	Star	N	1137	K'lka	X332000-7	 	     Di Po 		005	Wild	K4 V M7 V	-3	(700+1)	[0000]	B	17	7
+
+1105	Star	N	1139	Kereerrkar	A656587-D	 	     Ag Ga Ni 		600	CsTw	M9 V	2	(748+1)	[478C]	BC	12	224
+1201	Star	N	1139	Kereerrkar	X656520-8	 	     Ag Ga Ni 		300	CsTw	M9 V	-2	(743-2)	[5379]	BC	12	-168
+1240	Star	N	1139	Kereerrkar	X656530-1	 	     Ag Ga Ni 		100	Wild	M9 V	-2	(740+3)	[2391]	BC	12	84
+1508	Star	N	1139	Kereerrkar	X656522-2	 	     Ag Ga Ni 		200	Wild	M9 V	-2	(741+2)	[3361]	BC	12	56
+1900	Star	N	1139	Kereerrkar	X65657A-3	 	     Ag Ga Ni 		300	Wild	M9 V	-2	(740+3)	[7374]	BC	12	84
+
+1105	Star	B	1202	Nasimakdi	C383443-9	 	     Ni 		803	JuHl	F4 V M5 V	-1	(630+3)	[1365]	B	12	54
+1201	Star	B	1202	Nasimakdi	E383487-4	 	     Ni 		403	JuHl	F4 V M5 V	-3	(333+3)	[1128]	B	12	81
+1240	Star	B	1202	Nasimakdi	E383456-6	 	     Ni 		203	Wild	F4 V M5 V	-3	(331+3)	[1156]	B	12	27
+1508	Star	B	1202	Nasimakdi	E38348D-6	 	     Ni 		103	Wild	F4 V M5 V	-3	(330+1)	[9174]	B	12	9
+1900	Star	B	1202	Nasimakdi	E38348A-7	 	     Ni 		203	Wild	F4 V M5 V	-3	(332+1)	[518B]	B	12	18
+
+1105	Star	B	1204	Egasirke	C7486AA-8	 	     Ag Ni 		211	JuHl	F8 V	-1	(B52-4)	[6538]	BC	8	-440
+1201	Star	B	1204	Egasirke	X74869A-5	 	     Ag Ni 		311	JuHl	F8 V	-2	(950+5)	[9466]	BC	8	225
+1240	Star	B	1204	Egasirke	X748000-5	 	      Di 		011	Wild	F8 V	-3	(900-2)	[0000]	B	8	-18
+1508	Star	B	1204	Egasirke	X748000-5	 	      Di 		011	Wild	F8 V	-3	(900+4)	[0000]	B	8	36
+1900	Star	B	1204	Egasirke	X748000-5	 	      Di 		011	Wild	F8 V	-3	(900+5)	[0000]	B	8	45
+
+1105	Star	B	1205	Eshirlaziim	D543514-A	 	     Ni Po 		304	JuHl	F7 V	-1	(A41+2)	[542E]	B	7	80
+1201	Star	B	1205	Eshirlaziim	E543567-5	 	     Ni Po 	B	204	JuHl	F7 V	-3	(640+1)	[7273]	B	7	24
+1240	Star	B	1205	Eshirlaziim	E543000-5	 	     Di Po 		004	Wild	F7 V	-3	(600-4)	[0000]	B	7	-24
+1508	Star	B	1205	Eshirlaziim	E543000-5	 	     Di Po 		004	Wild	F7 V	-3	(600+3)	[0000]	B	7	18
+1900	Star	B	1205	Eshirlaziim	E543000-5	 	     Di Po 		004	Wild	F7 V	-3	(600-5)	[0000]	B	7	-30
+
+1105	Star	F	1211	Alaga	C364854-6	 	     rg3  Pa Ri Ph (NIL)		923	JuHl	G1 V M9 V	0	(B77-3)	[D863]	BcCe	14	-1617
+1201	Star	F	1211	Alaga	E3649A6-6	 	     rg3  Hi Pr (NIL)	B	123	JuHl	G1 V M9 V	-1	(B88-3)	[9859]	BcE	14	-2112
+1240	Star	F	1211	Alaga	E364874-1	 	     rg3  Pa Ri Ph (NIL)		523	Wild	G1 V M9 V	-1	(B76-2)	[B722]	BcCe	14	-924
+1508	Star	F	1211	Alaga	E3648A9-2	 	     rg3  Pa Ri Ph (NIL)		523	Wild	G1 V M9 V	-1	(B72+1)	[A751]	BcCe	14	154
+1900	Star	F	1211	Alaga	E36489C-3	 	     rg3  Pa Ri Ph (NIL)		523	Wild	G1 V M9 V	-1	(B75+2)	[B745]	BcCe	14	770
+
+1105	Star	F	1212	Dulikanmuu	B523887-9	 	       Na Pi Po Ph (NIL)		404	JuHl	F9 V	1	(E7B+1)	[9979]	BDe	16	1078
+1201	Star	F	1212	Dulikanmuu	X523000-9	 	       Di Na Pi Po (NIL)		004	JuHl	F9 V	-2	(E00+3)	[0000]	BD	16	42
+1240	Star	F	1212	Dulikanmuu	X523000-9	 	       Di Na Pi Po (NIL)		004	Wild	F9 V	-2	(E00+3)	[0000]	BD	16	42
+1508	Star	F	1212	Dulikanmuu	X523000-9	 	       Di Po (NIL)		004	Wild	F9 V	-2	(E00-2)	[0000]	B	16	-28
+1900	Star	F	1212	Dulikanmuu	X523000-9	 	       Di Po (NIL)		004	Wild	F9 V	-2	(E00-2)	[0000]	B	16	-28
+
+1105	Star	N	1233	Gnir	A758A9C-B	 	     Hi (NIL)		101	CsTw	F8 V M7 V	3	(999+1)	[8D9E]	BE	5	729
+1201	Star	N	1233	Gnir	X758866-7	 	    Pa Ph (NIL)		101	CsTw	F8 V M7 V	-2	(875-4)	[A62B]	Bce	5	-1120
+1240	Star	N	1233	Gnir	X758799-0	 	     Ag (NIL)		501	Wild	F8 V M7 V	-1	(867+3)	[2663]	BC	5	1008
+1508	Star	N	1233	Gnir	X758742-0	 	     Ag (NIL)		501	Wild	F8 V M7 V	-1	(86A-4)	[8624]	BC	5	-1920
+1900	Star	N	1233	Gnir	X758788-0	 	     Ag (NIL)		601	Wild	F8 V M7 V	-1	(864+1)	[7691]	BC	5	192
+
+1105	Star	N	1235	Ruuirakr	X200000-0	 	     Ba Va 		001	CsTw	M1 V	-3	(700+1)	[0000]	B	5	7
+1201	Star	N	1235	Ruuirakr	X200000-0	 	     Ba Va 		001	CsTw	M1 V	-3	(700+1)	[0000]	B	5	7
+1240	Star	N	1235	Ruuirakr	X200000-0	 	     Ba Va 		001	Wild	M1 V	-3	(700+1)	[0000]	B	5	7
+1508	Star	N	1235	Ruuirakr	X200000-0	 	     Ba Va 		001	Wild	M1 V	-3	(700-1)	[0000]	B	5	-7
+1900	Star	N	1235	Ruuirakr	X200000-0	 	     Ba Va 		001	Wild	M1 V	-3	(700+1)	[0000]	B	5	7
+
+1105	Star	B	1306	Urgesimmiku	D553421-2	 	    rg4  Ni Po 		414	JuHl	F8 V	-3	(331-3)	[3151]	B	12	-27
+1201	Star	B	1306	Urgesimmiku	X553434-0	 	    rg4  Ni Po 		314	JuHl	F8 V	-3	(333+2)	[1151]	B	12	54
+1240	Star	B	1306	Urgesimmiku	X553420-0	 	    rg4  Ni Po 		114	Wild	F8 V	-3	(330-3)	[5141]	B	12	-27
+1508	Star	B	1306	Urgesimmiku	X553321-0	 	    rg4  Lo Po 		914	Wild	F8 V	-3	(320+1)	[5132]	B	12	6
+1900	Star	B	1306	Urgesimmiku	X553387-0	 	    rg4  Lo Po 		814	Wild	F8 V	-3	(320-1)	[4111]	B	12	-6
+
+1105	Star	B	1308	Shadsugsa	E579333-6	 	     Lo 		800	JuHl	F8 V	-3	(720-4)	[4148]	B	10	-56
+1201	Star	B	1308	Shadsugsa	X57917B-3	 	     Lo 	B	400	JuHl	F8 V	-3	(700+2)	[3163]	B	10	14
+1240	Star	B	1308	Shadsugsa	X579000-3	 	     Di 		000	Wild	F8 V	-3	(700-4)	[0000]	B	10	-28
+1508	Star	B	1308	Shadsugsa	X579000-3	 	     Di 		000	Wild	F8 V	-3	(700+1)	[0000]	B	10	7
+1900	Star	B	1308	Shadsugsa	X579000-3	 	     Di 		000	Wild	F8 V	-3	(700+1)	[0000]	B	10	7
+
+1105	Star	B	1309	Gakhega	X8B3000-0	 	     Ba Fl 		013	JuHl	M2 V	-3	(700-2)	[0000]	B	12	-14
+1201	Star	B	1309	Gakhega	X8B3000-0	 	     Ba Fl 		013	JuHl	M2 V	-3	(700+2)	[0000]	B	12	14
+1240	Star	B	1309	Gakhega	X8B3000-0	 	     Ba Fl 		013	Wild	M2 V	-3	(700-5)	[0000]	B	12	-35
+1508	Star	B	1309	Gakhega	X8B3000-0	 	     Ba Fl 		013	Wild	M2 V	-3	(700+2)	[0000]	B	12	14
+1900	Star	B	1309	Gakhega	X8B3000-0	 	     Ba Fl 		013	Wild	M2 V	-3	(700+4)	[0000]	B	12	28
+
+1105	Star	N	1333	T!'nul'rkii	X425000-0	 	     Ba 		024	CsTw	M0 V M9 V	-3	(400-3)	[0000]	B	18	-12
+1201	Star	N	1333	T!'nul'rkii	X425000-0	 	     Ba 		024	CsTw	M0 V M9 V	-3	(400+1)	[0000]	B	18	4
+1240	Star	N	1333	T!'nul'rkii	X425000-0	 	     Ba 		024	Wild	M0 V M9 V	-3	(400+4)	[0000]	B	18	16
+1508	Star	N	1333	T!'nul'rkii	X425000-0	 	     Ba 		024	Wild	M0 V M9 V	-3	(400-1)	[0000]	B	18	-4
+1900	Star	N	1333	T!'nul'rkii	X425000-0	 	     Ba 		024	Wild	M0 V M9 V	-3	(400+1)	[0000]	B	18	4
+
+1105	Star	N	1339	Kikikugr	X643000-0	 	     Ba Po 		012	CsTw	G5 V M6 V	-3	(600-3)	[0000]	B	9	-18
+1201	Star	N	1339	Kikikugr	X643000-0	 	     Ba Po 		012	CsTw	G5 V M6 V	-3	(600-1)	[0000]	B	9	-6
+1240	Star	N	1339	Kikikugr	X643000-0	 	     Ba Po 		012	Wild	G5 V M6 V	-3	(600+2)	[0000]	B	9	12
+1508	Star	N	1339	Kikikugr	X643000-0	 	     Ba Po 		012	Wild	G5 V M6 V	-3	(600+1)	[0000]	B	9	6
+1900	Star	N	1339	Kikikugr	X643000-0	 	     Ba Po 		012	Wild	G5 V M6 V	-3	(600+2)	[0000]	B	9	12
+
+1105	Star	B	1405	Mame	C8B4312-B	 	     Fl Lo 		902	JuHl	M4 III M7 V	0	(920+3)	[736D]	B	6	54
+1201	Star	B	1405	Mame	X8B4000-B	 	     Di Fl 		002	JuHl	M4 III M7 V	-1	(900-4)	[0000]	B	6	-36
+1240	Star	B	1405	Mame	X8B4000-B	 	     Di Fl 		002	Wild	M4 III M7 V	-1	(900-3)	[0000]	B	6	-27
+1508	Star	B	1405	Mame	X8B4000-B	 	     Di Fl 		002	Wild	M4 III M7 V	-1	(900-5)	[0000]	B	6	-45
+1900	Star	B	1405	Mame	X8B4000-B	 	     Di Fl 		002	Wild	M4 III M7 V	-1	(900+1)	[0000]	B	6	9
+
+1105	Star	B	1410	Dushiilush	X547000-0	 	     Ba 		003	JuHl	F0 V M5 V	-3	(600-2)	[0000]	B	12	-12
+1201	Star	B	1410	Dushiilush	X547000-0	 	     Ba 		003	JuHl	F0 V M5 V	-3	(600-3)	[0000]	B	12	-18
+1240	Star	B	1410	Dushiilush	X547000-0	 	     Ba 		003	Wild	F0 V M5 V	-3	(600+2)	[0000]	B	12	12
+1508	Star	B	1410	Dushiilush	X547000-0	 	     Ba 		003	Wild	F0 V M5 V	-3	(600-4)	[0000]	B	12	-24
+1900	Star	B	1410	Dushiilush	X547000-0	 	     Ba 		003	Wild	F0 V M5 V	-3	(600-1)	[0000]	B	12	-6
+
+1105	Star	N	1431	Gh'kabrroo	B438433-8	 	     Ni 		315	NaHu	K8 V	-1	(E35+1)	[836C]	B	14	210
+1201	Star	N	1431	Gh'kabrroo	X438000-8	 	     Di 		015	NaHu	K8 V	-3	(E00+1)	[0000]	B	14	14
+1240	Star	N	1431	Gh'kabrroo	X438000-8	 	     Di 		015	Wild	K8 V	-3	(E00-1)	[0000]	B	14	-14
+1508	Star	N	1431	Gh'kabrroo	X438000-8	 	     Di 		015	Wild	K8 V	-3	(E00-3)	[0000]	B	14	-42
+1900	Star	N	1431	Gh'kabrroo	X438000-8	 	     Di 		015	Wild	K8 V	-3	(E00+4)	[0000]	B	14	56
+
+1105	Star	N	1436	Iila	D477564-5	 	    O:1535  Ag Ni 		510	CsTw	G0 V	-2	(444+4)	[4379]	BC	6	256
+1201	Star	N	1436	Iila	X47757B-2	 	    O:1535  Ag Ni 		310	CsTw	G0 V	-2	(440+1)	[5351]	BC	6	16
+1240	Star	N	1436	Iila	X477000-2	 	     O:1535  Di 		010	Wild	G0 V	-3	(400-2)	[0000]	B	6	-8
+1508	Star	N	1436	Iila	X477000-2	 	     O:1535  Di 		010	Wild	G0 V	-3	(400-1)	[0000]	B	6	-4
+1900	Star	N	1436	Iila	X477000-2	 	     O:1535  Di 		010	Wild	G0 V	-3	(400+1)	[0000]	B	6	4
+
+1105	Star	B	1503	Are	X9B4000-0	 	     Ba Fl 		024	JuHl	M9 V M9 V	-3	(A00-2)	[0000]	B	16	-20
+1201	Star	B	1503	Are	X9B4000-0	 	     Ba Fl 		024	JuHl	M9 V M9 V	-3	(A00+2)	[0000]	B	16	20
+1240	Star	B	1503	Are	X9B4000-0	 	     Ba Fl 		024	Wild	M9 V M9 V	-3	(A00+2)	[0000]	B	16	20
+1508	Star	B	1503	Are	X9B4000-0	 	     Ba Fl 		024	Wild	M9 V M9 V	-3	(A00+1)	[0000]	B	16	10
+1900	Star	B	1503	Are	X9B4000-0	 	     Ba Fl 		024	Wild	M9 V M9 V	-3	(A00+1)	[0000]	B	16	10
+
+1105	Star	B	1506	Seduumedergu	E878336-6	 	     Lo 		300	JuHl	K2 V	-3	(920+3)	[3174]	B	11	54
+1201	Star	B	1506	Seduumedergu	X878200-5	 	     Lo 		800	JuHl	K2 V	-3	(910+1)	[2185]	B	11	9
+1240	Star	B	1506	Seduumedergu	X878000-5	 	     Di 		000	Wild	K2 V	-3	(900+4)	[0000]	B	11	36
+1508	Star	B	1506	Seduumedergu	X878000-5	 	     Di 		000	Wild	K2 V	-3	(900+1)	[0000]	B	11	9
+1900	Star	B	1506	Seduumedergu	X878000-5	 	     Di 		000	Wild	K2 V	-3	(900+1)	[0000]	B	11	9
+
+1105	Star	N	1533	Tokragr'	X000000-0	 	      As Va Ba 		013	CsTw	M4 V M8 V	-3	(C00+1)	[0000]	B	14	12
+1201	Star	N	1533	Tokragr'	X000000-0	 	      As Va Ba 		013	CsTw	M4 V M8 V	-3	(C00-1)	[0000]	B	14	-12
+1240	Star	N	1533	Tokragr'	X000000-0	 	      As Va Ba 		013	Wild	M4 V M8 V	-3	(C00+3)	[0000]	B	14	36
+1508	Star	N	1533	Tokragr'	X000000-0	 	      As Va Ba 		013	Wild	M4 V M8 V	-3	(C00+1)	[0000]	B	14	12
+1900	Star	N	1533	Tokragr'	X000000-0	 	      As Va Ba 		013	Wild	M4 V M8 V	-3	(C00-3)	[0000]	B	14	-36
+
+1105	Star	N	1535	R'ghirrtree	A442AA7-F	 	      He Hi In Po (NIL)		212	CsTw	G0 V	5	(69C-3)	[AF6D]	BEf	12	-1944
+1201	Star	N	1535	R'ghirrtree	X442224-8	 	      He Lo Po (NIL)		112	CsTw	G0 V	-3	(610-1)	[1129]	B	12	-6
+1240	Star	N	1535	R'ghirrtree	X442000-8	 	      Di He Po (NIL)		012	Wild	G0 V	-3	(600-3)	[0000]	B	12	-18
+1508	Star	N	1535	R'ghirrtree	X442000-8	 	      Di He Po (NIL)		012	Wild	G0 V	-3	(600-2)	[0000]	B	12	-12
+1900	Star	N	1535	R'ghirrtree	X442000-8	 	      Di He Po (NIL)		012	Wild	G0 V	-3	(600-4)	[0000]	B	12	-24
+
+1105	Star	N	1637	Akruu'ngra	X400000-0	 	     Ba Va 		010	CsTw	G7 V M6 V	-3	(800+1)	[0000]	B	9	8
+1201	Star	N	1637	Akruu'ngra	X400000-0	 	     Ba Va 		010	CsTw	G7 V M6 V	-3	(800+1)	[0000]	B	9	8
+1240	Star	N	1637	Akruu'ngra	X400000-0	 	     Ba Va 		010	Wild	G7 V M6 V	-3	(800-1)	[0000]	B	9	-8
+1508	Star	N	1637	Akruu'ngra	X400000-0	 	     Ba Va 		010	Wild	G7 V M6 V	-3	(800-2)	[0000]	B	9	-16
+1900	Star	N	1637	Akruu'ngra	X400000-0	 	     Ba Va 		010	Wild	G7 V M6 V	-3	(800-3)	[0000]	B	9	-24
+
+1105	Star	N	1638	Xkengk'kra	C200236-B	 	     Lo Va 		500	CsTw	K3 IV M0 V	0	(510-2)	[6278]	B	7	-10
+1201	Star	N	1638	Xkengk'kra	X200000-B	 	     Di Va 		000	CsTw	K3 IV M0 V	-1	(500+1)	[0000]	B	7	5
+1240	Star	N	1638	Xkengk'kra	X200000-B	 	     Di Va 		000	Wild	K3 IV M0 V	-1	(500-3)	[0000]	B	7	-15
+1508	Star	N	1638	Xkengk'kra	X200000-B	 	     Di Va 		000	Wild	K3 IV M0 V	-1	(500+1)	[0000]	B	7	5
+1900	Star	N	1638	Xkengk'kra	X200000-B	 	     Di Va 		000	Wild	K3 IV M0 V	-1	(500-1)	[0000]	B	7	-5
+
+1105	Star	N	1640	Grabkee	X434000-0	 	     Ba 		024	CsTw	M2 V	-3	(200+1)	[0000]	B	14	2
+1201	Star	N	1640	Grabkee	X434000-0	 	     Ba 		024	CsTw	M2 V	-3	(200-5)	[0000]	B	14	-10
+1240	Star	N	1640	Grabkee	X434000-0	 	     Ba 		024	Wild	M2 V	-3	(200-4)	[0000]	B	14	-8
+1508	Star	N	1640	Grabkee	X434000-0	 	     Ba 		024	Wild	M2 V	-3	(200-1)	[0000]	B	14	-2
+1900	Star	N	1640	Grabkee	X434000-0	 	     Ba 		024	Wild	M2 V	-3	(200-2)	[0000]	B	14	-4
+
+1105	Star	C	1702	Bagi	X200000-0	 	     Ba Va 		002	NaXX	G1 V	-3	(500+1)	[0000]	B	8	5
+1201	Star	C	1702	Bagi	X200000-0	 	     Ba Va 		002	NaXX	G1 V	-3	(500+1)	[0000]	B	8	5
+1240	Star	C	1702	Bagi	X200000-0	 	     Ba Va 		002	Wild	G1 V	-3	(500+3)	[0000]	B	8	15
+1508	Star	C	1702	Bagi	X200000-0	 	     Ba Va 		002	Wild	G1 V	-3	(500-3)	[0000]	B	8	-15
+1900	Star	C	1702	Bagi	X200000-0	 	     Ba Va 		002	Wild	G1 V	-3	(500-1)	[0000]	B	8	-5
+
+1105	Star	O	1733	Ghukreeraga	X330000-0	 	     Ba De Po 		013	CsTw	M0 V M4 V	-3	(400-5)	[0000]	B	11	-20
+1201	Star	O	1733	Ghukreeraga	X330000-0	 	     Ba De Po 		013	CsTw	M0 V M4 V	-3	(400-4)	[0000]	B	11	-16
+1240	Star	O	1733	Ghukreeraga	X330000-0	 	     Ba De Po 		013	Wild	M0 V M4 V	-3	(400+1)	[0000]	B	11	4
+1508	Star	O	1733	Ghukreeraga	X330000-0	 	     Ba De Po 		013	Wild	M0 V M4 V	-3	(400-5)	[0000]	B	11	-20
+1900	Star	O	1733	Ghukreeraga	X330000-0	 	     Ba De Po 		013	Wild	M0 V M4 V	-3	(400-1)	[0000]	B	11	-4
+
+1105	Star	O	1734	Trak!!	X8C4000-0	 	     Ba Fl 		000	CsTw	M1 V	-3	(500+1)	[0000]	B	12	5
+1201	Star	O	1734	Trak!!	X8C4000-0	 	     Ba Fl 		000	CsTw	M1 V	-3	(500+1)	[0000]	B	12	5
+1240	Star	O	1734	Trak!!	X8C4000-0	 	     Ba Fl 		000	Wild	M1 V	-3	(500-1)	[0000]	B	12	-5
+1508	Star	O	1734	Trak!!	X8C4000-0	 	     Ba Fl 		000	Wild	M1 V	-3	(500+2)	[0000]	B	12	10
+1900	Star	O	1734	Trak!!	X8C4000-0	 	     Ba Fl 		000	Wild	M1 V	-3	(500+1)	[0000]	B	12	5
+
+1105	Star	O	1736	X'kuoolgh'	X300000-0	 	     Ba Va 		012	NaXX	F8 V M7 V	-3	(900+4)	[0000]	B	15	36
+1201	Star	O	1736	X'kuoolgh'	X300000-0	 	     Ba Va 		012	NaXX	F8 V M7 V	-3	(900-1)	[0000]	B	15	-9
+1240	Star	O	1736	X'kuoolgh'	X300000-0	 	     Ba Va 		012	Wild	F8 V M7 V	-3	(900+1)	[0000]	B	15	9
+1508	Star	O	1736	X'kuoolgh'	X300000-0	 	     Ba Va 		012	Wild	F8 V M7 V	-3	(900-2)	[0000]	B	15	-18
+1900	Star	O	1736	X'kuoolgh'	X300000-0	 	     Ba Va 		012	Wild	F8 V M7 V	-3	(900+3)	[0000]	B	15	27
+
+1105	Star	O	1738	Tuxgra	X100000-0	 	     Ba Va 		003	CsTw	K6 V M2 V	-3	(900+1)	[0000]	B	13	9
+1201	Star	O	1738	Tuxgra	X100000-0	 	     Ba Va 		003	CsTw	K6 V M2 V	-3	(900-4)	[0000]	B	13	-36
+1240	Star	O	1738	Tuxgra	X100000-0	 	     Ba Va 		003	Wild	K6 V M2 V	-3	(900+1)	[0000]	B	13	9
+1508	Star	O	1738	Tuxgra	X100000-0	 	     Ba Va 		003	Wild	K6 V M2 V	-3	(900-3)	[0000]	B	13	-27
+1900	Star	O	1738	Tuxgra	X100000-0	 	     Ba Va 		003	Wild	K6 V M2 V	-3	(900-3)	[0000]	B	13	-27
+
+1105	Star	O	1834	Aghuu	CAAA779-9	 	     Fl (ENIL)		203	CsTw	M6 V	0	(A64+3)	[876A]	B	13	720
+1201	Star	O	1834	Aghuu	XAAA000-9	 	    Di Fl (ENIL)		003	CsTw	M6 V	-2	(A00+4)	[0000]	B	13	40
+1240	Star	O	1834	Aghuu	XAAA000-9	 	    Di Fl (ENIL)		003	Wild	M6 V	-2	(A00+1)	[0000]	B	13	10
+1508	Star	O	1834	Aghuu	XAAA000-9	 	    Di Fl (ENIL)		003	Wild	M6 V	-2	(A00+3)	[0000]	B	13	30
+1900	Star	O	1834	Aghuu	XAAA000-9	 	    Di Fl (ENIL)		003	Wild	M6 V	-2	(A00+2)	[0000]	B	13	20
+
+1105	Star	O	1837	N!!r	B38388C-9	 	     Ph Ri (NIL)		323	NaHu	F1 V M6 V	2	(E7C+1)	[5A45]	BCe	17	1176
+1201	Star	O	1837	N!!r	C3838BC-8	 	     Ph Ri (NIL)	B	423	NaHu	F1 V M6 V	0	(E77+3)	[C836]	BCe	17	2058
+1240	Star	O	1837	N!!r	C383884-5	 	     Ph Ri (NIL)		223	Wild	F1 V M6 V	0	(979+4)	[8834]	BCe	17	2268
+1508	Star	O	1837	N!!r	C38389A-6	 	     Ph Ri (NIL)		323	Wild	F1 V M6 V	0	(978+1)	[A895]	BCe	17	504
+1900	Star	O	1837	N!!r	C38388A-7	 	     Ph Ri (NIL)		423	Wild	F1 V M6 V	0	(978-2)	[5836]	BCe	17	-1008
+
+1105	Star	O	1838	Krutakimn'n	X310000-0	 	     Ba 		024	CsTw	G8 V	-3	(300+1)	[0000]	B	10	3
+1201	Star	O	1838	Krutakimn'n	X310000-0	 	     Ba 		024	CsTw	G8 V	-3	(300+1)	[0000]	B	10	3
+1240	Star	O	1838	Krutakimn'n	X310000-0	 	     Ba 		024	Wild	G8 V	-3	(300-3)	[0000]	B	10	-9
+1508	Star	O	1838	Krutakimn'n	X310000-0	 	     Ba 		024	Wild	G8 V	-3	(300-3)	[0000]	B	10	-9
+1900	Star	O	1838	Krutakimn'n	X310000-0	 	     Ba 		024	Wild	G8 V	-3	(300+4)	[0000]	B	10	12
+
+1105	Star	O	1840	Eenggzaa	C473322-6	 	     Lo 		924	CsTw	F2 V	-2	(720+2)	[6186]	B	14	28
+1201	Star	O	1840	Eenggzaa	E473136-5	 	     Lo 		124	CsTw	F2 V	-3	(700+1)	[1151]	B	14	7
+1240	Star	O	1840	Eenggzaa	E473000-5	 	     Di 		024	Wild	F2 V	-3	(700+5)	[0000]	B	14	35
+1508	Star	O	1840	Eenggzaa	E473000-5	 	     Di 		024	Wild	F2 V	-3	(700+2)	[0000]	B	14	14
+1900	Star	O	1840	Eenggzaa	E473000-5	 	     Di 		024	Wild	F2 V	-3	(700+2)	[0000]	B	14	14
+
+1105	Star	O	1932	Kaak'lookr	X130000-0	 	     Ba De Po 		024	CsTw	F8 V	-3	(500+5)	[0000]	B	15	25
+1201	Star	O	1932	Kaak'lookr	X130000-0	 	     Ba De Po 		024	CsTw	F8 V	-3	(500+1)	[0000]	B	15	5
+1240	Star	O	1932	Kaak'lookr	X130000-0	 	     Ba De Po 		024	Wild	F8 V	-3	(500-1)	[0000]	B	15	-5
+1508	Star	O	1932	Kaak'lookr	X130000-0	 	     Ba De Po 		024	Wild	F8 V	-3	(500-3)	[0000]	B	15	-15
+1900	Star	O	1932	Kaak'lookr	X130000-0	 	     Ba De Po 		024	Wild	F8 V	-3	(500-3)	[0000]	B	15	-15
+
+1105	Star	O	1939	Uregh!!gh'n	D978556-8	 	     Ag Ni 		404	CsTw	F8 V	-2	(F42-4)	[A377]	BC	13	-480
+1201	Star	O	1939	Uregh!!gh'n	X978554-7	 	     Ag Ni 	B	304	CsTw	F8 V	-2	(B40-2)	[6333]	BC	13	-88
+1240	Star	O	1939	Uregh!!gh'n	X978000-7	 	      Di 		004	Wild	F8 V	-3	(B00-1)	[0000]	B	13	-11
+1508	Star	O	1939	Uregh!!gh'n	X978000-7	 	      Di 		004	Wild	F8 V	-3	(B00+1)	[0000]	B	13	11
+1900	Star	O	1939	Uregh!!gh'n	X978000-7	 	      Di 		004	Wild	F8 V	-3	(B00+3)	[0000]	B	13	33
+
+1105	Star	O	2033	K!'rrkikr	D400331-8	 	     Lo Va 		124	CsTw	K4 IV	-3	(E20+2)	[7138]	B	15	56
+1201	Star	O	2033	K!'rrkikr	X400000-8	 	     Di Va 		024	CsTw	K4 IV	-3	(E00-1)	[0000]	B	15	-14
+1240	Star	O	2033	K!'rrkikr	X400000-8	 	     Di Va 		024	Wild	K4 IV	-3	(E00-2)	[0000]	B	15	-28
+1508	Star	O	2033	K!'rrkikr	X400000-8	 	     Di Va 		024	Wild	K4 IV	-3	(E00-2)	[0000]	B	15	-28
+1900	Star	O	2033	K!'rrkikr	X400000-8	 	     Di Va 		024	Wild	K4 IV	-3	(E00+1)	[0000]	B	15	14
+
+1105	Star	O	2034	Raxkk'	D8A2255-9	 	      Fl He Lo 		305	CsTw	M1 V M6 V	-2	(C10-3)	[2174]	B	12	-36
+1201	Star	O	2034	Raxkk'	X8A2000-9	 	      Di Fl He 		005	CsTw	M1 V M6 V	-2	(C00+1)	[0000]	B	12	12
+1240	Star	O	2034	Raxkk'	X8A2000-9	 	      Di Fl He 		005	Wild	M1 V M6 V	-2	(C00-4)	[0000]	B	12	-48
+1508	Star	O	2034	Raxkk'	X8A2000-9	 	      Di Fl He 		005	Wild	M1 V M6 V	-2	(C00-4)	[0000]	B	12	-48
+1900	Star	O	2034	Raxkk'	X8A2000-9	 	      Di Fl He 		005	Wild	M1 V M6 V	-2	(C00+1)	[0000]	B	12	12
+
+1105	Star	O	2035	K!mbe	A77A689-A	 	     Ni Wa 		212	CsTw	F4 V M7 V	1	(756+1)	[378B]	B	10	210
+1201	Star	O	2035	K!mbe	C77A5A8-8	 	     Ni Wa 		212	CsTw	F4 V M7 V	-2	(740-1)	[436A]	B	10	-28
+1240	Star	O	2035	K!mbe	D77A000-8	 	     Di Wa 		012	Wild	F4 V M7 V	-3	(700+4)	[0000]	B	10	28
+1508	Star	O	2035	K!mbe	D77A000-8	 	     Di Wa 		012	Wild	F4 V M7 V	-3	(700+1)	[0000]	B	10	7
+1900	Star	O	2035	K!mbe	D77A000-8	 	     Di Wa 		012	Wild	F4 V M7 V	-3	(700+1)	[0000]	B	10	7
+
+1105	Star	O	2036	Nakrkralagh'	X633000-0	 	     Ba Po 		004	NaXX	K4 V	-3	(400-1)	[0000]	B	11	-4
+1201	Star	O	2036	Nakrkralagh'	X633000-0	 	     Ba Po 		004	NaXX	K4 V	-3	(400+4)	[0000]	B	11	16
+1240	Star	O	2036	Nakrkralagh'	X633000-0	 	     Ba Po 		004	Wild	K4 V	-3	(400-4)	[0000]	B	11	-16
+1508	Star	O	2036	Nakrkralagh'	X633000-0	 	     Ba Po 		004	Wild	K4 V	-3	(400+1)	[0000]	B	11	4
+1900	Star	O	2036	Nakrkralagh'	X633000-0	 	     Ba Po 		004	Wild	K4 V	-3	(400-3)	[0000]	B	11	-12
+
+1105	Star	O	2037	Tixratarka	C252445-8	 	     Ni Po 		903	NaHu	F6 V	-2	(D30-3)	[2277]	B	15	-117
+1201	Star	O	2037	Tixratarka	E252499-7	 	     Ni Po 		503	NaHu	F6 V	-3	(A31+1)	[6149]	B	15	30
+1240	Star	O	2037	Tixratarka	E252000-7	 	     Di Po 		003	Wild	F6 V	-3	(A00-2)	[0000]	B	15	-20
+1508	Star	O	2037	Tixratarka	E252000-7	 	     Di Po 		003	Wild	F6 V	-3	(A00+2)	[0000]	B	15	20
+1900	Star	O	2037	Tixratarka	E252000-7	 	     Di Po 		003	Wild	F6 V	-3	(A00+2)	[0000]	B	15	20
+
+1105	Star	O	2039	Kr!'rreeng	C664A9B-7	 	     Hi (NIL)		120	CsTw	F9 V	0	(39A+2)	[9A76]	BE	10	540
+1201	Star	O	2039	Kr!'rreeng	E664135-5	 	     Lo (NIL)		620	CsTw	F9 V	-3	(300-1)	[11A8]	B	10	-3
+1240	Star	O	2039	Kr!'rreeng	E664000-5	 	     Di (NIL)		020	Wild	F9 V	-3	(300+3)	[0000]	B	10	9
+1508	Star	O	2039	Kr!'rreeng	E664000-5	 	     Di (NIL)		020	Wild	F9 V	-3	(300+1)	[0000]	B	10	3
+1900	Star	O	2039	Kr!'rreeng	E664000-5	 	     Di (NIL)		020	Wild	F9 V	-3	(300-3)	[0000]	B	10	-9
+
+1105	Star	O	2132	Arrax	X6A3000-0	 	     Ba Fl 		000	CsTw	M3 III K7 V	-3	(600+4)	[0000]	B	12	24
+1201	Star	O	2132	Arrax	X6A3000-0	 	     Ba Fl 		000	CsTw	M3 III K7 V	-3	(600-1)	[0000]	B	12	-6
+1240	Star	O	2132	Arrax	X6A3000-0	 	     Ba Fl 		000	Wild	M3 III K7 V	-3	(600+1)	[0000]	B	12	6
+1508	Star	O	2132	Arrax	X6A3000-0	 	     Ba Fl 		000	Wild	M3 III K7 V	-3	(600-3)	[0000]	B	12	-18
+1900	Star	O	2132	Arrax	X6A3000-0	 	     Ba Fl 		000	Wild	M3 III K7 V	-3	(600+3)	[0000]	B	12	18
+
+1105	Star	O	2134	Bukak'krgr'	X324000-0	 	     Ba 		024	CsTw	M8 V	-3	(400+2)	[0000]	B	15	8
+1201	Star	O	2134	Bukak'krgr'	X324000-0	 	     Ba 		024	CsTw	M8 V	-3	(400+4)	[0000]	B	15	16
+1240	Star	O	2134	Bukak'krgr'	X324000-0	 	     Ba 		024	Wild	M8 V	-3	(400+1)	[0000]	B	15	4
+1508	Star	O	2134	Bukak'krgr'	X324000-0	 	     Ba 		024	Wild	M8 V	-3	(400+1)	[0000]	B	15	4
+1900	Star	O	2134	Bukak'krgr'	X324000-0	 	     Ba 		024	Wild	M8 V	-3	(400+1)	[0000]	B	15	4
+
+1105	Star	O	2137	Ikraa	X120000-0	 	     Ba De Po 		002	CsTw	M9 V	-3	(B00+1)	[0000]	B	8	11
+1201	Star	O	2137	Ikraa	X120000-0	 	     Ba De Po 		002	CsTw	M9 V	-3	(B00+2)	[0000]	B	8	22
+1240	Star	O	2137	Ikraa	X120000-0	 	     Ba De Po 		002	Wild	M9 V	-3	(B00-1)	[0000]	B	8	-11
+1508	Star	O	2137	Ikraa	X120000-0	 	     Ba De Po 		002	Wild	M9 V	-3	(B00-3)	[0000]	B	8	-33
+1900	Star	O	2137	Ikraa	X120000-0	 	     Ba De Po 		002	Wild	M9 V	-3	(B00-1)	[0000]	B	8	-11
+
+1105	Star	O	2140	'ng	X625000-0	 	     Ba 		004	CsTw	G6 V	-3	(500-2)	[0000]	B	9	-10
+1201	Star	O	2140	'ng	X625000-0	 	     Ba 		004	CsTw	G6 V	-3	(500+1)	[0000]	B	9	5
+1240	Star	O	2140	'ng	X625000-0	 	     Ba 		004	Wild	G6 V	-3	(500-2)	[0000]	B	9	-10
+1508	Star	O	2140	'ng	X625000-0	 	     Ba 		004	Wild	G6 V	-3	(500+1)	[0000]	B	9	5
+1900	Star	O	2140	'ng	X625000-0	 	     Ba 		004	Wild	G6 V	-3	(500+5)	[0000]	B	9	25
+
+1105	Star	O	2231	Krii	B565878-7	 	      Pa Ri Ph (NIL)		204	CsTw	G9 V	2	(677+3)	[8A39]	BcCe	13	882
+1201	Star	O	2231	Krii	X565887-4	 	      Pa Ri Ph (NIL)	B	304	CsTw	G9 V	-1	(675+1)	[6764]	BcCe	13	210
+1240	Star	O	2231	Krii	X565885-0	 	      Pa Ri Ph (NIL)		104	Wild	G9 V	-1	(673-2)	[B721]	BcCe	13	-252
+1508	Star	O	2231	Krii	X565777-0	 	       Ag Ri (NIL)		904	Wild	G9 V	0	(666-2)	[A741]	BC	13	-432
+1900	Star	O	2231	Krii	X56579C-0	 	       Ag Ri (NIL)		804	Wild	G9 V	0	(668-1)	[5721]	BC	13	-288
+
+1105	Star	O	2234	Rupoghung	A999888-B	 	     Ph Pi (NIL)		504	CsTw	F3 V	2	(B7B+2)	[7A4F]	BDe	14	1694
+1201	Star	O	2234	Rupoghung	X99986E-7	 	     Ph Pi (NIL)	B	504	CsTw	F3 V	-2	(773+2)	[766A]	BDe	14	294
+1240	Star	O	2234	Rupoghung	X999757-0	 	      Pi (NIL)		204	Wild	F3 V	-2	(767-4)	[6573]	BD	14	-1176
+1508	Star	O	2234	Rupoghung	X99978B-0	 	      Pi (NIL)		104	Wild	F3 V	-2	(76A+3)	[6511]	BD	14	1260
+1900	Star	O	2234	Rupoghung	X999687-1	 	      Ni (NIL)		904	Wild	F3 V	-3	(750-3)	[8373]	B	14	-105
+
+1105	Star	O	2236	Lera	A664ACA-B	 	     Hi (NIL)		113	CsTw	F6 V M8 V	3	(E99+2)	[CDAD]	BE	13	2268
+1201	Star	O	2236	Lera	X664551-5	 	    Ag Pr Ni (NIL)		513	CsTw	F6 V M8 V	-2	(A44+1)	[4345]	BcC	13	160
+1240	Star	O	2236	Lera	X664553-0	 	    Ag Pr Ni (NIL)		213	Wild	F6 V M8 V	-2	(A40+1)	[5371]	BcC	13	40
+1508	Star	O	2236	Lera	X66457B-0	 	    Ag Pr Ni (NIL)		213	Wild	F6 V M8 V	-2	(A44+1)	[63A1]	BcC	13	160
+1900	Star	O	2236	Lera	X664554-0	 	    Ag Pr Ni (NIL)		313	Wild	F6 V M8 V	-2	(A43-1)	[A381]	BcC	13	-120
+
+1105	Star	C	2303	Isugiismuu	X794000-0	 	     Ba 		004	NaXX	F0 V	-3	(700-1)	[0000]	B	13	-7
+1201	Star	C	2303	Isugiismuu	X794000-0	 	     Ba 		004	NaXX	F0 V	-3	(700-4)	[0000]	B	13	-28
+1240	Star	C	2303	Isugiismuu	X794000-0	 	     Ba 		004	Wild	F0 V	-3	(700+4)	[0000]	B	13	28
+1508	Star	C	2303	Isugiismuu	X794000-0	 	     Ba 		004	Wild	F0 V	-3	(700+3)	[0000]	B	13	21
+1900	Star	C	2303	Isugiismuu	X794000-0	 	     Ba 		004	Wild	F0 V	-3	(700+2)	[0000]	B	13	14
+
+1105	Star	O	2332	Rratr!kuuakr	X537000-0	 	     Ba 		003	CsTw	M1 V M5 V	-3	(700+1)	[0000]	B	8	7
+1201	Star	O	2332	Rratr!kuuakr	X537000-0	 	     Ba 		003	CsTw	M1 V M5 V	-3	(700+3)	[0000]	B	8	21
+1240	Star	O	2332	Rratr!kuuakr	X537000-0	 	     Ba 		003	Wild	M1 V M5 V	-3	(700+1)	[0000]	B	8	7
+1508	Star	O	2332	Rratr!kuuakr	X537000-0	 	     Ba 		003	Wild	M1 V M5 V	-3	(700-3)	[0000]	B	8	-21
+1900	Star	O	2332	Rratr!kuuakr	X537000-0	 	     Ba 		003	Wild	M1 V M5 V	-3	(700+3)	[0000]	B	8	21
+
+1105	Star	O	2333	N!hkateek'r	X230000-0	 	     Ba De Po 		023	CsTw	M5 III M0 V K3 V	-3	(A00+2)	[0000]	B	9	20
+1201	Star	O	2333	N!hkateek'r	X230000-0	 	     Ba De Po 		023	CsTw	M5 III M0 V K3 V	-3	(A00+5)	[0000]	B	9	50
+1240	Star	O	2333	N!hkateek'r	X230000-0	 	     Ba De Po 		023	Wild	M5 III M0 V K3 V	-3	(A00-4)	[0000]	B	9	-40
+1508	Star	O	2333	N!hkateek'r	X230000-0	 	     Ba De Po 		023	Wild	M5 III M0 V K3 V	-3	(A00+3)	[0000]	B	9	30
+1900	Star	O	2333	N!hkateek'r	X230000-0	 	     Ba De Po 		023	Wild	M5 III M0 V K3 V	-3	(A00+2)	[0000]	B	9	20
+
+1105	Star	O	2340	K'r	A578798-C	 	      Ag Pi (NIL)		920	NaHu	F1 V	3	(B67+3)	[8A28]	BCD	6	1386
+1201	Star	O	2340	K'r	X57876B-2	 	      Ag Pi (NIL)	B	820	NaHu	F1 V	-1	(963+4)	[56A2]	BCD	6	648
+1240	Star	O	2340	K'r	X578742-0	 	      Ag Pi (NIL)		420	Wild	F1 V	-1	(96B+1)	[C651]	BCD	6	594
+1508	Star	O	2340	K'r	X57877A-1	 	      Ag Pi (NIL)		520	Wild	F1 V	-1	(966-3)	[7651]	BCD	6	-972
+1900	Star	O	2340	K'r	X578788-2	 	      Ag Pi (NIL)		620	Wild	F1 V	-1	(969+1)	[A681]	BCD	6	486
+
+1105	Star	O	2432	Krookroonuup	X210000-0	 	     Ba 		003	NaXX	M1 V M2 V	-3	(800-1)	[0000]	B	13	-8
+1201	Star	O	2432	Krookroonuup	X210000-0	 	     Ba 		003	NaXX	M1 V M2 V	-3	(800-3)	[0000]	B	13	-24
+1240	Star	O	2432	Krookroonuup	X210000-0	 	     Ba 		003	Wild	M1 V M2 V	-3	(800+1)	[0000]	B	13	8
+1508	Star	O	2432	Krookroonuup	X210000-0	 	     Ba 		003	Wild	M1 V M2 V	-3	(800+3)	[0000]	B	13	24
+1900	Star	O	2432	Krookroonuup	X210000-0	 	     Ba 		003	Wild	M1 V M2 V	-3	(800+1)	[0000]	B	13	8
+
+1105	Star	O	2434	Ktapalookxta	X220000-0	 	     Ba De Po 		013	NaXX	M1 V	-3	(400-2)	[0000]	B	11	-8
+1201	Star	O	2434	Ktapalookxta	X220000-0	 	     Ba De Po 		013	NaXX	M1 V	-3	(400-2)	[0000]	B	11	-8
+1240	Star	O	2434	Ktapalookxta	X220000-0	 	     Ba De Po 		013	Wild	M1 V	-3	(400+2)	[0000]	B	11	8
+1508	Star	O	2434	Ktapalookxta	X220000-0	 	     Ba De Po 		013	Wild	M1 V	-3	(400-2)	[0000]	B	11	-8
+1900	Star	O	2434	Ktapalookxta	X220000-0	 	     Ba De Po 		013	Wild	M1 V	-3	(400-1)	[0000]	B	11	-4
+
+1105	Star	O	2436	T'rk'kroo	B425232-9	 	     Lo 		902	NaHu	M1 V	0	(810+1)	[227A]	B	15	8
+1201	Star	O	2436	T'rk'kroo	X425000-9	 	     Di 		002	NaHu	M1 V	-2	(800+1)	[0000]	B	15	8
+1240	Star	O	2436	T'rk'kroo	X425000-9	 	     Di 		002	Wild	M1 V	-2	(800+2)	[0000]	B	15	16
+1508	Star	O	2436	T'rk'kroo	X425000-9	 	     Di 		002	Wild	M1 V	-2	(800-3)	[0000]	B	15	-24
+1900	Star	O	2436	T'rk'kroo	X425000-9	 	     Di 		002	Wild	M1 V	-2	(800+2)	[0000]	B	15	16
+
+1105	Star	O	2438	Uuaglak	A89797B-8	 	     Hi In (NIL)		123	NaHu	F1 V M2 V	2	(C87+1)	[DB19]	BE	12	672
+1201	Star	O	2438	Uuaglak	C89797A-8	 	     Hi In (NIL)	B	223	NaHu	F1 V M2 V	1	(C88+1)	[9A56]	BE	12	768
+1240	Star	O	2438	Uuaglak	C8979CA-2	 	     Hi In (NIL)		123	Wild	F1 V M2 V	1	(78A-5)	[AA57]	BE	12	-2800
+1508	Star	O	2438	Uuaglak	C8979BE-3	 	     Hi In (NIL)		223	Wild	F1 V M2 V	1	(788+1)	[9A81]	BE	12	448
+1900	Star	O	2438	Uuaglak	C897988-4	 	     Hi In (NIL)		323	Wild	F1 V M2 V	1	(78C+4)	[BA96]	BE	12	2688
+
+1105	Star	O	2439	Arukigh	X230000-0	 	     Ba De Po 		003	NaXX	M7 V	-3	(C00-4)	[0000]	B	14	-48
+1201	Star	O	2439	Arukigh	X230000-0	 	     Ba De Po 		003	NaXX	M7 V	-3	(C00+2)	[0000]	B	14	24
+1240	Star	O	2439	Arukigh	X230000-0	 	     Ba De Po 		003	Wild	M7 V	-3	(C00+3)	[0000]	B	14	36
+1508	Star	O	2439	Arukigh	X230000-0	 	     Ba De Po 		003	Wild	M7 V	-3	(C00+1)	[0000]	B	14	12
+1900	Star	O	2439	Arukigh	X230000-0	 	     Ba De Po 		003	Wild	M7 V	-3	(C00+1)	[0000]	B	14	12
+
+1105	Star	L	2522	!!m	X766000-0	 	     Ba Ga 		013	NaXX	F5 V	-3	(C00+2)	[0000]	B	11	24
+1201	Star	L	2522	!!m	X766000-0	 	     Ba Ga 		013	NaXX	F5 V	-3	(C00-5)	[0000]	B	11	-60
+1240	Star	L	2522	!!m	X766000-0	 	     Ba Ga 		013	Wild	F5 V	-3	(C00-3)	[0000]	B	11	-36
+1508	Star	L	2522	!!m	X766000-0	 	     Ba Ga 		013	Wild	F5 V	-3	(C00+3)	[0000]	B	11	36
+1900	Star	L	2522	!!m	X766000-0	 	     Ba Ga 		013	Wild	F5 V	-3	(C00-2)	[0000]	B	11	-24
+
+1105	Star	P	2533	Riirt'ka	X224000-0	 	     Ba 		003	NaXX	G7 V M5 V	-3	(700-2)	[0000]	B	11	-14
+1201	Star	P	2533	Riirt'ka	X224000-0	 	     Ba 		003	NaXX	G7 V M5 V	-3	(700-4)	[0000]	B	11	-28
+1240	Star	P	2533	Riirt'ka	X224000-0	 	     Ba 		003	Wild	G7 V M5 V	-3	(700+1)	[0000]	B	11	7
+1508	Star	P	2533	Riirt'ka	X224000-0	 	     Ba 		003	Wild	G7 V M5 V	-3	(700-2)	[0000]	B	11	-14
+1900	Star	P	2533	Riirt'ka	X224000-0	 	     Ba 		003	Wild	G7 V M5 V	-3	(700+2)	[0000]	B	11	14
+
+1105	Star	P	2534	K'xk!'nkar	X300000-0	 	     Ba Va 		011	NaXX	G2 III M7 V	-3	(800+3)	[0000]	B	11	24
+1201	Star	P	2534	K'xk!'nkar	X300000-0	 	     Ba Va 		011	NaXX	G2 III M7 V	-3	(800-5)	[0000]	B	11	-40
+1240	Star	P	2534	K'xk!'nkar	X300000-0	 	     Ba Va 		011	Wild	G2 III M7 V	-3	(800-2)	[0000]	B	11	-16
+1508	Star	P	2534	K'xk!'nkar	X300000-0	 	     Ba Va 		011	Wild	G2 III M7 V	-3	(800+1)	[0000]	B	11	8
+1900	Star	P	2534	K'xk!'nkar	X300000-0	 	     Ba Va 		011	Wild	G2 III M7 V	-3	(800-1)	[0000]	B	11	-8
+
+1105	Star	P	2535	Akub	X435000-0	 	     Ba 		000	NaXX	K0 V	-3	(800+1)	[0000]	B	8	8
+1201	Star	P	2535	Akub	X435000-0	 	     Ba 		000	NaXX	K0 V	-3	(800+1)	[0000]	B	8	8
+1240	Star	P	2535	Akub	X435000-0	 	     Ba 		000	Wild	K0 V	-3	(800+1)	[0000]	B	8	8
+1508	Star	P	2535	Akub	X435000-0	 	     Ba 		000	Wild	K0 V	-3	(800+1)	[0000]	B	8	8
+1900	Star	P	2535	Akub	X435000-0	 	     Ba 		000	Wild	K0 V	-3	(800+2)	[0000]	B	8	16
+
+1105	Star	P	2538	Rr!trukr	C656984-8	 	     Ga Hi (NIL)		405	NaHu	F0 V	0	(A8B+1)	[B9A7]	BE	16	880
+1201	Star	P	2538	Rr!trukr	E656552-7	 	    Ag Ga Ni (NIL)		305	NaHu	F0 V	-2	(540+1)	[1313]	BC	16	20
+1240	Star	P	2538	Rr!trukr	E656000-7	 	     Di Ga (NIL)		005	Wild	F0 V	-3	(500-1)	[0000]	B	16	-5
+1508	Star	P	2538	Rr!trukr	E656000-7	 	     Di Ga (NIL)		005	Wild	F0 V	-3	(500-5)	[0000]	B	16	-25
+1900	Star	P	2538	Rr!trukr	E656000-7	 	     Di Ga (NIL)		005	Wild	F0 V	-3	(500+1)	[0000]	B	16	5
+
+1105	Star	P	2633	R'raateerrku	A667997-A	 	     Ga Hi Pr (NIL)		502	NaHu	F9 V	3	(B88+1)	[DC39]	BcE	10	704
+1201	Star	P	2633	R'raateerrku	X667967-5	 	     Ga Hi Pr (NIL)	B	502	NaHu	F9 V	-1	(987+2)	[6811]	BcE	10	1008
+1240	Star	P	2633	R'raateerrku	X6679BC-0	 	     Ga Hi Pr (NIL)		202	Wild	F9 V	-1	(986+1)	[D812]	BcE	10	432
+1508	Star	P	2633	R'raateerrku	X667985-0	 	     Ga Hi Pr (NIL)		102	Wild	F9 V	-1	(983-2)	[9821]	BcE	10	-432
+1900	Star	P	2633	R'raateerrku	X667974-0	 	     Ga Hi Pr (NIL)		202	Wild	F9 V	-1	(983+2)	[B893]	BcE	10	432
+
+1105	Star	P	2639	N!'kuukgnuk	A657684-7	 	     Ag Ga Ni 		305	NaHu	F0 V M8 V	0	(951+2)	[168B]	BC	17	90
+1201	Star	P	2639	N!'kuukgnuk	C657620-7	 	     Ag Ga Ni 		405	NaHu	F0 V M8 V	-1	(950-2)	[4597]	BC	17	-90
+1240	Star	P	2639	N!'kuukgnuk	C657657-2	 	     Ag Ga Ni 		205	Wild	F0 V M8 V	-1	(953+1)	[A572]	BC	17	135
+1508	Star	P	2639	N!'kuukgnuk	C657688-2	 	     Ag Ga Ni 		105	Wild	F0 V M8 V	-1	(953+1)	[9551]	BC	17	135
+1900	Star	P	2639	N!'kuukgnuk	C657658-4	 	     Ag Ga Ni 		205	Wild	F0 V M8 V	-1	(953+1)	[4525]	BC	17	135
+
+1105	Star	P	2640	Ikukr	X427000-0	 	     Ba 		024	NaXX	K1 IV	-3	(600+1)	[0000]	B	10	6
+1201	Star	P	2640	Ikukr	X427000-0	 	     Ba 		024	NaXX	K1 IV	-3	(600+1)	[0000]	B	10	6
+1240	Star	P	2640	Ikukr	X427000-0	 	     Ba 		024	Wild	K1 IV	-3	(600+3)	[0000]	B	10	18
+1508	Star	P	2640	Ikukr	X427000-0	 	     Ba 		024	Wild	K1 IV	-3	(600+1)	[0000]	B	10	6
+1900	Star	P	2640	Ikukr	X427000-0	 	     Ba 		024	Wild	K1 IV	-3	(600+1)	[0000]	B	10	6
+
+1105	Star	P	2733	Neim	X6A4000-0	 	     Ba Fl 		003	NaXX	M2 V M7 V	-3	(900-1)	[0000]	B	11	-9
+1201	Star	P	2733	Neim	X6A4000-0	 	     Ba Fl 		003	NaXX	M2 V M7 V	-3	(900-3)	[0000]	B	11	-27
+1240	Star	P	2733	Neim	X6A4000-0	 	     Ba Fl 		003	Wild	M2 V M7 V	-3	(900+4)	[0000]	B	11	36
+1508	Star	P	2733	Neim	X6A4000-0	 	     Ba Fl 		003	Wild	M2 V M7 V	-3	(900-2)	[0000]	B	11	-18
+1900	Star	P	2733	Neim	X6A4000-0	 	     Ba Fl 		003	Wild	M2 V M7 V	-3	(900-4)	[0000]	B	11	-36
+
+1105	Star	P	2734	Kraax	D487300-3	 	     Lo 		514	NaHu	G5 V	-3	(920+4)	[1176]	B	13	72
+1201	Star	P	2734	Kraax	X487134-2	 	     Lo 		714	NaHu	G5 V	-3	(900-2)	[1171]	B	13	-18
+1240	Star	P	2734	Kraax	X487000-2	 	     Di 		014	Wild	G5 V	-3	(900+2)	[0000]	B	13	18
+1508	Star	P	2734	Kraax	X487000-2	 	     Di 		014	Wild	G5 V	-3	(900+1)	[0000]	B	13	9
+1900	Star	P	2734	Kraax	X487000-2	 	     Di 		014	Wild	G5 V	-3	(900-3)	[0000]	B	13	-27
+
+1105	Star	P	2735	Kru	A4577CD-C	 	     Ag (NIL)		222	NaHu	F9 V	3	(G65-3)	[5A7G]	BC	11	-1440
+1201	Star	P	2735	Kru	X45766C-0	 	    Ag Ni (NIL)	B	922	NaHu	F9 V	-2	(C53+1)	[8471]	BC	11	180
+1240	Star	P	2735	Kru	X457658-1	 	    Ag Ni (NIL)		422	Wild	F9 V	-2	(C53+3)	[7454]	BC	11	540
+1508	Star	P	2735	Kru	X4576AD-1	 	    Ag Ni (NIL)		322	Wild	F9 V	-2	(C51-4)	[4432]	BC	11	-240
+1900	Star	P	2735	Kru	X457679-2	 	    Ag Ni (NIL)		422	Wild	F9 V	-2	(C52+4)	[5422]	BC	11	480
+
+1105	Star	P	2736	Arrlak!	C3747AA-7	 	      Ag Pi (NIL)		901	NaHu	G8 V	0	(965-1)	[6762]	BCD	9	-270
+1201	Star	P	2736	Arrlak!	E374897-6	 	     Pa Pi Ph (NIL)		101	NaHu	G8 V	-2	(970-5)	[A696]	BcDe	9	-315
+1240	Star	P	2736	Arrlak!	E374721-3	 	      Ag Pi (NIL)		501	Wild	G8 V	-1	(963+2)	[9621]	BCD	9	324
+1508	Star	P	2736	Arrlak!	E374789-4	 	      Ag Pi (NIL)		401	Wild	G8 V	-1	(967+1)	[8671]	BCD	9	378
+1900	Star	P	2736	Arrlak!	E3747B9-5	 	      Ag Pi (NIL)		501	Wild	G8 V	-1	(963+1)	[8644]	BCD	9	162
+
+1105	Star	P	2737	Eehkaekxtii	D6688BF-3	 	      Pa Ri Ph (NIL)		714	NaHu	F6 V M1 V	-1	(B77-2)	[7762]	BcCe	14	-1078
+1201	Star	P	2737	Eehkaekxtii	X668884-3	 	      Pa Ri Ph (NIL)	B	814	NaHu	F6 V M1 V	-1	(B77+1)	[8726]	BcCe	14	539
+1240	Star	P	2737	Eehkaekxtii	X668843-0	 	      Pa Ri Ph (NIL)		414	Wild	F6 V M1 V	-1	(B78-1)	[8721]	BcCe	14	-616
+1508	Star	P	2737	Eehkaekxtii	X6688AC-0	 	      Pa Ri Ph (NIL)		514	Wild	F6 V M1 V	-1	(B74+3)	[B781]	BcCe	14	924
+1900	Star	P	2737	Eehkaekxtii	X668879-0	 	      Pa Ri Ph (NIL)		614	Wild	F6 V M1 V	-1	(B71-2)	[9721]	BcCe	14	-154
+
+1105	Star	P	2738	Anghirgrook	B537463-B	 	    O:2837  Ni 		104	NaHu	M6 II	1	(B34+1)	[857D]	B	9	132
+1201	Star	P	2738	Anghirgrook	X537000-B	 	    O:2837  Di 		004	NaHu	M6 II	-1	(B00-2)	[0000]	B	9	-22
+1240	Star	P	2738	Anghirgrook	X537000-B	 	    O:2837  Di 		004	Wild	M6 II	-1	(B00+2)	[0000]	B	9	22
+1508	Star	P	2738	Anghirgrook	X537000-B	 	    O:2837  Di 		004	Wild	M6 II	-1	(B00-1)	[0000]	B	9	-11
+1900	Star	P	2738	Anghirgrook	X537000-B	 	    O:2837  Di 		004	Wild	M6 II	-1	(B00-1)	[0000]	B	9	-11
+
+1105	Star	P	2739	Kt'rril	B365347-9	 	     Lo 		910	NaHu	G1 V	0	(720+2)	[531B]	B	9	28
+1201	Star	P	2739	Kt'rril	D365173-7	 	     Lo 		510	NaHu	G1 V	-3	(600+1)	[1176]	B	9	6
+1240	Star	P	2739	Kt'rril	D365000-7	 	     Di 		010	Wild	G1 V	-3	(600+1)	[0000]	B	9	6
+1508	Star	P	2739	Kt'rril	D365000-7	 	     Di 		010	Wild	G1 V	-3	(600-1)	[0000]	B	9	-6
+1900	Star	P	2739	Kt'rril	D365000-7	 	     Di 		010	Wild	G1 V	-3	(600+1)	[0000]	B	9	6
+
+1105	Star	P	2833	Ixtool	X200000-0	 	     Ba Va 		024	CsTw	K0 IV	-3	(400+2)	[0000]	B	16	8
+1201	Star	P	2833	Ixtool	X200000-0	 	     Ba Va 		024	CsTw	K0 IV	-3	(400-5)	[0000]	B	16	-20
+1240	Star	P	2833	Ixtool	X200000-0	 	     Ba Va 		024	Wild	K0 IV	-3	(400+1)	[0000]	B	16	4
+1508	Star	P	2833	Ixtool	X200000-0	 	     Ba Va 		024	Wild	K0 IV	-3	(400+1)	[0000]	B	16	4
+1900	Star	P	2833	Ixtool	X200000-0	 	     Ba Va 		024	Wild	K0 IV	-3	(400-3)	[0000]	B	16	-12
+
+1105	Star	P	2837	Kuruutar	B422AAE-E	 	       He Hi Na In Po (NIL)		103	NaHu	G9 V	4	(A9A+1)	[CE99]	BEf	10	900
+1201	Star	P	2837	Kuruutar	X422000-E	 	       Di He Na In Po (NIL)		003	NaHu	G9 V	0	(A00+2)	[0000]	BE	10	20
+1240	Star	P	2837	Kuruutar	X422000-E	 	       Di He Na In Po (NIL)		003	Wild	G9 V	0	(A00+2)	[0000]	BE	10	20
+1508	Star	P	2837	Kuruutar	X422000-E	 	       Di He Po (NIL)		003	Wild	G9 V	-1	(A00+1)	[0000]	B	10	10
+1900	Star	P	2837	Kuruutar	X422000-E	 	       Di He Po (NIL)		003	Wild	G9 V	-1	(A00-2)	[0000]	B	10	-20
+
+1105	Star	P	2932	X'rra	D887558-3	 	      Ag Pr Ga Ni 		805	CsTw	F7 V M1 V	-2	(842+1)	[5341]	BcC	15	64
+1201	Star	P	2932	X'rra	X88756B-0	 	      Ag Pr Ga Ni 	B	505	CsTw	F7 V M1 V	-2	(840+3)	[7342]	BcC	15	96
+1240	Star	P	2932	X'rra	X887555-0	 	      Ag Pr Ga Ni 		205	Wild	F7 V M1 V	-2	(840-3)	[1371]	BcC	15	-96
+1508	Star	P	2932	X'rra	X887500-0	 	      Ag Pr Ga Ni 		205	Wild	F7 V M1 V	-2	(841+5)	[1311]	BcC	15	160
+1900	Star	P	2932	X'rra	X887558-0	 	      Ag Pr Ga Ni 		305	Wild	F7 V M1 V	-2	(842+3)	[8382]	BcC	15	192
+
+1105	Star	P	2933	Ak!'k!k	X000000-0	 	      As Va Ba 		014	CsTw	M3 V M9 V	-3	(800+1)	[0000]	B	15	8
+1201	Star	P	2933	Ak!'k!k	X000000-0	 	      As Va Ba 		014	CsTw	M3 V M9 V	-3	(800-4)	[0000]	B	15	-32
+1240	Star	P	2933	Ak!'k!k	X000000-0	 	      As Va Ba 		014	Wild	M3 V M9 V	-3	(800-1)	[0000]	B	15	-8
+1508	Star	P	2933	Ak!'k!k	X000000-0	 	      As Va Ba 		014	Wild	M3 V M9 V	-3	(800+4)	[0000]	B	15	32
+1900	Star	P	2933	Ak!'k!k	X000000-0	 	      As Va Ba 		014	Wild	M3 V M9 V	-3	(800+1)	[0000]	B	15	8
+
+1105	Star	P	2934	Angkurab	X5A1000-0	 	      Ba Fl He 		022	CsTw	M2 V	-3	(700+1)	[0000]	B	15	7
+1201	Star	P	2934	Angkurab	X5A1000-0	 	      Ba Fl He 		022	CsTw	M2 V	-3	(700+1)	[0000]	B	15	7
+1240	Star	P	2934	Angkurab	X5A1000-0	 	      Ba Fl He 		022	Wild	M2 V	-3	(700+1)	[0000]	B	15	7
+1508	Star	P	2934	Angkurab	X5A1000-0	 	      Ba Fl He 		022	Wild	M2 V	-3	(700+5)	[0000]	B	15	35
+1900	Star	P	2934	Angkurab	X5A1000-0	 	      Ba Fl He 		022	Wild	M2 V	-3	(700+1)	[0000]	B	15	7
+
+1105	Star	P	2936	!'k	B338884-7	 	     Ph (NIL)		803	CsTw	F1 V M1 V	1	(774+4)	[3999]	Be	10	784
+1201	Star	P	2936	!'k	X338000-7	 	     Di (NIL)		003	CsTw	F1 V M1 V	-3	(700-3)	[0000]	B	10	-21
+1240	Star	P	2936	!'k	X338000-7	 	     Di (NIL)		003	Wild	F1 V M1 V	-3	(700+1)	[0000]	B	10	7
+1508	Star	P	2936	!'k	X338000-7	 	     Di (NIL)		003	Wild	F1 V M1 V	-3	(700-4)	[0000]	B	10	-28
+1900	Star	P	2936	!'k	X338000-7	 	     Di (NIL)		003	Wild	F1 V M1 V	-3	(700+3)	[0000]	B	10	21
+
+1105	Star	P	2938	Krikri	D552AB9-5	 	     Hi Po (NIL)		510	NaHu	F0 V M8 V	-1	(796-2)	[89A6]	BE	11	-756
+1201	Star	P	2938	Krikri	X552104-1	 	     Lo Po (NIL)		510	NaHu	F0 V M8 V	-3	(700+1)	[2151]	B	11	7
+1240	Star	P	2938	Krikri	X552000-1	 	     Di Po (NIL)		010	Wild	F0 V M8 V	-3	(700+1)	[0000]	B	11	7
+1508	Star	P	2938	Krikri	X552000-1	 	     Di Po (NIL)		010	Wild	F0 V M8 V	-3	(700+4)	[0000]	B	11	28
+1900	Star	P	2938	Krikri	X552000-1	 	     Di Po (NIL)		010	Wild	F0 V M8 V	-3	(700+2)	[0000]	B	11	14
+
+1105	Star	P	2940	K!taka	A434300-C	 	     Lo 		204	NaHu	G8 V	1	(A21-2)	[5468]	B	12	-40
+1201	Star	P	2940	K!taka	X434000-C	 	     Di 		004	NaHu	G8 V	-1	(A00-3)	[0000]	B	12	-30
+1240	Star	P	2940	K!taka	X434000-C	 	     Di 		004	Wild	G8 V	-1	(A00-3)	[0000]	B	12	-30
+1508	Star	P	2940	K!taka	X434000-C	 	     Di 		004	Wild	G8 V	-1	(A00+1)	[0000]	B	12	10
+1900	Star	P	2940	K!taka	X434000-C	 	     Di 		004	Wild	G8 V	-1	(A00+2)	[0000]	B	12	20
+
+1105	Star	P	3035	Nuukl!'gha	X5A2000-0	 	      Ba Fl He 		003	CsTw	M3 V M9 V	-3	(600+2)	[0000]	B	13	12
+1201	Star	P	3035	Nuukl!'gha	X5A2000-0	 	      Ba Fl He 		003	CsTw	M3 V M9 V	-3	(600-3)	[0000]	B	13	-18
+1240	Star	P	3035	Nuukl!'gha	X5A2000-0	 	      Ba Fl He 		003	Wild	M3 V M9 V	-3	(600+1)	[0000]	B	13	6
+1508	Star	P	3035	Nuukl!'gha	X5A2000-0	 	      Ba Fl He 		003	Wild	M3 V M9 V	-3	(600-1)	[0000]	B	13	-6
+1900	Star	P	3035	Nuukl!'gha	X5A2000-0	 	      Ba Fl He 		003	Wild	M3 V M9 V	-3	(600-3)	[0000]	B	13	-18
+
+1105	Star	P	3036	Rooxk!'kiorr	B350453-A	 	     De Ni Po 		503	CsTw	K1 V	1	(A33+1)	[152B]	B	12	90
+1201	Star	P	3036	Rooxk!'kiorr	D350444-6	 	     De Ni Po 		303	CsTw	K1 V	-3	(733-1)	[5186]	B	12	-63
+1240	Star	P	3036	Rooxk!'kiorr	D350443-3	 	     De Ni Po 		103	Wild	K1 V	-3	(730-2)	[8143]	B	12	-42
+1508	Star	P	3036	Rooxk!'kiorr	D350452-5	 	     De Ni Po 		203	Wild	K1 V	-3	(730-3)	[5155]	B	12	-63
+1900	Star	P	3036	Rooxk!'kiorr	D350443-5	 	     De Ni Po 		303	Wild	K1 V	-3	(732+1)	[1144]	B	12	42
+
+1105	Star	P	3037	Ghamu	X120000-0	 	     Ba De Po 		014	CsTw	M2 V M7 V	-3	(700+1)	[0000]	B	15	7
+1201	Star	P	3037	Ghamu	X120000-0	 	     Ba De Po 		014	CsTw	M2 V M7 V	-3	(700-3)	[0000]	B	15	-21
+1240	Star	P	3037	Ghamu	X120000-0	 	     Ba De Po 		014	Wild	M2 V M7 V	-3	(700+1)	[0000]	B	15	7
+1508	Star	P	3037	Ghamu	X120000-0	 	     Ba De Po 		014	Wild	M2 V M7 V	-3	(700-2)	[0000]	B	15	-14
+1900	Star	P	3037	Ghamu	X120000-0	 	     Ba De Po 		014	Wild	M2 V M7 V	-3	(700+1)	[0000]	B	15	7
+
+1105	Star	L	3121	Ring'tki	X583000-0	 	     Ba 		033	NaXX	F2 V	-3	(C00-2)	[0000]	B	14	-24
+1201	Star	L	3121	Ring'tki	X583000-0	 	     Ba 		033	NaXX	F2 V	-3	(C00+1)	[0000]	B	14	12
+1240	Star	L	3121	Ring'tki	X583000-0	 	     Ba 		033	Wild	F2 V	-3	(C00-3)	[0000]	B	14	-36
+1508	Star	L	3121	Ring'tki	X583000-0	 	     Ba 		033	Wild	F2 V	-3	(C00-2)	[0000]	B	14	-24
+1900	Star	L	3121	Ring'tki	X583000-0	 	     Ba 		033	Wild	F2 V	-3	(C00+5)	[0000]	B	14	60
+
+1105	Star	P	3133	Bakxirekee	A9769CC-D	 	     Hi In (NIL)		903	CsTw	G0 V	4	(789+1)	[9D8C]	BEf	9	504
+1201	Star	P	3133	Bakxirekee	X97696A-6	 	     Hi In (NIL)	B	903	CsTw	G0 V	0	(486+1)	[6962]	BE	9	192
+1240	Star	P	3133	Bakxirekee	X976957-2	 	     Hi In (NIL)		403	Wild	G0 V	0	(486+2)	[B981]	BE	9	384
+1508	Star	P	3133	Bakxirekee	X9769A9-2	 	     Hi In (NIL)		303	Wild	G0 V	0	(485+1)	[8914]	BE	9	160
+1900	Star	P	3133	Bakxirekee	X976975-3	 	     Hi In (NIL)		303	Wild	G0 V	0	(487-3)	[9931]	BE	9	-672
+
+1105	Star	P	3135	Irakrartra	E65858D-6	 	     Ag Ni 		804	CsTw	F3 V M4 V	-2	(541-5)	[3372]	BC	7	-100
+1201	Star	P	3135	Irakrartra	X658543-5	 	     Ag Ni 	B	504	CsTw	F3 V M4 V	-2	(543+1)	[2394]	BC	7	60
+1240	Star	P	3135	Irakrartra	X658546-0	 	     Ag Ni 		204	Wild	F3 V M4 V	-2	(542+5)	[7341]	BC	7	200
+1508	Star	P	3135	Irakrartra	X65859A-1	 	     Ag Ni 		204	Wild	F3 V M4 V	-2	(543-1)	[3322]	BC	7	-60
+1900	Star	P	3135	Irakrartra	X658545-2	 	     Ag Ni 		104	Wild	F3 V M4 V	-2	(541+1)	[6321]	BC	7	20
+
+1105	Star	P	3136	Alikixg'	A846876-9	 	      Pa Pi Ph (NIL)		905	CsTw	F3 V M9 V M7 V	1	(C78+1)	[9938]	BcDe	12	672
+1201	Star	P	3136	Alikixg'	C846978-6	 	      Hi Pi (NIL)	B	105	CsTw	F3 V M9 V M7 V	0	(78A+1)	[7947]	BDE	12	560
+1240	Star	P	3136	Alikixg'	C846858-4	 	      Pa Pi Ph (NIL)		505	Wild	F3 V M9 V M7 V	-1	(777-3)	[A762]	BcDe	12	-1029
+1508	Star	P	3136	Alikixg'	C846899-4	 	      Pa Pi Ph (NIL)		605	Wild	F3 V M9 V M7 V	-1	(77A-2)	[B754]	BcDe	12	-980
+1900	Star	P	3136	Alikixg'	C8468AC-5	 	      Pa Pi Ph (NIL)		705	Wild	F3 V M9 V M7 V	-1	(777-1)	[6745]	BcDe	12	-343
+
+1105	Star	P	3137	Xakigraxtu	A778565-7	 	    O:GhXh-0137  Ag Ni 		423	CsTw	F3 V	0	(542+3)	[4564]	BC	11	120
+1201	Star	P	3137	Xakigraxtu	C778558-3	 	    O:GhXh-0137  Ag Ni 	B	323	CsTw	F3 V	-1	(545+4)	[4436]	BC	11	400
+1240	Star	P	3137	Xakigraxtu	D778000-3	 	     O:GhXh-0137  Di 		023	Wild	F3 V	-3	(500-3)	[0000]	B	11	-15
+1508	Star	P	3137	Xakigraxtu	D778000-3	 	     O:GhXh-0137  Di 		023	Wild	F3 V	-3	(500+1)	[0000]	B	11	5
+1900	Star	P	3137	Xakigraxtu	D778000-3	 	     O:GhXh-0137  Di 		023	Wild	F3 V	-3	(500+1)	[0000]	B	11	5
+
+1105	Star	P	3138	Ghareexghoo	C679331-9	 	     Lo 		103	CsTw	F9 V	-1	(F20-2)	[7247]	B	9	-60
+1201	Star	P	3138	Ghareexghoo	D679176-6	 	     Lo 		403	CsTw	F9 V	-3	(C00+1)	[2157]	B	9	12
+1240	Star	P	3138	Ghareexghoo	D679000-6	 	     Di 		003	Wild	F9 V	-3	(C00+2)	[0000]	B	9	24
+1508	Star	P	3138	Ghareexghoo	D679000-6	 	     Di 		003	Wild	F9 V	-3	(C00+1)	[0000]	B	9	12
+1900	Star	P	3138	Ghareexghoo	D679000-6	 	     Di 		003	Wild	F9 V	-3	(C00+2)	[0000]	B	9	24
+
+1105	Star	P	3233	Rrughxa	A8A7699-9	 	     Fl Ni 		813	CsTw	M5 V M9 V	0	(F55+3)	[761E]	B	14	1125
+1201	Star	P	3233	Rrughxa	X8A7000-9	 	     Di Fl 		013	CsTw	M5 V M9 V	-2	(F00-5)	[0000]	B	14	-75
+1240	Star	P	3233	Rrughxa	X8A7000-9	 	     Di Fl 		013	Wild	M5 V M9 V	-2	(F00+1)	[0000]	B	14	15
+1508	Star	P	3233	Rrughxa	X8A7000-9	 	     Di Fl 		013	Wild	M5 V M9 V	-2	(F00+1)	[0000]	B	14	15
+1900	Star	P	3233	Rrughxa	X8A7000-9	 	     Di Fl 		013	Wild	M5 V M9 V	-2	(F00-5)	[0000]	B	14	-75
+
+1105	Star	P	3236	Mb'ng	A8D9310-C	 	     Lo 		304	CsTw	M5 V	1	(F21+1)	[145E]	B	13	30
+1201	Star	P	3236	Mb'ng	X8D9000-C	 	     Di 		004	CsTw	M5 V	-1	(F00+2)	[0000]	B	13	30
+1240	Star	P	3236	Mb'ng	X8D9000-C	 	     Di 		004	Wild	M5 V	-1	(F00+2)	[0000]	B	13	30
+1508	Star	P	3236	Mb'ng	X8D9000-C	 	     Di 		004	Wild	M5 V	-1	(F00-5)	[0000]	B	13	-75
+1900	Star	P	3236	Mb'ng	X8D9000-C	 	     Di 		004	Wild	M5 V	-1	(F00-3)	[0000]	B	13	-45
+

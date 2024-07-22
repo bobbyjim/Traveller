@@ -1,0 +1,485 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+Ziaf	A	0101	Jadljetefl	B200444-A	 	Ni Va 		210	Wild	F5 V	{ 1 }	(737+1)	[652A]	B	8	147
+Ziaf	A	0103	Ens Zhdo	X568775-1	 	Ag Ri 		205	Wild	G8 V	{ 0 }	(966-5)	[8741]	BC	15	-1620
+Ziaf	A	0104	Ienazh	A53478C-8	 			302	Wild	M3 V	{ 0 }	(B6A+1)	[872B]	B	13	660
+Ziaf	A	0106	Spridlepl	B535744-8	 			923	Wild	G3 V	{ 0 }	(F68+1)	[6765]	B	12	720
+Ziaf	A	0107	Chtalekl	B552656-9	 	Ni Po 		204	Wild	K9 V M3 V	{ 0 }	(C56-2)	[669C]	B	9	-720
+Ziaf	A	0109	Jaitnab	X543000-A	 	Di Po 		003	Wild	F0 V	{ -1 }	(900-2)	[0000]	B	6	-18
+Ziaf	A	0110	Tlaprezhel	B437778-7	 			203	Wild	K4 IV	{ 0 }	(965+1)	[A7A3]	B	9	270
+Ziaf	E	0114	Frezhietsed	C783489-5	 	Ni 		112	Wild	G5 V	{ -2 }	(830-1)	[8266]	B	15	-24
+Ziaf	E	0115	Nivrdiatia	D789000-8	T 	Di 		004	Wild	M3 V	{ -3 }	(A00+1)	[0000]	B	13	10
+Ziaf	E	0116	Qiejik	E774000-5	 	Di 		001	Wild	F8 V	{ -3 }	(600+3)	[0000]	B	5	18
+Ziaf	E	0119	Dlashte	E543000-8	 	Di Po 		002	Wild	F6 V M1 V	{ -3 }	(900+1)	[0000]	B	11	9
+Ziaf	I	0125	Shipebr	X423000-7	 	Di Po 		024	Wild	M1 V M6 V	{ -3 }	(800+1)	[0000]	B	15	8
+Ziaf	I	0127	Iefriaqr	B758579-6	 	Ag Ni 		304	Wild	G6 V	{ 0 }	(845+4)	[5558]	BC	7	640
+Ziaf	I	0128	O'staz	A00045A-E	 	As Va Ni 		331	Wild	M0 V M4 V	{ 1 }	(C34+1)	[456A]	B	10	144
+Ziaf	I	0129	Iense	X571000-9	 	Di He 		014	Wild	G8 V	{ -2 }	(D00-5)	[0000]	B	9	-65
+Ziaf	M	0131	Fliaplav	C20089A-7	 	Na Pi Ph Va 		403	Wild	F9 V	{ -1 }	(A77-3)	[D7A9]	BDe	10	-1470
+Ziaf	M	0132	Deifr	B597775-8	 	Ag Pi 		525	Wild	F4 V F8 V M4 V	{ 1 }	(G64+1)	[581A]	BCD	14	384
+Ziaf	M	0134	Satkant	D788883-5	 	Pa Ri Ph 		336	Wild	F5 V M6 V	{ -1 }	(A76-5)	[8786]	BcCe	14	-2100
+Ziaf	M	0135	Ietqlaz	E511000-0	 	Ba Ic 		001	Wild	M1 V	{ -3 }	(200-2)	[0000]	B	6	-4
+Ziaf	M	0138	Tiorsedlie	X420797-6	 	(minor) De He Na Pi Po 		102	Wild	G2 V	{ -2 }	(966+1)	[9555]	BD	7	324
+Ziaf	M	0139	Vazia	D310000-A	 	Di 		022	Wild	G2 V	{ -1 }	(B00+1)	[0000]	B	10	11
+Ziaf	M	0140	Tanjchiada	X675000-B	 	Di 		003	Wild	F7 V	{ -1 }	(B00-2)	[0000]	B	9	-22
+Ziaf	A	0204	Eardaqr	C3106AB-7	 	Na Ni 		213	Wild	K4 V	{ -2 }	(851-2)	[346B]	B	13	-80
+Ziaf	A	0205	Ipliadl	E5417AD-3	 	He Pi Po 		903	Wild	G0 V M2 V	{ -2 }	(C62-3)	[5531]	BD	13	-432
+Ziaf	A	0207	Zhdilqia	E656000-0	 	Ba Ga 		003	Wild	F2 V	{ -3 }	(200+3)	[0000]	B	11	6
+Ziaf	A	0208	Senzprerez	D7A4000-8	 	Di Fl 		000	Wild	M4 III	{ -3 }	(800+2)	[0000]	B	8	16
+Ziaf	E	0211	Jinsli	D556531-6	 	Ag Ni 		322	Wild	F4 V	{ -2 }	(744-4)	[538A]	BC	11	-448
+Ziaf	E	0212	Chivtsram	E201000-0	 	Ba Ic Va 		010	Wild	M1 V	{ -3 }	(200+1)	[0000]	B	7	2
+Ziaf	E	0216	Veqde	X577000-5	 	Di 		005	Wild	K9 V M6 V	{ -3 }	(A00+5)	[0000]	B	13	50
+Ziaf	E	0218	Zazher	X886000-A	 	Di Ga 		003	Wild	K3 V M6 V	{ -1 }	(900-4)	[0000]	B	9	-36
+Ziaf	E	0219	Dratldieve	E100000-0	 	Ba Va 		029	Wild	G3 V M8 V M7 V	{ -3 }	(200+2)	[0000]	B	17	4
+Ziaf	E	0220	Iepzhda	B5108DC-9	 	Na Pi Ph 		100	Wild	F6 V	{ 1 }	(A7D+2)	[A978]	BDe	10	1820
+Ziaf	I	0221	Iashiedr	B87888A-5	 	Pa Pi Ph 		503	Wild	M1 V M1 V	{ 0 }	(A74+2)	[D817]	BcDe	12	560
+Ziaf	I	0222	Apllestenzh	E423000-0	 	Ba Po 		022	Wild	M2 V	{ -3 }	(200+1)	[0000]	B	14	2
+Ziaf	I	0226	Rqliachi	C410546-7	 	Ni 		302	Wild	M0 V	{ -2 }	(744+3)	[4333]	B	5	336
+Ziaf	I	0227	Tsiprierfie	A510375-A	 	Lo 		601	Wild	M0 V M1 V	{ 1 }	(721-2)	[449B]	B	11	-28
+Ziaf	I	0229	Tliaiem Veqchta	E535446-5	 	Ni Px 		324	Wild	F4 V M2 V	{ -3 }	(630-1)	[1137]	B	16	-18
+Ziaf	M	0235	Zhafleam	E433000-0	 	Ba Po 		013	Wild	M1 V	{ -3 }	(200-1)	[0000]	B	10	-2
+Ziaf	M	0236	Lontzda	B420998-A	 	De He Hi Na In Po 		105	Wild	M1 V M3 V	{ 4 }	(G88-1)	[7D48]	BEf	15	-1024
+Ziaf	M	0237	Kienzhafi	D95A000-5	 	Di Wa 		000	Wild	F9 V	{ -3 }	(600-3)	[0000]	B	7	-18
+Ziaf	M	0239	Iancharzh	B866721-7	 	Ag Ri Ga 		108	Wild	M2 V M2 V	{ 2 }	(968+1)	[5957]	BC	20	432
+Ziaf	A	0301	Blichshe	C201777-7	 	Ic Va Na Pi 		204	Wild	M1 V	{ -1 }	(966-2)	[8628]	BD	11	-648
+Ziaf	A	0304	Drovrbro'	D879000-7	 	Di 		004	Wild	K2 V	{ -3 }	(800+1)	[0000]	B	10	8
+Ziaf	A	0310	Siatlsidez	E000748-7	 	As Va Na Pi 		212	Wild	M0 V	{ -2 }	(968+2)	[6524]	BD	8	864
+Ziaf	E	0312	Yedrvrakl	E310772-7	 	Na Pi 		215	Wild	K9 V M6 V	{ -2 }	(963+3)	[A565]	BD	15	486
+Ziaf	E	0315	Zhdafldef	E573754-5	 	Pi 		104	Wild	K8 V	{ -2 }	(963-1)	[5515]	BD	10	-162
+Ziaf	E	0316	Anchiefl	D776000-C	 	Di 		000	Wild	F4 V	{ -1 }	(600+2)	[0000]	B	8	12
+Ziaf	E	0317	Iqreiel	C581444-6	 	Ni 		332	Wild	K3 V M2 V	{ -2 }	(734-4)	[1277]	B	14	-336
+Ziaf	E	0319	Chtostit	D565414-6	 	Ni Pa 		400	Wild	M0 V M6 V	{ -3 }	(630+4)	[6185]	Bc	9	72
+Ziaf	I	0321	Fitlibrepl	E526000-8	 	Di 		002	Wild	G1 V M0 V	{ -3 }	(A00-5)	[0000]	B	8	-50
+Ziaf	I	0324	Ieziefl	E000000-0	 	As Va Ba 		015	Wild	F1 V M7 V	{ -3 }	(200+1)	[0000]	B	12	2
+Ziaf	I	0325	Tliefl Lentapr	B564655-9	 	Ag Ri Ni 		214	Wild	F7 V	{ 2 }	(D57+2)	[2817]	BC	13	910
+Ziaf	I	0327	Dentszimar	C887789-3	 	Ag Ri Ga 		214	Wild	F9 V M0 V	{ 1 }	(967-5)	[A893]	BC	12	-1890
+Ziaf	I	0329	Defridlie	X595000-5	 	(Sielienzhia) Di 		002	Wild	F8 V M8 V	{ -3 }	(500-2)	[0000]	B	8	-10
+Ziaf	M	0334	Piaqlsta	E8A4000-0	 	Ba Fl 		002	Wild	M2 V	{ -3 }	(200+1)	[0000]	B	7	2
+Ziaf	M	0338	Zdechenz	E77A000-7	 	Di Wa 		001	Wild	K1 V	{ -3 }	(700-1)	[0000]	B	10	-7
+Ziaf	M	0339	Vibnans	C310655-9	 	Na Ni 		302	Wild	M2 V	{ -1 }	(A50-2)	[6569]	B	6	-100
+Ziaf	M	0340	Ivldenzh	X691777-4	 	He Pi 		200	Wild	G2 V	{ -2 }	(964-1)	[B513]	BD	5	-216
+Ziaf	A	0401	Riezive	X899000-8	 	Di 		002	Wild	M1 V	{ -3 }	(900-4)	[0000]	B	14	-36
+Ziaf	A	0403	Ifsenja Siakr	D677000-D	 	Di 		005	Wild	K3 V M2 V	{ -1 }	(C00+1)	[0000]	B	12	12
+Ziaf	A	0404	Tlishkriaz	C545674-7	 	Ag Ni 		914	Wild	M0 V	{ -1 }	(A55+1)	[556A]	BC	17	250
+Ziaf	A	0407	Ababl	D593000-5	 	Di 		012	Wild	K3 V M2 V	{ -3 }	(700+1)	[0000]	B	8	7
+Ziaf	A	0409	Shiaflansh	C581688-6	 	Ni Ri 		203	Wild	M1 V M3 V	{ -1 }	(850-2)	[4558]	BC	6	-80
+Ziaf	A	0410	Tsibipl	C9A4752-8	 	Fl 		400	Wild	M1 V	{ -1 }	(964+1)	[8659]	B	7	216
+Ziaf	E	0412	Ievzhdil	E436000-0	 	Ba 		000	Wild	M0 V M1 V	{ -3 }	(200+1)	[0000]	B	7	2
+Ziaf	E	0414	Tladqle	D67A000-C	 	Di Wa 		013	Wild	F7 V M1 V M7 V	{ -1 }	(B00+1)	[0000]	B	13	11
+Ziaf	E	0416	Piaflstodlezh	X572000-9	 	Di He 		000	Wild	M3 V	{ -2 }	(600+2)	[0000]	B	11	12
+Ziaf	E	0419	Klachtiapl	B435546-8	 	Ni Px 		103	Wild	G1 IV M0 V	{ -1 }	(A44+2)	[2437]	B	13	320
+Ziaf	I	0422	Stieipr	C550510-8	 	De Ni Po 		412	Wild	K2 V	{ -2 }	(A41+2)	[8336]	B	11	80
+Ziaf	I	0429	Brnzens	E100000-0	 	Ba Va 		002	Wild	M3 V M3 V	{ -3 }	(200-2)	[0000]	B	13	-4
+Ziaf	I	0430	Chtezfrie	E550000-9	 	De Di Po 		003	Wild	G1 V	{ -2 }	(A00-3)	[0000]	B	8	-30
+Ziaf	M	0431	Naviensh	C98A6B9-9	 	Ni Ri Wa 		316	Wild	G4 V M4 V	{ 0 }	(F53+1)	[6639]	BC	17	225
+Ziaf	M	0433	Yaiavl	E000000-0	 	As Va Ba 		010	Wild	F9 V M2 V	{ -3 }	(200+2)	[0000]	B	6	4
+Ziaf	M	0435	Ianzcheql	D9C5000-A	 	Di Fl 		006	Wild	F1 V M8 V F4 V	{ -1 }	(J00-2)	[0000]	B	15	-36
+Ziaf	M	0436	Kipranch	A858514-9	 	Ag Ni 		110	Wild	K0 V M2 V	{ 1 }	(843+1)	[66AA]	BC	10	96
+Ziaf	M	0437	Iyentint	C969455-9	 	Ni 		100	Wild	G2 V	{ -1 }	(630-1)	[534C]	B	8	-18
+Ziaf	M	0439	Ieqrafrde	E400000-C	 	Di Va 		014	Wild	F1 IV	{ -1 }	(B00+1)	[0000]	B	12	11
+Ziaf	M	0440	Qloidans	E435000-0	 	Ba 		004	Wild	M2 V	{ -3 }	(200-1)	[0000]	B	15	-2
+Ziaf	A	0501	Rache	A551776-8	 	Po 		206	Wild	F5 V M4 V	{ 0 }	(F67+2)	[7769]	B	12	1260
+Ziaf	A	0506	Iafrtliets	D554455-7	 	Ni Pa 		303	Wild	K1 V	{ -3 }	(632-2)	[715B]	Bc	9	-72
+Ziaf	E	0511	Ejoshcheakl	D434000-B	 	Di 		015	Wild	F8 V M1 V	{ -1 }	(C00+2)	[0000]	B	12	24
+Ziaf	E	0514	Zhije	E435000-0	 	Ba 		021	Wild	F1 IV	{ -3 }	(200+3)	[0000]	B	8	6
+Ziaf	E	0516	Ridadrjiach	C560542-5	 	De Ni Pr 		923	Wild	F4 V M0 V	{ -2 }	(841-1)	[4379]	Bc	9	-32
+Ziaf	E	0518	Kiqkrrbish	C56069E-8	 	De Ni Ri 		414	Wild	K1 V M3 V	{ -1 }	(E55+3)	[3559]	BC	15	1050
+Ziaf	E	0519	Dlants Zdiqef	E573000-A	 	Di 		004	Wild	F7 V	{ -1 }	(A00+2)	[0000]	B	10	20
+Ziaf	E	0520	Kazhdet	B737446-8	 	Ni 		304	Wild	M0 V	{ -1 }	(B34+1)	[7365]	B	14	132
+Ziaf	I	0527	Ilieflie	D526000-7	 	Di 		000	Wild	M0 V	{ -3 }	(800-1)	[0000]	B	7	-8
+Ziaf	I	0529	Piepievr	E576000-8	 	Di 		013	Wild	F7 V	{ -3 }	(F00-2)	[0000]	B	11	-30
+Ziaf	I	0530	Ianzh Vleia	E542000-0	 	Ba He Po 		013	Wild	G2 V	{ -3 }	(200+2)	[0000]	B	12	4
+Ziaf	M	0538	Tlitanj	D656000-2	 	Di Ga 		004	Wild	F7 V M7 V	{ -3 }	(800-3)	[0000]	B	9	-24
+Ziaf	M	0539	Qravlaqra	B546677-8	 	Ag Ni 		502	Wild	K2 V	{ 0 }	(B55+1)	[5684]	BC	7	275
+Ziaf	M	0540	Tsanitsiaj	E847000-7	 	Di 		000	Wild	F4 V M3 V	{ -3 }	(600-2)	[0000]	B	7	-12
+Ziaf	A	0602	Afltibr	C31067C-7	 	Na Ni 		212	Wild	M2 V	{ -2 }	(853+3)	[6447]	B	13	360
+Ziaf	A	0603	Sejtiblinch	E550000-0	 	Ba De Po 		000	Wild	G3 V	{ -3 }	(200-1)	[0000]	B	10	-2
+Ziaf	E	0611	Banzstotl	E7A7000-8	 	Di Fl 		000	Wild	F8 V	{ -3 }	(800+3)	[0000]	B	3	24
+Ziaf	E	0613	Miapltlem	E543000-0	 	Ba Po 		011	Wild	F6 V M3 V	{ -3 }	(200+1)	[0000]	B	6	2
+Ziaf	E	0617	Sietlzdie'	X300000-C	 	Di Va 		013	Wild	K5 V M5 V	{ -1 }	(A00+2)	[0000]	B	11	20
+Ziaf	I	0622	Zhdazhaq	X97A79B-4	 	An Pi Wa 		115	Wild	M1 V M3 V	{ -2 }	(965+3)	[6553]	BD	12	810
+Ziaf	I	0628	Fabred	A541776-8	 	He Pi Po 		105	Wild	F6 V	{ 0 }	(E68-5)	[478C]	BD	12	-3360
+Ziaf	I	0629	Draklteshse	B548897-9	 	Pa Pi Ph 		215	Wild	M2 V	{ 1 }	(G78-1)	[5948]	BcDe	15	-896
+Ziaf	I	0630	Freqsteblmedr	E541000-A	 	Di He Po 		022	Wild	M0 V	{ -1 }	(C00-2)	[0000]	B	13	-24
+Ziaf	M	0632	Shtatli'	D544000-5	 	Di 		002	Wild	F8 V	{ -3 }	(800-2)	[0000]	B	10	-16
+Ziaf	M	0635	Riapriedr	DAE5A99-7	 	Hi 		203	Wild	F5 V	{ -1 }	(C97-3)	[A975]	BE	11	-2268
+Ziaf	M	0637	Ijstare	B8A37A9-7	 	Fl 		513	Wild	G1 III	{ 0 }	(968+1)	[477C]	B	8	432
+Ziaf	A	0701	Devliensh	X529000-E	 	Di 		003	Wild	M1 V	{ -1 }	(C00+4)	[0000]	B	10	48
+Ziaf	A	0702	Vritli	E100000-0	 	Ba Va 		002	Wild	G6 V	{ -3 }	(200+2)	[0000]	B	12	4
+Ziaf	A	0704	Eplob	E428000-D	 	Di 		005	Wild	G1 V M6 V	{ -1 }	(C00+1)	[0000]	B	12	12
+Ziaf	A	0705	Niedrsa	E542000-0	 	Ba He Po 		034	Wild	F7 V M8 V	{ -3 }	(200+1)	[0000]	B	11	2
+Ziaf	A	0707	Chtatspier	E749000-0	 	Ba 		001	Wild	F9 V	{ -3 }	(200-1)	[0000]	B	7	-2
+Ziaf	E	0712	Oprizhedl	E645000-9	 	Di 		005	Wild	G2 V M1 V	{ -2 }	(C00-2)	[0000]	B	12	-24
+Ziaf	E	0714	Siabzhi	B565879-8	 	Pa Ri Ph 		305	Wild	F7 V	{ 1 }	(F7D+2)	[895B]	BcCe	12	2730
+Ziaf	E	0715	Chechedrsta	C501A78-A	 	Hi Ic Va Na In 		200	Wild	F1 V	{ 3 }	(C96+2)	[ED59]	BE	8	1296
+Ziaf	I	0723	O'branzdli	A527775-8	 	Pi 		202	Wild	M3 V	{ 0 }	(B67+3)	[9755]	BD	10	1386
+Ziaf	I	0726	Idzhdaiash	E400000-0	 	Ba Va 		001	Wild	M1 V	{ -3 }	(200+1)	[0000]	B	10	2
+Ziaf	M	0731	Rzhe	D552677-5	 	Ni Po 		202	Wild	F4 V	{ -3 }	(850+2)	[B373]	B	9	80
+Ziaf	M	0733	Iezhoql	E310426-7	 	Ni 		303	Wild	M2 V	{ -3 }	(633-4)	[7143]	B	10	-216
+Ziaf	M	0738	Diliefidr	A759778-B	 			404	Wild	G3 V	{ 2 }	(D66-2)	[A94E]	B	11	-936
+Ziaf	M	0739	Blianjpots	E528000-B	 	Di 		003	Wild	M2 V	{ -1 }	(B00-1)	[0000]	B	10	-11
+Ziaf	A	0801	Vazhe	E100000-0	 	Ba Va 		004	Wild	M0 V	{ -3 }	(200+1)	[0000]	B	9	2
+Ziaf	A	0802	Ajdemch	D574000-C	 	Di 		003	Wild	F7 V	{ -1 }	(B00+5)	[0000]	B	11	55
+Ziaf	A	0803	Fraliabl	B664510-A	 	Ag Pr Ni 		102	Wild	M2 V	{ 2 }	(946+1)	[672C]	BcC	9	216
+Ziaf	A	0804	Iazniench	E58675A-2	 	Ag Ri 		408	Wild	K2 V M8 V	{ 0 }	(A66+1)	[2751]	BC	14	360
+Ziaf	A	0806	Idrzh	E664421-2	 	Ni Pa 		313	Wild	F5 V	{ -3 }	(831-1)	[5183]	Bc	8	-24
+Ziaf	A	0809	Sheklzdibr	B585ACA-9	 	Hi 		315	Wild	G3 V	{ 2 }	(J98-1)	[BC6B]	BE	9	-1296
+Ziaf	A	0810	Fitsetl	C300878-8	 	Na Pi Ph Va 		312	Wild	F0 V	{ -1 }	(D76-3)	[8738]	BDe	10	-1638
+Ziaf	E	0813	Tlientsatl	D540555-7	 	De He Ni Po 		411	Wild	F9 V	{ -3 }	(740+1)	[425C]	B	10	28
+Ziaf	I	0822	Miablstaprez	X774777-4	 	Ag Pi 		400	Wild	G0 V	{ -1 }	(962-3)	[A684]	BCD	10	-324
+Ziaf	I	0826	Epfintsez	X4208BB-6	 	De He Na Pi Po Ph 		303	Wild	F8 V	{ -2 }	(A72-4)	[A644]	BDe	11	-560
+Ziaf	I	0828	Brezaiafl	X555000-8	 	Di 		002	Wild	K3 V	{ -3 }	(800+1)	[0000]	B	9	8
+Ziaf	I	0829	Rinanshya	C435676-5	 	An Ni Px 		200	Wild	G2 IV	{ -2 }	(850-2)	[6437]	B	9	-80
+Ziaf	M	0831	Klabietleja	E420000-0	 	Ba De He Po 		020	Wild	M1 V	{ -3 }	(200-2)	[0000]	B	12	-4
+Ziaf	M	0832	Zeshtient	D310000-8	 	Di 		008	Wild	M2 V M6 V	{ -3 }	(E00-1)	[0000]	B	14	-14
+Ziaf	M	0833	Zieplaz	C434540-A	 	Ni 		414	Wild	G2 V M0 V	{ 0 }	(C42-3)	[9567]	B	13	-288
+Ziaf	M	0834	Tlianz	D545000-8	 	Di 		004	Wild	F7 V	{ -3 }	(A00+1)	[0000]	B	11	10
+Ziaf	M	0835	Bapenj	E549000-5	 	Di 		013	Wild	M2 V M2 V	{ -3 }	(900+1)	[0000]	B	12	9
+Ziaf	M	0838	Sishekre	B5A0788-7	 	He 		901	Wild	F9 V	{ 0 }	(A63-3)	[8754]	B	9	-540
+Ziaf	B	0904	Shiantsram	E76467A-5	 	Ag Ri Ni 		533	Wild	F7 V	{ -1 }	(853-1)	[7551]	BC	15	-120
+Ziaf	B	0905	Chabob	CAC6A76-A	 	Fl Hi In 		501	Wild	F2 V	{ 3 }	(D9C+3)	[9D3B]	BE	7	4212
+Ziaf	B	0909	Vomchiazhetl	B535775-7	 			203	Wild	F9 V	{ 0 }	(968+1)	[7727]	B	8	432
+Ziaf	F	0911	Dlaeie	E6A1000-8	 	Di Fl He 		022	Wild	M1 V	{ -3 }	(D00-4)	[0000]	B	13	-52
+Ziaf	F	0912	Aekoblprebr	D8B5000-9	 	Di Fl 		003	Wild	M2 V	{ -2 }	(A00-1)	[0000]	B	10	-10
+Ziaf	F	0916	Flevklrtl	C9B4856-9	 	Fl Ph 		115	Wild	M1 V M2 V	{ 0 }	(G77-4)	[5868]	Be	11	-3136
+Ziaf	F	0918	Zhdidnianj	A553546-E	D 	Ni Po 		902	Wild	M1 V	{ 2 }	(A43+3)	[57AH]	B	10	360
+Ziaf	F	0919	Nadrie	D543000-B	 	Di Po 		000	Wild	F8 V	{ -1 }	(800+3)	[0000]	B	7	24
+Ziaf	J	0921	Naqibka	E8A3000-8	 	Di Fl 		014	Wild	F3 IV M1 V	{ -3 }	(B00+3)	[0000]	B	13	33
+Ziaf	J	0923	Pieshqar	E6B4000-C	 	Di Fl 		012	Wild	K7 V M1 V M0 V	{ -1 }	(A00+2)	[0000]	B	15	20
+Ziaf	J	0924	Frianskliach	X572000-5	 	Di He 		010	Wild	M1 V	{ -3 }	(700+2)	[0000]	B	4	14
+Ziaf	J	0929	Kloshfrier	E430000-0	 	Ba De Po 		004	Wild	M0 V M1 V	{ -3 }	(200+1)	[0000]	B	10	2
+Ziaf	N	0931	Tliedlie	E436577-5	 	Ni 		202	Wild	M1 V	{ -3 }	(740-5)	[9253]	B	8	-140
+Ziaf	N	0934	I'chieble	D875000-6	 	Di 		000	Wild	M2 V	{ -3 }	(600+2)	[0000]	B	8	12
+Ziaf	N	0936	Vienzhezh	E573000-5	 	Di 		022	Wild	F4 V	{ -3 }	(700+2)	[0000]	B	10	14
+Ziaf	N	0937	Zditsiadl	X552000-2	 	Di Po 		005	Wild	K1 V M0 V M5 V	{ -3 }	(500+1)	[0000]	B	11	5
+Ziaf	B	1004	Sobrsiel	D547000-6	 	Di 		003	Wild	M2 V	{ -3 }	(700-1)	[0000]	B	11	-7
+Ziaf	B	1006	Prablanjab	E5529DC-7	 	Hi Po 		403	Wild	F7 V	{ -1 }	(B83-2)	[C888]	BE	12	-528
+Ziaf	B	1007	Zhdieonzh	E967000-6	 	Di 		002	Wild	M2 V M6 V	{ -3 }	(600-4)	[0000]	B	8	-24
+Ziaf	B	1009	Shievinstob	X879000-8	 	Di 		004	Wild	G2 V	{ -3 }	(A00+2)	[0000]	B	11	20
+Ziaf	F	1014	Shrchaqr	B560537-B	 	De Ni Pr 		217	Wild	F7 V M6 V	{ 1 }	(F43+2)	[765D]	Bc	13	360
+Ziaf	F	1015	Ichedrchins	C759444-8	 	Ni 		412	Wild	F5 V	{ -2 }	(934-1)	[224A]	B	8	-108
+Ziaf	F	1016	Pinja	E663434-6	 	Ni 		313	Wild	G1 V M7 V	{ -3 }	(631+4)	[2171]	B	11	72
+Ziaf	F	1019	Vlrtlo	E540573-4	 	De He Ni Po 		103	Wild	G8 V	{ -3 }	(740+1)	[7291]	B	6	28
+Ziaf	F	1020	Fiachi'chr	B666699-7	 	Ag Ri Ga Ni 		325	Wild	K3 V M1 V	{ 1 }	(856+1)	[5769]	BC	13	240
+Ziaf	J	1021	Flanstsie	E5409CH-7	 	De He Hi In Po 		200	Wild	F5 V M3 V	{ 0 }	(B85+1)	[C949]	BE	7	440
+Ziaf	J	1022	Sienzchie	A896752-8	 	Ag Pi 		303	Wild	G2 V	{ 1 }	(E6A+1)	[8839]	BCD	7	840
+Ziaf	J	1024	Nanjechtaeq	E544000-0	 	Ba 		010	Wild	F8 V M6 V	{ -3 }	(200-3)	[0000]	B	7	-6
+Ziaf	J	1026	Bribrzhaldloq	C430455-B	 	De Ni Po 		234	Wild	K2 V	{ 0 }	(D32-3)	[345F]	B	11	-234
+Ziaf	J	1028	Bemnamezh	E544000-9	T 	Di 		002	Wild	F4 V	{ -2 }	(D00-1)	[0000]	B	13	-13
+Ziaf	J	1029	Odrshabriad	B665556-7	 	Ag Pr Ga Ni 		412	Wild	F8 V M2 V	{ 0 }	(746-3)	[556A]	BcC	9	-504
+Ziaf	J	1030	Fradlzhe	C420797-7	 	De He Na Pi Po 		913	Wild	F7 V	{ -1 }	(A65+2)	[6654]	BD	12	600
+Ziaf	N	1035	Prela	E689000-0	 	Ba 		004	Wild	F8 V	{ -3 }	(200-1)	[0000]	B	11	-2
+Ziaf	N	1038	Tlechisha	E000000-0	 	As Va Ba 		010	Wild	M0 V	{ -3 }	(200+1)	[0000]	B	7	2
+Ziaf	N	1039	Enzhliep	C8C9ACD-9	W	Fl Hi In 		303	Wild	F3 V	{ 3 }	(F98+1)	[BD65]	BE	8	1080
+Ziaf	N	1040	Chiaqlneqr	X688000-8	 	Di 		004	Wild	K9 V	{ -3 }	(A00+2)	[0000]	B	9	20
+Ziaf	B	1106	Rafrapl	D854656-5	 	Ag Ni 		404	Wild	K3 V	{ -2 }	(950-2)	[5433]	BC	14	-90
+Ziaf	F	1112	Iejshtal	E778000-6	 	Di 		010	Wild	G5 V	{ -3 }	(600+1)	[0000]	B	8	6
+Ziaf	F	1113	Inzserav	B310674-7	 	Na Ni 		315	Wild	K6 V M5 V M6 V M4 V	{ -1 }	(855+2)	[9545]	B	14	400
+Ziaf	F	1115	Shtadrchteba	D4305AD-5	 	De Ni Po 		216	Wild	M2 V M3 V	{ -3 }	(740-1)	[A273]	B	15	-28
+Ziaf	F	1117	Zanchqlaz	B666457-8	 	Ga Ni Pa 		210	Wild	M0 V	{ -1 }	(735+2)	[3355]	Bc	9	210
+Ziaf	F	1118	Pifrqliteql	D311776-7	 	Ic Na Pi 		303	Wild	M2 V	{ -2 }	(968+1)	[A525]	BD	7	432
+Ziaf	F	1119	Ishdlefafr	E410000-0	 	Ba 		005	Wild	M0 V	{ -3 }	(200-3)	[0000]	B	11	-6
+Ziaf	J	1121	Sri	BA8A547-A	 	Ni Oc Pr 		100	Wild	F9 V	{ 1 }	(747+2)	[867F]	Bc	7	392
+Ziaf	J	1123	Zhiezhvebl	E000000-0	 	As Va Ba 		027	Wild	M2 V M7 V	{ -3 }	(200+2)	[0000]	B	17	4
+Ziaf	J	1126	Shtadre'ianch	E65878B-3	 	Ag 		105	Wild	K0 V K3 V	{ -1 }	(967+1)	[8638]	BC	15	378
+Ziaf	J	1127	Iaplepedr	X624000-9	 	Di 		000	Wild	M1 V	{ -2 }	(700-1)	[0000]	B	11	-7
+Ziaf	J	1128	Ieklstiav	E42768D-6	 	Ni 		900	Wild	M2 V	{ -3 }	(951-1)	[5317]	B	10	-45
+Ziaf	J	1129	Shenchonchenz	D95878B-1	 	Ag 		500	Wild	F7 V	{ -1 }	(967-1)	[9651]	BC	5	-378
+Ziaf	N	1133	Chtintse	X555000-1	 	Di 		001	Wild	G3 V	{ -3 }	(800-3)	[0000]	B	6	-24
+Ziaf	N	1136	Diazhtia	X430000-0	 	Ba De Po 		000	Wild	M2 V	{ -3 }	(200+1)	[0000]	B	6	2
+Ziaf	N	1137	Ianziam	B5759D8-D	 	Hi In 		211	Wild	F5 V M3 V	{ 4 }	(D8A-3)	[9D8D]	BEf	7	-3120
+Ziaf	B	1204	Plarkibl	C434526-A	 	Ni Px 		201	Wild	M2 V	{ 0 }	(841+5)	[753D]	B	7	160
+Ziaf	B	1207	Sienjenz	B570452-A	 	De He Ni 		304	Wild	M2 V M4 V	{ 1 }	(A34-2)	[4559]	B	13	-240
+Ziaf	B	1209	Stibrliets	EA7A000-B	 	Di Oc 		004	Wild	M2 V M3 V	{ -1 }	(B00+1)	[0000]	B	10	11
+Ziaf	J	1229	Iensheqr	E100856-8	 	Na Pi Ph Va 		314	Wild	F7 V M1 V	{ -2 }	(F76-5)	[7689]	BDe	14	-3150
+Ziaf	J	1230	Dliepl	X522000-A	 	Di He Po 		010	Wild	M2 V	{ -1 }	(900-2)	[0000]	B	10	-18
+Ziaf	N	1231	Siavrdrat	E432000-0	 	Ba Po 		003	Wild	F4 V	{ -3 }	(200-3)	[0000]	B	11	-6
+Ziaf	N	1232	Ache	E310000-0	 	Ba 		007	Wild	M1 III M3 V	{ -3 }	(200-2)	[0000]	B	13	-4
+Ziaf	N	1233	Chtiadl	X526000-B	 	Di 		001	Wild	M1 V M5 V	{ -1 }	(700-3)	[0000]	B	12	-21
+Ziaf	N	1235	Paqlianzefl	E100000-0	 	Ba Va 		002	Wild	M2 V	{ -3 }	(200+5)	[0000]	B	10	10
+Ziaf	N	1236	Irapratl	D541000-D	 	Di He Po 		024	Wild	K8 V	{ -1 }	(E00-4)	[0000]	B	13	-56
+Ziaf	N	1237	Vlenshfiek	E567998-4	 	Hi Pr 		420	Wild	G0 V	{ -1 }	(B87-3)	[B857]	BcE	5	-1848
+Ziaf	N	1238	Oplkianzh	D430558-8	 	De Ni Po 		505	Wild	F9 V M4 V	{ -3 }	(C40-4)	[5226]	B	8	-192
+Ziaf	N	1240	Friaprche	E9D4000-0	 	Ba 		013	Wild	K3 V M2 V	{ -3 }	(200-2)	[0000]	B	15	-4
+Ziaf	B	1301	Patield	D646000-5	 	Di 		003	Wild	K3 V M6 V	{ -3 }	(800+2)	[0000]	B	15	16
+Ziaf	B	1302	Krelibr	D597000-6	 	Di 		024	Wild	G3 V	{ -3 }	(800+4)	[0000]	B	9	32
+Ziaf	B	1303	Ieqrekavl	D6947BA-4	 	Ag Pi 		100	Wild	M1 V M4 V	{ -1 }	(967-2)	[7697]	BCD	9	-756
+Ziaf	B	1306	Ditlfinch	X571000-9	 	Di He 		002	Wild	F8 V	{ -2 }	(800-5)	[0000]	B	7	-40
+Ziaf	B	1309	Brazde	E200000-0	 	Ba Va 		002	Wild	M2 V	{ -3 }	(200-1)	[0000]	B	7	-2
+Ziaf	F	1313	Tliblecha	C436422-6	 	Ni 		313	Wild	G3 V M3 V	{ -2 }	(632-3)	[226A]	B	12	-108
+Ziaf	F	1314	Fliestezhdibl	C553675-5	 	Ni Po 		121	Wild	F9 V	{ -2 }	(853+4)	[3464]	B	13	480
+Ziaf	F	1315	Kledl	D542000-9	 	An Di He Po 		013	Wild	F6 V	{ -2 }	(B00+2)	[0000]	B	14	22
+Ziaf	F	1316	Zhoiansdrant	AA7667A-B	 	Ag Ni 		403	Wild	F5 V	{ 2 }	(C54+1)	[38A8]	BC	6	240
+Ziaf	F	1317	Ezdlash	E665448-5	 	Ga Ni Pa 		504	Wild	K3 V	{ -3 }	(630+4)	[1167]	Bc	9	72
+Ziaf	F	1318	Zdarbaq	C65899C-6	 	Hi 		513	Wild	F6 V	{ 0 }	(B87+2)	[8986]	BE	8	1232
+Ziaf	F	1319	Sefliezedl	E310000-0	 	Ba 		000	Wild	M1 V	{ -3 }	(200+1)	[0000]	B	5	2
+Ziaf	J	1322	Etsamdap	C584879-7	W	Pa Ri Ph 		304	Wild	F9 V M0 V	{ 1 }	(A78-1)	[7959]	BcCe	12	-560
+Ziaf	J	1323	Priafevajal	B560645-5	 	De Ni Ri 		104	Wild	G1 V	{ 0 }	(854+1)	[5647]	BC	11	160
+Ziaf	J	1325	Qleprier	X8B8000-9	T 	Di Fl 		003	Wild	F6 IV M6 V	{ -2 }	(A00+2)	[0000]	B	13	20
+Ziaf	J	1326	Batlpat	A6859CA-8	 	Ga Hi Pr 		210	Wild	G2 V	{ 1 }	(C86-1)	[6A49]	BcE	8	-576
+Ziaf	J	1329	Srdrqlaf	E556423-6	 	Ni Pa 		604	Wild	M2 V	{ -3 }	(733-3)	[2162]	Bc	11	-189
+Ziaf	N	1331	Natle	C200427-7	 	Ni Va 		144	Wild	K0 III M8 V	{ -2 }	(630+1)	[722B]	B	17	18
+Ziaf	N	1332	Zdoqrche	C758455-7	 	Ni Pa 		425	Wild	K7 V M4 V	{ -2 }	(630-5)	[52A5]	Bc	15	-90
+Ziaf	N	1333	Kleashfla	C88A897-5	 	Ph Ri Wa 		400	Wild	M2 V	{ 0 }	(A78+1)	[B885]	BCe	12	560
+Ziaf	N	1335	Chtechedl	X543000-8	 	Di Po 		014	Wild	M3 V	{ -3 }	(B00+1)	[0000]	B	11	11
+Ziaf	N	1336	Anchish Riatl	B4039DF-C	 	Hi Ic Va Na In 		114	Wild	F4 V M1 V	{ 4 }	(G8G-1)	[BD39]	BEf	16	-2048
+Ziaf	B	1403	Dlifiabeb	D542000-A	 	Di He Po 		013	Wild	K2 V	{ -1 }	(A00-2)	[0000]	B	15	-20
+Ziaf	B	1405	Akzdedriats	E89A000-5	 	Di Wa 		012	Wild	G0 V	{ -3 }	(700+3)	[0000]	B	13	21
+Ziaf	B	1406	Chenchoz	C584754-8	 	Ag Ri 		312	Wild	F8 V	{ 1 }	(C67-2)	[B878]	BC	12	-1008
+Ziaf	B	1408	Melfrien	A000833-A	 	As Va Na Pi Ph 		313	Wild	F7 V	{ 2 }	(E78+1)	[8A4D]	BDe	8	784
+Ziaf	F	1411	Chaz Shtia	A686524-A	 	Ag Pr Ga Ni 		403	Wild	G0 V M1 V	{ 2 }	(A45-1)	[774E]	BcC	13	-200
+Ziaf	F	1412	Diafriapl	X435000-7	 	Di 		003	Wild	G2 V	{ -3 }	(700+1)	[0000]	B	11	7
+Ziaf	F	1413	Chtianshkrets	E7A3000-0	 	Ba Fl 		036	Wild	F6 V M1 V	{ -3 }	(200+1)	[0000]	B	16	2
+Ziaf	F	1419	Ezhpliqel	X662000-7	 	Di 		001	Wild	F9 V M1 V	{ -3 }	(600+2)	[0000]	B	11	12
+Ziaf	J	1422	Ebamplench	X7A2000-8	 	Di Fl He 		003	Wild	G7 V M5 V	{ -3 }	(B00+1)	[0000]	B	9	11
+Ziaf	J	1425	Eqklrbiens	E7B3000-0	 	Ba Fl 		001	Wild	M2 V	{ -3 }	(200+1)	[0000]	B	11	2
+Ziaf	J	1427	Chtenzhyofre	B100674-A	 	Na Ni Va 		100	Wild	M2 V	{ 1 }	(857+1)	[479A]	B	4	280
+Ziaf	J	1430	Adrazhiaql	A585699-A	 	Ag Ri Ni 		512	Wild	F7 V M1 V	{ 3 }	(B55+2)	[8939]	BC	10	550
+Ziaf	N	1432	Enzstits	E578000-8	 	Di 		004	Wild	F9 V M5 V	{ -3 }	(A00+1)	[0000]	B	11	10
+Ziaf	N	1435	Badredlons	E550000-B	 	De Di Po 		016	Wild	F9 V M6 V	{ -1 }	(D00+1)	[0000]	B	15	13
+Ziaf	N	1438	Bra'tlidl	C300430-7	 	Ni Va 		122	Wild	K7 V	{ -2 }	(631-2)	[2227]	B	16	-36
+Ziaf	N	1440	Zibroplaol	D547000-6	 	Di 		004	Wild	F5 V	{ -3 }	(800+1)	[0000]	B	10	8
+Ziaf	B	1501	Miflyats	D540000-D	 	De He Di Po 		034	Wild	F9 V M6 V	{ -1 }	(F00+3)	[0000]	B	13	45
+Ziaf	B	1502	Zdianchiat	B100540-C	 	Ni Va 		203	Wild	M2 V	{ 1 }	(B47-1)	[461C]	B	10	-308
+Ziaf	B	1503	Refrzhdia'	B542775-9	 	He Pi Po 		304	Wild	K0 V M2 V	{ 1 }	(D6A+1)	[7839]	BD	7	780
+Ziaf	B	1504	Shtia'ial	A78387A-A	 	Adda2 Ph Ri 		903	Wild	K9 V	{ 3 }	(E77+1)	[4B5E]	BCe	9	686
+Ziaf	B	1505	Abajiachiats	E7399CE-7	 	Hi 		903	Wild	F5 V	{ -1 }	(C82+5)	[8856]	BE	8	960
+Ziaf	B	1508	Iadrkinszher	D6A5000-9	 	Di Fl 		005	Wild	M2 V M4 V	{ -2 }	(C00-1)	[0000]	B	9	-12
+Ziaf	F	1511	Datliatl	X686000-8	 	Di Ga 		000	Wild	M1 V	{ -3 }	(500-1)	[0000]	B	5	-5
+Ziaf	F	1512	Afrzhal	E580000-0	 	Ba De 		003	Wild	F5 V M3 V	{ -3 }	(200+1)	[0000]	B	14	2
+Ziaf	F	1514	Tlifiemdrezh	X543000-7	 	Di Po 		003	Wild	F6 V M3 V	{ -3 }	(800+5)	[0000]	B	9	40
+Ziaf	F	1519	Kievritl	C6329AC-6	 	Hi Na Po 		401	Wild	G4 V	{ 0 }	(B86-1)	[5914]	BE	8	-528
+Ziaf	F	1520	Dezitl	C575755-8	 	Ag Pi 		402	Wild	K4 V	{ 0 }	(B66-1)	[4769]	BCD	11	-396
+Ziaf	J	1522	Zhdokrbsiej	B548788-6	 	Ag Pi 		910	Wild	F7 V M2 V	{ 1 }	(A6C-5)	[4876]	BCD	10	-3600
+Ziaf	J	1525	Flostiej	B432578-B	 	Ni Px Po 		114	Wild	M0 V M4 V	{ 1 }	(C47-2)	[163B]	B	12	-672
+Ziaf	J	1526	Bieiazhanz	A5529A9-9	 	Hi Po 		502	Wild	F4 V	{ 2 }	(D8A+1)	[8B48]	BE	10	1040
+Ziaf	J	1529	Iavlia	D665000-8	 	Di Ga 		001	Wild	K2 V	{ -3 }	(800+1)	[0000]	B	7	8
+Ziaf	N	1531	Bafanzabr	B31299B-8	 	Hi Ic Na In 		400	Wild	G3 V M0 V	{ 2 }	(B85+1)	[BB9A]	BE	5	440
+Ziaf	N	1535	Eljiechfadr	X424000-9	 	Di 		003	Wild	M0 V M1 V	{ -2 }	(900+3)	[0000]	B	8	27
+Ziaf	N	1536	Tlidiser	E758000-0	 	Ba 		000	Wild	K3 V	{ -3 }	(200+1)	[0000]	B	6	2
+Ziaf	N	1538	Vrialiniep	C435486-A	 	Ni Px 		201	Wild	M0 V M2 V M2 V	{ 0 }	(733+1)	[347C]	B	7	63
+Ziaf	B	1604	Charqapl	B200500-9	 	Ni Va 		113	Wild	F6 V	{ 0 }	(B42+1)	[952A]	B	11	88
+Ziaf	B	1607	Tlanshelen	E64A000-C	 	Di Wa 		013	Wild	F8 V M4 V	{ -1 }	(B00-2)	[0000]	B	13	-22
+Ziaf	B	1609	Tlianirad	EAAA000-0	 	Ba Fl 		013	Wild	F0 IV M8 V	{ -3 }	(200-3)	[0000]	B	11	-6
+Ziaf	B	1610	Iala'yash	E9A4000-0	 	Ba Fl 		010	Wild	F5 V	{ -3 }	(200-1)	[0000]	B	10	-2
+Ziaf	J	1621	Fevlpian	A786774-8	 	Ag Ri An Adda1 Ga 		211	Wild	F8 V	{ 2 }	(B6A-2)	[A923]	BC	11	-1320
+Ziaf	J	1625	Iqrchipl	E95699A-3	 	Hi 		203	Wild	G1 V	{ -1 }	(B85+1)	[6845]	BE	11	440
+Ziaf	J	1626	Zdiebieqdlaz	C97A79B-9	 	Pi Wa 		403	Wild	F6 V M8 V	{ 0 }	(C65+1)	[A758]	BD	9	360
+Ziaf	J	1629	Friebeblinz	X402498-6	 	Ic Va Ni Rs 		101	Wild	K0 V	{ -3 }	(730+2)	[3166]	B	5	42
+Ziaf	N	1631	Chteqriakl	C678747-4	 	Ag Pi 		205	Wild	M2 V M6 V	{ 0 }	(966+1)	[4762]	BCD	13	324
+Ziaf	N	1634	Felcha	E746000-0	 	Ba 		001	Wild	F6 V	{ -3 }	(200+2)	[0000]	B	8	4
+Ziaf	N	1635	Rtetlavl	C769345-8	 	Lo 		415	Wild	G3 V M0 V	{ -2 }	(C20+4)	[6119]	B	16	96
+Ziaf	N	1636	Daknatstiant	D777738-4	 	Ag Pi 		301	Wild	M1 V	{ -1 }	(965+4)	[7654]	BCD	9	1080
+Ziaf	C	1703	Plenchzdiepr	A65A657-C	 	Ni Wa 		604	Wild	F9 V	{ 1 }	(D54+3)	[975F]	B	10	780
+Ziaf	C	1704	Ezdo	B5427B8-6	 	He Pi Po 		213	Wild	K7 V M3 V	{ 0 }	(965+3)	[4794]	BD	9	810
+Ziaf	C	1705	Zdenzchach	B52989D-7	 	Ph Pi 		306	Wild	K0 V M3 V	{ 0 }	(A78-1)	[6897]	BDe	14	-560
+Ziaf	C	1706	Brezh	X64A000-7	 	Di Wa 		001	Wild	M1 V	{ -3 }	(900+1)	[0000]	B	10	9
+Ziaf	G	1711	Dovre'	EAB7000-9	 	Di Fl 		002	Wild	G6 V M7 V	{ -2 }	(900+1)	[0000]	B	5	9
+Ziaf	G	1713	Vriaozbench	E423000-0	 	Ba Po 		003	Wild	M2 V	{ -3 }	(200+2)	[0000]	B	11	4
+Ziaf	G	1714	Jderiebl	E77A000-0	 	Ba Wa 		006	Wild	F5 V M2 V	{ -3 }	(200-2)	[0000]	B	10	-4
+Ziaf	G	1719	Iedlsazo	E310000-0	 	Ba 		000	Wild	M1 V	{ -3 }	(200+3)	[0000]	B	11	6
+Ziaf	K	1726	Divre	D310000-B	T 	Di 		001	Wild	M0 V	{ -1 }	(800-1)	[0000]	B	9	-8
+Ziaf	K	1727	Kabriabr	B300843-9	 	Na Pi Ph Va 		300	Wild	F3 V	{ 1 }	(A7D+1)	[B929]	BDe	9	910
+Ziaf	O	1731	Finzhravl	D523000-7	 	Di Po 		005	Wild	M1 V	{ -3 }	(700-3)	[0000]	B	11	-21
+Ziaf	O	1734	Ier Lal	A989300-C	 	Lo 		902	Wild	F6 V M6 V	{ 1 }	(821+1)	[343E]	B	11	16
+Ziaf	C	1803	Drietlqliata	D7B6000-A	 	Di Fl 		002	Wild	M1 V	{ -1 }	(A00-2)	[0000]	B	8	-20
+Ziaf	C	1804	Tletl Niabl	D7B2000-9	 	Di Fl He 		000	Wild	M3 V	{ -2 }	(600+1)	[0000]	B	5	6
+Ziaf	K	1824	Pleplidlat	B6869DB-B	 	Adda1 Ga Hi Pr 		302	Wild	F7 V	{ 3 }	(D86+3)	[AC8D]	BcE	5	1872
+Ziaf	K	1825	Jdrievril	X774000-6	 	Di 		013	Wild	M3 V	{ -3 }	(600-1)	[0000]	B	12	-6
+Ziaf	K	1826	Tsevlnebl	E528000-0	 	Ba 		011	Wild	M0 V M3 V	{ -3 }	(200+4)	[0000]	B	6	8
+Ziaf	K	1827	Stazdovare	C572778-5	 	He Pi 		310	Wild	M2 V M5 V	{ -1 }	(963+1)	[5638]	BD	7	162
+Ziaf	K	1828	Sriezdazh	C67489D-3	W	Pa Pi Ph 		903	Wild	K2 V	{ 0 }	(B78+2)	[8841]	BcDe	10	1232
+Ziaf	K	1829	Vinjiepram	D57A000-9	 	Di Wa 		005	Wild	G6 V M0 V	{ -2 }	(C00+1)	[0000]	B	10	12
+Ziaf	O	1834	Ail Ashe	E310000-0	 	Ba 		002	Wild	M2 V	{ -3 }	(200+3)	[0000]	B	8	6
+Ziaf	O	1835	Kinshazh	X679000-7	 	Di 		012	Wild	M2 V M3 V	{ -3 }	(600+4)	[0000]	B	12	24
+Ziaf	O	1836	Jdatlo	D200000-A	 	Di Va 		004	Wild	G4 V	{ -1 }	(C00+4)	[0000]	B	11	48
+Ziaf	O	1837	Ezyrvr	A55387C-7	W	Ph Po 		213	Wild	K2 V	{ 1 }	(A7D-1)	[7977]	Be	12	-910
+Ziaf	O	1839	Tetayask	A43687A-D	 	An  DroyW Ph 		323	Wild	K8 V	{ 2 }	(F7B-1)	[BA7D]	Be	9	-1155
+Ziaf	C	1904	Qlierqliejez	E550000-0	 	Ba De Po 		023	Wild	K1 V M7 V	{ -3 }	(200+1)	[0000]	B	13	2
+Ziaf	C	1905	Praqlia	X747000-5	 	Di 		010	Wild	M2 V	{ -3 }	(800-4)	[0000]	B	10	-32
+Ziaf	C	1908	Niedrsedl	B565443-9	 	Ni Pa 		502	Wild	M0 V	{ 0 }	(833-3)	[445B]	Bc	11	-216
+Ziaf	C	1909	Evaduts Brem	D657000-5	 	Chir8 Zhod2 Di Ga 		013	Wild	G1 V	{ -3 }	(700-2)	[0000]	B	7	-14
+Ziaf	G	1917	Khoullghukh	B539537-A	 	Ni 		222	Wild	M0 V	{ 1 }	(B47-2)	[765D]	B	12	-616
+Ziaf	G	1920	Eiao	A300544-A	 	Ni Va 		205	Wild	M2 V M8 V	{ 1 }	(C47+2)	[964C]	B	13	672
+Ziaf	K	1921	Gvoguek	B86A837-8	 	Ph Ri Wa 		503	Wild	G1 V	{ 1 }	(D77+1)	[691D]	BCe	15	637
+Ziaf	K	1927	Alenzh	E436000-0	 	Ba 		005	Wild	M1 V	{ -3 }	(200+3)	[0000]	B	13	6
+Ziaf	K	1930	Plialinz	DAC5000-A	 	Di Fl 		004	Wild	M0 V	{ -1 }	(A00+5)	[0000]	B	13	50
+Ziaf	O	1933	Riv	E540358-7	 	De He Lo Po 		902	Wild	G7 V	{ -3 }	(620+3)	[2142]	B	14	36
+Ziaf	O	1934	Siplyievo	D671000-5	 	Di He 		001	Wild	M2 V	{ -3 }	(700-3)	[0000]	B	8	-21
+Ziaf	O	1935	Tsoniab	E000000-0	 	As Va Ba 		014	Wild	M0 V	{ -3 }	(200-4)	[0000]	B	13	-8
+Ziaf	O	1937	Zheianj	C6578CB-3	 	Ga Pa Ph 		210	Wild	M0 V	{ -1 }	(A71+1)	[9791]	Bce	9	70
+Ziaf	C	2002	Piablzda	E767677-5	 	Ag Ri Ga Ni 		415	Wild	K8 V	{ -1 }	(850+1)	[B553]	BC	12	40
+Ziaf	C	2004	Aviadrpi	D999000-9	 	Di 		003	Wild	F6 V	{ -2 }	(900-2)	[0000]	B	9	-18
+Ziaf	C	2005	Brkralifl	C758676-6	W	Ag Ni 		402	Wild	M2 V	{ 0 }	(856-3)	[A667]	BC	10	-720
+Ziaf	C	2009	Jifreste	D687000-B	 	Di Ga 		003	Wild	F5 V	{ -1 }	(A00-3)	[0000]	B	6	-30
+Ziaf	G	2011	Ighksigoug	E8B579C-6	 	Fl 		203	Wild	F5 V M3 V	{ -2 }	(B64+2)	[A598]	B	8	528
+Ziaf	G	2014	Vouthourroel	A765301-9	 	Ga Lo 		614	Wild	G6 V	{ 0 }	(D20-3)	[136A]	B	14	-78
+Ziaf	G	2020	Vaekfue	D567410-3	 	Ni Pa 		202	Wild	F7 V	{ -3 }	(830+5)	[51A2]	Bc	9	120
+Ziaf	K	2025	Vagarr	D696000-5	 	Di 		023	Wild	F6 V M4 V	{ -3 }	(600+3)	[0000]	B	14	18
+Ziaf	K	2026	Kaghzouraek	E737000-A	 	Di 		004	Wild	M0 V	{ -1 }	(900-3)	[0000]	B	8	-27
+Ziaf	K	2028	Depriale	E898000-0	 	Ba 		003	Wild	G1 V M1 V	{ -3 }	(200+1)	[0000]	B	11	2
+Ziaf	O	2031	Kafivr	E584538-2	 	Ag Pr Ni 		404	Wild	G3 V	{ -2 }	(841-2)	[4311]	BcC	9	-64
+Ziaf	O	2033	Shiansar	E310000-0	 	Ba 		004	Wild	M2 V	{ -3 }	(200+2)	[0000]	B	15	4
+Ziaf	O	2034	Yainzh	E591000-0	 	Ba He 		011	Wild	F6 V M4 V	{ -3 }	(200-2)	[0000]	B	9	-4
+Ziaf	C	2101	Bezdeplie	E649000-9	 	Di 		004	Wild	G3 V M4 V	{ -2 }	(E00+1)	[0000]	B	12	14
+Ziaf	C	2102	Miprsakint	C100989-C	 	Hi Na In Va 		104	Wild	F0 V	{ 3 }	(F8A-1)	[6C6D]	BE	15	-1200
+Ziaf	C	2103	Qrins	E655327-4	 	Ga Lo 		902	Wild	F8 V M4 V	{ -3 }	(620-3)	[3186]	B	6	-36
+Ziaf	C	2106	Prevzdi	D522000-7	 	Di He Po 		043	Wild	K1 V M0 V	{ -3 }	(800+3)	[0000]	B	17	24
+Ziaf	C	2107	Zhdieprivl	E7A3000-0	 	Ba Fl 		005	Wild	K8 V M3 V	{ -3 }	(200-1)	[0000]	B	15	-2
+Ziaf	G	2114	Uvethodhaeng	X561000-9	 	Di 		000	Wild	F9 V M6 V	{ -2 }	(600+1)	[0000]	B	5	6
+Ziaf	K	2127	Knoghou	E545000-5	 	Di 		010	Wild	M3 V	{ -3 }	(800+4)	[0000]	B	4	32
+Ziaf	K	2130	Alepzdibia	E6A2000-C	 	Di Fl He 		012	Wild	G7 IV	{ -1 }	(C00+4)	[0000]	B	10	48
+Ziaf	O	2131	Rljek	X424000-B	 	Di 		024	Wild	M3 V	{ -1 }	(D00+2)	[0000]	B	16	26
+Ziaf	O	2132	Onzaqle	X000000-B	 	As Va Di 		024	Wild	M0 V M7 V	{ -1 }	(C00+4)	[0000]	B	9	48
+Ziaf	O	2133	Ialiel	B7A29B7-B	 	Fl He Hi In 		210	Wild	M2 V M7 V	{ 4 }	(C89+4)	[DD1B]	BEf	6	3456
+Ziaf	O	2134	Kef A'	B668447-6	 	Ni Pa 		224	Wild	M3 V	{ -1 }	(630+4)	[3353]	Bc	14	72
+Ziaf	O	2135	Achiatlie	E7A2000-D	 	Di Fl He 		014	Wild	F1 V M7 V M5 V	{ -1 }	(D00-3)	[0000]	B	10	-39
+Ziaf	O	2137	Oz Ie'bria	D799000-5	 	Di 		004	Wild	M2 V	{ -3 }	(800+5)	[0000]	B	12	40
+Ziaf	C	2205	Fliaqzdaint	C551754-5	 	Po 		511	Wild	M3 V	{ -1 }	(968+2)	[B649]	B	8	864
+Ziaf	C	2209	Gvoutsaedhgaz	B753415-6	 	Ni Po 		304	Wild	M1 V	{ -1 }	(733+2)	[1384]	B	15	126
+Ziaf	C	2210	Ninuz	X64A000-C	 	Di Wa 		014	Wild	F5 V M3 V	{ -1 }	(A00+4)	[0000]	B	12	40
+Ziaf	G	2212	Ksuedhei	C687547-8	 	Ag Pr Ga Ni 		312	Wild	K0 V	{ -1 }	(A44+1)	[A448]	BcC	8	160
+Ziaf	G	2213	Vokorkhoereg	C87A772-5	 	Pi Wa 		225	Wild	G2 V M0 V	{ -1 }	(965+2)	[4628]	BD	10	540
+Ziaf	G	2214	Aekhue	B78A555-A	 	Ni Pr Wa 		403	Wild	M0 V M4 V	{ 1 }	(A46+1)	[9646]	Bc	12	240
+Ziaf	G	2216	Kfoezangsaeng	EAD5533-4	 	Ni 		522	Wild	M1 V M3 V	{ -3 }	(743+1)	[9263]	B	11	84
+Ziaf	G	2218	Aetsoghue	X557000-A	 	Di 		003	Wild	F8 V	{ -1 }	(800+1)	[0000]	B	6	8
+Ziaf	G	2220	Llivusae	B567898-5	 	Pa Ri Ph 		907	Wild	M2 V M7 V M6 V	{ 1 }	(B78+1)	[3968]	BcCe	12	616
+Ziaf	K	2223	Soethezllerr	X647000-7	 	Di 		004	Wild	K2 V M4 V	{ -3 }	(300-1)	[0000]	B	12	-3
+Ziaf	K	2225	Gnikghughang	D632874-6	 	Na Po Ph 		102	Wild	G1 V M4 V	{ -2 }	(A72+2)	[9648]	Be	6	280
+Ziaf	K	2226	Gvoenoekagno	B7747AC-6	 	Ag Pi 		623	Wild	K2 V	{ 1 }	(A64+1)	[5869]	BCD	10	240
+Ziaf	K	2227	Iughaengoen	E554000-9	 	Di 		001	Wild	G5 V	{ -2 }	(700+1)	[0000]	B	8	7
+Ziaf	O	2232	Dlanzhek	C420685-7	 	De He Na Po Ni 		403	Wild	M2 V	{ -2 }	(852-2)	[8497]	B	6	-160
+Ziaf	O	2236	Siara	A436447-D	 	Ni 		221	Wild	K1 V	{ 1 }	(936+4)	[657E]	B	11	648
+Ziaf	O	2237	Tlia'diebl	X423000-7	 	Di Po 		004	Wild	M2 V M5 V	{ -3 }	(800+1)	[0000]	B	11	8
+Ziaf	C	2305	Plaplyensh	D873000-7	 	Di 		012	Wild	F2 V M7 V M2 V	{ -3 }	(700+1)	[0000]	B	8	7
+Ziaf	C	2306	Palavl	E56447C-6	 	Ni Pa 		202	Wild	K2 V	{ -3 }	(633-3)	[2184]	Bc	9	-162
+Ziaf	G	2315	Khekhgzakgvog	A526ABC-C	 	Hi In 		200	Wild	K2 V	{ 4 }	(C9A-2)	[EEAD]	BEf	9	-2160
+Ziaf	G	2316	Zoerroel	E533421-5	 	Ni Po 		303	Wild	M2 V	{ -3 }	(631+5)	[5135]	B	12	90
+Ziaf	G	2317	Urzuegksaekh	B96A973-A	 	Hi Pr Wa 		414	Wild	K1 V	{ 3 }	(H8A+1)	[6C48]	BcE	14	1360
+Ziaf	G	2319	Gvuekuer	E889574-5	 	Ni Pr 		203	Wild	G1 V M5 V	{ -3 }	(740+1)	[6247]	Bc	6	28
+Ziaf	G	2320	Zegagh	B436752-C	 			222	Wild	M0 V M7 V	{ 2 }	(D6A+1)	[7969]	B	9	780
+Ziaf	K	2322	Kourrghzungak	D311000-B	 	Di Ic 		002	Wild	F7 IV	{ -1 }	(600+2)	[0000]	B	8	12
+Ziaf	K	2323	Thueaeth	E301000-D	 	Di Ic Va 		005	Wild	F7 V K0 V M2 V	{ -1 }	(D00-2)	[0000]	B	11	-26
+Ziaf	O	2331	Fitl	A7A2A73-D	 	Fl He Hi In 		124	Wild	M3 V M3 V	{ 4 }	(J9F-2)	[CE4B]	BEf	15	-4860
+Ziaf	O	2333	Zhiztidr	X544000-7	 	Di 		010	Wild	K4 V	{ -3 }	(800-4)	[0000]	B	10	-32
+Ziaf	O	2336	Te' Jda	E571000-0	 	Ba He 		000	Wild	K1 V M5 V	{ -3 }	(200+1)	[0000]	B	7	2
+Ziaf	O	2337	Iavenchdal	E878000-9	 	Di 		003	Wild	M2 V	{ -2 }	(B00-2)	[0000]	B	11	-22
+Ziaf	O	2340	Qrantseqr	E567430-5	 	Ni Pa 		214	Wild	M2 V	{ -3 }	(630+1)	[3148]	Bc	10	18
+Ziaf	C	2401	Pleteplish	C669549-5	 	Ni Pr 		213	Wild	G2 V M6 V	{ -2 }	(840+1)	[6374]	Bc	7	32
+Ziaf	C	2404	Nizhvrebnov	B7547CC-7	 	Ag An 		205	Wild	F9 V	{ 1 }	(966-1)	[7856]	BC	11	-324
+Ziaf	C	2405	Dlatsviel	C510310-7	 	Lo 		600	Wild	M2 V	{ -2 }	(620-1)	[3186]	B	7	-12
+Ziaf	G	2413	Ksoeonogh	D431650-6	 	Na Po Ni 		600	Wild	G3 V	{ -3 }	(950+1)	[7397]	B	4	45
+Ziaf	G	2415	Aekakh	D512000-D	 	Di Ic 		005	Wild	M1 V M4 V	{ -1 }	(A00+3)	[0000]	B	11	30
+Ziaf	G	2416	Vegnon	A436557-E	 	Ni 		421	Wild	G9 V M7 V M2 V	{ 1 }	(B43+3)	[564H]	B	9	396
+Ziaf	K	2425	Faerzkersgaes	C78A783-5	 	Ri Wa 		501	Wild	M0 V	{ 0 }	(96B+1)	[6754]	BC	7	594
+Ziaf	K	2426	Aekfazvak	X000000-A	 	An As Va Di 		011	Wild	M3 III	{ -1 }	(700-2)	[0000]	B	5	-14
+Ziaf	K	2430	Ghuegoutsoen	X548000-8	 	Di 		012	Wild	G9 V	{ -3 }	(900-3)	[0000]	B	9	-27
+Ziaf	O	2431	Rats	X89A000-7	 	Di Wa 		005	Wild	M3 V	{ -3 }	(700+3)	[0000]	B	12	21
+Ziaf	O	2432	A'ie Jelde	E696000-5	 	Di 		000	Wild	M2 V	{ -3 }	(700-3)	[0000]	B	4	-21
+Ziaf	O	2434	Kebiach	A3106A6-C	 	Na Ni 		305	Wild	M2 V	{ 1 }	(D53+3)	[4737]	B	10	585
+Ziaf	O	2435	Yiflont	E584676-1	 	Ag Ri Ni 		924	Wild	M2 V	{ -1 }	(950+1)	[7542]	BC	9	45
+Ziaf	O	2436	Yoprtianch	D797000-5	 	Di 		002	Wild	K8 V	{ -3 }	(700-2)	[0000]	B	8	-14
+Ziaf	O	2439	Odlse Dabr	E300000-0	 	Ba Va 		023	Wild	M1 V M7 V	{ -3 }	(200+2)	[0000]	B	13	4
+Ziaf	D	2502	Zia'shtietl	B435851-A	 	Ph 		412	Wild	K2 V M3 V	{ 2 }	(D76+4)	[7A4C]	Be	14	2184
+Ziaf	D	2504	Rabrij	B431696-A	 	Na Px Po Ni 		212	Wild	M3 V	{ 1 }	(B57-3)	[3718]	B	12	-1155
+Ziaf	D	2509	Dongang	X729000-D	 	Di 		003	Wild	M1 V	{ -1 }	(A00+2)	[0000]	B	11	20
+Ziaf	H	2512	Uu	E310000-0	 	Ba 		012	Wild	M3 III	{ -3 }	(200-1)	[0000]	B	14	-2
+Ziaf	L	2524	Gigghuerra	D5A4000-8	 	Di Fl 		012	Wild	K3 IV M5 V	{ -3 }	(A00+2)	[0000]	B	6	20
+Ziaf	L	2525	Alloers	E544000-6	 	Di 		002	Wild	F7 V	{ -3 }	(900+2)	[0000]	B	14	18
+Ziaf	L	2528	Ksukaengkerrg	D626000-7	 	Di 		004	Wild	M0 V M6 V	{ -3 }	(800-1)	[0000]	B	11	-8
+Ziaf	P	2532	Tlavlia	A795796-8	 	Ag Pi 		904	Wild	M3 V M4 V	{ 1 }	(E6A+1)	[8838]	BCD	15	840
+Ziaf	P	2533	Drants	E310000-0	 	Ba 		005	Wild	F1 III	{ -3 }	(200+2)	[0000]	B	16	4
+Ziaf	P	2535	Lavarlietl	X426000-9	 	Di 		002	Wild	K3 V	{ -2 }	(800-2)	[0000]	B	9	-16
+Ziaf	P	2536	Britliesav	E795000-0	 	Ba 		001	Wild	K0 V	{ -3 }	(200-2)	[0000]	B	11	-4
+Ziaf	P	2537	Zhdietsevre	D9B4000-9	 	Di Fl 		004	Wild	M0 V	{ -2 }	(C00-1)	[0000]	B	10	-12
+Ziaf	D	2601	Abrjdepl	C884400-6	 	Ni Pa 		320	Wild	K1 V M4 V	{ -2 }	(631+4)	[3258]	Bc	8	72
+Ziaf	D	2605	Orzouraenuen	B877785-5	 	Ag Pi 		202	Wild	M0 V M6 V	{ 1 }	(96A-1)	[9893]	BCD	10	-540
+Ziaf	D	2606	Gvarrggvueng	D792000-7	 	Di He 		002	Wild	G2 V	{ -3 }	(800+1)	[0000]	B	5	8
+Ziaf	D	2607	Aragh	D430877-5	 	De Na Po Ph 		213	Wild	M3 V	{ -2 }	(A75+1)	[7661]	Be	9	350
+Ziaf	D	2609	Forasoknurr	D543000-7	 	Di Po 		010	Wild	F7 V	{ -3 }	(700+3)	[0000]	B	5	21
+Ziaf	H	2612	Gnagvouregar	D575000-9	 	Di 		034	Wild	F5 V F9 V	{ -2 }	(F00-1)	[0000]	B	16	-15
+Ziaf	H	2614	Aea	D6A2000-8	 	Di Fl He 		000	Wild	M1 V	{ -3 }	(600+3)	[0000]	B	8	18
+Ziaf	H	2616	Ighkfaedh	D000000-D	 	As Va Di 		010	Wild	M6 III	{ -1 }	(700-1)	[0000]	B	6	-7
+Ziaf	L	2623	Retskalluekh	A58548B-8	 	An Ni Pa 		225	Wild	M0 V M8 V	{ -1 }	(F32+1)	[336B]	Bc	15	90
+Ziaf	L	2626	Khoezoun	X651778-0	 	(minor) Po 		211	Wild	G3 V	{ -2 }	(968+2)	[7541]	B	12	864
+Ziaf	L	2629	Ghighorran	E544000-5	 	Di 		000	Wild	M1 V M3 V	{ -3 }	(600+1)	[0000]	B	4	6
+Ziaf	P	2631	Ongaeghz	E749000-6	 	Di 		004	Wild	G9 IV M7 V	{ -3 }	(700+1)	[0000]	B	9	7
+Ziaf	P	2633	Plintsiedl	CAC57BB-8	W	Fl 		405	Wild	M0 V M5 V	{ 0 }	(E6A-1)	[9767]	B	13	-840
+Ziaf	P	2636	Kriachtie	C585577-4	 	Ag Pr Ni 		905	Wild	M3 V	{ -1 }	(842-1)	[4422]	BcC	12	-64
+Ziaf	P	2638	Qatlie'	E889000-9	 	Di 		014	Wild	F6 IV	{ -2 }	(B00+1)	[0000]	B	8	11
+Ziaf	D	2705	Thuengaela	D000000-A	 	As Va Di 		022	Wild	M0 V	{ -1 }	(800+1)	[0000]	B	11	8
+Ziaf	D	2709	Kfathaell	A100722-C	 	Na Pi Va 		203	Wild	F4 V	{ 2 }	(C6A-1)	[599H]	BD	8	-720
+Ziaf	D	2710	Rroakhin	D547000-8	 	Di 		000	Wild	G1 V M1 V G8 V	{ -3 }	(700+2)	[0000]	B	6	14
+Ziaf	H	2711	Kfondhoenkog	X554000-7	 	Di 		015	Wild	F4 V G4 V	{ -3 }	(500+3)	[0000]	B	13	15
+Ziaf	H	2713	Zoekoksilloen	B438457-A	 	Ni 		210	Wild	K2 V	{ 1 }	(737+2)	[153D]	B	9	294
+Ziaf	H	2718	Aeaeg	D99A000-B	 	Di Wa 		023	Wild	G2 V	{ -1 }	(C00+2)	[0000]	B	9	24
+Ziaf	P	2734	Vashtebl	X595000-9	 	Di 		022	Wild	K4 V M1 V	{ -2 }	(C00+2)	[0000]	B	13	24
+Ziaf	P	2735	Zhdeql	D998000-A	 	Di 		014	Wild	G0 IV	{ -1 }	(D00-3)	[0000]	B	12	-39
+Ziaf	P	2736	Fiaerinzh	E536000-0	 	Ba 		002	Wild	M0 V	{ -3 }	(200+1)	[0000]	B	7	2
+Ziaf	P	2740	Lanse Sho'	XA7A000-B	 	Di Oc 		004	Wild	M1 V	{ -1 }	(A00+4)	[0000]	B	10	40
+Ziaf	D	2801	Riensh	D420000-7	 	De He Di Po 		001	Wild	M0 V	{ -3 }	(600+3)	[0000]	B	8	18
+Ziaf	D	2808	Uekougidzoeng	B540977-6	 	De He Hi In Po 		304	Wild	F6 V M3 V	{ 2 }	(B87+2)	[5B32]	BE	10	1232
+Ziaf	D	2809	Vorrgoee	E647000-A	 	Di 		010	Wild	G0 V M2 V	{ -1 }	(800-2)	[0000]	B	7	-16
+Ziaf	D	2810	Oazaerrghoell	C546878-4	 	Pa Pi Ph 		210	Wild	F4 V	{ -1 }	(A75+1)	[8759]	BcDe	8	350
+Ziaf	H	2816	Gaeksakhugh	B858775-9	 	Ag 		314	Wild	F9 V M0 V	{ 2 }	(E68+1)	[9948]	BC	12	672
+Ziaf	H	2818	Koghagtog	AAB79BC-B	 	Fl Hi In 		313	Wild	K2 V	{ 4 }	(F8B+2)	[4D39]	BEf	10	2640
+Ziaf	H	2819	Dhorrghrer	E98A000-7	 	Di Wa 		010	Wild	F7 V	{ -3 }	(400+3)	[0000]	B	6	12
+Ziaf	L	2825	Ugul	C8758BA-6	 	Pa Pi Ph 		422	Wild	F9 V	{ -1 }	(B76+5)	[A779]	BcDe	8	2310
+Ziaf	L	2827	Agvalae	X77A000-B	 	Di Wa 		012	Wild	F9 V	{ -1 }	(B00+1)	[0000]	B	7	11
+Ziaf	L	2830	Karsrrukksoks	E73A536-8	 	Ni Wa 		102	Wild	K9 V	{ -3 }	(940-1)	[627B]	B	5	-36
+Ziaf	P	2833	Dadetlal	A656721-8	 	Ag Ga 		504	Wild	K0 V	{ 1 }	(D66+4)	[682C]	BC	15	1872
+Ziaf	P	2836	Koavrivr	B885889-8	 	Adda1 Ga Pa Ri Ph 		913	Wild	M0 V	{ 1 }	(F7D+5)	[8969]	BcCe	8	6825
+Ziaf	P	2838	Shok Ons	D8C4000-9	 	Di Fl 		002	Wild	F7 V	{ -2 }	(B00+1)	[0000]	B	6	11
+Ziaf	P	2839	Anzchiefr	E5967A6-5	 	Ag Pi 		232	Wild	F4 V	{ -1 }	(963+1)	[7659]	BCD	9	162
+Ziaf	D	2903	Zhetspo	C6228CF-7	 	He Na Pi Po Ph 		312	Wild	F5 V	{ -1 }	(A77+2)	[D755]	BDe	10	980
+Ziaf	D	2910	Kherzlaenighz	C868775-3	 	Ag Ri 		313	Wild	G9 V	{ 1 }	(963+1)	[4841]	BC	16	162
+Ziaf	H	2915	Kfaekhan	D000759-8	 	As Va Na Pi 		924	Wild	F8 V	{ -2 }	(G62-1)	[4555]	BD	13	-192
+Ziaf	H	2916	Ksoenokhllun	B55788C-8	 	Pa Ph 		403	Wild	F8 V M4 V	{ 0 }	(D79-2)	[A8A8]	Bce	11	-1638
+Ziaf	L	2924	Vizanuelir	X885000-5	 	Di Ga 		005	Wild	F5 V M2 V	{ -3 }	(400+2)	[0000]	B	10	8
+Ziaf	L	2925	Ghadeg	A533345-9	 	Lo Po 		913	Wild	M3 V M3 V	{ 0 }	(A20-1)	[234B]	B	10	-20
+Ziaf	L	2927	Nitsaeller	A5A0314-9	 	He Lo 		914	Wild	K0 V	{ 0 }	(B20+1)	[339B]	B	10	22
+Ziaf	L	2929	Kfinegh	D100000-C	 	Di Va 		003	Wild	M2 V M3 V	{ -1 }	(700+1)	[0000]	B	10	7
+Ziaf	P	2931	Ogz	D544000-A	 	Di Zhod1 		024	Wild	F3 V	{ -1 }	(E00+1)	[0000]	B	12	14
+Ziaf	P	2932	Sarrsarz	D436798-5	 			412	Wild	G1 IV M3 V	{ -2 }	(A66+4)	[9525]	B	7	1440
+Ziaf	P	2933	Idliaosh	E000000-0	 	As Va Ba 		024	Wild	M0 V	{ -3 }	(200+1)	[0000]	B	9	2
+Ziaf	P	2934	Zhdoiesh	A200642-C	 	Na Ni Va 		302	Wild	K8 V	{ 1 }	(A53+4)	[875C]	B	6	600
+Ziaf	P	2936	Adltsap	B526886-9	 	Ph Pi 		220	Wild	M3 V	{ 1 }	(D79+1)	[B938]	BDe	7	819
+Ziaf	P	2937	Tliabr Ons	E79A000-9	 	Di Wa 		005	Wild	M1 V	{ -2 }	(B00-5)	[0000]	B	13	-55
+Ziaf	P	2938	Ants	B000958-C	 	As Va Hi Na In 		223	Wild	M1 V	{ 4 }	(G8D-2)	[8D87]	BEf	11	-3328
+Ziaf	P	2939	Jablnishoz	B595AFH-B	 	Hi In 		210	Wild	M3 V	{ 4 }	(D9B-2)	[CE6A]	BEf	9	-2574
+Ziaf	D	3001	Dripliestavl	X437000-A	 	Di 		002	Wild	G2 V	{ -1 }	(900+1)	[0000]	B	10	9
+Ziaf	D	3003	Steshnino	C549837-7	 	Ph Pi 		503	Wild	K3 V	{ -1 }	(A75-2)	[6735]	BDe	9	-700
+Ziaf	D	3005	Ksokhuen	D665000-8	 	Di Ga 		012	Wild	G6 V M1 V	{ -3 }	(600-1)	[0000]	B	9	-6
+Ziaf	D	3008	Aeren	D6568BG-1	 	Ga Pa Ph 		913	Wild	F6 V	{ -2 }	(B75-1)	[B675]	Bce	7	-385
+Ziaf	D	3010	Vathdzoenksen	X764000-B	 	Di 		014	Wild	G0 V	{ -1 }	(900-3)	[0000]	B	8	-27
+Ziaf	L	3027	Oekhkuk	E431577-5	 	Ni Px Po 		104	Wild	G7 V	{ -3 }	(742-1)	[7248]	B	14	-56
+Ziaf	L	3030	Noentsazuek	E526000-9	 	Di 		001	Wild	M3 V	{ -2 }	(400+2)	[0000]	B	6	8
+Ziaf	P	3033	Bartsel	E549000-9	 	An Di 		022	Wild	K7 V M9 V	{ -2 }	(B00-1)	[0000]	B	14	-11
+Ziaf	P	3035	Jdianzhili	D655000-7	 	Di Ga 		024	Wild	M2 V M3 V	{ -3 }	(600-2)	[0000]	B	11	-12
+Ziaf	P	3037	Anshdem	D768000-B	 	Di 		000	Wild	K7 V	{ -1 }	(600+1)	[0000]	B	13	6
+Ziaf	P	3039	Daflanzhr	E540000-0	 	Ba De He Po 		002	Wild	M2 V M9 V	{ -3 }	(200+1)	[0000]	B	12	2
+Ziaf	P	3040	Stansinz	E666000-0	 	Ba Ga 		004	Wild	M2 V	{ -3 }	(200+1)	[0000]	B	10	2
+Ziaf	D	3108	Thugnun	E539000-9	 	Di 		004	Wild	M0 V M6 V	{ -2 }	(900+1)	[0000]	B	12	9
+Ziaf	D	3109	Ozuega	D97AA75-9	 	Hi In Wa 		400	Wild	K0 V	{ 1 }	(C98-4)	[BB5A]	BE	13	-3456
+Ziaf	D	3110	Kfanen	E593000-5	 	Di 		003	Wild	F5 V	{ -3 }	(700+2)	[0000]	B	14	14
+Ziaf	H	3113	Khakenaegh	C53A774-6	 	Wa 		206	Wild	M1 V M6 V	{ -1 }	(969+2)	[8637]	B	12	972
+Ziaf	H	3114	Dhoififous	D423000-8	 	Di Po 		003	Wild	F9 V M7 V	{ -3 }	(B00+1)	[0000]	B	15	11
+Ziaf	H	3115	Agzou	E799000-5	 	Di 		003	Wild	F6 V M2 V	{ -3 }	(800-2)	[0000]	B	15	-16
+Ziaf	H	3116	Aekfethoug	D438000-8	 	An Di 		004	Wild	M2 V	{ -3 }	(900+2)	[0000]	B	11	18
+Ziaf	H	3120	Ruegtaelekh	C591737-4	 	He Pi 		224	Wild	K1 V	{ -1 }	(96A+1)	[6626]	BD	9	540
+Ziaf	L	3128	Ghaae	E759000-5	 	Di 		003	Wild	F9 V M4 V	{ -3 }	(500+1)	[0000]	B	9	5
+Ziaf	L	3130	Rakgaerz	E988503-3	 	Ag Pr Ni 		512	Wild	F4 V	{ -2 }	(744-1)	[4314]	BcC	13	-112
+Ziaf	P	3135	Zdi'chaf	X000000-C	T 	As Va Di 		015	Wild	A6 V	{ -1 }	(C00+2)	[0000]	B	9	24
+Ziaf	P	3136	Dalkr	EAA6000-0	 	Ba Fl 		004	Wild	K4 V M2 V	{ -3 }	(200+5)	[0000]	B	13	10
+Ziaf	P	3138	Iadriefria	D542000-6	 	Di He Po 		000	Wild	M0 V	{ -3 }	(600-1)	[0000]	B	13	-6
+Ziaf	P	3140	Krianstabr	D726000-7	 	Di 		002	Wild	M0 V M2 V	{ -3 }	(800+1)	[0000]	B	11	8
+Ziaf	D	3201	Biezchodl	E6A3000-0	 	Ba Fl 		000	Wild	M2 V	{ -3 }	(200+1)	[0000]	B	9	2
+Ziaf	H	3212	Thiae	D889753-4	 	Ri 		222	Wild	G2 V M1 V	{ -1 }	(965-3)	[9656]	BC	14	-810
+Ziaf	H	3217	Dziradz	E544000-6	 	Di 		002	Wild	M0 V	{ -3 }	(700-2)	[0000]	B	15	-14
+Ziaf	H	3220	Fakhuetsaeth	X9B5000-9	 	Di Fl 		004	Wild	M1 V	{ -2 }	(700-4)	[0000]	B	13	-28
+Ziaf	L	3225	Khighugho	B554443-7	 	Ni Pa 		105	Wild	F5 V	{ -1 }	(734+1)	[4393]	Bc	14	84
+Ziaf	P	3231	Kfaethugh	E584511-5	 	Ag Pr Ni 		910	Wild	M1 V	{ -2 }	(841-1)	[1366]	BcC	14	-32
+Ziaf	P	3232	Qranchava	E896000-0	 	Ba 		010	Wild	M2 V M5 V	{ -3 }	(200+1)	[0000]	B	14	2
+Ziaf	P	3233	Eberish	D78577B-4	 	Ag Ri Ga 		222	Wild	K3 V	{ 0 }	(968+3)	[8779]	BC	14	1296
+Ziaf	P	3235	Shombrie' Prak	E573000-0	 	Ba 		010	Wild	M2 V M9 V	{ -3 }	(200+3)	[0000]	B	14	6
+Ziaf	P	3237	Yiranz	E300000-8	 	Di Va 		003	Wild	G7 V M1 V	{ -3 }	(A00+1)	[0000]	B	15	10
+Ziaf	P	3240	Iepriats	D886630-4	 	Ag Ri Ga Ni 		103	Wild	G5 V	{ -1 }	(854-3)	[7557]	BC	12	-480

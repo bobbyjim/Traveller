@@ -1,0 +1,287 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+Gate	I	0127	Tanis	XA89684-8	 	     Ni Ri 	B	320	NaHu	F0 V	-2	(A54-1)	[942A]	BC	8	-200
+Gate	I	0130	Far Portal	X438000-A	 	     Di 		023	NaHu	M4 III	-1	(C00+1)	[0000]	B	12	12
+Gate	M	0135	Harper	X647866-5	 	    Pz  Pa Pi Ph (NIL)		115	NaHu	F9 V G9 V	-2	(C75+1)	[8613]	BcDe	14	420
+Gate	M	0140	Brevin	X563120-6	 	     Lo 		120	NaHu	F7 V	-3	(500+4)	[1143]	B	9	20
+Gate	I	0230	Costavan	X560410-4	 	     De Ni 	B	301	NaHu	F4 V G0 V	-3	(630-3)	[4125]	B	7	-54
+Gate	M	0233	Renaldo	X430000-9	 	     O:0332  De Di Na Po 		023	NaHu	K2 V M6 V	-2	(D00+1)	[0000]	B	16	13
+Gate	M	0236	Hesperinth	X673773-6	 	      	B	105	NaHu	F3 V	-2	(868-2)	[4545]	B	14	-768
+Gate	M	0239	Hadley Station	XABA000-8	 	     Di Fl 		013	NaHu	M3 V	-3	(800+1)	[0000]	B	12	8
+Gate	I	0323	Newpontere	X597475-6	 	     Ni Pa 		424	NaHu	F2 V M8 V	-3	(630+4)	[4116]	Bc	16	72
+Gate	I	0327	Castamaria	X64A334-4	 	     Lo Wa 		801	NaHu	F6 V	-3	(820-5)	[3175]	B	7	-80
+Gate	M	0332	Caldwell	X401000-A	 	      Di Ic Va Na 		023	NaHu	M3 V	-1	(D00+1)	[0000]	B	12	13
+Gate	M	0334	Baker	C876778-8	 	     Pz  Ag Pi (NIL)	B	205	NaHu	F9 V	0	(E66+2)	[B717]	BCD	9	1008
+Gate	M	0337	Thomwell	D776879-8	 	     Pz  Pa Pi Ph (NIL)	B	701	NaHu	A3 V G3 V	-2	(B72+3)	[8666]	BcDe	13	462
+Gate	M	0340	Mork	E558449-0	 	     Ni Pa 	B	411	NaHu	F3 V	-3	(630+1)	[5121]	Bc	12	18
+Gate	A	0407	Isolation	X7C2000-B	 	      Di Fl He 		014	NaHu	K1 V K8 V	-1	(C00+2)	[0000]	B	15	24
+Gate	I	0425	Redstorm	X626000-7	 	     Di Pi (NIL)		000	GaFd	F7 V	-3	(A00+1)	[0000]	BD	11	10
+Gate	I	0430	Tamerij	C567999-5	 	     Hi Pr (NIL)		305	GaFd	F2 V M9 V	0	(B89+1)	[5961]	BcE	16	792
+Gate	M	0433	Dumnar	E554557-3	 	     Ag Ni 		400	GaFd	A3 V F2 V	-2	(741+1)	[4375]	BC	5	28
+Gate	M	0437	Pendejest	XAB5000-8	 	    Di Fl Px 		021	NaHu	M1 V M1 V	-3	(A00+3)	[0000]	B	12	30
+Gate	A	0502	Winternight	X516000-A	 	     Di Ic 		022	NaHu	M6 II D	-1	(800-2)	[0000]	B	8	-16
+Gate	E	0515	Splinter	XAAA000-8	 	     Di Fl 		012	NaHu	M0 V	-3	(800+4)	[0000]	B	10	32
+Gate	I	0527	Amberinth	D7859DB-5	 	     (Dastri)  Ga Hi Pr (NIL)	B	100	GaFd	G1 V	-1	(A8A+1)	[5843]	BcE	4	800
+Gate	I	0528	Tharver	D775930-5	 	     Hi Pi (NIL)	B	111	GaFd	F3 V	-1	(B85+1)	[9855]	BDE	9	440
+Gate	M	0534	Monopoly	E8888A6-5	 	      Pa Ri Ph (NIL)	B	313	GaFd	F2 V	-1	(A72+1)	[4724]	BcCe	14	140
+Gate	M	0536	Grom	XAA5000-8	 	     Di Fl 		001	NaHu	M1 V	-3	(600-3)	[0000]	B	7	-18
+Gate	I	0622	Ithelu	X675511-5	 	     Ag Ni 		533	NaHu	F4 V	-2	(740-3)	[A321]	BC	14	-84
+Gate	I	0625	Revonis	X420000-A	 	      De He Di Po 		002	GaFd	M1 V	-1	(800+3)	[0000]	B	8	24
+Gate	I	0629	Williwaw	X999555-1	 	     Ni 	B	302	GaFd	F3 V	-3	(740-1)	[7223]	B	9	-28
+Gate	M	0631	Sanderay	D59A585-2	 	     Ni Wa 	B	511	GaFd	F5 V	-3	(740+2)	[6244]	B	11	56
+Gate	M	0637	Jove	X310000-9	 	     Di Na 		012	NaHu	F4 V M0 V	-2	(B00+2)	[0000]	B	12	22
+Gate	M	0639	Basternevis	D575576-4	 	     Ag Ni 		321	NaHu	F6 V M4 V	-2	(740+3)	[2362]	BC	8	84
+Gate	E	0720	Hollmann	X9B4000-9	 	    Di Fl Px 		013	NaHu	M1 V	-2	(A00+2)	[0000]	B	8	20
+Gate	I	0724	Carper	X000000-B	 	      As Va Di 		033	GaFd	A4 V F4 V	-1	(C00-3)	[0000]	B	12	-36
+Gate	I	0727	Thermal	X75256A-4	 	     Ni Po 	B	224	GaFd	F1 V G6 V	-3	(741+1)	[1251]	B	15	28
+Gate	M	0732	Basilisk	X300000-7	 	     Di Na Va 		002	GaFd	F3 V	-3	(800+2)	[0000]	B	8	16
+Gate	M	0735	Shivaree	X768734-6	 	      Ag Ri (NIL)	B	912	NaHu	F7 V	0	(969-1)	[9765]	BC	11	-486
+Gate	A	0801	Glee	X430000-A	 	      De Di Na Po 		010	NaHu	K4 V	-1	(900+5)	[0000]	B	12	45
+Gate	A	0804	Fornook	X100000-9	 	     Di Va 		002	NaHu	M0 V	-2	(800-4)	[0000]	B	14	-32
+Gate	I	0825	Corstation	X005000-8	 	       Di Ic Va 		011	GaFd	M0 V M1 V	-3	(500-2)	[0000]	B	14	-10
+Gate	M	0831	Grosbeak	X7C2000-A	 	      Di Fl He 		010	GaFd	M3 V M5 V	-1	(500+2)	[0000]	B	8	10
+Gate	M	0832	Aqua Marina	D58A440-8	 	      Ni Wa (NIL)		300	GaFd	G7 V M7 V	-3	(A33-4)	[6157]	B	6	-360
+Gate	M	0837	Rock	X420000-7	 	      De He Di Po 		012	NaHu	G4 V	-3	(400+2)	[0000]	B	15	8
+Gate	M	0838	Somberview	X310000-7	 	      Di Na Pi 		002	NaHu	F2 V	-3	(A00-1)	[0000]	BD	15	-10
+Gate	B	0901	Hishan	X200000-9	 	     Di Va 		011	NaHu	G6 V	-2	(800+5)	[0000]	B	12	40
+Gate	B	0908	Ploor	E553103-6	 	     Lo Po 		821	NaHu	A6 V F4 V	-3	(500+1)	[1138]	B	13	5
+Gate	J	0921	Salur	X746120-5	 	      Lo (NIL)		411	GaFd	M0 V M2 V	-3	(B00+4)	[1148]	B	9	44
+Gate	J	0928	Galesta	E79798B-8	 	     Hi In (NIL)		410	GaFd	F3 V	0	(C8A+2)	[696B]	BE	7	1920
+Gate	N	0934	Vinie's World	X435000-6	 	   Di Pz  (NIL)		001	NaHu	M3 II D	-3	(900-2)	[0000]	B	7	-18
+Gate	N	0938	Crostan	E543651-4	 	     Ni Po 		302	NaHu	A3 V F4 V	-3	(850+1)	[A354]	B	15	40
+Gate	F	1012	Gulf	X679420-6	 	     Ni 		513	NaHu	F3 V	-3	(630+2)	[3174]	B	11	36
+Gate	F	1016	Pasternak	X301000-A	 	      Di Ic Va Na 		014	NaHu	G3 V	-1	(D00-2)	[0000]	B	13	-26
+Gate	F	1019	Terrier	X869540-5	 	     Ni Pr 		413	GaFd	K9 V	-3	(740+2)	[6215]	Bc	8	56
+Gate	J	1022	Carver's Range	E669659-7	 	     Ni Ri 		812	GaFd	G2 V	-2	(852+3)	[8467]	BC	14	240
+Gate	J	1026	Xandolar	X626000-7	 	     Di Pi (NIL)		014	GaFd	F7 V	-3	(A00-1)	[0000]	BD	15	-10
+Gate	J	1030	Hanumisk	X642999-4	 	      He Hi Pi Po (NIL)	B	112	GaFd	G6 V	-1	(B83+3)	[C886]	BDE	10	792
+Gate	N	1034	Pathway	D748441-4	 	     Ni Pa 		513	CsIm	G0 V M9 V	-3	(730-5)	[3143]	Bc	9	-105
+Gate	N	1039	Indolence	X585476-3	 	     Ni Pa 		512	NaHu	F6 V	-3	(632-1)	[7151]	Bc	7	-36
+Gate	B	1101	Guntar	C8969A7-7	 	    Pz  Hi In (NIL)	B	322	HoPA	G5 V	1	(B86+2)	[AA83]	BE	12	1056
+Gate	B	1105	Vandemeerin	X878754-3	 	     O:1108  Ag Pi (NIL)	B	412	NaHu	G4 V	-1	(96A-2)	[C675]	BCD	12	-1080
+Gate	B	1108	Aldo	X200000-A	 	     Di Na Va 		012	NaHu	M1 V	-1	(B00+2)	[0000]	B	13	22
+Gate	J	1121	Cresta	E768998-8	 	     Hi Pr (NIL)		411	GaFd	K0 V	-1	(D88+2)	[689D]	BcE	8	1664
+Gate	J	1124	Perelaar	X8A8000-9	 	     Di Fl In (ENIL)		023	GaFd	F8 V M2 V	-1	(G00-3)	[0000]	BE	13	-48
+Gate	J	1126	Tarabalu	E554431-4	 	     Ni Pa 		411	GaFd	F9 V	-3	(631-2)	[2164]	Bc	15	-36
+Gate	J	1129	Jastin	D76A56A-3	 	     Ni Pr Wa 	B	525	GaFd	F8 V	-3	(843+3)	[9292]	Bc	13	288
+Gate	N	1133	Alphaaric	X996325-4	 	     (Faar)  Lo 	B	132	NaHu	F4 V	-3	(620-3)	[7175]	B	11	-36
+Gate	N	1134	Beshavaram	X426000-B	 	     Di 		035	NaHu	G7 V	-1	(G00+4)	[0000]	B	20	64
+Gate	N	1136	Halik	X432000-8	 	     Di Na Po (NIL)		032	NaHu	K2 V M1 V	-3	(E00-1)	[0000]	B	13	-14
+Gate	B	1202	Vishanerella	X100000-8	 	    Da  Di Va 		013	HoPA	K6 V	-3	(B00+3)	[0000]	B	10	33
+Gate	B	1210	Inast	C663688-6	 	    Da (HoPA)  Ni Ri 		812	NaHu	F1 V M9 V	-1	(850+1)	[8587]	BC	13	40
+Gate	F	1213	Dova's World	X100000-7	 	    Fo  Di Va 		003	NaHu	K4 V	-3	(600-2)	[0000]	B	12	-12
+Gate	F	1215	Cometary	X310000-9	 	    O:1016  Di 		034	NaHu	M2 V M8 V	-2	(D00-3)	[0000]	B	18	-39
+Gate	F	1218	Wolden	D547313-7	 	      Lo (NIL)		115	GaFd	F3 V M1 V	-3	(B20+2)	[3189]	B	17	44
+Gate	F	1220	Gateway	X002000-B	 	        Di Ic Va Na 		022	GaFd	A2 V F0 V	-1	(C00+2)	[0000]	B	16	24
+Gate	J	1223	Urel	X88A000-A	 	      Di Wa (NIL)		013	GaFd	A7 V F3 V	-1	(F00+3)	[0000]	B	11	45
+Gate	N	1234	Yar	X8D3000-8	 	     Di 		000	GaFd	F3 V G8 V	-3	(700+3)	[0000]	B	6	21
+Gate	N	1240	Falray	X544668-5	 	     Ag Ni 		315	NaHu	F6 V	-2	(853-4)	[A456]	BC	17	-480
+Gate	B	1303	Danovan	E79A545-7	 	    Da  Ni Wa 		304	HoPA	F0 V	-3	(743-1)	[8228]	B	15	-84
+Gate	B	1308	Hesh	D565569-2	 	     O:1406  Ag Pr Ni 	B	512	HoPA	F0 V M7 V	-2	(741+4)	[8361]	BcC	12	112
+Gate	B	1310	Luray	X648244-3	 	    Da (HoPA)  Lo 		133	NaHu	G1 V K1 V	-3	(510+4)	[6174]	B	15	20
+Gate	F	1319	Galvaren	X748656-6	 	     Ag Ni 	B	712	GaFd	A3 V F8 V	-2	(852+2)	[6435]	BC	14	160
+Gate	J	1322	Tovren	E879478-7	 	     Ni 		513	GaFd	F5 V	-3	(630+1)	[1166]	B	14	18
+Gate	J	1327	Medrealm	C876776-5	 	     Pz  Ag Pi (NIL)	B	591	NaHu	K1 V	0	(967+1)	[4759]	BCD	14	378
+Gate	J	1330	King	X580133-5	 	     De Lo 		104	NaHu	F5 V	-3	(500+1)	[3153]	B	13	5
+Gate	N	1338	Whister	X688103-5	 	     Lo 		412	ViCo	G8 V	-3	(500-3)	[1151]	B	11	-15
+Gate	N	1339	Gronegger	X313000-9	 	    O:1637  Di Ic 		013	ViCo	K2 V	-2	(B00-2)	[0000]	B	15	-22
+Gate	B	1404	Reppler	XA55000-6	 	     Pz  Di (NIL)		015	NaHu	F6 V	-3	(A00+1)	[0000]	B	16	10
+Gate	B	1406	Kaskaria	X624000-9	 	   Pz  Di Pi (NIL)		023	HoPA	M1 V	-2	(E00+2)	[0000]	BD	14	28
+Gate	B	1410	Concord	E68775A-6	 	      Da  Ag Ri Ga 		100	NaHu	F5 V G3 V	0	(868-2)	[973B]	BC	8	-768
+Gate	F	1412	Tovis	X664542-3	 	      Ag Pr Ni 	B	310	PlLe	F3 V F8 V	-2	(741+2)	[6315]	BcC	11	56
+Gate	F	1413	Windfleet	X779303-2	 	      Lo (NIL)		210	PlLe	F5 V M8 V	-3	(B20+1)	[1142]	B	7	22
+Gate	F	1416	Havary	E553576-5	 	     Ni Po 		512	NaHu	F2 V F3 V	-3	(740+2)	[6268]	B	10	56
+Gate	J	1423	Riga	X675899-6	 	      Pa Pi Ph (NIL)	B	910	TrCo	G7 V	-2	(A74+1)	[C689]	BcDe	13	280
+Gate	J	1424	Welmertin's Station	X7B5000-9	 	    O:1527  Di Fl 		012	TrCo	A2 V G7 V	-2	(900+3)	[0000]	B	14	27
+Gate	J	1428	Orage	X420000-9	 	       Pz  De He Di Na In Po (NIL)		034	NaHu	F9 V	-1	(K00+1)	[0000]	BE	14	19
+Gate	N	1432	Namitin	X525000-7	 	     Di 		010	ViCo	G2 V M2 V	-3	(500-2)	[0000]	B	9	-10
+Gate	N	1436	Clavaba	E566444-4	 	     Ni Pa 		511	ViCo	F4 V	-3	(633-1)	[5155]	Bc	5	-54
+Gate	B	1501	Therinth	X833000-9	 	     Pz  Di Na Po (NIL)		012	HoPA	A1 V F0 V	-2	(D00-1)	[0000]	B	11	-13
+Gate	B	1505	Velan	D87A856-2	 	   Pz  Ph Pi Wa (NIL)	B	210	HoPA	F5 V K0 V	-2	(973-3)	[9621]	BDe	10	-567
+Gate	B	1508	Bospin	X556389-6	 	      Lo 		300	HoPA	K4 V	-3	(620+1)	[1167]	B	9	12
+Gate	F	1512	Vosrin	X87A8BB-7	 	     Ph Pi Wa (NIL)	B	823	PlLe	K2 V	-2	(B75+1)	[8659]	BDe	14	385
+Gate	F	1513	Tash	X968869-5	 	      Pa Ri Ph (NIL)	B	510	PlLe	F0 V	-1	(A74-3)	[9764]	BcCe	4	-840
+Gate	F	1514	Foriv	X7728A9-5	 	     He Ph Pi (NIL)	B	912	PlLe	F0 V	-2	(B76+5)	[4691]	BDe	12	2310
+Gate	F	1519	Anderson	XACA000-B	 	     Di Fl 		021	NaHu	M2 V M9 V	-1	(800-2)	[0000]	B	14	-16
+Gate	F	1520	Halverson's Rocks	X000000-A	 	       As Va Di Na Pi 		032	NaHu	F6 V	-1	(F00+3)	[0000]	BD	13	45
+Gate	J	1526	Nadia	X747779-5	 	     Fo  Ag 	B	102	TrCo	G6 V	-1	(864-2)	[4658]	BC	12	-384
+Gate	J	1527	Taravesh	X79976B-5	 	       (NIL)	B	124	TrCo	G6 V	-2	(B67-1)	[9586]	B	18	-462
+Gate	J	1530	Gaspar Belt	X000000-B	 	      As Va Di Na 		032	ViCo	M2 V	-1	(D00-5)	[0000]	B	14	-65
+Gate	N	1531	Ariel	X684557-3	 	      Ag Pr Ni 		513	ViCo	F6 V K6 V	-2	(741-1)	[9391]	BcC	8	-28
+Gate	N	1535	Plinth	D553333-7	 	     Lo Po 		713	ViCo	F8 V M2 V	-3	(520+2)	[4157]	B	8	20
+Gate	B	1601	Granth	D877ABF-9	 	     Pz  Hi In (NIL)	B	110	HoPA	F6 V F7 V	1	(C9B+1)	[DB3C]	BE	7	1188
+Gate	B	1604	Tarvad	X67599A-5	 	     Pz  Hi Pi (NIL)	B	112	HoPA	F3 V M3 V	-1	(A83+1)	[6878]	BDE	10	240
+Gate	B	1609	Duresthan	X623000-A	 	    Da  Di Po 		010	HoPA	M1 V M2 V	-1	(800-2)	[0000]	B	10	-16
+Gate	F	1612	Ganyvar	X76666E-6	 	      Ag Ri Ga Ni 	B	512	PlLe	F9 V	-1	(850+1)	[8581]	BC	13	40
+Gate	F	1613	Anaxar	E57897C-8	 	     O:1514  Hi Pi (NIL)		112	PlLe	A2 V F3 V	-1	(D87-1)	[E8A5]	BDE	13	-728
+Gate	F	1615	Gavro	X87A156-4	 	     Lo Wa 		201	PlLe	G3 V	-3	(400+1)	[1146]	B	6	4
+Gate	F	1617	Taneriv	D76AACE-7	 	     O:1514  Hi Wa (NIL)		114	PlLe	A9 V G3 V	-1	(A97+1)	[C972]	BE	12	630
+Gate	J	1622	Haro	D669655-5	 	     Ni Ri 	B	521	TrCo	G8 V	-2	(850+3)	[4437]	BC	9	120
+Gate	J	1624	Paladin	D757434-6	 	     Ga Ni Pa 		512	TrCo	G7 V	-3	(632-4)	[5165]	Bc	7	-144
+Gate	J	1627	Drovinthic	E865610-7	 	      Ag Ri Ga Ni 	B	222	TrCo	K0 V K8 V	-1	(854-2)	[5565]	BC	9	-320
+Gate	J	1629	Coralee	X411000-9	 	    Pz (TrCo)  Di Ic Na Pi 		015	ViCo	M2 V	-2	(F00-2)	[0000]	BD	13	-30
+Gate	N	1633	Junction	X56048A-4	 	      De Ni 	B	512	ViCo	F3 V	-3	(730-3)	[2141]	B	11	-63
+Gate	N	1637	Balaclaron	X86796B-4	 	     Ga Hi Pr (NIL)	B	414	ViCo	F4 V M8 V	-1	(B88+3)	[A834]	BcE	17	2112
+Gate	N	1639	Thanderbrac	X550000-2	 	    De Di Po (NIL)		010	ViCo	K6 V	-3	(900-1)	[0000]	B	5	-9
+Gate	C	1706	Caladan	X67386A-3	 	   Pz  Ph Pi (NIL)	B	115	HoPA	F3 V F5 V	-2	(977+5)	[B622]	BDe	12	2205
+Gate	C	1709	Valkyr	XA5978C-5	 	     Pz  (NIL)	B	913	HoPA	K0 V	-2	(A68+2)	[9557]	B	7	960
+Gate	G	1715	Quetzal	E682200-4	 	      Lo (NIL)		312	PlLe	F4 V	-3	(B10+2)	[1166]	B	6	22
+Gate	K	1721	Lanu	X410000-9	 	     Di 		013	NaHu	M2 II M8 V	-2	(A00+1)	[0000]	B	9	10
+Gate	K	1724	Marina	X77A000-7	 	   O:1725  Di Pi Wa (NIL)		012	TrCo	A5 V F6 V	-3	(900-4)	[0000]	BD	11	-36
+Gate	K	1725	Trindel	X565869-0	 	      Pa Ri Ph (NIL)	B	914	TrCo	K7 V	-1	(B74-1)	[9762]	BcCe	13	-308
+Gate	K	1726	Archipelago	D78A654-7	 	     Ni Ri Wa 		616	NaHu	A1 V F2 V	-2	(850+1)	[A4A5]	BC	13	40
+Gate	O	1731	Umbrin	E558432-7	 	     Ni Pa 		512	ViCo	G9 V	-3	(633-3)	[2187]	Bc	8	-162
+Gate	O	1736	Catanin	X673115-7	 	    Da  Lo 		612	ViCo	A8 V F6 V	-3	(300+1)	[2118]	B	11	3
+Gate	O	1739	Santee	D777373-7	 	      Lo (NIL)		114	ViCo	F2 V F8 V	-3	(B20+1)	[2135]	B	11	22
+Gate	C	1801	Vanadia	DA8776D-5	 	     Pz  Ag Ri (NIL)	B	601	HoPA	F2 V	0	(962+2)	[6765]	BC	9	216
+Gate	C	1802	Agaravand	D66A110-5	 	    Pz  Lo Wa (NIL)	B	811	HoPA	F5 V	-3	(900+1)	[1123]	B	9	9
+Gate	C	1807	Duris	X559678-3	 	    Da  Ni 	B	911	HoPA	F3 V	-3	(851+4)	[6373]	B	13	160
+Gate	G	1815	Tristar	X310000-9	 	     Di Na 		000	PlLe	M6 III	-2	(800+1)	[0000]	B	7	8
+Gate	G	1818	Bremen	X69367A-6	 	     Ni 	B	911	PlLe	F9 V	-3	(850+2)	[637A]	B	7	80
+Gate	K	1829	Viyard	C76A414-7	 	      Ni Wa (NIL)		211	ViCo	F5 V	-2	(930-1)	[3264]	B	12	-27
+Gate	O	1832	Kever	X558420-3	 	     Ni Pa 	B	411	ViCo	F4 V	-3	(630+2)	[9163]	Bc	11	36
+Gate	O	1834	Nederen	X631000-8	 	     Di Na Po (NIL)		010	ViCo	M7 II M6 V	-3	(A00-4)	[0000]	B	11	-40
+Gate	O	1835	Mast	X200000-A	 	      Di Na Pi Va 		010	ViCo	F4 V	-1	(B00-2)	[0000]	BD	11	-22
+Gate	O	1837	Iceball	X318000-9	 	     Di Ic 		012	ViCo	M1 V	-2	(800-1)	[0000]	B	11	-8
+Gate	O	1839	Hold-Your-Breath	XACA000-A	 	     Di Fl 		011	ViCo	F9 V M0 V	-1	(700+1)	[0000]	B	9	7
+Gate	C	1904	Shaneyfelt	C777233-7	 	     Pz  Lo (NIL)		613	HoPA	G4 V	-2	(B10+1)	[61A7]	B	12	11
+Gate	C	1907	Darmin	X68A100-4	 	     Lo Wa 		201	HoPA	G0 V	-3	(500+3)	[2152]	B	11	15
+Gate	C	1909	Way	E658795-5	 	      Ag 		111	NaHu	F1 V	-1	(868-2)	[4644]	BC	10	-768
+Gate	G	1912	Kaspar	E766643-6	 	      Ag Ri Ga Ni 		624	PlLe	F1 V M4 V	-1	(852+1)	[3575]	BC	11	80
+Gate	G	1913	Asteron	X855874-5	 	    Ga Pa Ph (NIL)	B	120	PlLe	F5 V K6 V	-2	(974+1)	[A624]	Bce	12	252
+Gate	G	1917	Colby	D65986A-5	 	    O:2016  Ph (NIL)	B	610	PlLe	F8 V	-2	(A77-3)	[6689]	Be	9	-1470
+Gate	K	1921	Bonnhelm	X651230-3	 	     Lo Po 		322	NaHu	F3 V M4 V	-3	(510-2)	[2155]	B	8	-10
+Gate	K	1924	Starbelt	X000000-B	 	      As Va Di Na 		031	TrCo	G0 V M2 V	-1	(C00+1)	[0000]	B	12	12
+Gate	K	1926	Ashton	D673850-6	 	    Ph Pi (NIL)		114	TrCo	A1 V F2 V	-2	(972+4)	[6697]	BDe	14	504
+Gate	K	1928	Red Gulf	X637000-7	 	     Di (NIL)		003	NaHu	F6 V	-3	(900-1)	[0000]	B	10	-9
+Gate	K	1930	Tangist	X436000-7	 	     Di 		002	ViCo	M6 III	-3	(400+1)	[0000]	B	15	4
+Gate	O	1931	Holidin	X420000-A	 	      De He Di Po 		013	ViCo	G7 V M0 V	-1	(B00+3)	[0000]	B	15	33
+Gate	C	2002	Renquist	XAA5000-A	 	     Di Fl 		013	HoPA	M3 V	-1	(900-4)	[0000]	B	12	-36
+Gate	C	2003	Klavien	C7958B6-7	 	    Pz  Pa Pi Ph (NIL)	B	101	HoPA	F2 V	-1	(976+5)	[B769]	BcDe	7	1890
+Gate	C	2008	Galvestar	C778310-6	 	     Pz  Lo (NIL)		522	NaHu	F5 V G5 V	-2	(C20-3)	[2126]	B	14	-72
+Gate	C	2010	Prevarren	E555522-8	 	     Ag Ni 		513	PlLe	G7 V	-2	(B44-3)	[2368]	BC	14	-528
+Gate	G	2014	Samuelson	X100000-A	 	      Di Na Pi Va 		014	PlLe	K4 V M4 V	-1	(F00+1)	[0000]	BD	12	15
+Gate	G	2016	Lem	X310000-A	 	      Di Na Pi 		015	PlLe	F5 V F9 V	-1	(G00-1)	[0000]	BD	11	-16
+Gate	G	2017	Tavarand	X639000-6	 	     Di 		002	PlLe	M3 V	-3	(800-1)	[0000]	B	10	-8
+Gate	G	2020	Neopis	C6767BB-9	 	      Ag Pi (NIL)		521	NaHu	G6 V	1	(C66-1)	[5846]	BCD	14	-432
+Gate	K	2022	Desdemone	E554285-5	 	     Lo 		512	NaHu	F1 V M4 V K6 V	-3	(510+1)	[5163]	B	12	5
+Gate	O	2035	Caster	E550546-7	 	     De Ni Po 		222	NaHu	F6 V	-3	(740+1)	[4277]	B	12	28
+Gate	O	2037	Cloud	X000000-A	 	      As Va Di 		030	ViCo	M2 V	-1	(900+1)	[0000]	B	9	9
+Gate	C	2101	Zoriantra	E777844-6	 	     Pz  Pa Pi Ph (NIL)	B	813	HoPA	A3 V F0 V	-2	(A76+1)	[5647]	BcDe	16	420
+Gate	C	2105	Orcana	X86A56B-6	 	    Da  Ni Pr Wa 		514	NaHu	G2 V M4 V	-3	(740+1)	[3279]	Bc	12	28
+Gate	C	2107	Tarkaan	X573483-5	 	      Ni (NIL)	B	420	NaHu	G7 V	-3	(B30+3)	[1166]	B	13	99
+Gate	G	2112	Condominium	E867ABB-7	 	     Ga Hi (NIL)	B	210	NaHu	F3 V	-1	(C95+1)	[A945]	BE	9	540
+Gate	G	2113	Plavis	X69876D-6	 	       Ag Pi (NIL)		214	PlLe	F3 V	-1	(B69+1)	[5666]	BCD	15	594
+Gate	K	2125	Oceanis	D67A873-7	 	    Ph Pi Wa (NIL)		301	NaHu	F9 V	-2	(976+3)	[D65C]	BDe	9	1134
+Gate	K	2127	Agramenx	X837000-6	 	     Di (NIL)		015	NaHu	F2 V	-3	(A00+1)	[0000]	B	14	10
+Gate	O	2133	Flemington	D572779-8	 	     He Pi (NIL)		300	NaHu	F1 V	-2	(965+1)	[5549]	BD	6	270
+Gate	O	2138	Thane	E99979C-5	 	      	B	114	ViCo	F5 V G0 V	-2	(861+2)	[4584]	B	12	96
+Gate	O	2140	Cinder	X722000-7	 	    Fo  Di He Po 		011	ViCo	A7 V	-3	(300+5)	[0000]	B	11	15
+Gate	C	2202	Iosanillia	X747657-4	 	    Fo  Ag Ni 	B	900	NaHu	G3 V M4 V	-2	(852+1)	[8415]	BC	7	80
+Gate	G	2214	Calliver	X435000-6	 	   Di Pz  (NIL)		001	NaHu	G3 V	-3	(900-4)	[0000]	B	9	-36
+Gate	G	2219	Trevannic	X876874-6	 	    Pz (Droashav)  Pa Pi Ph (NIL)	B	104	NaHu	F1 V	-2	(975+1)	[863A]	BcDe	14	315
+Gate	K	2222	Vole	E9949DF-9	 	    Pz  Hi In (NIL)		211	NaHu	F0 V	1	(D89-2)	[5A89]	BE	10	-1872
+Gate	K	2224	Hopewell	X584894-1	 	      Pa Ri Ph (NIL)	B	812	NaHu	A7 V F6 V	-1	(A79+4)	[D743]	BcCe	14	2520
+Gate	O	2231	Paradise of El	E75798C-4	 	     O:2434  Ga Hi (NIL)	B	113	NaHu	A6 V G4 V M8 V	-1	(A89+1)	[D851]	BE	7	720
+Gate	O	2233	Ravashar	E544110-7	 	     Pz  Lo (NIL)		323	NaHu	K6 V	-3	(B00-3)	[1177]	B	16	-33
+Gate	O	2235	Shin	X400000-A	 	     Di Va 		012	NaHu	M2 V M4 V	-1	(600-2)	[0000]	B	15	-12
+Gate	C	2304	D!h-v'n	X311000-B	 	     Di Ic 		022	NaHu	G3 V	-1	(900+2)	[0000]	B	12	18
+Gate	C	2307	Veel	X624000-9	 	    Di Pi (NIL)		001	NaHu	M2 V M2 V	-2	(A00-1)	[0000]	BD	8	-10
+Gate	C	2310	Smuggler's Hide	X978531-6	 	     Ag Ni 	B	323	NaHu	G1 V K5 V	-2	(743+4)	[6394]	BC	14	336
+Gate	G	2312	Freedom Bright	C544559-4	 	     Ag Ni 		211	NaHu	G7 V K7 V	-1	(742+1)	[6454]	BC	9	56
+Gate	G	2317	Varan's Belt	X000000-B	 	      As Va Di Na Pi 		032	NaHu	M0 V M9 V	-1	(E00+2)	[0000]	BD	10	28
+Gate	K	2329	Dolmen	X944279-6	 	      Lo (NIL)	B	612	MeCo	F9 V	-3	(B10+4)	[3128]	B	8	44
+Gate	O	2337	Sinest	C57586E-3	 	      Pa Pi Ph (NIL)	B	924	NaHu	K4 V	-1	(A74-5)	[C788]	BcDe	14	-1400
+Gate	C	2401	Fog	X9B4000-8	 	     Di Fl 		020	NaHu	M2 III	-3	(900+1)	[0000]	B	13	9
+Gate	C	2409	Mung Sa We	X8537AB-4	 	    Akee7  Po (NIL)	B	514	AkUn	A6 V F6 V	-2	(968+1)	[A535]	B	12	432
+Gate	G	2413	Hawk	X765859-6	 	      Ga Pa Ri Ph (NIL)	B	712	NaHu	G0 V	-1	(A71-1)	[C767]	BcCe	7	-70
+Gate	G	2415	Vestra	X434000-A	 	     Di (NIL)		001	NaHu	G0 V M4 V	-1	(A00+1)	[0000]	B	6	10
+Gate	G	2416	Polacci	E687476-2	 	     Ga Ni Pa 	B	412	NaHu	F0 V	-3	(632-1)	[3146]	Bc	7	-36
+Gate	K	2423	Dover	C899979-6	 	     Hi Pi (NIL)	B	113	NaHu	F5 V G1 V	0	(B8C-1)	[8959]	BDE	8	-1056
+Gate	K	2424	Gravin	X654478-7	 	    Da  Ni Pa 		502	NaHu	K1 V	-3	(630+1)	[6153]	Bc	9	18
+Gate	K	2429	Megucorp Alpha	X779474-5	 	      Ni (NIL)	B	212	MeCo	F4 V	-3	(B32+1)	[4141]	B	9	66
+Gate	O	2434	Waystation	X000000-A	 	      As Va Di Na Pi 		030	NaHu	K9 V	-1	(C00+1)	[0000]	BD	11	12
+Gate	O	2440	Picard's Belt	X000000-A	 	      As Va Di 		030	NaHu	F6 V	-1	(A00+3)	[0000]	B	9	30
+Gate	D	2503	Alistar	X420000-A	 	      De He Di Po 		010	NaHu	G9 V M6 V	-1	(800-2)	[0000]	B	11	-16
+Gate	D	2506	Nng Min Sa	X57786D-3	 	    Akee9  Pa Pi Ph (NIL)	B	624	AkUn	F3 V	-2	(B76+3)	[5631]	BcDe	11	1386
+Gate	D	2508	Nng Min Ha	X554556-7	 	    Akee6  Ag Ni 		422	AkUn	K0 V K1 V	-2	(742+1)	[2347]	BC	11	56
+Gate	H	2520	Fastness	X310000-8	 	    Swan4  Di Na Pi 		010	SwFW	K0 V M0 V	-3	(A00-2)	[0000]	BD	7	-20
+Gate	L	2521	RoughandReady	X789654-5	 	    Swan6 O:2720  Ni Ri 	B	812	SwFW	F0 V	-2	(850+3)	[8426]	BC	13	120
+Gate	L	2527	Kenev	E898232-1	 	     Lo 		213	NaHu	F0 V	-3	(510-2)	[1142]	B	15	-10
+Gate	P	2531	Megucorp Beta	X539000-9	 	     Di (NIL)		003	MeCo	F8 V	-2	(E00+1)	[0000]	B	15	14
+Gate	P	2533	Sardinian	X427000-7	 	     Di 		014	NaHu	F1 V	-3	(600-2)	[0000]	B	15	-12
+Gate	P	2535	Red Grolland	X511000-A	 	     Di Ic 		014	NaHu	M1 V	-1	(C00-4)	[0000]	B	16	-48
+Gate	P	2537	Baretenit	X629000-9	 	     Di 		001	NaHu	M3 V	-2	(500+2)	[0000]	B	9	10
+Gate	P	2539	Setnil Navarok	X400000-A	 	    O:2337  Di Va 		010	NaHu	A1 V	-1	(800+1)	[0000]	B	10	8
+Gate	D	2605	X'kuur'qu'io Nu	X747698-5	 	    Fo AkeeW  Ag Ni 	B	813	AkUn	F6 V	-2	(854+1)	[8415]	BC	15	160
+Gate	D	2609	Gneri Mu Nin	E555520-7	 	    Akee8  Ag Ni 		213	AkUn	A8 V F6 V	-2	(740+3)	[5368]	BC	12	84
+Gate	H	2611	Lanadhu	X423000-A	 	     Akee7  Di Na Px Po 		000	AkUn	F9 IV	-1	(800+1)	[0000]	B	11	8
+Gate	H	2614	Zora	E748542-4	 	     Ag Ni 	B	400	NaHu	M3 V	-2	(743+1)	[8329]	BC	11	84
+Gate	H	2618	Freehaven	X624000-7	 	   Swan2  Di Pi (NIL)		001	SwFW	M0 V	-3	(900-1)	[0000]	BD	9	-9
+Gate	L	2624	Finestre	X5A2000-9	 	      Di Fl He 		014	NaHu	K5 V M3 V	-2	(A00+1)	[0000]	B	15	10
+Gate	L	2628	Randrell	X984000-3	 	     Di 		011	MeCo	F7 V	-3	(300+1)	[0000]	B	8	3
+Gate	L	2629	Athene	C689720-4	 	     Ri (NIL)	B	914	MeCo	F7 V	0	(968+1)	[B767]	BC	11	432
+Gate	L	2630	Sardis	X87696B-5	 	      Hi Pi (NIL)	B	100	MeCo	F8 V M8 V	-1	(B84+1)	[987A]	BDE	9	352
+Gate	P	2635	Silveron	X978657-5	 	     Ag Ni 	B	623	NaHu	F3 V F7 V	-2	(852+3)	[842A]	BC	15	240
+Gate	P	2639	Megas	XA9A541-4	 	     Ni Oc 	B	424	NaHu	F6 V	-3	(743-3)	[4262]	B	16	-252
+Gate	D	2701	Drasheveen	X430000-9	 	     De Di Po 		012	NaHu	M0 III	-2	(700+2)	[0000]	B	10	14
+Gate	D	2704	Holbert	X543457-4	 	     Ni Po 	B	212	NaHu	F9 V K0 V	-3	(630+2)	[2183]	B	14	36
+Gate	D	2708	Akeen	X66A650-8	 	     (Akeed)  Ni Ri Wa 		912	AkUn	F5 V M5 V	-2	(B50-1)	[A45C]	BC	7	-55
+Gate	H	2716	Hidden Booty	X100000-0	 	     Ba Va 		013	NaHu	A8 V	-3	(200-2)	[0000]	B	9	-4
+Gate	H	2720	Carlton	X667769-5	 	      (Swanfeh)8  Ag Ri Ga (NIL)	B	925	SwFW	F2 V M7 V	0	(968-2)	[574A]	BC	15	-864
+Gate	L	2722	Freeport	D646430-5	 	    Swan3  Ni Pa 		523	SwFW	F5 V	-3	(630+1)	[5148]	Bc	15	18
+Gate	L	2725	Goldstar	C658203-6	 	     Lo 		114	NaHu	F5 V	-2	(510-2)	[6195]	B	9	-10
+Gate	L	2727	Azuris	X66A699-4	 	     Ni Ri Wa 	B	201	MeCo	F4 V	-2	(850-2)	[5482]	BC	13	-80
+Gate	P	2733	Besarbian	X534000-7	 	     Di (NIL)		013	MeCo	O7 V G3 V	-3	(A00-2)	[0000]	B	12	-20
+Gate	P	2738	Garther	X536000-A	 	     Di 		014	NaHu	M1 III M7 V	-1	(B00+2)	[0000]	B	15	22
+Gate	D	2806	Jh'nng Mu Nu	E683458-6	 	    Akee6  Ni 	B	513	AkUn	F5 V	-3	(630+4)	[7166]	B	12	72
+Gate	D	2810	Hespitar	X546474-4	 	    Akee6  Ni Pa 		413	AkUn	A7 V F0 V	-3	(633+1)	[2153]	Bc	16	54
+Gate	H	2813	Coriander	X423000-8	 	     O:2415  Di Na Px Po 		001	NaHu	M0 V	-3	(900-2)	[0000]	B	6	-18
+Gate	H	2817	Runner's Star	E686678-5	 	     Swan3  Ag Ri Ga Ni 	B	613	SwFW	F3 V	-1	(850+1)	[5583]	BC	9	40
+Gate	H	2819	Pirate's Haven	E775831-8	 	     Swan4  Pa Pi Ph (NIL)		926	SwFW	F1 V	-2	(J70-4)	[7669]	BcDe	13	-504
+Gate	L	2823	Lucian	X6A9000-9	 	     Di Fl 		011	NaHu	M5 III D	-2	(700-1)	[0000]	B	11	-7
+Gate	L	2824	Parmentier	E567676-5	 	     O:2423  Ag Ri Ni 	B	925	NaHu	G2 V K9 V	-1	(851-2)	[7564]	BC	13	-80
+Gate	L	2828	Lov Fennaden	X682423-6	 	     Ni 	B	413	MeCo	K3 V M1 V	-3	(630-1)	[2166]	B	7	-18
+Gate	P	2831	Kolan	E75787C-8	 	     Ga Pa Ph (NIL)	B	414	MeCo	F4 V	-2	(F74+1)	[66AB]	Bce	10	420
+Gate	P	2836	Jasper's Ring	X000000-9	 	      As Va Di Na Pi 		034	NaHu	M1 V	-2	(G00+2)	[0000]	BD	10	32
+Gate	D	2903	Fartheron	X564155-5	 	     Lo 		923	NaHu	F0 V	-3	(500-1)	[1172]	B	13	-5
+Gate	H	2915	Gigas	X577000-5	 	     Di 		000	NaHu	K3 V	-3	(300+3)	[0000]	B	5	9
+Gate	H	2918	Sandhaven	X000000-A	 	      Swan4  As Va Di Na Pi 		042	SwFW	F8 V	-1	(G00+1)	[0000]	BD	11	16
+Gate	L	2921	Kotar	X55466D-3	 	    Swan2  Ag Ni 	B	824	SwFW	F8 V	-2	(851+3)	[5453]	BC	15	120
+Gate	L	2928	Holande	X534000-A	 	     Di 		000	MeCo	A7 V M2 V	-1	(700+4)	[0000]	B	6	28
+Gate	P	2937	Rios	X424000-8	 	    O:3137  Di 		022	NaHu	A8 V	-3	(C00-2)	[0000]	B	11	-24
+Gate	P	2940	Castlemaine	X430000-9	 	     De Di Po 		012	NaHu	A8 V M2 V	-2	(800+1)	[0000]	B	11	8
+Gate	D	3006	Duranel	X424000-8	 	     Di Pi (NIL)		001	NaHu	F6 V	-3	(B00+1)	[0000]	BD	5	11
+Gate	D	3010	Coma	X100000-7	 	     Di Va 		023	NaHu	M9 III M9 V	-3	(700+1)	[0000]	B	12	7
+Gate	H	3012	Mneomon	XA89597-4	 	     Ni Pr 	B	524	NaHu	F4 V	-3	(743+2)	[2211]	Bc	13	168
+Gate	L	3024	Golar	X87A531-3	 	     Ni Wa 	B	503	NaHu	G5 V	-3	(743-4)	[3231]	B	12	-336
+Gate	L	3029	Vulan	E788697-8	 	      Ag Ri Ni 		624	ReUn	F0 V	-1	(E52-2)	[1514]	BC	13	-280
+Gate	P	3031	Akabar	E767615-8	 	     Da  Ag Ri Ga Ni 	B	924	ReUn	F9 V	-1	(E55-3)	[4567]	BC	9	-1050
+Gate	P	3034	Icestation	X106000-9	 	     Di Ic Va Pi 		011	ReUn	M2 V	-2	(B00-2)	[0000]	BD	14	-22
+Gate	P	3038	Njorni	X651744-3	 	     Po (NIL)	B	432	NaHu	K9 V	-2	(967+1)	[6553]	B	13	378
+Gate	P	3040	Celeste	D85A534-7	 	     Ni Wa (NIL)		211	NaHu	F9 V	-3	(A42+4)	[427C]	B	8	320
+Gate	D	3102	Agarn	D66A453-7	 	     Ni Wa (NIL)		412	NaHu	F4 V	-3	(931-2)	[518A]	B	10	-54
+Gate	D	3105	Tuckjohn	E567499-3	 	     Ni Pa 		500	NaHu	F1 V K0 V F8 V	-3	(633+4)	[5111]	Bc	12	216
+Gate	D	3108	Randolph	X540000-8	 	       De He Di Pi Po (NIL)		012	NaHu	F0 V K9 V M0 V	-3	(D00+1)	[0000]	BD	10	13
+Gate	D	3109	Boden	E77A533-6	 	    O:3110  Ni Wa 		412	NaHu	G0 V	-3	(743-4)	[725B]	B	14	-336
+Gate	D	3110	Banserada	X512000-B	 	     Di Ic Na 		013	NaHu	M2 V	-1	(C00-5)	[0000]	B	11	-60
+Gate	H	3117	Emoress	C66A755-6	 	     Ri Wa (NIL)		410	NaHu	F9 V	0	(965+2)	[8737]	BC	8	540
+Gate	L	3121	Hotemin	X313000-8	 	    O:3219  Di Ic Na 		011	NaHu	M1 V	-3	(A00-1)	[0000]	B	14	-10
+Gate	L	3122	Frantest	D66A231-5	 	      Lo Wa (NIL)		711	NaHu	F4 V	-3	(A10-3)	[1164]	B	8	-30
+Gate	L	3125	Quiestreen	D58A6AA-7	 	     Ni Ri Wa 		700	NaHu	F3 V	-2	(850+1)	[84A8]	BC	6	40
+Gate	L	3128	Plymar	D554478-7	 	      Ni Pa 		510	ReUn	G8 V M3 V M3 V	-3	(630+1)	[1159]	Bc	8	18
+Gate	P	3131	Kent	X434000-7	 	   Di Pz  (NIL)		011	ReUn	A4 V M3 V	-3	(900+1)	[0000]	B	14	9
+Gate	P	3132	Barristar	C964300-6	 	    O:3233  Lo 		711	ReUn	K4 V	-2	(520-5)	[1113]	B	12	-50
+Gate	P	3137	Trondelm	X53A000-A	 	     Di Wa (NIL)		011	NaHu	F0 V	-1	(C00+5)	[0000]	B	12	60
+Gate	D	3201	Alechet	X430000-9	 	     De Di Po 		010	NaHu	M7 II	-2	(500-1)	[0000]	B	8	-5
+Gate	D	3203	Caterplan	E540478-4	 	       De He Ni Po (NIL)		600	NaHu	F5 V M6 V	-3	(A33-2)	[4153]	B	6	-180
+Gate	D	3207	Bem	XADA000-C	 	     Di Oc 		011	NaHu	A1 V G9 V	-1	(700-2)	[0000]	B	7	-14
+Gate	H	3213	Chloran	X9C4000-B	 	     Di Fl 		001	NaHu	M2 V	-1	(400+3)	[0000]	B	9	12
+Gate	H	3217	Drumhelda	X310000-9	 	     Di 		032	NaHu	M2 V	-2	(A00+4)	[0000]	B	11	40
+Gate	H	3219	Thipister	X76969B-4	 	     Ni Ri 	B	223	NaHu	F3 V	-2	(850+4)	[1475]	BC	16	160
+Gate	L	3223	Grovelunda	X439000-B	 	    O:3125  Di 		023	NaHu	A0 III	-1	(D00+1)	[0000]	B	14	13
+Gate	L	3226	Pashendelist	X537000-9	 	     Di (NIL)		001	ReUn	F6 V	-2	(B00-5)	[0000]	B	5	-55
+Gate	L	3229	Silest	X99A476-3	 	      Ni Wa (NIL)	B	311	ReUn	G2 V	-3	(930+4)	[3177]	B	11	108
+Gate	L	3230	Xabthar	D643599-5	 	     Ni Po 		201	ReUn	F1 V	-3	(743-2)	[3255]	B	10	-168
+Gate	P	3233	Neomantel	X65A000-A	 	    Di Wa (NIL)		011	ReUn	F7 V K7 V	-1	(B00+3)	[0000]	B	7	33
+Gate	P	3235	Povan	X430000-B	 	     De Di Na Po (NIL)		023	ReUn	F7 V K1 V	-1	(E00+2)	[0000]	B	12	28
+Gate	P	3239	Hepler	E687344-3	 	     Ga Lo 		221	NaHu	G8 V K0 V	-3	(420-5)	[4121]	B	14	-40

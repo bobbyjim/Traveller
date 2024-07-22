@@ -1,0 +1,536 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+Gush	I	0125	Hannrii	X565437-2	 	             Ni Pa 		204	Wild	M2 V	-3	(730-1)	[4141]	Bc	9	-21
+Gush	I	0126	Egurgadi	X65A000-7	 	           Di Wa 		003	Wild	K1 V	-3	(400+2)	[0000]	B	9	8
+Gush	I	0130	Praodelf	XAB6000-A	 	         (ENIL)  Di Fl 		000	Wild	G4 V M1 V	-1	(A00+3)	[0000]	B	13	30
+Gush	M	0131	Sirir	X796000-2	 	        Fo   (NIL)  Di 		023	Wild	K3 V	-3	(B00+2)	[0000]	B	12	22
+Gush	M	0132	Aapu	X560000-5	 	           De Di 		000	Wild	K1 V M2 V	-3	(500+4)	[0000]	B	13	20
+Gush	M	0135	Maerol	X200000-8	 	            Di Va 		002	Wild	K1 V	-3	(B00-5)	[0000]	B	9	-55
+Gush	M	0136	Choltonrul	X587000-4	 	        TapaW     Di 		024	Wild	M0 V	-3	(600+1)	[0000]	B	10	6
+Gush	M	0137	Ushulu	X782000-8	 	        Pz   (NIL)  Di 		000	Wild	M0 V M4 V	-3	(B00+1)	[0000]	B	13	11
+Gush	M	0138	Roolyz	X433000-B	 	           Di Po 		022	Wild	G8 V M3 V M0 V	-1	(700-1)	[0000]	B	12	-7
+Gush	M	0140	Joutect	X768000-3	 	           Di 		000	Wild	M0 V M7 V	-3	(300+5)	[0000]	B	12	15
+Gush	I	0222	Daze	X776000-4	 	           Di 		000	Wild	K7 V	-3	(500+2)	[0000]	B	6	10
+Gush	I	0223	Abalesk	X433000-C	 	           Di Po 		013	Wild	M0 V	-1	(B00-4)	[0000]	B	13	-44
+Gush	I	0227	Stoend	X86A7BE-4	 	         (NIL)  Ri Wa (NIL)		124	Wild	M2 V	-1	(967+3)	[8656]	BC	13	1134
+Gush	I	0228	Barren	X652000-0	 	      Fo      Ba Po 		000	Wild	M1 V M2 V	-3	(200-3)	[0000]	B	13	-6
+Gush	I	0229	Foussough	X65369B-1	 	           Ni Po 		200	WiFo	K0 V M5 V	-3	(852+1)	[7351]	B	13	80
+Gush	I	0230	Estos	X425000-D	 	           Di 		005	WiFo	K2 V M6 V M1 V	-1	(D00+1)	[0000]	B	15	13
+Gush	M	0231	Hentor	X503000-7	 	             Di Ic Va 		022	WiFo	M3 V D	-3	(700-2)	[0000]	B	16	-14
+Gush	M	0233	Abaelou	X695000-3	 	       (eskalth)0     Di 		003	WiFo	M1 V	-3	(500+1)	[0000]	B	11	5
+Gush	M	0236	Gihmentahlish	D895000-5	 	            Di 		022	Wild	K7 V	-3	(700+2)	[0000]	B	15	14
+Gush	M	0237	Strand	X548000-5	 	          (NIL)  Di 		002	Wild	G4 V	-3	(B00+2)	[0000]	B	9	22
+Gush	M	0239	Ounash	X420000-7	 	      Fo        De He Di Po 		004	Wild	K9 V	-3	(500+5)	[0000]	B	8	25
+Gush	I	0327	Fay	X540000-9	 	             De He Di Po 		022	Wild	M0 V M7 V	-2	(C00-2)	[0000]	B	8	-24
+Gush	I	0328	Manuri	X543000-3	 	            Di Po 		002	WiFo	K8 V M8 V	-3	(600+1)	[0000]	B	9	6
+Gush	I	0329	Somit	X55A000-4	 	      Fo      Di Wa 		000	WiFo	M0 V	-3	(500-3)	[0000]	B	12	-15
+Gush	M	0332	Blezon	X572000-4	 	      Fo      Di He 		023	WiFo	K2 V M8 V	-3	(600-1)	[0000]	B	12	-6
+Gush	M	0333	Vaelouf	X537000-9	 	           Di 		011	WiFo	M0 V	-2	(700+1)	[0000]	B	8	7
+Gush	M	0334	Endran	X515000-A	 	           Di Ic 		003	WiFo	K3 IV M6 V	-1	(600+4)	[0000]	B	12	24
+Gush	M	0338	Phoenaeg	X560423-2	 	       Droy3     (NIL)  De Ni 		113	Wild	G0 V M1 V	-3	(A30+4)	[4161]	B	12	120
+Gush	M	0339	Sagal	X887AFH-6	 	      Fo    (NIL)  Ga Hi (NIL)		313	Wild	K1 V M0 V	-1	(C9A+1)	[B956]	BE	7	1080
+Gush	I	0422	Rucciset	X514000-B	 	           Di Ic 		012	Wild	K0 V	-1	(A00+3)	[0000]	B	7	30
+Gush	I	0428	Charlotte	X565000-0	 	           Ba 		000	WiFo	K6 V	-3	(500+1)	[0000]	B	11	5
+Gush	M	0432	Trichach	D573000-6	 	           Di 		004	WiFo	K8 V M9 V	-3	(600+1)	[0000]	B	13	6
+Gush	M	0433	Cemloch	X646000-5	 	          (NIL)  Di 		005	WiFo	M2 V	-3	(900+1)	[0000]	B	8	9
+Gush	M	0434	Nemeet	X430000-8	 	     Pz     (NIL)  De Di Po 		004	WiFo	M2 V	-3	(D00-4)	[0000]	B	9	-52
+Gush	M	0435	Gwelbyph	X423000-8	 	            Di Po 		005	WiFo	K3 V	-3	(C00+1)	[0000]	B	8	12
+Gush	M	0436	Flaslousk	X543000-4	 	           Di Po 		010	Wild	M4 V	-3	(700+2)	[0000]	B	12	14
+Gush	M	0437	Jaeyelya	D5846BB-1	 	       (Ael Yael)       Ag Ri Ni 		302	Wild	K6 V	-1	(851+1)	[4541]	BC	10	40
+Gush	M	0438	Lem	X532000-8	 	           Di Po 		000	Wild	M1 V M3 V	-3	(400+3)	[0000]	B	10	12
+Gush	M	0439	Dimkodrarn	X553337-3	 	            Lo Po 		803	Wild	G0 V	-3	(620-2)	[2131]	B	13	-24
+Gush	E	0517	Imaniik	D968779-1	 	        An ChirW    (NIL)  Ag Ri (NIL)		724	Wild	M0 V	0	(967-1)	[5734]	BC	9	-378
+Gush	I	0526	Kinurgii	X200000-8	 	           Di Va 		022	WiFo	K3 V	-3	(800+1)	[0000]	B	9	8
+Gush	I	0527	Armec-Zamaa	X895000-5	 	           Di 		003	WiFo	G3 V M7 V	-3	(500+5)	[0000]	B	11	25
+Gush	I	0529	Priinargh	X584000-6	 	           Di 		010	WiFo	M2 V M4 V	-3	(300+1)	[0000]	B	11	3
+Gush	I	0530	Burle's Point	X662000-3	 	           Di 		002	WiFo	K3 V M2 V	-3	(400-1)	[0000]	B	7	-4
+Gush	M	0531	Rake	X425000-A	 	           Di 		002	WiFo	K3 V M4 V	-1	(900+1)	[0000]	B	13	9
+Gush	M	0532	Soel	X8A5000-8	 	     Pz    (ENIL)  Di Fl 		002	WiFo	K0 V M1 V	-3	(B00+4)	[0000]	B	14	44
+Gush	M	0536	Imagalu	D9678AE-3	 	           (NIL)  Pa Ri Ph (NIL)		304	WiFo	M0 V	-1	(A7A+4)	[B711]	BcCe	13	2800
+Gush	M	0537	Wols	X764000-5	 	           Di 		000	Wild	M0 V M4 V	-3	(300-4)	[0000]	B	11	-12
+Gush	A	0610	Habelut	X86A677-2	 	    Pz     (NIL)  Ni Ri Wa 		902	Wild	K3 V	-2	(952-2)	[6414]	BC	7	-180
+Gush	E	0614	Deychavilosta	X200000-9	 	           Di Va 		024	Wild	M2 V	-2	(D00+3)	[0000]	B	9	39
+Gush	E	0617	Bubenel	X779000-3	 	           Di 		012	Wild	M3 V M7 V	-3	(400+2)	[0000]	B	6	8
+Gush	I	0623	Hartesh	X657402-4	 	           Ga Ni Pa 		305	Wild	M1 V	-3	(730+4)	[5183]	Bc	10	84
+Gush	I	0626	Thelkourd	E560775-5	 	      Pz    (NIL)  De Ri (NIL)		313	WiFo	K4 V M5 V	-1	(967-3)	[9676]	BC	9	-1134
+Gush	I	0627	Guhnesh	B757435-8	 	          Ga Ni Pa 		700	GaHu	M2 V M2 V	-1	(432+3)	[4356]	Bc	13	72
+Gush	I	0628	Norton	D571000-8	 	           Di He 		002	WiFo	K3 V M2 V M1 V	-3	(800+1)	[0000]	B	5	8
+Gush	I	0630	Orren Station	D545776-6	 	            (NIL)  Ag Pi (NIL)		524	WiFo	G4 V M6 V	-1	(964-1)	[6653]	BCD	10	-216
+Gush	M	0631	Homage	D594000-5	 	        Da     Di 		012	WiFo	M2 V	-3	(800-1)	[0000]	B	6	-8
+Gush	M	0632	Vipach	X738000-A	 	           Di 		010	WiFo	K4 V M5 V	-1	(700+5)	[0000]	B	14	35
+Gush	M	0634	Sern	XAE6000-7	 	            Di 		000	WiFo	M0 V	-3	(400-2)	[0000]	B	10	-8
+Gush	M	0639	Asiilish	X565000-4	 	            Di 		014	Wild	K3 V M4 V M4 V	-3	(600-2)	[0000]	B	13	-12
+Gush	M	0640	Chezpan	X200000-B	 	            Di Va 		002	Wild	K4 V M2 V	-1	(B00-3)	[0000]	B	9	-33
+Gush	E	0718	Pannolk	X79A000-1	 	           Di Wa 		000	Wild	M0 V	-3	(700+1)	[0000]	B	13	7
+Gush	I	0722	Younis	X310000-C	 	           Di 		004	Wild	K3 V	-1	(B00+2)	[0000]	B	8	22
+Gush	I	0723	Inapiirn	D542745-6	 	        (pethi)     (NIL)  He Pi Po (NIL)		310	Wild	G2 V	-2	(A60-2)	[853B]	BD	12	-120
+Gush	I	0725	Tungohl	X411000-E	 	           Di Ic 		014	WiFo	M3 V M4 V	-1	(900-2)	[0000]	B	16	-18
+Gush	I	0727	Hulr	X73A000-9	 	         (NIL)  Di Wa 		014	WiFo	M2 V M5 V	-2	(G00+1)	[0000]	B	8	16
+Gush	I	0728	Wenton	X433000-A	 	           Di Po 		000	WiFo	M2 V	-1	(700-3)	[0000]	B	7	-21
+Gush	I	0729	Jousta	X300000-D	 	           Di Va 		022	WiFo	M3 V	-1	(B00-1)	[0000]	B	12	-11
+Gush	M	0732	Th'dir	X100000-E	 	           Di Va 		013	WiFo	M4 V	-1	(A00-2)	[0000]	B	10	-20
+Gush	M	0733	Dendaash	X9C7000-B	 	           Di Fl 		004	WiFo	A6 V M6 V	-1	(900+1)	[0000]	B	15	9
+Gush	M	0737	Zamashuug	X585000-3	 	           Di 		000	WiFo	K6 V M3 V	-3	(300+1)	[0000]	B	13	3
+Gush	M	0738	Dikaash	X627000-D	 	           (NIL)  Di 		001	WiFo	M4 V	-1	(C00+1)	[0000]	B	13	12
+Gush	M	0740	Wilson	X100000-B	 	           Di Va 		000	Wild	M2 V M4 V	-1	(500+5)	[0000]	B	13	25
+Gush	A	0803	Menguno	X7B2000-8	 	             Di Fl He 		000	Wild	K1 V M3 V	-3	(800-5)	[0000]	B	7	-40
+Gush	A	0810	Gelhhach	X558536-3	 	      (Hhrachddrumm)      Ag Ni 		201	Wild	M3 V M3 V	-2	(843+1)	[5331]	BC	13	96
+Gush	E	0813	Kkoymjirad	X555558-4	 	           Ag Ni 		200	Wild	K4 V	-2	(740+1)	[6355]	BC	7	28
+Gush	E	0820	Asshashur	E576000-8	 	             Di 		020	Wild	M3 V	-3	(A00-4)	[0000]	B	8	-40
+Gush	I	0824	Nonescue	X547000-6	 	           Di 		005	WiFo	K1 V M1 V	-3	(500+3)	[0000]	B	10	15
+Gush	I	0826	Delaag	X8B3000-B	 	         (ENIL)  Di Fl 		013	WiFo	M3 V M5 V	-1	(E00+1)	[0000]	B	10	14
+Gush	I	0827	Loniva	X203000-8	 	             Di Ic Va 		005	WiFo	M2 V	-3	(900-2)	[0000]	B	11	-18
+Gush	I	0829	Query	X645000-2	 	            Di 		002	WiFo	K2 V	-3	(600+1)	[0000]	B	12	6
+Gush	M	0831	Tenraash	X79A000-1	 	           Di Wa 		002	WiFo	G4 V	-3	(700-1)	[0000]	B	8	-7
+Gush	M	0839	Ginupa	X559333-4	 	       Pz   (NIL)  Lo 		903	WiFo	G0 V	-3	(B20+1)	[2145]	B	11	22
+Gush	M	0840	Teuterom	X502000-C	 	             Di Ic Va 		013	Wild	M2 V M4 V	-1	(A00-1)	[0000]	B	7	-10
+Gush	F	0912	Gakhamesh	D683000-5	 	            Di 		000	Wild	K7 V	-3	(800-1)	[0000]	B	6	-8
+Gush	F	0914	Chulesh	E575000-6	 	        Da      Di 		013	Wild	K4 V M9 V	-3	(800-2)	[0000]	B	12	-16
+Gush	F	0920	Drayrk	X550579-3	 	           De Ni Po 		103	Wild	M0 V M2 V	-3	(742-1)	[7243]	B	9	-56
+Gush	J	0921	Obarr	X534000-B	 	           Di 		004	Wild	M3 V	-1	(C00+1)	[0000]	B	7	12
+Gush	J	0922	Chang	X775000-1	 	           Di 		003	Wild	K2 V	-3	(300+2)	[0000]	B	9	6
+Gush	J	0923	Liini	XA9A89D-4	 	         (NIL)  Oc Ph Pi (NIL)		602	Wild	M0 V M0 V	-2	(B77-2)	[7626]	BDe	10	-1078
+Gush	J	0924	Zilu	X426000-B	 	       Da     Di 		001	WiFo	M2 V M6 V	-1	(600+3)	[0000]	B	5	18
+Gush	J	0925	Tamesh	X87A000-9	 	         (NIL)  Di Wa 		002	WiFo	M1 V	-2	(B00+1)	[0000]	B	7	11
+Gush	J	0926	Igamaal	D557595-7	 	            Ag Ni 		203	WiFo	M2 V M6 V M7 V	-2	(844+1)	[4367]	BC	13	128
+Gush	J	0927	Saol	X678000-7	 	            Di 		021	WiFo	G5 V	-3	(600+3)	[0000]	B	13	18
+Gush	J	0928	Ongelbal	E692000-6	 	           Di He 		013	WiFo	M2 V	-3	(500+2)	[0000]	B	13	10
+Gush	J	0930	Dehruu	X542000-6	 	           Di He Po 		023	WiFo	M2 V	-3	(700+5)	[0000]	B	10	35
+Gush	N	0933	Taalish	X572000-4	 	           Di He 		003	WiFo	M2 V M4 V	-3	(700+4)	[0000]	B	12	28
+Gush	N	0934	Eycoltou	X8876AD-0	 	           Ag Ri Ga Ni 		301	GaHu	M3 V M8 V	-1	(353-2)	[7591]	BC	9	-90
+Gush	N	0935	Lemantine	A865549-B	 	           Ag Pr Ga Ni 		400	GaHu	G1 V M6 V	2	(448+5)	[778E]	BcC	12	640
+Gush	N	0936	Baalaansh	E561541-6	 	           Ni Pr 		404	WiFo	G4 V M5 V	-3	(840-1)	[2287]	Bc	10	-32
+Gush	N	0937	Gamaliss	X572000-8	 	           Di He 		000	WiFo	F3 V	-3	(600-3)	[0000]	B	12	-18
+Gush	N	0940	Swinedune	X000000-8	 	             As Va Di 		000	Wild	K3 V	-3	(700+1)	[0000]	B	9	7
+Gush	F	1013	Munnarn	X410000-F	 	           Di 		002	Wild	M3 V M5 V	-1	(900+2)	[0000]	B	11	18
+Gush	F	1015	Usdiki	X664836-2	 	       Pz     (NIL)  Pa Ri Ph (NIL)		903	Wild	M0 V M0 V M9 V	-1	(B76-1)	[9791]	BcCe	10	-462
+Gush	F	1018	Toraago	X544000-6	 	            Di 		000	Wild	M0 V M3 V	-3	(600-3)	[0000]	B	10	-18
+Gush	F	1019	Lishuggi	B565634-8	 	             Ag Ri Ni 		614	Wild	M0 V M2 V	1	(D57+5)	[5716]	BC	13	2275
+Gush	F	1020	Shir	X100000-F	 	            Di Va 		004	Wild	M2 V	-1	(C00-3)	[0000]	B	7	-36
+Gush	J	1021	Bragg	E571000-3	 	           Di He 		000	Wild	K9 V M9 V	-3	(500+3)	[0000]	B	6	15
+Gush	J	1023	Lorris	X420000-B	 	             De He Di Po 		015	WiFo	K3 V	-1	(B00+4)	[0000]	B	15	44
+Gush	J	1025	Ienda	A767351-E	 	             Ga Lo 		204	GaHu	M2 V M8 V	1	(A21+3)	[849F]	B	11	60
+Gush	J	1026	Fiaf	X78A305-6	 	           Lo Wa 		900	WiFo	M3 V	-3	(620-1)	[4193]	B	9	-12
+Gush	J	1027	Taluu	X200000-A	 	             Di Va 		022	WiFo	M0 V M9 V	-1	(E00-2)	[0000]	B	7	-28
+Gush	J	1029	Justine	E57057A-7	 	             De He Ni 		502	WiFo	M2 V	-3	(842+1)	[5215]	B	7	64
+Gush	N	1033	Nukyls	C540674-8	 	             De He Ni Po 		611	WiFo	K2 V	-2	(A50-5)	[8416]	B	10	-250
+Gush	N	1036	Maernon	X678000-3	 	            Di 		003	WiFo	G0 V M3 V	-3	(800+3)	[0000]	B	12	24
+Gush	N	1038	Sharim	X435000-F	 	          (NIL)  Di 		000	WiFo	M3 V	-1	(B00+1)	[0000]	B	7	11
+Gush	N	1039	He'alaan'drl	X424000-7	 	            Di 		001	WiFo	K0 V M8 V	-3	(700+1)	[0000]	B	9	7
+Gush	F	1118	Heffone	X433000-C	 	           Di Po 		000	Wild	K5 V	-1	(700+4)	[0000]	B	9	28
+Gush	F	1119	Aintrin	X637000-C	 	           Di 		014	Wild	M3 V M6 V	-1	(D00+4)	[0000]	B	9	52
+Gush	F	1120	Vlu'da'rin	X504000-8	 	              Di Ic Va 		004	Wild	M1 V M2 V M8 V	-3	(B00-3)	[0000]	B	10	-33
+Gush	J	1122	Panisse	X436000-6	 	       Fo     Di 		013	Wild	M2 V	-3	(600+3)	[0000]	B	15	18
+Gush	J	1123	Rumulaar	D88A000-4	 	           Di Wa 		001	Wild	M2 V	-3	(400-2)	[0000]	B	6	-8
+Gush	J	1124	Creca	X524000-A	 	           Di 		012	WiFo	K2 V	-1	(A00+2)	[0000]	B	12	20
+Gush	J	1125	Hanseat	X300000-C	 	           Di Va 		000	WiFo	K4 V	-1	(700+1)	[0000]	B	13	7
+Gush	J	1127	Unuv	X423000-0	 	      Fo (minor)      Ba Po 		002	WiFo	M2 V M9 V	-3	(200+4)	[0000]	B	6	8
+Gush	J	1128	Kaakaa	X550000-3	 	           De Di Po 		002	WiFo	K4 V	-3	(700-2)	[0000]	B	8	-14
+Gush	J	1129	Intnalta	X420000-E	 	             De He Di Po 		013	WiFo	M1 V M4 V	-1	(A00-2)	[0000]	B	11	-20
+Gush	N	1133	Kemshigesh	X532000-8	 	           Di Po 		013	WiFo	K2 V M8 V	-3	(B00+1)	[0000]	B	10	11
+Gush	N	1135	Podero	X565732-0	 	           (NIL)  Ag Ri (NIL)		413	WiFo	M0 V	0	(968+5)	[7741]	BC	7	2160
+Gush	N	1136	Uin	X543000-2	 	           Di Po 		003	WiFo	K0 V	-3	(700-5)	[0000]	B	14	-35
+Gush	N	1137	Draerch	X312000-D	 	            Di Ic 		000	WiFo	M2 V M3 V M6 V	-1	(800-5)	[0000]	B	12	-40
+Gush	N	1139	Weaf	X777788-0	 	           (NIL)  Ag Pi (NIL)		102	Wild	K0 V	-1	(964+3)	[8641]	BCD	15	648
+Gush	N	1140	Rellena	X898000-2	 	           Di 		010	Wild	K2 V M6 V M0 V	-3	(400+1)	[0000]	B	11	4
+Gush	B	1209	Fementok	X426000-B	 	           Di 		023	Wild	G7 V	-1	(B00+1)	[0000]	B	11	11
+Gush	F	1213	Ushamdidishar	X8C3000-B	 	           Di Fl 		025	Wild	M1 III	-1	(F00+4)	[0000]	B	11	60
+Gush	J	1221	Coernelf	X410000-7	 	           Di 		002	Wild	M2 V	-3	(700+1)	[0000]	B	6	7
+Gush	J	1223	Syrol	X563655-3	 	      Da       Ni Ri 		203	Wild	F5 V	-2	(850+4)	[2472]	BC	10	160
+Gush	J	1225	Forgane	X421000-E	 	           Di He Po 		024	WiFo	M3 V	-1	(B00+2)	[0000]	B	11	22
+Gush	J	1227	Iest	X431000-A	 	       Droy3      Di Po 		024	WiFo	M2 V	-1	(E00-1)	[0000]	B	9	-14
+Gush	J	1228	Indurain	X555000-7	 	            Di 		003	WiFo	M2 V	-3	(700+2)	[0000]	B	9	14
+Gush	N	1231	Find	X675000-4	 	            Di 		023	WiFo	M2 V	-3	(600+1)	[0000]	B	8	6
+Gush	N	1233	Mercator	E540457-7	 	             De He Ni Po 		303	WiFo	G1 V	-3	(630+1)	[5145]	B	8	18
+Gush	N	1234	Sidur Ishki	X312000-F	 	         (Sidurii)      Di Ic 		020	WiFo	M0 V M0 V	-1	(D00+2)	[0000]	B	6	26
+Gush	N	1235	Icon	X434000-7	 	           Di 		015	WiFo	K1 V	-3	(800+1)	[0000]	B	9	8
+Gush	N	1236	Shiiki	X551000-1	 	         (NIL)  Di Po 		010	WiFo	G0 V	-3	(B00+1)	[0000]	B	12	11
+Gush	N	1237	Gumahler	X6557CH-2	 	      Fo (Gumahl)    (NIL)  Ag Ga (NIL)		105	WiFo	K1 V M6 V	-1	(966-1)	[6654]	BC	8	-324
+Gush	N	1239	Zalanor	X100000-A	 	            Di Va 		024	Wild	G7 V M3 V	-1	(E00+1)	[0000]	B	9	14
+Gush	B	1308	Loskuuatav	X544000-5	 	            Di 		004	Wild	G3 V M0 V	-3	(800-3)	[0000]	B	13	-24
+Gush	F	1319	Chansingol	X570677-1	 	             De He Ni 		112	Wild	K3 V	-3	(850+2)	[83A2]	B	10	80
+Gush	J	1321	Lish	C665777-7	 	            Ag Ri Ga (NIL)		121	GaHu	M0 V M5 V	1	(566-1)	[886B]	BC	13	-180
+Gush	J	1322	Berall	X587000-1	 	           Di 		004	Wild	G9 V	-3	(500-2)	[0000]	B	9	-10
+Gush	J	1328	Vesuata	X430000-D	 	           De Di Po 		003	WiFo	K4 V M9 V M9 V	-1	(900-1)	[0000]	B	7	-9
+Gush	N	1331	Camal	X421000-8	 	            Di He Po 		003	WiFo	G9 IV M6 V	-3	(B00+1)	[0000]	B	10	11
+Gush	N	1333	Wingate	X877000-1	 	             Di 		000	WiFo	M0 V	-3	(800+1)	[0000]	B	9	8
+Gush	N	1334	Sidur Haski	B78667A-A	 	           Ag Ri Ga Ni 		120	GaHu	M0 V	3	(754+3)	[7959]	BC	13	420
+Gush	N	1337	Thon	D745000-4	 	            Di 		010	Wild	K4 V	-3	(700+1)	[0000]	B	14	7
+Gush	N	1340	Depsorn	X543000-3	 	      O:Ilel-1101      Di Po 		003	Wild	F7 V M3 V	-3	(500-1)	[0000]	B	12	-5
+Gush	B	1407	Assunne	XAE7000-9	 	           Di 		021	Wild	K0 V M8 V	-2	(600+2)	[0000]	B	7	12
+Gush	F	1412	Platon	X83A000-F	 	            Di Wa 		020	Wild	M3 V	-1	(800-1)	[0000]	B	7	-8
+Gush	F	1414	Lanaas	X999000-5	 	           Di 		004	Wild	K0 V	-3	(600+4)	[0000]	B	10	24
+Gush	F	1417	Guzrin	X836000-7	 	           Di 		025	Wild	K8 V	-3	(400+1)	[0000]	B	12	4
+Gush	J	1422	Yellsar	E562873-5	 	         (NIL)  Ph Ri (NIL)		603	Wild	G2 V M8 V	-1	(A77+3)	[8763]	BCe	13	1470
+Gush	J	1423	Fairbriar	X411000-B	 	            Di Ic 		004	Wild	M0 V	-1	(D00+1)	[0000]	B	11	13
+Gush	J	1425	Diro	X000000-D	 	             As Va Di 		003	Wild	G8 V	-1	(800+1)	[0000]	B	10	8
+Gush	J	1426	Tikav	C563836-8	 	           (NIL)  Ph Ri (NIL)		204	Wild	M1 V M2 V	0	(E79+3)	[9863]	BCe	13	2646
+Gush	J	1430	Xerxes	X526000-C	 	           Di 		000	WiFo	M2 V M7 V	-1	(700+1)	[0000]	B	13	7
+Gush	N	1431	Arailiur	X500000-A	 	           Di Va 		000	WiFo	G8 V M4 V	-1	(300-2)	[0000]	B	12	-6
+Gush	N	1432	Confex	XAC5000-A	 	           Di Fl 		020	WiFo	M0 V	-1	(500-2)	[0000]	B	13	-10
+Gush	N	1433	Vueegmala	X629000-8	 	           Di 		003	WiFo	M2 V M6 V	-3	(A00+1)	[0000]	B	13	10
+Gush	N	1434	Tromiishur	X626000-B	 	          (NIL)  Di 		024	WiFo	M0 V M7 V	-1	(F00-1)	[0000]	B	12	-15
+Gush	N	1439	Shupin	X959979-4	 	          (NIL)  Hi (NIL)		204	Wild	M2 V	-1	(B85+1)	[D832]	BE	10	440
+Gush	N	1440	Ovchek	X635000-E	 	           Di 		000	Wild	M0 V M9 V	-1	(400-5)	[0000]	B	6	-20
+Gush	B	1507	Puumariash	X300000-C	 	        Pz      Di Va 		004	Wild	K5 V M2 V	-1	(E00+3)	[0000]	B	11	42
+Gush	B	1510	Opiwiath	X543000-3	 	           Di Po 		000	Wild	K2 V	-3	(600-1)	[0000]	B	12	-6
+Gush	F	1512	Gagushilaag	X571000-3	 	           Di He 		002	Wild	G1 V	-3	(700-1)	[0000]	B	14	-7
+Gush	F	1518	Divkar	X582000-5	 	             Di 		014	Wild	M3 V	-3	(700+1)	[0000]	B	10	7
+Gush	F	1519	Higli	E561734-6	 	          (NIL)  Ri (NIL)		900	Wild	M3 V M7 V	-1	(A69-2)	[5642]	BC	13	-1080
+Gush	F	1520	Mentule	X651000-4	 	         (NIL)  Di Po 		003	Wild	K4 V M1 V	-3	(A00+1)	[0000]	B	8	10
+Gush	J	1521	Haysher	E764872-4	 	       Pz     (NIL)  Pa Ri Ph (NIL)		103	Wild	G9 V M0 V	-1	(A7B+1)	[6757]	BcCe	8	770
+Gush	J	1522	Cervantes	D567676-3	 	              Ag Ri Ni 		111	Wild	M2 V	-1	(855-3)	[6551]	BC	11	-600
+Gush	J	1523	Colehco	XAE7000-A	 	       GrayW     Di 		023	Wild	M3 V M7 V	-1	(900+1)	[0000]	B	10	9
+Gush	J	1525	Andonin	X410000-B	 	           Di 		003	Wild	K9 V	-1	(700+2)	[0000]	B	15	14
+Gush	J	1526	Griissound	X562425-1	 	            Ni 		912	Wild	M0 V	-3	(732+1)	[3141]	B	6	42
+Gush	J	1528	Whiapluur	X598000-3	 	            Di 		013	WiFo	G2 V M5 V	-3	(700-2)	[0000]	B	10	-14
+Gush	J	1529	Twahoy	X541000-6	 	           Di He Po 		004	WiFo	M1 V M1 V	-3	(600-2)	[0000]	B	10	-12
+Gush	J	1530	Hemster	X420000-B	 	             De He Di Po 		005	WiFo	M0 V	-1	(C00+1)	[0000]	B	14	12
+Gush	N	1531	Oneria	B787597-B	 	            Ag Pr Ga Ni 		705	GaHu	M2 V	2	(B43+2)	[874A]	BcC	15	264
+Gush	N	1532	Polygamy	D549000-7	 	           Di 		000	WiFo	K3 V	-3	(800-2)	[0000]	B	13	-16
+Gush	N	1534	Sinerhk	C656225-9	 	            Ga Lo 		804	GaHu	G1 V M6 V M2 V	-1	(C10-3)	[1149]	B	8	-36
+Gush	N	1539	Here	X543000-6	 	         (NIL)  Di Po 		003	Wild	K4 V	-3	(900+1)	[0000]	B	14	9
+Gush	N	1540	Chiras	X555000-4	 	           Di 		003	Wild	M0 V	-3	(500+2)	[0000]	B	8	10
+Gush	B	1605	Maa	X100000-9	 	        Pz      Di Va 		004	Wild	M0 V M6 V	-2	(E00-3)	[0000]	B	7	-42
+Gush	F	1612	Booce	E899000-4	 	           Di 		000	Wild	M2 V	-3	(600-4)	[0000]	B	12	-24
+Gush	F	1613	Lendaarii	X798000-4	 	            Di 		002	Wild	M4 V	-3	(600-5)	[0000]	B	11	-30
+Gush	F	1615	Abir	D545000-8	 	             Di 		003	Wild	M0 V	-3	(B00-1)	[0000]	B	8	-11
+Gush	F	1616	Imaparlu	X556887-0	 	        (NIL)  Pa Ph (NIL)		804	Wild	G1 V	-2	(B76-1)	[A654]	Bce	10	-462
+Gush	F	1618	Gabradio	X611000-D	 	            Di Ic 		035	Wild	M0 V M7 V	-1	(H00+1)	[0000]	B	12	17
+Gush	F	1619	Engallent	X550000-3	 	         (NIL)  De Di Po 		021	Wild	K9 V	-3	(A00+1)	[0000]	B	12	10
+Gush	F	1620	Kerek	X000000-C	 	              As Va Di 		003	Wild	G5 III D	-1	(B00-2)	[0000]	B	10	-22
+Gush	J	1622	Blullaygh	E648000-5	 	            Di 		003	Wild	K1 V	-3	(600-4)	[0000]	B	10	-24
+Gush	J	1623	Fraynj	D848000-2	 	            Di 		000	Wild	K3 IV	-3	(700+4)	[0000]	B	9	28
+Gush	J	1624	Leraag	X520000-9	 	             De He Di Po 		003	Wild	M0 V M1 V	-2	(900-2)	[0000]	B	6	-18
+Gush	J	1625	Emur	D56449A-7	 	            Ni Pa 		914	Wild	G0 V	-3	(732+1)	[6187]	Bc	9	42
+Gush	J	1627	Nuuhlam	X400000-9	 	           Di Va 		022	Wild	M3 V	-2	(700+1)	[0000]	B	13	7
+Gush	J	1629	Pesuune	X534000-A	 	           Di 		015	WiFo	K1 V M1 V	-1	(D00+1)	[0000]	B	9	13
+Gush	N	1637	Zinzan	X433000-B	 	            Di Po 		004	Wild	K3 V	-1	(C00-3)	[0000]	B	17	-36
+Gush	N	1638	Budeeshou	X597000-5	 	            Di 		004	Wild	G2 V	-3	(600+1)	[0000]	B	12	6
+Gush	N	1640	Llest	E78A000-6	 	           Di Wa 		003	Wild	M0 V	-3	(400-4)	[0000]	B	8	-16
+Gush	C	1702	Eesonwiy	E547000-5	 	            Di 		022	Wild	F6 V M0 V	-3	(700-3)	[0000]	B	7	-21
+Gush	G	1712	Gaanriigashii	D757305-5	 	            Ga Lo 		904	Wild	K8 V	-3	(620+1)	[3115]	B	7	12
+Gush	G	1715	Vehko	C665646-7	S	             Ag Ri Ga Ni 		315	Wild	M1 V M2 V	0	(854-5)	[563A]	BC	12	-800
+Gush	G	1717	Arsuch	X566304-4	 	            Lo 		904	Wild	G0 V M8 V	-3	(620-5)	[3151]	B	8	-60
+Gush	G	1718	Iktaakas	D74A000-5	 	           Di Wa 		010	Wild	M3 V M3 V	-3	(300-1)	[0000]	B	12	-3
+Gush	K	1721	Guslas	X000000-8	 	              As Va Di 		000	Wild	M2 V	-3	(800+1)	[0000]	B	9	8
+Gush	K	1722	Ethbray	D87A000-8	 	           Di Wa 		003	Wild	M0 V	-3	(800+1)	[0000]	B	8	8
+Gush	K	1723	Uurgikhushi	X562000-6	 	            Di 		003	Wild	M2 V M3 V	-3	(700-5)	[0000]	B	13	-35
+Gush	K	1724	Velte	X772000-7	 	           Di He 		005	Wild	K6 V M2 V	-3	(600+1)	[0000]	B	8	6
+Gush	K	1727	Stedeng	X424000-8	 	           Di 		020	Wild	M0 V M2 V	-3	(A00-3)	[0000]	B	10	-30
+Gush	O	1732	Muthi	D873687-5	 	         (NIL)  Ni 		414	Wild	K6 V M2 V	-3	(950-1)	[5364]	B	8	-45
+Gush	O	1733	Arnuukara	X560000-E	 	      Pz    (NIL)  De Di 		013	Wild	M2 V	-1	(G00-1)	[0000]	B	7	-16
+Gush	O	1734	Arniche	X427000-9	 	            Di 		002	Wild	K8 V M8 V	-2	(A00+1)	[0000]	B	15	10
+Gush	O	1735	Ushiia	X200000-B	 	           Di Va 		030	Wild	M3 V	-1	(900-4)	[0000]	B	9	-36
+Gush	O	1737	Ceoth	X595000-6	 	           Di 		014	Wild	M1 V M2 V	-3	(500+1)	[0000]	B	12	5
+Gush	O	1739	Khii Sheik	X433000-B	 	           Di Po 		000	Wild	K2 V M2 V	-1	(600-2)	[0000]	B	13	-12
+Gush	O	1740	Derry	X100000-F	 	           Di Va 		024	Wild	M2 V	-1	(B00+2)	[0000]	B	9	22
+Gush	C	1801	Roy	X430000-F	 	         (NIL)  De Di Po 		003	Wild	M0 V	-1	(C00+1)	[0000]	B	12	12
+Gush	C	1810	Moseesi	X310000-8	 	             Di 		000	Wild	M1 V	-3	(A00+3)	[0000]	B	9	30
+Gush	G	1811	Crufra	D583478-6	 	           Ni 		404	Wild	M2 V	-3	(631+1)	[1157]	B	12	18
+Gush	G	1814	Apay Maru	D557798-6	 	         (NIL)  Ag (NIL)		504	Wild	M2 V	-1	(964-2)	[6652]	BC	10	-432
+Gush	G	1815	Temom	X423000-C	 	           Di Po 		020	Wild	M1 V M5 V	-1	(800-2)	[0000]	B	12	-16
+Gush	G	1816	Lumuiimshi	X311000-D	 	           Di Ic 		010	Wild	M1 V	-1	(800+1)	[0000]	B	14	8
+Gush	G	1818	Windcrest	X568488-0	 	           Ni Pa 		212	Wild	M2 V	-3	(632+1)	[4154]	Bc	6	36
+Gush	K	1821	Iirshuur	D544000-6	 	           Di 		034	Wild	G2 V M4 V	-3	(500+1)	[0000]	B	10	5
+Gush	K	1822	Ayltha	X544000-3	 	           Di 		013	Wild	G5 V	-3	(500-5)	[0000]	B	13	-25
+Gush	K	1823	Tire	XAE5000-B	 	           Di 		012	Wild	G2 IV	-1	(800+1)	[0000]	B	13	8
+Gush	K	1826	Dawru	X89A000-2	 	           Di Wa 		000	Wild	M2 V	-3	(700+1)	[0000]	B	13	7
+Gush	K	1828	Khalun	X200000-8	 	           Di Va 		005	Wild	M2 V M5 V	-3	(A00+1)	[0000]	B	12	10
+Gush	O	1832	Oaxaca	X85A000-3	 	        (NIL)  Di Wa 		005	Wild	M1 V M5 V	-3	(900-2)	[0000]	B	11	-18
+Gush	O	1833	Nimshikake	X664530-2	 	             Ag Pr Ni 		202	Wild	M1 V M5 V	-2	(740-1)	[7354]	BcC	7	-28
+Gush	O	1835	Rean	X567501-4	 	              Ag Pr Ni 		103	Wild	M3 V M9 V	-2	(741+4)	[4323]	BcC	7	112
+Gush	O	1839	Cholo	E56567A-4	 	             Ag Ri Ni 		402	Wild	M2 V M8 V	-1	(852+2)	[4564]	BC	13	160
+Gush	C	1905	Trama	X7B2000-C	 	             Di Fl He 		003	Wild	G0 II	-1	(A00+1)	[0000]	B	6	10
+Gush	G	1911	Shirkii	E556000-5	 	            Di 		014	Wild	M0 V	-3	(600+3)	[0000]	B	13	18
+Gush	G	1914	Edjbaston	X76A699-3	 	           Ni Ri Wa 		302	Wild	M2 V	-2	(852+2)	[4463]	BC	9	160
+Gush	G	1915	Dukshii Em	X88A643-3	 	           Ni Ri Wa 		501	Wild	K2 V	-2	(850-1)	[84A4]	BC	8	-40
+Gush	G	1916	Oyuch	X550443-3	 	           De Ni Po 		200	Wild	M2 V	-3	(630-3)	[2143]	B	11	-54
+Gush	K	1921	Mezregh	X726000-7	 	           Di 		003	Wild	M1 V	-3	(500-3)	[0000]	B	7	-15
+Gush	K	1923	Arcfest	XA6967A-0	 	           Ni Ri 		110	Wild	K2 V M3 V	-2	(850+1)	[5431]	BC	9	40
+Gush	K	1924	Toyuysk	X787856-3	 	      Pz DroyW      (NIL)  Ga Pa Ri Ph (NIL)		403	Wild	K8 V	-1	(A77+3)	[9793]	BcCe	11	1470
+Gush	K	1925	Fay	E778000-6	 	        Da     Di 		021	Wild	M1 V	-3	(800+4)	[0000]	B	13	32
+Gush	K	1926	Howarth	X56289B-2	 	      Pz    (NIL)  Ph Ri (NIL)		213	Wild	M1 V	-1	(A71-2)	[B751]	BCe	9	-140
+Gush	K	1927	Yaektyu	X75A000-5	 	           Di Wa 		003	Wild	G4 V	-3	(800+2)	[0000]	B	7	16
+Gush	K	1930	Unlardigard	X310000-E	 	         Pz     Di 		004	Wild	M2 V	-1	(F00+1)	[0000]	B	9	15
+Gush	O	1932	Hopkins	X567456-4	 	           Ni Pa 		103	Wild	K3 V	-3	(630+2)	[2151]	Bc	11	36
+Gush	O	1933	Oyrayt	X586000-6	 	           Di 		000	Wild	M0 V	-3	(500+1)	[0000]	B	7	5
+Gush	O	1935	Aisteaya	X563000-6	 	        Da la6     Di 		020	Wild	M2 V	-3	(700+2)	[0000]	B	9	14
+Gush	O	1936	Atu Ista	X679000-3	 	           Di 		010	Wild	M2 V	-3	(700-2)	[0000]	B	8	-14
+Gush	C	2007	Ranant	E5519BD-8	 	         (NIL)  Hi Po (NIL)		602	Wild	G1 V	-1	(C88+1)	[A866]	BE	7	768
+Gush	C	2008	Sypny	E552659-7	 	           Ni Po 		704	Wild	M3 V M7 V	-3	(850+1)	[3383]	B	13	40
+Gush	G	2015	Sadguumishmak	E58568C-6	 	             Ag Ri Ni 		410	Wild	K2 V	-1	(854-2)	[7545]	BC	11	-320
+Gush	G	2018	Rellblud	X54059D-3	 	             De He Ni Po 		202	Wild	M1 V M3 V M4 V	-3	(740+1)	[5261]	B	12	28
+Gush	G	2019	Buggar	X9A6000-A	 	           Di Fl 		000	Wild	G3 V M5 V M8 V	-1	(700+1)	[0000]	B	12	7
+Gush	G	2020	Oukictach	X564000-6	 	              Di 		000	Wild	K4 V	-3	(700+1)	[0000]	B	12	7
+Gush	K	2021	Vuyha	X65758D-3	 	           Ag Ga Ni 		202	Wild	M0 V M5 V	-2	(840+1)	[5381]	BC	6	32
+Gush	K	2022	Tahnidse	X421000-C	 	            Di He Po 		012	Wild	K3 V M9 V	-1	(B00-1)	[0000]	B	10	-11
+Gush	K	2029	Trill	X784987-4	 	         (NIL)  Hi Pr (NIL)		115	Wild	M1 V	-1	(B84+1)	[8869]	BcE	10	352
+Gush	O	2031	Sombani	X422000-F	 	           Di He Po 		023	Wild	M1 V M2 V	-1	(B00+1)	[0000]	B	10	11
+Gush	O	2036	Gushirdiimi	X542000-6	 	      Pz     (NIL)  Di He Po 		023	Wild	M1 V	-3	(B00+1)	[0000]	B	11	11
+Gush	O	2037	Highbury	X424000-B	 	          (NIL)  Di 		002	Wild	M3 V	-1	(C00-2)	[0000]	B	8	-24
+Gush	O	2038	Yolai'	C758486-9	 	      la4      Ni Pa 		513	Wild	M0 V	-1	(C33-4)	[4334]	Bc	12	-432
+Gush	O	2040	Tiirmmay	X431000-B	 	           Di Po 		004	Wild	M1 V	-1	(A00-2)	[0000]	B	13	-20
+Gush	C	2105	Mishiin	X432000-9	 	         (NIL)  Di Po 		003	Wild	G4 V M2 V	-2	(C00+1)	[0000]	B	7	12
+Gush	C	2106	Ivto	X425000-B	 	           Di 		004	Wild	M1 V M7 V	-1	(A00+4)	[0000]	B	11	40
+Gush	C	2107	K'ketopan	X432000-9	 	            Di Po 		024	Wild	M2 V	-2	(C00+2)	[0000]	B	9	24
+Gush	C	2108	Hilcaa	X540874-1	 	       Pz       (NIL)  De He Ph Pi Po (NIL)		922	Wild	M2 V M3 V	-2	(A77-1)	[7675]	BDe	12	-490
+Gush	C	2110	Brice	X899000-4	 	          (NIL)  Di 		000	Wild	M2 V	-3	(900-1)	[0000]	B	13	-9
+Gush	G	2113	Eennusinak	X551000-4	 	           Di Po 		003	Wild	K0 V M5 V	-3	(500+4)	[0000]	B	13	20
+Gush	G	2115	Pihkiit	X420000-7	 	      Da        De He Di Po 		002	Wild	M0 V	-3	(600-3)	[0000]	B	13	-18
+Gush	G	2119	Nogo	XA9A799-4	 	          (NIL)  Oc Pi (NIL)		201	Wild	M2 V M7 V	-2	(A64+1)	[7593]	BD	9	240
+Gush	G	2120	Esh Purshuur	X570000-4	 	             De He Di 		030	Wild	M0 V M1 V	-3	(300+2)	[0000]	B	8	6
+Gush	K	2121	Oyrnigh	X67A000-5	 	           Di Wa 		015	Wild	K6 V M7 V M1 V	-3	(600+3)	[0000]	B	10	18
+Gush	K	2122	Thatbe	D541000-7	 	           Di He Po 		004	Wild	K4 V	-3	(800+2)	[0000]	B	15	16
+Gush	K	2124	Mzimbe	X420000-B	 	              De He Di Po 		024	Wild	M2 V	-1	(C00+3)	[0000]	B	9	36
+Gush	K	2125	Nchena	X200000-9	 	           Di Va 		005	Wild	M3 V	-2	(800+1)	[0000]	B	8	8
+Gush	K	2127	Tlauwao	X430000-9	 	      Pz la3     (NIL)  De Di Po 		004	Wild	K0 V M9 V M7 V	-2	(G00+3)	[0000]	B	10	48
+Gush	K	2128	Feaf	X549000-6	 	           Di 		004	Wild	A3 V	-3	(400+3)	[0000]	B	13	12
+Gush	K	2130	Fudaochoyrn	X000000-F	 	             As Va Di 		003	Wild	K0 V M1 V	-1	(900+1)	[0000]	B	8	9
+Gush	O	2131	Glipli	X525000-9	 	           Di 		020	Wild	M2 V	-2	(600+1)	[0000]	B	13	6
+Gush	O	2132	Edoy	X556379-3	 	        Da     Lo 		924	Wild	M2 V M7 V	-3	(620-1)	[7144]	B	14	-12
+Gush	O	2134	Cledsetsaenn	X000000-E	 	             As Va Di 		033	Wild	K1 V	-1	(D00+1)	[0000]	B	10	13
+Gush	O	2136	Bitesofrach	C787213-7	 	           Ga Lo 		225	GaHu	M0 V	-2	(510-2)	[2136]	B	11	-10
+Gush	O	2139	Wesas	X696000-2	 	           Di 		003	Wild	G4 V	-3	(400+1)	[0000]	B	12	4
+Gush	O	2140	Kuwiru	X510000-9	 	           Di 		010	Wild	G4 V	-2	(700-2)	[0000]	B	9	-14
+Gush	C	2202	Mestitela	D5558B9-4	 	      Pz    (NIL)  Pa Ph (NIL)		203	Wild	K2 V M5 V	-2	(A73+4)	[6624]	Bce	11	840
+Gush	C	2205	Uurkhi	X421000-8	 	             Di He Po 		012	Wild	K3 V	-3	(B00-1)	[0000]	B	8	-11
+Gush	C	2206	Painntu	X547000-5	 	            Di 		001	Wild	M3 V	-3	(800-3)	[0000]	B	6	-24
+Gush	C	2207	Irkhi	X678000-6	 	        LancW   (NIL)  Di 		022	Wild	K2 V	-3	(B00+3)	[0000]	B	13	33
+Gush	C	2210	Sehnaihal	E6588BA-4	 	         (NIL)  Pa Ph (NIL)		213	Wild	M2 V	-2	(A71+1)	[B673]	Bce	17	70
+Gush	G	2213	Vilir's World	X9B4000-9	 	            Di Fl 		034	Wild	K1 V M3 V	-2	(F00+1)	[0000]	B	10	15
+Gush	G	2215	Murshen	X585477-0	 	            Ni Pa 		210	Wild	G1 V	-3	(731-2)	[5161]	Bc	11	-42
+Gush	G	2216	Seaport	X595000-3	 	        (Giiguuglum)     Di 		014	Wild	M2 V	-3	(800-1)	[0000]	B	8	-8
+Gush	G	2217	Ashsha	X422000-D	 	           Di He Po 		003	Wild	M1 V	-1	(A00+2)	[0000]	B	12	20
+Gush	K	2221	K'ke Say	E683534-4	 	           Ni Pr 		120	Wild	K4 V	-3	(740+2)	[7274]	Bc	10	56
+Gush	K	2223	Deewaa	X430000-6	 	     Fo       De Di Po 		003	Wild	M1 V M5 V	-3	(500+1)	[0000]	B	13	5
+Gush	K	2224	Kamurinmur	X560477-3	 	           (NIL)  De Ni 		213	Wild	K0 V M8 V	-3	(B30-1)	[4163]	B	11	-33
+Gush	K	2225	Elpple	X310000-A	 	           Di 		003	Wild	M3 V	-1	(800-4)	[0000]	B	11	-32
+Gush	K	2227	Helge	X693000-5	 	           Di 		010	Wild	M1 V M2 V	-3	(700+4)	[0000]	B	8	28
+Gush	K	2228	Wrechner	X432000-C	 	             Di Po 		005	Wild	K5 V M1 V	-1	(D00+2)	[0000]	B	10	26
+Gush	K	2229	Xanten	E593000-7	 	           Di 		022	Wild	K1 V M5 V M2 V	-3	(700-2)	[0000]	B	9	-14
+Gush	O	2231	Zanish	X677885-2	 	      Pz     (NIL)  Pa Pi Ph (NIL)		503	Wild	M0 V	-2	(B75+3)	[8694]	BcDe	13	1155
+Gush	O	2233	Khugika	X553875-2	 	      Fo    (NIL)  Ph Po (NIL)		203	Wild	M3 V	-2	(A76+3)	[8611]	Be	15	1260
+Gush	O	2237	Thanarmoos	X524000-E	 	           Di 		004	Wild	M1 V	-1	(700+1)	[0000]	B	10	7
+Gush	O	2240	Lleska	X622000-7	 	     Fo       Di He Po 		012	Wild	K1 V	-3	(300+2)	[0000]	B	12	6
+Gush	C	2301	Ecolette	X432000-7	 	       Pz LancW    (NIL)  Di Po 		023	Wild	G3 V	-3	(A00+2)	[0000]	B	18	20
+Gush	C	2303	Kiind	X868554-4	 	             Ag Pr Ni 		212	Wild	G0 V M6 V	-2	(743+1)	[4362]	BcC	16	84
+Gush	C	2305	Sharenga	X6849A7-4	 	       Pz LancW    (NIL)  Hi Pr (NIL)		402	Wild	K3 V M4 V	-1	(B86+2)	[B853]	BcE	6	1056
+Gush	C	2306	Mulanje	X797000-5	 	        (Edlun)3 Chir7     Di 		024	Wild	K1 V	-3	(600+1)	[0000]	B	13	6
+Gush	C	2307	Penelasse	X421000-B	 	           Di He Po 		000	Wild	M1 V M4 V	-1	(700-2)	[0000]	B	10	-14
+Gush	C	2308	Choma	X540356-3	 	             De He Lo Po 		801	Wild	G3 V	-3	(720-3)	[1126]	B	8	-42
+Gush	C	2309	Oroth	X672000-6	 	           Di He 		001	Wild	M2 V	-3	(500-1)	[0000]	B	14	-5
+Gush	C	2310	Viskka	X794000-3	 	            Di 		000	Wild	M1 V M1 V	-3	(700-2)	[0000]	B	13	-14
+Gush	G	2313	Ed	X57A000-0	 	           (NIL)  Ba Wa 		013	Wild	M0 V	-3	(C00-2)	[0000]	B	10	-24
+Gush	G	2316	Tu Tandi	E647000-5	 	            Di 		000	Wild	G3 V M3 V	-3	(600-3)	[0000]	B	13	-18
+Gush	G	2318	Mimip	D876000-5	 	            Di 		000	Wild	M1 V	-3	(600+2)	[0000]	B	10	12
+Gush	G	2320	Bleayn	E674000-6	 	            Di 		000	Wild	K3 V	-3	(700+1)	[0000]	B	13	7
+Gush	K	2323	Syss	X400000-8	 	            Di Va 		010	Wild	M9 III D M5 V	-3	(A00+3)	[0000]	B	5	30
+Gush	K	2325	Droun	E543000-5	 	          (NIL)  Di Po 		000	Wild	K1 V	-3	(B00+3)	[0000]	B	11	33
+Gush	K	2326	Rashiidaa	D655598-7	 	           Ag Ga Ni 		301	GaHu	G2 V M5 V	-2	(640-2)	[6349]	BC	14	-48
+Gush	K	2330	Idull Ra	X5607A9-1	 	          (NIL)  De Ri (NIL)		324	Wild	G2 V	-1	(964-4)	[6641]	BC	11	-864
+Gush	O	2331	Aying	X73A000-7	 	           Di Wa 		014	Wild	G0 V M7 V	-3	(600-3)	[0000]	B	8	-18
+Gush	O	2332	Danla	X672000-4	 	           Di He 		013	Wild	M1 V	-3	(800+3)	[0000]	B	10	24
+Gush	O	2333	Tethaym	X000000-E	 	              As Va Di 		003	Wild	K2 V M0 V M4 V	-1	(C00-3)	[0000]	B	9	-36
+Gush	O	2334	Gerhardus	E552779-6	 	         (NIL)  Po (NIL)		223	Wild	K4 V M7 V	-2	(969+2)	[9534]	B	9	972
+Gush	O	2335	Chipoka	E666733-6	 	            (NIL)  Ag Ri Ga (NIL)		124	Wild	M2 V M6 V	0	(96B-2)	[5746]	BC	12	-1188
+Gush	O	2336	Arapenpa	X540999-4	 	              De He Hi In Po (NIL)		325	Wild	G5 V M5 V	0	(88A+1)	[6953]	BE	12	640
+Gush	O	2337	Giffard	X513000-7	 	            Di Ic 		023	Wild	M3 V	-3	(800+1)	[0000]	B	8	8
+Gush	O	2339	Thulm	C656514-9	 	          Ag Ga Ni 		104	GaHu	M0 V M1 V	0	(943-2)	[7578]	BC	7	-216
+Gush	O	2340	Elk	E874000-6	 	            Di 		012	Wild	M1 V M3 V	-3	(700+1)	[0000]	B	6	7
+Gush	C	2404	Hannbrous	X759686-0	 	           Ni 		420	Wild	K3 V M5 V	-3	(851-3)	[8392]	B	6	-120
+Gush	C	2406	Ellus	X73A000-C	 	      Pz LancW    (NIL)  Di Wa 		003	Wild	M2 V	-1	(D00+1)	[0000]	B	10	13
+Gush	C	2408	Cirsel	X538000-E	 	           Di 		023	Wild	M3 V	-1	(B00+2)	[0000]	B	13	22
+Gush	C	2410	Admalaknii	X88A000-3	 	           Di Wa 		004	Wild	K0 V M9 V	-3	(600-4)	[0000]	B	13	-24
+Gush	G	2411	Cerell	D78A000-3	 	           Di Wa 		002	Wild	M0 V	-3	(600+1)	[0000]	B	5	6
+Gush	G	2414	Wolstene	X000000-B	 	              As Va Di 		003	Wild	M2 V M6 V	-1	(B00+4)	[0000]	B	10	44
+Gush	G	2415	Kikhi Zun	X77A000-3	 	           Di Wa 		000	Wild	M1 V M2 V	-3	(600+3)	[0000]	B	11	18
+Gush	G	2418	Liebing	X621000-D	 	             Di He Po 		000	Wild	M1 V M4 V	-1	(800+1)	[0000]	B	12	8
+Gush	K	2422	Vilk	E78568C-5	 	             Ag Ri Ga Ni 		310	Wild	K5 V M0 V	-1	(854+1)	[5555]	BC	12	160
+Gush	K	2424	Plouraandva	X432000-E	 	         (NIL)  Di Po 		000	Wild	K3 V M0 V	-1	(900-4)	[0000]	B	5	-36
+Gush	K	2425	Kieaasu	X430000-6	 	           De Di Po 		014	Wild	G0 V	-3	(700+5)	[0000]	B	8	35
+Gush	K	2426	Jazep	E592000-8	 	           Di He 		034	Wild	K1 V	-3	(E00+1)	[0000]	B	10	14
+Gush	K	2427	Twiga	X502000-A	 	             Di Ic Va 		000	Wild	M2 V	-1	(600-3)	[0000]	B	6	-18
+Gush	K	2428	Llalnair	X429000-7	 	           Di 		002	Wild	F9 V M8 V	-3	(600+1)	[0000]	B	12	6
+Gush	K	2429	Chitete	X420000-9	 	             De He Di Po 		002	Wild	M3 V M7 V	-2	(800-3)	[0000]	B	9	-24
+Gush	K	2430	Aawn	X434000-8	 	           Di 		005	Wild	M2 V	-3	(D00+1)	[0000]	B	13	13
+Gush	O	2431	Kiaan	E583677-6	 	           Ni Ri 		403	Wild	M2 V M5 V M9 V	-2	(850-1)	[547A]	BC	12	-40
+Gush	O	2434	Muaash	X565000-2	 	           Di 		012	Wild	M0 V M3 V	-3	(400-1)	[0000]	B	7	-4
+Gush	O	2438	Jars	X500000-D	 	           Di Va 		004	Wild	M0 V M6 V	-1	(B00+3)	[0000]	B	8	33
+Gush	O	2439	Susadi	X8C3000-F	 	           (ENIL)  Di Fl 		001	Wild	M3 V	-1	(C00+1)	[0000]	B	9	12
+Gush	O	2440	Oyrk	X557422-2	 	           Ni Pa 		113	Wild	M0 V M7 V	-3	(633+1)	[1155]	Bc	7	54
+Gush	D	2501	Kell	E76A8A8-8	 	     Pz     (NIL)  Ph Ri Wa (NIL)		502	Wild	M0 V M3 V	-1	(C73+1)	[878B]	BCe	11	252
+Gush	D	2502	Sayayr	X735000-6	 	       Pz  (NIL)  Di 		010	Wild	K1 V M0 V	-3	(900+2)	[0000]	B	8	18
+Gush	D	2503	Bradt Landing	X8B9000-9	 	           Di Fl 		023	Wild	M2 V	-2	(800+4)	[0000]	B	12	32
+Gush	D	2504	Routeburn	E57048C-6	 	             De He Ni 		901	Wild	M3 V M7 V	-3	(730+1)	[1164]	B	8	21
+Gush	D	2507	Shiramuunir	D544000-7	S	        Pz LancW   (NIL)  Di 		031	Wild	K1 V M7 V	-3	(C00+5)	[0000]	B	13	60
+Gush	D	2509	Jonosva	X9C7000-9	 	          (ENIL)  Di Fl 		003	Wild	G0 III D	-2	(D00+1)	[0000]	B	9	13
+Gush	H	2511	Gurdadusu	X736000-7	 	           Di 		003	Wild	M0 V M6 V	-3	(700-2)	[0000]	B	10	-14
+Gush	H	2512	Andelech	X436000-9	 	           Di 		004	Wild	K9 V	-2	(A00-1)	[0000]	B	9	-10
+Gush	H	2513	Masa	X421000-F	 	       Pz LancW     (NIL)  Di He Po 		000	Wild	M3 V	-1	(C00-4)	[0000]	B	9	-48
+Gush	H	2514	Rutkowski	X637000-B	 	            Di 		003	Wild	M1 V M2 V	-1	(700+1)	[0000]	B	10	7
+Gush	H	2517	Royef	X542000-4	 	           Di He Po 		005	Wild	K5 V	-3	(400+1)	[0000]	B	12	4
+Gush	L	2521	Joand	D899000-7	 	           Di 		004	Wild	K8 V M3 V	-3	(800-1)	[0000]	B	12	-8
+Gush	L	2523	Mapock	X546000-6	 	           Di 		000	Wild	G7 V	-3	(500+1)	[0000]	B	10	5
+Gush	L	2525	Ioyx	X6B2000-B	 	             Di Fl He 		003	Wild	G9 V	-1	(700+2)	[0000]	B	16	14
+Gush	L	2526	Joffe's World	X310000-C	 	            Di 		002	Wild	F3 V	-1	(A00-4)	[0000]	B	10	-40
+Gush	L	2527	Etwefrewa	X566574-1	 	             Ag Pr Ni 		220	Wild	G3 V	-2	(740+4)	[3341]	BcC	15	112
+Gush	P	2532	Yntulk	X88987B-0	 	         (NIL)  Ph Ri (NIL)		124	Wild	K4 V	-1	(A73+1)	[8741]	BCe	13	210
+Gush	P	2536	Sers	X540000-9	 	             De He Di Po 		012	Wild	K4 V	-2	(A00+4)	[0000]	B	9	40
+Gush	P	2537	Stallfe	D986477-5	 	           Ni Pa 		124	Wild	M0 V M1 V	-3	(630+1)	[2154]	Bc	11	18
+Gush	P	2538	Thulm	X87A000-3	 	           Di Wa 		003	Wild	M2 V M4 V	-3	(500-3)	[0000]	B	13	-15
+Gush	P	2539	Hate	X988895-2	 	       Pz     (NIL)  Pa Ri Ph (NIL)		504	Wild	M3 V	-1	(A78-3)	[4771]	BcCe	13	-1680
+Gush	P	2540	Temes	X649776-5	 	        Fo   (NIL)  Pi (NIL)		603	Wild	G2 V M4 V M0 V	-2	(A66+1)	[6523]	BD	9	360
+Gush	D	2609	Ellje	X796000-1	 	            Di 		015	Wild	K2 V	-3	(700-2)	[0000]	B	13	-14
+Gush	D	2610	Tosiv	X525000-8	 	           Di 		010	Wild	K4 V M6 V	-3	(800-1)	[0000]	B	11	-8
+Gush	H	2612	Maru	X8C5000-A	 	           Di Fl 		024	Wild	M3 V	-1	(B00+2)	[0000]	B	12	22
+Gush	H	2613	Nourm	X647000-7	 	            Di 		002	Wild	K8 V M0 V	-3	(600-2)	[0000]	B	8	-12
+Gush	H	2614	Upllor	X558877-2	 	      Gray5    (NIL)  Pa Ph (NIL)		220	Wild	K1 V	-2	(A74-1)	[B643]	Bce	9	-280
+Gush	H	2615	Erdousse	X785510-3	 	      Da        Ag Pr Ga Ni 		424	Wild	M2 V	-2	(740+1)	[7331]	BcC	14	28
+Gush	H	2617	Une	X438000-9	 	       Gray2      Di 		004	Wild	G9 V	-2	(A00-2)	[0000]	B	14	-20
+Gush	H	2618	Courtesy	X647000-1	 	           Di 		004	Wild	M1 V M1 V	-3	(400-1)	[0000]	B	8	-4
+Gush	H	2619	Guumishmak	X434000-9	 	           Di 		014	Wild	M0 V M6 V	-2	(C00+5)	[0000]	B	11	60
+Gush	H	2620	Akushis	X000000-B	 	         Pz LancW       As Va Di 		004	Wild	M1 V	-1	(F00+1)	[0000]	B	17	15
+Gush	L	2625	Khankaar	X633000-8	 	           Di Po 		002	Wild	M3 V	-3	(700-5)	[0000]	B	11	-35
+Gush	L	2626	Bliand	X948000-4	 	            Di 		022	Wild	M1 V	-3	(600+3)	[0000]	B	10	18
+Gush	L	2627	Imarshas	X9C6000-9	 	       Pz    (ENIL)  Di Fl 		024	Wild	M0 V M6 V M2 V	-2	(H00-4)	[0000]	B	12	-68
+Gush	L	2628	Kunggy	A885435-D	 	          Ga Ni Pa 		211	GaHu	M0 V	1	(534-4)	[257E]	Bc	5	-240
+Gush	L	2629	Nosy Be	D69A000-7	 	           Di Wa 		000	Wild	M0 V M2 V	-3	(800+1)	[0000]	B	13	8
+Gush	L	2630	Majunga	X89A678-4	 	           Ni Wa 		510	Wild	G1 V	-3	(852+5)	[5363]	B	11	400
+Gush	P	2632	Croft	E550735-6	 	      Pz    (NIL)  De Po (NIL)		302	Wild	G0 V	-2	(966+1)	[9514]	B	9	324
+Gush	P	2633	Pequan	X543000-4	 	           Di Po 		010	Wild	K1 V M9 V	-3	(400+4)	[0000]	B	6	16
+Gush	P	2634	Katsue	X436000-7	 	           Di 		003	Wild	G3 V	-3	(700-4)	[0000]	B	6	-28
+Gush	P	2637	Darkaoul	X425000-F	 	           Di 		010	Wild	G0 V	-1	(800+1)	[0000]	B	14	8
+Gush	P	2639	Tudjman	X687633-2	 	             Ag Ri Ga Ni 		300	Wild	K3 V	-1	(851+3)	[5552]	BC	11	120
+Gush	D	2701	Fubanan	XA9A000-3	 	           Di Oc 		000	Wild	K4 V	-3	(600-2)	[0000]	B	9	-12
+Gush	D	2704	Kyla	XA7A000-2	 	      LancW      Di Oc 		000	Wild	K1 V M9 V	-3	(400+4)	[0000]	B	13	16
+Gush	D	2705	Xenicus	XAE5000-9	 	           Di 		004	Wild	M8 III	-2	(C00+2)	[0000]	B	7	24
+Gush	D	2706	Sinish Giken	X431000-A	 	            Di Po 		020	Wild	G0 V G3 V	-1	(A00+1)	[0000]	B	13	10
+Gush	D	2707	Hunnan	X56079C-1	 	      Pz    (NIL)  De Ri (NIL)		103	Wild	M2 V M6 V	-1	(967+1)	[4611]	BC	9	378
+Gush	D	2709	Minev	E540000-7	 	             De He Di Po 		004	Wild	M0 V M5 V	-3	(500+5)	[0000]	B	14	25
+Gush	H	2713	Kinshasa	E8688AE-5	 	       Pz Lanc5 Gray1     (NIL)  Pa Ri Ph (NIL)		212	Wild	K2 V M8 V	-1	(A76-2)	[77A6]	BcCe	11	-840
+Gush	H	2715	Bruyrkna	X8B3000-9	 	     Pz Gray1    (ENIL)  Di Fl 		004	Wild	K3 V	-2	(D00-1)	[0000]	B	8	-13
+Gush	H	2716	Shakhamash	X94A000-3	 	        (Hanen)9 Gray1    (NIL)  Di Wa 		003	Wild	K0 V M3 V	-3	(B00+2)	[0000]	B	8	22
+Gush	H	2717	Lallvi	E58787A-6	 	       LancW     (NIL)  Pa Ri Ph (NIL)		404	Wild	K3 V	-1	(A74+2)	[7775]	BcCe	9	560
+Gush	L	2723	Doposeng	D594000-8	 	           Di 		000	Wild	M1 V	-3	(300+3)	[0000]	B	12	9
+Gush	L	2724	Memern	X540000-0	 	             Ba De He Po 		002	Wild	K0 V M9 V	-3	(500+1)	[0000]	B	12	5
+Gush	L	2725	Moytra	X636000-B	 	         (NIL)  Di 		010	Wild	M1 V M5 V	-1	(B00+5)	[0000]	B	11	55
+Gush	L	2726	Loholoka	D556000-5	 	           Di 		000	Wild	M2 V	-3	(500+3)	[0000]	B	12	15
+Gush	L	2730	Irkhun	E5508CD-5	 	         (NIL)  De Ph Po (NIL)		800	Wild	M1 V M2 V	-2	(A78+3)	[86A6]	Be	12	1680
+Gush	P	2732	Khossfoy	X430000-6	 	     Fo       De Di Po 		022	Wild	K7 V M9 V	-3	(500+1)	[0000]	B	13	5
+Gush	P	2734	Traynor	X434000-8	 	           Di 		013	Wild	K1 V	-3	(B00+2)	[0000]	B	12	22
+Gush	P	2735	Moy	X758778-1	 	          (NIL)  Ag (NIL)		414	Wild	M1 V M2 V	-1	(A67+1)	[9613]	BC	10	420
+Gush	P	2737	Chechen	E597000-7	 	           Di 		022	Wild	M1 V M3 V	-3	(300+1)	[0000]	B	9	3
+Gush	P	2738	Khalun	X421000-7	 	     Fo       Di He Po 		004	Wild	K5 V	-3	(500+2)	[0000]	B	10	10
+Gush	P	2740	Iishli	X888435-3	 	           Ni Pa 		313	Wild	M1 V	-3	(631+1)	[4167]	Bc	8	18
+Gush	D	2801	Aakmi	E765751-7	 	           (NIL)  Ag Ri Ga (NIL)		100	Wild	K2 V	0	(96A-2)	[5778]	BC	4	-1080
+Gush	D	2802	Trindewranda	X422000-A	 	           Di He Po 		003	Wild	K1 V	-1	(A00-2)	[0000]	B	9	-20
+Gush	D	2804	Giikika	E544000-5	 	            Di 		010	Wild	K1 V	-3	(800+1)	[0000]	B	9	8
+Gush	D	2806	Sahee	X96A573-3	 	           Ni Pr Wa 		202	Wild	M2 V	-3	(840+1)	[1263]	Bc	7	32
+Gush	D	2807	Ka Maz	X580000-1	 	      Fo       De Di 		004	Wild	M0 V	-3	(600-2)	[0000]	B	7	-12
+Gush	D	2809	Luuen	X421000-E	 	           Di He Po 		004	Wild	M3 V	-1	(A00+1)	[0000]	B	11	10
+Gush	D	2810	Mekar	X584000-2	 	             Di 		000	Wild	M0 V	-3	(700-1)	[0000]	B	8	-7
+Gush	H	2812	Koinunmatie	X566000-3	 	       GrayW     Di 		004	Wild	M2 V	-3	(500-3)	[0000]	B	11	-15
+Gush	H	2813	Lumu	D553000-4	 	      Gray2      Di Po 		003	Wild	K6 V M7 V	-3	(600+1)	[0000]	B	15	6
+Gush	H	2814	Tuuttka	C876678-5	 	      Gray7      Ag Ni 		702	Wild	M0 V	-1	(852+1)	[3587]	BC	15	80
+Gush	H	2815	Liigash	C688873-6	 	       (Graytch)      (NIL)  Pa Ri Ph (NIL)		102	Wild	G3 Ib BD	0	(A79-3)	[A851]	BcCe	12	-1890
+Gush	H	2820	Teklemos	E895887-6	 	       LancW     (NIL)  Pa Pi Ph (NIL)		103	Wild	M2 V	-2	(A73+3)	[8675]	BcDe	8	630
+Gush	L	2821	Fuch	X551000-5	 	           Di Po 		003	Wild	M2 V	-3	(800-2)	[0000]	B	10	-16
+Gush	L	2822	Zomandao	D688442-7	 	            Ni Pa 		100	Wild	M0 V	-3	(731+1)	[1133]	Bc	7	21
+Gush	L	2824	Anech Issan	E564479-5	 	            Ni Pa 		902	Wild	K1 V	-3	(831+2)	[1198]	Bc	11	48
+Gush	L	2828	Ushuuri	X83A000-C	 	         (NIL)  Di Wa 		013	Wild	M0 V M6 V	-1	(F00+2)	[0000]	B	7	30
+Gush	L	2829	Sersoolm	X420000-B	 	        Pz      (NIL)  De He Di Po 		022	Wild	M1 V M1 V	-1	(E00-1)	[0000]	B	11	-14
+Gush	L	2830	Dendouth	X200000-8	 	             Di Va 		001	Wild	M2 V	-3	(900-2)	[0000]	B	10	-18
+Gush	P	2831	Abact	X672000-4	 	           (NIL)  Di He 		004	Wild	M0 V	-3	(A00-1)	[0000]	B	8	-10
+Gush	P	2833	Grebele	E540354-8	 	             De He Lo Po 		805	Wild	M3 V M8 V	-3	(B20-1)	[7117]	B	12	-22
+Gush	P	2834	Drigelm	X66687C-0	 	      Pz      (NIL)  Ga Pa Ri Ph (NIL)		113	Wild	M2 V M9 V	-1	(A79+1)	[D762]	BcCe	14	630
+Gush	P	2835	Muugegdan	X424000-B	 	         (NIL)  Di 		003	Wild	M3 V M9 V	-1	(C00-3)	[0000]	B	9	-36
+Gush	P	2837	Rashiidaa	X580473-3	 	           De Ni 		114	Wild	M0 V M7 V	-3	(630+4)	[4124]	B	10	72
+Gush	P	2838	Trauch	X783000-6	 	           Di 		002	Wild	M1 V	-3	(500-4)	[0000]	B	10	-20
+Gush	P	2839	Kadar	X542000-E	 	           (NIL)  Di He Po 		020	Wild	M1 V M4 V M1 V	-1	(D00+2)	[0000]	B	10	26
+Gush	P	2840	Odinga	X431000-7	 	           Di Po 		004	Wild	M3 V M8 V	-3	(700+4)	[0000]	B	15	28
+Gush	D	2904	Pucuro	X642000-2	 	     Da       Di He Po 		001	Wild	K9 V M9 V	-3	(800+1)	[0000]	B	7	8
+Gush	D	2905	Beheld	E557000-6	 	            Di 		014	Wild	K4 V	-3	(700-2)	[0000]	B	10	-14
+Gush	D	2906	Tasazhas	X898000-3	 	            Di 		011	Wild	M3 V	-3	(700+1)	[0000]	B	9	7
+Gush	D	2907	Lishan	X310000-E	 	             Di 		013	Wild	M2 V	-1	(F00-1)	[0000]	B	7	-15
+Gush	D	2910	Muidmu	XAE7000-E	 	           Di 		000	Wild	K6 V	-1	(500-3)	[0000]	B	7	-15
+Gush	H	2912	Lohme	X848000-0	 	           Ba 		001	Wild	M3 V M4 V	-3	(400+4)	[0000]	B	11	16
+Gush	H	2914	Twele	X000000-E	 	        Gray5        As Va Di 		010	Wild	K7 V M5 V	-1	(900+1)	[0000]	B	14	9
+Gush	H	2915	Jasper	X563000-5	 	        Gray4      Di 		000	Wild	G2 V M4 V	-3	(700-1)	[0000]	B	13	-7
+Gush	H	2916	Tinisutta	E679000-8	 	       Gray0     Di 		003	Wild	M1 V M2 V	-3	(900-3)	[0000]	B	14	-27
+Gush	H	2917	Aran	X542000-4	 	      Fo     (NIL)  Di He Po 		002	Wild	K1 IV	-3	(A00-5)	[0000]	B	12	-50
+Gush	H	2919	Oneria	X544000-6	 	           Di 		000	Wild	M2 V	-3	(300+2)	[0000]	B	11	6
+Gush	H	2920	Mezregh	X8B9000-A	 	         (ENIL)  Di Fl 		014	Wild	M3 V M8 V	-1	(F00+1)	[0000]	B	12	15
+Gush	L	2921	Edat	X437000-D	 	         (NIL)  Di 		002	Wild	M2 V M4 V M9 V	-1	(C00-3)	[0000]	B	8	-36
+Gush	L	2923	Goye	E767437-5	 	             Ga Ni Pa 		910	Wild	G3 V	-3	(730-2)	[1189]	Bc	14	-42
+Gush	L	2924	Oieakh	X437000-6	 	           Di 		012	Wild	M3 V	-3	(300+2)	[0000]	B	11	6
+Gush	L	2925	Hkeakewoirea'	X998978-4	 	      la4    (NIL)  Hi In (NIL)		302	Wild	G3 V M7 V	0	(B82+1)	[D945]	BE	9	176
+Gush	L	2930	Taeahtaho	A887678-A	 	    la7        Ag Ri Ga Ni 		404	GaHu	K2 V	3	(957+1)	[7927]	BC	10	315
+Gush	P	2931	Kikuyu	X789778-0	 	         (NIL)  Ri (NIL)		404	Wild	M2 V M4 V	-1	(967+1)	[B651]	BC	12	378
+Gush	P	2937	Eralt	XAB8000-8	 	           Di Fl 		003	Wild	M9 III D	-3	(900+1)	[0000]	B	16	9
+Gush	P	2938	Azwhew	X577000-6	 	           Di 		000	Wild	M3 V	-3	(300+1)	[0000]	B	13	3
+Gush	P	2939	Ann	E873000-5	 	           Di 		003	Wild	G2 V	-3	(600+5)	[0000]	B	6	30
+Gush	D	3002	Fuqui	X533000-6	 	            Di Po 		000	Wild	K3 V	-3	(800+4)	[0000]	B	8	32
+Gush	D	3003	Nyamuleju	X540442-3	 	             De He Ni Po 		804	Wild	M2 V	-3	(732-2)	[7111]	B	10	-84
+Gush	D	3004	Raoh	D555779-6	 	       LancW    (NIL)  Ag (NIL)		400	Wild	M2 V M2 V	-1	(968-1)	[A645]	BC	13	-432
+Gush	D	3006	Upaniv	X567000-3	 	        Da     Di 		003	Wild	M1 V M9 V	-3	(600+1)	[0000]	B	13	6
+Gush	D	3007	Ivahllo	A756321-B	 	      S'mr3      Ga Lo 		300	GaHu	K7 V M1 V	1	(521-2)	[248C]	B	11	-20
+Gush	D	3008	Suhho	X300000-B	 	           Di Va 		003	Wild	K4 V	-1	(600+2)	[0000]	B	16	12
+Gush	D	3009	Miz*rskua'mr	E553305-8	 	      S'mrW Kiak0       Lo Po 		802	Wild	M0 V	-3	(820-2)	[6159]	B	13	-32
+Gush	H	3012	Fuqui	X789843-3	 	      Pz    (NIL)  Ph Ri (NIL)		114	Wild	M2 V M7 V	-1	(A78+5)	[4743]	BCe	17	2800
+Gush	H	3013	Amda	X632000-9	 	          (NIL)  Di Po 		000	Wild	K4 V	-2	(900+1)	[0000]	B	13	9
+Gush	H	3014	Vell	C667554-A	 	             Ag Pr Ga Ni 		804	GaHu	K8 V M2 V	1	(C44-1)	[267F]	BcC	11	-192
+Gush	H	3015	Asylum	X6B3000-B	 	           Di Fl 		024	Wild	G6 V	-1	(C00+4)	[0000]	B	11	48
+Gush	H	3016	Depot	X540389-3	 	      Da         De He Lo Po 		924	Wild	G4 V	-3	(820-2)	[5111]	B	9	-32
+Gush	H	3017	Kaagaarkha	X835000-8	 	       GrayW  (NIL)  Di 		003	Wild	K0 IV	-3	(C00+5)	[0000]	B	8	60
+Gush	L	3023	Suysu	X000000-B	 	         Pz la3       As Va Di 		012	Wild	M2 V	-1	(D00+1)	[0000]	B	13	13
+Gush	L	3024	Brase	X756544-3	 	           Ag Ga Ni 		204	Wild	K1 V M3 V	-2	(740-2)	[3362]	BC	7	-56
+Gush	L	3026	Beangub	E786430-7	 	            Ga Ni Pa 		400	Wild	K8 V M2 V	-3	(731+1)	[3114]	Bc	12	21
+Gush	L	3027	Gier	D596000-7	 	            Di 		003	Wild	G2 V M8 V	-3	(600-2)	[0000]	B	13	-12
+Gush	L	3028	Doucttru	D798000-8	 	            Di 		005	Wild	K8 V	-3	(B00+3)	[0000]	B	11	33
+Gush	L	3029	Phaln	X420000-E	 	              (NIL)  De He Di Po 		012	Wild	K4 V M9 V	-1	(E00+2)	[0000]	B	10	28
+Gush	P	3031	Teghde	X560300-4	 	           De Lo 		913	Wild	M2 V	-3	(620+1)	[1174]	B	13	12
+Gush	P	3033	Sabhaash	B665354-C	 	           Ga Lo 		102	GaHu	K0 V	1	(521-3)	[144F]	B	13	-30
+Gush	P	3034	Ukham	X310000-9	 	           Di 		023	Wild	K2 III	-2	(B00+1)	[0000]	B	9	11
+Gush	P	3035	Taleoo	D9578CC-6	 	          (NIL)  Pa Ph (NIL)		603	Wild	M0 V	-2	(A74+4)	[8656]	Bce	10	1120
+Gush	P	3038	Kieaasu	E667300-8	 	      laW      Ga Lo 		620	GaHu	K1 V	-3	(520+1)	[2113]	B	5	10
+Gush	P	3039	Uskent	X55A000-4	 	           Di Wa 		000	Wild	M3 V	-3	(300+1)	[0000]	B	9	3
+Gush	D	3101	Inkia	E7947A7-4	 	           (NIL)  Ag Pi (NIL)		310	Wild	M3 V M8 V	-1	(964+1)	[8633]	BCD	11	216
+Gush	D	3103	Yta Akat	X8B3000-8	 	      Da (Lumu)      Di Fl 		003	Wild	G0 V M9 V	-3	(A00-2)	[0000]	B	11	-20
+Gush	D	3104	Tullyree	X435000-6	 	           Di 		004	Wild	K3 V M8 V	-3	(700-1)	[0000]	B	10	-7
+Gush	D	3105	Kukhun	X65897B-4	 	        (Lancians)   (NIL)  Hi (NIL)		303	Wild	K0 V	-1	(B81+1)	[A884]	BE	12	88
+Gush	D	3106	Aphu	D795000-5	 	            Di 		025	Wild	M3 V	-3	(800+1)	[0000]	B	11	8
+Gush	D	3107	Llaet	X587000-7	 	           Di 		011	Wild	K4 V M4 V	-3	(300+5)	[0000]	B	8	15
+Gush	D	3110	Urssursfa'	D565457-8	 	      S'mrW Kiak0      Ni Pa 		203	Wild	M2 V	-3	(930-2)	[215C]	Bc	13	-54
+Gush	H	3112	Sykell	X310000-A	 	           Di 		010	Wild	M1 V	-1	(700+4)	[0000]	B	14	28
+Gush	H	3116	Alp	X403000-7	 	              Di Ic Va 		013	Wild	K3 V M4 V	-3	(700-4)	[0000]	B	14	-28
+Gush	H	3117	Eskstant	X9B7000-B	 	     Pz    (ENIL)  Di Fl 		003	Wild	M3 V M8 V	-1	(C00+2)	[0000]	B	10	24
+Gush	H	3118	Koustorm	X537000-7	 	         (NIL)  Di 		010	Wild	K4 V	-3	(900+1)	[0000]	B	14	9
+Gush	L	3122	Vammuun	X200000-A	 	           Di Va 		000	Wild	A1 V	-1	(700+1)	[0000]	B	12	7
+Gush	L	3126	Bivaud	X9C5000-D	 	           Di Fl 		003	Wild	K1 V M7 V	-1	(A00+2)	[0000]	B	12	20
+Gush	L	3130	Akhudgir	XA87000-1	 	           Di 		004	Wild	K7 V	-3	(300-1)	[0000]	B	9	-3
+Gush	P	3131	Leant	X76388C-2	 	         (NIL)  Ph Ri (NIL)		430	Wild	M2 V	-1	(A76+1)	[6734]	BCe	13	420
+Gush	P	3137	As On As	C766203-A	 	             Ga Lo 		400	GaHu	G2 V M3 V	0	(810-2)	[127D]	B	6	-16
+Gush	P	3139	Enturtepra	X899000-4	 	           Di 		003	Wild	M2 V M7 V	-3	(300-3)	[0000]	B	11	-9
+Gush	P	3140	Ladi	X432000-C	 	      Pz    (NIL)  Di Po 		003	Wild	M1 V	-1	(C00-1)	[0000]	B	12	-12
+Gush	D	3202	Kumkhap	X78A400-3	 	             Ni Wa 		802	Wild	G8 V M6 V	-3	(732+3)	[4151]	B	12	126
+Gush	D	3203	Miha	X779000-4	 	       LancW     Di 		012	Wild	M1 V	-3	(300+1)	[0000]	B	6	3
+Gush	D	3205	Bearnagh	E643000-7	 	      S'mr3      Di Po 		023	Wild	G5 IV M9 V	-3	(700+4)	[0000]	B	10	28
+Gush	D	3206	Hillalk	X100000-9	 	            Di Va 		005	Wild	A1 V	-2	(E00-2)	[0000]	B	11	-28
+Gush	D	3208	Chzaar	X638000-C	 	       S'mrW Kiak0  (NIL)  Di 		024	Wild	G1 V M7 V	-1	(F00+1)	[0000]	B	9	15
+Gush	D	3210	Sadetha	X504000-9	 	             Di Ic Va 		024	Wild	K0 V M3 V	-2	(C00-3)	[0000]	B	11	-36
+Gush	H	3211	Gudak	X557784-2	 	         (NIL)  Ag (NIL)		100	Wild	M2 V	-1	(961-1)	[9696]	BC	10	-54
+Gush	H	3212	Sktrassui'ia	X561440-3	 	            Ni 		804	Wild	K4 V M7 V	-3	(730+1)	[4142]	B	9	21
+Gush	H	3214	Leut	X310000-B	 	           Di 		000	Wild	K1 V M5 V	-1	(700+2)	[0000]	B	9	14
+Gush	H	3217	Salliatt	E886886-5	 	      LancW      (NIL)  Ga Pa Ri Ph (NIL)		513	Wild	G5 V M6 V	-1	(A79+1)	[6786]	BcCe	9	630
+Gush	H	3218	Senlis	X54788B-2	 	      LancW     (NIL)  Pa Pi Ph (NIL)		603	Wild	M2 V M2 V	-2	(B77-3)	[3655]	BcDe	10	-1617
+Gush	H	3219	Merchant	D544000-3	 	            Di 		003	Wild	M0 V	-3	(600+1)	[0000]	B	11	6
+Gush	L	3223	Vohitsara	X310000-D	 	           Di 		003	Wild	M3 V	-1	(A00-2)	[0000]	B	14	-20
+Gush	L	3224	Ars	E656742-4	 	         (NIL)  Ag Ga (NIL)		304	Wild	M2 V	-1	(962-2)	[B651]	BC	11	-216
+Gush	L	3226	Joyrest	X546000-4	 	             Di 		004	Wild	G0 V	-3	(700+2)	[0000]	B	9	14
+Gush	L	3228	Moskett	X200000-7	 	       Pz      Di Va 		025	Wild	M0 V	-3	(900+1)	[0000]	B	11	9
+Gush	L	3230	Tsihombe	X764322-3	 	            Lo 		800	Wild	M2 V	-3	(620+4)	[8153]	B	13	48
+Gush	P	3231	Staya	X200000-B	 	           Di Va 		010	Wild	M2 V M8 V	-1	(500+1)	[0000]	B	10	5
+Gush	P	3235	Ikaak	X434000-8	 	           Di 		010	Wild	K3 V	-3	(700+1)	[0000]	B	11	7
+Gush	P	3236	Fadia	E596000-7	 	            Di 		015	Wild	K2 V M0 V	-3	(800+1)	[0000]	B	10	8
+Gush	P	3237	Revd	X98878A-2	 	           (NIL)  Ag Ri (NIL)		620	Wild	G6 V	0	(968+1)	[7796]	BC	12	432
+Gush	P	3240	Haiwhou	X432000-D	 	            Di Po 		004	Wild	M0 V M3 V	-1	(C00+3)	[0000]	B	14	36

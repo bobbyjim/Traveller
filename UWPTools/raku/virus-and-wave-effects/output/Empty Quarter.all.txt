@@ -1,0 +1,1879 @@
+Year	Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+1105	Empt	A	0110	Akgakhong	C501100-B	 	   Ic Va Lo 		910	JuRu	M1 V	0	(400-4)	[1116]	B	14	-16
+1201	Empt	A	0110	Akgakhong	X501000-B	 	   Di Ic Va 		010	JuRu	M1 V	-1	(400-2)	[0000]	B	14	-8
+1240	Empt	A	0110	Akgakhong	X501000-B	 	   Di Ic Va 		010	Wild	M1 V	-1	(400-1)	[0000]	B	14	-4
+1508	Empt	A	0110	Akgakhong	X501000-B	 	   Di Ic Va 		010	Wild	M1 V	-1	(400-5)	[0000]	B	14	-20
+1900	Empt	A	0110	Akgakhong	X501000-B	 	   Di Ic Va 		010	Wild	M1 V	-1	(400+1)	[0000]	B	14	4
+
+1105	Empt	E	0111	Kfueng	D421435-7	 	  He Ni Po 		900	JuRu	M1 V M8 V	-3	(631-5)	[2135]	B	9	-90
+1201	Empt	E	0111	Kfueng	X421000-7	 	  Di He Po 		000	JuRu	M1 V M8 V	-3	(600+2)	[0000]	B	9	12
+1240	Empt	E	0111	Kfueng	X421000-7	 	  Di He Po 		000	Wild	M1 V M8 V	-3	(600+3)	[0000]	B	9	18
+1508	Empt	E	0111	Kfueng	X421000-7	 	  Di He Po 		000	Wild	M1 V M8 V	-3	(600+2)	[0000]	B	9	12
+1900	Empt	E	0111	Kfueng	X421000-7	 	  Di He Po 		000	Wild	M1 V M8 V	-3	(600+3)	[0000]	B	9	18
+
+1105	Empt	E	0116	Laenthataek	C540541-5	 	  De He Ni Po 		802	JuRu	G2 V	-2	(742-5)	[1311]	B	10	-280
+1201	Empt	E	0116	Laenthataek	E540500-4	 	  De He Ni Po 		502	JuRu	G2 V	-3	(740+1)	[1293]	B	10	28
+1240	Empt	E	0116	Laenthataek	E540416-1	 	  De He Ni Po 		202	Wild	G2 V	-3	(730+4)	[1191]	B	10	84
+1508	Empt	E	0116	Laenthataek	E540410-2	 	  De He Ni Po 		302	Wild	G2 V	-3	(731+3)	[3121]	B	10	63
+1900	Empt	E	0116	Laenthataek	E540445-3	 	  De He Ni Po 		302	Wild	G2 V	-3	(732+1)	[4151]	B	10	42
+
+1105	Empt	I	0127	Ababat	B7576BA-A	N 	  Ag Ga Ni 	A	234	ImDa	K0 V	2	(F56+4)	[887C]	BC	14	1800
+1201	Empt	I	0127	Ababat	D757668-6	 	  Ag Ga Ni 		234	ImDa	K0 V	-2	(850-4)	[3459]	BC	14	-160
+1240	Empt	I	0127	Ababat	D757678-4	 	  Ag Ga Ni 		134	Wild	K0 V	-2	(853+2)	[A434]	BC	14	240
+1508	Empt	I	0127	Ababat	D7576BD-5	 	  Ag Ga Ni 		234	Wild	K0 V	-2	(851+1)	[4474]	BC	14	40
+1900	Empt	I	0127	Ababat	D75769B-6	 	  Ag Ga Ni 		134	Wild	K0 V	-2	(853+1)	[6436]	BC	14	120
+
+1105	Empt	I	0128	Saffron	A540373-C	 	  De He Lo Po 		203	ImDa	G2 V	1	(821-2)	[1429]	B	6	-32
+1201	Empt	I	0128	Saffron	X540322-4	 	  De He Lo Po 	B	503	ImDa	G2 V	-3	(520+2)	[2123]	B	6	20
+1240	Empt	I	0128	Saffron	X540000-4	 	  De He Di Po 		003	Wild	G2 V	-3	(500-1)	[0000]	B	6	-5
+1508	Empt	I	0128	Saffron	X540000-4	 	  De He Di Po 		003	Wild	G2 V	-3	(500+1)	[0000]	B	6	5
+1900	Empt	I	0128	Saffron	X540000-4	 	  De He Di Po 		003	Wild	G2 V	-3	(500-1)	[0000]	B	6	-5
+
+1105	Empt	M	0132	Karsaka	B54055A-7	 	  De He Ni Po 		402	ImDa	F9 V	-1	(743+1)	[7479]	B	11	84
+1201	Empt	M	0132	Karsaka	D540522-6	 	  De He Ni Po 		302	ImDa	F9 V	-3	(742+2)	[5277]	B	11	112
+1240	Empt	M	0132	Karsaka	D540534-0	 	  De He Ni Po 		102	Wild	F9 V	-3	(740+1)	[1281]	B	11	28
+1508	Empt	M	0132	Karsaka	D540400-2	 	  De He Ni Po 		902	Wild	F9 V	-3	(730-5)	[6163]	B	11	-105
+1900	Empt	M	0132	Karsaka	D540556-3	 	  De He Ni Po 		102	Wild	F9 V	-3	(742-2)	[3251]	B	11	-112
+
+1105	Empt	M	0134	Rommel	B7B6759-9	 	    Fl (ENIL)		902	ImDa	M3 V	1	(B6A+2)	[886A]	B	10	1320
+1201	Empt	M	0134	Rommel	X7B6000-9	 	   Di Fl (ENIL)		002	ImDa	M3 V	-2	(B00+3)	[0000]	B	10	33
+1240	Empt	M	0134	Rommel	X7B6000-9	 	   Di Fl (ENIL)		002	Wild	M3 V	-2	(B00+3)	[0000]	B	10	33
+1508	Empt	M	0134	Rommel	X7B6000-9	 	   Di Fl (ENIL)		002	Wild	M3 V	-2	(B00+1)	[0000]	B	10	11
+1900	Empt	M	0134	Rommel	X7B6000-9	 	   Di Fl (ENIL)		002	Wild	M3 V	-2	(B00-1)	[0000]	B	10	-11
+
+1105	Empt	M	0138	Guukerrii	A763200-E	 	    Lo 		101	ImDa	G1 V	1	(511-3)	[1319]	B	8	-15
+1201	Empt	M	0138	Guukerrii	X763210-1	 	    Lo 		801	ImDa	G1 V	-3	(410-4)	[5131]	B	8	-16
+1240	Empt	M	0138	Guukerrii	X763000-1	 	    Di 		001	Wild	G1 V	-3	(400-3)	[0000]	B	8	-12
+1508	Empt	M	0138	Guukerrii	X763000-1	 	    Di 		001	Wild	G1 V	-3	(400+1)	[0000]	B	8	4
+1900	Empt	M	0138	Guukerrii	X763000-1	 	    Di 		001	Wild	G1 V	-3	(400+1)	[0000]	B	8	4
+
+1105	Empt	M	0139	Zukhisa	B5749C7-7	 	   Hi In (NIL)		712	ImDa	F9 V G5 V	2	(B8B+2)	[9B57]	BE	10	1936
+1201	Empt	M	0139	Zukhisa	D574979-5	 	   Hi In (NIL)	B	812	ImDa	F9 V G5 V	0	(B87+3)	[C946]	BE	10	1848
+1240	Empt	M	0139	Zukhisa	D574976-1	 	   Hi In (NIL)		412	Wild	F9 V G5 V	0	(B8B-2)	[D931]	BE	10	-1936
+1508	Empt	M	0139	Zukhisa	D574956-3	 	   Hi In (NIL)		412	Wild	F9 V G5 V	0	(B88-4)	[A953]	BE	10	-2816
+1900	Empt	M	0139	Zukhisa	D5749CB-3	 	   Hi In (NIL)		512	Wild	F9 V G5 V	0	(B86+4)	[4951]	BE	10	2112
+
+1105	Empt	M	0140	Ishkhigu	D4138AD-7	S	  Ic Na Pi Ph 	A	324	ImDa	K1 V	-2	(A76+2)	[C69B]	BDe	16	840
+1201	Empt	M	0140	Ishkhigu	X413000-7	 	  Di Ic Na Pi 		024	ImDa	K1 V	-3	(A00+1)	[0000]	BD	16	10
+1240	Empt	M	0140	Ishkhigu	X413000-7	 	  Di Ic Na Pi 		024	Wild	K1 V	-3	(A00-2)	[0000]	BD	16	-20
+1508	Empt	M	0140	Ishkhigu	X413000-7	 	   Di Ic 		024	Wild	K1 V	-3	(A00+1)	[0000]	B	16	10
+1900	Empt	M	0140	Ishkhigu	X413000-7	 	   Di Ic 		024	Wild	K1 V	-3	(A00+1)	[0000]	B	16	10
+
+1105	Empt	A	0201	Odzsouu	C89A557-9	 	   Ni Wa 		423	JuRu	G1 V	-1	(C43-1)	[5459]	B	12	-144
+1201	Empt	A	0201	Odzsouu	X89A522-3	 	   Ni Wa 	B	223	JuRu	G1 V	-3	(740-2)	[8263]	B	12	-56
+1240	Empt	A	0201	Odzsouu	X89A000-3	 	   Di Wa 		023	Wild	G1 V	-3	(700+5)	[0000]	B	12	35
+1508	Empt	A	0201	Odzsouu	X89A000-3	 	   Di Wa 		023	Wild	G1 V	-3	(700-1)	[0000]	B	12	-7
+1900	Empt	A	0201	Odzsouu	X89A000-3	 	   Di Wa 		023	Wild	G1 V	-3	(700+1)	[0000]	B	12	7
+
+1105	Empt	A	0204	Sekhthodu	B7C3434-9	 	   Fl Ni 		624	JuRu	M1 V M5 V	0	(C33-2)	[2437]	B	12	-216
+1201	Empt	A	0204	Sekhthodu	X7C3000-9	 	   Di Fl 		024	JuRu	M1 V M5 V	-2	(C00-3)	[0000]	B	12	-36
+1240	Empt	A	0204	Sekhthodu	X7C3000-9	 	   Di Fl 		024	Wild	M1 V M5 V	-2	(C00-1)	[0000]	B	12	-12
+1508	Empt	A	0204	Sekhthodu	X7C3000-9	 	   Di Fl 		024	Wild	M1 V M5 V	-2	(C00+5)	[0000]	B	12	60
+1900	Empt	A	0204	Sekhthodu	X7C3000-9	 	   Di Fl 		024	Wild	M1 V M5 V	-2	(C00+1)	[0000]	B	12	12
+
+1105	Empt	A	0205	Roenksu	B65A558-9	 	   Ni Wa 		922	JuRu	K4 V M6 V	1	(B45+1)	[5659]	B	15	220
+1201	Empt	A	0205	Roenksu	X65A549-6	 	   Ni Wa 	B	522	JuRu	K4 V M6 V	-3	(741+2)	[5229]	B	15	56
+1240	Empt	A	0205	Roenksu	X65A546-0	 	   Ni Wa 		222	Wild	K4 V M6 V	-3	(742+1)	[1213]	B	15	56
+1508	Empt	A	0205	Roenksu	X65A555-0	 	   Ni Wa 		322	Wild	K4 V M6 V	-3	(741+2)	[8211]	B	15	56
+1900	Empt	A	0205	Roenksu	X65A578-0	 	   Ni Wa 		222	Wild	K4 V M6 V	-3	(740-3)	[5241]	B	15	-84
+
+1105	Empt	A	0206	Kuell	A572774-A	 	   He Pi (NIL)		524	JuRu	K2 V	2	(F6B+1)	[5938]	BD	17	990
+1201	Empt	A	0206	Kuell	C572797-8	 	   He Pi (NIL)		624	JuRu	K2 V	-1	(F64-4)	[3637]	BD	17	-1440
+1240	Empt	A	0206	Kuell	C5727BB-4	 	   He Pi (NIL)		324	Wild	K2 V	-1	(965+1)	[6637]	BD	17	270
+1508	Empt	A	0206	Kuell	C572752-6	 	   He Pi (NIL)		424	Wild	K2 V	-1	(967-1)	[3656]	BD	17	-378
+1900	Empt	A	0206	Kuell	C572778-6	 	   He Pi (NIL)		524	Wild	K2 V	-1	(963-3)	[6638]	BD	17	-486
+
+1105	Empt	A	0208	Ikon	C553AC7-C	 	   Hi Po (NIL)		103	JuRu	K5 V	2	(F9D+2)	[AC5C]	BE	12	3510
+1201	Empt	A	0208	Ikon	X553000-1	 	   Di Po (NIL)		003	JuRu	K5 V	-3	(C00+1)	[0000]	B	12	12
+1240	Empt	A	0208	Ikon	X553000-1	 	   Di Po (NIL)		003	Wild	K5 V	-3	(C00+4)	[0000]	B	12	48
+1508	Empt	A	0208	Ikon	X553000-1	 	   Di Po (NIL)		003	Wild	K5 V	-3	(C00-1)	[0000]	B	12	-12
+1900	Empt	A	0208	Ikon	X553000-1	 	   Di Po (NIL)		003	Wild	K5 V	-3	(C00+1)	[0000]	B	12	12
+
+1105	Empt	E	0213	Thaeallikh	B5666A9-6	 	   Ag Ri Ni 		723	JuRu	G0 V	1	(855+2)	[7767]	BC	13	400
+1201	Empt	E	0213	Thaeallikh	D566676-6	 	   Ag Ri Ni 		823	JuRu	G0 V	-1	(850-1)	[8575]	BC	13	-40
+1240	Empt	E	0213	Thaeallikh	D566678-0	 	   Ag Ri Ni 		423	Wild	G0 V	-1	(851+1)	[2571]	BC	13	40
+1508	Empt	E	0213	Thaeallikh	D566674-1	 	   Ag Ri Ni 		323	Wild	G0 V	-1	(850-2)	[A513]	BC	13	-80
+1900	Empt	E	0213	Thaeallikh	D566679-2	 	   Ag Ri Ni 		223	Wild	G0 V	-1	(850-4)	[7557]	BC	13	-160
+
+1105	Empt	E	0216	Vuensoe	E542320-5	 	  He Lo Po 		702	JuRu	F9 V	-3	(520-5)	[1111]	B	7	-50
+1201	Empt	E	0216	Vuensoe	X542135-4	 	  He Lo Po 	B	602	JuRu	F9 V	-3	(500-4)	[4184]	B	7	-20
+1240	Empt	E	0216	Vuensoe	X542000-4	 	  Di He Po 		002	Wild	F9 V	-3	(500-5)	[0000]	B	7	-25
+1508	Empt	E	0216	Vuensoe	X542000-4	 	  Di He Po 		002	Wild	F9 V	-3	(500-2)	[0000]	B	7	-10
+1900	Empt	E	0216	Vuensoe	X542000-4	 	  Di He Po 		002	Wild	F9 V	-3	(500+2)	[0000]	B	7	10
+
+1105	Empt	I	0227	Lukaau	B550757-A	S	   De Po (NIL)		303	ImDa	K0 V	2	(C6B+2)	[795A]	B	12	1584
+1201	Empt	I	0227	Lukaau	X550977-4	 	  De Hi Po (NIL)	B	303	ImDa	K0 V	-1	(984+2)	[9892]	BE	12	576
+1240	Empt	I	0227	Lukaau	X550958-2	 	  De Hi Po (NIL)		103	Wild	K0 V	-1	(983-5)	[8843]	BE	12	-1080
+1508	Empt	I	0227	Lukaau	X550996-2	 	  De Hi Po (NIL)		103	Wild	K0 V	-1	(983-5)	[9851]	BE	12	-1080
+1900	Empt	I	0227	Lukaau	X5509EB-3	 	  De Hi Po (NIL)		203	Wild	K0 V	-1	(983+2)	[9873]	BE	12	432
+
+1105	Empt	I	0228	Mikik	X540975-5	 	  De He Hi In Po (NIL)	R	523	ImDa	M0 V	0	(B88-2)	[7933]	BE	11	-1408
+1201	Empt	I	0228	Mikik	X5409C9-4	 	  De He Hi In Po (NIL)	B	623	ImDa	M0 V	0	(B85+3)	[7961]	BE	11	1320
+1240	Empt	I	0228	Mikik	X540974-3	 	  De He Hi In Po (NIL)		323	Wild	M0 V	0	(B87-3)	[B992]	BE	11	-1848
+1508	Empt	I	0228	Mikik	X540996-4	 	  De He Hi In Po (NIL)		423	Wild	M0 V	0	(B87-2)	[5935]	BE	11	-1232
+1900	Empt	I	0228	Mikik	X540999-5	 	  De He Hi In Po (NIL)		323	Wild	M0 V	0	(B89-5)	[B911]	BE	11	-3960
+
+1105	Empt	I	0229	Wesaswek	A8868DB-A	 	  Ga Pa Ri Ph (NIL)	A	225	ImDa	F5 V	3	(H7C+5)	[AB7C]	BcCe	10	7140
+1201	Empt	I	0229	Wesaswek	X886868-5	 	  Ga Pa Ri Ph (NIL)	B	225	ImDa	F5 V	-1	(A78+2)	[6754]	BcCe	10	1120
+1240	Empt	I	0229	Wesaswek	X88687A-0	 	  Ga Pa Ri Ph (NIL)		125	Wild	F5 V	-1	(A77-2)	[5761]	BcCe	10	-980
+1508	Empt	I	0229	Wesaswek	X8867A9-0	 	   Ag Ri Ga (NIL)		925	Wild	F5 V	0	(A68-2)	[8714]	BC	10	-960
+1900	Empt	I	0229	Wesaswek	X886724-0	 	   Ag Ri Ga (NIL)		825	Wild	F5 V	0	(A66-2)	[8731]	BC	10	-720
+
+1105	Empt	M	0231	Surogota	C554557-6	 	   Ag Ni 		323	ImDa	G9 V	-1	(743-1)	[5456]	BC	8	-84
+1201	Empt	M	0231	Surogota	E55459C-5	 	   Ag Ni 	B	223	ImDa	G9 V	-2	(740+4)	[6333]	BC	8	112
+1240	Empt	M	0231	Surogota	E554540-1	 	   Ag Ni 		123	Wild	G9 V	-2	(740+1)	[3356]	BC	8	28
+1508	Empt	M	0231	Surogota	E554434-2	 	   Ni Pa 		923	Wild	G9 V	-3	(733-3)	[3115]	Bc	8	-189
+1900	Empt	M	0231	Surogota	E554434-3	 	   Ni Pa 		923	Wild	G9 V	-3	(732-2)	[1151]	Bc	8	-84
+
+1105	Empt	M	0232	Sharduuaan	D533335-6	 	   Lo Po 		523	ImDa	K8 V	-3	(520-5)	[1134]	B	8	-50
+1201	Empt	M	0232	Sharduuaan	X533000-6	 	   Di Po 		023	ImDa	K8 V	-3	(500+1)	[0000]	B	8	5
+1240	Empt	M	0232	Sharduuaan	X533000-6	 	   Di Po 		023	Wild	K8 V	-3	(500+3)	[0000]	B	8	15
+1508	Empt	M	0232	Sharduuaan	X533000-6	 	   Di Po 		023	Wild	K8 V	-3	(500+4)	[0000]	B	8	20
+1900	Empt	M	0232	Sharduuaan	X533000-6	 	   Di Po 		023	Wild	K8 V	-3	(500+4)	[0000]	B	8	20
+
+1105	Empt	M	0234	Barindra	D77A645-6	 	   Ni Wa 		123	ImDa	K3 V M6 V	-3	(851-5)	[4334]	B	14	-200
+1201	Empt	M	0234	Barindra	X77A114-5	 	   Lo Wa 		523	ImDa	K3 V M6 V	-3	(800+4)	[1159]	B	14	32
+1240	Empt	M	0234	Barindra	X77A000-5	 	   Di Wa 		023	Wild	K3 V M6 V	-3	(800-3)	[0000]	B	14	-24
+1508	Empt	M	0234	Barindra	X77A000-5	 	   Di Wa 		023	Wild	K3 V M6 V	-3	(800-1)	[0000]	B	14	-8
+1900	Empt	M	0234	Barindra	X77A000-5	 	   Di Wa 		023	Wild	K3 V M6 V	-3	(800+1)	[0000]	B	14	8
+
+1105	Empt	M	0238	Kali	B300567-C	 	   Ni Va 		620	ImDa	K7 V	1	(945+1)	[565C]	B	12	180
+1201	Empt	M	0238	Kali	X300000-C	 	   Di Va 		020	ImDa	K7 V	-1	(900-2)	[0000]	B	12	-18
+1240	Empt	M	0238	Kali	X300000-C	 	   Di Va 		020	Wild	K7 V	-1	(900+4)	[0000]	B	12	36
+1508	Empt	M	0238	Kali	X300000-C	 	   Di Va 		020	Wild	K7 V	-1	(900+1)	[0000]	B	12	9
+1900	Empt	M	0238	Kali	X300000-C	 	   Di Va 		020	Wild	K7 V	-1	(900-3)	[0000]	B	12	-27
+
+1105	Empt	A	0302	Knaekiril	A540500-9	 	  De He Ni Po 		623	JuRu	G0 V	0	(C44-4)	[1514]	B	12	-768
+1201	Empt	A	0302	Knaekiril	B540542-4	 	  De He Ni Po 		323	JuRu	G0 V	-1	(741+5)	[1468]	B	12	140
+1240	Empt	A	0302	Knaekiril	B540555-5	 	  De He Ni Po 		123	Wild	G0 V	-1	(744-3)	[5466]	B	12	-336
+1508	Empt	A	0302	Knaekiril	B540421-5	 	  De He Ni Po 		923	Wild	G0 V	-1	(730-2)	[535A]	B	12	-42
+1900	Empt	A	0302	Knaekiril	B540543-6	 	  De He Ni Po 		123	Wild	G0 V	-1	(743+4)	[2414]	B	12	336
+
+1105	Empt	A	0305	Suezkha	B543463-8	 	   Ni Po 		323	JuRu	K5 V	-1	(B32-4)	[1325]	B	16	-264
+1201	Empt	A	0305	Suezkha	D543459-7	 	   Ni Po 		223	JuRu	K5 V	-3	(631-2)	[116A]	B	16	-36
+1240	Empt	A	0305	Suezkha	D543000-7	 	   Di Po 		023	Wild	K5 V	-3	(600+5)	[0000]	B	16	30
+1508	Empt	A	0305	Suezkha	D543000-7	 	   Di Po 		023	Wild	K5 V	-3	(600+1)	[0000]	B	16	6
+1900	Empt	A	0305	Suezkha	D543000-7	 	   Di Po 		023	Wild	K5 V	-3	(600+1)	[0000]	B	16	6
+
+1105	Empt	A	0308	Gvurrdakh	C6538AA-7	 	   Ph Po (NIL)	A	703	JuRu	M1 V	-1	(A77+1)	[A779]	Be	8	490
+1201	Empt	A	0308	Gvurrdakh	E653889-6	 	   Ph Po (NIL)	B	803	JuRu	M1 V	-2	(A75-1)	[863A]	Be	8	-350
+1240	Empt	A	0308	Gvurrdakh	E653875-3	 	   Ph Po (NIL)		403	Wild	M1 V	-2	(A76-5)	[6664]	Be	8	-2100
+1508	Empt	A	0308	Gvurrdakh	E65387B-4	 	   Ph Po (NIL)		303	Wild	M1 V	-2	(A72+4)	[6627]	Be	8	560
+1900	Empt	A	0308	Gvurrdakh	E65389A-5	 	   Ph Po (NIL)		403	Wild	M1 V	-2	(A76+1)	[C635]	Be	8	420
+
+1105	Empt	E	0311	Aerrogh	C54048A-8	 	  De He Ni Po 		823	JuRu	G2 V M0 V	-2	(B31+1)	[627A]	B	9	33
+1201	Empt	E	0311	Aerrogh	E540400-7	 	  De He Ni Po 		523	JuRu	G2 V M0 V	-3	(630-2)	[5177]	B	9	-36
+1240	Empt	E	0311	Aerrogh	E540485-4	 	  De He Ni Po 		223	Wild	G2 V M0 V	-3	(630+1)	[7144]	B	9	18
+1508	Empt	E	0311	Aerrogh	E540446-5	 	  De He Ni Po 		323	Wild	G2 V M0 V	-3	(630-2)	[2193]	B	9	-36
+1900	Empt	E	0311	Aerrogh	E540433-6	 	  De He Ni Po 		423	Wild	G2 V M0 V	-3	(630+1)	[3145]	B	9	18
+
+1105	Empt	E	0314	Saerrogh	B310100-E	 	    Lo 		113	JuRu	M4 V	1	(701-3)	[1219]	B	12	-21
+1201	Empt	E	0314	Saerrogh	X310000-E	 	    Di 		013	JuRu	M4 V	-1	(700+3)	[0000]	B	12	21
+1240	Empt	E	0314	Saerrogh	X310000-E	 	    Di 		013	Wild	M4 V	-1	(700+1)	[0000]	B	12	7
+1508	Empt	E	0314	Saerrogh	X310000-E	 	    Di 		013	Wild	M4 V	-1	(700+1)	[0000]	B	12	7
+1900	Empt	E	0314	Saerrogh	X310000-E	 	    Di 		013	Wild	M4 V	-1	(700+1)	[0000]	B	12	7
+
+1105	Empt	I	0325	Faiza	A798245-B	 	    Lo 		823	NaHu	G2 V	1	(911-1)	[1339]	B	9	-9
+1201	Empt	I	0325	Faiza	X798252-3	 	    Lo 		123	NaHu	G2 V	-3	(410+1)	[1163]	B	9	4
+1240	Empt	I	0325	Faiza	X798000-3	 	    Di 		023	Wild	G2 V	-3	(400-2)	[0000]	B	9	-8
+1508	Empt	I	0325	Faiza	X798000-3	 	    Di 		023	Wild	G2 V	-3	(400+3)	[0000]	B	9	12
+1900	Empt	I	0325	Faiza	X798000-3	 	    Di 		023	Wild	G2 V	-3	(400+2)	[0000]	B	9	8
+
+1105	Empt	I	0327	Upkugi	D64A557-6	 	   Ni Wa 		700	ImDa	M1 V M6 V	-3	(741-3)	[5256]	B	8	-84
+1201	Empt	I	0327	Upkugi	X64A487-3	 	   Ni Wa 	B	400	ImDa	M1 V M6 V	-3	(732+3)	[3161]	B	8	126
+1240	Empt	I	0327	Upkugi	X64A000-3	 	   Di Wa 		000	Wild	M1 V M6 V	-3	(700-5)	[0000]	B	8	-35
+1508	Empt	I	0327	Upkugi	X64A000-3	 	   Di Wa 		000	Wild	M1 V M6 V	-3	(700+2)	[0000]	B	8	14
+1900	Empt	I	0327	Upkugi	X64A000-3	 	   Di Wa 		000	Wild	M1 V M6 V	-3	(700+1)	[0000]	B	8	7
+
+1105	Empt	I	0328	Hadiya	A201115-E	 	   Ic Va Lo 		423	NaHu	K3 V M7 V	1	(801-1)	[123C]	B	12	-8
+1201	Empt	I	0328	Hadiya	X201000-E	 	   Di Ic Va 		023	NaHu	K3 V M7 V	-1	(800+2)	[0000]	B	12	16
+1240	Empt	I	0328	Hadiya	X201000-E	 	   Di Ic Va 		023	Wild	K3 V M7 V	-1	(800+1)	[0000]	B	12	8
+1508	Empt	I	0328	Hadiya	X201000-E	 	   Di Ic Va 		023	Wild	K3 V M7 V	-1	(800+3)	[0000]	B	12	24
+1900	Empt	I	0328	Hadiya	X201000-E	 	   Di Ic Va 		023	Wild	K3 V M7 V	-1	(800-1)	[0000]	B	12	-8
+
+1105	Empt	I	0329	Wabeab	E566699-6	 	   Ag Ri Ni 		824	ImDa	G1 V M0 V	-1	(853+1)	[7567]	BC	17	120
+1201	Empt	I	0329	Wabeab	X566679-5	 	   Ag Ri Ni 		924	ImDa	G1 V M0 V	-1	(854-3)	[B568]	BC	17	-480
+1240	Empt	I	0329	Wabeab	X56667A-0	 	   Ag Ri Ni 		424	Wild	G1 V M0 V	-1	(851-1)	[6541]	BC	17	-40
+1508	Empt	I	0329	Wabeab	X566688-1	 	   Ag Ri Ni 		324	Wild	G1 V M0 V	-1	(850+1)	[9555]	BC	17	40
+1900	Empt	I	0329	Wabeab	X566652-3	 	   Ag Ri Ni 		324	Wild	G1 V M0 V	-1	(854+1)	[2543]	BC	17	160
+
+1105	Empt	M	0334	Gudina	C78699B-9	 	  Ga Hi Pr (NIL)	A	224	ImDa	G6 V M4 V	1	(H8B+3)	[BA7B]	BcE	9	4488
+1201	Empt	M	0334	Gudina	E7869BB-8	 	  Ga Hi Pr (NIL)	B	324	ImDa	G6 V M4 V	-1	(H89-2)	[B858]	BcE	9	-2448
+1240	Empt	M	0334	Gudina	E786976-5	 	  Ga Hi Pr (NIL)		124	Wild	G6 V M4 V	-1	(B84+2)	[C851]	BcE	9	704
+1508	Empt	M	0334	Gudina	E786999-6	 	  Ga Hi Pr (NIL)		224	Wild	G6 V M4 V	-1	(B85+2)	[7827]	BcE	9	880
+1900	Empt	M	0334	Gudina	E786977-7	 	  Ga Hi Pr (NIL)		224	Wild	G6 V M4 V	-1	(B84-4)	[5857]	BcE	9	-1408
+
+1105	Empt	M	0337	Pugaash	B896867-6	 	  Mr Pa Pi Ph (NIL)		523	ImDa	G7 V M4 V	0	(A77+1)	[8856]	BcDe	14	490
+1201	Empt	M	0337	Pugaash	D8968C9-6	 	  Mr Pa Pi Ph (NIL)	B	623	ImDa	G7 V M4 V	-2	(A79-2)	[6648]	BcDe	14	-1260
+1240	Empt	M	0337	Pugaash	D896730-0	 	   Ag Pi Mr (NIL)		323	Wild	G7 V M4 V	-1	(A66+1)	[9692]	BCD	14	360
+1508	Empt	M	0337	Pugaash	D896736-1	 	   Ag Pi Mr (NIL)		323	Wild	G7 V M4 V	-1	(A69-5)	[4616]	BCD	14	-2700
+1900	Empt	M	0337	Pugaash	D896744-2	 	   Ag Pi Mr (NIL)		323	Wild	G7 V M4 V	-1	(A62+4)	[B644]	BCD	14	480
+
+1105	Empt	M	0338	Nulinad	A556994-9	NS	   Cs Hi (NIL)		623	ImDa	K6 V M0 V	3	(G8D+1)	[7C37]	BEF	14	1664
+1201	Empt	M	0338	Nulinad	B556441-3	NS	  Cs Ni Pa (NIL)	B	323	ImDa	K6 V M0 V	0	(B36-3)	[3451]	BcF	14	-594
+1240	Empt	M	0338	Nulinad	E556000-3	T 	   Cs Di (NIL)		023	Wild	K6 V M0 V	-3	(B00+1)	[0000]	BF	14	11
+1508	Empt	M	0338	Nulinad	E556000-3	T 	   Cs Di (NIL)		023	Wild	K6 V M0 V	-3	(B00-2)	[0000]	BF	14	-22
+1900	Empt	M	0338	Nulinad	E556000-3	T 	   Cs Di (NIL)		023	Wild	K6 V M0 V	-3	(B00+3)	[0000]	BF	14	33
+
+1105	Empt	M	0339	Harshad	C559113-A	 	    Lo 		922	ImDa	G4 V	0	(700-3)	[1127]	B	8	-21
+1201	Empt	M	0339	Harshad	D559303-7	 	    Lo 		522	ImDa	G4 V	-3	(320+4)	[1156]	B	8	24
+1240	Empt	M	0339	Harshad	D559000-7	 	    Di 		022	Wild	G4 V	-3	(300-4)	[0000]	B	8	-12
+1508	Empt	M	0339	Harshad	D559000-7	 	    Di 		022	Wild	G4 V	-3	(300+1)	[0000]	B	8	3
+1900	Empt	M	0339	Harshad	D559000-7	 	    Di 		022	Wild	G4 V	-3	(300+4)	[0000]	B	8	12
+
+1105	Empt	M	0340	Gagukam	B566465-7	 	   Ni Pa 		422	ImDa	F7 V M6 V	-1	(632-3)	[2335]	Bc	11	-108
+1201	Empt	M	0340	Gagukam	D566454-6	 	   Ni Pa 		322	ImDa	F7 V M6 V	-3	(630-2)	[5124]	Bc	11	-36
+1240	Empt	M	0340	Gagukam	D566000-6	 	    Di 		022	Wild	F7 V M6 V	-3	(600+1)	[0000]	B	11	6
+1508	Empt	M	0340	Gagukam	D566000-6	 	    Di 		022	Wild	F7 V M6 V	-3	(600+4)	[0000]	B	11	24
+1900	Empt	M	0340	Gagukam	D566000-6	 	    Di 		022	Wild	F7 V M6 V	-3	(600+1)	[0000]	B	11	6
+
+1105	Empt	A	0406	Varkh Bhargra	B100316-9	 	   Lo Va 		124	JuRu	M1 V M8 V	0	(B20-1)	[2348]	B	17	-22
+1201	Empt	A	0406	Varkh Bhargra	X100000-9	 	   Di Va 		024	JuRu	M1 V M8 V	-2	(B00-4)	[0000]	B	17	-44
+1240	Empt	A	0406	Varkh Bhargra	X100000-9	 	   Di Va 		024	Wild	M1 V M8 V	-2	(B00+1)	[0000]	B	17	11
+1508	Empt	A	0406	Varkh Bhargra	X100000-9	 	   Di Va 		024	Wild	M1 V M8 V	-2	(B00+4)	[0000]	B	17	44
+1900	Empt	A	0406	Varkh Bhargra	X100000-9	 	   Di Va 		024	Wild	M1 V M8 V	-2	(B00+3)	[0000]	B	17	33
+
+1105	Empt	A	0410	Tsai	C686641-4	 	  Ag Ri Ga Ni 		713	JuRu	K5 V	0	(854-4)	[2611]	BC	11	-640
+1201	Empt	A	0410	Tsai	E686677-2	 	  Ag Ri Ga Ni 	B	813	JuRu	K5 V	-1	(852+3)	[8554]	BC	11	240
+1240	Empt	A	0410	Tsai	E686687-0	 	  Ag Ri Ga Ni 		413	Wild	K5 V	-1	(852+4)	[8541]	BC	11	320
+1508	Empt	A	0410	Tsai	E686658-2	 	  Ag Ri Ga Ni 		413	Wild	K5 V	-1	(850+1)	[4535]	BC	11	40
+1900	Empt	A	0410	Tsai	E686674-2	 	  Ag Ri Ga Ni 		413	Wild	K5 V	-1	(855-4)	[5571]	BC	11	-800
+
+1105	Empt	E	0414	Kakhasaek	C875876-7	 	   Pa Pi Ph (NIL)		910	JuRu	K4 V	-1	(A77-2)	[7746]	BcDe	10	-980
+1201	Empt	E	0414	Kakhasaek	E875954-7	 	   Hi Pi (NIL)		110	JuRu	K4 V	-1	(A85-1)	[B858]	BDE	10	-400
+1240	Empt	E	0414	Kakhasaek	E875778-3	 	    Ag Pi (NIL)		510	Wild	K4 V	-1	(A64-3)	[B637]	BCD	10	-720
+1508	Empt	E	0414	Kakhasaek	E8757BB-4	 	    Ag Pi (NIL)		410	Wild	K4 V	-1	(A67-1)	[5682]	BCD	10	-420
+1900	Empt	E	0414	Kakhasaek	E875774-5	 	    Ag Pi (NIL)		510	Wild	K4 V	-1	(A68+1)	[4654]	BCD	10	480
+
+1105	Empt	I	0426	Marhaban	A5697AB-D	 	   Cp Ri (NIL)	A	801	ImDa	G4 V M0 V M2 V M6 V	3	(A6E+5)	[9A7F]	BCF	12	4200
+1201	Empt	I	0426	Marhaban	X56976D-4	 	   Cp Ri (NIL)		701	ImDa	G4 V M0 V M2 V M6 V	-1	(968+1)	[8665]	BCF	12	432
+1240	Empt	I	0426	Marhaban	X5697CC-1	 	   Cp Ri (NIL)		301	Wild	G4 V M0 V M2 V M6 V	-1	(966-5)	[8641]	BCF	12	-1620
+1508	Empt	I	0426	Marhaban	X569774-2	 	   Cp Ri (NIL)		201	Wild	G4 V M0 V M2 V M6 V	-1	(966-4)	[3691]	BCF	12	-1296
+1900	Empt	I	0426	Marhaban	X569786-3	 	   Cp Ri (NIL)		301	Wild	G4 V M0 V M2 V M6 V	-1	(964+3)	[3665]	BCF	12	648
+
+1105	Empt	M	0435	Gingesh	A42059C-C	 	  De He Ni Po 	A	413	ImDa	G8 V M3 V	1	(B45+4)	[868F]	B	11	880
+1201	Empt	M	0435	Gingesh	X420000-C	 	  De He Di Po 		013	ImDa	G8 V M3 V	-1	(B00-2)	[0000]	B	11	-22
+1240	Empt	M	0435	Gingesh	X420000-C	 	  De He Di Po 		013	Wild	G8 V M3 V	-1	(B00+1)	[0000]	B	11	11
+1508	Empt	M	0435	Gingesh	X420000-C	 	  De He Di Po 		013	Wild	G8 V M3 V	-1	(B00-2)	[0000]	B	11	-22
+1900	Empt	M	0435	Gingesh	X420000-C	 	  De He Di Po 		013	Wild	G8 V M3 V	-1	(B00+1)	[0000]	B	11	11
+
+1105	Empt	M	0439	Jinendra	C656523-9	 	  Ag Ga Ni 		622	ImDa	G0 V	0	(B44-3)	[2526]	BC	7	-528
+1201	Empt	M	0439	Jinendra	X656552-2	 	  Ag Ga Ni 		322	ImDa	G0 V	-2	(741-2)	[4372]	BC	7	-56
+1240	Empt	M	0439	Jinendra	X656000-2	 	   Di Ga 		022	Wild	G0 V	-3	(700-2)	[0000]	B	7	-14
+1508	Empt	M	0439	Jinendra	X656000-2	 	   Di Ga 		022	Wild	G0 V	-3	(700+1)	[0000]	B	7	7
+1900	Empt	M	0439	Jinendra	X656000-2	 	   Di Ga 		022	Wild	G0 V	-3	(700+1)	[0000]	B	7	7
+
+1105	Empt	A	0501	Surrvok	C674785-7	 	    Ag Pi (NIL)		601	JuRu	K9 V M1 V	0	(968-2)	[5735]	BCD	12	-864
+1201	Empt	A	0501	Surrvok	E674779-7	 	    Ag Pi (NIL)		701	JuRu	K9 V M1 V	-1	(962-4)	[869B]	BCD	12	-432
+1240	Empt	A	0501	Surrvok	E674000-7	 	   Di Pi (NIL)		001	Wild	K9 V M1 V	-3	(900+1)	[0000]	BD	12	9
+1508	Empt	A	0501	Surrvok	E674000-7	 	    Di (NIL)		001	Wild	K9 V M1 V	-3	(900+1)	[0000]	B	12	9
+1900	Empt	A	0501	Surrvok	E674000-7	 	    Di (NIL)		001	Wild	K9 V M1 V	-3	(900-2)	[0000]	B	12	-18
+
+1105	Empt	A	0510	Aeghzivik	B858873-8	 	   Pa Ph (NIL)		601	JuRu	K2 V	0	(B78-3)	[5825]	Bce	8	-1848
+1201	Empt	A	0510	Aeghzivik	C85886D-5	 	   Pa Ph (NIL)	B	701	JuRu	K2 V	-1	(A78+2)	[9755]	Bce	8	1120
+1240	Empt	A	0510	Aeghzivik	C858885-4	 	   Pa Ph (NIL)		301	Wild	K2 V	-1	(A75+1)	[C744]	Bce	8	350
+1508	Empt	A	0510	Aeghzivik	C8588DD-7	 	   Pa Ph (NIL)		301	Wild	K2 V	-1	(A7A-2)	[9783]	Bce	8	-1400
+1900	Empt	A	0510	Aeghzivik	C8588CF-6	 	   Pa Ph (NIL)		401	Wild	K2 V	-1	(A73+1)	[6723]	Bce	8	210
+
+1105	Empt	E	0511	Guezdhe	A300354-E	 	   Lo Va 		812	JuRu	G6 V M2 V	1	(821-1)	[143C]	B	9	-16
+1201	Empt	E	0511	Guezdhe	X300000-E	 	   Di Va 		012	JuRu	G6 V M2 V	-1	(800+1)	[0000]	B	9	8
+1240	Empt	E	0511	Guezdhe	X300000-E	 	   Di Va 		012	Wild	G6 V M2 V	-1	(800+5)	[0000]	B	9	40
+1508	Empt	E	0511	Guezdhe	X300000-E	 	   Di Va 		012	Wild	G6 V M2 V	-1	(800-3)	[0000]	B	9	-24
+1900	Empt	E	0511	Guezdhe	X300000-E	 	   Di Va 		012	Wild	G6 V M2 V	-1	(800-2)	[0000]	B	9	-16
+
+1105	Empt	E	0514	Khebreyth	A647675-C	 	   Ag Ni 		112	JuRu	G7 V K1 V	2	(B56+1)	[483A]	BC	11	330
+1201	Empt	E	0514	Khebreyth	X647567-4	 	   Ag Ni 	B	512	JuRu	G7 V K1 V	-2	(841+1)	[3377]	BC	11	32
+1240	Empt	E	0514	Khebreyth	X647000-4	 	    Di 		012	Wild	G7 V K1 V	-3	(800+2)	[0000]	B	11	16
+1508	Empt	E	0514	Khebreyth	X647000-4	 	    Di 		012	Wild	G7 V K1 V	-3	(800-2)	[0000]	B	11	-16
+1900	Empt	E	0514	Khebreyth	X647000-4	 	    Di 		012	Wild	G7 V K1 V	-3	(800+1)	[0000]	B	11	8
+
+1105	Empt	E	0515	Bhastoum	A530446-9	 	  De Ni Po 		423	JuRu	M1 V	0	(B33-1)	[3448]	B	14	-99
+1201	Empt	E	0515	Bhastoum	X530000-9	 	  De Di Po 		023	JuRu	M1 V	-2	(B00-2)	[0000]	B	14	-22
+1240	Empt	E	0515	Bhastoum	X530000-9	 	  De Di Po 		023	Wild	M1 V	-2	(B00+1)	[0000]	B	14	11
+1508	Empt	E	0515	Bhastoum	X530000-9	 	  De Di Po 		023	Wild	M1 V	-2	(B00-2)	[0000]	B	14	-22
+1900	Empt	E	0515	Bhastoum	X530000-9	 	  De Di Po 		023	Wild	M1 V	-2	(B00+2)	[0000]	B	14	22
+
+1105	Empt	M	0535	Eninsish	C000989-9	 	  As Va Hi Na In 		112	ImDa	G5 V	2	(E8C+3)	[AB6A]	BE	11	4032
+1201	Empt	M	0535	Eninsish	X000000-9	 	  As Va Di Na In 		012	ImDa	G5 V	-1	(E00-5)	[0000]	BE	11	-70
+1240	Empt	M	0535	Eninsish	X000000-9	 	  As Va Di Na In 		012	Wild	G5 V	-1	(E00-3)	[0000]	BE	11	-42
+1508	Empt	M	0535	Eninsish	X000000-9	 	   As Va Di 		012	Wild	G5 V	-2	(E00-1)	[0000]	B	11	-14
+1900	Empt	M	0535	Eninsish	X000000-9	 	   As Va Di 		012	Wild	G5 V	-2	(E00-1)	[0000]	B	11	-14
+
+1105	Empt	M	0536	Sashar	D554957-8	 	    Hi (NIL)		811	ImDa	G2 V M0 V	-1	(D88-1)	[9858]	BE	14	-832
+1201	Empt	M	0536	Sashar	X55497A-8	 	    Hi (NIL)		911	ImDa	G2 V M0 V	-1	(D82-1)	[6898]	BE	14	-208
+1240	Empt	M	0536	Sashar	X5549A6-1	 	    Hi (NIL)		411	Wild	G2 V M0 V	-1	(B83-2)	[5865]	BE	14	-528
+1508	Empt	M	0536	Sashar	X554957-3	 	    Hi (NIL)		311	Wild	G2 V M0 V	-1	(B86-2)	[B854]	BE	14	-1056
+1900	Empt	M	0536	Sashar	X554997-3	 	    Hi (NIL)		211	Wild	G2 V M0 V	-1	(B85+1)	[6811]	BE	14	440
+
+1105	Empt	M	0537	Khinumi	C540453-A	 	  De He Ni Po 		824	ImDa	G7 V G9 V	0	(C33-3)	[1427]	B	9	-324
+1201	Empt	M	0537	Khinumi	X540432-5	 	  De He Ni Po 		424	ImDa	G7 V G9 V	-3	(630-1)	[714A]	B	9	-18
+1240	Empt	M	0537	Khinumi	X540456-2	 	  De He Ni Po 		224	Wild	G7 V G9 V	-3	(631+1)	[61A2]	B	9	18
+1508	Empt	M	0537	Khinumi	X540402-3	 	  De He Ni Po 		324	Wild	G7 V G9 V	-3	(630+4)	[3141]	B	9	72
+1900	Empt	M	0537	Khinumi	X540444-3	 	  De He Ni Po 		224	Wild	G7 V G9 V	-3	(630+3)	[4123]	B	9	54
+
+1105	Empt	A	0601	Byegh Aengz	A56079D-A	 	   De Ri (NIL)	A	434	JuRu	F7 V	3	(G6C+5)	[BA9E]	BC	17	5760
+1201	Empt	A	0601	Byegh Aengz	X560768-5	 	   De Ri (NIL)		434	JuRu	F7 V	-1	(964+3)	[6666]	BC	17	648
+1240	Empt	A	0601	Byegh Aengz	X560775-0	 	   De Ri (NIL)		234	Wild	F7 V	-1	(96A+1)	[7643]	BC	17	540
+1508	Empt	A	0601	Byegh Aengz	X560779-0	 	   De Ri (NIL)		134	Wild	F7 V	-1	(968-2)	[3682]	BC	17	-864
+1900	Empt	A	0601	Byegh Aengz	X560757-1	 	   De Ri (NIL)		234	Wild	F7 V	-1	(96B+5)	[C621]	BC	17	2970
+
+1105	Empt	A	0605	Aekhfe	C575304-6	 	    Lo 		220	JuRu	M1 V	-2	(520-4)	[1134]	B	9	-40
+1201	Empt	A	0605	Aekhfe	E57537B-5	 	    Lo 		120	JuRu	M1 V	-3	(520+2)	[1123]	B	9	20
+1240	Empt	A	0605	Aekhfe	E575000-5	 	    Di 		020	Wild	M1 V	-3	(500-1)	[0000]	B	9	-5
+1508	Empt	A	0605	Aekhfe	E575000-5	 	    Di 		020	Wild	M1 V	-3	(500+3)	[0000]	B	9	15
+1900	Empt	A	0605	Aekhfe	E575000-5	 	    Di 		020	Wild	M1 V	-3	(500+1)	[0000]	B	9	5
+
+1105	Empt	E	0613	Ghuekvar	C548575-5	 	   Ag Ni 		934	JuRu	G8 V	-1	(743-3)	[3433]	BC	13	-252
+1201	Empt	E	0613	Ghuekvar	E548578-4	 	   Ag Ni 	B	534	JuRu	G8 V	-2	(744-2)	[3355]	BC	13	-224
+1240	Empt	E	0613	Ghuekvar	E548000-4	 	    Di 		034	Wild	G8 V	-3	(700-1)	[0000]	B	13	-7
+1508	Empt	E	0613	Ghuekvar	E548000-4	 	    Di 		034	Wild	G8 V	-3	(700-1)	[0000]	B	13	-7
+1900	Empt	E	0613	Ghuekvar	E548000-4	 	    Di 		034	Wild	G8 V	-3	(700+4)	[0000]	B	13	28
+
+1105	Empt	E	0616	Sutedvok	C554369-9	 	   Lo Mr 		603	JuRu	K9 V	-1	(820+1)	[426A]	B	8	16
+1201	Empt	E	0616	Sutedvok	X554304-3	 	   Lo Mr 	B	503	JuRu	K9 V	-3	(520-2)	[3151]	B	8	-20
+1240	Empt	E	0616	Sutedvok	X554000-3	 	   Di Mr 		003	Wild	K9 V	-3	(500-3)	[0000]	B	8	-15
+1508	Empt	E	0616	Sutedvok	X554000-3	 	   Di Mr 		003	Wild	K9 V	-3	(500-3)	[0000]	B	8	-15
+1900	Empt	E	0616	Sutedvok	X554000-3	 	   Di Mr 		003	Wild	K9 V	-3	(500+3)	[0000]	B	8	15
+
+1105	Empt	E	0617	Vreskegh	C668572-8	 	   Ag Pr Ni 		224	JuRu	G7 V M4 V	-1	(D43-5)	[1414]	BcC	17	-780
+1201	Empt	E	0617	Vreskegh	X668579-5	 	   Ag Pr Ni 		224	JuRu	G7 V M4 V	-2	(741-2)	[3387]	BcC	17	-56
+1240	Empt	E	0617	Vreskegh	X668412-0	 	   Ni Pa 		124	Wild	G7 V M4 V	-3	(733-1)	[5123]	Bc	17	-63
+1508	Empt	E	0617	Vreskegh	X668351-2	 	    Lo 		924	Wild	G7 V M4 V	-3	(720+1)	[5173]	B	17	14
+1900	Empt	E	0617	Vreskegh	X668430-2	 	   Ni Pa 		124	Wild	G7 V M4 V	-3	(730-1)	[1151]	Bc	17	-21
+
+1105	Empt	E	0620	Sambra	A523572-A	 	   Ni Po 		724	NaHu	K0 V M5 V	1	(D45-3)	[1616]	B	16	-780
+1201	Empt	E	0620	Sambra	X523000-A	 	   Di Po 		024	NaHu	K0 V M5 V	-1	(D00+2)	[0000]	B	16	26
+1240	Empt	E	0620	Sambra	X523000-A	 	   Di Po 		024	Wild	K0 V M5 V	-1	(D00+4)	[0000]	B	16	52
+1508	Empt	E	0620	Sambra	X523000-A	 	   Di Po 		024	Wild	K0 V M5 V	-1	(D00+1)	[0000]	B	16	13
+1900	Empt	E	0620	Sambra	X523000-A	 	   Di Po 		024	Wild	K0 V M5 V	-1	(D00+1)	[0000]	B	16	13
+
+1105	Empt	I	0627	Khalidah	E200222-8	 	   Lo Va 		125	ImDa	F2 V	-3	(B10-5)	[1114]	B	10	-55
+1201	Empt	I	0627	Khalidah	X200000-8	 	   Di Va 		025	ImDa	F2 V	-3	(B00+2)	[0000]	B	10	22
+1240	Empt	I	0627	Khalidah	X200000-8	 	   Di Va 		025	Wild	F2 V	-3	(B00+1)	[0000]	B	10	11
+1508	Empt	I	0627	Khalidah	X200000-8	 	   Di Va 		025	Wild	F2 V	-3	(B00+1)	[0000]	B	10	11
+1900	Empt	I	0627	Khalidah	X200000-8	 	   Di Va 		025	Wild	F2 V	-3	(B00+1)	[0000]	B	10	11
+
+1105	Empt	I	0630	Shikua	C311552-7	S	   Ic Ni 		524	ImDa	K4 III	-2	(742-5)	[1313]	B	9	-280
+1201	Empt	I	0630	Shikua	X311000-7	 	   Di Ic 		024	ImDa	K4 III	-3	(700+1)	[0000]	B	9	7
+1240	Empt	I	0630	Shikua	X311000-7	 	   Di Ic 		024	Wild	K4 III	-3	(700+2)	[0000]	B	9	14
+1508	Empt	I	0630	Shikua	X311000-7	 	   Di Ic 		024	Wild	K4 III	-3	(700+1)	[0000]	B	9	7
+1900	Empt	I	0630	Shikua	X311000-7	 	   Di Ic 		024	Wild	K4 III	-3	(700+2)	[0000]	B	9	14
+
+1105	Empt	M	0632	Datawo	A58678C-A	 	    Ag Ri (NIL)	A	424	ImDa	G5 V	4	(F6D+5)	[AB8D]	BCf	9	5850
+1201	Empt	M	0632	Datawo	X586752-8	 	    Ag Ri (NIL)		524	ImDa	G5 V	0	(F67-2)	[876B]	BC	9	-1260
+1240	Empt	M	0632	Datawo	X586777-0	 	    Ag Ri (NIL)		224	Wild	G5 V	0	(968+5)	[7762]	BC	9	2160
+1508	Empt	M	0632	Datawo	X58678C-0	 	    Ag Ri (NIL)		124	Wild	G5 V	0	(964+4)	[C774]	BC	9	864
+1900	Empt	M	0632	Datawo	X586673-0	 	   Ag Ri Ni (NIL)		924	Wild	G5 V	-1	(953+1)	[6511]	BC	9	135
+
+1105	Empt	M	0633	Ebwathwa	B5668DD-8	 	   Pa Ri Ph (NIL)	A	225	ImDa	G5 V	1	(H79+5)	[C99C]	BcCe	10	5355
+1201	Empt	M	0633	Ebwathwa	D566886-8	 	   Pa Ri Ph (NIL)		325	ImDa	G5 V	-1	(H79+1)	[D726]	BcCe	10	1071
+1240	Empt	M	0633	Ebwathwa	D5668B9-0	 	   Pa Ri Ph (NIL)		125	Wild	G5 V	-1	(A79+5)	[8792]	BcCe	10	3150
+1508	Empt	M	0633	Ebwathwa	D566776-1	 	    Ag Ri (NIL)		925	Wild	G5 V	0	(A65+1)	[6745]	BC	10	300
+1900	Empt	M	0633	Ebwathwa	D5667A9-2	 	    Ag Ri (NIL)		825	Wild	G5 V	0	(A68+1)	[9766]	BC	10	480
+
+1105	Empt	M	0636	Rakesh	D57A400-6	 	   Ni Wa 		823	ImDa	K9 V M1 V	-3	(631-5)	[1111]	B	9	-90
+1201	Empt	M	0636	Rakesh	X57A441-4	 	   Ni Wa 		523	ImDa	K9 V M1 V	-3	(632+1)	[3158]	B	9	36
+1240	Empt	M	0636	Rakesh	X57A000-4	 	   Di Wa 		023	Wild	K9 V M1 V	-3	(600-1)	[0000]	B	9	-6
+1508	Empt	M	0636	Rakesh	X57A000-4	 	   Di Wa 		023	Wild	K9 V M1 V	-3	(600+1)	[0000]	B	9	6
+1900	Empt	M	0636	Rakesh	X57A000-4	 	   Di Wa 		023	Wild	K9 V M1 V	-3	(600+3)	[0000]	B	9	18
+
+1105	Empt	M	0637	Rasu	C5409CA-A	 	  De He Hi In Po (NIL)	A	213	ImDa	K8 V	3	(F8D+5)	[BC7C]	BE	14	7800
+1201	Empt	M	0637	Rasu	E540300-5	 	  De He Lo Po (NIL)		713	ImDa	K8 V	-3	(B20+1)	[5188]	B	14	22
+1240	Empt	M	0637	Rasu	E540000-5	 	  De He Di Po (NIL)		013	Wild	K8 V	-3	(B00+5)	[0000]	B	14	55
+1508	Empt	M	0637	Rasu	E540000-5	 	  De He Di Po (NIL)		013	Wild	K8 V	-3	(B00+1)	[0000]	B	14	11
+1900	Empt	M	0637	Rasu	E540000-5	 	  De He Di Po (NIL)		013	Wild	K8 V	-3	(B00+2)	[0000]	B	14	22
+
+1105	Empt	M	0638	Ushmigad	A432653-E	 	   Na Po Ni 		911	ImDa	K9 V	1	(A55-2)	[372B]	B	10	-500
+1201	Empt	M	0638	Ushmigad	X432000-E	 	   Di Na Po 		011	ImDa	K9 V	-1	(A00-4)	[0000]	B	10	-40
+1240	Empt	M	0638	Ushmigad	X432000-E	 	   Di Na Po 		011	Wild	K9 V	-1	(A00-1)	[0000]	B	10	-10
+1508	Empt	M	0638	Ushmigad	X432000-E	 	   Di Po 		011	Wild	K9 V	-1	(A00+1)	[0000]	B	10	10
+1900	Empt	M	0638	Ushmigad	X432000-E	 	   Di Po 		011	Wild	K9 V	-1	(A00-4)	[0000]	B	10	-40
+
+1105	Empt	M	0640	Gasali	D736678-6	 	    Ni 		812	ImDa	M1 V M7 V	-3	(851-3)	[6356]	B	8	-120
+1201	Empt	M	0640	Gasali	X736000-6	 	    Di 		012	ImDa	M1 V M7 V	-3	(800+2)	[0000]	B	8	16
+1240	Empt	M	0640	Gasali	X736000-6	 	    Di 		012	Wild	M1 V M7 V	-3	(800-5)	[0000]	B	8	-40
+1508	Empt	M	0640	Gasali	X736000-6	 	    Di 		012	Wild	M1 V M7 V	-3	(800+1)	[0000]	B	8	8
+1900	Empt	M	0640	Gasali	X736000-6	 	    Di 		012	Wild	M1 V M7 V	-3	(800-1)	[0000]	B	8	-8
+
+1105	Empt	A	0704	Kaekhaenae	C556677-4	 	   Ag Ni 		102	JuRu	F9 V M3 V K1 V	-1	(853-1)	[6554]	BC	8	-120
+1201	Empt	A	0704	Kaekhaenae	E556672-2	 	   Ag Ni 	B	202	JuRu	F9 V M3 V K1 V	-2	(850-1)	[64A7]	BC	8	-40
+1240	Empt	A	0704	Kaekhaenae	E556558-2	 	   Ag Ni 		102	Wild	F9 V M3 V K1 V	-2	(840-1)	[4361]	BC	8	-32
+1508	Empt	A	0704	Kaekhaenae	E556523-2	 	   Ag Ni 		202	Wild	F9 V M3 V K1 V	-2	(840+4)	[7342]	BC	8	128
+1900	Empt	A	0704	Kaekhaenae	E556546-3	 	   Ag Ni 		102	Wild	F9 V M3 V K1 V	-2	(840+1)	[2353]	BC	8	32
+
+1105	Empt	A	0705	Tsahrroek	A551530-B	 	  Cp Ni Po 		825	JuRu	M0 V	1	(E45-3)	[1616]	BF	16	-840
+1201	Empt	A	0705	Tsahrroek	X551522-4	 	  Cp Ni Po 		425	JuRu	M0 V	-3	(742+1)	[A233]	BF	16	56
+1240	Empt	A	0705	Tsahrroek	X55157A-0	 	  Cp Ni Po 		225	Wild	M0 V	-3	(740+2)	[2291]	BF	16	56
+1508	Empt	A	0705	Tsahrroek	X551594-0	 	  Cp Ni Po 		325	Wild	M0 V	-3	(742+1)	[8241]	BF	16	56
+1900	Empt	A	0705	Tsahrroek	X551554-2	 	  Cp Ni Po 		225	Wild	M0 V	-3	(742-3)	[5235]	BF	16	-168
+
+1105	Empt	A	0706	Vekhaetak	D420320-7	 	  De He Lo Po 		724	JuRu	M4 V M8 V	-3	(520-5)	[1112]	B	11	-50
+1201	Empt	A	0706	Vekhaetak	X420000-7	 	  De He Di Po 		024	JuRu	M4 V M8 V	-3	(500+2)	[0000]	B	11	10
+1240	Empt	A	0706	Vekhaetak	X420000-7	 	  De He Di Po 		024	Wild	M4 V M8 V	-3	(500+1)	[0000]	B	11	5
+1508	Empt	A	0706	Vekhaetak	X420000-7	 	  De He Di Po 		024	Wild	M4 V M8 V	-3	(500-3)	[0000]	B	11	-15
+1900	Empt	A	0706	Vekhaetak	X420000-7	 	  De He Di Po 		024	Wild	M4 V M8 V	-3	(500+4)	[0000]	B	11	20
+
+1105	Empt	A	0709	Khebha	A550351-E	 	  De Lo Po 		724	JuRu	G5 V	1	(B21-3)	[141A]	B	14	-66
+1201	Empt	A	0709	Khebha	X550174-4	 	  De Lo Po 		624	JuRu	G5 V	-3	(500-2)	[4146]	B	14	-10
+1240	Empt	A	0709	Khebha	X550000-4	 	  De Di Po 		024	Wild	G5 V	-3	(500+1)	[0000]	B	14	5
+1508	Empt	A	0709	Khebha	X550000-4	 	  De Di Po 		024	Wild	G5 V	-3	(500-2)	[0000]	B	14	-10
+1900	Empt	A	0709	Khebha	X550000-4	 	  De Di Po 		024	Wild	G5 V	-3	(500+1)	[0000]	B	14	5
+
+1105	Empt	E	0711	Byeggra	A768479-A	 	   Ni Pa 		224	JuRu	G3 V	1	(C34+2)	[556B]	Bc	17	288
+1201	Empt	E	0711	Byeggra	X768136-4	 	    Lo 		124	JuRu	G3 V	-3	(600-3)	[2166]	B	17	-18
+1240	Empt	E	0711	Byeggra	X768000-4	 	    Di 		024	Wild	G3 V	-3	(600+1)	[0000]	B	17	6
+1508	Empt	E	0711	Byeggra	X768000-4	 	    Di 		024	Wild	G3 V	-3	(600-1)	[0000]	B	17	-6
+1900	Empt	E	0711	Byeggra	X768000-4	 	    Di 		024	Wild	G3 V	-3	(600+2)	[0000]	B	17	12
+
+1105	Empt	E	0715	Gueddzouukh	E565244-6	 	    Lo 		212	JuRu	G2 V K1 V	-3	(410-5)	[1134]	B	14	-20
+1201	Empt	E	0715	Gueddzouukh	X565221-4	 	    Lo 		312	JuRu	G2 V K1 V	-3	(410+4)	[2124]	B	14	16
+1240	Empt	E	0715	Gueddzouukh	X565000-4	 	    Di 		012	Wild	G2 V K1 V	-3	(400+1)	[0000]	B	14	4
+1508	Empt	E	0715	Gueddzouukh	X565000-4	 	    Di 		012	Wild	G2 V K1 V	-3	(400-2)	[0000]	B	14	-8
+1900	Empt	E	0715	Gueddzouukh	X565000-4	 	    Di 		012	Wild	G2 V K1 V	-3	(400+2)	[0000]	B	14	8
+
+1105	Empt	I	0728	Perpethwe	C6656AB-8	 	  Ag Ri Ga Ni 	A	710	ImDa	G1 V G5 V	0	(954+2)	[867A]	BC	7	360
+1201	Empt	I	0728	Perpethwe	E665699-5	 	  Ag Ri Ga Ni 	B	810	ImDa	G1 V G5 V	-1	(851-2)	[4535]	BC	7	-80
+1240	Empt	I	0728	Perpethwe	E665000-5	 	   Di Ga 		010	Wild	G1 V G5 V	-3	(800-2)	[0000]	B	7	-16
+1508	Empt	I	0728	Perpethwe	E665000-5	 	   Di Ga 		010	Wild	G1 V G5 V	-3	(800+1)	[0000]	B	7	8
+1900	Empt	I	0728	Perpethwe	E665000-5	 	   Di Ga 		010	Wild	G1 V G5 V	-3	(800-2)	[0000]	B	7	-16
+
+1105	Empt	I	0729	Sabira	D560100-8	S	   De Lo 		323	ImDa	F4 V	-3	(800-5)	[1113]	B	12	-40
+1201	Empt	I	0729	Sabira	X560256-4	 	   De Lo 		223	ImDa	F4 V	-3	(310-2)	[2193]	B	12	-6
+1240	Empt	I	0729	Sabira	X560000-4	 	   De Di 		023	Wild	F4 V	-3	(300+1)	[0000]	B	12	3
+1508	Empt	I	0729	Sabira	X560000-4	 	   De Di 		023	Wild	F4 V	-3	(300+4)	[0000]	B	12	12
+1900	Empt	I	0729	Sabira	X560000-4	 	   De Di 		023	Wild	F4 V	-3	(300+1)	[0000]	B	12	3
+
+1105	Empt	M	0732	Omprakash	C310343-9	S	    Lo 		224	ImDa	M1 V M9 V	-1	(B20-4)	[1226]	B	12	-88
+1201	Empt	M	0732	Omprakash	X310000-9	 	    Di 		024	ImDa	M1 V M9 V	-2	(B00-1)	[0000]	B	12	-11
+1240	Empt	M	0732	Omprakash	X310000-9	 	    Di 		024	Wild	M1 V M9 V	-2	(B00+1)	[0000]	B	12	11
+1508	Empt	M	0732	Omprakash	X310000-9	 	    Di 		024	Wild	M1 V M9 V	-2	(B00-1)	[0000]	B	12	-11
+1900	Empt	M	0732	Omprakash	X310000-9	 	    Di 		024	Wild	M1 V M9 V	-2	(B00+1)	[0000]	B	12	11
+
+1105	Empt	M	0738	Dagemi	C590500-7	S	   De He Ni 		223	ImDa	F9 V K8 V	-2	(742-5)	[1312]	B	11	-280
+1201	Empt	M	0738	Dagemi	X590530-3	 	   De He Ni 		223	ImDa	F9 V K8 V	-3	(743-1)	[1232]	B	11	-84
+1240	Empt	M	0738	Dagemi	X590000-3	 	   De He Di 		023	Wild	F9 V K8 V	-3	(700-5)	[0000]	B	11	-35
+1508	Empt	M	0738	Dagemi	X590000-3	 	   De He Di 		023	Wild	F9 V K8 V	-3	(700-2)	[0000]	B	11	-14
+1900	Empt	M	0738	Dagemi	X590000-3	 	   De He Di 		023	Wild	F9 V K8 V	-3	(700+1)	[0000]	B	11	7
+
+1105	Empt	A	0805	Bha Kakharkh	E8A7416-8	 	   Fl Ni 		824	JuRu	M1 V	-3	(C31-4)	[3147]	B	14	-144
+1201	Empt	A	0805	Bha Kakharkh	X8A7000-8	 	   Di Fl 		024	JuRu	M1 V	-3	(C00+2)	[0000]	B	14	24
+1240	Empt	A	0805	Bha Kakharkh	X8A7000-8	 	   Di Fl 		024	Wild	M1 V	-3	(C00+4)	[0000]	B	14	48
+1508	Empt	A	0805	Bha Kakharkh	X8A7000-8	 	   Di Fl 		024	Wild	M1 V	-3	(C00-5)	[0000]	B	14	-60
+1900	Empt	A	0805	Bha Kakharkh	X8A7000-8	 	   Di Fl 		024	Wild	M1 V	-3	(C00+1)	[0000]	B	14	12
+
+1105	Empt	A	0809	Sudvoukh	D550596-7	 	  De Ni Po 		520	JuRu	F9 V M7 V M9 V	-3	(741-4)	[4246]	B	10	-112
+1201	Empt	A	0809	Sudvoukh	X550576-6	 	  De Ni Po 		320	JuRu	F9 V M7 V M9 V	-3	(741+2)	[8237]	B	10	56
+1240	Empt	A	0809	Sudvoukh	X550548-1	 	  De Ni Po 		120	Wild	F9 V M7 V M9 V	-3	(740+3)	[3221]	B	10	84
+1508	Empt	A	0809	Sudvoukh	X550533-2	 	  De Ni Po 		220	Wild	F9 V M7 V M9 V	-3	(742+3)	[1242]	B	10	168
+1900	Empt	A	0809	Sudvoukh	X55058A-3	 	  De Ni Po 		320	Wild	F9 V M7 V M9 V	-3	(743+3)	[A223]	B	10	252
+
+1105	Empt	E	0811	Khastok	A515485-B	 	   Ic Ni 		624	JuRu	K9 V M7 V	1	(C34-1)	[2539]	B	13	-144
+1201	Empt	E	0811	Khastok	X515000-B	 	   Di Ic 		024	JuRu	K9 V M7 V	-1	(C00-3)	[0000]	B	13	-36
+1240	Empt	E	0811	Khastok	X515000-B	 	   Di Ic 		024	Wild	K9 V M7 V	-1	(C00-3)	[0000]	B	13	-36
+1508	Empt	E	0811	Khastok	X515000-B	 	   Di Ic 		024	Wild	K9 V M7 V	-1	(C00-2)	[0000]	B	13	-24
+1900	Empt	E	0811	Khastok	X515000-B	 	   Di Ic 		024	Wild	K9 V M7 V	-1	(C00+1)	[0000]	B	13	12
+
+1105	Empt	E	0812	Aerrvok	D424211-7	 	    Lo 		103	JuRu	K0 V M4 V	-3	(410-5)	[1113]	B	12	-20
+1201	Empt	E	0812	Aerrvok	X424000-7	 	    Di 		003	JuRu	K0 V M4 V	-3	(400-2)	[0000]	B	12	-8
+1240	Empt	E	0812	Aerrvok	X424000-7	 	    Di 		003	Wild	K0 V M4 V	-3	(400+1)	[0000]	B	12	4
+1508	Empt	E	0812	Aerrvok	X424000-7	 	    Di 		003	Wild	K0 V M4 V	-3	(400+1)	[0000]	B	12	4
+1900	Empt	E	0812	Aerrvok	X424000-7	 	    Di 		003	Wild	K0 V M4 V	-3	(400+3)	[0000]	B	12	12
+
+1105	Empt	E	0813	Zoukhe	C65A67A-9	 	   Ni Wa 		702	JuRu	G7 V	-1	(A53+1)	[857B]	B	9	150
+1201	Empt	E	0813	Zoukhe	X65A158-5	 	   Lo Wa 		802	JuRu	G7 V	-3	(800+3)	[1154]	B	9	24
+1240	Empt	E	0813	Zoukhe	X65A000-5	 	   Di Wa 		002	Wild	G7 V	-3	(800+1)	[0000]	B	9	8
+1508	Empt	E	0813	Zoukhe	X65A000-5	 	   Di Wa 		002	Wild	G7 V	-3	(800+2)	[0000]	B	9	16
+1900	Empt	E	0813	Zoukhe	X65A000-5	 	   Di Wa 		002	Wild	G7 V	-3	(800+1)	[0000]	B	9	8
+
+1105	Empt	I	0828	Paweba	C66779A-8	 	   Ag Ri Ga (NIL)		522	ImDa	M1 V	1	(D69+3)	[987A]	BC	11	2106
+1201	Empt	I	0828	Paweba	E667720-5	 	   Ag Ri Ga (NIL)	B	622	ImDa	M1 V	0	(967-3)	[4783]	BC	11	-1134
+1240	Empt	I	0828	Paweba	E6677BA-4	 	   Ag Ri Ga (NIL)		322	Wild	M1 V	0	(965+3)	[3774]	BC	11	810
+1508	Empt	I	0828	Paweba	E667773-5	 	   Ag Ri Ga (NIL)		422	Wild	M1 V	0	(969-1)	[8793]	BC	11	-486
+1900	Empt	I	0828	Paweba	E667787-6	 	   Ag Ri Ga (NIL)		522	Wild	M1 V	0	(96A-2)	[9773]	BC	11	-1080
+
+1105	Empt	I	0829	Zada	E430257-7	 	  De Lo Po 		200	ImDa	M0 V	-3	(410-3)	[2157]	B	9	-12
+1201	Empt	I	0829	Zada	X430000-7	 	  De Di Po 		000	ImDa	M0 V	-3	(400-1)	[0000]	B	9	-4
+1240	Empt	I	0829	Zada	X430000-7	 	  De Di Po 		000	Wild	M0 V	-3	(400+3)	[0000]	B	9	12
+1508	Empt	I	0829	Zada	X430000-7	 	  De Di Po 		000	Wild	M0 V	-3	(400-1)	[0000]	B	9	-4
+1900	Empt	I	0829	Zada	X430000-7	 	  De Di Po 		000	Wild	M0 V	-3	(400+2)	[0000]	B	9	8
+
+1105	Empt	I	0830	Charity	B425455-D	 	    Ni 		213	ImDa	G9 V	1	(A34-1)	[253B]	B	10	-120
+1201	Empt	I	0830	Charity	X425000-D	 	    Di 		013	ImDa	G9 V	-1	(A00+1)	[0000]	B	10	10
+1240	Empt	I	0830	Charity	X425000-D	 	    Di 		013	Wild	G9 V	-1	(A00-1)	[0000]	B	10	-10
+1508	Empt	I	0830	Charity	X425000-D	 	    Di 		013	Wild	G9 V	-1	(A00+1)	[0000]	B	10	10
+1900	Empt	I	0830	Charity	X425000-D	 	    Di 		013	Wild	G9 V	-1	(A00+1)	[0000]	B	10	10
+
+1105	Empt	M	0833	Arakaad	E68698A-8	 	  Ga Hi Pr (NIL)		824	ImDa	M1 V	-1	(H88+1)	[B87A]	BcE	9	1088
+1201	Empt	M	0833	Arakaad	X68697B-6	 	  Ga Hi Pr (NIL)	B	924	ImDa	M1 V	-1	(B86+1)	[B854]	BcE	9	528
+1240	Empt	M	0833	Arakaad	X68699C-2	 	  Ga Hi Pr (NIL)		424	Wild	M1 V	-1	(B83-3)	[6885]	BcE	9	-792
+1508	Empt	M	0833	Arakaad	X6869A9-3	 	  Ga Hi Pr (NIL)		324	Wild	M1 V	-1	(B85+1)	[4892]	BcE	9	440
+1900	Empt	M	0833	Arakaad	X686998-4	 	  Ga Hi Pr (NIL)		424	Wild	M1 V	-1	(B87+1)	[D832]	BcE	9	616
+
+1105	Empt	M	0834	Sandardin	B667884-7	N 	  Ga Pa Ri Ph (NIL)		913	ImDa	F6 V	1	(A79-1)	[6935]	BcCe	10	-630
+1201	Empt	M	0834	Sandardin	D6679B6-7	 	  Ga Hi Pr (NIL)	B	113	ImDa	F6 V	-1	(A87-1)	[9846]	BcE	10	-560
+1240	Empt	M	0834	Sandardin	D667873-1	 	  Ga Pa Ri Ph (NIL)		513	Wild	F6 V	-1	(A79+3)	[5731]	BcCe	10	1890
+1508	Empt	M	0834	Sandardin	D66787A-2	 	  Ga Pa Ri Ph (NIL)		613	Wild	F6 V	-1	(A71+3)	[9711]	BcCe	10	210
+1900	Empt	M	0834	Sandardin	D6678BD-3	 	  Ga Pa Ri Ph (NIL)		713	Wild	F6 V	-1	(A76+4)	[7754]	BcCe	10	1680
+
+1105	Empt	M	0836	Unsharshe	D540523-6	 	  De He Ni Po 		624	ImDa	K2 V K3 V	-3	(741-5)	[2223]	B	10	-140
+1201	Empt	M	0836	Unsharshe	X540551-3	 	  De He Ni Po 	B	424	ImDa	K2 V K3 V	-3	(742+2)	[3233]	B	10	112
+1240	Empt	M	0836	Unsharshe	X540575-0	 	  De He Ni Po 		224	Wild	K2 V K3 V	-3	(740-2)	[3251]	B	10	-56
+1508	Empt	M	0836	Unsharshe	X540589-1	 	  De He Ni Po 		224	Wild	K2 V K3 V	-3	(742+3)	[9231]	B	10	168
+1900	Empt	M	0836	Unsharshe	X540530-2	 	  De He Ni Po 		124	Wild	K2 V K3 V	-3	(741+1)	[6243]	B	10	28
+
+1105	Empt	M	0837	Indara	A675645-9	 	   Ag Ni 		811	ImDa	K5 V M8 V	1	(A55-1)	[4737]	BC	15	-250
+1201	Empt	M	0837	Indara	C675677-8	 	   Ag Ni 		911	ImDa	K5 V M8 V	-1	(A51+2)	[9566]	BC	15	100
+1240	Empt	M	0837	Indara	D675000-8	 	    Di 		011	Wild	K5 V M8 V	-3	(A00+1)	[0000]	B	15	10
+1508	Empt	M	0837	Indara	D675000-8	 	    Di 		011	Wild	K5 V M8 V	-3	(A00+1)	[0000]	B	15	10
+1900	Empt	M	0837	Indara	D675000-8	 	    Di 		011	Wild	K5 V M8 V	-3	(A00-3)	[0000]	B	15	-30
+
+1105	Empt	M	0839	Aardimash	C530372-9	 	  De Lo Po 		224	ImDa	M3 V	-1	(B20-5)	[1215]	B	13	-110
+1201	Empt	M	0839	Aardimash	X530000-9	 	  De Di Po 		024	ImDa	M3 V	-2	(B00+1)	[0000]	B	13	11
+1240	Empt	M	0839	Aardimash	X530000-9	 	  De Di Po 		024	Wild	M3 V	-2	(B00+1)	[0000]	B	13	11
+1508	Empt	M	0839	Aardimash	X530000-9	 	  De Di Po 		024	Wild	M3 V	-2	(B00+4)	[0000]	B	13	44
+1900	Empt	M	0839	Aardimash	X530000-9	 	  De Di Po 		024	Wild	M3 V	-2	(B00+1)	[0000]	B	13	11
+
+1105	Empt	M	0840	Shuura	C552231-7	S	   Lo Po 		124	ImDa	F7 V	-2	(410-5)	[1113]	B	9	-20
+1201	Empt	M	0840	Shuura	E552300-6	 	   Lo Po 		724	ImDa	F7 V	-3	(420-1)	[1173]	B	9	-8
+1240	Empt	M	0840	Shuura	E552000-6	 	   Di Po 		024	Wild	F7 V	-3	(400+3)	[0000]	B	9	12
+1508	Empt	M	0840	Shuura	E552000-6	 	   Di Po 		024	Wild	F7 V	-3	(400-5)	[0000]	B	9	-20
+1900	Empt	M	0840	Shuura	E552000-6	 	   Di Po 		024	Wild	F7 V	-3	(400+5)	[0000]	B	9	20
+
+1105	Empt	B	0903	Ourskadh	C201477-7	 	   Ic Va Ni 		423	JuRu	M3 V	-2	(631-2)	[4257]	B	11	-36
+1201	Empt	B	0903	Ourskadh	X201000-7	 	   Di Ic Va 		023	JuRu	M3 V	-3	(600+1)	[0000]	B	11	6
+1240	Empt	B	0903	Ourskadh	X201000-7	 	   Di Ic Va 		023	Wild	M3 V	-3	(600+2)	[0000]	B	11	12
+1508	Empt	B	0903	Ourskadh	X201000-7	 	   Di Ic Va 		023	Wild	M3 V	-3	(600+1)	[0000]	B	11	6
+1900	Empt	B	0903	Ourskadh	X201000-7	 	   Di Ic Va 		023	Wild	M3 V	-3	(600-2)	[0000]	B	11	-12
+
+1105	Empt	B	0905	Aerzorak	C9E758A-9	 	    Ni 		324	JuRu	M1 V	-1	(D43+1)	[747B]	B	14	156
+1201	Empt	B	0905	Aerzorak	X9E7000-9	 	    Di 		024	JuRu	M1 V	-2	(D00-3)	[0000]	B	14	-39
+1240	Empt	B	0905	Aerzorak	X9E7000-9	 	    Di 		024	Wild	M1 V	-2	(D00+3)	[0000]	B	14	39
+1508	Empt	B	0905	Aerzorak	X9E7000-9	 	    Di 		024	Wild	M1 V	-2	(D00+4)	[0000]	B	14	52
+1900	Empt	B	0905	Aerzorak	X9E7000-9	 	    Di 		024	Wild	M1 V	-2	(D00+3)	[0000]	B	14	39
+
+1105	Empt	B	0906	Ghungzon	B437443-D	 	    Ni 		100	JuRu	M2 V	1	(634-2)	[152A]	B	7	-144
+1201	Empt	B	0906	Ghungzon	X437000-D	 	    Di 		000	JuRu	M2 V	-1	(600-1)	[0000]	B	7	-6
+1240	Empt	B	0906	Ghungzon	X437000-D	 	    Di 		000	Wild	M2 V	-1	(600-2)	[0000]	B	7	-12
+1508	Empt	B	0906	Ghungzon	X437000-D	 	    Di 		000	Wild	M2 V	-1	(600-2)	[0000]	B	7	-12
+1900	Empt	B	0906	Ghungzon	X437000-D	 	    Di 		000	Wild	M2 V	-1	(600+1)	[0000]	B	7	6
+
+1105	Empt	B	0907	Threythkhe	C513310-A	 	   Ic Lo 		100	JuRu	K9 V	0	(520-4)	[1315]	B	10	-40
+1201	Empt	B	0907	Threythkhe	X513000-A	 	   Di Ic 		000	JuRu	K9 V	-1	(500-1)	[0000]	B	10	-5
+1240	Empt	B	0907	Threythkhe	X513000-A	 	   Di Ic 		000	Wild	K9 V	-1	(500-2)	[0000]	B	10	-10
+1508	Empt	B	0907	Threythkhe	X513000-A	 	   Di Ic 		000	Wild	K9 V	-1	(500+1)	[0000]	B	10	5
+1900	Empt	B	0907	Threythkhe	X513000-A	 	   Di Ic 		000	Wild	K9 V	-1	(500+4)	[0000]	B	10	20
+
+1105	Empt	F	0912	Irikrough	A567756-A	 	    Ag Ri (NIL)		724	JuRu	K4 V M6 V	4	(F6D+3)	[6B49]	BCf	19	3510
+1201	Empt	F	0912	Irikrough	C56776A-7	 	    Ag Ri (NIL)		824	JuRu	K4 V M6 V	1	(968-1)	[7834]	BC	19	-432
+1240	Empt	F	0912	Irikrough	C567798-3	 	    Ag Ri (NIL)		424	Wild	K4 V M6 V	1	(969-3)	[5831]	BC	19	-1458
+1508	Empt	F	0912	Irikrough	C567725-4	 	    Ag Ri (NIL)		324	Wild	K4 V M6 V	1	(968-2)	[5831]	BC	19	-864
+1900	Empt	F	0912	Irikrough	C567775-5	 	    Ag Ri (NIL)		224	Wild	K4 V M6 V	1	(966+2)	[78A5]	BC	19	648
+
+1105	Empt	N	0931	Tapawa	A68668A-B	N 	  Ag Ri Ga Ni 		523	ImDa	M1 V	3	(D57+5)	[897D]	BC	14	2275
+1201	Empt	N	0931	Tapawa	X686689-4	 	  Ag Ri Ga Ni 	B	523	ImDa	M1 V	-1	(853-2)	[9582]	BC	14	-240
+1240	Empt	N	0931	Tapawa	X686000-4	 	   Di Ga 		023	Wild	M1 V	-3	(800+2)	[0000]	B	14	16
+1508	Empt	N	0931	Tapawa	X686000-4	 	   Di Ga 		023	Wild	M1 V	-3	(800-1)	[0000]	B	14	-8
+1900	Empt	N	0931	Tapawa	X686000-4	 	   Di Ga 		023	Wild	M1 V	-3	(800+1)	[0000]	B	14	8
+
+1105	Empt	N	0932	Kewepab	C6686AD-8	 	   Ag Ri Ni 	A	524	ImDa	G5 V	0	(E54+4)	[A69C]	BC	13	1120
+1201	Empt	N	0932	Kewepab	E6686BA-7	 	   Ag Ri Ni 	B	624	ImDa	G5 V	-1	(852+1)	[4557]	BC	13	80
+1240	Empt	N	0932	Kewepab	E668610-4	 	   Ag Ri Ni 		324	Wild	G5 V	-1	(852+1)	[5552]	BC	13	80
+1508	Empt	N	0932	Kewepab	E668689-5	 	   Ag Ri Ni 		224	Wild	G5 V	-1	(850-1)	[8545]	BC	13	-40
+1900	Empt	N	0932	Kewepab	E668652-7	 	   Ag Ri Ni 		124	Wild	G5 V	-1	(854-3)	[3566]	BC	13	-480
+
+1105	Empt	N	0936	Akiar	D58A562-9	S	 Cy Ni Mr Pr Wa 		534	ImDa	K9 V M7 V	-2	(E42-5)	[1315]	Bc	10	-560
+1201	Empt	N	0936	Akiar	X58A578-3	 	 Mr Ni Pr Wa 	B	334	ImDa	K9 V M7 V	-3	(743+1)	[2283]	Bc	10	84
+1240	Empt	N	0936	Akiar	X58A479-3	 	  Mr Ni Wa 		134	Wild	K9 V M7 V	-3	(730+2)	[2175]	B	10	42
+1508	Empt	N	0936	Akiar	X58A322-4	 	  Lo Mr Wa 		934	Wild	K9 V M7 V	-3	(720-1)	[3181]	B	10	-14
+1900	Empt	N	0936	Akiar	X58A410-5	 	  Mr Ni Wa 		134	Wild	K9 V M7 V	-3	(730+3)	[4158]	B	10	63
+
+1105	Empt	N	0940	Dorado	E8C6110-9	 	   Fl Lo 		800	ImDa	M3 V	-2	(300-5)	[1114]	B	13	-15
+1201	Empt	N	0940	Dorado	X8C6000-9	 	   Di Fl 		000	ImDa	M3 V	-2	(300-3)	[0000]	B	13	-9
+1240	Empt	N	0940	Dorado	X8C6000-9	 	   Di Fl 		000	Wild	M3 V	-2	(300+1)	[0000]	B	13	3
+1508	Empt	N	0940	Dorado	X8C6000-9	 	   Di Fl 		000	Wild	M3 V	-2	(300-3)	[0000]	B	13	-9
+1900	Empt	N	0940	Dorado	X8C6000-9	 	   Di Fl 		000	Wild	M3 V	-2	(300+1)	[0000]	B	13	3
+
+1105	Empt	B	1003	Enzaeng	C726315-8	 	    Lo 		425	JuRu	M3 V	-2	(C20-4)	[1136]	B	10	-96
+1201	Empt	B	1003	Enzaeng	X726000-8	 	    Di 		025	JuRu	M3 V	-3	(C00+1)	[0000]	B	10	12
+1240	Empt	B	1003	Enzaeng	X726000-8	 	    Di 		025	Wild	M3 V	-3	(C00+1)	[0000]	B	10	12
+1508	Empt	B	1003	Enzaeng	X726000-8	 	    Di 		025	Wild	M3 V	-3	(C00-3)	[0000]	B	10	-36
+1900	Empt	B	1003	Enzaeng	X726000-8	 	    Di 		025	Wild	M3 V	-3	(C00-5)	[0000]	B	10	-60
+
+1105	Empt	B	1004	Saezzok	B424373-9	 	    Lo 		424	JuRu	G1 V	0	(B20-3)	[1326]	B	15	-66
+1201	Empt	B	1004	Saezzok	X424000-9	 	    Di 		024	JuRu	G1 V	-2	(B00-4)	[0000]	B	15	-44
+1240	Empt	B	1004	Saezzok	X424000-9	 	    Di 		024	Wild	G1 V	-2	(B00+4)	[0000]	B	15	44
+1508	Empt	B	1004	Saezzok	X424000-9	 	    Di 		024	Wild	G1 V	-2	(B00-4)	[0000]	B	15	-44
+1900	Empt	B	1004	Saezzok	X424000-9	 	    Di 		024	Wild	G1 V	-2	(B00-4)	[0000]	B	15	-44
+
+1105	Empt	F	1013	Unaeng	D664434-5	 	   Ni Pa 		822	JuRu	F9 V F9 V	-3	(631-5)	[2133]	Bc	10	-90
+1201	Empt	F	1013	Unaeng	X664455-2	 	   Ni Pa 		522	JuRu	F9 V F9 V	-3	(631+2)	[1153]	Bc	10	36
+1240	Empt	F	1013	Unaeng	X66448A-0	 	   Ni Pa 		222	Wild	F9 V F9 V	-3	(630+1)	[7171]	Bc	10	18
+1508	Empt	F	1013	Unaeng	X66445A-1	 	   Ni Pa 		322	Wild	F9 V F9 V	-3	(633-1)	[4161]	Bc	10	-54
+1900	Empt	F	1013	Unaeng	X664438-1	 	   Ni Pa 		422	Wild	F9 V F9 V	-3	(633-1)	[5111]	Bc	10	-54
+
+1105	Empt	J	1030	Karzana	C540431-8	 	  De He Ni Po 		914	ImDa	K5 V K5 V	-2	(B31-5)	[1214]	B	9	-165
+1201	Empt	J	1030	Karzana	E540400-6	 	  De He Ni Po 		514	ImDa	K5 V K5 V	-3	(630+1)	[417A]	B	9	18
+1240	Empt	J	1030	Karzana	E540000-6	 	  De He Di Po 		014	Wild	K5 V K5 V	-3	(600-2)	[0000]	B	9	-12
+1508	Empt	J	1030	Karzana	E540000-6	 	  De He Di Po 		014	Wild	K5 V K5 V	-3	(600+1)	[0000]	B	9	6
+1900	Empt	J	1030	Karzana	E540000-6	 	  De He Di Po 		014	Wild	K5 V K5 V	-3	(600-1)	[0000]	B	9	-6
+
+1105	Empt	N	1031	Kawatas	C68669C-8	S	  Ag Ri Ga Ni 	A	424	ImDa	F6 V G8 V	0	(E54+3)	[968B]	BC	9	840
+1201	Empt	N	1031	Kawatas	E686624-6	 	  Ag Ri Ga Ni 	B	524	ImDa	F6 V G8 V	-1	(852+3)	[5585]	BC	9	240
+1240	Empt	N	1031	Kawatas	E686483-5	 	  Ga Ni Pa 		224	Wild	F6 V G8 V	-3	(830+1)	[9114]	Bc	9	24
+1508	Empt	N	1031	Kawatas	E686400-7	 	  Ga Ni Pa 		124	Wild	F6 V G8 V	-3	(833-1)	[6126]	Bc	9	-72
+1900	Empt	N	1031	Kawatas	E686420-7	 	  Ga Ni Pa 		224	Wild	F6 V G8 V	-3	(831+1)	[81A7]	Bc	9	24
+
+1105	Empt	N	1035	Fathwaas	A6667BC-C	 	  Ag Ri Cp Ga (NIL)	A	123	ImDa	K1 V	4	(E6E+5)	[AB8F]	BCF	9	5880
+1201	Empt	N	1035	Fathwaas	X666666-0	 	 Ag Ri Cp Ga Ni (NIL)	B	823	ImDa	K1 V	-1	(951+1)	[6561]	BCF	9	45
+1240	Empt	N	1035	Fathwaas	X666587-1	 	 Ag Pr Cp Ga Ni (NIL)		423	Wild	K1 V	-2	(944-1)	[2341]	BcCF	9	-144
+1508	Empt	N	1035	Fathwaas	X666533-2	 	 Ag Pr Cp Ga Ni (NIL)		323	Wild	K1 V	-2	(941-5)	[8323]	BcCF	9	-180
+1900	Empt	N	1035	Fathwaas	X666550-4	 	 Ag Pr Cp Ga Ni (NIL)		223	Wild	K1 V	-2	(940-3)	[63A6]	BcCF	9	-108
+
+1105	Empt	N	1036	Nazirah	C571112-5	 	   He Lo 		823	ImDa	K3 V M7 V	-2	(300-5)	[1111]	B	8	-15
+1201	Empt	N	1036	Nazirah	E571200-4	 	   He Lo 		323	ImDa	K3 V M7 V	-3	(310-2)	[1162]	B	8	-6
+1240	Empt	N	1036	Nazirah	E571000-4	 	   Di He 		023	Wild	K3 V M7 V	-3	(300-3)	[0000]	B	8	-9
+1508	Empt	N	1036	Nazirah	E571000-4	 	   Di He 		023	Wild	K3 V M7 V	-3	(300+2)	[0000]	B	8	6
+1900	Empt	N	1036	Nazirah	E571000-4	 	   Di He 		023	Wild	K3 V M7 V	-3	(300+1)	[0000]	B	8	3
+
+1105	Empt	N	1037	Ikkimam	B632543-9	 	   Ni Po 		800	ImDa	F8 V	0	(744-3)	[2526]	B	12	-336
+1201	Empt	N	1037	Ikkimam	X632000-9	 	   Di Po 		000	ImDa	F8 V	-2	(700-1)	[0000]	B	12	-7
+1240	Empt	N	1037	Ikkimam	X632000-9	 	   Di Po 		000	Wild	F8 V	-2	(700-1)	[0000]	B	12	-7
+1508	Empt	N	1037	Ikkimam	X632000-9	 	   Di Po 		000	Wild	F8 V	-2	(700-1)	[0000]	B	12	-7
+1900	Empt	N	1037	Ikkimam	X632000-9	 	   Di Po 		000	Wild	F8 V	-2	(700+4)	[0000]	B	12	28
+
+1105	Empt	N	1038	Vipan	CAB6315-8	 	   Fl Lo 		811	ImDa	M8 V	-2	(720-4)	[1136]	B	8	-56
+1201	Empt	N	1038	Vipan	XAB6000-8	 	   Di Fl 		011	ImDa	M8 V	-3	(700-3)	[0000]	B	8	-21
+1240	Empt	N	1038	Vipan	XAB6000-8	 	   Di Fl 		011	Wild	M8 V	-3	(700+1)	[0000]	B	8	7
+1508	Empt	N	1038	Vipan	XAB6000-8	 	   Di Fl 		011	Wild	M8 V	-3	(700-1)	[0000]	B	8	-7
+1900	Empt	N	1038	Vipan	XAB6000-8	 	   Di Fl 		011	Wild	M8 V	-3	(700+1)	[0000]	B	8	7
+
+1105	Empt	N	1039	Dheeraj	E201367-9	 	   Ic Va Lo 		703	ImDa	M1 V	-2	(820-2)	[3159]	B	8	-32
+1201	Empt	N	1039	Dheeraj	X201000-9	 	   Di Ic Va 		003	ImDa	M1 V	-2	(800+4)	[0000]	B	8	32
+1240	Empt	N	1039	Dheeraj	X201000-9	 	   Di Ic Va 		003	Wild	M1 V	-2	(800+1)	[0000]	B	8	8
+1508	Empt	N	1039	Dheeraj	X201000-9	 	   Di Ic Va 		003	Wild	M1 V	-2	(800-3)	[0000]	B	8	-24
+1900	Empt	N	1039	Dheeraj	X201000-9	 	   Di Ic Va 		003	Wild	M1 V	-2	(800-1)	[0000]	B	8	-8
+
+1105	Empt	N	1040	Jaleel	C310420-9	 	    Ni 		100	ImDa	K7 III	-1	(632-5)	[1314]	B	7	-180
+1201	Empt	N	1040	Jaleel	X310000-9	 	    Di 		000	ImDa	K7 III	-2	(600-2)	[0000]	B	7	-12
+1240	Empt	N	1040	Jaleel	X310000-9	 	    Di 		000	Wild	K7 III	-2	(600+1)	[0000]	B	7	6
+1508	Empt	N	1040	Jaleel	X310000-9	 	    Di 		000	Wild	K7 III	-2	(600+2)	[0000]	B	7	12
+1900	Empt	N	1040	Jaleel	X310000-9	 	    Di 		000	Wild	K7 III	-2	(600-1)	[0000]	B	7	-6
+
+1105	Empt	B	1103	Gousong	C424576-A	 	   Ni Px 		633	JuRu	F6 IV	0	(D44-1)	[4549]	B	13	-208
+1201	Empt	B	1103	Gousong	X424000-A	 	   Di Px 		033	JuRu	F6 IV	-1	(D00-4)	[0000]	B	13	-52
+1240	Empt	B	1103	Gousong	X424000-A	 	   Di Px 		033	Wild	F6 IV	-1	(D00-5)	[0000]	B	13	-65
+1508	Empt	B	1103	Gousong	X424000-A	 	    Di 		033	Wild	F6 IV	-1	(D00+1)	[0000]	B	13	13
+1900	Empt	B	1103	Gousong	X424000-A	 	    Di 		033	Wild	F6 IV	-1	(D00+1)	[0000]	B	13	13
+
+1105	Empt	B	1105	Oloe	B647675-9	 	   Ag Ni 		925	JuRu	M1 V	1	(F55-1)	[4737]	BC	17	-375
+1201	Empt	B	1105	Oloe	C647665-4	 	   Ag Ni 	B	925	JuRu	M1 V	-1	(852-2)	[7521]	BC	17	-160
+1240	Empt	B	1105	Oloe	X647000-4	 	    Di 		025	Wild	M1 V	-3	(800+2)	[0000]	B	17	16
+1508	Empt	B	1105	Oloe	X647000-4	 	    Di 		025	Wild	M1 V	-3	(800+1)	[0000]	B	17	8
+1900	Empt	B	1105	Oloe	X647000-4	 	    Di 		025	Wild	M1 V	-3	(800-1)	[0000]	B	17	-8
+
+1105	Empt	B	1106	Aetsoek	A67969A-A	 	    Ni 		622	NaVa	G8 V	2	(C56+4)	[887C]	B	11	1440
+1201	Empt	B	1106	Aetsoek	X6796AC-5	 	    Ni 	B	622	NaVa	G8 V	-3	(852+1)	[3318]	B	11	80
+1240	Empt	B	1106	Aetsoek	X679000-5	 	    Di 		022	Wild	G8 V	-3	(800-2)	[0000]	B	11	-16
+1508	Empt	B	1106	Aetsoek	X679000-5	 	    Di 		022	Wild	G8 V	-3	(800+1)	[0000]	B	11	8
+1900	Empt	B	1106	Aetsoek	X679000-5	 	    Di 		022	Wild	G8 V	-3	(800-5)	[0000]	B	11	-40
+
+1105	Empt	B	1107	Ksuel	D5A3555-8	 	   Fl Ni 		325	JuRu	M1 V	-3	(E41-5)	[3236]	B	15	-280
+1201	Empt	B	1107	Ksuel	X5A3000-8	 	   Di Fl 		025	JuRu	M1 V	-3	(E00+1)	[0000]	B	15	14
+1240	Empt	B	1107	Ksuel	X5A3000-8	 	   Di Fl 		025	Wild	M1 V	-3	(E00+1)	[0000]	B	15	14
+1508	Empt	B	1107	Ksuel	X5A3000-8	 	   Di Fl 		025	Wild	M1 V	-3	(E00-1)	[0000]	B	15	-14
+1900	Empt	B	1107	Ksuel	X5A3000-8	 	   Di Fl 		025	Wild	M1 V	-3	(E00-3)	[0000]	B	15	-42
+
+1105	Empt	B	1109	Daalii	D578674-5	 	   Ag Ni 		825	NaHu	K7 V	-2	(852-4)	[4433]	BC	16	-320
+1201	Empt	B	1109	Daalii	E578699-3	 	   Ag Ni 	B	925	NaHu	K7 V	-2	(850+2)	[8436]	BC	16	80
+1240	Empt	B	1109	Daalii	E578000-3	 	    Di 		025	Wild	K7 V	-3	(800+3)	[0000]	B	16	24
+1508	Empt	B	1109	Daalii	E578000-3	 	    Di 		025	Wild	K7 V	-3	(800-2)	[0000]	B	16	-16
+1900	Empt	B	1109	Daalii	E578000-3	 	    Di 		025	Wild	K7 V	-3	(800+4)	[0000]	B	16	32
+
+1105	Empt	B	1110	Uedzoen	E540436-5	 	  De He Ni Po 		212	JuRu	K6 V	-3	(631-4)	[3144]	B	6	-72
+1201	Empt	B	1110	Uedzoen	X540434-3	 	  De He Ni Po 		212	JuRu	K6 V	-3	(632+1)	[3153]	B	6	36
+1240	Empt	B	1110	Uedzoen	X540443-0	 	  De He Ni Po 		112	Wild	K6 V	-3	(631+5)	[6131]	B	6	90
+1508	Empt	B	1110	Uedzoen	X540474-0	 	  De He Ni Po 		112	Wild	K6 V	-3	(630-3)	[5141]	B	6	-54
+1900	Empt	B	1110	Uedzoen	X540310-1	 	  De He Lo Po 		912	Wild	K6 V	-3	(620-1)	[2141]	B	6	-12
+
+1105	Empt	J	1129	Miinagi	A430255-D	 	  De Lo Po 		423	ImDa	M0 V M8 V	1	(911-1)	[133B]	B	13	-9
+1201	Empt	J	1129	Miinagi	X430000-D	 	  De Di Po 		023	ImDa	M0 V M8 V	-1	(900-2)	[0000]	B	13	-18
+1240	Empt	J	1129	Miinagi	X430000-D	 	  De Di Po 		023	Wild	M0 V M8 V	-1	(900+4)	[0000]	B	13	36
+1508	Empt	J	1129	Miinagi	X430000-D	 	  De Di Po 		023	Wild	M0 V M8 V	-1	(900+1)	[0000]	B	13	9
+1900	Empt	J	1129	Miinagi	X430000-D	 	  De Di Po 		023	Wild	M0 V M8 V	-1	(900-3)	[0000]	B	13	-27
+
+1105	Empt	J	1130	Woswaab	D566699-6	S	   Ag Ri Ni 		700	ImDa	G8 V	-1	(853+1)	[7567]	BC	8	120
+1201	Empt	J	1130	Woswaab	X566638-5	 	   Ag Ri Ni 	B	800	ImDa	G8 V	-1	(850-3)	[7579]	BC	8	-120
+1240	Empt	J	1130	Woswaab	X566520-1	 	   Ag Pr Ni 		400	Wild	G8 V	-2	(843+1)	[2311]	BcC	8	96
+1508	Empt	J	1130	Woswaab	X566553-3	 	   Ag Pr Ni 		500	Wild	G8 V	-2	(842+1)	[8365]	BcC	8	64
+1900	Empt	J	1130	Woswaab	X566550-4	 	   Ag Pr Ni 		600	Wild	G8 V	-2	(844+2)	[1376]	BcC	8	256
+
+1105	Empt	N	1133	Abse-eb	A54768A-A	 	   Ag Ni 		400	ImDa	G0 V K4 V	2	(856+4)	[887C]	BC	7	960
+1201	Empt	N	1133	Abse-eb	X5476AA-5	 	   Ag Ni 	B	400	ImDa	G0 V K4 V	-2	(851-1)	[3416]	BC	7	-40
+1240	Empt	N	1133	Abse-eb	X547000-5	 	    Di 		000	Wild	G0 V K4 V	-3	(800+1)	[0000]	B	7	8
+1508	Empt	N	1133	Abse-eb	X547000-5	 	    Di 		000	Wild	G0 V K4 V	-3	(800-3)	[0000]	B	7	-24
+1900	Empt	N	1133	Abse-eb	X547000-5	 	    Di 		000	Wild	G0 V K4 V	-3	(800-3)	[0000]	B	7	-24
+
+1105	Empt	N	1137	Agnakhong	C539444-8	 	    Ni 		725	ImDa	K9 V M5 V	-2	(D31-4)	[2236]	B	16	-156
+1201	Empt	N	1137	Agnakhong	X539000-8	 	    Di 		025	ImDa	K9 V M5 V	-3	(D00-4)	[0000]	B	16	-52
+1240	Empt	N	1137	Agnakhong	X539000-8	 	    Di 		025	Wild	K9 V M5 V	-3	(D00-2)	[0000]	B	16	-26
+1508	Empt	N	1137	Agnakhong	X539000-8	 	    Di 		025	Wild	K9 V M5 V	-3	(D00+1)	[0000]	B	16	13
+1900	Empt	N	1137	Agnakhong	X539000-8	 	    Di 		025	Wild	K9 V M5 V	-3	(D00+3)	[0000]	B	16	39
+
+1105	Empt	N	1139	Sibikaar	A659778-9	 	     (NIL)		223	ImDa	G6 V G7 V	1	(E6A+1)	[7859]	B	8	840
+1201	Empt	N	1139	Sibikaar	X65976A-6	 	     (NIL)	B	323	ImDa	G6 V G7 V	-2	(960-2)	[7527]	B	8	-108
+1240	Empt	N	1139	Sibikaar	X65979B-0	 	     (NIL)		123	Wild	G6 V G7 V	-2	(964-1)	[5571]	B	8	-216
+1508	Empt	N	1139	Sibikaar	X659773-0	 	     (NIL)		123	Wild	G6 V G7 V	-2	(96A-3)	[5583]	B	8	-1620
+1900	Empt	N	1139	Sibikaar	X659774-0	 	     (NIL)		123	Wild	G6 V G7 V	-2	(968+1)	[7533]	B	8	432
+
+1105	Empt	B	1205	Oesae	B5A2366-9	 	  Fl He Lo Px 		900	JuRu	M3 V M3 V	0	(520-1)	[2348]	B	5	-10
+1201	Empt	B	1205	Oesae	X5A2000-9	 	  Di Fl He Px 		000	JuRu	M3 V M3 V	-2	(500+2)	[0000]	B	5	10
+1240	Empt	B	1205	Oesae	X5A2000-9	 	  Di Fl He Px 		000	Wild	M3 V M3 V	-2	(500+1)	[0000]	B	5	5
+1508	Empt	B	1205	Oesae	X5A2000-9	 	   Di Fl He 		000	Wild	M3 V M3 V	-2	(500-4)	[0000]	B	5	-20
+1900	Empt	B	1205	Oesae	X5A2000-9	 	   Di Fl He 		000	Wild	M3 V M3 V	-2	(500+1)	[0000]	B	5	5
+
+1105	Empt	B	1206	Kourae	A683687-C	 	   Ni Ri 		603	JuRu	M2 V	2	(B56+2)	[685C]	BC	13	660
+1201	Empt	B	1206	Kourae	X68366A-2	 	   Ni Ri 	B	503	JuRu	M2 V	-2	(853+2)	[6411]	BC	13	240
+1240	Empt	B	1206	Kourae	X68369C-0	 	   Ni Ri 		203	Wild	M2 V	-2	(853+4)	[9451]	BC	13	480
+1508	Empt	B	1206	Kourae	X6836AA-1	 	   Ni Ri 		303	Wild	M2 V	-2	(853+1)	[5481]	BC	13	120
+1900	Empt	B	1206	Kourae	X683644-2	 	   Ni Ri 		203	Wild	M2 V	-2	(854+1)	[6471]	BC	13	160
+
+1105	Empt	B	1208	Ghazko	E7A4122-8	 	   Fl Lo 		624	JuRu	F9 V K5 V	-3	(900-5)	[1114]	B	17	-45
+1201	Empt	B	1208	Ghazko	X7A4000-8	 	   Di Fl 		024	JuRu	F9 V K5 V	-3	(900+1)	[0000]	B	17	9
+1240	Empt	B	1208	Ghazko	X7A4000-8	 	   Di Fl 		024	Wild	F9 V K5 V	-3	(900+4)	[0000]	B	17	36
+1508	Empt	B	1208	Ghazko	X7A4000-8	 	   Di Fl 		024	Wild	F9 V K5 V	-3	(900+3)	[0000]	B	17	27
+1900	Empt	B	1208	Ghazko	X7A4000-8	 	   Di Fl 		024	Wild	F9 V K5 V	-3	(900+2)	[0000]	B	17	18
+
+1105	Empt	F	1211	Uku	B31238A-8	 	   Ic Lo 		404	JuRu	F3 V M7 V	-1	(920+1)	[527A]	B	13	18
+1201	Empt	F	1211	Uku	X312000-8	 	   Di Ic 		004	JuRu	F3 V M7 V	-3	(900+2)	[0000]	B	13	18
+1240	Empt	F	1211	Uku	X312000-8	 	   Di Ic 		004	Wild	F3 V M7 V	-3	(900-2)	[0000]	B	13	-18
+1508	Empt	F	1211	Uku	X312000-8	 	   Di Ic 		004	Wild	F3 V M7 V	-3	(900+3)	[0000]	B	13	27
+1900	Empt	F	1211	Uku	X312000-8	 	   Di Ic 		004	Wild	F3 V M7 V	-3	(900-1)	[0000]	B	13	-9
+
+1105	Empt	F	1213	Iluumiin	C430443-8	 	  De Ni Po 		701	NaHu	F1 V	-2	(731-5)	[1225]	B	12	-105
+1201	Empt	F	1213	Iluumiin	X430000-8	 	  De Di Po 		001	NaHu	F1 V	-3	(700+2)	[0000]	B	12	14
+1240	Empt	F	1213	Iluumiin	X430000-8	 	  De Di Po 		001	Wild	F1 V	-3	(700+3)	[0000]	B	12	21
+1508	Empt	F	1213	Iluumiin	X430000-8	 	  De Di Po 		001	Wild	F1 V	-3	(700-1)	[0000]	B	12	-7
+1900	Empt	F	1213	Iluumiin	X430000-8	 	  De Di Po 		001	Wild	F1 V	-3	(700+1)	[0000]	B	12	7
+
+1105	Empt	F	1214	Halla	B693577-7	 	    Ni 		602	NaHu	G3 V	-1	(743-1)	[5457]	B	11	-84
+1201	Empt	F	1214	Halla	D693522-3	 	    Ni 	B	402	NaHu	G3 V	-3	(740+2)	[5252]	B	11	56
+1240	Empt	F	1214	Halla	D693000-3	 	    Di 		002	Wild	G3 V	-3	(700+1)	[0000]	B	11	7
+1508	Empt	F	1214	Halla	D693000-3	 	    Di 		002	Wild	G3 V	-3	(700-1)	[0000]	B	11	-7
+1900	Empt	F	1214	Halla	D693000-3	 	    Di 		002	Wild	G3 V	-3	(700+3)	[0000]	B	11	21
+
+1105	Empt	J	1228	Uthurrvon	B534501-9	 	    Ni 		803	ImDa	G1 V	0	(A44-4)	[1515]	B	9	-640
+1201	Empt	J	1228	Uthurrvon	X534000-9	 	    Di 		003	ImDa	G1 V	-2	(A00-1)	[0000]	B	9	-10
+1240	Empt	J	1228	Uthurrvon	X534000-9	 	    Di 		003	Wild	G1 V	-2	(A00-2)	[0000]	B	9	-20
+1508	Empt	J	1228	Uthurrvon	X534000-9	 	    Di 		003	Wild	G1 V	-2	(A00+3)	[0000]	B	9	30
+1900	Empt	J	1228	Uthurrvon	X534000-9	 	    Di 		003	Wild	G1 V	-2	(A00-2)	[0000]	B	9	-20
+
+1105	Empt	J	1229	Urmair	C550266-8	S	  De Lo Po 		334	ImDa	M0 V M4 V	-2	(B10-3)	[1147]	B	10	-33
+1201	Empt	J	1229	Urmair	E550233-7	 	  De Lo Po 		734	ImDa	M0 V M4 V	-3	(410+1)	[5159]	B	10	4
+1240	Empt	J	1229	Urmair	E550000-7	 	  De Di Po 		034	Wild	M0 V M4 V	-3	(400+1)	[0000]	B	10	4
+1508	Empt	J	1229	Urmair	E550000-7	 	  De Di Po 		034	Wild	M0 V M4 V	-3	(400-4)	[0000]	B	10	-16
+1900	Empt	J	1229	Urmair	E550000-7	 	  De Di Po 		034	Wild	M0 V M4 V	-3	(400+3)	[0000]	B	10	12
+
+1105	Empt	J	1230	Ka-aswa	A86968A-A	 	  Cp Ni Ri 		813	ImDa	K1 V	2	(C56+4)	[887C]	BCF	14	1440
+1201	Empt	J	1230	Ka-aswa	C869645-9	 	  Cp Ni Ri 		913	ImDa	K1 V	0	(C52+3)	[6698]	BCF	14	360
+1240	Empt	J	1230	Ka-aswa	C869400-6	 	   Cp Ni 		413	Wild	K1 V	-2	(832+3)	[1226]	BF	14	144
+1508	Empt	J	1230	Ka-aswa	C869414-6	 	   Cp Ni 		313	Wild	K1 V	-2	(830-5)	[32A2]	BF	14	-120
+1900	Empt	J	1230	Ka-aswa	C869400-8	 	   Cp Ni 		213	Wild	K1 V	-2	(C34-1)	[6278]	BF	14	-144
+
+1105	Empt	N	1233	Lazisar	B5509CC-A	N 	  De Hi Po (NIL)	A	503	ImDa	F6 V G8 V	3	(E8D+5)	[CC8D]	BE	14	7280
+1201	Empt	N	1233	Lazisar	X550000-A	 	  De Di Po (NIL)		003	ImDa	F6 V G8 V	-1	(E00-3)	[0000]	B	14	-42
+1240	Empt	N	1233	Lazisar	X550000-A	 	  De Di Po (NIL)		003	Wild	F6 V G8 V	-1	(E00+1)	[0000]	B	14	14
+1508	Empt	N	1233	Lazisar	X550000-A	 	  De Di Po (NIL)		003	Wild	F6 V G8 V	-1	(E00-3)	[0000]	B	14	-42
+1900	Empt	N	1233	Lazisar	X550000-A	 	  De Di Po (NIL)		003	Wild	F6 V G8 V	-1	(E00+3)	[0000]	B	14	42
+
+1105	Empt	N	1235	Askaath	A66589B-B	 	  Ga Pa Ri Ph (NIL)	A	422	ImDa	M1 V M6 V	3	(E7D+5)	[AB7D]	BcCe	9	6370
+1201	Empt	N	1235	Askaath	X665851-7	 	  Ga Pa Ri Ph (NIL)		422	ImDa	M1 V M6 V	-1	(A79-2)	[579C]	BcCe	9	-1260
+1240	Empt	N	1235	Askaath	X665876-0	 	  Ga Pa Ri Ph (NIL)		222	Wild	M1 V M6 V	-1	(A79-2)	[9761]	BcCe	9	-1260
+1508	Empt	N	1235	Askaath	X665878-0	 	  Ga Pa Ri Ph (NIL)		322	Wild	M1 V M6 V	-1	(A75+2)	[9713]	BcCe	9	700
+1900	Empt	N	1235	Askaath	X665898-1	 	  Ga Pa Ri Ph (NIL)		322	Wild	M1 V M6 V	-1	(A76-1)	[7754]	BcCe	9	-420
+
+1105	Empt	N	1236	Dharmendra	C84A223-6	 	   Lo Wa 		210	ImDa	K4 V M9 V	-2	(410-5)	[1123]	B	4	-20
+1201	Empt	N	1236	Dharmendra	E84A322-2	 	   Lo Wa 	B	710	ImDa	K4 V M9 V	-3	(420+2)	[3133]	B	4	16
+1240	Empt	N	1236	Dharmendra	E84A000-2	 	   Di Wa 		010	Wild	K4 V M9 V	-3	(400-5)	[0000]	B	4	-20
+1508	Empt	N	1236	Dharmendra	E84A000-2	 	   Di Wa 		010	Wild	K4 V M9 V	-3	(400-3)	[0000]	B	4	-12
+1900	Empt	N	1236	Dharmendra	E84A000-2	 	   Di Wa 		010	Wild	K4 V M9 V	-3	(400-3)	[0000]	B	4	-12
+
+1105	Empt	N	1237	Ardamashii	C525873-7	 	   Ph Pi (NIL)		922	ImDa	G9 V	-1	(A77-4)	[5724]	BDe	7	-1960
+1201	Empt	N	1237	Ardamashii	X525000-7	 	   Di Pi (NIL)		022	ImDa	G9 V	-3	(A00-4)	[0000]	BD	7	-40
+1240	Empt	N	1237	Ardamashii	X525000-7	 	   Di Pi (NIL)		022	Wild	G9 V	-3	(A00+1)	[0000]	BD	7	10
+1508	Empt	N	1237	Ardamashii	X525000-7	 	    Di (NIL)		022	Wild	G9 V	-3	(A00+2)	[0000]	B	7	20
+1900	Empt	N	1237	Ardamashii	X525000-7	 	    Di (NIL)		022	Wild	G9 V	-3	(A00-3)	[0000]	B	7	-30
+
+1105	Empt	N	1238	Praveer	C69A210-9	 	   Lo Wa 		923	ImDa	G9 V M5 V	-1	(910-5)	[1114]	B	9	-45
+1201	Empt	N	1238	Praveer	X69A320-4	 	   Lo Wa 		423	ImDa	G9 V M5 V	-3	(420+1)	[3161]	B	9	8
+1240	Empt	N	1238	Praveer	X69A000-4	 	   Di Wa 		023	Wild	G9 V M5 V	-3	(400+1)	[0000]	B	9	4
+1508	Empt	N	1238	Praveer	X69A000-4	 	   Di Wa 		023	Wild	G9 V M5 V	-3	(400+1)	[0000]	B	9	4
+1900	Empt	N	1238	Praveer	X69A000-4	 	   Di Wa 		023	Wild	G9 V M5 V	-3	(400+1)	[0000]	B	9	4
+
+1105	Empt	N	1239	Kaanada	B550585-7	 	  De Ni Po 		824	ImDa	G6 V	-1	(743-3)	[3435]	B	9	-252
+1201	Empt	N	1239	Kaanada	D550520-6	 	  De Ni Po 		524	ImDa	G6 V	-3	(740+2)	[5255]	B	9	56
+1240	Empt	N	1239	Kaanada	D550405-2	 	  De Ni Po 		224	Wild	G6 V	-3	(730+1)	[6154]	B	9	21
+1508	Empt	N	1239	Kaanada	D550454-3	 	  De Ni Po 		124	Wild	G6 V	-3	(731-1)	[6131]	B	9	-21
+1900	Empt	N	1239	Kaanada	D550444-3	 	  De Ni Po 		224	Wild	G6 V	-3	(733+3)	[5194]	B	9	189
+
+1105	Empt	B	1301	Raklug	B402453-C	 	   Ic Va Ni 		922	JuRu	K3 V	1	(A34-2)	[1529]	B	15	-240
+1201	Empt	B	1301	Raklug	X402000-C	 	   Di Ic Va 		022	JuRu	K3 V	-1	(A00-4)	[0000]	B	15	-40
+1240	Empt	B	1301	Raklug	X402000-C	 	   Di Ic Va 		022	Wild	K3 V	-1	(A00+1)	[0000]	B	15	10
+1508	Empt	B	1301	Raklug	X402000-C	 	   Di Ic Va 		022	Wild	K3 V	-1	(A00-3)	[0000]	B	15	-30
+1900	Empt	B	1301	Raklug	X402000-C	 	   Di Ic Va 		022	Wild	K3 V	-1	(A00-2)	[0000]	B	15	-20
+
+1105	Empt	B	1303	Gengath	C550883-7	 	  De Ph Po (NIL)		234	JuRu	K5 V	-1	(A77-4)	[5724]	Be	14	-1960
+1201	Empt	B	1303	Gengath	X550477-3	 	  De Ni Po (NIL)		234	JuRu	K5 V	-3	(A33-2)	[3126]	B	14	-180
+1240	Empt	B	1303	Gengath	X550416-0	 	  De Ni Po (NIL)		134	Wild	K5 V	-3	(A30+3)	[2111]	B	14	90
+1508	Empt	B	1303	Gengath	X550321-1	 	  De Lo Po (NIL)		934	Wild	K5 V	-3	(A20-4)	[2161]	B	14	-80
+1900	Empt	B	1303	Gengath	X550332-2	 	  De Lo Po (NIL)		934	Wild	K5 V	-3	(A20-3)	[4186]	B	14	-60
+
+1105	Empt	B	1306	Larraez	D562661-4	 	   Cy Ni Ri 		721	JuRu	M1 V M6 V	-2	(852-5)	[2411]	BC	10	-400
+1201	Empt	B	1306	Larraez	X562621-4	 	   Ni Ri 		821	JuRu	M1 V M6 V	-2	(852-2)	[6471]	BC	10	-160
+1240	Empt	B	1306	Larraez	X56267B-0	 	   Ni Ri 		421	Wild	M1 V M6 V	-2	(850+1)	[3451]	BC	10	40
+1508	Empt	B	1306	Larraez	X562677-0	 	   Ni Ri 		321	Wild	M1 V M6 V	-2	(854-1)	[8452]	BC	10	-160
+1900	Empt	B	1306	Larraez	X562687-0	 	   Ni Ri 		221	Wild	M1 V M6 V	-2	(854-3)	[3451]	BC	10	-480
+
+1105	Empt	B	1307	Dhaeknorz	A573546-D	 	    Ni 		802	NaVa	K4 V M8 V	1	(945+1)	[464C]	B	10	180
+1201	Empt	B	1307	Dhaeknorz	X573522-6	 	    Ni 	B	402	NaVa	K4 V M8 V	-3	(740-1)	[6253]	B	10	-28
+1240	Empt	B	1307	Dhaeknorz	X573000-6	 	    Di 		002	Wild	K4 V M8 V	-3	(700+1)	[0000]	B	10	7
+1508	Empt	B	1307	Dhaeknorz	X573000-6	 	    Di 		002	Wild	K4 V M8 V	-3	(700-2)	[0000]	B	10	-14
+1900	Empt	B	1307	Dhaeknorz	X573000-6	 	    Di 		002	Wild	K4 V M8 V	-3	(700+5)	[0000]	B	10	35
+
+1105	Empt	B	1308	Gidhae	D561222-7	 	    Lo 		134	JuRu	M2 V	-3	(410-5)	[1113]	B	16	-20
+1201	Empt	B	1308	Gidhae	X561100-3	 	    Lo 		934	JuRu	M2 V	-3	(400+1)	[1121]	B	16	4
+1240	Empt	B	1308	Gidhae	X561000-3	 	    Di 		034	Wild	M2 V	-3	(400-3)	[0000]	B	16	-12
+1508	Empt	B	1308	Gidhae	X561000-3	 	    Di 		034	Wild	M2 V	-3	(400-1)	[0000]	B	16	-4
+1900	Empt	B	1308	Gidhae	X561000-3	 	    Di 		034	Wild	M2 V	-3	(400+1)	[0000]	B	16	4
+
+1105	Empt	B	1309	Irilikhokh	C86A533-A	 	  Ni Pr Wa 		723	NaVa	F5 V	0	(C44-3)	[2527]	Bc	11	-576
+1201	Empt	B	1309	Irilikhokh	E86A577-6	 	  Ni Pr Wa 	B	423	NaVa	F5 V	-3	(740-3)	[4274]	Bc	11	-84
+1240	Empt	B	1309	Irilikhokh	E86A000-6	 	   Di Wa 		023	Wild	F5 V	-3	(700-4)	[0000]	B	11	-28
+1508	Empt	B	1309	Irilikhokh	E86A000-6	 	   Di Wa 		023	Wild	F5 V	-3	(700+1)	[0000]	B	11	7
+1900	Empt	B	1309	Irilikhokh	E86A000-6	 	   Di Wa 		023	Wild	F5 V	-3	(700+1)	[0000]	B	11	7
+
+1105	Empt	F	1311	Tsuellae	C310210-A	 	    Lo 		114	NaHu	K2 III M7 V	0	(910-4)	[1215]	B	13	-36
+1201	Empt	F	1311	Tsuellae	X310000-A	 	    Di 		014	NaHu	K2 III M7 V	-1	(900+1)	[0000]	B	13	9
+1240	Empt	F	1311	Tsuellae	X310000-A	 	    Di 		014	Wild	K2 III M7 V	-1	(900+1)	[0000]	B	13	9
+1508	Empt	F	1311	Tsuellae	X310000-A	 	    Di 		014	Wild	K2 III M7 V	-1	(900+2)	[0000]	B	13	18
+1900	Empt	F	1311	Tsuellae	X310000-A	 	    Di 		014	Wild	K2 III M7 V	-1	(900-2)	[0000]	B	13	-18
+
+1105	Empt	F	1315	Outpost	E565A78-6	 	    Hi (NIL)		925	JuRu	G0 V	-1	(C97-1)	[A956]	BE	15	-756
+1201	Empt	F	1315	Outpost	X565000-6	 	    Di (NIL)		025	JuRu	G0 V	-3	(C00-1)	[0000]	B	15	-12
+1240	Empt	F	1315	Outpost	X565000-6	 	    Di (NIL)		025	Wild	G0 V	-3	(C00+3)	[0000]	B	15	36
+1508	Empt	F	1315	Outpost	X565000-6	 	    Di (NIL)		025	Wild	G0 V	-3	(C00+1)	[0000]	B	15	12
+1900	Empt	F	1315	Outpost	X565000-6	 	    Di (NIL)		025	Wild	G0 V	-3	(C00+2)	[0000]	B	15	24
+
+1105	Empt	J	1326	Basimah	B435435-B	 	    Ni 		600	ImDa	M3 V M3 V	1	(634-1)	[2539]	B	8	-72
+1201	Empt	J	1326	Basimah	X435000-B	 	    Di 		000	ImDa	M3 V M3 V	-1	(600-2)	[0000]	B	8	-12
+1240	Empt	J	1326	Basimah	X435000-B	 	    Di 		000	Wild	M3 V M3 V	-1	(600-1)	[0000]	B	8	-6
+1508	Empt	J	1326	Basimah	X435000-B	 	    Di 		000	Wild	M3 V M3 V	-1	(600+1)	[0000]	B	8	6
+1900	Empt	J	1326	Basimah	X435000-B	 	    Di 		000	Wild	M3 V M3 V	-1	(600-3)	[0000]	B	8	-18
+
+1105	Empt	J	1328	Yogesh	A420599-C	 	  De He Ni Po 		214	ImDa	G4 IV	1	(C45+2)	[666D]	B	12	480
+1201	Empt	J	1328	Yogesh	X420000-C	 	  De He Di Po 		014	ImDa	G4 IV	-1	(C00+2)	[0000]	B	12	24
+1240	Empt	J	1328	Yogesh	X420000-C	 	  De He Di Po 		014	Wild	G4 IV	-1	(C00+2)	[0000]	B	12	24
+1508	Empt	J	1328	Yogesh	X420000-C	 	  De He Di Po 		014	Wild	G4 IV	-1	(C00-4)	[0000]	B	12	-48
+1900	Empt	J	1328	Yogesh	X420000-C	 	  De He Di Po 		014	Wild	G4 IV	-1	(C00+1)	[0000]	B	12	12
+
+1105	Empt	J	1329	Kharkhelud	C572674-7	 	   He Ni 		314	ImDa	G7 V M0 V	-2	(852-4)	[4435]	B	10	-320
+1201	Empt	J	1329	Kharkhelud	E572674-5	 	   He Ni 	B	414	ImDa	G7 V M0 V	-3	(853-2)	[5337]	B	10	-240
+1240	Empt	J	1329	Kharkhelud	E572000-5	 	   Di He 		014	Wild	G7 V M0 V	-3	(800-5)	[0000]	B	10	-40
+1508	Empt	J	1329	Kharkhelud	E572000-5	 	   Di He 		014	Wild	G7 V M0 V	-3	(800+4)	[0000]	B	10	32
+1900	Empt	J	1329	Kharkhelud	E572000-5	 	   Di He 		014	Wild	G7 V M0 V	-3	(800+3)	[0000]	B	10	24
+
+1105	Empt	N	1331	Gobi	A550643-C	 	  De Ni Po 		535	ImDa	G7 V M6 V	1	(G55-2)	[3729]	B	11	-800
+1201	Empt	N	1331	Gobi	X55066F-2	 	  De Ni Po 	B	435	ImDa	G7 V M6 V	-3	(850-1)	[4393]	B	11	-40
+1240	Empt	N	1331	Gobi	X550553-2	 	  De Ni Po 		235	Wild	G7 V M6 V	-3	(842+3)	[9261]	B	11	192
+1508	Empt	N	1331	Gobi	X550547-2	 	  De Ni Po 		335	Wild	G7 V M6 V	-3	(841-1)	[5281]	B	11	-32
+1900	Empt	N	1331	Gobi	X550556-4	 	  De Ni Po 		435	Wild	G7 V M6 V	-3	(840-1)	[4238]	B	11	-32
+
+1105	Empt	N	1332	Nakhukir	D540699-5	 	  De He Ni Po 		534	ImDa	K1 V	-3	(851-2)	[7366]	B	10	-80
+1201	Empt	N	1332	Nakhukir	X540647-5	 	  De He Ni Po 	B	634	ImDa	K1 V	-3	(850+1)	[6338]	B	10	40
+1240	Empt	N	1332	Nakhukir	X540677-0	 	  De He Ni Po 		334	Wild	K1 V	-3	(852+2)	[8343]	B	10	160
+1508	Empt	N	1332	Nakhukir	X54067A-0	 	  De He Ni Po 		234	Wild	K1 V	-3	(850+1)	[9353]	B	10	40
+1900	Empt	N	1332	Nakhukir	X540675-1	 	  De He Ni Po 		134	Wild	K1 V	-3	(853+2)	[5341]	B	10	240
+
+1105	Empt	N	1337	Ankheal	C430441-A	 	  De Ni Po 		620	ImDa	M1 V M8 V	0	(833-4)	[1416]	B	15	-288
+1201	Empt	N	1337	Ankheal	X430000-A	 	  De Di Po 		020	ImDa	M1 V M8 V	-1	(800+1)	[0000]	B	15	8
+1240	Empt	N	1337	Ankheal	X430000-A	 	  De Di Po 		020	Wild	M1 V M8 V	-1	(800-3)	[0000]	B	15	-24
+1508	Empt	N	1337	Ankheal	X430000-A	 	  De Di Po 		020	Wild	M1 V M8 V	-1	(800+3)	[0000]	B	15	24
+1900	Empt	N	1337	Ankheal	X430000-A	 	  De Di Po 		020	Wild	M1 V M8 V	-1	(800+5)	[0000]	B	15	40
+
+1105	Empt	B	1408	Taetha	C55068A-7	 	  De Ni Po 		223	JuRu	A9 V F5 V	-2	(852+1)	[8479]	B	11	80
+1201	Empt	B	1408	Taetha	X550686-4	 	  De Ni Po 		323	JuRu	A9 V F5 V	-3	(853-1)	[5389]	B	11	-120
+1240	Empt	B	1408	Taetha	X55069B-0	 	  De Ni Po 		123	Wild	A9 V F5 V	-3	(850-1)	[8351]	B	11	-40
+1508	Empt	B	1408	Taetha	X550521-1	 	  De Ni Po 		923	Wild	A9 V F5 V	-3	(840+1)	[6263]	B	11	32
+1900	Empt	B	1408	Taetha	X550576-2	 	  De Ni Po 		823	Wild	A9 V F5 V	-3	(843+1)	[6231]	B	11	96
+
+1105	Empt	F	1411	Tokitre	B550977-A	N 	  De Hi Po (NIL)		924	CsIm	K3 V	3	(H8D+3)	[9C5A]	BE	12	5304
+1201	Empt	F	1411	Tokitre	C55056B-3	 	  De Ni Po (NIL)	B	524	CsIm	K3 V	-2	(B40+2)	[2361]	B	12	88
+1240	Empt	F	1411	Tokitre	C550555-6	 	  De Ni Po (NIL)		224	Wild	K3 V	-2	(B42+4)	[1349]	B	12	352
+1508	Empt	F	1411	Tokitre	C550545-6	 	  De Ni Po (NIL)		124	Wild	K3 V	-2	(B44+1)	[1388]	B	12	176
+1900	Empt	F	1411	Tokitre	C550578-7	 	  De Ni Po (NIL)		224	Wild	K3 V	-2	(B42-2)	[534B]	B	12	-176
+
+1105	Empt	F	1413	Edi	E7A5201-8	 	   Fl Lo 		100	NaHu	M1 V M9 V	-3	(410-5)	[1114]	B	8	-20
+1201	Empt	F	1413	Edi	X7A5000-8	 	   Di Fl 		000	NaHu	M1 V M9 V	-3	(400+1)	[0000]	B	8	4
+1240	Empt	F	1413	Edi	X7A5000-8	 	   Di Fl 		000	Wild	M1 V M9 V	-3	(400+1)	[0000]	B	8	4
+1508	Empt	F	1413	Edi	X7A5000-8	 	   Di Fl 		000	Wild	M1 V M9 V	-3	(400+3)	[0000]	B	8	12
+1900	Empt	F	1413	Edi	X7A5000-8	 	   Di Fl 		000	Wild	M1 V M9 V	-3	(400+1)	[0000]	B	8	4
+
+1105	Empt	F	1415	Chikatra	B562888-9	 	   Ph Ri (NIL)		223	CsIm	G9 V	2	(F7B+2)	[8A59]	BCe	12	2310
+1201	Empt	F	1415	Chikatra	D56286E-6	 	   Ph Ri (NIL)		323	CsIm	G9 V	-1	(A75+1)	[A747]	BCe	12	350
+1240	Empt	F	1415	Chikatra	D56289D-3	 	   Ph Ri (NIL)		123	Wild	G9 V	-1	(A76-3)	[C761]	BCe	12	-1260
+1508	Empt	F	1415	Chikatra	D5628D8-6	 	   Ph Ri (NIL)		223	Wild	G9 V	-1	(A75+5)	[8767]	BCe	12	1750
+1900	Empt	F	1415	Chikatra	D56288A-5	 	   Ph Ri (NIL)		323	Wild	G9 V	-1	(A77+3)	[9784]	BCe	12	1470
+
+1105	Empt	J	1427	Riamlir	B7678BB-6	 	  Ga Pa Ri Ph (NIL)	A	912	ImDa	K3 V M3 V	1	(A78+3)	[A978]	BcCe	12	1680
+1201	Empt	J	1427	Riamlir	D767976-4	 	  Ga Hi Pr (NIL)	B	112	ImDa	K3 V M3 V	-1	(A89+1)	[6824]	BcE	12	720
+1240	Empt	J	1427	Riamlir	D767879-0	 	  Ga Pa Ri Ph (NIL)		512	Wild	K3 V M3 V	-1	(A7B+1)	[A711]	BcCe	12	770
+1508	Empt	J	1427	Riamlir	D767877-1	 	  Ga Pa Ri Ph (NIL)		612	Wild	K3 V M3 V	-1	(A73+1)	[9781]	BcCe	12	210
+1900	Empt	J	1427	Riamlir	D767851-3	 	  Ga Pa Ri Ph (NIL)		712	Wild	K3 V M3 V	-1	(A79-2)	[9781]	BcCe	12	-1260
+
+1105	Empt	J	1429	Coman	C549201-9	S	    Lo 		722	ImDa	G6 V M7 V	-1	(810-5)	[1115]	B	11	-40
+1201	Empt	J	1429	Coman	E549127-3	 	    Lo 		222	ImDa	G6 V M7 V	-3	(400-2)	[3163]	B	11	-8
+1240	Empt	J	1429	Coman	E549000-3	 	    Di 		022	Wild	G6 V M7 V	-3	(400+2)	[0000]	B	11	8
+1508	Empt	J	1429	Coman	E549000-3	 	    Di 		022	Wild	G6 V M7 V	-3	(400+1)	[0000]	B	11	4
+1900	Empt	J	1429	Coman	E549000-3	 	    Di 		022	Wild	G6 V M7 V	-3	(400-2)	[0000]	B	11	-8
+
+1105	Empt	J	1430	Sibikliir	E544514-5	 	   Ag Ni 		323	ImDa	F4 V	-2	(742-4)	[3333]	BC	8	-224
+1201	Empt	J	1430	Sibikliir	X544545-3	 	   Ag Ni 		223	ImDa	F4 V	-2	(740+1)	[3343]	BC	8	28
+1240	Empt	J	1430	Sibikliir	X544000-3	 	    Di 		023	Wild	F4 V	-3	(700-1)	[0000]	B	8	-7
+1508	Empt	J	1430	Sibikliir	X544000-3	 	    Di 		023	Wild	F4 V	-3	(700-2)	[0000]	B	8	-14
+1900	Empt	J	1430	Sibikliir	X544000-3	 	    Di 		023	Wild	F4 V	-3	(700+1)	[0000]	B	8	7
+
+1105	Empt	N	1431	Gimushi	DA86968-8	 	  Hi Mr Pr (NIL)		434	ImDa	M3 V	-1	(J88-1)	[9858]	BcE	13	-1152
+1201	Empt	N	1431	Gimushi	XA86200-4	 	   Lo Mr (NIL)	B	134	ImDa	M3 V	-3	(B10-1)	[1195]	B	13	-11
+1240	Empt	N	1431	Gimushi	XA86000-4	 	   Di Mr (NIL)		034	Wild	M3 V	-3	(B00+3)	[0000]	B	13	33
+1508	Empt	N	1431	Gimushi	XA86000-4	 	   Di Mr (NIL)		034	Wild	M3 V	-3	(B00+1)	[0000]	B	13	11
+1900	Empt	N	1431	Gimushi	XA86000-4	 	   Di Mr (NIL)		034	Wild	M3 V	-3	(B00-1)	[0000]	B	13	-11
+
+1105	Empt	N	1436	Kenrasda	B540895-8	 	  De He Ph Pi Po (NIL)		624	ImDa	M2 V	0	(G78-2)	[6836]	BDe	12	-1792
+1201	Empt	N	1436	Kenrasda	D540203-5	 	  De He Lo Po (NIL)		224	ImDa	M2 V	-3	(A10-2)	[5165]	B	12	-20
+1240	Empt	N	1436	Kenrasda	D540000-5	 	  De He Di Po (NIL)		024	Wild	M2 V	-3	(A00+1)	[0000]	B	12	10
+1508	Empt	N	1436	Kenrasda	D540000-5	 	  De He Di Po (NIL)		024	Wild	M2 V	-3	(A00+1)	[0000]	B	12	10
+1900	Empt	N	1436	Kenrasda	D540000-5	 	  De He Di Po (NIL)		024	Wild	M2 V	-3	(A00-3)	[0000]	B	12	-30
+
+1105	Empt	B	1501	Aenalla	B200353-9	 	   Lo Va 		623	NaVa	K2 V K9 V	0	(A20-3)	[1326]	B	14	-60
+1201	Empt	B	1501	Aenalla	X200000-9	 	   Di Va 		023	NaVa	K2 V K9 V	-2	(A00-1)	[0000]	B	14	-10
+1240	Empt	B	1501	Aenalla	X200000-9	 	   Di Va 		023	Wild	K2 V K9 V	-2	(A00+1)	[0000]	B	14	10
+1508	Empt	B	1501	Aenalla	X200000-9	 	   Di Va 		023	Wild	K2 V K9 V	-2	(A00-5)	[0000]	B	14	-50
+1900	Empt	B	1501	Aenalla	X200000-9	 	   Di Va 		023	Wild	K2 V K9 V	-2	(A00-5)	[0000]	B	14	-50
+
+1105	Empt	B	1510	Odzagh	C7C137B-9	 	   Fl He Lo 		423	NaVa	K8 V	-1	(A20+1)	[527B]	B	13	20
+1201	Empt	B	1510	Odzagh	X7C1000-9	 	   Di Fl He 		023	NaVa	K8 V	-2	(A00-2)	[0000]	B	13	-20
+1240	Empt	B	1510	Odzagh	X7C1000-9	 	   Di Fl He 		023	Wild	K8 V	-2	(A00+4)	[0000]	B	13	40
+1508	Empt	B	1510	Odzagh	X7C1000-9	 	   Di Fl He 		023	Wild	K8 V	-2	(A00+2)	[0000]	B	13	20
+1900	Empt	B	1510	Odzagh	X7C1000-9	 	   Di Fl He 		023	Wild	K8 V	-2	(A00-1)	[0000]	B	13	-10
+
+1105	Empt	F	1515	En Passante	E420415-7	 	  De He Ni Po 		923	NaHu	M2 V M9 V	-3	(631-5)	[2135]	B	10	-90
+1201	Empt	F	1515	En Passante	X420000-7	 	  De He Di Po 		023	NaHu	M2 V M9 V	-3	(600+2)	[0000]	B	10	12
+1240	Empt	F	1515	En Passante	X420000-7	 	  De He Di Po 		023	Wild	M2 V M9 V	-3	(600-1)	[0000]	B	10	-6
+1508	Empt	F	1515	En Passante	X420000-7	 	  De He Di Po 		023	Wild	M2 V M9 V	-3	(600-3)	[0000]	B	10	-18
+1900	Empt	F	1515	En Passante	X420000-7	 	  De He Di Po 		023	Wild	M2 V M9 V	-3	(600-3)	[0000]	B	10	-18
+
+1105	Empt	F	1520	Bravo	C96789A-6	 	   Pa Ri Ph (NIL)		224	NaHu	G8 V M6 V	0	(A77+2)	[A878]	BcCe	14	980
+1201	Empt	F	1520	Bravo	E967849-6	 	   Pa Ri Ph (NIL)	B	324	NaHu	G8 V M6 V	-1	(A79-3)	[8736]	BcCe	14	-1890
+1240	Empt	F	1520	Bravo	E967843-2	 	   Pa Ri Ph (NIL)		124	Wild	G8 V M6 V	-1	(A78-1)	[7733]	BcCe	14	-560
+1508	Empt	F	1520	Bravo	E967773-3	 	    Ag Ri (NIL)		924	Wild	G8 V M6 V	0	(A65+1)	[4731]	BC	14	300
+1900	Empt	F	1520	Bravo	E967842-4	 	   Pa Ri Ph (NIL)		124	Wild	G8 V M6 V	-1	(A74-1)	[9785]	BcCe	14	-280
+
+1105	Empt	J	1527	Dumkashga	A7577CF-9	 	   Ag Ga (NIL)	A	733	ImDa	K7 V	2	(F6B+5)	[C9AE]	BC	9	4950
+1201	Empt	J	1527	Dumkashga	C757789-5	 	   Ag Ga (NIL)	B	733	ImDa	K7 V	0	(96A-1)	[B757]	BC	9	-540
+1240	Empt	J	1527	Dumkashga	C757758-4	 	   Ag Ga (NIL)		333	Wild	K7 V	0	(967+5)	[8754]	BC	9	1890
+1508	Empt	J	1527	Dumkashga	C7577BA-4	 	   Ag Ga (NIL)		233	Wild	K7 V	0	(968+3)	[A743]	BC	9	1296
+1900	Empt	J	1527	Dumkashga	C757789-5	 	   Ag Ga (NIL)		333	Wild	K7 V	0	(967+2)	[7783]	BC	9	756
+
+1105	Empt	J	1529	Kasim	B100220-C	 	   Lo Va 		224	ImDa	K7 V	1	(A11-3)	[1317]	B	13	-30
+1201	Empt	J	1529	Kasim	X100000-C	 	   Di Va 		024	ImDa	K7 V	-1	(A00+1)	[0000]	B	13	10
+1240	Empt	J	1529	Kasim	X100000-C	 	   Di Va 		024	Wild	K7 V	-1	(A00+4)	[0000]	B	13	40
+1508	Empt	J	1529	Kasim	X100000-C	 	   Di Va 		024	Wild	K7 V	-1	(A00-2)	[0000]	B	13	-20
+1900	Empt	J	1529	Kasim	X100000-C	 	   Di Va 		024	Wild	K7 V	-1	(A00-1)	[0000]	B	13	-10
+
+1105	Empt	J	1530	Muna	E439230-6	 	    Lo 		424	ImDa	M1 V	-3	(410-5)	[1111]	B	10	-20
+1201	Empt	J	1530	Muna	X439000-6	 	    Di 		024	ImDa	M1 V	-3	(400-1)	[0000]	B	10	-4
+1240	Empt	J	1530	Muna	X439000-6	 	    Di 		024	Wild	M1 V	-3	(400+1)	[0000]	B	10	4
+1508	Empt	J	1530	Muna	X439000-6	 	    Di 		024	Wild	M1 V	-3	(400-2)	[0000]	B	10	-8
+1900	Empt	J	1530	Muna	X439000-6	 	    Di 		024	Wild	M1 V	-3	(400+1)	[0000]	B	10	4
+
+1105	Empt	N	1531	Nuri	C547211-6	 	    Lo 		933	ImDa	G6 V M6 V	-2	(410-5)	[1112]	B	14	-20
+1201	Empt	N	1531	Nuri	E547112-4	 	    Lo 		433	ImDa	G6 V M6 V	-3	(400-1)	[3164]	B	14	-4
+1240	Empt	N	1531	Nuri	E547000-4	 	    Di 		033	Wild	G6 V M6 V	-3	(400-3)	[0000]	B	14	-12
+1508	Empt	N	1531	Nuri	E547000-4	 	    Di 		033	Wild	G6 V M6 V	-3	(400-2)	[0000]	B	14	-8
+1900	Empt	N	1531	Nuri	E547000-4	 	    Di 		033	Wild	G6 V M6 V	-3	(400+1)	[0000]	B	14	4
+
+1105	Empt	N	1533	Mihirkiran	B536311-B	S	    Lo 		113	ImDa	M2 V	1	(921-3)	[1417]	B	7	-54
+1201	Empt	N	1533	Mihirkiran	X536000-B	 	    Di 		013	ImDa	M2 V	-1	(900-1)	[0000]	B	7	-9
+1240	Empt	N	1533	Mihirkiran	X536000-B	 	    Di 		013	Wild	M2 V	-1	(900+1)	[0000]	B	7	9
+1508	Empt	N	1533	Mihirkiran	X536000-B	 	    Di 		013	Wild	M2 V	-1	(900-2)	[0000]	B	7	-18
+1900	Empt	N	1533	Mihirkiran	X536000-B	 	    Di 		013	Wild	M2 V	-1	(900+1)	[0000]	B	7	9
+
+1105	Empt	N	1537	Pamushgar	C5409BB-A	 	  De He Hi In Po (NIL)	A	834	ImDa	G0 V	3	(J8D+5)	[BC7C]	BE	11	9360
+1201	Empt	N	1537	Pamushgar	X540101-3	 	  De He Lo Po (NIL)		534	ImDa	G0 V	-3	(B00+1)	[2161]	B	11	11
+1240	Empt	N	1537	Pamushgar	X540000-3	 	  De He Di Po (NIL)		034	Wild	G0 V	-3	(B00-1)	[0000]	B	11	-11
+1508	Empt	N	1537	Pamushgar	X540000-3	 	  De He Di Po (NIL)		034	Wild	G0 V	-3	(B00+1)	[0000]	B	11	11
+1900	Empt	N	1537	Pamushgar	X540000-3	 	  De He Di Po (NIL)		034	Wild	G0 V	-3	(B00+1)	[0000]	B	11	11
+
+1105	Empt	N	1539	Janardan	E545200-8	 	    Lo 		823	ImDa	G7 V M3 V	-3	(910-5)	[1113]	B	9	-45
+1201	Empt	N	1539	Janardan	X545102-5	 	    Lo 		123	ImDa	G7 V M3 V	-3	(400+1)	[1144]	B	9	4
+1240	Empt	N	1539	Janardan	X545000-5	 	    Di 		023	Wild	G7 V M3 V	-3	(400+1)	[0000]	B	9	4
+1508	Empt	N	1539	Janardan	X545000-5	 	    Di 		023	Wild	G7 V M3 V	-3	(400+1)	[0000]	B	9	4
+1900	Empt	N	1539	Janardan	X545000-5	 	    Di 		023	Wild	G7 V M3 V	-3	(400-1)	[0000]	B	9	-4
+
+1105	Empt	N	1540	Aandii	B5A05AA-A	 	   He Ni 	A	612	ImDa	M2 V	1	(A45+3)	[767C]	B	12	600
+1201	Empt	N	1540	Aandii	X5A0000-A	 	   Di He 		012	ImDa	M2 V	-1	(A00+2)	[0000]	B	12	20
+1240	Empt	N	1540	Aandii	X5A0000-A	 	   Di He 		012	Wild	M2 V	-1	(A00+3)	[0000]	B	12	30
+1508	Empt	N	1540	Aandii	X5A0000-A	 	   Di He 		012	Wild	M2 V	-1	(A00+2)	[0000]	B	12	20
+1900	Empt	N	1540	Aandii	X5A0000-A	 	   Di He 		012	Wild	M2 V	-1	(A00-5)	[0000]	B	12	-50
+
+1105	Empt	B	1601	Aelraek	E530200-7	 	  De Lo Po 		602	NaVa	F3 V K2 V	-3	(410-5)	[1112]	B	5	-20
+1201	Empt	B	1601	Aelraek	X530000-7	 	  De Di Po 		002	NaVa	F3 V K2 V	-3	(400+1)	[0000]	B	5	4
+1240	Empt	B	1601	Aelraek	X530000-7	 	  De Di Po 		002	Wild	F3 V K2 V	-3	(400+2)	[0000]	B	5	8
+1508	Empt	B	1601	Aelraek	X530000-7	 	  De Di Po 		002	Wild	F3 V K2 V	-3	(400+1)	[0000]	B	5	4
+1900	Empt	B	1601	Aelraek	X530000-7	 	  De Di Po 		002	Wild	F3 V K2 V	-3	(400-1)	[0000]	B	5	-4
+
+1105	Empt	B	1602	Kaethkfang	A77657B-A	 	   Ag Ni 		102	NaVa	G4 V G6 V	2	(946+4)	[777C]	BC	11	864
+1201	Empt	B	1602	Kaethkfang	C776402-8	 	   Ni Pa 		602	NaVa	G4 V G6 V	-2	(930-1)	[329A]	Bc	11	-27
+1240	Empt	B	1602	Kaethkfang	D776000-8	 	    Di 		002	Wild	G4 V G6 V	-3	(900-3)	[0000]	B	11	-27
+1508	Empt	B	1602	Kaethkfang	D776000-8	 	    Di 		002	Wild	G4 V G6 V	-3	(900+3)	[0000]	B	11	27
+1900	Empt	B	1602	Kaethkfang	D776000-8	 	    Di 		002	Wild	G4 V G6 V	-3	(900+3)	[0000]	B	11	27
+
+1105	Empt	B	1608	Unang	B520469-9	 	 De He Mr Ni Po 		200	NaVa	G8 V	1	(634+2)	[556A]	B	11	144
+1201	Empt	B	1608	Unang	X520000-9	 	 De He Di Mr Po 		000	NaVa	G8 V	-2	(600+2)	[0000]	B	11	12
+1240	Empt	B	1608	Unang	X520000-9	 	 De He Di Mr Po 		000	Wild	G8 V	-2	(600+2)	[0000]	B	11	12
+1508	Empt	B	1608	Unang	X520000-9	 	 De He Di Mr Po 		000	Wild	G8 V	-2	(600+3)	[0000]	B	11	18
+1900	Empt	B	1608	Unang	X520000-9	 	 De He Di Mr Po 		000	Wild	G8 V	-2	(600-1)	[0000]	B	11	-6
+
+1105	Empt	B	1609	Mikhail	CAC4354-9	 	   Fl Lo 		834	CsIm	M5 V M9 V	-1	(C20-3)	[1237]	B	17	-72
+1201	Empt	B	1609	Mikhail	XAC4000-9	 	   Di Fl 		034	CsIm	M5 V M9 V	-2	(C00+1)	[0000]	B	17	12
+1240	Empt	B	1609	Mikhail	XAC4000-9	 	   Di Fl 		034	Wild	M5 V M9 V	-2	(C00+2)	[0000]	B	17	24
+1508	Empt	B	1609	Mikhail	XAC4000-9	 	   Di Fl 		034	Wild	M5 V M9 V	-2	(C00+1)	[0000]	B	17	12
+1900	Empt	B	1609	Mikhail	XAC4000-9	 	   Di Fl 		034	Wild	M5 V M9 V	-2	(C00-1)	[0000]	B	17	-12
+
+1105	Empt	F	1611	Libertad	D540596-7	 	  De He Ni Po 		822	CsIm	F4 V K5 V	-3	(741-4)	[4246]	B	14	-112
+1201	Empt	F	1611	Libertad	E540558-4	 	  De He Ni Po 	B	522	CsIm	F4 V K5 V	-3	(740+4)	[7232]	B	14	112
+1240	Empt	F	1611	Libertad	E540430-5	 	  De He Ni Po 		222	Wild	F4 V K5 V	-3	(732+1)	[1181]	B	14	42
+1508	Empt	F	1611	Libertad	E540400-7	 	  De He Ni Po 		122	Wild	F4 V K5 V	-3	(730-1)	[1165]	B	14	-21
+1900	Empt	F	1611	Libertad	E540488-7	 	  De He Ni Po 		222	Wild	F4 V K5 V	-3	(733-1)	[5157]	B	14	-63
+
+1105	Empt	F	1616	Bishop	D597747-5	 	    Ag Pi (NIL)		124	NaHu	G1 V	-1	(966-1)	[7655]	BCD	15	-324
+1201	Empt	F	1616	Bishop	X597796-4	 	    Ag Pi (NIL)		224	NaHu	G1 V	-1	(968+1)	[8611]	BCD	15	432
+1240	Empt	F	1616	Bishop	X597000-4	 	   Di Pi (NIL)		024	Wild	G1 V	-3	(900+2)	[0000]	BD	15	18
+1508	Empt	F	1616	Bishop	X597000-4	 	    Di (NIL)		024	Wild	G1 V	-3	(900+3)	[0000]	B	15	27
+1900	Empt	F	1616	Bishop	X597000-4	 	    Di (NIL)		024	Wild	G1 V	-3	(900-1)	[0000]	B	15	-9
+
+1105	Empt	F	1619	Corsabren	A000379-B	 	   As Va Lo 		600	NaHu	M7 V	1	(521+2)	[446C]	B	8	20
+1201	Empt	F	1619	Corsabren	X000000-B	 	   As Va Di 		000	NaHu	M7 V	-1	(500+5)	[0000]	B	8	25
+1240	Empt	F	1619	Corsabren	X000000-B	 	   As Va Di 		000	Wild	M7 V	-1	(500+2)	[0000]	B	8	10
+1508	Empt	F	1619	Corsabren	X000000-B	 	   As Va Di 		000	Wild	M7 V	-1	(500+1)	[0000]	B	8	5
+1900	Empt	F	1619	Corsabren	X000000-B	 	   As Va Di 		000	Wild	M7 V	-1	(500+3)	[0000]	B	8	15
+
+1105	Empt	N	1631	Anata	B202525-C	N 	   Ic Va Ni 		923	ImDa	M0 III G3 V	1	(C45-1)	[363A]	B	13	-240
+1201	Empt	N	1631	Anata	X202000-C	 	   Di Ic Va 		023	ImDa	M0 III G3 V	-1	(C00-2)	[0000]	B	13	-24
+1240	Empt	N	1631	Anata	X202000-C	 	   Di Ic Va 		023	Wild	M0 III G3 V	-1	(C00-4)	[0000]	B	13	-48
+1508	Empt	N	1631	Anata	X202000-C	 	   Di Ic Va 		023	Wild	M0 III G3 V	-1	(C00+1)	[0000]	B	13	12
+1900	Empt	N	1631	Anata	X202000-C	 	   Di Ic Va 		023	Wild	M0 III G3 V	-1	(C00-1)	[0000]	B	13	-12
+
+1105	Empt	N	1633	Mordekai	C98A488-7	 	   Ni Wa 		922	ImDa	G5 V M2 V	-2	(631-2)	[4257]	B	11	-36
+1201	Empt	N	1633	Mordekai	E98A452-6	 	   Ni Wa 		522	ImDa	G5 V M2 V	-3	(631+2)	[7137]	B	11	36
+1240	Empt	N	1633	Mordekai	E98A430-3	 	   Ni Wa 		222	Wild	G5 V M2 V	-3	(630+1)	[21A3]	B	11	18
+1508	Empt	N	1633	Mordekai	E98A486-4	 	   Ni Wa 		122	Wild	G5 V M2 V	-3	(633-1)	[9111]	B	11	-54
+1900	Empt	N	1633	Mordekai	E98A430-5	 	   Ni Wa 		222	Wild	G5 V M2 V	-3	(633-2)	[2156]	B	11	-108
+
+1105	Empt	N	1635	Gasadim	B310879-7	 	   Na Pi Ph 		424	ImDa	G4 V M3 V	0	(A78+1)	[9868]	BDe	14	560
+1201	Empt	N	1635	Gasadim	X310000-7	 	   Di Na Pi 		024	ImDa	G4 V M3 V	-3	(A00-5)	[0000]	BD	14	-50
+1240	Empt	N	1635	Gasadim	X310000-7	 	   Di Na Pi 		024	Wild	G4 V M3 V	-3	(A00-3)	[0000]	BD	14	-30
+1508	Empt	N	1635	Gasadim	X310000-7	 	    Di 		024	Wild	G4 V M3 V	-3	(A00-4)	[0000]	B	14	-40
+1900	Empt	N	1635	Gasadim	X310000-7	 	    Di 		024	Wild	G4 V M3 V	-3	(A00+1)	[0000]	B	14	10
+
+1105	Empt	C	1704	Ssilnthis	C767A77-A	 	   Ga Hi (NIL)		323	NaVa	K7 V	2	(H9C+2)	[AC5A]	BE	14	3672
+1201	Empt	C	1704	Ssilnthis	D767445-6	 	  Ga Ni Pa (NIL)		223	NaVa	K7 V	-3	(C31+1)	[1163]	Bc	14	36
+1240	Empt	C	1704	Ssilnthis	D767000-6	 	   Di Ga (NIL)		023	Wild	K7 V	-3	(C00-3)	[0000]	B	14	-36
+1508	Empt	C	1704	Ssilnthis	D767000-6	 	   Di Ga (NIL)		023	Wild	K7 V	-3	(C00+1)	[0000]	B	14	12
+1900	Empt	C	1704	Ssilnthis	D767000-6	 	   Di Ga (NIL)		023	Wild	K7 V	-3	(C00-1)	[0000]	B	14	-12
+
+1105	Empt	K	1726	Neelamani	A438259-D	N 	    Lo 		603	ImDa	M1 V	1	(711+2)	[336E]	B	9	14
+1201	Empt	K	1726	Neelamani	X438000-D	 	    Di 		003	ImDa	M1 V	-1	(700+3)	[0000]	B	9	21
+1240	Empt	K	1726	Neelamani	X438000-D	 	    Di 		003	Wild	M1 V	-1	(700+3)	[0000]	B	9	21
+1508	Empt	K	1726	Neelamani	X438000-D	 	    Di 		003	Wild	M1 V	-1	(700+1)	[0000]	B	9	7
+1900	Empt	K	1726	Neelamani	X438000-D	 	    Di 		003	Wild	M1 V	-1	(700-1)	[0000]	B	9	-7
+
+1105	Empt	K	1728	Mugama	E5539AB-4	 	   Hi Po (NIL)	A	221	ImDa	G1 V	-1	(B86+1)	[B876]	BE	11	528
+1201	Empt	K	1728	Mugama	X55386B-1	 	   Ph Po (NIL)	B	321	ImDa	G1 V	-2	(B74-1)	[5624]	Be	11	-308
+1240	Empt	K	1728	Mugama	X553851-0	 	   Ph Po (NIL)		121	Wild	G1 V	-2	(B78+4)	[D651]	Be	11	2464
+1508	Empt	K	1728	Mugama	X55377C-0	 	    Po (NIL)		921	Wild	G1 V	-2	(B61+1)	[4523]	B	11	66
+1900	Empt	K	1728	Mugama	X5537BA-0	 	    Po (NIL)		821	Wild	G1 V	-2	(B6A+1)	[8541]	B	11	660
+
+1105	Empt	K	1729	Hemant	BA97212-B	 	    Lo 		414	ImDa	M0 V M6 V M3 V M7 V	1	(911-3)	[1317]	B	12	-27
+1201	Empt	K	1729	Hemant	XA97205-3	 	    Lo 	B	814	ImDa	M0 V M6 V M3 V M7 V	-3	(410+1)	[7171]	B	12	4
+1240	Empt	K	1729	Hemant	XA97000-3	 	    Di 		014	Wild	M0 V M6 V M3 V M7 V	-3	(400+2)	[0000]	B	12	8
+1508	Empt	K	1729	Hemant	XA97000-3	 	    Di 		014	Wild	M0 V M6 V M3 V M7 V	-3	(400+1)	[0000]	B	12	4
+1900	Empt	K	1729	Hemant	XA97000-3	 	    Di 		014	Wild	M0 V M6 V M3 V M7 V	-3	(400-2)	[0000]	B	12	-8
+
+1105	Empt	K	1730	Miigaki	D5796BD-5	 	    Ni 	A	622	ImDa	M1 V	-3	(851+1)	[A399]	B	9	40
+1201	Empt	K	1730	Miigaki	X579675-5	 	    Ni 		722	ImDa	M1 V	-3	(850+2)	[6361]	B	9	80
+1240	Empt	K	1730	Miigaki	X579000-5	 	    Di 		022	Wild	M1 V	-3	(800-2)	[0000]	B	9	-16
+1508	Empt	K	1730	Miigaki	X579000-5	 	    Di 		022	Wild	M1 V	-3	(800-1)	[0000]	B	9	-8
+1900	Empt	K	1730	Miigaki	X579000-5	 	    Di 		022	Wild	M1 V	-3	(800+1)	[0000]	B	9	8
+
+1105	Empt	O	1731	Aleshanee	B402463-B	 	  Ic Va Mr Ni 		714	ImDa	K4 V M8 V	1	(B34-2)	[1528]	B	10	-264
+1201	Empt	O	1731	Aleshanee	X402000-B	 	  Di Ic Va Mr 		014	ImDa	K4 V M8 V	-1	(B00+2)	[0000]	B	10	22
+1240	Empt	O	1731	Aleshanee	X402000-B	 	  Di Ic Va Mr 		014	Wild	K4 V M8 V	-1	(B00+3)	[0000]	B	10	33
+1508	Empt	O	1731	Aleshanee	X402000-B	 	  Di Ic Va Mr 		014	Wild	K4 V M8 V	-1	(B00+1)	[0000]	B	10	11
+1900	Empt	O	1731	Aleshanee	X402000-B	 	  Di Ic Va Mr 		014	Wild	K4 V M8 V	-1	(B00+1)	[0000]	B	10	11
+
+1105	Empt	O	1733	Kirluan	C552756-8	 	    Po (NIL)		623	ImDa	K5 V	-1	(E67-2)	[6647]	B	16	-1176
+1201	Empt	O	1733	Kirluan	E55277A-7	 	    Po (NIL)	B	723	ImDa	K5 V	-2	(967-3)	[757B]	B	16	-1134
+1240	Empt	O	1733	Kirluan	E552775-3	 	    Po (NIL)		323	Wild	K5 V	-2	(965+1)	[B577]	B	16	270
+1508	Empt	O	1733	Kirluan	E552753-5	 	    Po (NIL)		323	Wild	K5 V	-2	(963-2)	[5574]	B	16	-324
+1900	Empt	O	1733	Kirluan	E552776-5	 	    Po (NIL)		223	Wild	K5 V	-2	(963+4)	[C576]	B	16	648
+
+1105	Empt	O	1734	Dyani	E311445-8	 	   Ic Ni 		334	ImDa	M0 V	-3	(D31-5)	[2136]	B	11	-195
+1201	Empt	O	1734	Dyani	X311000-8	 	   Di Ic 		034	ImDa	M0 V	-3	(D00+4)	[0000]	B	11	52
+1240	Empt	O	1734	Dyani	X311000-8	 	   Di Ic 		034	Wild	M0 V	-3	(D00+3)	[0000]	B	11	39
+1508	Empt	O	1734	Dyani	X311000-8	 	   Di Ic 		034	Wild	M0 V	-3	(D00+1)	[0000]	B	11	13
+1900	Empt	O	1734	Dyani	X311000-8	 	   Di Ic 		034	Wild	M0 V	-3	(D00-4)	[0000]	B	11	-52
+
+1105	Empt	O	1737	Takoda	C311533-9	 	   Ic Ni 		124	ImDa	M9 III K7 V	-1	(D43-4)	[2426]	B	14	-624
+1201	Empt	O	1737	Takoda	X311000-9	 	   Di Ic 		024	ImDa	M9 III K7 V	-2	(D00-3)	[0000]	B	14	-39
+1240	Empt	O	1737	Takoda	X311000-9	 	   Di Ic 		024	Wild	M9 III K7 V	-2	(D00-1)	[0000]	B	14	-13
+1508	Empt	O	1737	Takoda	X311000-9	 	   Di Ic 		024	Wild	M9 III K7 V	-2	(D00-1)	[0000]	B	14	-13
+1900	Empt	O	1737	Takoda	X311000-9	 	   Di Ic 		024	Wild	M9 III K7 V	-2	(D00+5)	[0000]	B	14	65
+
+1105	Empt	O	1738	Lakea	A202623-D	 	  Ic Va Na Ni 		724	ImDa	M0 V	1	(E55-2)	[372A]	B	12	-700
+1201	Empt	O	1738	Lakea	X202000-D	 	  Di Ic Va Na 		024	ImDa	M0 V	-1	(E00+4)	[0000]	B	12	56
+1240	Empt	O	1738	Lakea	X202000-D	 	  Di Ic Va Na 		024	Wild	M0 V	-1	(E00+4)	[0000]	B	12	56
+1508	Empt	O	1738	Lakea	X202000-D	 	   Di Ic Va 		024	Wild	M0 V	-1	(E00+2)	[0000]	B	12	28
+1900	Empt	O	1738	Lakea	X202000-D	 	   Di Ic Va 		024	Wild	M0 V	-1	(E00+3)	[0000]	B	12	42
+
+1105	Empt	C	1803	Rrekoth	C86A755-6	 	   Ri Wa (NIL)		102	NaVa	G8 V	0	(967-2)	[5734]	BC	8	-756
+1201	Empt	C	1803	Rrekoth	E86A756-6	 	   Ri Wa (NIL)		202	NaVa	G8 V	-1	(964+2)	[7631]	BC	8	432
+1240	Empt	C	1803	Rrekoth	E86A7AC-1	 	   Ri Wa (NIL)		102	Wild	G8 V	-1	(966-2)	[6651]	BC	8	-648
+1508	Empt	C	1803	Rrekoth	E86A657-3	 	  Ni Ri Wa (NIL)		902	Wild	G8 V	-2	(954+2)	[9471]	BC	8	360
+1900	Empt	C	1803	Rrekoth	E86A745-3	 	   Ri Wa (NIL)		102	Wild	G8 V	-1	(965-2)	[8634]	BC	8	-540
+
+1105	Empt	C	1804	Aghets	B8B3511-8	 	   Fl Ni 		514	NaVa	G7 V	-1	(C43-5)	[1414]	B	11	-720
+1201	Empt	C	1804	Aghets	X8B3000-8	 	   Di Fl 		014	NaVa	G7 V	-3	(C00+2)	[0000]	B	11	24
+1240	Empt	C	1804	Aghets	X8B3000-8	 	   Di Fl 		014	Wild	G7 V	-3	(C00-1)	[0000]	B	11	-12
+1508	Empt	C	1804	Aghets	X8B3000-8	 	   Di Fl 		014	Wild	G7 V	-3	(C00-3)	[0000]	B	11	-36
+1900	Empt	C	1804	Aghets	X8B3000-8	 	   Di Fl 		014	Wild	G7 V	-3	(C00-2)	[0000]	B	11	-24
+
+1105	Empt	C	1809	Aellon	C410122-9	 	    Lo 		923	NaVa	F5 IV	-1	(800-5)	[1115]	B	11	-40
+1201	Empt	C	1809	Aellon	X410000-9	 	    Di 		023	NaVa	F5 IV	-2	(800+3)	[0000]	B	11	24
+1240	Empt	C	1809	Aellon	X410000-9	 	    Di 		023	Wild	F5 IV	-2	(800+5)	[0000]	B	11	40
+1508	Empt	C	1809	Aellon	X410000-9	 	    Di 		023	Wild	F5 IV	-2	(800-3)	[0000]	B	11	-24
+1900	Empt	C	1809	Aellon	X410000-9	 	    Di 		023	Wild	F5 IV	-2	(800+2)	[0000]	B	11	16
+
+1105	Empt	C	1810	Maarluan	C541331-9	 	  He Lo Po 		434	NaHu	G5 V	-1	(C20-5)	[1215]	B	15	-120
+1201	Empt	C	1810	Maarluan	X541343-6	 	  He Lo Po 		134	NaHu	G5 V	-3	(520+2)	[1136]	B	15	20
+1240	Empt	C	1810	Maarluan	X541000-6	 	  Di He Po 		034	Wild	G5 V	-3	(500-3)	[0000]	B	15	-15
+1508	Empt	C	1810	Maarluan	X541000-6	 	  Di He Po 		034	Wild	G5 V	-3	(500+3)	[0000]	B	15	15
+1900	Empt	C	1810	Maarluan	X541000-6	 	  Di He Po 		034	Wild	G5 V	-3	(500+5)	[0000]	B	15	25
+
+1105	Empt	G	1811	Khinisdaa	C553673-8	 	   Ni Po 		904	CsIm	G5 V	-2	(C52-5)	[3425]	B	7	-600
+1201	Empt	G	1811	Khinisdaa	D553737-7	 	    Po 		104	CsIm	G5 V	-2	(860+1)	[852B]	B	7	48
+1240	Empt	G	1811	Khinisdaa	D5536B8-4	 	   Ni Po 		504	Wild	G5 V	-3	(853-3)	[7351]	B	7	-360
+1508	Empt	G	1811	Khinisdaa	D553653-6	 	   Ni Po 		404	Wild	G5 V	-3	(851-1)	[6344]	B	7	-40
+1900	Empt	G	1811	Khinisdaa	D5536A9-6	 	   Ni Po 		304	Wild	G5 V	-3	(850+1)	[6366]	B	7	40
+
+1105	Empt	G	1816	Sangre	B300454-D	 	   Ni Va 		722	NaHu	M9 V D	1	(A34-1)	[253B]	B	12	-120
+1201	Empt	G	1816	Sangre	X300000-D	 	   Di Va 		022	NaHu	M9 V D	-1	(A00+1)	[0000]	B	12	10
+1240	Empt	G	1816	Sangre	X300000-D	 	   Di Va 		022	Wild	M9 V D	-1	(A00-5)	[0000]	B	12	-50
+1508	Empt	G	1816	Sangre	X300000-D	 	   Di Va 		022	Wild	M9 V D	-1	(A00+1)	[0000]	B	12	10
+1900	Empt	G	1816	Sangre	X300000-D	 	   Di Va 		022	Wild	M9 V D	-1	(A00+1)	[0000]	B	12	10
+
+1105	Empt	K	1826	Jansing	E430210-8	 	  De Lo Po 		922	ImDa	M0 V	-3	(810-5)	[1113]	B	14	-40
+1201	Empt	K	1826	Jansing	X430000-8	 	  De Di Po 		022	ImDa	M0 V	-3	(800-2)	[0000]	B	14	-16
+1240	Empt	K	1826	Jansing	X430000-8	 	  De Di Po 		022	Wild	M0 V	-3	(800+1)	[0000]	B	14	8
+1508	Empt	K	1826	Jansing	X430000-8	 	  De Di Po 		022	Wild	M0 V	-3	(800+1)	[0000]	B	14	8
+1900	Empt	K	1826	Jansing	X430000-8	 	  De Di Po 		022	Wild	M0 V	-3	(800-1)	[0000]	B	14	-8
+
+1105	Empt	K	1830	Iridia	E561443-3	 	    Ni 		710	ImDa	G9 V	-3	(631-5)	[1121]	B	10	-90
+1201	Empt	K	1830	Iridia	X561450-0	 	    Ni 		410	ImDa	G9 V	-3	(630+5)	[4173]	B	10	90
+1240	Empt	K	1830	Iridia	X561434-0	 	    Ni 		210	Wild	G9 V	-3	(630-1)	[4111]	B	10	-18
+1508	Empt	K	1830	Iridia	X561400-0	 	    Ni 		110	Wild	G9 V	-3	(630-5)	[4132]	B	10	-90
+1900	Empt	K	1830	Iridia	X561373-0	 	    Lo 		910	Wild	G9 V	-3	(620+1)	[3121]	B	10	12
+
+1105	Empt	O	1831	Udusis	E768896-6	 	   Pa Ri Ph (NIL)		713	ImDa	K8 V M1 V	-1	(A76-2)	[7745]	BcCe	11	-840
+1201	Empt	O	1831	Udusis	X7688B9-4	 	   Pa Ri Ph (NIL)	B	813	ImDa	K8 V M1 V	-1	(A72+2)	[C781]	BcCe	11	280
+1240	Empt	O	1831	Udusis	X768873-0	 	   Pa Ri Ph (NIL)		413	Wild	K8 V M1 V	-1	(A78+2)	[C761]	BcCe	11	1120
+1508	Empt	O	1831	Udusis	X768853-2	 	   Pa Ri Ph (NIL)		513	Wild	K8 V M1 V	-1	(A75-4)	[9794]	BcCe	11	-1400
+1900	Empt	O	1831	Udusis	X768879-2	 	   Pa Ri Ph (NIL)		413	Wild	K8 V M1 V	-1	(A75-3)	[5741]	BcCe	11	-1050
+
+1105	Empt	O	1833	Sakari	D659223-7	 	    Lo 		123	ImDa	G9 V	-3	(410-5)	[1124]	B	10	-20
+1201	Empt	O	1833	Sakari	X659100-5	 	    Lo 		223	ImDa	G9 V	-3	(400+3)	[4176]	B	10	12
+1240	Empt	O	1833	Sakari	X659000-5	 	    Di 		023	Wild	G9 V	-3	(400+1)	[0000]	B	10	4
+1508	Empt	O	1833	Sakari	X659000-5	 	    Di 		023	Wild	G9 V	-3	(400-2)	[0000]	B	10	-8
+1900	Empt	O	1833	Sakari	X659000-5	 	    Di 		023	Wild	G9 V	-3	(400-2)	[0000]	B	10	-8
+
+1105	Empt	O	1836	Aisha	B550563-A	 	  Cy Ni De Po 		213	ImDa	G0 V M6 V	1	(B45-2)	[2627]	B	9	-440
+1201	Empt	O	1836	Aisha	X550546-6	 	  De Ni Po 		213	ImDa	G0 V M6 V	-3	(740+1)	[82A6]	B	9	28
+1240	Empt	O	1836	Aisha	X550550-1	 	  De Ni Po 		113	Wild	G0 V M6 V	-3	(743-1)	[4244]	B	9	-84
+1508	Empt	O	1836	Aisha	X550405-2	 	  De Ni Po 		913	Wild	G0 V M6 V	-3	(732+1)	[7126]	B	9	42
+1900	Empt	O	1836	Aisha	X550477-2	 	  De Ni Po 		813	Wild	G0 V M6 V	-3	(731+1)	[2122]	B	9	21
+
+1105	Empt	O	1838	Belumar	E663996-3	 	   Hi Pr (NIL)		413	ImDa	K3 V	-1	(B86-2)	[8842]	BcE	10	-1056
+1201	Empt	O	1838	Belumar	X663950-3	 	   Hi Pr (NIL)	B	513	ImDa	K3 V	-1	(B86+2)	[C851]	BcE	10	1056
+1240	Empt	O	1838	Belumar	X663999-0	 	   Hi Pr (NIL)		213	Wild	K3 V	-1	(B85+1)	[7841]	BcE	10	440
+1508	Empt	O	1838	Belumar	X6639AA-0	 	   Hi Pr (NIL)		113	Wild	K3 V	-1	(B87+1)	[D811]	BcE	10	616
+1900	Empt	O	1838	Belumar	X663975-0	 	   Hi Pr (NIL)		213	Wild	K3 V	-1	(B83+4)	[7841]	BcE	10	1056
+
+1105	Empt	C	1901	Gnorre	A430347-B	 	  De Lo Po 		100	NaVa	M1 V	1	(521+1)	[345B]	B	10	10
+1201	Empt	C	1901	Gnorre	X430000-B	 	  De Di Po 		000	NaVa	M1 V	-1	(500-3)	[0000]	B	10	-15
+1240	Empt	C	1901	Gnorre	X430000-B	 	  De Di Po 		000	Wild	M1 V	-1	(500+1)	[0000]	B	10	5
+1508	Empt	C	1901	Gnorre	X430000-B	 	  De Di Po 		000	Wild	M1 V	-1	(500+4)	[0000]	B	10	20
+1900	Empt	C	1901	Gnorre	X430000-B	 	  De Di Po 		000	Wild	M1 V	-1	(500+4)	[0000]	B	10	20
+
+1105	Empt	C	1905	Daerrdha	D420564-7	 	  De He Ni Po 		713	JuHl	M3 V M8 V	-3	(741-5)	[3235]	B	11	-140
+1201	Empt	C	1905	Daerrdha	X420000-7	 	  De He Di Po 		013	JuHl	M3 V M8 V	-3	(700-2)	[0000]	B	11	-14
+1240	Empt	C	1905	Daerrdha	X420000-7	 	  De He Di Po 		013	Wild	M3 V M8 V	-3	(700+1)	[0000]	B	11	7
+1508	Empt	C	1905	Daerrdha	X420000-7	 	  De He Di Po 		013	Wild	M3 V M8 V	-3	(700+1)	[0000]	B	11	7
+1900	Empt	C	1905	Daerrdha	X420000-7	 	  De He Di Po 		013	Wild	M3 V M8 V	-3	(700+1)	[0000]	B	11	7
+
+1105	Empt	G	1911	Shaliir	C421263-7	 	  He Lo Po 		410	JuHl	M3 V	-2	(410-5)	[1124]	B	9	-20
+1201	Empt	G	1911	Shaliir	X421000-7	 	  Di He Po 		010	JuHl	M3 V	-3	(400-3)	[0000]	B	9	-12
+1240	Empt	G	1911	Shaliir	X421000-7	 	  Di He Po 		010	Wild	M3 V	-3	(400-1)	[0000]	B	9	-4
+1508	Empt	G	1911	Shaliir	X421000-7	 	  Di He Po 		010	Wild	M3 V	-3	(400+2)	[0000]	B	9	8
+1900	Empt	G	1911	Shaliir	X421000-7	 	  Di He Po 		010	Wild	M3 V	-3	(400+1)	[0000]	B	9	4
+
+1105	Empt	G	1913	Usdaki	C67A757-6	 	   Pi Wa (NIL)		834	NaHu	K7 V M3 V M2 V	-1	(966-1)	[7656]	BD	17	-324
+1201	Empt	G	1913	Usdaki	E67A677-6	 	   Ni Wa (NIL)	B	934	NaHu	K7 V M3 V M2 V	-3	(951-1)	[6364]	B	17	-45
+1240	Empt	G	1913	Usdaki	E67A000-6	 	   Di Wa (NIL)		034	Wild	K7 V M3 V M2 V	-3	(900-4)	[0000]	B	17	-36
+1508	Empt	G	1913	Usdaki	E67A000-6	 	   Di Wa (NIL)		034	Wild	K7 V M3 V M2 V	-3	(900+2)	[0000]	B	17	18
+1900	Empt	G	1913	Usdaki	E67A000-6	 	   Di Wa (NIL)		034	Wild	K7 V M3 V M2 V	-3	(900-1)	[0000]	B	17	-9
+
+1105	Empt	K	1923	Cairne	C865631-5	 	  Ag Ri Ga Ni 		320	NaHu	G4 V	0	(854-4)	[2611]	BC	13	-640
+1201	Empt	K	1923	Cairne	E865646-5	 	  Ag Ri Ga Ni 	B	420	NaHu	G4 V	-1	(855-1)	[5572]	BC	13	-200
+1240	Empt	K	1923	Cairne	E865554-3	 	  Ag Pr Ga Ni 		220	Wild	G4 V	-2	(842-2)	[6341]	BcC	13	-128
+1508	Empt	K	1923	Cairne	E865543-3	 	  Ag Pr Ga Ni 		120	Wild	G4 V	-2	(841-3)	[9334]	BcC	13	-96
+1900	Empt	K	1923	Cairne	E865554-5	 	  Ag Pr Ga Ni 		220	Wild	G4 V	-2	(840-2)	[2355]	BcC	13	-64
+
+1105	Empt	K	1930	Hebrin	B550988-8	N 	  De Hi Po (NIL)		423	ImDa	K3 V	1	(G8A+1)	[9A58]	BE	16	1280
+1201	Empt	K	1930	Hebrin	D550131-4	 	  De Lo Po (NIL)		423	ImDa	K3 V	-3	(B00-1)	[3127]	B	16	-11
+1240	Empt	K	1930	Hebrin	D550000-4	 	  De Di Po (NIL)		023	Wild	K3 V	-3	(B00+1)	[0000]	B	16	11
+1508	Empt	K	1930	Hebrin	D550000-4	 	  De Di Po (NIL)		023	Wild	K3 V	-3	(B00+1)	[0000]	B	16	11
+1900	Empt	K	1930	Hebrin	D550000-4	 	  De Di Po (NIL)		023	Wild	K3 V	-3	(B00+1)	[0000]	B	16	11
+
+1105	Empt	O	1932	Okori	E430231-9	 	  De Lo Po 		122	ImDa	M1 V	-2	(810-5)	[1115]	B	7	-40
+1201	Empt	O	1932	Okori	X430000-9	 	  De Di Po 		022	ImDa	M1 V	-2	(800+1)	[0000]	B	7	8
+1240	Empt	O	1932	Okori	X430000-9	 	  De Di Po 		022	Wild	M1 V	-2	(800+1)	[0000]	B	7	8
+1508	Empt	O	1932	Okori	X430000-9	 	  De Di Po 		022	Wild	M1 V	-2	(800-3)	[0000]	B	7	-24
+1900	Empt	O	1932	Okori	X430000-9	 	  De Di Po 		022	Wild	M1 V	-2	(800-3)	[0000]	B	7	-24
+
+1105	Empt	O	1934	Corcoran	D500445-7	 	   Ni Va 		312	ImDa	G8 IV K2 V G3 V	-3	(631-5)	[2135]	B	14	-90
+1201	Empt	O	1934	Corcoran	X500000-7	 	   Di Va 		012	ImDa	G8 IV K2 V G3 V	-3	(600+2)	[0000]	B	14	12
+1240	Empt	O	1934	Corcoran	X500000-7	 	   Di Va 		012	Wild	G8 IV K2 V G3 V	-3	(600-5)	[0000]	B	14	-30
+1508	Empt	O	1934	Corcoran	X500000-7	 	   Di Va 		012	Wild	G8 IV K2 V G3 V	-3	(600-3)	[0000]	B	14	-18
+1900	Empt	O	1934	Corcoran	X500000-7	 	   Di Va 		012	Wild	G8 IV K2 V G3 V	-3	(600+1)	[0000]	B	14	6
+
+1105	Empt	O	1937	Iisdirrii	D8668D9-4	 	  Ga Pa Ri Ph (NIL)	A	124	ImDa	G9 V M5 V	-1	(A75+1)	[9765]	BcCe	13	350
+1201	Empt	O	1937	Iisdirrii	X866879-4	 	  Ga Pa Ri Ph (NIL)	B	224	ImDa	G9 V M5 V	-1	(A74-3)	[8742]	BcCe	13	-840
+1240	Empt	O	1937	Iisdirrii	X866886-0	 	  Ga Pa Ri Ph (NIL)		124	Wild	G9 V M5 V	-1	(A78+1)	[9781]	BcCe	13	560
+1508	Empt	O	1937	Iisdirrii	X86677A-0	 	   Ag Ri Ga (NIL)		924	Wild	G9 V M5 V	0	(A67-2)	[8711]	BC	13	-840
+1900	Empt	O	1937	Iisdirrii	X8668AB-0	 	  Ga Pa Ri Ph (NIL)		124	Wild	G9 V M5 V	-1	(A76+1)	[7724]	BcCe	13	420
+
+1105	Empt	C	2001	Zare	A550456-D	 	  De Ni Po 		424	JuHl	G8 V	1	(C34+1)	[354C]	B	12	144
+1201	Empt	C	2001	Zare	X550411-4	 	  De Ni Po 		224	JuHl	G8 V	-3	(630+3)	[8146]	B	12	54
+1240	Empt	C	2001	Zare	X550000-4	 	  De Di Po 		024	Wild	G8 V	-3	(600+3)	[0000]	B	12	18
+1508	Empt	C	2001	Zare	X550000-4	 	  De Di Po 		024	Wild	G8 V	-3	(600+2)	[0000]	B	12	12
+1900	Empt	C	2001	Zare	X550000-4	 	  De Di Po 		024	Wild	G8 V	-3	(600+3)	[0000]	B	12	18
+
+1105	Empt	C	2005	Gaeko	C697345-9	 	    Lo 		600	JuHl	F9 V M2 V	-1	(520-3)	[1237]	B	5	-30
+1201	Empt	C	2005	Gaeko	D697256-2	 	    Lo 	B	600	JuHl	F9 V M2 V	-3	(510-3)	[4153]	B	5	-15
+1240	Empt	C	2005	Gaeko	D697000-2	 	    Di 		000	Wild	F9 V M2 V	-3	(500+2)	[0000]	B	5	10
+1508	Empt	C	2005	Gaeko	D697000-2	 	    Di 		000	Wild	F9 V M2 V	-3	(500-1)	[0000]	B	5	-5
+1900	Empt	C	2005	Gaeko	D697000-2	 	    Di 		000	Wild	F9 V M2 V	-3	(500+3)	[0000]	B	5	15
+
+1105	Empt	C	2009	Flange	B654A62-C	 	   Cp Mr Cy Hi (NIL)		824	JuHl	G0 V	4	(J9F+1)	[6E18]	BEF	12	2430
+1201	Empt	C	2009	Flange	X65486E-4	 	  Cp Mr Pa Ph (NIL)	B	724	JuHl	G0 V	-2	(C77-1)	[6638]	BceF	12	-588
+1240	Empt	C	2009	Flange	X654883-0	 	  Cp Mr Pa Ph (NIL)		324	Wild	G0 V	-2	(C74-3)	[5691]	BceF	12	-1008
+1508	Empt	C	2009	Flange	X6548B6-0	 	  Cp Mr Pa Ph (NIL)		224	Wild	G0 V	-2	(C77+5)	[4681]	BceF	12	2940
+1900	Empt	C	2009	Flange	X6548A8-0	 	  Cp Mr Pa Ph (NIL)		324	Wild	G0 V	-2	(C76-4)	[B635]	BceF	12	-2016
+
+1105	Empt	C	2010	Sprocket	C98A442-6	 	   Ni Wa 		124	NaHu	M3 V M3 V	-2	(631-5)	[1212]	B	11	-90
+1201	Empt	C	2010	Sprocket	E98A200-2	 	   Lo Wa 	B	224	NaHu	M3 V M3 V	-3	(610+2)	[1161]	B	11	12
+1240	Empt	C	2010	Sprocket	E98A000-2	 	   Di Wa 		024	Wild	M3 V M3 V	-3	(600+1)	[0000]	B	11	6
+1508	Empt	C	2010	Sprocket	E98A000-2	 	   Di Wa 		024	Wild	M3 V M3 V	-3	(600+1)	[0000]	B	11	6
+1900	Empt	C	2010	Sprocket	E98A000-2	 	   Di Wa 		024	Wild	M3 V M3 V	-3	(600+1)	[0000]	B	11	6
+
+1105	Empt	G	2016	Urshaiir	A302444-C	 	   Ic Va Ni 		235	NaHu	M2 V M8 V	1	(E34-1)	[253A]	B	18	-168
+1201	Empt	G	2016	Urshaiir	X302000-C	 	   Di Ic Va 		035	NaHu	M2 V M8 V	-1	(E00+1)	[0000]	B	18	14
+1240	Empt	G	2016	Urshaiir	X302000-C	 	   Di Ic Va 		035	Wild	M2 V M8 V	-1	(E00+2)	[0000]	B	18	28
+1508	Empt	G	2016	Urshaiir	X302000-C	 	   Di Ic Va 		035	Wild	M2 V M8 V	-1	(E00+1)	[0000]	B	18	14
+1900	Empt	G	2016	Urshaiir	X302000-C	 	   Di Ic Va 		035	Wild	M2 V M8 V	-1	(E00+1)	[0000]	B	18	14
+
+1105	Empt	K	2030	Cooke	A868888-9	 	  Cp Pa Ri Ph (NIL)		423	ImDa	F5 V	2	(F7B+2)	[8A59]	BcCeF	9	2310
+1201	Empt	K	2030	Cooke	B868844-8	 	  Cp Pa Ri Ph (NIL)		523	ImDa	F5 V	1	(F73+1)	[895C]	BcCeF	9	315
+1240	Empt	K	2030	Cooke	B8688AC-5	 	  Cp Pa Ri Ph (NIL)		223	Wild	F5 V	1	(A77+1)	[8955]	BcCeF	9	490
+1508	Empt	K	2030	Cooke	B868899-6	 	  Cp Pa Ri Ph (NIL)		123	Wild	F5 V	1	(A74-2)	[9982]	BcCeF	9	-560
+1900	Empt	K	2030	Cooke	B868841-7	 	  Cp Pa Ri Ph (NIL)		123	Wild	F5 V	1	(A7A+1)	[B946]	BcCeF	9	700
+
+1105	Empt	O	2032	Drago's Belt	B000546-B	N 	   As Va Ni 		923	ImDa	M0 V	1	(C45+1)	[464A]	B	12	240
+1201	Empt	O	2032	Drago's Belt	X000000-B	 	   As Va Di 		023	ImDa	M0 V	-1	(C00+1)	[0000]	B	12	12
+1240	Empt	O	2032	Drago's Belt	X000000-B	 	   As Va Di 		023	Wild	M0 V	-1	(C00+1)	[0000]	B	12	12
+1508	Empt	O	2032	Drago's Belt	X000000-B	 	   As Va Di 		023	Wild	M0 V	-1	(C00-3)	[0000]	B	12	-36
+1900	Empt	O	2032	Drago's Belt	X000000-B	 	   As Va Di 		023	Wild	M0 V	-1	(C00+2)	[0000]	B	12	24
+
+1105	Empt	O	2036	Irash	C99799B-A	 	  Cp Hi In (NIL)	A	422	ImDa	F6 V M5 V	3	(F8D+5)	[BC7C]	BEF	7	7800
+1201	Empt	O	2036	Irash	X9979CF-6	 	  Cp Hi In (NIL)	B	422	ImDa	F6 V M5 V	0	(B88-1)	[B964]	BEF	7	-704
+1240	Empt	O	2036	Irash	X997000-6	 	  Cp Di In (NIL)		022	Wild	F6 V M5 V	-2	(B00+2)	[0000]	BEF	7	22
+1508	Empt	O	2036	Irash	X997000-6	 	   Cp Di (NIL)		022	Wild	F6 V M5 V	-3	(B00+2)	[0000]	BF	7	22
+1900	Empt	O	2036	Irash	X997000-6	 	   Cp Di (NIL)		022	Wild	F6 V M5 V	-3	(B00+1)	[0000]	BF	7	11
+
+1105	Empt	O	2037	Guudagi	E5556BC-4	 	   Ag Ni 	A	124	ImDa	G4 V	-2	(852+1)	[9487]	BC	9	80
+1201	Empt	O	2037	Guudagi	X555643-4	 	   Ag Ni 	B	224	ImDa	G4 V	-2	(853+1)	[2453]	BC	9	120
+1240	Empt	O	2037	Guudagi	X555653-0	 	   Ag Ni 		124	Wild	G4 V	-2	(850-1)	[5464]	BC	9	-40
+1508	Empt	O	2037	Guudagi	X555500-1	 	   Ag Ni 		924	Wild	G4 V	-2	(844+3)	[4341]	BC	9	384
+1900	Empt	O	2037	Guudagi	X555532-1	 	   Ag Ni 		824	Wild	G4 V	-2	(840-3)	[4333]	BC	9	-96
+
+1105	Empt	O	2038	Ebrahim	B695451-B	 	   Ni Pa 		310	ImDa	M2 V M3 V	1	(734-3)	[1517]	Bc	7	-252
+1201	Empt	O	2038	Ebrahim	X695220-2	 	    Lo 		310	ImDa	M2 V M3 V	-3	(610-2)	[1151]	B	7	-12
+1240	Empt	O	2038	Ebrahim	X695000-2	 	    Di 		010	Wild	M2 V M3 V	-3	(600+2)	[0000]	B	7	12
+1508	Empt	O	2038	Ebrahim	X695000-2	 	    Di 		010	Wild	M2 V M3 V	-3	(600+2)	[0000]	B	7	12
+1900	Empt	O	2038	Ebrahim	X695000-2	 	    Di 		010	Wild	M2 V M3 V	-3	(600-1)	[0000]	B	7	-6
+
+1105	Empt	O	2039	Urduaan	D87A754-5	S	   Pi Wa (NIL)		234	ImDa	K0 V	-2	(965-4)	[5533]	BD	10	-1080
+1201	Empt	O	2039	Urduaan	X87A454-4	 	   Ni Wa (NIL)		234	ImDa	K0 V	-3	(933+1)	[3131]	B	10	81
+1240	Empt	O	2039	Urduaan	X87A000-4	 	   Di Wa (NIL)		034	Wild	K0 V	-3	(900+4)	[0000]	B	10	36
+1508	Empt	O	2039	Urduaan	X87A000-4	 	   Di Wa (NIL)		034	Wild	K0 V	-3	(900-5)	[0000]	B	10	-45
+1900	Empt	O	2039	Urduaan	X87A000-4	 	   Di Wa (NIL)		034	Wild	K0 V	-3	(900+1)	[0000]	B	10	9
+
+1105	Empt	C	2103	Kulloerr	A559673-D	 	    Ni 		422	JuHl	K2 V	1	(C55-2)	[372A]	B	11	-600
+1201	Empt	C	2103	Kulloerr	X559677-7	 	    Ni 		422	JuHl	K2 V	-3	(852-1)	[4354]	B	11	-80
+1240	Empt	C	2103	Kulloerr	X559654-2	 	    Ni 		222	Wild	K2 V	-3	(850+4)	[9381]	B	11	160
+1508	Empt	C	2103	Kulloerr	X559675-2	 	    Ni 		122	Wild	K2 V	-3	(850-4)	[7351]	B	11	-160
+1900	Empt	C	2103	Kulloerr	X559674-3	 	    Ni 		122	Wild	K2 V	-3	(850+1)	[7374]	B	11	40
+
+1105	Empt	C	2109	Ghothu	C868676-6	 	   Ag Ri Ni 		504	JuHl	M1 V	0	(854-1)	[5645]	BC	9	-160
+1201	Empt	C	2109	Ghothu	E868641-3	 	   Ag Ri Ni 	B	604	JuHl	M1 V	-1	(854+1)	[6541]	BC	9	160
+1240	Empt	C	2109	Ghothu	E868676-2	 	   Ag Ri Ni 		304	Wild	M1 V	-1	(850+1)	[1551]	BC	9	40
+1508	Empt	C	2109	Ghothu	E868677-3	 	   Ag Ri Ni 		304	Wild	M1 V	-1	(850-1)	[3551]	BC	9	-40
+1900	Empt	C	2109	Ghothu	E868645-4	 	   Ag Ri Ni 		204	Wild	M1 V	-1	(851-2)	[4584]	BC	9	-80
+
+1105	Empt	G	2111	Managa	E65A8BB-6	 	   Ph Wa (NIL)	A	923	CsIm	G0 V M2 V	-2	(A75+1)	[A678]	Be	11	350
+1201	Empt	G	2111	Managa	X65A000-6	 	   Di Wa (NIL)		023	CsIm	G0 V M2 V	-3	(A00+1)	[0000]	B	11	10
+1240	Empt	G	2111	Managa	X65A000-6	 	   Di Wa (NIL)		023	Wild	G0 V M2 V	-3	(A00+1)	[0000]	B	11	10
+1508	Empt	G	2111	Managa	X65A000-6	 	   Di Wa (NIL)		023	Wild	G0 V M2 V	-3	(A00-1)	[0000]	B	11	-10
+1900	Empt	G	2111	Managa	X65A000-6	 	   Di Wa (NIL)		023	Wild	G0 V M2 V	-3	(A00-1)	[0000]	B	11	-10
+
+1105	Empt	G	2113	Ragidlam	A626121-B	 	    Lo 		900	CsIm	F9 V M5 V	1	(301-3)	[1217]	B	7	-9
+1201	Empt	G	2113	Ragidlam	X626000-B	 	    Di 		000	CsIm	F9 V M5 V	-1	(300+1)	[0000]	B	7	3
+1240	Empt	G	2113	Ragidlam	X626000-B	 	    Di 		000	Wild	F9 V M5 V	-1	(300+3)	[0000]	B	7	9
+1508	Empt	G	2113	Ragidlam	X626000-B	 	    Di 		000	Wild	F9 V M5 V	-1	(300-1)	[0000]	B	7	-3
+1900	Empt	G	2113	Ragidlam	X626000-B	 	    Di 		000	Wild	F9 V M5 V	-1	(300+2)	[0000]	B	7	6
+
+1105	Empt	K	2128	Prakesh	C550222-8	 	  De Lo Po 		402	ImDa	G6 V	-2	(610-5)	[1114]	B	15	-30
+1201	Empt	K	2128	Prakesh	E550141-7	 	  De Lo Po 		202	ImDa	G6 V	-3	(400+3)	[1166]	B	15	12
+1240	Empt	K	2128	Prakesh	E550000-7	 	  De Di Po 		002	Wild	G6 V	-3	(400-4)	[0000]	B	15	-16
+1508	Empt	K	2128	Prakesh	E550000-7	 	  De Di Po 		002	Wild	G6 V	-3	(400+1)	[0000]	B	15	4
+1900	Empt	K	2128	Prakesh	E550000-7	 	  De Di Po 		002	Wild	G6 V	-3	(400-3)	[0000]	B	15	-12
+
+1105	Empt	K	2129	Gauri	B544422-B	 	   Ni Pa 		410	ImDa	K2 V	1	(734-3)	[1517]	Bc	7	-252
+1201	Empt	K	2129	Gauri	D544479-6	 	   Ni Pa 		210	ImDa	K2 V	-3	(630+1)	[2185]	Bc	7	18
+1240	Empt	K	2129	Gauri	D544000-6	 	    Di 		010	Wild	K2 V	-3	(600+1)	[0000]	B	7	6
+1508	Empt	K	2129	Gauri	D544000-6	 	    Di 		010	Wild	K2 V	-3	(600+3)	[0000]	B	7	18
+1900	Empt	K	2129	Gauri	D544000-6	 	    Di 		010	Wild	K2 V	-3	(600+1)	[0000]	B	7	6
+
+1105	Empt	K	2130	Manendra	C550445-9	 	  De Ni Po 		723	ImDa	G2 V G9 V	-1	(B32-3)	[2337]	B	11	-198
+1201	Empt	K	2130	Manendra	X550423-2	 	  De Ni Po 		423	ImDa	G2 V G9 V	-3	(630-2)	[4153]	B	11	-36
+1240	Empt	K	2130	Manendra	X550458-2	 	  De Ni Po 		223	Wild	G2 V G9 V	-3	(630+1)	[4131]	B	11	18
+1508	Empt	K	2130	Manendra	X550453-3	 	  De Ni Po 		323	Wild	G2 V G9 V	-3	(630-4)	[41A6]	B	11	-72
+1900	Empt	K	2130	Manendra	X550479-3	 	  De Ni Po 		223	Wild	G2 V G9 V	-3	(630+1)	[7121]	B	11	18
+
+1105	Empt	O	2134	Shuiku	B575656-A	 	   Ag Ni 		910	ImDa	G0 V	2	(956+1)	[5849]	BC	9	270
+1201	Empt	O	2134	Shuiku	D575753-9	 	    Ag 		110	ImDa	G0 V	0	(969+1)	[9767]	BC	9	486
+1240	Empt	O	2134	Shuiku	D5756AA-3	 	   Ag Ni 		510	Wild	G0 V	-2	(854+4)	[9411]	BC	9	640
+1508	Empt	O	2134	Shuiku	D575675-4	 	   Ag Ni 		410	Wild	G0 V	-2	(854+1)	[6481]	BC	9	160
+1900	Empt	O	2134	Shuiku	D575687-5	 	   Ag Ni 		510	Wild	G0 V	-2	(851+1)	[1467]	BC	9	40
+
+1105	Empt	O	2138	Faust	C511200-9	 	   Ic Lo 		424	ImDa	M2 V	-1	(A10-5)	[1114]	B	9	-50
+1201	Empt	O	2138	Faust	X511000-9	 	   Di Ic 		024	ImDa	M2 V	-2	(A00+2)	[0000]	B	9	20
+1240	Empt	O	2138	Faust	X511000-9	 	   Di Ic 		024	Wild	M2 V	-2	(A00+3)	[0000]	B	9	30
+1508	Empt	O	2138	Faust	X511000-9	 	   Di Ic 		024	Wild	M2 V	-2	(A00-5)	[0000]	B	9	-50
+1900	Empt	O	2138	Faust	X511000-9	 	   Di Ic 		024	Wild	M2 V	-2	(A00+2)	[0000]	B	9	20
+
+1105	Empt	C	2201	Aghurtuekh	C540877-5	 	  De He Ph Pi Po (NIL)		802	JuHl	M1 V M7 V	-1	(A76-1)	[8755]	BDe	11	-420
+1201	Empt	C	2201	Aghurtuekh	E540459-4	 	  De He Ni Po (NIL)	B	502	JuHl	M1 V M7 V	-3	(A32-1)	[3158]	B	11	-60
+1240	Empt	C	2201	Aghurtuekh	E540000-4	 	  De He Di Po (NIL)		002	Wild	M1 V M7 V	-3	(A00+1)	[0000]	B	11	10
+1508	Empt	C	2201	Aghurtuekh	E540000-4	 	  De He Di Po (NIL)		002	Wild	M1 V M7 V	-3	(A00+4)	[0000]	B	11	40
+1900	Empt	C	2201	Aghurtuekh	E540000-4	 	  De He Di Po (NIL)		002	Wild	M1 V M7 V	-3	(A00-2)	[0000]	B	11	-20
+
+1105	Empt	C	2202	Osaerr	B68658C-B	 	  Ag Pr Ga Ni 	A	224	JuHl	G6 V	2	(D46+5)	[878E]	BcC	10	1560
+1201	Empt	C	2202	Osaerr	X686446-2	 	  Ga Ni Pa 	B	524	JuHl	G6 V	-3	(730-3)	[5136]	Bc	10	-63
+1240	Empt	C	2202	Osaerr	X686451-2	 	  Ga Ni Pa 		224	Wild	G6 V	-3	(730-1)	[5152]	Bc	10	-21
+1508	Empt	C	2202	Osaerr	X68648D-2	 	  Ga Ni Pa 		324	Wild	G6 V	-3	(730+5)	[5153]	Bc	10	105
+1900	Empt	C	2202	Osaerr	X686446-3	 	  Ga Ni Pa 		424	Wild	G6 V	-3	(733+1)	[2131]	Bc	10	63
+
+1105	Empt	C	2203	Ukoen	A8D4416-E	 	    Ni 		703	JuHl	M2 V	1	(934+1)	[354D]	B	15	108
+1201	Empt	C	2203	Ukoen	X8D4000-E	 	    Di 		003	JuHl	M2 V	-1	(900-3)	[0000]	B	15	-27
+1240	Empt	C	2203	Ukoen	X8D4000-E	 	    Di 		003	Wild	M2 V	-1	(900-1)	[0000]	B	15	-9
+1508	Empt	C	2203	Ukoen	X8D4000-E	 	    Di 		003	Wild	M2 V	-1	(900-3)	[0000]	B	15	-27
+1900	Empt	C	2203	Ukoen	X8D4000-E	 	    Di 		003	Wild	M2 V	-1	(900+1)	[0000]	B	15	9
+
+1105	Empt	C	2204	Rhoe	D434268-6	 	    Lo 		624	JuHl	M3 V	-3	(410-3)	[2156]	B	17	-12
+1201	Empt	C	2204	Rhoe	X434000-6	 	    Di 		024	JuHl	M3 V	-3	(400-4)	[0000]	B	17	-16
+1240	Empt	C	2204	Rhoe	X434000-6	 	    Di 		024	Wild	M3 V	-3	(400-2)	[0000]	B	17	-8
+1508	Empt	C	2204	Rhoe	X434000-6	 	    Di 		024	Wild	M3 V	-3	(400+1)	[0000]	B	17	4
+1900	Empt	C	2204	Rhoe	X434000-6	 	    Di 		024	Wild	M3 V	-3	(400-5)	[0000]	B	17	-20
+
+1105	Empt	G	2212	Cotan	C8779CH-5	 	   Hi In (NIL)	A	424	JuHl	G5 V	1	(B89+5)	[EAAA]	BE	11	3960
+1201	Empt	G	2212	Cotan	E877975-5	 	   Hi In (NIL)	B	524	JuHl	G5 V	0	(B86+5)	[D993]	BE	11	2640
+1240	Empt	G	2212	Cotan	E877000-5	 	   Di In (NIL)		024	Wild	G5 V	-2	(B00-2)	[0000]	BE	11	-22
+1508	Empt	G	2212	Cotan	E877000-5	 	    Di (NIL)		024	Wild	G5 V	-3	(B00+2)	[0000]	B	11	22
+1900	Empt	G	2212	Cotan	E877000-5	 	    Di (NIL)		024	Wild	G5 V	-3	(B00-5)	[0000]	B	11	-55
+
+1105	Empt	K	2227	Sahale	B435587-9	 	   Ni Px 		923	ImDa	M1 V M8 V	0	(C44+1)	[5559]	B	8	192
+1201	Empt	K	2227	Sahale	X435000-9	 	   Di Px 		023	ImDa	M1 V M8 V	-2	(C00+2)	[0000]	B	8	24
+1240	Empt	K	2227	Sahale	X435000-9	 	   Di Px 		023	Wild	M1 V M8 V	-2	(C00-1)	[0000]	B	8	-12
+1508	Empt	K	2227	Sahale	X435000-9	 	    Di 		023	Wild	M1 V M8 V	-2	(C00+1)	[0000]	B	8	12
+1900	Empt	K	2227	Sahale	X435000-9	 	    Di 		023	Wild	M1 V M8 V	-2	(C00+1)	[0000]	B	8	12
+
+1105	Empt	K	2230	Daruka	C574648-5	 	   Ag Ni 		622	ImDa	F6 V G2 V	-1	(853-1)	[6555]	BC	8	-120
+1201	Empt	K	2230	Daruka	X5746BA-2	 	   Ag Ni 		722	ImDa	F6 V G2 V	-2	(853+3)	[84A1]	BC	8	360
+1240	Empt	K	2230	Daruka	X574000-2	 	    Di 		022	Wild	F6 V G2 V	-3	(800+3)	[0000]	B	8	24
+1508	Empt	K	2230	Daruka	X574000-2	 	    Di 		022	Wild	F6 V G2 V	-3	(800+1)	[0000]	B	8	8
+1900	Empt	K	2230	Daruka	X574000-2	 	    Di 		022	Wild	F6 V G2 V	-3	(800+1)	[0000]	B	8	8
+
+1105	Empt	O	2237	Wapeka	E426524-9	 	    Ni 	A	212	ImDa	M2 V	-2	(A42-4)	[3337]	B	9	-320
+1201	Empt	O	2237	Wapeka	X426000-9	 	    Di 		012	ImDa	M2 V	-2	(A00+1)	[0000]	B	9	10
+1240	Empt	O	2237	Wapeka	X426000-9	 	    Di 		012	Wild	M2 V	-2	(A00-4)	[0000]	B	9	-40
+1508	Empt	O	2237	Wapeka	X426000-9	 	    Di 		012	Wild	M2 V	-2	(A00+4)	[0000]	B	9	40
+1900	Empt	O	2237	Wapeka	X426000-9	 	    Di 		012	Wild	M2 V	-2	(A00-1)	[0000]	B	9	-10
+
+1105	Empt	G	2313	Diagemi	C766646-8	 	  Ag Ri Ga Ni 		223	JuHl	K6 V M1 V M5 V	0	(D54-1)	[5647]	BC	11	-260
+1201	Empt	G	2313	Diagemi	E76665A-8	 	  Ag Ri Ga Ni 		323	JuHl	K6 V M1 V M5 V	-1	(D53-2)	[8548]	BC	11	-390
+1240	Empt	G	2313	Diagemi	E766644-4	 	  Ag Ri Ga Ni 		123	Wild	K6 V M1 V M5 V	-1	(850-1)	[A584]	BC	11	-40
+1508	Empt	G	2313	Diagemi	E766543-6	 	  Ag Pr Ga Ni 		923	Wild	K6 V M1 V M5 V	-2	(844+1)	[4337]	BcC	11	128
+1900	Empt	G	2313	Diagemi	E766643-6	 	  Ag Ri Ga Ni 		123	Wild	K6 V M1 V M5 V	-1	(850+1)	[B56A]	BC	11	40
+
+1105	Empt	G	2314	Iksoe	D642531-6	 	  He Ni Po 		324	JuHl	K9 V M4 V	-3	(741-5)	[1212]	B	10	-140
+1201	Empt	G	2314	Iksoe	X642521-4	 	  He Ni Po 	B	224	JuHl	K9 V M4 V	-3	(742+1)	[6262]	B	10	56
+1240	Empt	G	2314	Iksoe	X642000-4	 	  Di He Po 		024	Wild	K9 V M4 V	-3	(700+1)	[0000]	B	10	7
+1508	Empt	G	2314	Iksoe	X642000-4	 	  Di He Po 		024	Wild	K9 V M4 V	-3	(700-1)	[0000]	B	10	-7
+1900	Empt	G	2314	Iksoe	X642000-4	 	  Di He Po 		024	Wild	K9 V M4 V	-3	(700+2)	[0000]	B	10	14
+
+1105	Empt	G	2316	Rakhael	X636472-6	 	    Ni 	R	425	JuHl	K4 V	-3	(631-5)	[1112]	B	17	-90
+1201	Empt	G	2316	Rakhael	X636000-6	 	    Di 		025	JuHl	K4 V	-3	(600-1)	[0000]	B	17	-6
+1240	Empt	G	2316	Rakhael	X636000-6	 	    Di 		025	Wild	K4 V	-3	(600+5)	[0000]	B	17	30
+1508	Empt	G	2316	Rakhael	X636000-6	 	    Di 		025	Wild	K4 V	-3	(600+1)	[0000]	B	17	6
+1900	Empt	G	2316	Rakhael	X636000-6	 	    Di 		025	Wild	K4 V	-3	(600-1)	[0000]	B	17	-6
+
+1105	Empt	O	2331	Rajan	A562875-9	 	   Ph Ri (NIL)		100	ImDa	G8 V	2	(A7B+1)	[6A37]	BCe	4	770
+1201	Empt	O	2331	Rajan	C56289B-6	 	   Ph Ri (NIL)	B	200	ImDa	G8 V	0	(A77-1)	[8814]	BCe	4	-490
+1240	Empt	O	2331	Rajan	C562843-3	 	   Ph Ri (NIL)		100	Wild	G8 V	0	(A76+3)	[4886]	BCe	4	1260
+1508	Empt	O	2331	Rajan	C56279C-4	 	    Ri (NIL)		900	Wild	G8 V	0	(A66+2)	[9788]	BC	4	720
+1900	Empt	O	2331	Rajan	C56279C-5	 	    Ri (NIL)		900	Wild	G8 V	0	(A65-3)	[37A5]	BC	4	-900
+
+1105	Empt	C	2402	Angour	C422346-A	 	  He Lo Px Po 		925	JuHl	M3 V	0	(C20-1)	[2349]	B	13	-24
+1201	Empt	C	2402	Angour	X422000-A	 	  Di He Px Po 		025	JuHl	M3 V	-1	(C00+1)	[0000]	B	13	12
+1240	Empt	C	2402	Angour	X422000-A	 	  Di He Px Po 		025	Wild	M3 V	-1	(C00-1)	[0000]	B	13	-12
+1508	Empt	C	2402	Angour	X422000-A	 	  Di He Po 		025	Wild	M3 V	-1	(C00+1)	[0000]	B	13	12
+1900	Empt	C	2402	Angour	X422000-A	 	  Di He Po 		025	Wild	M3 V	-1	(C00+3)	[0000]	B	13	36
+
+1105	Empt	C	2405	Justince	D5559AB-7	 	    Hi (NIL)	A	625	JuHl	K2 V M3 V	-1	(B88+1)	[B879]	BE	17	704
+1201	Empt	C	2405	Justince	X555441-4	 	   Ni Pa (NIL)	B	425	JuHl	K2 V M3 V	-3	(B30+1)	[8145]	Bc	17	33
+1240	Empt	C	2405	Justince	X555474-0	 	   Ni Pa (NIL)		225	Wild	K2 V M3 V	-3	(B31+3)	[4182]	Bc	17	99
+1508	Empt	C	2405	Justince	X555456-2	 	   Ni Pa (NIL)		225	Wild	K2 V M3 V	-3	(B32+1)	[3131]	Bc	17	66
+1900	Empt	C	2405	Justince	X555478-2	 	   Ni Pa (NIL)		125	Wild	K2 V M3 V	-3	(B30-1)	[9191]	Bc	17	-33
+
+1105	Empt	C	2406	Vigil	E432364-6	 	  Lo Mr Po 		614	JuHl	M3 V	-3	(520-5)	[1134]	B	11	-50
+1201	Empt	C	2406	Vigil	X432000-6	 	  Di Mr Po 		014	JuHl	M3 V	-3	(500-3)	[0000]	B	11	-15
+1240	Empt	C	2406	Vigil	X432000-6	 	  Di Mr Po 		014	Wild	M3 V	-3	(500+4)	[0000]	B	11	20
+1508	Empt	C	2406	Vigil	X432000-6	 	  Di Mr Po 		014	Wild	M3 V	-3	(500-2)	[0000]	B	11	-10
+1900	Empt	C	2406	Vigil	X432000-6	 	  Di Mr Po 		014	Wild	M3 V	-3	(500-2)	[0000]	B	11	-10
+
+1105	Empt	C	2407	Giiluush	E535436-7	 	   Ni Px 		434	JuHl	M1 V M6 V	-3	(631-4)	[3146]	B	20	-72
+1201	Empt	C	2407	Giiluush	X535000-7	 	   Di Px 		034	JuHl	M1 V M6 V	-3	(600-3)	[0000]	B	20	-18
+1240	Empt	C	2407	Giiluush	X535000-7	 	   Di Px 		034	Wild	M1 V M6 V	-3	(600+1)	[0000]	B	20	6
+1508	Empt	C	2407	Giiluush	X535000-7	 	    Di 		034	Wild	M1 V M6 V	-3	(600+1)	[0000]	B	20	6
+1900	Empt	C	2407	Giiluush	X535000-7	 	    Di 		034	Wild	M1 V M6 V	-3	(600+2)	[0000]	B	20	12
+
+1105	Empt	C	2410	Naerrsuel	C413577-A	 	   Ic Ni 		623	JuHl	K6 III F5 V	0	(C44+1)	[555A]	B	13	192
+1201	Empt	C	2410	Naerrsuel	X413000-A	 	   Di Ic 		023	JuHl	K6 III F5 V	-1	(C00-2)	[0000]	B	13	-24
+1240	Empt	C	2410	Naerrsuel	X413000-A	 	   Di Ic 		023	Wild	K6 III F5 V	-1	(C00+4)	[0000]	B	13	48
+1508	Empt	C	2410	Naerrsuel	X413000-A	 	   Di Ic 		023	Wild	K6 III F5 V	-1	(C00-3)	[0000]	B	13	-36
+1900	Empt	C	2410	Naerrsuel	X413000-A	 	   Di Ic 		023	Wild	K6 III F5 V	-1	(C00-2)	[0000]	B	13	-24
+
+1105	Empt	G	2411	Dakamii	D64A662-6	 	   Cy Ni Wa 		423	JuHl	F3 V	-3	(851-5)	[2312]	B	11	-200
+1201	Empt	G	2411	Dakamii	X64A776-3	 	   Pi Wa 	B	523	JuHl	F3 V	-2	(866-1)	[9541]	BD	11	-288
+1240	Empt	G	2411	Dakamii	X64A7AA-0	 	   Pi Wa 		223	Wild	F3 V	-2	(864+1)	[3542]	BD	11	192
+1508	Empt	G	2411	Dakamii	X64A736-1	 	   Pi Wa 		123	Wild	F3 V	-2	(861-4)	[4551]	BD	11	-192
+1900	Empt	G	2411	Dakamii	X64A698-2	 	   Ni Wa 		923	Wild	F3 V	-3	(850-4)	[8345]	B	11	-160
+
+1105	Empt	G	2412	Sharleda	C564698-4	 	   Ag Ri Ni 		623	JuHl	K5 V M4 V	0	(854+1)	[6654]	BC	8	160
+1201	Empt	G	2412	Sharleda	E564658-1	 	   Ag Ri Ni 	B	723	JuHl	K5 V M4 V	-1	(851+2)	[5553]	BC	8	80
+1240	Empt	G	2412	Sharleda	E564655-1	 	   Ag Ri Ni 		323	Wild	K5 V M4 V	-1	(855+2)	[6592]	BC	8	400
+1508	Empt	G	2412	Sharleda	E564654-2	 	   Ag Ri Ni 		423	Wild	K5 V M4 V	-1	(850+4)	[5544]	BC	8	160
+1900	Empt	G	2412	Sharleda	E564697-2	 	   Ag Ri Ni 		423	Wild	K5 V M4 V	-1	(855+2)	[2551]	BC	8	400
+
+1105	Empt	G	2413	Irkong	B302365-B	 	  Ic Va Lo Mr 		702	JuHl	M0 V	2	(722+1)	[1539]	B	11	28
+1201	Empt	G	2413	Irkong	X302000-B	 	  Di Ic Va Mr 		002	JuHl	M0 V	-1	(700-1)	[0000]	B	11	-7
+1240	Empt	G	2413	Irkong	X302000-B	 	  Di Ic Va Mr 		002	Wild	M0 V	-1	(700-3)	[0000]	B	11	-21
+1508	Empt	G	2413	Irkong	X302000-B	 	  Di Ic Va Mr 		002	Wild	M0 V	-1	(700-3)	[0000]	B	11	-21
+1900	Empt	G	2413	Irkong	X302000-B	 	  Di Ic Va Mr 		002	Wild	M0 V	-1	(700-4)	[0000]	B	11	-28
+
+1105	Empt	K	2423	Exile	D000444-8	 	   As Va Ni 		600	CsIm	M0 V	-3	(631-5)	[2136]	B	4	-90
+1201	Empt	K	2423	Exile	X000000-8	 	   As Va Di 		000	CsIm	M0 V	-3	(600-5)	[0000]	B	4	-30
+1240	Empt	K	2423	Exile	X000000-8	 	   As Va Di 		000	Wild	M0 V	-3	(600-1)	[0000]	B	4	-6
+1508	Empt	K	2423	Exile	X000000-8	 	   As Va Di 		000	Wild	M0 V	-3	(600+2)	[0000]	B	4	12
+1900	Empt	K	2423	Exile	X000000-8	 	   As Va Di 		000	Wild	M0 V	-3	(600+2)	[0000]	B	4	12
+
+1105	Empt	K	2428	Liamea	A5447BB-9	 	    Ag Pi (NIL)	A	234	ImDa	K3 V	2	(G6B+4)	[997B]	BCD	14	4224
+1201	Empt	K	2428	Liamea	X544776-4	 	    Ag Pi (NIL)	B	234	ImDa	K3 V	-1	(966+4)	[8612]	BCD	14	1296
+1240	Empt	K	2428	Liamea	X544000-4	 	   Di Pi (NIL)		034	Wild	K3 V	-3	(900-5)	[0000]	BD	14	-45
+1508	Empt	K	2428	Liamea	X544000-4	 	    Di (NIL)		034	Wild	K3 V	-3	(900+1)	[0000]	B	14	9
+1900	Empt	K	2428	Liamea	X544000-4	 	    Di (NIL)		034	Wild	K3 V	-3	(900-4)	[0000]	B	14	-36
+
+1105	Empt	O	2431	Kiskiishga	C000610-A	 	  As Va Na Ni 		522	ImDa	M4 III	0	(C54-4)	[1615]	B	12	-960
+1201	Empt	O	2431	Kiskiishga	X000000-A	 	  As Va Di Na 		022	ImDa	M4 III	-1	(C00+3)	[0000]	B	12	36
+1240	Empt	O	2431	Kiskiishga	X000000-A	 	  As Va Di Na 		022	Wild	M4 III	-1	(C00-1)	[0000]	B	12	-12
+1508	Empt	O	2431	Kiskiishga	X000000-A	 	   As Va Di 		022	Wild	M4 III	-1	(C00-4)	[0000]	B	12	-48
+1900	Empt	O	2431	Kiskiishga	X000000-A	 	   As Va Di 		022	Wild	M4 III	-1	(C00-4)	[0000]	B	12	-48
+
+1105	Empt	O	2434	Niketan	A550567-D	 	  De Ni Po 		622	ImDa	G7 V M8 V	1	(B45+1)	[565D]	B	13	220
+1201	Empt	O	2434	Niketan	X550568-5	 	  De Ni Po 		322	ImDa	G7 V M8 V	-3	(743+5)	[4237]	B	13	420
+1240	Empt	O	2434	Niketan	X550575-1	 	  De Ni Po 		122	Wild	G7 V M8 V	-3	(742+5)	[4241]	B	13	280
+1508	Empt	O	2434	Niketan	X550434-2	 	  De Ni Po 		922	Wild	G7 V M8 V	-3	(731+3)	[2142]	B	13	63
+1900	Empt	O	2434	Niketan	X550410-3	 	  De Ni Po 		822	Wild	G7 V M8 V	-3	(732+2)	[7111]	B	13	84
+
+1105	Empt	D	2503	Dzourrgae	E555301-8	 	    Lo 		810	JuHl	K5 V	-3	(620-5)	[1114]	B	4	-60
+1201	Empt	D	2503	Dzourrgae	X555100-6	 	    Lo 		710	JuHl	K5 V	-3	(500+4)	[3172]	B	4	20
+1240	Empt	D	2503	Dzourrgae	X555000-6	 	    Di 		010	Wild	K5 V	-3	(500+3)	[0000]	B	4	15
+1508	Empt	D	2503	Dzourrgae	X555000-6	 	    Di 		010	Wild	K5 V	-3	(500-4)	[0000]	B	4	-20
+1900	Empt	D	2503	Dzourrgae	X555000-6	 	    Di 		010	Wild	K5 V	-3	(500-1)	[0000]	B	4	-5
+
+1105	Empt	D	2504	Pramas	A585789-C	 	    Ag Ri (NIL)		522	JuHl	F3 V M3 V	4	(D6E+5)	[8B6D]	BCf	10	5460
+1201	Empt	D	2504	Pramas	X585768-5	 	    Ag Ri (NIL)	B	522	JuHl	F3 V M3 V	0	(965+3)	[8731]	BC	10	810
+1240	Empt	D	2504	Pramas	X585795-0	 	    Ag Ri (NIL)		222	Wild	F3 V M3 V	0	(968-1)	[6751]	BC	10	-432
+1508	Empt	D	2504	Pramas	X585747-1	 	    Ag Ri (NIL)		122	Wild	F3 V M3 V	0	(967+2)	[7761]	BC	10	756
+1900	Empt	D	2504	Pramas	X585776-2	 	    Ag Ri (NIL)		222	Wild	F3 V M3 V	0	(966+4)	[6771]	BC	10	1296
+
+1105	Empt	D	2508	Aeradh	C76A437-B	 	   Ni Wa 		400	JuHl	G2 V	0	(633+1)	[445B]	B	12	54
+1201	Empt	D	2508	Aeradh	X76A455-0	 	   Ni Wa 	B	200	JuHl	G2 V	-3	(633-1)	[3155]	B	12	-54
+1240	Empt	D	2508	Aeradh	X76A000-0	 	   Ba Wa 		000	Wild	G2 V	-3	(600-3)	[0000]	B	12	-18
+1508	Empt	D	2508	Aeradh	X76A000-0	 	   Ba Wa 		000	Wild	G2 V	-3	(600+1)	[0000]	B	12	6
+1900	Empt	D	2508	Aeradh	X76A000-0	 	   Ba Wa 		000	Wild	G2 V	-3	(600+1)	[0000]	B	12	6
+
+1105	Empt	H	2511	Gaeloe	C540320-5	 	  De He Lo Po 		412	JuHl	K0 V	-2	(520-5)	[1111]	B	15	-50
+1201	Empt	H	2511	Gaeloe	E540210-4	 	  De He Lo Po 	B	512	JuHl	K0 V	-3	(510+2)	[2159]	B	15	10
+1240	Empt	H	2511	Gaeloe	E540000-4	 	  De He Di Po 		012	Wild	K0 V	-3	(500+3)	[0000]	B	15	15
+1508	Empt	H	2511	Gaeloe	E540000-4	 	  De He Di Po 		012	Wild	K0 V	-3	(500+3)	[0000]	B	15	15
+1900	Empt	H	2511	Gaeloe	E540000-4	 	  De He Di Po 		012	Wild	K0 V	-3	(500-1)	[0000]	B	15	-5
+
+1105	Empt	H	2516	Dharo	C655796-6	 	   Ag Ga (NIL)		623	JuHl	K1 V	0	(967-1)	[6745]	BC	14	-378
+1201	Empt	H	2516	Dharo	E655776-6	 	   Ag Ga (NIL)	B	723	JuHl	K1 V	-1	(965+4)	[2673]	BC	14	1080
+1240	Empt	H	2516	Dharo	E655750-3	 	   Ag Ga (NIL)		323	Wild	K1 V	-1	(965-2)	[9682]	BC	14	-540
+1508	Empt	H	2516	Dharo	E655754-4	 	   Ag Ga (NIL)		223	Wild	K1 V	-1	(968-4)	[3645]	BC	14	-1728
+1900	Empt	H	2516	Dharo	E655776-4	 	   Ag Ga (NIL)		323	Wild	K1 V	-1	(964+1)	[6614]	BC	14	216
+
+1105	Empt	L	2523	Turley	A549587-E	 	    Ni 		200	NaHu	F8 V	1	(745+1)	[565E]	B	11	140
+1201	Empt	L	2523	Turley	X549433-1	 	    Ni 	B	500	NaHu	F8 V	-3	(730-1)	[1155]	B	11	-21
+1240	Empt	L	2523	Turley	X549000-1	 	    Di 		000	Wild	F8 V	-3	(700-4)	[0000]	B	11	-28
+1508	Empt	L	2523	Turley	X549000-1	 	    Di 		000	Wild	F8 V	-3	(700+3)	[0000]	B	11	21
+1900	Empt	L	2523	Turley	X549000-1	 	    Di 		000	Wild	F8 V	-3	(700-4)	[0000]	B	11	-28
+
+1105	Empt	L	2528	Camilla	D434220-6	 	    Lo 		823	NaHu	G2 V	-3	(410-5)	[1111]	B	12	-20
+1201	Empt	L	2528	Camilla	X434000-6	 	    Di 		023	NaHu	G2 V	-3	(400-2)	[0000]	B	12	-8
+1240	Empt	L	2528	Camilla	X434000-6	 	    Di 		023	Wild	G2 V	-3	(400-4)	[0000]	B	12	-16
+1508	Empt	L	2528	Camilla	X434000-6	 	    Di 		023	Wild	G2 V	-3	(400-4)	[0000]	B	12	-16
+1900	Empt	L	2528	Camilla	X434000-6	 	    Di 		023	Wild	G2 V	-3	(400-1)	[0000]	B	12	-4
+
+1105	Empt	L	2529	Lawinger	B542531-A	 	  He Ni Po 		804	NaHu	G9 V K5 V	1	(B45-3)	[1616]	B	14	-660
+1201	Empt	L	2529	Lawinger	X54256D-6	 	  He Ni Po 	B	504	NaHu	G9 V K5 V	-3	(740-5)	[42A9]	B	14	-140
+1240	Empt	L	2529	Lawinger	X542000-6	 	  Di He Po 		004	Wild	G9 V K5 V	-3	(700+4)	[0000]	B	14	28
+1508	Empt	L	2529	Lawinger	X542000-6	 	  Di He Po 		004	Wild	G9 V K5 V	-3	(700-5)	[0000]	B	14	-35
+1900	Empt	L	2529	Lawinger	X542000-6	 	  Di He Po 		004	Wild	G9 V K5 V	-3	(700+4)	[0000]	B	14	28
+
+1105	Empt	P	2536	Selka	E552454-7	 	   Ni Po 		321	ImDa	G3 V	-3	(631-5)	[2135]	B	15	-90
+1201	Empt	P	2536	Selka	X552441-6	 	   Ni Po 	B	221	ImDa	G3 V	-3	(630-1)	[4156]	B	15	-18
+1240	Empt	P	2536	Selka	X552000-6	 	   Di Po 		021	Wild	G3 V	-3	(600+3)	[0000]	B	15	18
+1508	Empt	P	2536	Selka	X552000-6	 	   Di Po 		021	Wild	G3 V	-3	(600+5)	[0000]	B	15	30
+1900	Empt	P	2536	Selka	X552000-6	 	   Di Po 		021	Wild	G3 V	-3	(600+1)	[0000]	B	15	6
+
+1105	Empt	D	2605	Reshkhuda	D567886-3	 	   Pa Ri Ph (NIL)		504	JuHl	M2 V	-1	(A75-2)	[7742]	BcCe	10	-700
+1201	Empt	D	2605	Reshkhuda	X567888-2	 	   Pa Ri Ph (NIL)	B	604	JuHl	M2 V	-1	(A75+1)	[4742]	BcCe	10	350
+1240	Empt	D	2605	Reshkhuda	X567873-0	 	   Pa Ri Ph (NIL)		304	Wild	M2 V	-1	(A76-1)	[3761]	BcCe	10	-420
+1508	Empt	D	2605	Reshkhuda	X5678A8-0	 	   Pa Ri Ph (NIL)		204	Wild	M2 V	-1	(A79+1)	[A731]	BcCe	10	630
+1900	Empt	D	2605	Reshkhuda	X5678AA-0	 	   Pa Ri Ph (NIL)		304	Wild	M2 V	-1	(A73-1)	[B762]	BcCe	10	-210
+
+1105	Empt	D	2606	Lakuusa	D550684-4	 	  De Ni Po 		712	JuHl	M2 V	-3	(851-5)	[4332]	B	12	-200
+1201	Empt	D	2606	Lakuusa	X550679-3	 	  De Ni Po 		812	JuHl	M2 V	-3	(850-5)	[7321]	B	12	-200
+1240	Empt	D	2606	Lakuusa	X550649-0	 	  De Ni Po 		412	Wild	M2 V	-3	(853+1)	[4334]	B	12	120
+1508	Empt	D	2606	Lakuusa	X550642-0	 	  De Ni Po 		512	Wild	M2 V	-3	(852+1)	[6351]	B	12	80
+1900	Empt	D	2606	Lakuusa	X550643-0	 	  De Ni Po 		612	Wild	M2 V	-3	(853+1)	[B353]	B	12	120
+
+1105	Empt	H	2612	Athuerr	B550541-9	 	  De Ni Po 		423	JuHl	K0 V	0	(C44-4)	[1515]	B	12	-768
+1201	Empt	H	2612	Athuerr	D550579-6	 	  De Ni Po 	B	323	JuHl	K0 V	-3	(743+1)	[9238]	B	12	84
+1240	Empt	H	2612	Athuerr	D550446-3	 	  De Ni Po 		123	Wild	K0 V	-3	(730+1)	[2193]	B	12	21
+1508	Empt	H	2612	Athuerr	D550477-4	 	  De Ni Po 		123	Wild	K0 V	-3	(733+2)	[2177]	B	12	126
+1900	Empt	H	2612	Athuerr	D550423-5	 	  De Ni Po 		223	Wild	K0 V	-3	(732+3)	[7199]	B	12	126
+
+1105	Empt	H	2615	Ughoko	D540447-5	 	  De He Ni Po 		723	JuHl	G4 V	-3	(631-3)	[4155]	B	10	-54
+1201	Empt	H	2615	Ughoko	X540446-4	 	  De He Ni Po 	B	423	JuHl	G4 V	-3	(630-2)	[8141]	B	10	-36
+1240	Empt	H	2615	Ughoko	X540000-4	 	  De He Di Po 		023	Wild	G4 V	-3	(600-2)	[0000]	B	10	-12
+1508	Empt	H	2615	Ughoko	X540000-4	 	  De He Di Po 		023	Wild	G4 V	-3	(600+1)	[0000]	B	10	6
+1900	Empt	H	2615	Ughoko	X540000-4	 	  De He Di Po 		023	Wild	G4 V	-3	(600-2)	[0000]	B	10	-12
+
+1105	Empt	H	2618	Saeghvung	D668724-6	 	    Ag Ri (NIL)		412	NaVa	K4 V	0	(967-2)	[5734]	BC	15	-756
+1201	Empt	H	2618	Saeghvung	X668733-6	 	    Ag Ri (NIL)	B	512	NaVa	K4 V	0	(96A+1)	[8764]	BC	15	540
+1240	Empt	H	2618	Saeghvung	X668758-1	 	    Ag Ri (NIL)		212	Wild	K4 V	0	(966-2)	[5733]	BC	15	-648
+1508	Empt	H	2618	Saeghvung	X668775-1	 	    Ag Ri (NIL)		112	Wild	K4 V	0	(96B+1)	[6782]	BC	15	594
+1900	Empt	H	2618	Saeghvung	X668799-2	 	    Ag Ri (NIL)		112	Wild	K4 V	0	(967-1)	[8791]	BC	15	-378
+
+1105	Empt	P	2635	Yashodhan	A652779-C	 	    Po (NIL)		300	NaHu	K2 V M2 V	3	(96D+4)	[8A6D]	B	10	2808
+1201	Empt	P	2635	Yashodhan	X652765-3	 	    Po (NIL)	B	200	NaHu	K2 V M2 V	-2	(964+2)	[6511]	B	10	432
+1240	Empt	P	2635	Yashodhan	X6527C9-0	 	    Po (NIL)		100	Wild	K2 V M2 V	-2	(965+3)	[9541]	B	10	810
+1508	Empt	P	2635	Yashodhan	X65277B-1	 	    Po (NIL)		100	Wild	K2 V M2 V	-2	(961+1)	[4526]	B	10	54
+1900	Empt	P	2635	Yashodhan	X652726-2	 	    Po (NIL)		200	Wild	K2 V M2 V	-2	(962-1)	[6563]	B	10	-108
+
+1105	Empt	D	2701	Ueksang	C8B3653-8	 	   Fl Ni 		823	JuHl	M0 V	-2	(D52-5)	[3425]	B	8	-650
+1201	Empt	D	2701	Ueksang	X8B3000-8	 	   Di Fl 		023	JuHl	M0 V	-3	(D00-1)	[0000]	B	8	-13
+1240	Empt	D	2701	Ueksang	X8B3000-8	 	   Di Fl 		023	Wild	M0 V	-3	(D00-3)	[0000]	B	8	-39
+1508	Empt	D	2701	Ueksang	X8B3000-8	 	   Di Fl 		023	Wild	M0 V	-3	(D00+1)	[0000]	B	8	13
+1900	Empt	D	2701	Ueksang	X8B3000-8	 	   Di Fl 		023	Wild	M0 V	-3	(D00-3)	[0000]	B	8	-39
+
+1105	Empt	D	2703	Kfueraer	B422200-A	 	  He Lo Po 		723	JuHl	K9 V M1 V	1	(911-3)	[1315]	B	13	-27
+1201	Empt	D	2703	Kfueraer	X422000-A	 	  Di He Po 		023	JuHl	K9 V M1 V	-1	(900-2)	[0000]	B	13	-18
+1240	Empt	D	2703	Kfueraer	X422000-A	 	  Di He Po 		023	Wild	K9 V M1 V	-1	(900-5)	[0000]	B	13	-45
+1508	Empt	D	2703	Kfueraer	X422000-A	 	  Di He Po 		023	Wild	K9 V M1 V	-1	(900-1)	[0000]	B	13	-9
+1900	Empt	D	2703	Kfueraer	X422000-A	 	  Di He Po 		023	Wild	K9 V M1 V	-1	(900+1)	[0000]	B	13	9
+
+1105	Empt	D	2704	Tsosoe	B55677C-A	 	    Ag (NIL)		525	JuHl	K8 V	3	(G6C+5)	[AA8D]	BC	18	5760
+1201	Empt	D	2704	Tsosoe	D556759-7	 	    Ag (NIL)		625	JuHl	K8 V	-1	(966+1)	[3624]	BC	18	324
+1240	Empt	D	2704	Tsosoe	D556778-4	 	    Ag (NIL)		325	Wild	K8 V	-1	(966+3)	[B671]	BC	18	972
+1508	Empt	D	2704	Tsosoe	D556755-6	 	    Ag (NIL)		425	Wild	K8 V	-1	(968-1)	[8644]	BC	18	-432
+1900	Empt	D	2704	Tsosoe	D55679A-6	 	    Ag (NIL)		425	Wild	K8 V	-1	(969+3)	[9667]	BC	18	1458
+
+1105	Empt	D	2707	Uenkakh	C85A69D-7	 	   Ni Wa 	A	821	JuHl	F6 V	-2	(852+2)	[A49B]	B	11	160
+1201	Empt	D	2707	Uenkakh	E85A675-5	 	   Ni Wa 	B	921	JuHl	F6 V	-3	(850+2)	[7347]	B	11	80
+1240	Empt	D	2707	Uenkakh	E85A000-5	 	   Di Wa 		021	Wild	F6 V	-3	(800+1)	[0000]	B	11	8
+1508	Empt	D	2707	Uenkakh	E85A000-5	 	   Di Wa 		021	Wild	F6 V	-3	(800+5)	[0000]	B	11	40
+1900	Empt	D	2707	Uenkakh	E85A000-5	 	   Di Wa 		021	Wild	F6 V	-3	(800+4)	[0000]	B	11	32
+
+1105	Empt	D	2708	Kharo	B576687-A	 	   Ag Ni 		900	JuHl	M0 V M3 V	3	(857+3)	[695A]	BC	5	840
+1201	Empt	D	2708	Kharo	D576637-5	 	   Ag Ni 	B	900	JuHl	M0 V M3 V	-2	(851-1)	[4421]	BC	5	-40
+1240	Empt	D	2708	Kharo	D576000-5	 	    Di 		000	Wild	M0 V M3 V	-3	(800+1)	[0000]	B	5	8
+1508	Empt	D	2708	Kharo	D576000-5	 	    Di 		000	Wild	M0 V M3 V	-3	(800+2)	[0000]	B	5	16
+1900	Empt	D	2708	Kharo	D576000-5	 	    Di 		000	Wild	M0 V M3 V	-3	(800+1)	[0000]	B	5	8
+
+1105	Empt	D	2710	Tindhakh	D201133-8	 	   Ic Va Lo 		103	JuHl	M2 V	-3	(600-5)	[1125]	B	11	-30
+1201	Empt	D	2710	Tindhakh	X201000-8	 	   Di Ic Va 		003	JuHl	M2 V	-3	(600+2)	[0000]	B	11	12
+1240	Empt	D	2710	Tindhakh	X201000-8	 	   Di Ic Va 		003	Wild	M2 V	-3	(600+1)	[0000]	B	11	6
+1508	Empt	D	2710	Tindhakh	X201000-8	 	   Di Ic Va 		003	Wild	M2 V	-3	(600+2)	[0000]	B	11	12
+1900	Empt	D	2710	Tindhakh	X201000-8	 	   Di Ic Va 		003	Wild	M2 V	-3	(600-2)	[0000]	B	11	-12
+
+1105	Empt	D	2803	Aerstou	B675775-A	 	    Ag Pi (NIL)		900	JuHl	G7 V	3	(96C+1)	[5A38]	BCD	6	648
+1201	Empt	D	2803	Aerstou	C675874-8	 	   Pa Pi Ph (NIL)		100	JuHl	G7 V	-1	(975+3)	[5746]	BcDe	6	945
+1240	Empt	D	2803	Aerstou	X675000-8	 	   Di Pi (NIL)		000	Wild	G7 V	-3	(900-4)	[0000]	BD	6	-36
+1508	Empt	D	2803	Aerstou	X675000-8	 	    Di (NIL)		000	Wild	G7 V	-3	(900+2)	[0000]	B	6	18
+1900	Empt	D	2803	Aerstou	X675000-8	 	    Di (NIL)		000	Wild	G7 V	-3	(900+3)	[0000]	B	6	27
+
+1105	Empt	D	2804	Thuellrue	A311368-E	 	   Ic Lo 		724	JuHl	M1 V M2 V	1	(B21+1)	[345E]	B	9	22
+1201	Empt	D	2804	Thuellrue	X311000-E	 	   Di Ic 		024	JuHl	M1 V M2 V	-1	(B00+1)	[0000]	B	9	11
+1240	Empt	D	2804	Thuellrue	X311000-E	 	   Di Ic 		024	Wild	M1 V M2 V	-1	(B00+4)	[0000]	B	9	44
+1508	Empt	D	2804	Thuellrue	X311000-E	 	   Di Ic 		024	Wild	M1 V M2 V	-1	(B00+1)	[0000]	B	9	11
+1900	Empt	D	2804	Thuellrue	X311000-E	 	   Di Ic 		024	Wild	M1 V M2 V	-1	(B00+4)	[0000]	B	9	44
+
+1105	Empt	D	2810	Dhungvadha	B310545-B	 	    Ni 		924	JuHl	M0 III	1	(D45-1)	[3639]	B	15	-260
+1201	Empt	D	2810	Dhungvadha	X310000-B	 	    Di 		024	JuHl	M0 III	-1	(D00+1)	[0000]	B	15	13
+1240	Empt	D	2810	Dhungvadha	X310000-B	 	    Di 		024	Wild	M0 III	-1	(D00+1)	[0000]	B	15	13
+1508	Empt	D	2810	Dhungvadha	X310000-B	 	    Di 		024	Wild	M0 III	-1	(D00-1)	[0000]	B	15	-13
+1900	Empt	D	2810	Dhungvadha	X310000-B	 	    Di 		024	Wild	M0 III	-1	(D00-1)	[0000]	B	15	-13
+
+1105	Empt	H	2816	Khollok	E000368-8	 	   As Va Lo 		910	JuHl	M7 V	-3	(620-3)	[3158]	B	4	-36
+1201	Empt	H	2816	Khollok	X000000-8	 	   As Va Di 		010	JuHl	M7 V	-3	(600-4)	[0000]	B	4	-24
+1240	Empt	H	2816	Khollok	X000000-8	 	   As Va Di 		010	Wild	M7 V	-3	(600+1)	[0000]	B	4	6
+1508	Empt	H	2816	Khollok	X000000-8	 	   As Va Di 		010	Wild	M7 V	-3	(600+4)	[0000]	B	4	24
+1900	Empt	H	2816	Khollok	X000000-8	 	   As Va Di 		010	Wild	M7 V	-3	(600-3)	[0000]	B	4	-18
+
+1105	Empt	H	2817	Turakne	D775430-7	 	   Ni Pa 		224	JuHl	K0 V	-3	(631-5)	[1112]	Bc	14	-90
+1201	Empt	H	2817	Turakne	X775423-6	 	   Ni Pa 		224	JuHl	K0 V	-3	(630+2)	[7159]	Bc	14	36
+1240	Empt	H	2817	Turakne	X775000-6	 	    Di 		024	Wild	K0 V	-3	(600-5)	[0000]	B	14	-30
+1508	Empt	H	2817	Turakne	X775000-6	 	    Di 		024	Wild	K0 V	-3	(600-1)	[0000]	B	14	-6
+1900	Empt	H	2817	Turakne	X775000-6	 	    Di 		024	Wild	K0 V	-3	(600+3)	[0000]	B	14	18
+
+1105	Empt	P	2839	Tapendra	C565899-8	 	   Pa Ri Ph (NIL)		800	NaHu	K8 V	0	(A78+1)	[9869]	BcCe	7	560
+1201	Empt	P	2839	Tapendra	E56586B-5	 	   Pa Ri Ph (NIL)	B	900	NaHu	K8 V	-1	(A76+4)	[A712]	BcCe	7	1680
+1240	Empt	P	2839	Tapendra	E56587A-4	 	   Pa Ri Ph (NIL)		400	Wild	K8 V	-1	(A76-1)	[4745]	BcCe	7	-420
+1508	Empt	P	2839	Tapendra	E565885-5	 	   Pa Ri Ph (NIL)		500	Wild	K8 V	-1	(A77+3)	[C7A5]	BcCe	7	1470
+1900	Empt	P	2839	Tapendra	E565847-6	 	   Pa Ri Ph (NIL)		400	Wild	K8 V	-1	(A7A-4)	[874A]	BcCe	7	-2800
+
+1105	Empt	D	2903	Guelan	C401210-7	 	   Ic Va Lo 		323	JuHl	M3 V	-2	(410-5)	[1112]	B	9	-20
+1201	Empt	D	2903	Guelan	X401000-7	 	   Di Ic Va 		023	JuHl	M3 V	-3	(400+2)	[0000]	B	9	8
+1240	Empt	D	2903	Guelan	X401000-7	 	   Di Ic Va 		023	Wild	M3 V	-3	(400+2)	[0000]	B	9	8
+1508	Empt	D	2903	Guelan	X401000-7	 	   Di Ic Va 		023	Wild	M3 V	-3	(400+3)	[0000]	B	9	12
+1900	Empt	D	2903	Guelan	X401000-7	 	   Di Ic Va 		023	Wild	M3 V	-3	(400+1)	[0000]	B	9	4
+
+1105	Empt	D	2904	Uzola	BA78553-9	 	   Ag Ni 		824	JuHl	F0 V	1	(D45-2)	[2626]	BC	12	-520
+1201	Empt	D	2904	Uzola	DA78559-7	 	   Ag Ni 	B	524	JuHl	F0 V	-2	(740-3)	[5358]	BC	12	-84
+1240	Empt	D	2904	Uzola	DA78000-7	 	    Di 		024	Wild	F0 V	-3	(700-4)	[0000]	B	12	-28
+1508	Empt	D	2904	Uzola	DA78000-7	 	    Di 		024	Wild	F0 V	-3	(700+1)	[0000]	B	12	7
+1900	Empt	D	2904	Uzola	DA78000-7	 	    Di 		024	Wild	F0 V	-3	(700-4)	[0000]	B	12	-28
+
+1105	Empt	D	2906	Irrkhun	A420415-E	 	  De He Ni Po 		223	JuHl	M2 V	1	(B34-1)	[253C]	B	15	-132
+1201	Empt	D	2906	Irrkhun	X420000-E	 	  De He Di Po 		023	JuHl	M2 V	-1	(B00+1)	[0000]	B	15	11
+1240	Empt	D	2906	Irrkhun	X420000-E	 	  De He Di Po 		023	Wild	M2 V	-1	(B00-3)	[0000]	B	15	-33
+1508	Empt	D	2906	Irrkhun	X420000-E	 	  De He Di Po 		023	Wild	M2 V	-1	(B00-2)	[0000]	B	15	-22
+1900	Empt	D	2906	Irrkhun	X420000-E	 	  De He Di Po 		023	Wild	M2 V	-1	(B00-3)	[0000]	B	15	-33
+
+1105	Empt	D	2909	Reshiigani	B689699-B	 	   Ni Ri 		102	JuHl	M2 V M2 V	2	(A56+3)	[786C]	BC	10	900
+1201	Empt	D	2909	Reshiigani	X68956E-3	 	   Ni Pr 	B	502	JuHl	M2 V M2 V	-3	(840-2)	[1261]	Bc	10	-64
+1240	Empt	D	2909	Reshiigani	X689589-2	 	   Ni Pr 		202	Wild	M2 V M2 V	-3	(840+1)	[4285]	Bc	10	32
+1508	Empt	D	2909	Reshiigani	X689545-3	 	   Ni Pr 		302	Wild	M2 V M2 V	-3	(843+1)	[3282]	Bc	10	96
+1900	Empt	D	2909	Reshiigani	X689556-5	 	   Ni Pr 		202	Wild	M2 V M2 V	-3	(843+1)	[523A]	Bc	10	96
+
+1105	Empt	H	2911	Ersuk	E000320-7	 	   As Va Lo 		223	JuHl	G6 V	-3	(520-5)	[1112]	B	18	-50
+1201	Empt	H	2911	Ersuk	X000000-7	 	   As Va Di 		023	JuHl	G6 V	-3	(500-1)	[0000]	B	18	-5
+1240	Empt	H	2911	Ersuk	X000000-7	 	   As Va Di 		023	Wild	G6 V	-3	(500+5)	[0000]	B	18	25
+1508	Empt	H	2911	Ersuk	X000000-7	 	   As Va Di 		023	Wild	G6 V	-3	(500+2)	[0000]	B	18	10
+1900	Empt	H	2911	Ersuk	X000000-7	 	   As Va Di 		023	Wild	G6 V	-3	(500+2)	[0000]	B	18	10
+
+1105	Empt	H	2913	Maarkhuda	C99A7A9-A	 	   Pi Wa (NIL)		413	JuHl	G9 V	1	(D6A+2)	[886B]	BD	17	1560
+1201	Empt	H	2913	Maarkhuda	X99A57C-3	 	   Ni Wa (NIL)	B	213	JuHl	G9 V	-3	(943-1)	[7291]	B	17	-108
+1240	Empt	H	2913	Maarkhuda	X99A000-3	 	   Di Wa (NIL)		013	Wild	G9 V	-3	(900+1)	[0000]	B	17	9
+1508	Empt	H	2913	Maarkhuda	X99A000-3	 	   Di Wa (NIL)		013	Wild	G9 V	-3	(900-3)	[0000]	B	17	-27
+1900	Empt	H	2913	Maarkhuda	X99A000-3	 	   Di Wa (NIL)		013	Wild	G9 V	-3	(900+1)	[0000]	B	17	9
+
+1105	Empt	H	2914	Orae	D557585-7	 	   Ag Ni 		723	JuHl	F9 V	-2	(742-4)	[3335]	BC	15	-224
+1201	Empt	H	2914	Orae	X557524-5	 	   Ag Ni 		423	JuHl	F9 V	-2	(740+1)	[5315]	BC	15	28
+1240	Empt	H	2914	Orae	X557534-1	 	   Ag Ni 		223	Wild	F9 V	-2	(742+2)	[5353]	BC	15	112
+1508	Empt	H	2914	Orae	X557559-3	 	   Ag Ni 		323	Wild	F9 V	-2	(740-1)	[6381]	BC	15	-28
+1900	Empt	H	2914	Orae	X557553-4	 	   Ag Ni 		423	Wild	F9 V	-2	(742+1)	[5327]	BC	15	56
+
+1105	Empt	H	2919	Asoekh	B543489-9	 	   Ni Po 		124	JuHl	G2 V	0	(C33+1)	[546A]	B	19	108
+1201	Empt	H	2919	Asoekh	X543122-4	 	   Lo Po 		124	JuHl	G2 V	-3	(600-3)	[1178]	B	19	-18
+1240	Empt	H	2919	Asoekh	X543000-4	 	   Di Po 		024	Wild	G2 V	-3	(600-1)	[0000]	B	19	-6
+1508	Empt	H	2919	Asoekh	X543000-4	 	   Di Po 		024	Wild	G2 V	-3	(600+4)	[0000]	B	19	24
+1900	Empt	H	2919	Asoekh	X543000-4	 	   Di Po 		024	Wild	G2 V	-3	(600+1)	[0000]	B	19	6
+
+1105	Empt	P	2933	Enola	A989756-B	 	    Ri (NIL)		202	NaHu	G0 V M9 V	3	(B6D+2)	[6A4A]	BC	11	1716
+1201	Empt	P	2933	Enola	B989768-6	 	    Ri (NIL)	B	202	NaHu	G0 V M9 V	1	(967+1)	[9818]	BC	11	378
+1240	Empt	P	2933	Enola	B989736-6	 	    Ri (NIL)		102	Wild	G0 V M9 V	1	(966+1)	[8876]	BC	11	324
+1508	Empt	P	2933	Enola	B989634-7	 	   Ni Ri (NIL)		902	Wild	G0 V M9 V	0	(954+1)	[365B]	BC	11	180
+1900	Empt	P	2933	Enola	B9897A8-8	 	    Ri (NIL)		102	Wild	G0 V M9 V	1	(B69+1)	[B835]	BC	11	594
+
+1105	Empt	D	3001	Aezill	E97A547-7	 	   Ni Wa 		522	JuHl	K0 V M9 V	-3	(741-3)	[5257]	B	7	-84
+1201	Empt	D	3001	Aezill	X97A575-6	 	   Ni Wa 	B	322	JuHl	K0 V M9 V	-3	(740+1)	[1256]	B	7	28
+1240	Empt	D	3001	Aezill	X97A000-6	 	   Di Wa 		022	Wild	K0 V M9 V	-3	(700-3)	[0000]	B	7	-21
+1508	Empt	D	3001	Aezill	X97A000-6	 	   Di Wa 		022	Wild	K0 V M9 V	-3	(700+2)	[0000]	B	7	14
+1900	Empt	D	3001	Aezill	X97A000-6	 	   Di Wa 		022	Wild	K0 V M9 V	-3	(700-1)	[0000]	B	7	-7
+
+1105	Empt	D	3005	Soksosoer	B424437-D	 	   Ni Px 		233	JuHl	M2 V M9 V	1	(C34+1)	[455D]	B	15	144
+1201	Empt	D	3005	Soksosoer	X424000-D	 	   Di Px 		033	JuHl	M2 V M9 V	-1	(C00+1)	[0000]	B	15	12
+1240	Empt	D	3005	Soksosoer	X424000-D	 	   Di Px 		033	Wild	M2 V M9 V	-1	(C00-3)	[0000]	B	15	-36
+1508	Empt	D	3005	Soksosoer	X424000-D	 	    Di 		033	Wild	M2 V M9 V	-1	(C00-1)	[0000]	B	15	-12
+1900	Empt	D	3005	Soksosoer	X424000-D	 	    Di 		033	Wild	M2 V M9 V	-1	(C00+4)	[0000]	B	15	48
+
+1105	Empt	D	3007	Zuethun	B76287B-A	 	  Cp Ph Ri (NIL)		810	JuHl	M3 V M5 V	3	(B7C+5)	[AB7C]	BCeF	7	4620
+1201	Empt	D	3007	Zuethun	D76288C-9	 	  Cp Ph Ri (NIL)		910	JuHl	M3 V M5 V	0	(B74+1)	[C859]	BCeF	7	308
+1240	Empt	D	3007	Zuethun	D762889-4	 	  Cp Ph Ri (NIL)		410	Wild	M3 V M5 V	-1	(A7A+1)	[9721]	BCeF	7	700
+1508	Empt	D	3007	Zuethun	D762885-5	 	  Cp Ph Ri (NIL)		310	Wild	M3 V M5 V	-1	(A76-1)	[B725]	BCeF	7	-420
+1900	Empt	D	3007	Zuethun	D7628BE-6	 	  Cp Ph Ri (NIL)		210	Wild	M3 V M5 V	-1	(A74+1)	[87A7]	BCeF	7	280
+
+1105	Empt	D	3008	Engaell	B584412-B	 	   Ni Pa 		523	JuHl	K3 V	1	(B34-3)	[1517]	Bc	12	-396
+1201	Empt	D	3008	Engaell	X584425-4	 	   Ni Pa 		323	JuHl	K3 V	-3	(631+1)	[3158]	Bc	12	18
+1240	Empt	D	3008	Engaell	X584000-4	 	    Di 		023	Wild	K3 V	-3	(600+1)	[0000]	B	12	6
+1508	Empt	D	3008	Engaell	X584000-4	 	    Di 		023	Wild	K3 V	-3	(600-2)	[0000]	B	12	-12
+1900	Empt	D	3008	Engaell	X584000-4	 	    Di 		023	Wild	K3 V	-3	(600+1)	[0000]	B	12	6
+
+1105	Empt	H	3012	Orchard	B664575-9	 	   Ag Pr Ni 		623	NaHu	G0 V	1	(C45-1)	[3637]	BcC	13	-240
+1201	Empt	H	3012	Orchard	X664510-4	 	   Ag Pr Ni 	B	323	NaHu	G0 V	-2	(741-1)	[7354]	BcC	13	-28
+1240	Empt	H	3012	Orchard	X664000-4	 	    Di 		023	Wild	G0 V	-3	(700+1)	[0000]	B	13	7
+1508	Empt	H	3012	Orchard	X664000-4	 	    Di 		023	Wild	G0 V	-3	(700-3)	[0000]	B	13	-21
+1900	Empt	H	3012	Orchard	X664000-4	 	    Di 		023	Wild	G0 V	-3	(700+1)	[0000]	B	13	7
+
+1105	Empt	H	3020	Nakhkol	C550238-6	 	  De Lo Po 		100	JuHl	F5 V	-2	(410-2)	[2156]	B	4	-8
+1201	Empt	H	3020	Nakhkol	E550151-5	 	  De Lo Po 		900	JuHl	F5 V	-3	(400+3)	[1163]	B	4	12
+1240	Empt	H	3020	Nakhkol	E550000-5	 	  De Di Po 		000	Wild	F5 V	-3	(400-1)	[0000]	B	4	-4
+1508	Empt	H	3020	Nakhkol	E550000-5	 	  De Di Po 		000	Wild	F5 V	-3	(400+3)	[0000]	B	4	12
+1900	Empt	H	3020	Nakhkol	E550000-5	 	  De Di Po 		000	Wild	F5 V	-3	(400+1)	[0000]	B	4	4
+
+1105	Empt	D	3101	Llongnarr	C310213-7	 	    Lo 		124	JuHl	F7 V M5 V	-2	(410-5)	[1124]	B	11	-20
+1201	Empt	D	3101	Llongnarr	X310000-7	 	    Di 		024	JuHl	F7 V M5 V	-3	(400+1)	[0000]	B	11	4
+1240	Empt	D	3101	Llongnarr	X310000-7	 	    Di 		024	Wild	F7 V M5 V	-3	(400-2)	[0000]	B	11	-8
+1508	Empt	D	3101	Llongnarr	X310000-7	 	    Di 		024	Wild	F7 V M5 V	-3	(400-1)	[0000]	B	11	-4
+1900	Empt	D	3101	Llongnarr	X310000-7	 	    Di 		024	Wild	F7 V M5 V	-3	(400-4)	[0000]	B	11	-16
+
+1105	Empt	D	3104	Kfarror	B551400-7	 	   Ni Po 		811	JuHl	K4 V	-1	(632-5)	[1312]	B	14	-180
+1201	Empt	D	3104	Kfarror	D551423-4	 	   Ni Po 	B	511	JuHl	K4 V	-3	(630+2)	[2161]	B	14	36
+1240	Empt	D	3104	Kfarror	D551000-4	 	   Di Po 		011	Wild	K4 V	-3	(600+2)	[0000]	B	14	12
+1508	Empt	D	3104	Kfarror	D551000-4	 	   Di Po 		011	Wild	K4 V	-3	(600+1)	[0000]	B	14	6
+1900	Empt	D	3104	Kfarror	D551000-4	 	   Di Po 		011	Wild	K4 V	-3	(600+3)	[0000]	B	14	18
+
+1105	Empt	H	3112	Zuerouk	B68989A-A	 	   Ph Ri (NIL)		324	JuHl	G5 V	3	(G7C+5)	[AB7C]	BCe	18	6720
+1201	Empt	H	3112	Zuerouk	X689868-4	 	   Ph Ri (NIL)	B	324	JuHl	G5 V	-1	(A72+1)	[7733]	BCe	18	140
+1240	Empt	H	3112	Zuerouk	X6898AC-0	 	   Ph Ri (NIL)		124	Wild	G5 V	-1	(A76-1)	[D731]	BCe	18	-420
+1508	Empt	H	3112	Zuerouk	X689744-1	 	    Ri (NIL)		924	Wild	G5 V	-1	(A67-1)	[4655]	BC	18	-420
+1900	Empt	H	3112	Zuerouk	X68989B-2	 	   Ph Ri (NIL)		124	Wild	G5 V	-1	(A77-3)	[8736]	BCe	18	-1470
+
+1105	Empt	H	3116	Nisaga	A6629AB-C	 	  Cp Hi Pr (NIL)	A	823	JuHl	K8 V	3	(G8E+5)	[BC7E]	BcEF	13	8960
+1201	Empt	H	3116	Nisaga	B662474-5	 	   Cp Ni (NIL)		423	JuHl	K8 V	-1	(B30+1)	[3355]	BF	13	33
+1240	Empt	H	3116	Nisaga	B662400-8	 	   Cp Ni (NIL)		223	Wild	K8 V	-1	(G31-4)	[531B]	BF	13	-192
+1508	Empt	H	3116	Nisaga	B662430-8	 	   Cp Ni (NIL)		123	Wild	K8 V	-1	(G31-1)	[637C]	BF	13	-48
+1900	Empt	H	3116	Nisaga	B662478-9	 	   Cp Ni (NIL)		223	Wild	K8 V	0	(G33+1)	[5486]	BF	13	144
+
+1105	Empt	H	3117	Gueghaen	B430311-8	 	  De Lo Po 		822	JuHl	M2 V	-1	(920-5)	[1214]	B	14	-90
+1201	Empt	H	3117	Gueghaen	X430000-8	 	  De Di Po 		022	JuHl	M2 V	-3	(900+2)	[0000]	B	14	18
+1240	Empt	H	3117	Gueghaen	X430000-8	 	  De Di Po 		022	Wild	M2 V	-3	(900+4)	[0000]	B	14	36
+1508	Empt	H	3117	Gueghaen	X430000-8	 	  De Di Po 		022	Wild	M2 V	-3	(900+1)	[0000]	B	14	9
+1900	Empt	H	3117	Gueghaen	X430000-8	 	  De Di Po 		022	Wild	M2 V	-3	(900+5)	[0000]	B	14	45
+
+1105	Empt	P	3136	Miramon	B56568B-8	 	   Ag Ri Ni 		323	NaHu	K9 V M5 V	1	(D55+3)	[877A]	BC	13	975
+1201	Empt	P	3136	Miramon	C565675-5	 	   Ag Ri Ni 	B	423	NaHu	K9 V M5 V	0	(856+1)	[6682]	BC	13	240
+1240	Empt	P	3136	Miramon	C565500-6	 	   Ag Pr Ni 		223	Wild	K9 V M5 V	-1	(841-2)	[7457]	BcC	13	-64
+1508	Empt	P	3136	Miramon	C565530-6	 	   Ag Pr Ni 		223	Wild	K9 V M5 V	-1	(841+3)	[5417]	BcC	13	96
+1900	Empt	P	3136	Miramon	C565589-7	 	   Ag Pr Ni 		323	Wild	K9 V M5 V	-1	(840+1)	[3438]	BcC	13	32
+
+1105	Empt	D	3201	Taegzoer	C425321-B	 	    Lo 		100	JuHl	K7 V	0	(520-4)	[1317]	B	10	-40
+1201	Empt	D	3201	Taegzoer	X425000-B	 	    Di 		000	JuHl	K7 V	-1	(500+1)	[0000]	B	10	5
+1240	Empt	D	3201	Taegzoer	X425000-B	 	    Di 		000	Wild	K7 V	-1	(500+1)	[0000]	B	10	5
+1508	Empt	D	3201	Taegzoer	X425000-B	 	    Di 		000	Wild	K7 V	-1	(500+1)	[0000]	B	10	5
+1900	Empt	D	3201	Taegzoer	X425000-B	 	    Di 		000	Wild	K7 V	-1	(500-1)	[0000]	B	10	-5
+
+1105	Empt	D	3202	Abuish	B88A775-A	 	   Ri Wa (NIL)		723	JuHl	K7 V M9 V	3	(E6C+1)	[5A38]	BC	10	1008
+1201	Empt	D	3202	Abuish	D88A777-8	 	   Ri Wa (NIL)	B	823	JuHl	K7 V M9 V	-1	(E67+3)	[5683]	BC	10	1764
+1240	Empt	D	3202	Abuish	D88A79C-4	 	   Ri Wa (NIL)		423	Wild	K7 V M9 V	-1	(967+1)	[9646]	BC	10	378
+1508	Empt	D	3202	Abuish	D88A79C-5	 	   Ri Wa (NIL)		523	Wild	K7 V M9 V	-1	(966+1)	[5665]	BC	10	324
+1900	Empt	D	3202	Abuish	D88A749-6	 	   Ri Wa (NIL)		623	Wild	K7 V M9 V	-1	(965+3)	[7668]	BC	10	810
+
+1105	Empt	D	3206	Vozak	B546100-8	 	    Lo 		903	JuHl	G2 V M0 V	-1	(600-5)	[1113]	B	15	-30
+1201	Empt	D	3206	Vozak	D546336-4	 	    Lo 		603	JuHl	G2 V M0 V	-3	(320+3)	[3165]	B	15	18
+1240	Empt	D	3206	Vozak	D546000-4	 	    Di 		003	Wild	G2 V M0 V	-3	(300+1)	[0000]	B	15	3
+1508	Empt	D	3206	Vozak	D546000-4	 	    Di 		003	Wild	G2 V M0 V	-3	(300-2)	[0000]	B	15	-6
+1900	Empt	D	3206	Vozak	D546000-4	 	    Di 		003	Wild	G2 V M0 V	-3	(300+2)	[0000]	B	15	6
+
+1105	Empt	D	3208	Aerren	C540336-6	 	  De He Lo Po 		324	JuHl	K1 V M8 V	-2	(520-3)	[2145]	B	17	-30
+1201	Empt	D	3208	Aerren	E54037A-5	 	  De He Lo Po 		224	JuHl	K1 V M8 V	-3	(520+4)	[5163]	B	17	40
+1240	Empt	D	3208	Aerren	E540000-5	 	  De He Di Po 		024	Wild	K1 V M8 V	-3	(500+5)	[0000]	B	17	25
+1508	Empt	D	3208	Aerren	E540000-5	 	  De He Di Po 		024	Wild	K1 V M8 V	-3	(500+1)	[0000]	B	17	5
+1900	Empt	D	3208	Aerren	E540000-5	 	  De He Di Po 		024	Wild	K1 V M8 V	-3	(500+1)	[0000]	B	17	5
+
+1105	Empt	H	3211	Thisuel	C423353-7	 	   Lo Po 		710	JuHl	F4 V	-2	(520-5)	[1124]	B	12	-50
+1201	Empt	H	3211	Thisuel	X423000-7	 	   Di Po 		010	JuHl	F4 V	-3	(500+1)	[0000]	B	12	5
+1240	Empt	H	3211	Thisuel	X423000-7	 	   Di Po 		010	Wild	F4 V	-3	(500-2)	[0000]	B	12	-10
+1508	Empt	H	3211	Thisuel	X423000-7	 	   Di Po 		010	Wild	F4 V	-3	(500+2)	[0000]	B	12	10
+1900	Empt	H	3211	Thisuel	X423000-7	 	   Di Po 		010	Wild	F4 V	-3	(500+1)	[0000]	B	12	5
+
+1105	Empt	H	3212	Khuvoeru	C311211-B	 	   Ic Lo 		912	JuHl	G6 V M9 V	0	(710-4)	[1217]	B	7	-28
+1201	Empt	H	3212	Khuvoeru	X311000-B	 	   Di Ic 		012	JuHl	G6 V M9 V	-1	(700-2)	[0000]	B	7	-14
+1240	Empt	H	3212	Khuvoeru	X311000-B	 	   Di Ic 		012	Wild	G6 V M9 V	-1	(700-4)	[0000]	B	7	-28
+1508	Empt	H	3212	Khuvoeru	X311000-B	 	   Di Ic 		012	Wild	G6 V M9 V	-1	(700+3)	[0000]	B	7	21
+1900	Empt	H	3212	Khuvoeru	X311000-B	 	   Di Ic 		012	Wild	G6 V M9 V	-1	(700+1)	[0000]	B	7	7
+
+1105	Empt	H	3216	Llusega	C530574-7	 	  De Ni Po 		813	JuHl	M2 V M7 V	-2	(742-4)	[3335]	B	12	-224
+1201	Empt	H	3216	Llusega	X530000-7	 	  De Di Po 		013	JuHl	M2 V M7 V	-3	(700-2)	[0000]	B	12	-14
+1240	Empt	H	3216	Llusega	X530000-7	 	  De Di Po 		013	Wild	M2 V M7 V	-3	(700+1)	[0000]	B	12	7
+1508	Empt	H	3216	Llusega	X530000-7	 	  De Di Po 		013	Wild	M2 V M7 V	-3	(700-3)	[0000]	B	12	-21
+1900	Empt	H	3216	Llusega	X530000-7	 	  De Di Po 		013	Wild	M2 V M7 V	-3	(700+3)	[0000]	B	12	21
+
+1105	Empt	H	3219	Riiakea	C864651-9	 	   Ag Ri Ni 		124	JuHl	M0 V M3 V	1	(E55-3)	[2715]	BC	17	-1050
+1201	Empt	H	3219	Riiakea	E864686-8	 	   Ag Ri Ni 	B	224	JuHl	M0 V M3 V	-1	(E54+1)	[4559]	BC	17	280
+1240	Empt	H	3219	Riiakea	E864652-5	 	   Ag Ri Ni 		124	Wild	M0 V M3 V	-1	(854+2)	[5512]	BC	17	320
+1508	Empt	H	3219	Riiakea	E864510-6	 	   Ag Pr Ni 		924	Wild	M0 V M3 V	-2	(843+1)	[8354]	BcC	17	96
+1900	Empt	H	3219	Riiakea	E864653-7	 	   Ag Ri Ni 		124	Wild	M0 V M3 V	-1	(852-2)	[7528]	BC	17	-160
+
+1105	Empt	L	3224	Chimalis	B5658A8-9	 	   Pa Ri Ph (NIL)		200	NaHu	G9 V	2	(A7B+2)	[8A59]	BcCe	10	1540
+1201	Empt	L	3224	Chimalis	D565877-7	 	   Pa Ri Ph (NIL)		300	NaHu	G9 V	-1	(A77-4)	[872A]	BcCe	10	-1960
+1240	Empt	L	3224	Chimalis	D565896-3	 	   Pa Ri Ph (NIL)		100	Wild	G9 V	-1	(A77+5)	[9751]	BcCe	10	2450
+1508	Empt	L	3224	Chimalis	D56579B-4	 	    Ag Ri (NIL)		900	Wild	G9 V	0	(A6A-4)	[5715]	BC	10	-2400
+1900	Empt	L	3224	Chimalis	D5657A9-5	 	    Ag Ri (NIL)		900	Wild	G9 V	0	(A64+1)	[8775]	BC	10	240
+
