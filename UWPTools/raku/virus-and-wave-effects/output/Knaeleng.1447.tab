@@ -1,0 +1,371 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+Knae	A	0101	Dikhoghai	X327000-6	 	Di Pi 		013	Wild	M6 V M8 V	{ -3 }	(700+1)	[0000]	BD	0	7
+Knae	A	0103	Asgvughz	X200000-5	 	Di Na Pi Va 		003	Wild	F2 V	{ -3 }	(400+3)	[0000]	BD	0	12
+Knae	A	0104	Zora	X404000-C	 	Di Ic Va In 		012	Wild	G1 V M6 V	{ 0 }	(D00-1)	[0000]	BE	0	-13
+Knae	A	0109	Duegingoeudh	C586588-4	 	Ag Pr Ni 		212	Wild	F2 V	{ -1 }	(740+1)	[7471]	BcC	0	28
+Knae	E	0111	Anesdokon	X100000-9	 	Di Va 		002	Wild	M0 V M7 V M2 V	{ -2 }	(D00-5)	[0000]	B	0	-65
+Knae	E	0115	Karruez	X423000-5	 	Di Po 		015	Wild	G9 V	{ -3 }	(500+2)	[0000]	B	0	10
+Knae	E	0116	Tava	X768899-0	 	Pa Ri Ph 		402	Wild	F9 V M6 V	{ -1 }	(875+1)	[8791]	BcCe	0	280
+Knae	E	0117	Vuvadhuek	XAC4000-C	 	Di Fl 		000	Wild	K4 V	{ -1 }	(400+1)	[0000]	B	0	4
+Knae	I	0121	Voeorsaerr	D876000-6	 	Di 		002	Wild	F2 V	{ -3 }	(700-3)	[0000]	B	0	-21
+Knae	I	0126	Dikhsaers	E58669A-3	 	Ag Ri Ni 		527	Wild	F8 V K2 V M5 V	{ -1 }	(955+1)	[3551]	BC	0	225
+Knae	I	0129	Ghezesurrgh	X231000-C	 	Di Po 		003	Wild	M2 V M8 V	{ -1 }	(800+3)	[0000]	B	0	24
+Knae	M	0133	Ongazaksa	D674000-4	 	Di 		004	Wild	G1 V	{ -3 }	(600+1)	[0000]	B	0	6
+Knae	A	0203	Sulueng	X778000-2	 	Di 		011	Wild	G8 V	{ -3 }	(900-3)	[0000]	B	0	-27
+Knae	A	0210	Thogzasaegha	E343000-4	 	Di Po 		000	Wild	F7 V	{ -3 }	(600+1)	[0000]	B	0	6
+Knae	E	0212	Oudae	X387555-1	 	Ag Pr Ni 		103	Wild	M1 V M2 V	{ -2 }	(540+1)	[4381]	BcC	0	20
+Knae	E	0218	Ivaegvagz	D7628D9-3	 	Ph Ri 		504	Wild	G1 V	{ -1 }	(778+1)	[6755]	BCe	0	392
+Knae	I	0225	Gurruzaengan	E866000-1	 	Di Ga 		013	Wild	K4 V	{ -3 }	(200-4)	[0000]	B	0	-8
+Knae	I	0226	Asrrolang	X000000-B	 	As Va Di 		002	Wild	F2 V M1 V	{ -1 }	(E00+1)	[0000]	B	0	14
+Knae	I	0229	Zoevanaegats	X6A3000-7	 	Di Fl 		006	Wild	F2 V M7 V M8 V	{ -3 }	(500+4)	[0000]	B	0	20
+Knae	M	0232	Knuekhoe	X637000-6	 	Di 		002	Wild	F2 III K3 V	{ -3 }	(300-4)	[0000]	B	0	-12
+Knae	M	0235	Dzueroune	X530000-9	 	De Di Po 		000	Wild	K0 V	{ -2 }	(400+3)	[0000]	B	0	12
+Knae	M	0236	Dzaeva	X220000-F	 	De Di Po 		004	Wild	M0 V M4 V	{ -1 }	(A00-1)	[0000]	B	0	-10
+Knae	M	0239	Ekador	D687788-1	 	Ag Ri Ga 		203	Wild	F0 V	{ 0 }	(B68-3)	[8751]	BC	0	-1584
+Knae	M	0240	Llunankerz	X261000-4	 	Di 		002	Wild	F5 V	{ -3 }	(700-2)	[0000]	B	0	-14
+Knae	A	0301	Ksouegzoe	E747000-2	 	Di 		014	Wild	F0 V M8 V	{ -3 }	(800-1)	[0000]	B	0	-8
+Knae	A	0307	Arrghiks	X516000-1	 	Di Ic 		010	Wild	M5 V M5 V	{ -3 }	(800-3)	[0000]	B	0	-24
+Knae	E	0311	Dzoghaen	X334000-A	 	Di 		011	Wild	A9 IV K9 V	{ -1 }	(600-1)	[0000]	B	0	-6
+Knae	E	0312	Zoaaeng	E89868B-3	 	Ag Ni 		500	Wild	F5 V	{ -2 }	(C52-5)	[7448]	BC	0	-600
+Knae	E	0318	Ksoosuegh	E675000-1	 	Di 		000	Wild	F2 V	{ -3 }	(B00-2)	[0000]	B	0	-22
+Knae	E	0319	Tsekuegang	X550410-0	 	De Ni Po 		115	Wild	K0 V M2 V	{ -3 }	(633+2)	[2111]	B	0	108
+Knae	I	0324	Vounon	X510000-8	 	Di 		002	Wild	M3 V	{ -3 }	(A00-2)	[0000]	B	0	-20
+Knae	I	0325	Khaezaikue	X224000-A	 	Di Px 		006	Wild	M6 V M8 V	{ -1 }	(C00+1)	[0000]	B	0	12
+Knae	M	0332	Kuevioenueng	E345000-3	 	Di 		024	Wild	F0 V M2 V	{ -3 }	(800+3)	[0000]	B	0	24
+Knae	M	0333	Thengoukhugh	X538000-9	 	Di 		000	Wild	F4 V M1 V	{ -2 }	(B00+1)	[0000]	B	0	11
+Knae	M	0336	Khuengzanigz	D844000-3	 	Di 		000	Wild	F3 V	{ -3 }	(600-2)	[0000]	B	0	-12
+Knae	M	0339	Dosaedzung	X664976-0	 	Hi Pr 		225	Wild	K1 V M1 V	{ -1 }	(982+2)	[8864]	BcE	0	288
+Knae	M	0340	Arrggan	X671723-0	 	He Pi 		205	Wild	F8 V	{ -2 }	(A64-1)	[7551]	BD	0	-240
+Knae	E	0416	Aefuez	E64A000-7	 	Di Wa 		003	Wild	F5 V	{ -3 }	(500-4)	[0000]	B	0	-20
+Knae	E	0417	Gugvues	X8C6000-3	 	Di Fl In 		000	Wild	F2 V	{ -2 }	(300+1)	[0000]	BE	0	3
+Knae	E	0419	Dodhfueth	D252000-4	 	Di Po 		027	Wild	G6 V M8 V	{ -3 }	(700+1)	[0000]	B	0	7
+Knae	I	0421	Ullaorz	X424000-A	 	Di Px 		000	Wild	F6 V	{ -1 }	(800-2)	[0000]	B	0	-16
+Knae	I	0423	Eoenguekoer	E446000-4	 	Di 		016	Wild	G9 V M4 V	{ -3 }	(700-3)	[0000]	B	0	-21
+Knae	I	0424	Tsuegnaeang	XAAA000-7	 	Di Fl 		016	Wild	F6 V M2 V	{ -3 }	(700-2)	[0000]	B	0	-14
+Knae	I	0426	Vangaeksksal	X538000-5	 	Di 		018	Wild	M1 V M3 V	{ -3 }	(800+1)	[0000]	B	0	8
+Knae	M	0437	Thaenadz	X526000-A	 	Di 		017	Wild	G9 V M3 V	{ -1 }	(C00-1)	[0000]	B	0	-12
+Knae	A	0503	Llakha	X7C2000-B	 	Di Fl He 		002	Wild	M2 V	{ -1 }	(900+4)	[0000]	B	0	36
+Knae	A	0504	Saegakhau	XAB8000-7	 	Di Fl 		003	Wild	M0 V	{ -3 }	(700-1)	[0000]	B	0	-7
+Knae	E	0512	Kaegoulon	X200000-B	 	Di Va 		003	Wild	M3 V	{ -1 }	(C00+1)	[0000]	B	0	12
+Knae	E	0513	Irreth	X225000-G	 	Di 		003	Wild	M6 V	{ 0 }	(C00+1)	[0000]	B	0	12
+Knae	E	0514	Kaokasaer	X687678-0	 	Ag Ri Ga Ni 		504	Wild	F1 V	{ -1 }	(753-1)	[6591]	BC	0	-105
+Knae	E	0515	Vaksun	X110000-7	 	Di Na 		002	Wild	M3 V	{ -3 }	(400+3)	[0000]	B	0	12
+Knae	I	0524	Taafu	D657445-2	 	Ga Ni Pa 		203	Wild	F8 V M2 V	{ -3 }	(430+3)	[5114]	Bc	0	36
+Knae	I	0525	Rrouuekhs	X211000-4	 	Di Ic Na Pi 		023	Wild	K8 III	{ -3 }	(900+1)	[0000]	BD	0	9
+Knae	M	0533	Isaezogoun	X7B7000-7	 	Di Fl 		002	Wild	M5 V	{ -3 }	(800-2)	[0000]	B	0	-16
+Knae	M	0535	Ouvogorruz	D443000-3	 	Di Po 		014	Wild	K6 V M6 V	{ -3 }	(800+3)	[0000]	B	0	24
+Knae	M	0536	Faesouk	D559458-4	 	Ni 		303	Wild	G0 V	{ -3 }	(332+1)	[4122]	B	0	18
+Knae	M	0539	Zaghaedhaeng	X867000-3	 	Di Ga 		002	Wild	F5 V	{ -3 }	(A00+3)	[0000]	B	0	30
+Knae	A	0603	Iklorrghvoul	X341000-2	 	Di He Po 		004	Wild	K2 V M7 V	{ -3 }	(A00-2)	[0000]	B	0	-20
+Knae	A	0605	Laeirrgaks	D261000-8	 	Di 		013	Wild	F0 V M3 V	{ -3 }	(E00-5)	[0000]	B	0	-70
+Knae	A	0606	Gughoou	X322000-8	 	Di He Na Pi Po 		010	Wild	F3 V	{ -3 }	(800-2)	[0000]	BD	0	-16
+Knae	A	0608	Thoae	X130000-B	 	De Di Na Po 		021	Wild	F4 V	{ -1 }	(700+1)	[0000]	B	0	7
+Knae	E	0614	Diodoe	X523000-6	 	Di Po 		000	Wild	M7 V M8 V	{ -3 }	(700-2)	[0000]	B	0	-14
+Knae	E	0616	Aethun	X468689-0	 	Ag Ri Ni 		500	Wild	F1 V	{ -1 }	(953+1)	[2541]	BC	0	135
+Knae	E	0620	Vokoroentson	X326000-B	 	Di 		010	Wild	F3 V	{ -1 }	(900+1)	[0000]	B	0	9
+Knae	I	0628	Safofaevue	E646000-6	 	Di 		003	Wild	K3 V	{ -3 }	(300+1)	[0000]	B	0	3
+Knae	M	0636	Aekekue	X200000-D	 	Di Na Pi Va 		023	Wild	F9 V	{ -1 }	(D00+1)	[0000]	BD	0	13
+Knae	M	0639	Kaakhagz	D693777-1	 	Pi 		312	Wild	K0 V M7 V	{ -2 }	(466-1)	[A511]	BD	0	-144
+Knae	A	0701	Uegvounu	D464000-7	 	Di 		004	Wild	F9 V M2 V	{ -3 }	(400+1)	[0000]	B	0	4
+Knae	A	0703	Oegor	X676000-3	 	Di Pi 		000	Wild	F4 V	{ -3 }	(B00+1)	[0000]	BD	0	11
+Knae	A	0704	Khughaenuel	D480000-7	 	De Di 		003	Wild	G1 V	{ -3 }	(300+4)	[0000]	B	0	12
+Knae	A	0706	Iraegknaen	X57688B-0	 	Pa Pi Ph 		315	Wild	F7 V M0 V	{ -2 }	(A71+2)	[6661]	BcDe	0	140
+Knae	A	0707	Daeedhknaek	E979000-3	 	Di 		001	Wild	F4 V	{ -3 }	(700+3)	[0000]	B	0	21
+Knae	E	0715	Oedzang	X8C2000-8	 	Di Fl He 		002	Wild	M0 V M7 V	{ -3 }	(700-3)	[0000]	B	0	-21
+Knae	E	0717	Olavi	E260000-3	 	De Di 		010	Wild	F2 V	{ -3 }	(200-2)	[0000]	B	0	-4
+Knae	E	0720	Tukedhzoerz	X7C2000-1	 	Di Fl He 		012	Wild	M1 V	{ -3 }	(C00-1)	[0000]	B	0	-12
+Knae	I	0723	Zokoknerr	E544000-0	 	Ba 		000	Wild	F5 V	{ -3 }	(500+1)	[0000]	B	0	5
+Knae	I	0724	Thueakue	E887000-4	 	Di Ga 		002	Wild	M8 V	{ -3 }	(800+1)	[0000]	B	0	8
+Knae	I	0727	Kseksukoae	X413000-A	 	Di Ic 		003	Wild	G8 V	{ -1 }	(A00+3)	[0000]	B	0	30
+Knae	I	0728	Dhudzzugh	E554000-6	 	Di 		036	Wild	K3 V M1 V	{ -3 }	(400-3)	[0000]	B	0	-12
+Knae	I	0730	Llaknurroen	X455557-0	 	Ag Ni 		303	Wild	F0 V M2 V	{ -2 }	(441-1)	[4324]	BC	0	-16
+Knae	M	0734	Lloesozu	E678000-1	 	Di 		004	Wild	G4 V	{ -3 }	(500-1)	[0000]	B	0	-5
+Knae	M	0735	Suerrarrall	E85A000-4	 	Di Wa 		003	Wild	F3 V M7 V	{ -3 }	(600-3)	[0000]	B	0	-18
+Knae	M	0736	Rrangaesgza	X100000-C	 	Di Va 		004	Wild	M6 V M8 V	{ -1 }	(G00+1)	[0000]	B	0	16
+Knae	M	0739	Vakakiza	X422000-8	 	Di He Po 		023	Wild	G7 V	{ -3 }	(A00-3)	[0000]	B	0	-30
+Knae	M	0740	Koufakhoog	X220000-B	 	De Di Po 		030	Wild	M1 V	{ -1 }	(A00-4)	[0000]	B	0	-40
+Knae	A	0801	Taekhi	E444000-3	 	Di 		012	Wild	K5 V M7 V	{ -3 }	(600+3)	[0000]	B	0	18
+Knae	A	0804	Gzaeghzaa	D673000-5	 	Di 		010	Wild	F9 V	{ -3 }	(500-5)	[0000]	B	0	-25
+Knae	A	0807	Oldusasghirz	X120000-6	 	De Di Na Pi Po 		026	Wild	M5 V M8 V	{ -3 }	(800+1)	[0000]	BD	0	8
+Knae	A	0808	Aedo	X6A0000-7	 	Di He 		000	Wild	M7 V	{ -3 }	(500+1)	[0000]	B	0	5
+Knae	A	0809	Thatsae	EA9A000-3	 	Di Oc 		005	Wild	F8 V M4 V	{ -3 }	(500-1)	[0000]	B	0	-5
+Knae	E	0819	Knuekes	X110000-B	 	Di 		026	Wild	K8 V M0 V	{ -1 }	(F00+1)	[0000]	B	0	15
+Knae	I	0823	Zinoea	X300000-4	 	Di Va 		012	Wild	G1 V M8 V	{ -3 }	(C00-1)	[0000]	B	0	-12
+Knae	I	0824	Rruvodzu	E99A000-6	 	Di Wa 		032	Wild	M6 V M6 V	{ -3 }	(500-5)	[0000]	B	0	-25
+Knae	I	0825	Oegturr	E653555-3	 	Ni Po 		205	Wild	M1 V M6 V	{ -3 }	(543+1)	[7222]	B	0	60
+Knae	I	0826	Dzaekang	D895000-2	 	Di Pi 		001	Wild	F5 V	{ -3 }	(500+1)	[0000]	BD	0	5
+Knae	M	0832	Osknuengaegz	X610000-7	 	Di 		004	Wild	K0 V	{ -3 }	(500+1)	[0000]	B	0	5
+Knae	M	0835	Guedogue	X8D0000-7	 	Di 		020	Wild	F8 V M5 V	{ -3 }	(800+2)	[0000]	B	0	16
+Knae	M	0836	Aezo	E575756-2	 	Ag Pi 		200	Wild	F9 V	{ -1 }	(467-2)	[6611]	BCD	0	-336
+Knae	M	0838	Zuesuksueks	X382000-2	 	Di 		022	Wild	F9 V	{ -3 }	(B00-4)	[0000]	B	0	-44
+Knae	B	0904	Dharrgidza	X330000-5	 	De Di Po 		042	Wild	F1 V M8 V F8 V M3 V	{ -3 }	(B00-2)	[0000]	B	0	-22
+Knae	B	0907	Ghaeko	X210000-7	 	Di Na Pi 		013	Wild	F4 V	{ -3 }	(400-1)	[0000]	BD	0	-4
+Knae	B	0908	Ueghzang	E251000-1	 	Di Po 		010	Wild	F3 V	{ -3 }	(900+3)	[0000]	B	0	27
+Knae	F	0911	Faefazoo	X320000-A	 	De He Di Na Pi Po 		002	Wild	F8 V M5 V	{ -1 }	(C00+1)	[0000]	BD	0	12
+Knae	F	0913	Kaaetue	X411000-5	 	Di Ic 		001	Wild	M2 V	{ -3 }	(B00+2)	[0000]	B	0	22
+Knae	F	0917	Tsaedukho	E454645-2	 	Ag Ni 		500	Wild	F9 V	{ -2 }	(454+1)	[7491]	BC	0	80
+Knae	F	0918	Gnua	X6A0000-6	 	Di He 		002	Wild	M6 V	{ -3 }	(500-4)	[0000]	B	0	-20
+Knae	J	0922	Garounuek	E557423-2	 	Ni Pa 		202	Wild	F4 V	{ -3 }	(630-5)	[7126]	Bc	0	-90
+Knae	J	0923	Taegharoulo	E575000-5	 	Di 		012	Wild	F5 V M4 V	{ -3 }	(A00-3)	[0000]	B	0	-30
+Knae	J	0924	Aezonneng	XA8A758-0	 	Oc Ri 		223	Wild	M1 V M4 V	{ -1 }	(669-1)	[7655]	BC	0	-324
+Knae	J	0926	Leaefazae	X768476-1	 	Ni Pa 		203	Wild	K8 V	{ -3 }	(333+1)	[4161]	Bc	0	27
+Knae	J	0928	Kazudou	E473000-8	 	Di 		014	Wild	F3 V M2 V F3 V M0 V M5 V	{ -3 }	(F00+1)	[0000]	B	0	15
+Knae	N	0931	Ungvuekong	D372000-6	 	Di He 		004	Wild	K9 V M4 V	{ -3 }	(800-2)	[0000]	B	0	-16
+Knae	B	1009	Kerozodzaks	X100000-7	 	Di Va 		001	Wild	F7 V M5 V	{ -3 }	(700-3)	[0000]	B	0	-21
+Knae	F	1014	Fuzou	X611000-9	 	Di Ic Na 		023	Wild	M8 V	{ -2 }	(900-2)	[0000]	B	0	-18
+Knae	F	1016	Dhekaeaegoe	X300000-8	 	Di Va 		001	Wild	G5 V	{ -3 }	(900+1)	[0000]	B	0	9
+Knae	F	1018	Alang	X334000-7	 	Di 		012	Wild	F3 V	{ -3 }	(B00-1)	[0000]	B	0	-11
+Knae	F	1019	Gvurrilvul	D546000-6	 	Di 		021	Wild	K8 V	{ -3 }	(800-3)	[0000]	B	0	-24
+Knae	F	1020	Aroeoeur	X749000-0	 	Ba 		001	Wild	F1 V M3 V	{ -3 }	(900-4)	[0000]	B	0	-36
+Knae	J	1022	Knengorrg	X8C0000-4	 	Di He 		005	Wild	M2 V	{ -3 }	(500-3)	[0000]	B	0	-15
+Knae	N	1032	Ugnogvas	X645000-4	 	Di 		000	Wild	F6 V	{ -3 }	(600-2)	[0000]	B	0	-12
+Knae	N	1033	Gnungdzoue	X787887-0	 	Ga Pa Ri Ph 		103	Wild	F7 V M0 V	{ -1 }	(873-2)	[3721]	BcCe	0	-336
+Knae	N	1035	Uekhsoroz	X523000-2	 	Di Na Px Po 		002	Wild	M0 V	{ -3 }	(900+1)	[0000]	B	0	9
+Knae	N	1036	Faekaaae	X866977-3	 	Ga Hi Pr 		218	Wild	F0 V M2 V G1 V	{ -1 }	(483-2)	[A857]	BcE	0	-192
+Knae	N	1039	Fourzorr	X427000-E	 	Di In 		002	Wild	F9 V	{ 0 }	(800+1)	[0000]	BE	0	8
+Knae	B	1104	Thokul	X221000-6	 	Di Po 		002	Wild	M5 V	{ -3 }	(700-3)	[0000]	B	0	-21
+Knae	B	1110	Dzizenranoen	D441000-3	 	Di He Pi Po 		024	Wild	G8 V	{ -3 }	(600-3)	[0000]	BD	0	-18
+Knae	F	1116	Thasoeuegi	E6578DG-3	 	Ga Pa Ph 		315	Wild	F7 V M1 V	{ -2 }	(471+1)	[5621]	Bce	0	28
+Knae	F	1119	Aesaenuell	X7B4000-9	 	Di Fl 		000	Wild	K0 V	{ -2 }	(800-2)	[0000]	B	0	-16
+Knae	J	1126	Dhuksalaeng	E555000-1	 	Di 		014	Wild	F5 V	{ -3 }	(800+4)	[0000]	B	0	32
+Knae	J	1129	Zozaeue	X654000-5	 	Di 		005	Wild	K9 V	{ -3 }	(B00+5)	[0000]	B	0	55
+Knae	N	1137	Gogho	X333000-7	 	Di Na Px Po 		022	Wild	F1 IV	{ -3 }	(700+4)	[0000]	B	0	28
+Knae	B	1203	Aedhueuen	X231000-8	 	Di Po 		000	Wild	M5 V M6 V	{ -3 }	(800-1)	[0000]	B	0	-8
+Knae	B	1207	Suo	X510000-9	 	Di Na 		006	Wild	M4 V M5 V	{ -2 }	(F00+3)	[0000]	B	0	45
+Knae	B	1210	Kukaegzuerz	D57678C-1	 	Ag Pi 		202	Wild	F6 V	{ -1 }	(96A+1)	[5691]	BCD	0	540
+Knae	F	1213	Ghaekagve	E898000-4	 	Di 		013	Wild	F6 V	{ -3 }	(300+2)	[0000]	B	0	6
+Knae	F	1214	Dhoeeksvoen	X401000-9	 	Di Ic Va Na Pi 		005	Wild	F7 V	{ -2 }	(C00+4)	[0000]	BD	0	48
+Knae	F	1220	Thaethunokh	X98A000-3	 	Di Wa 		003	Wild	F8 V M7 V	{ -3 }	(900-4)	[0000]	B	0	-36
+Knae	J	1221	Khaeuek	X9B7000-A	 	Di Fl 		023	Wild	F8 V	{ -1 }	(B00+3)	[0000]	B	0	33
+Knae	J	1223	Gaeaeksdhael	X210000-A	 	Di 		002	Wild	A7 II	{ -1 }	(900-1)	[0000]	B	0	-9
+Knae	J	1228	Soukogthae	X100000-9	 	Di Va 		003	Wild	M7 V	{ -2 }	(A00-1)	[0000]	B	0	-10
+Knae	N	1231	Katsasdhedh	X737000-4	 	Cy Di 		011	Wild	F3 V	{ -3 }	(300+3)	[0000]	B	0	9
+Knae	N	1236	Dzongaerr	X7B2000-7	 	Di Fl He 		044	Wild	M4 V M4 V	{ -3 }	(600+2)	[0000]	B	0	12
+Knae	B	1302	Osuetsadh	E753000-7	 	Di Po 		004	Wild	G9 V M7 V	{ -3 }	(700-3)	[0000]	B	0	-21
+Knae	B	1306	Ladha	X200000-B	 	Di Va 		005	Wild	K7 V	{ -1 }	(C00-1)	[0000]	B	0	-12
+Knae	B	1308	Zathaesisagh	E462000-2	 	Di 		001	Wild	F1 V M3 V	{ -3 }	(400-3)	[0000]	B	0	-12
+Knae	B	1309	Agzfouthnous	D678000-6	 	Di 		010	Wild	F8 V	{ -3 }	(700-1)	[0000]	B	0	-7
+Knae	B	1310	Fisutsogh	X120000-6	 	De Di Po 		000	Wild	G9 V	{ -3 }	(A00+1)	[0000]	B	0	10
+Knae	F	1314	Ollkaen	X437000-7	 	Di 		011	Wild	F5 IV	{ -3 }	(900+5)	[0000]	B	0	45
+Knae	F	1316	Tarrung	D888888-2	 	Pa Ri Ph 		203	Wild	F2 V	{ -1 }	(779+2)	[6775]	BcCe	0	882
+Knae	F	1317	Zueruzag	E353000-3	 	Di Po 		002	Wild	F6 V M6 V	{ -3 }	(800+1)	[0000]	B	0	8
+Knae	J	1328	Daengvagh	D466000-6	 	Di 		015	Wild	F9 V M7 V	{ -3 }	(800-1)	[0000]	B	0	-8
+Knae	N	1331	Rradhoutu	X325000-7	 	Di 		002	Wild	F0 V M7 V	{ -3 }	(600-4)	[0000]	B	0	-24
+Knae	N	1332	Aorae	X000000-D	 	As Va Di 		011	Wild	G9 V M4 V	{ -1 }	(B00-3)	[0000]	B	0	-33
+Knae	N	1333	Keadzu	E653424-6	 	Ni Po 		100	Wild	F5 V M4 V	{ -3 }	(530-2)	[8145]	B	0	-30
+Knae	B	1401	Nakhusar	X100000-6	 	Di Va 		003	Wild	M2 V	{ -3 }	(700+2)	[0000]	B	0	14
+Knae	B	1408	Zezanuen	X7A0000-7	 	Di He 		023	Wild	F3 V	{ -3 }	(700-3)	[0000]	B	0	-21
+Knae	F	1413	Ghoga	X323000-4	 	Di Na Pi Po 		022	Wild	M8 V	{ -3 }	(B00-1)	[0000]	BD	0	-11
+Knae	F	1415	Knaekhoo	C565500-5	 	Ag Pr Ni 		103	Wild	F3 V	{ -1 }	(B41+1)	[4469]	BcC	0	44
+Knae	F	1416	Lighzoetsous	X5A3000-9	 	Di Fl In 		002	Wild	F4 V	{ -1 }	(900-3)	[0000]	BE	0	-27
+Knae	J	1426	Uthaethu	X462000-7	 	Di 		021	Wild	F3 V M5 V	{ -3 }	(700+4)	[0000]	B	0	28
+Knae	N	1438	Khongonur	X364830-0	 	Pa Ri Ph 		302	Wild	K9 V	{ -1 }	(575+1)	[7784]	BcCe	0	175
+Knae	N	1439	Fuekhoufo	X436000-4	 	Di 		014	Wild	M6 V	{ -3 }	(800-1)	[0000]	B	0	-8
+Knae	N	1440	Zotuon	X120000-9	 	De Di Po 		002	Wild	M6 V M7 V	{ -2 }	(800-4)	[0000]	B	0	-32
+Knae	B	1501	Dhakegzan	E448000-5	 	Di 		001	Wild	F5 V	{ -3 }	(800-2)	[0000]	B	0	-16
+Knae	B	1502	Likholaengo	E766430-2	 	Ga Ni Pa 		212	Wild	G9 V M8 V	{ -3 }	(931+1)	[3151]	Bc	0	27
+Knae	B	1505	Aesakhurrg	X8C3000-8	 	Di Fl 		014	Wild	M4 V M8 V	{ -3 }	(B00-4)	[0000]	B	0	-44
+Knae	F	1511	Khueug	E447000-5	 	Di 		020	Wild	F8 V	{ -3 }	(600+4)	[0000]	B	0	24
+Knae	F	1512	Oou	E797000-3	 	Di 		011	Wild	F6 V	{ -3 }	(300+1)	[0000]	B	0	3
+Knae	F	1513	Idzoedhe	E87A754-5	 	Pi Wa 		202	Wild	M0 V	{ -2 }	(968-4)	[9578]	BD	0	-1728
+Knae	F	1514	Zougaerrghig	E2558A7-4	 	Pa Ph 		304	Wild	G5 V	{ -2 }	(477+2)	[3676]	Bce	0	392
+Knae	F	1515	Luennakkaks	X511000-7	 	Di Ic 		018	Wild	F2 III M4 V F3 V	{ -3 }	(900-1)	[0000]	B	0	-9
+Knae	F	1520	Khokhdzagzon	X445000-7	 	Di Pi 		015	Wild	F5 V M5 V	{ -3 }	(800-5)	[0000]	BD	0	-40
+Knae	J	1521	Vugnodhos	E352000-3	 	Di Po 		020	Wild	F4 V	{ -3 }	(500-5)	[0000]	B	0	-25
+Knae	J	1525	Llaeksaezal	X200000-6	 	Di Va 		001	Wild	M8 V	{ -3 }	(800+1)	[0000]	B	0	8
+Knae	J	1526	Arruedzae	X521000-8	 	Di He Po 		022	Wild	A7 V M0 V	{ -3 }	(900-3)	[0000]	B	0	-27
+Knae	J	1530	Sazesuerrgh	X504000-8	 	Di Ic Va 		023	Wild	K6 V	{ -3 }	(F00-2)	[0000]	B	0	-30
+Knae	N	1532	Dzaaeza	X697879-0	 	Pa Pi Ph 		114	Wild	M1 V	{ -2 }	(973+3)	[6681]	BcDe	0	567
+Knae	N	1533	Oerresuz	X427000-9	 	Di Pi 		022	Wild	F8 V M6 V	{ -2 }	(700-3)	[0000]	BD	0	-21
+Knae	N	1538	Thaousrror	X8C5000-1	 	Di Fl 		000	Wild	M1 V M2 V	{ -3 }	(500+1)	[0000]	B	0	5
+Knae	B	1601	Agzanrae	X8A2000-9	 	Di Fl He 		003	Wild	F5 II	{ -2 }	(700-1)	[0000]	B	0	-7
+Knae	B	1603	Dadhusedz	X7A3000-6	 	Di Fl 		013	Wild	G4 V	{ -3 }	(600-4)	[0000]	B	0	-24
+Knae	B	1605	Llekho	E344000-5	 	Di 		003	Wild	M4 V	{ -3 }	(C00-2)	[0000]	B	0	-24
+Knae	B	1606	Igasorr	X310000-8	 	Di 		000	Wild	K9 V	{ -3 }	(900+2)	[0000]	B	0	18
+Knae	F	1619	Rrosoezzoedh	X64A000-8	 	Di In Wa 		004	Wild	M1 V M3 V	{ -2 }	(C00+1)	[0000]	BE	0	12
+Knae	F	1620	Nufue	X673000-0	 	Ba 		001	Wild	G9 V M3 V	{ -3 }	(800-1)	[0000]	B	0	-8
+Knae	J	1621	Kuksezsong	X8A0000-9	 	Di He 		002	Wild	M1 V M3 V	{ -2 }	(600-2)	[0000]	B	0	-12
+Knae	J	1624	Kourarrgarr	E548000-3	 	Di Pi 		003	Wild	M6 V	{ -3 }	(C00+3)	[0000]	BD	0	36
+Knae	J	1625	Nuetaoknen	X68A000-4	 	Di Wa 		001	Wild	F5 V M0 V	{ -3 }	(900+5)	[0000]	B	0	45
+Knae	J	1627	Aenukoun	X582876-0	 	Ph Ri 		425	Wild	F9 V M1 V	{ -1 }	(776-1)	[A741]	BCe	0	-294
+Knae	N	1631	Tharralogarr	X686000-3	 	Di Ga 		007	Wild	F8 V F9 V	{ -3 }	(700-4)	[0000]	B	0	-28
+Knae	N	1635	Ogeghzoedz	E777000-4	 	Di 		014	Wild	F7 V	{ -3 }	(800+2)	[0000]	B	0	16
+Knae	N	1639	Koungegaeae	X646000-7	 	Di 		002	Wild	F4 V M5 V	{ -3 }	(B00+2)	[0000]	B	0	22
+Knae	C	1705	Kougzarz	X340000-2	 	De He Di Po 		016	Wild	F6 V M7 V	{ -3 }	(900-1)	[0000]	B	0	-9
+Knae	C	1706	Faaoukhan	X8C6000-8	 	Di Fl In 		000	Wild	F4 V M7 V	{ -2 }	(200-5)	[0000]	BE	0	-10
+Knae	C	1707	Gangkhueng	E562000-4	 	Di 		022	Wild	F4 V M5 V	{ -3 }	(900+5)	[0000]	B	0	45
+Knae	C	1709	Nguekogzgorr	D594000-2	 	Di 		013	Wild	F3 V	{ -3 }	(700+1)	[0000]	B	0	7
+Knae	G	1711	Llaezoug	D979000-3	 	Di 		007	Wild	F8 V M5 V	{ -3 }	(900+1)	[0000]	B	0	9
+Knae	G	1714	Aksueui	X100000-6	 	Di Va 		010	Wild	M2 V M2 V	{ -3 }	(400-1)	[0000]	B	0	-4
+Knae	K	1722	Ksokou	D455442-3	 	Ni Pa 		201	Wild	F8 V	{ -3 }	(832+1)	[3141]	Bc	0	48
+Knae	K	1723	Gaenkuth	XAF4000-3	 	Di 		015	Wild	F8 V	{ -3 }	(A00-2)	[0000]	B	0	-20
+Knae	K	1725	Dzaezele	X484000-2	 	Di 		000	Wild	M1 V	{ -3 }	(600+2)	[0000]	B	0	12
+Knae	K	1727	Oerdzikh	E699777-5	 	Pi 		402	Wild	M5 V	{ -2 }	(767+1)	[9527]	BD	0	294
+Knae	O	1734	Zongakdhaerr	X8A0000-A	 	Di He 		003	Wild	G4 V M0 V	{ -1 }	(800+3)	[0000]	B	0	24
+Knae	O	1735	Teknuezoe	X560000-8	 	De Di 		003	Wild	F2 V M5 V	{ -3 }	(900+1)	[0000]	B	0	9
+Knae	K	1823	Sarrueg	X327000-6	 	Di Pi 		000	Wild	A6 V	{ -3 }	(800-3)	[0000]	BD	0	-24
+Knae	K	1825	Rruezakhsaz	X575000-4	 	Di 		020	Wild	F1 V	{ -3 }	(700-4)	[0000]	B	0	-28
+Knae	K	1827	Saenknanuerr	X373000-4	 	Di 		014	Wild	F4 V M8 V	{ -3 }	(400+1)	[0000]	B	0	4
+Knae	K	1830	Koeghthoez	X410000-8	 	Di 		000	Wild	M6 III	{ -3 }	(700+1)	[0000]	B	0	7
+Knae	O	1831	Oakkaeng	X210000-4	 	Di 		001	Wild	F2 V	{ -3 }	(500+2)	[0000]	B	0	10
+Knae	O	1836	Ghua	X667000-0	 	Ba Ga 		014	Wild	G0 V	{ -3 }	(A00+3)	[0000]	B	0	30
+Knae	C	1905	Nazae	E879000-5	 	Di 		000	Wild	F1 V M3 V	{ -3 }	(500+1)	[0000]	B	0	5
+Knae	C	1906	Aenan	X9D4000-3	 	Di 		024	Wild	F4 V M2 V G6 V M8 V	{ -3 }	(900-1)	[0000]	B	0	-9
+Knae	C	1910	Foeourrgh	X464000-1	 	Di 		032	Wild	F6 V M6 V	{ -3 }	(700+1)	[0000]	B	0	7
+Knae	G	1914	Daeaendorz	X000000-8	 	As Va Di 		005	Wild	F8 V M2 V	{ -3 }	(F00-2)	[0000]	B	0	-30
+Knae	G	1915	Dhakakueou	X100000-0	 	Ba Va 		000	Wild	M5 V	{ -3 }	(C00-2)	[0000]	B	0	-24
+Knae	K	1921	Aerungokh	X667777-0	 	Ag Ri Ga 		203	Wild	G4 V	{ 0 }	(A68+4)	[7771]	BC	0	1920
+Knae	K	1922	Lluru	X543000-3	 	Di Po 		000	Wild	F0 V	{ -3 }	(800+1)	[0000]	B	0	8
+Knae	K	1923	Gungoungus	X8C2000-6	 	Di Fl He 		004	Wild	F5 V	{ -3 }	(500-1)	[0000]	B	0	-5
+Knae	O	1933	Kaelanorok	X475000-0	 	Ba 		005	Wild	F8 V M4 V	{ -3 }	(800-2)	[0000]	B	0	-16
+Knae	O	1934	Kfadhazonodh	D453000-5	 	Di Po 		000	Wild	G9 V	{ -3 }	(700-1)	[0000]	B	0	-7
+Knae	O	1935	Rrasakeksal	X412000-6	 	Di Ic 		004	Wild	M6 III	{ -3 }	(300-3)	[0000]	B	0	-9
+Knae	O	1939	Suekuuedz	E340550-5	 	De He Ni Po 		122	Wild	F7 V M0 V	{ -3 }	(A43-2)	[4293]	B	0	-240
+Knae	C	2003	Kuenaz	X6A2000-2	 	Di Fl He 		002	Wild	M2 V	{ -3 }	(700+2)	[0000]	B	0	14
+Knae	C	2005	Touodzouue	E473000-4	 	Di 		003	Wild	F7 V M0 V	{ -3 }	(900+1)	[0000]	B	0	9
+Knae	G	2012	Knuengolats	X240000-9	 	De Di Po 		010	Wild	F7 V	{ -2 }	(B00-2)	[0000]	B	0	-22
+Knae	G	2014	Ruerra	E744000-4	 	Di 		016	Wild	F7 V M2 V	{ -3 }	(B00-2)	[0000]	B	0	-22
+Knae	G	2018	Aenga	X676000-5	 	Di 		003	Wild	F3 V M6 V	{ -3 }	(700-1)	[0000]	B	0	-7
+Knae	O	2031	Degvog	D592000-2	 	Di He 		004	Wild	F0 V M3 V	{ -3 }	(900+1)	[0000]	B	0	9
+Knae	O	2039	Dhodzueras	X337000-B	 	Di 		002	Wild	G1 V M2 V	{ -1 }	(900+1)	[0000]	B	0	9
+Knae	O	2040	Gnodhou	E59A000-4	 	Di Wa 		001	Wild	M3 V M4 V	{ -3 }	(700+3)	[0000]	B	0	21
+Knae	C	2108	Fothoadu	D648000-8	 	Di 		002	Wild	F3 V M0 V	{ -3 }	(B00+1)	[0000]	B	0	11
+Knae	C	2109	Zouavae	E580000-5	 	De Di 		002	Wild	F0 V	{ -3 }	(400-4)	[0000]	B	0	-16
+Knae	C	2110	Lligalaks	X437000-6	 	Di 		003	Wild	G3 V	{ -3 }	(A00-1)	[0000]	B	0	-10
+Knae	G	2112	Gaevaeenae	X543000-0	 	Ba Po 		003	Wild	K9 V M5 V	{ -3 }	(700-2)	[0000]	B	0	-14
+Knae	G	2117	Fungour	E97A000-4	 	Di Wa 		003	Wild	F4 V	{ -3 }	(500+1)	[0000]	B	0	5
+Knae	K	2122	Udhedoe	E664579-3	 	Ag Pr Ni 		412	Wild	K0 V M0 V	{ -2 }	(941-1)	[2343]	BcC	0	-36
+Knae	K	2124	Gvodza	X130000-B	 	De Di Po 		004	Wild	M4 V	{ -1 }	(D00+2)	[0000]	B	0	26
+Knae	K	2126	Aeluenaeth	X729000-5	 	Di 		014	Wild	K2 V M8 V	{ -3 }	(600-4)	[0000]	B	0	-24
+Knae	K	2129	Fonveg	X452000-4	 	Di Po 		000	Wild	F8 V	{ -3 }	(A00-3)	[0000]	B	0	-30
+Knae	O	2137	Raezuvaevi	X539000-4	 	Di 		011	Wild	G0 V	{ -3 }	(C00+2)	[0000]	B	0	24
+Knae	O	2138	Ursngakaekh	X201000-9	 	Di Ic Va 		000	Wild	G6 III	{ -2 }	(600-1)	[0000]	B	0	-6
+Knae	C	2204	Vaoe	E785000-5	 	Di Ga 		004	Wild	F0 V	{ -3 }	(B00+3)	[0000]	B	0	33
+Knae	C	2210	Rrodhogoe	X100000-7	 	Di Na Va 		003	Wild	M0 III M3 V	{ -3 }	(B00-2)	[0000]	B	0	-22
+Knae	G	2212	Dhovorraa	X636000-A	 	Di 		022	Wild	K8 V M7 V	{ -1 }	(C00-2)	[0000]	B	0	-24
+Knae	G	2213	Gzoingaeg	X9987AD-0	 	Ag Pi 		204	Wild	K4 V	{ -1 }	(868-2)	[6651]	BCD	0	-768
+Knae	G	2216	Suluz	X67A000-6	 	Di Wa 		002	Wild	K3 V M5 V	{ -3 }	(B00+1)	[0000]	B	0	11
+Knae	G	2220	Kozagho	X6B4000-5	 	Di Fl 		002	Wild	M1 V M6 V	{ -3 }	(600-3)	[0000]	B	0	-18
+Knae	O	2231	Thuezaaruel	E694786-1	 	Ag Pi 		203	Wild	F0 V M0 V	{ -1 }	(962-2)	[3644]	BCD	0	-216
+Knae	O	2233	Foeinonuek	X789475-0	 	Ni 		203	Wild	F5 V M4 V	{ -3 }	(A31+1)	[2171]	B	0	30
+Knae	O	2235	Ghaeoezzaegh	D575000-5	 	Di 		000	Wild	F6 V	{ -3 }	(400+4)	[0000]	B	0	16
+Knae	O	2236	Raersoghanuz	X463000-7	 	Di 		012	Wild	F1 V	{ -3 }	(900+2)	[0000]	B	0	18
+Knae	O	2240	Kueangaenvo	X000000-9	 	As Va Di Na In 		004	Wild	F0 V	{ -1 }	(C00-3)	[0000]	BE	0	-36
+Knae	C	2302	Feighthaerr	X410000-B	 	Di Na In 		000	Wild	F3 V	{ 0 }	(800+1)	[0000]	BE	0	8
+Knae	C	2305	Khuearrzong	E343000-4	 	Di Po 		002	Wild	M2 V	{ -3 }	(700-3)	[0000]	B	0	-21
+Knae	C	2306	Avoeoekhs	E65978B-2	 			400	Wild	F1 V	{ -2 }	(762+1)	[A551]	B	0	84
+Knae	C	2308	Aefoerraerr	X735000-9	 	Di 		013	Wild	M3 V	{ -2 }	(B00-3)	[0000]	B	0	-33
+Knae	G	2315	Ngoeognaefue	X410000-5	 	Di 		015	Wild	G3 V M0 V	{ -3 }	(800+1)	[0000]	B	0	8
+Knae	K	2324	Guarraerr	X748000-9	 	Di In 		000	Wild	F6 V M0 V	{ -1 }	(900-1)	[0000]	BE	0	-9
+Knae	K	2325	Louthurrg	XAB6000-8	 	Di Fl 		000	Wild	M6 V M8 V	{ -3 }	(300+1)	[0000]	B	0	3
+Knae	K	2329	Kadzue	X234000-7	 	Di Px 		002	Wild	M2 V	{ -3 }	(A00-1)	[0000]	B	0	-10
+Knae	K	2330	Ksogllokhan	E342000-4	 	Di He Po 		012	Wild	F7 V	{ -3 }	(800-4)	[0000]	B	0	-32
+Knae	O	2331	Luskaersull	X8B2000-8	 	Di Fl He 		002	Wild	M2 V M5 V	{ -3 }	(A00+1)	[0000]	B	0	10
+Knae	O	2334	Vaaezoenirrg	X534000-7	 	Di 		001	Wild	F1 V M5 V	{ -3 }	(300+1)	[0000]	B	0	3
+Knae	O	2337	Zonoeufogh	E442000-6	 	Di He Po 		013	Wild	G4 V	{ -3 }	(800+2)	[0000]	B	0	16
+Knae	O	2338	Gzueovu	D789524-3	 	Ni Pr 		101	Wild	F9 V	{ -3 }	(543+1)	[6265]	Bc	0	60
+Knae	C	2401	Gnaoo	X97A000-9	 	Di Wa 		010	Wild	F2 V M0 V	{ -2 }	(900+3)	[0000]	B	0	27
+Knae	C	2404	Orrag	X400000-9	 	Di Va 		002	Wild	M3 V	{ -2 }	(600+1)	[0000]	B	0	6
+Knae	C	2406	Kakifoe	X5A0000-8	 	Di He 		001	Wild	F6 V	{ -3 }	(A00+1)	[0000]	B	0	10
+Knae	C	2409	Dzoghonuedz	X559748-0	 			401	Wild	F7 V	{ -2 }	(669+4)	[3571]	B	0	1296
+Knae	G	2413	Kagesonaegh	D45267B-3	 	Ni Po 		403	Wild	G8 V	{ -3 }	(652+1)	[9321]	B	0	60
+Knae	G	2416	Gakoungengaz	X303000-A	 	Di Ic Va 		006	Wild	M1 V M4 V	{ -1 }	(H00-1)	[0000]	B	0	-17
+Knae	G	2417	Zaekakue	X324000-8	 	Di Pi 		024	Wild	F4 V	{ -3 }	(A00-2)	[0000]	BD	0	-20
+Knae	G	2419	Oungakh	E779000-5	 	Di 		004	Wild	K1 V	{ -3 }	(B00+1)	[0000]	B	0	11
+Knae	K	2421	Ghaezoa	X575000-0	 	Ba 		023	Wild	F3 V M0 V	{ -3 }	(700-1)	[0000]	B	0	-7
+Knae	K	2424	Athag	D256000-8	 	Di 		002	Wild	F0 V	{ -3 }	(C00-1)	[0000]	B	0	-12
+Knae	O	2432	Uaegzo	E64A000-6	 	Di Wa 		015	Wild	G3 V M3 V	{ -3 }	(700-2)	[0000]	B	0	-14
+Knae	O	2433	Aethrigin	E643000-0	 	Ba Po 		001	Wild	K7 V	{ -3 }	(B00+1)	[0000]	B	0	11
+Knae	O	2434	Foevirzaz	X549000-2	 	Di 		000	Wild	F5 V M8 V	{ -3 }	(900-2)	[0000]	B	0	-18
+Knae	O	2435	Teuesonuekhs	X230000-8	 	De Di Na Po 		000	Wild	K2 V	{ -3 }	(700-1)	[0000]	B	0	-7
+Knae	O	2436	Vuegho	E58558A-2	 	Ag Pr Ni 		104	Wild	G5 V	{ -2 }	(243-2)	[6316]	BcC	0	-48
+Knae	O	2440	Goguekurrgh	X501000-5	 	Di Ic Va Na Pi 		007	Wild	M1 V M1 V	{ -3 }	(900-1)	[0000]	BD	0	-9
+Knae	D	2502	Knuzae	D255000-2	 	Di 		001	Wild	F8 V	{ -3 }	(800-2)	[0000]	B	0	-16
+Knae	D	2508	Egvagh	X510000-5	 	Di 		001	Wild	K5 V	{ -3 }	(A00-3)	[0000]	B	0	-30
+Knae	H	2517	Ksaga	E65388A-1	 	Ph Po 		400	Wild	F5 V	{ -2 }	(B77-3)	[6652]	Be	0	-1617
+Knae	L	2522	Knoeougarrg	X237000-0	 	Ba 		003	Wild	K9 V M3 V	{ -3 }	(A00-2)	[0000]	B	0	-20
+Knae	L	2527	Vuthengang	D76A000-3	 	Di Wa 		013	Wild	F1 V	{ -3 }	(B00+1)	[0000]	B	0	11
+Knae	L	2528	Kuellingez	X484000-2	 	Di 		005	Wild	K9 V	{ -3 }	(800-3)	[0000]	B	0	-24
+Knae	L	2529	Ksoghzozaz	X9B3000-6	 	Di Fl Px 		011	Wild	M3 V M8 V	{ -3 }	(200-4)	[0000]	B	0	-8
+Knae	P	2535	Llaoe	E746000-7	 	Di 		024	Wild	G9 V	{ -3 }	(700+1)	[0000]	B	0	7
+Knae	P	2540	Ghoeoer	E679000-4	 	Di 		010	Wild	F4 V	{ -3 }	(500-4)	[0000]	B	0	-20
+Knae	D	2602	Doukaedhal	X434000-8	 	Di 		004	Wild	F2 V M1 V	{ -3 }	(800+1)	[0000]	B	0	8
+Knae	D	2606	Aenggnaeng	E763000-2	 	Di 		006	Wild	F9 V M1 V	{ -3 }	(B00+1)	[0000]	B	0	11
+Knae	D	2607	Ksoulla	X441000-5	 	Di He Po 		017	Wild	G5 V M8 V	{ -3 }	(A00-3)	[0000]	B	0	-30
+Knae	D	2610	Zagezoeng	X300000-5	 	Di Na Pi Va 		002	Wild	F0 V M4 V	{ -3 }	(300-4)	[0000]	BD	0	-12
+Knae	H	2612	Aenkouz	X310000-E	 	Di Na In 		000	Wild	M3 V	{ 0 }	(800-4)	[0000]	BE	0	-32
+Knae	H	2616	Gvekse	X677000-4	 	Di 		005	Wild	F7 V	{ -3 }	(500+1)	[0000]	B	0	5
+Knae	H	2620	Aeghikhsghes	X384879-0	 	Pa Ri Ph 		414	Wild	F8 V	{ -1 }	(479-2)	[4751]	BcCe	0	-504
+Knae	L	2623	Thueaen	XAA6000-8	 	Di Fl In 		012	Wild	G1 V	{ -2 }	(B00-3)	[0000]	BE	0	-33
+Knae	L	2629	Egefae	X200000-A	 	Di Va 		020	Wild	M6 V	{ -1 }	(900+1)	[0000]	B	0	9
+Knae	D	2703	Naon	X9D6000-8	 	Di 		003	Wild	F8 V	{ -3 }	(A00-1)	[0000]	B	0	-10
+Knae	D	2705	Zaedhoeodzi	X200000-8	 	Di Va 		023	Wild	K5 V	{ -3 }	(G00-2)	[0000]	B	0	-32
+Knae	D	2707	Zoraung	E896000-5	 	Di 		000	Wild	M3 V	{ -3 }	(800+1)	[0000]	B	0	8
+Knae	H	2714	Suniaen	X424000-2	 	Di 		013	Wild	K7 V M0 V	{ -3 }	(300+2)	[0000]	B	0	6
+Knae	H	2717	Ghogvuon	X488000-5	 	Di 		004	Wild	G5 V M4 V	{ -3 }	(500+5)	[0000]	B	0	25
+Knae	L	2721	Ghasa	D785000-4	 	Di Ga 		015	Wild	F0 V M2 V	{ -3 }	(800+3)	[0000]	B	0	24
+Knae	L	2722	Zaenotsae	X330000-6	 	De Di Na Po 		000	Wild	M7 V	{ -3 }	(B00+3)	[0000]	B	0	33
+Knae	L	2723	Aeukanakhs	D440887-2	 	De He Ph Pi Po 		514	Wild	F7 V	{ -2 }	(A76+1)	[9613]	BDe	0	420
+Knae	P	2732	Fueksour	X400000-C	 	Di Na In Va 		002	Wild	M1 V M2 V	{ 0 }	(800+3)	[0000]	BE	0	24
+Knae	P	2735	Vougza	X100000-7	 	Di Na Va 		004	Wild	F9 V M6 V	{ -3 }	(700+3)	[0000]	B	0	21
+Knae	D	2806	Saetsueno	X8A9000-9	 	Di Fl 		012	Wild	M2 V	{ -2 }	(B00+1)	[0000]	B	0	11
+Knae	H	2812	Uenkhosfel	X687585-0	 	Ag Pr Ga Ni 		200	Wild	F4 V	{ -2 }	(440+4)	[7321]	BcC	0	64
+Knae	H	2813	Aeaknou	D367000-8	 	Di 		004	Wild	F1 V M2 V	{ -3 }	(800-1)	[0000]	B	0	-8
+Knae	H	2815	Ksutssugh	X657000-1	 	Di Ga 		000	Wild	F5 V	{ -3 }	(200-2)	[0000]	B	0	-4
+Knae	H	2816	Naeaellku	X8A2000-9	 	Di Fl He 		003	Wild	K5 V	{ -2 }	(700+1)	[0000]	B	0	7
+Knae	H	2819	Izoegzoghz	X468000-5	 	Di 		011	Wild	F7 V	{ -3 }	(700+2)	[0000]	B	0	14
+Knae	L	2823	Dhizathgnull	C7659BD-5	 	Ga Hi Pr 		103	Wild	K1 V	{ 0 }	(582+1)	[5933]	BcE	0	80
+Knae	L	2824	Gokokhllukug	X538000-B	 	Di 		000	Wild	K0 V	{ -1 }	(B00+3)	[0000]	B	0	33
+Knae	P	2836	Ngarrkosouvi	E769576-5	 	Ni Pr 		100	Wild	F6 V	{ -3 }	(940+1)	[4235]	Bc	0	36
+Knae	D	2910	Tireen	E484000-5	 	An {Rosette} Di 		012	Wild	F2 V M4 V	{ -3 }	(700-1)	[0000]	B	0	-7
+Knae	H	2914	Aghaeraedz	X8C4000-8	 	Di Fl 		002	Wild	F3 V	{ -3 }	(900-1)	[0000]	B	0	-9
+Knae	H	2920	Luzgolgan	E759000-7	 	Di 		004	Wild	F3 V	{ -3 }	(600+3)	[0000]	B	0	18
+Knae	L	2921	Naefirran	X442000-7	 	Di He Po 		002	Wild	F4 V M7 V	{ -3 }	(200+1)	[0000]	B	0	2
+Knae	L	2922	Tsadzazoz	X410000-9	 	Di 		002	Wild	M5 V	{ -2 }	(B00+1)	[0000]	B	0	11
+Knae	L	2924	Dugsasae	X532000-8	 	Di Po 		014	Wild	G3 V	{ -3 }	(C00-1)	[0000]	B	0	-12
+Knae	P	2931	Auvuotsaeue	E779000-6	 	Di 		023	Wild	F2 V M6 V	{ -3 }	(300-2)	[0000]	B	0	-6
+Knae	P	2933	Arrllorrgaae	E757000-6	 	Di Ga 		005	Wild	F9 V M3 V	{ -3 }	(C00-1)	[0000]	B	0	-12
+Knae	P	2935	Ngatae	X443000-5	 	Di Pi Po 		021	Wild	F7 V	{ -3 }	(B00+2)	[0000]	BD	0	22
+Knae	P	2936	Outaeoulue	X100000-6	 	Di Na Pi Va 		000	Wild	F9 V	{ -3 }	(400+1)	[0000]	BD	0	4
+Knae	P	2937	Fuegaearrgh	X889998-3	 	Hi Pr 		504	Wild	K9 V M0 V	{ -1 }	(988+1)	[8847]	BcE	0	576
+Knae	P	2938	Aegzanorsak	X486443-0	 	Ni Pa 		105	Wild	G9 V	{ -3 }	(830-4)	[1151]	Bc	0	-96
+Knae	P	2940	Dukfoellar	X354473-0	 	Ni Pa 		101	Wild	K7 V	{ -3 }	(330-3)	[4151]	Bc	0	-27
+Knae	D	3009	Sueouz	X629000-4	 	Di In 		003	Wild	F9 V M0 V	{ -2 }	(900-1)	[0000]	BE	0	-9
+Knae	H	3016	Naksang	E777000-3	 	Di 		007	Wild	K6 V M3 V	{ -3 }	(700-2)	[0000]	B	0	-14
+Knae	H	3018	Ksenoe	X442000-2	 	Di He Po 		004	Wild	F3 V	{ -3 }	(800+2)	[0000]	B	0	16
+Knae	H	3019	Zegzidh	X433000-9	 	Di Na Po 		003	Wild	K5 V	{ -2 }	(800-2)	[0000]	B	0	-16
+Knae	L	3021	Katsuk	X000000-B	 	As Va Di Na 		013	Wild	F5 V	{ -1 }	(B00+1)	[0000]	B	0	11
+Knae	L	3022	Kungoegzaeg	E888776-1	 	Ag Ri 		501	Wild	K3 V M8 V	{ 0 }	(865-1)	[9731]	BC	0	-240
+Knae	L	3024	Uksits	X694000-4	 	Di 		004	Wild	M2 V	{ -3 }	(700+1)	[0000]	B	0	7
+Knae	L	3025	Knaedzae	D648000-2	 	Di 		015	Wild	F0 V M2 V	{ -3 }	(700+3)	[0000]	B	0	21
+Knae	L	3026	Gozo	X526000-5	 	Di Pi 		011	Wild	F7 V	{ -3 }	(B00+1)	[0000]	BD	0	11
+Knae	L	3028	Oedhthueghz	XAC8000-2	 	Di Fl 		001	Wild	M5 V M7 V	{ -3 }	(800+1)	[0000]	B	0	8
+Knae	L	3029	Nudzaeda	X236000-A	 	Di 		002	Wild	M1 V M6 V	{ -1 }	(A00-3)	[0000]	B	0	-30
+Knae	L	3030	Sorruelkakh	X436000-A	 	Di 		004	Wild	M2 V M2 V	{ -1 }	(E00+1)	[0000]	B	0	14
+Knae	P	3039	Knovaero	X420000-B	 	De He Di Po 		001	Wild	K3 V M0 V	{ -1 }	(800+1)	[0000]	B	0	8
+Knae	P	3040	Untuen	X433000-7	 	Di Na Po 		014	Wild	F3 V	{ -3 }	(900+3)	[0000]	B	0	27
+Knae	H	3111	Thaeoes	X150000-4	 	De Di Po 		036	Wild	F6 V M7 V	{ -3 }	(600+2)	[0000]	B	0	12
+Knae	H	3113	Asoerou	X455858-0	 	Pa Ph 		204	Wild	F0 V M5 V	{ -2 }	(A78-1)	[56A1]	Bce	0	-560
+Knae	H	3114	Vogvoeael	X778000-1	 	Di Pi 		002	Wild	F9 V M0 V	{ -3 }	(A00+1)	[0000]	BD	0	10
+Knae	H	3117	Adeoesudhgug	E753000-6	 	Di Po 		011	Wild	F3 V	{ -3 }	(800+3)	[0000]	B	0	24
+Knae	H	3118	Dhoerr	X9BA000-7	 	Di Fl 		002	Wild	K1 III M7 V	{ -3 }	(700+2)	[0000]	B	0	14
+Knae	L	3121	Zalghikanfag	E686000-2	 	Di Ga 		012	Wild	M0 V M5 V	{ -3 }	(800+1)	[0000]	B	0	8
+Knae	L	3123	Ogzae	X120000-7	 	De Di Na Pi Po 		002	Wild	M6 V	{ -3 }	(300-3)	[0000]	BD	0	-9
+Knae	L	3125	Kouzalogh	E648641-1	 	Ag Ni 		502	Wild	M4 V M8 V	{ -2 }	(750+1)	[2425]	BC	0	35
+Knae	L	3128	Gzizue	X595000-2	 	Di 		024	Wild	K2 V	{ -3 }	(300+1)	[0000]	B	0	3
+Knae	L	3129	Gaktsolig	X120000-B	 	De Di Na In Po 		015	Wild	G9 V M2 V	{ 0 }	(900+3)	[0000]	BE	0	27
+Knae	L	3130	Kovaekang	X967000-0	 	Ba 		012	Wild	F6 V	{ -3 }	(600+2)	[0000]	B	0	12
+Knae	P	3136	Knogan	X331000-7	 	Di Na Po 		002	Wild	G0 V	{ -3 }	(900+2)	[0000]	B	0	18
+Knae	P	3139	Vaeourraekh	X458478-0	 	Ni Pa 		102	Wild	M7 V M7 V	{ -3 }	(830+2)	[5112]	Bc	0	48
+Knae	P	3140	Arrgnoenues	E768649-5	 	Ag Ri Ni 		525	Wild	F3 V M1 V M3 V	{ -1 }	(854+1)	[1516]	BC	0	160
+Knae	D	3210	Fovorruenuks	X755000-4	 	Di Ga 		022	Wild	F7 V	{ -3 }	(900+1)	[0000]	B	0	9
+Knae	H	3211	Goulakonkar	EA86000-4	 	Di 		004	Wild	M7 V	{ -3 }	(800+2)	[0000]	B	0	16
+Knae	H	3215	Dzouthague	E676000-1	 	Di 		002	Wild	F6 V	{ -3 }	(300-1)	[0000]	B	0	-3
+Knae	H	3217	Kave	X839000-E	 	Di 		002	Wild	M3 V M5 V	{ -1 }	(C00-1)	[0000]	B	0	-12
+Knae	H	3219	Ekno	X673000-3	 	Di 		010	Wild	F5 V	{ -3 }	(700-1)	[0000]	B	0	-7
+Knae	H	3220	Aesing	E448000-3	 	Di 		004	Wild	G5 V	{ -3 }	(500+1)	[0000]	B	0	5
+Knae	L	3221	Lluenangaeng	X120000-A	 	De Di Po 		014	Wild	M3 V M3 V	{ -1 }	(D00+2)	[0000]	B	0	26
+Knae	P	3232	Agzaeghz	E493000-4	 	Di 		031	Wild	F6 V M4 V	{ -3 }	(500-2)	[0000]	B	0	-10
+Knae	P	3235	Soae	XA9A000-5	 	Di Oc 		004	Wild	G0 V M2 V	{ -3 }	(900+3)	[0000]	B	0	27
+Knae	P	3237	Kfueek	X8B6000-3	 	Di Fl 		003	Wild	M3 V M3 V	{ -3 }	(700+1)	[0000]	B	0	7
+Knae	P	3238	Ouen	X425000-4	 	Di 		003	Wild	M3 V	{ -3 }	(700+1)	[0000]	B	0	7

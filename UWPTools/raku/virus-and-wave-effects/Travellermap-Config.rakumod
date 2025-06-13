@@ -1,9 +1,10 @@
-use Config::TOML;
+#use Config::TOML;
 use GTX;
 use UwpUtil;
 
 class Travellermap-Config is export {
 
+    has $!sourceFile;
     has $!sectorName;
 	has $!abbreviation;
 
@@ -22,6 +23,10 @@ class Travellermap-Config is export {
 	has $!virus-preserve-allegiances	= '';
 	has $!virus-kill-hexes				= '';
 	has $!virus-preserve-hexes			= '';
+
+    method get-source-file {
+		return $!sourceFile.trim;
+	}
 
     method get-exit-year { 
 		my $exit-year = "unknown";
@@ -81,15 +86,15 @@ class Travellermap-Config is export {
 			&.sanity($gtxfile, %hash);
 			say "\tGTX file         \t ", $gtxfile;	
 		} 
-		elsif $tomlfile.IO.e 
-		{
-			my $file = $tomlfile;
-			%hash = from-toml( :$file );
-			&.sanity($tomlfile, %hash);
-			$gtxfile.IO.spurt: to-gtx(%hash); # convert
-			say "\tTOML file        \t ", $tomlfile;	
-			say "\tBuilt GTX file   \t ", $gtxfile;	
-		} 
+#		elsif $tomlfile.IO.e 
+#		{
+#			my $file = $tomlfile;
+#			%hash = from-toml( :$file );
+#			&.sanity($tomlfile, %hash);
+#			$gtxfile.IO.spurt: to-gtx(%hash); # convert
+#			say "\tTOML file        \t ", $tomlfile;	
+#			say "\tBuilt GTX file   \t ", $gtxfile;	
+#		} 
 		else 
 		{
 			die "ERROR: config file not found for $gtxfile or $tomlfile";
@@ -125,6 +130,9 @@ class Travellermap-Config is export {
 			$!virus-preserve-hexes = %hash<virus><preserve-by-hex> 
 				if %hash<virus>.EXISTS-KEY('preserve-by-hex');
 		}
+
+		$!sourceFile = %hash<source><path>
+			if %hash.EXISTS-KEY('source');
 
 		return $!order.split( ' ' );
 	}
@@ -162,8 +170,8 @@ SECTORSUMMARY
 	method in-cow($hex) {
 		return unless %!wave-preserve-area<center>;
 
-		my @hex = Util.hex2rowcol( $hex );
-    	my $dist = Util.distance( %!wave-preserve-area<center>, @hex );
+		my @hex = UwpUtil.hex2rowcol( $hex );
+    	my $dist = UwpUtil.distance( %!wave-preserve-area<center>, @hex );
 		return $dist <= %!wave-preserve-area<radius>;		
 	}
 

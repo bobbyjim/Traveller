@@ -472,26 +472,39 @@ class UWP is export {
 	method calc-tl( $tldm ) {
 		return if $!pop == 0;
 
-		$!tl = $!initial-tl-roll + $tldm;
-		$!tl += 6 if $!starport eq 'A';
-		$!tl += 4 if $!starport eq 'B';
-		$!tl += 2 if $!starport eq 'C';
-		$!tl += 1 if $!starport eq 'F';
-		$!tl -= 4 if $!starport eq 'X';
+        my $min-tl = 1;
+		$min-tl += 6 if $!starport eq 'A';
+		$min-tl += 4 if $!starport eq 'B';
+		$min-tl += 2 if $!starport eq 'C';
+		$min-tl += 1 if $!starport eq 'F';
+		$min-tl -= 4 if $!starport eq 'X';
+		$min-tl += 2 if $!siz <= 1;
+		$min-tl += 1 if 2 <= $!siz <= 4;
+		$min-tl += 1 if $!atm <= 3;
+		$min-tl += 2 if $!atm >= 10;
+		$min-tl += 1 if $!hyd == 9;
+		$min-tl += 2 if $!hyd == 10;
+		$min-tl += 1 if $!pop < 6;
+		$min-tl += 2 if $!pop == 9;
+		$min-tl += 4 if $!pop >= 10;
+		$min-tl += 1 if $!gov == 0 || $!gov == 5;
+		$min-tl += 2 if $!gov == 13;
 
-		$!tl += 2 if $!siz <= 1;
-		$!tl += 1 if 2 <= $!siz <= 4;
-		$!tl += 1 if $!atm <= 3;
-		$!tl += 2 if $!atm >= 10;
-		$!tl += 1 if $!hyd == 9;
-		$!tl += 2 if $!hyd == 10;
-		$!tl += 1 if $!pop < 6;
-		$!tl += 2 if $!pop == 9;
-		$!tl += 4 if $!pop >= 10;
-		$!tl += 1 if $!gov == 0 || $!gov == 5;
-		$!tl += 2 if $!gov == 13;
+		my $max-tl = $min-tl + 5;
 
-		$!tl = 0 if $!tl < 0;
+		my $tl = $min-tl + $!initial-tl-roll + $tldm;
+		$tl = 0 if $tl < 0;
+
+        #
+		#  NEW!  Enforce the official TL rules bounds.
+		#
+		$tl = $min-tl if $tl < $min-tl;
+		$tl = $max-tl if $tl > $max-tl;
+
+		#
+		#  Store TL.
+		#
+		$!tl = $tl;
 	}
 
     method calc-resources {

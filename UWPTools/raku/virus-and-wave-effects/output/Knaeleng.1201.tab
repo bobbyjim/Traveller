@@ -1,0 +1,371 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+Knae	A	0101	Dikhoghai	X327000-6	 	Di Pi 		013	Va	M6 V M8 V	{ -3 }	(700-1)	[0000]	BD	0	-7
+Knae	A	0103	Asgvughz	X200000-5	 	Di Na Pi Va 		003	Va	F2 V	{ -3 }	(400+1)	[0000]	BD	0	4
+Knae	A	0104	Zora	X404000-C	 	Di Ic Va In 		012	Va	G1 V M6 V	{ 0 }	(D00-3)	[0000]	BE	0	-39
+Knae	A	0109	Duegingoeudh	C586648-6	 	Ag Ri Ni 		412	Va	F2 V	{ 0 }	(756-2)	[A657]	BC	0	-420
+Knae	E	0111	Anesdokon	X100000-9	 	Di Va 		002	Va	M0 V M7 V M2 V	{ -2 }	(D00-3)	[0000]	B	0	-39
+Knae	E	0115	Karruez	X423000-5	 	Di Po 		015	VK	G9 V	{ -3 }	(500-4)	[0000]	B	0	-20
+Knae	E	0116	Tava	X76889A-2	 	Pa Ri Ph 	B	802	VK	F9 V M6 V	{ -1 }	(876-1)	[7782]	BcCe	0	-336
+Knae	E	0117	Vuvadhuek	XAC4000-C	 	Di Fl 		000	VK	K4 V	{ -1 }	(400-2)	[0000]	B	0	-8
+Knae	I	0121	Voeorsaerr	D876410-6	 	Ni Pa 		202	VK	F2 V	{ -3 }	(733+2)	[31A6]	Bc	0	126
+Knae	I	0126	Dikhsaers	E5867AB-5	 	Ag Ri 	B	127	VK	F8 V K2 V M5 V	{ 0 }	(966+4)	[6745]	BC	0	1296
+Knae	I	0129	Ghezesurrgh	X231000-C	 	Di Po 		003	Ve	M2 V M8 V	{ -1 }	(800+3)	[0000]	B	0	24
+Knae	M	0133	Ongazaksa	D674377-4	 	Lo 	B	804	Ve	G1 V	{ -3 }	(620+1)	[1162]	B	0	12
+Knae	A	0203	Sulueng	X778577-2	 	Ag Ni 	B	311	Va	G8 V	{ -2 }	(940-1)	[3352]	BC	0	-36
+Knae	A	0210	Thogzasaegha	E343658-4	 	Ni Po 	B	200	Va	F7 V	{ -3 }	(652-1)	[A376]	B	0	-60
+Knae	E	0212	Oudae	X387687-0	 	Ag Ri Ni 		303	Va	M1 V M2 V	{ -1 }	(552-3)	[B571]	BC	0	-150
+Knae	E	0218	Ivaegvagz	D762933-3	 	Hi Pr 	B	104	VK	G1 V	{ -1 }	(784-5)	[A822]	BcE	0	-1120
+Knae	I	0225	Gurruzaengan	E866331-1	 	Ga Lo 	B	713	VK	K4 V	{ -3 }	(220-1)	[4141]	B	0	-4
+Knae	I	0226	Asrrolang	X000000-B	 	As Va Di 		002	VK	F2 V M1 V	{ -1 }	(E00+2)	[0000]	B	0	28
+Knae	I	0229	Zoevanaegats	X6A3000-7	 	Di Fl 		006	Ve	F2 V M7 V M8 V	{ -3 }	(500-3)	[0000]	B	0	-15
+Knae	M	0232	Knuekhoe	X637000-6	 	Di 		002	Ve	F2 III K3 V	{ -3 }	(300-3)	[0000]	B	0	-9
+Knae	M	0235	Dzueroune	X530000-9	 	De Di Po 		000	Ve	K0 V	{ -2 }	(400+1)	[0000]	B	0	4
+Knae	M	0236	Dzaeva	X220000-F	 	De Di Po 		004	Ve	M0 V M4 V	{ -1 }	(A00+1)	[0000]	B	0	10
+Knae	M	0239	Ekador	D68778A-3	 	Ag Ri Ga 	B	503	Ve	F0 V	{ 0 }	(B6B-4)	[B774]	BC	0	-2904
+Knae	M	0240	Llunankerz	X261240-4	 	Lo 		502	Ve	F5 V	{ -3 }	(710+1)	[1162]	B	0	7
+Knae	A	0301	Ksouegzoe	E747613-2	 	Ag Ni 	B	614	Va	F0 V M8 V	{ -2 }	(854+1)	[8491]	BC	0	160
+Knae	A	0307	Arrghiks	X516000-1	 	Di Ic 		010	Va	M5 V M5 V	{ -3 }	(800+1)	[0000]	B	0	8
+Knae	E	0311	Dzoghaen	X334000-A	 	Di 		011	Va	A9 IV K9 V	{ -1 }	(600+1)	[0000]	B	0	6
+Knae	E	0312	Zoaaeng	E898731-6	 	Ag 	B	100	Va	F5 V	{ -1 }	(C69+4)	[B69A]	BC	0	2592
+Knae	E	0318	Ksoosuegh	E675503-1	 	Ag Ni 	B	300	VK	F2 V	{ -2 }	(B40-1)	[8332]	BC	0	-44
+Knae	E	0319	Tsekuegang	X55059C-1	 	De Ni Po 	B	315	VK	K0 V M2 V	{ -3 }	(643-4)	[5271]	B	0	-288
+Knae	I	0324	Vounon	X510000-8	 	Di 		002	VK	M3 V	{ -3 }	(A00+2)	[0000]	B	0	20
+Knae	I	0325	Khaezaikue	X224000-A	 	Di Px 		006	VK	M6 V M8 V	{ -1 }	(C00-3)	[0000]	B	0	-36
+Knae	M	0332	Kuevioenueng	E345273-3	 	Lo 		424	Ve	F0 V M2 V	{ -3 }	(810-2)	[1135]	B	0	-16
+Knae	M	0333	Thengoukhugh	X538000-9	 	Di 		000	Ve	F4 V M1 V	{ -2 }	(B00-2)	[0000]	B	0	-22
+Knae	M	0336	Khuengzanigz	D844201-3	 	Lo 		300	Ve	F3 V	{ -3 }	(610+2)	[5132]	B	0	12
+Knae	M	0339	Dosaedzung	X664975-5	 	Hi Pr 	B	525	Ve	K1 V M1 V	{ -1 }	(985+1)	[A822]	BcE	0	360
+Knae	M	0340	Arrggan	X671789-2	 	He Pi 	B	405	Ve	F8 V	{ -2 }	(A66-1)	[3551]	BD	0	-360
+Knae	E	0416	Aefuez	E64A100-7	 	Lo Wa 		203	VK	F5 V	{ -3 }	(500-1)	[117C]	B	0	-5
+Knae	E	0417	Gugvues	X8C6000-3	 	Di Fl In 		000	VK	F2 V	{ -2 }	(300+3)	[0000]	BE	0	9
+Knae	E	0419	Dodhfueth	D252100-4	 	Lo Po 		127	VK	G6 V M8 V	{ -3 }	(700+1)	[6173]	B	0	7
+Knae	I	0421	Ullaorz	X424000-A	 	Di Px 		000	VK	F6 V	{ -1 }	(800+2)	[0000]	B	0	16
+Knae	I	0423	Eoenguekoer	E446210-4	 	Lo 		916	VK	G9 V M4 V	{ -3 }	(710+2)	[5152]	B	0	14
+Knae	I	0424	Tsuegnaeang	XAAA000-7	 	Di Fl 		016	VK	F6 V M2 V	{ -3 }	(700-2)	[0000]	B	0	-14
+Knae	I	0426	Vangaeksksal	X538000-5	 	Di 		018	VK	M1 V M3 V	{ -3 }	(800-2)	[0000]	B	0	-16
+Knae	M	0437	Thaenadz	X526000-A	 	Di 		017	Ve	G9 V M3 V	{ -1 }	(C00+1)	[0000]	B	0	12
+Knae	A	0503	Llakha	X7C2000-B	 	Di Fl He 		002	Va	M2 V	{ -1 }	(900-2)	[0000]	B	0	-18
+Knae	A	0504	Saegakhau	XAB8000-7	 	Di Fl 		003	Va	M0 V	{ -3 }	(700+1)	[0000]	B	0	7
+Knae	E	0512	Kaegoulon	X200000-B	 	Di Va 		003	VK	M3 V	{ -1 }	(C00-1)	[0000]	B	0	-12
+Knae	E	0513	Irreth	X225000-G	 	Di 		003	VK	M6 V	{ 0 }	(C00-2)	[0000]	B	0	-24
+Knae	E	0514	Kaokasaer	X68776B-5	 	Ag Ri Ga 	B	104	VK	F1 V	{ 0 }	(767-1)	[C765]	BC	0	-294
+Knae	E	0515	Vaksun	X110000-7	 	Di Na 		002	VK	M3 V	{ -3 }	(400+3)	[0000]	B	0	12
+Knae	I	0524	Taafu	D657558-5	 	Ag Ga Ni 	B	503	VK	F8 V M2 V	{ -2 }	(444-2)	[1312]	BC	0	-128
+Knae	I	0525	Rrouuekhs	X211000-4	 	Di Ic Na Pi 		023	VK	K8 III	{ -3 }	(900+4)	[0000]	BD	0	36
+Knae	M	0533	Isaezogoun	X7B7000-7	 	Di Fl 		002	Ve	M5 V	{ -3 }	(800-2)	[0000]	B	0	-16
+Knae	M	0535	Ouvogorruz	D443533-3	 	Ni Po 	B	514	Ve	K6 V M6 V	{ -3 }	(840+4)	[4266]	B	0	128
+Knae	M	0536	Faesouk	D559699-3	 	Ni 	B	703	Ve	G0 V	{ -3 }	(352+5)	[8391]	B	0	150
+Knae	M	0539	Zaghaedhaeng	X867686-3	 	Ag Ri Ga Ni 	B	402	Ve	F5 V	{ -1 }	(A50+3)	[3521]	BC	0	150
+Knae	A	0603	Iklorrghvoul	X341279-2	 	He Lo Po 		104	Va	K2 V M7 V	{ -3 }	(A10-1)	[1181]	B	0	-10
+Knae	A	0605	Laeirrgaks	D261104-8	 	Lo 		613	Va	F0 V M3 V	{ -3 }	(E00+5)	[1137]	B	0	70
+Knae	A	0606	Gughoou	X322000-8	 	Di He Na Pi Po 		010	Va	F3 V	{ -3 }	(800+1)	[0000]	BD	0	8
+Knae	A	0608	Thoae	X130000-B	 	De Di Na Po 		021	Va	F4 V	{ -1 }	(700+1)	[0000]	B	0	7
+Knae	E	0614	Diodoe	X523000-6	 	Di Po 		000	VK	M7 V M8 V	{ -3 }	(700-4)	[0000]	B	0	-28
+Knae	E	0616	Aethun	X468785-0	 	Ag Ri 	B	100	VK	F1 V	{ 0 }	(96C-1)	[8732]	BC	0	-648
+Knae	E	0620	Vokoroentson	X326000-B	 	Di 		010	VK	F3 V	{ -1 }	(900+1)	[0000]	B	0	9
+Knae	I	0628	Safofaevue	E646375-6	 	Lo 		803	VK	K3 V	{ -3 }	(320+2)	[1187]	B	0	12
+Knae	M	0636	Aekekue	X200000-D	 	Di Na Pi Va 		023	Ve	F9 V	{ -1 }	(D00-1)	[0000]	BD	0	-13
+Knae	M	0639	Kaakhagz	D693886-2	 	Ph Pi 	B	612	Ve	K0 V M7 V	{ -2 }	(477+1)	[B684]	BDe	0	196
+Knae	A	0701	Uegvounu	D464533-7	 	Ag Pr Ni 		404	Va	F9 V M2 V	{ -2 }	(442-1)	[1337]	BcC	0	-32
+Knae	A	0703	Oegor	X6767AA-3	 	Ag Pi 	B	500	Va	F4 V	{ -1 }	(B69+1)	[4611]	BCD	0	594
+Knae	A	0704	Khughaenuel	D48057A-7	 	De Ni Pr 		303	Va	G1 V	{ -3 }	(340+2)	[5214]	Bc	0	24
+Knae	A	0706	Iraegknaen	X5768AC-4	 	Pa Pi Ph 	B	615	Va	F7 V M0 V	{ -2 }	(A74+3)	[3663]	BcDe	0	840
+Knae	A	0707	Daeedhknaek	E979100-3	 	Lo 		801	Va	F4 V	{ -3 }	(700+1)	[6113]	B	0	7
+Knae	E	0715	Oedzang	X8C2000-8	 	Di Fl He 		002	VK	M0 V M7 V	{ -3 }	(700-1)	[0000]	B	0	-7
+Knae	E	0717	Olavi	E260110-3	 	De Lo 		310	VK	F2 V	{ -3 }	(200-1)	[1126]	B	0	-2
+Knae	E	0720	Tukedhzoerz	X7C2000-1	 	Di Fl He 		012	VK	M1 V	{ -3 }	(C00-1)	[0000]	B	0	-12
+Knae	I	0723	Zokoknerr	E544345-0	 	Lo 		100	VK	F5 V	{ -3 }	(520-3)	[5161]	B	0	-30
+Knae	I	0724	Thueakue	E887454-4	 	Ga Ni Pa 	B	502	VK	M8 V	{ -3 }	(830+1)	[1134]	Bc	0	24
+Knae	I	0727	Kseksukoae	X413000-A	 	Di Ic 		003	VK	G8 V	{ -1 }	(A00+4)	[0000]	B	0	40
+Knae	I	0728	Dhudzzugh	E554101-6	 	Lo 		736	VK	K3 V M1 V	{ -3 }	(400+2)	[6136]	B	0	8
+Knae	I	0730	Llaknurroen	X455676-3	 	Ag Ni 		603	Ve	F0 V M2 V	{ -2 }	(452-2)	[9471]	BC	0	-80
+Knae	M	0734	Lloesozu	E678569-1	 	Ag Ni 	B	404	Ve	G4 V	{ -2 }	(540+1)	[1351]	BC	0	20
+Knae	M	0735	Suerrarrall	E85A588-4	 	Ni Wa 	B	303	Ve	F3 V M7 V	{ -3 }	(640-2)	[6226]	B	0	-48
+Knae	M	0736	Rrangaesgza	X100000-C	 	Di Va 		004	Ve	M6 V M8 V	{ -1 }	(G00+2)	[0000]	B	0	32
+Knae	M	0739	Vakakiza	X422000-8	 	Di He Po 		023	Ve	G7 V	{ -3 }	(A00+1)	[0000]	B	0	10
+Knae	M	0740	Koufakhoog	X220000-B	 	De Di Po 		030	Ve	M1 V	{ -1 }	(A00-3)	[0000]	B	0	-30
+Knae	A	0801	Taekhi	E444200-3	 	Lo 		412	Va	K5 V M7 V	{ -3 }	(610+3)	[2191]	B	0	18
+Knae	A	0804	Gzaeghzaa	D673451-5	 	Ni 		610	Va	F9 V	{ -3 }	(530+1)	[4129]	B	0	15
+Knae	A	0807	Oldusasghirz	X120000-6	 	De Di Na Pi Po 		026	Va	M5 V M8 V	{ -3 }	(800-3)	[0000]	BD	0	-24
+Knae	A	0808	Aedo	X6A0000-7	 	Di He 		000	Va	M7 V	{ -3 }	(500+1)	[0000]	B	0	5
+Knae	A	0809	Thatsae	EA9A554-3	 	Ni Oc 	B	405	Va	F8 V M4 V	{ -3 }	(541+5)	[6241]	B	0	100
+Knae	E	0819	Knuekes	X110000-B	 	Di 		026	VK	K8 V M0 V	{ -1 }	(F00+1)	[0000]	B	0	15
+Knae	I	0823	Zinoea	X300000-4	 	Di Va 		012	VK	G1 V M8 V	{ -3 }	(C00+2)	[0000]	B	0	24
+Knae	I	0824	Rruvodzu	E99A352-6	 	Lo Wa 		232	VK	M6 V M6 V	{ -3 }	(520+1)	[11A9]	B	0	10
+Knae	I	0825	Oegturr	E653550-4	 	Ni Po 	B	505	VK	M1 V M6 V	{ -3 }	(540+1)	[5281]	B	0	20
+Knae	I	0826	Dzaekang	D89575A-2	 	Ag Pi 	B	501	VK	F5 V	{ -1 }	(561-1)	[A661]	BCD	0	-30
+Knae	M	0832	Osknuengaegz	X610000-7	 	Di 		004	Ve	K0 V	{ -3 }	(500+1)	[0000]	B	0	5
+Knae	M	0835	Guedogue	X8D0000-7	 	Di 		020	Ve	F8 V M5 V	{ -3 }	(800-1)	[0000]	B	0	-8
+Knae	M	0836	Aezo	E5757CF-4	 	Ag Pi 	B	400	Ve	F9 V	{ -1 }	(465-1)	[6657]	BCD	0	-120
+Knae	M	0838	Zuesuksueks	X382223-2	 	Lo 		622	Ve	F9 V	{ -3 }	(B10-5)	[6193]	B	0	-55
+Knae	B	0904	Dharrgidza	X330000-5	 	De Di Po 		042	Va	F1 V M8 V F8 V M3 V	{ -3 }	(B00+1)	[0000]	B	0	11
+Knae	B	0907	Ghaeko	X210000-7	 	Di Na Pi 		013	Va	F4 V	{ -3 }	(400+1)	[0000]	BD	0	4
+Knae	B	0908	Ueghzang	E251577-1	 	Ni Po 		210	Va	F3 V	{ -3 }	(940-3)	[6221]	B	0	-108
+Knae	F	0911	Faefazoo	X320000-A	 	De He Di Na Pi Po 		002	Va	F8 V M5 V	{ -1 }	(C00+3)	[0000]	BD	0	36
+Knae	F	0913	Kaaetue	X411000-5	 	Di Ic 		001	VK	M2 V	{ -3 }	(B00+1)	[0000]	B	0	11
+Knae	F	0917	Tsaedukho	E454757-5	 	Ag 		100	VK	F9 V	{ -1 }	(465-2)	[5645]	BC	0	-240
+Knae	F	0918	Gnua	X6A0000-6	 	Di He 		002	VK	M6 V	{ -3 }	(500+1)	[0000]	B	0	5
+Knae	J	0922	Garounuek	E557557-3	 	Ag Ni 	B	502	VK	F4 V	{ -2 }	(642-3)	[5391]	BC	0	-144
+Knae	J	0923	Taegharoulo	E575100-5	 	Lo 	B	312	VK	F5 V M4 V	{ -3 }	(A00-1)	[1115]	B	0	-10
+Knae	J	0924	Aezonneng	XA8A76D-6	 	Oc Ri 	B	423	VK	M1 V M4 V	{ -1 }	(662+2)	[4677]	BC	0	144
+Knae	J	0926	Leaefazae	X768451-4	 	Ni Pa 	B	503	VK	K8 V	{ -3 }	(330-2)	[5143]	Bc	0	-18
+Knae	J	0928	Kazudou	E473410-8	 	Ni 		414	VK	F3 V M2 V F3 V M0 V M5 V	{ -3 }	(F30-2)	[7158]	B	0	-90
+Knae	N	0931	Ungvuekong	D372353-6	 	He Lo 		304	Ve	K9 V M4 V	{ -3 }	(820-5)	[5114]	B	0	-80
+Knae	B	1009	Kerozodzaks	X100000-7	 	Di Va 		001	Va	F7 V M5 V	{ -3 }	(700+2)	[0000]	B	0	14
+Knae	F	1014	Fuzou	X611000-9	 	Di Ic Na 		023	VK	M8 V	{ -2 }	(900+2)	[0000]	B	0	18
+Knae	F	1016	Dhekaeaegoe	X300000-8	 	Di Va 		001	VK	G5 V	{ -3 }	(900+3)	[0000]	B	0	27
+Knae	F	1018	Alang	X334000-7	 	Di 		012	VK	F3 V	{ -3 }	(B00+1)	[0000]	B	0	11
+Knae	F	1019	Gvurrilvul	D546376-6	 	Lo 		321	VK	K8 V	{ -3 }	(820+1)	[7187]	B	0	16
+Knae	F	1020	Aroeoeur	X749633-0	 	Ni 	B	401	VK	F1 V M3 V	{ -3 }	(953-5)	[7391]	B	0	-675
+Knae	J	1022	Knengorrg	X8C0000-4	 	Di He 		005	VK	M2 V	{ -3 }	(500+2)	[0000]	B	0	10
+Knae	N	1032	Ugnogvas	X645201-4	 	Lo 		200	Ve	F6 V	{ -3 }	(610+3)	[6133]	B	0	18
+Knae	N	1033	Gnungdzoue	X78789D-0	 	Ga Pa Ri Ph 	B	303	Ve	F7 V M0 V	{ -1 }	(875+1)	[A782]	BcCe	0	280
+Knae	N	1035	Uekhsoroz	X523000-2	 	Di Na Px Po 		002	Ve	M0 V	{ -3 }	(900-2)	[0000]	B	0	-18
+Knae	N	1036	Faekaaae	X866976-8	 	Ga Hi Pr 		418	Ve	F0 V M2 V G1 V	{ -1 }	(D86-3)	[A89A]	BcE	0	-1872
+Knae	N	1039	Fourzorr	X427000-E	 	Di In 		002	Ve	F9 V	{ 0 }	(800-2)	[0000]	BE	0	-16
+Knae	B	1104	Thokul	X221000-6	 	Di Po 		002	Va	M5 V	{ -3 }	(700+5)	[0000]	B	0	35
+Knae	B	1110	Dzizenranoen	D44189B-3	 	He Ph Pi Po 		424	Va	G8 V	{ -2 }	(674-3)	[8637]	BDe	0	-504
+Knae	F	1116	Thasoeuegi	E657885-1	 	Ga Pa Ph 	B	715	VK	F7 V M1 V	{ -2 }	(472+3)	[B685]	Bce	0	168
+Knae	F	1119	Aesaenuell	X7B4000-9	 	Di Fl 		000	VK	K0 V	{ -2 }	(800-5)	[0000]	B	0	-40
+Knae	J	1126	Dhuksalaeng	E555242-1	 	Lo 	B	814	VK	F5 V	{ -3 }	(810+2)	[3151]	B	0	16
+Knae	J	1129	Zozaeue	X654125-5	 	Lo 		905	Va	K9 V	{ -3 }	(B00-1)	[1166]	B	0	-11
+Knae	N	1137	Gogho	X333000-7	 	Di Na Px Po 		022	Ve	F1 IV	{ -3 }	(700-2)	[0000]	B	0	-14
+Knae	B	1203	Aedhueuen	X231000-8	 	Di Po 		000	Va	M5 V M6 V	{ -3 }	(800+1)	[0000]	B	0	8
+Knae	B	1207	Suo	X510000-9	 	Di Na 		006	Va	M4 V M5 V	{ -2 }	(F00+2)	[0000]	B	0	30
+Knae	B	1210	Kukaegzuerz	D57679A-4	 	Ag Pi 	B	502	Va	F6 V	{ -1 }	(96A-3)	[7621]	BCD	0	-1620
+Knae	F	1213	Ghaekagve	E898301-4	 	Lo 	B	713	VK	F6 V	{ -3 }	(320+5)	[1172]	B	0	30
+Knae	F	1214	Dhoeeksvoen	X401000-9	 	Di Ic Va Na Pi 		005	VK	F7 V	{ -2 }	(C00+5)	[0000]	BD	0	60
+Knae	F	1220	Thaethunokh	X98A246-3	 	Lo Wa 	B	503	VK	F8 V M7 V	{ -3 }	(910-2)	[6152]	B	0	-18
+Knae	J	1221	Khaeuek	X9B7000-A	 	Di Fl 		023	VK	F8 V	{ -1 }	(B00-2)	[0000]	B	0	-22
+Knae	J	1223	Gaeaeksdhael	X210000-A	 	Di 		002	VK	A7 II	{ -1 }	(900+2)	[0000]	B	0	18
+Knae	J	1228	Soukogthae	X100000-9	 	Di Va 		003	Va	M7 V	{ -2 }	(A00-3)	[0000]	B	0	-30
+Knae	N	1231	Katsasdhedh	X737000-4	 	Cy Di 		011	Ve	F3 V	{ -3 }	(300+2)	[0000]	B	0	6
+Knae	N	1236	Dzongaerr	X7B2000-7	 	Di Fl He 		044	Ve	M4 V M4 V	{ -3 }	(600+1)	[0000]	B	0	6
+Knae	B	1302	Osuetsadh	E753646-7	 	Ni Po 		604	Va	G9 V M7 V	{ -3 }	(750+1)	[8384]	B	0	35
+Knae	B	1306	Ladha	X200000-B	 	Di Va 		005	Va	K7 V	{ -1 }	(C00-5)	[0000]	B	0	-60
+Knae	B	1308	Zathaesisagh	E46257A-2	 	Ni Pr 	B	501	Va	F1 V M3 V	{ -3 }	(442+1)	[6232]	Bc	0	32
+Knae	B	1309	Agzfouthnous	D678187-6	 	Lo 		610	Va	F8 V	{ -3 }	(700+2)	[1131]	B	0	14
+Knae	B	1310	Fisutsogh	X120000-6	 	De Di Po 		000	Va	G9 V	{ -3 }	(A00+4)	[0000]	B	0	40
+Knae	F	1314	Ollkaen	X437000-7	 	Di 		011	VK	F5 IV	{ -3 }	(900-2)	[0000]	B	0	-18
+Knae	F	1316	Tarrung	D8888AD-4	 	Pa Ri Ph 	B	403	VK	F2 V	{ -1 }	(775+2)	[B735]	BcCe	0	490
+Knae	F	1317	Zueruzag	E353101-3	 	Lo Po 		802	VK	F6 V M6 V	{ -3 }	(800-3)	[4173]	B	0	-24
+Knae	J	1328	Daengvagh	D466578-6	 	Ag Pr Ni 		415	Va	F9 V M7 V	{ -2 }	(844+3)	[9368]	BcC	0	384
+Knae	N	1331	Rradhoutu	X325000-7	 	Di 		002	Ve	F0 V M7 V	{ -3 }	(600+1)	[0000]	B	0	6
+Knae	N	1332	Aorae	X000000-D	 	As Va Di 		011	Ve	G9 V M4 V	{ -1 }	(B00+1)	[0000]	B	0	11
+Knae	N	1333	Keadzu	E653447-5	 	Ni Po 		300	Ve	F5 V M4 V	{ -3 }	(533-1)	[3115]	B	0	-45
+Knae	B	1401	Nakhusar	X100000-6	 	Di Va 		003	Va	M2 V	{ -3 }	(700+2)	[0000]	B	0	14
+Knae	B	1408	Zezanuen	X7A0000-7	 	Di He 		023	Va	F3 V	{ -3 }	(700+1)	[0000]	B	0	7
+Knae	F	1413	Ghoga	X323000-4	 	Di Na Pi Po 		022	VK	M8 V	{ -3 }	(B00-1)	[0000]	BD	0	-11
+Knae	F	1415	Knaekhoo	C565579-6	 	Ag Pr Ni 		303	VK	F3 V	{ -1 }	(B40-2)	[1415]	BcC	0	-88
+Knae	F	1416	Lighzoetsous	X5A3000-9	 	Di Fl In 		002	VK	F4 V	{ -1 }	(900+1)	[0000]	BE	0	9
+Knae	J	1426	Uthaethu	X462000-7	 	Di 		021	Va	F3 V M5 V	{ -3 }	(700+1)	[0000]	B	0	7
+Knae	N	1438	Khongonur	X364875-1	 	Pa Ri Ph 	B	702	Ve	K9 V	{ -1 }	(575+1)	[7731]	BcCe	0	175
+Knae	N	1439	Fuekhoufo	X436000-4	 	Di 		014	Ve	M6 V	{ -3 }	(800-4)	[0000]	B	0	-32
+Knae	N	1440	Zotuon	X120000-9	 	De Di Po 		002	Ve	M6 V M7 V	{ -2 }	(800+1)	[0000]	B	0	8
+Knae	B	1501	Dhakegzan	E44856A-5	 	Ag Ni 		401	Va	F5 V	{ -2 }	(840-1)	[6311]	BC	0	-32
+Knae	B	1502	Likholaengo	E766542-2	 	Ag Pr Ga Ni 	B	412	Va	G9 V M8 V	{ -2 }	(944+2)	[6361]	BcC	0	288
+Knae	B	1505	Aesakhurrg	X8C3000-8	 	Di Fl 		014	Va	M4 V M8 V	{ -3 }	(B00+1)	[0000]	B	0	11
+Knae	F	1511	Khueug	E447559-5	 	Ag Ni 	B	420	VK	F8 V	{ -2 }	(641+2)	[1333]	BC	0	48
+Knae	F	1512	Oou	E797234-3	 	Lo 	B	211	VK	F6 V	{ -3 }	(310+4)	[3145]	B	0	12
+Knae	F	1513	Idzoedhe	E87A788-5	 	Pi Wa 	B	502	VK	M0 V	{ -2 }	(964+1)	[4584]	BD	0	216
+Knae	F	1514	Zougaerrghig	E255854-8	 	Pa Ph 		704	VK	G5 V	{ -2 }	(876+1)	[863A]	Bce	0	336
+Knae	F	1515	Luennakkaks	X511000-7	 	Di Ic 		018	VK	F2 III M4 V F3 V	{ -3 }	(900-1)	[0000]	B	0	-9
+Knae	F	1520	Khokhdzagzon	X445000-7	 	Di Pi 		015	Va	F5 V M5 V	{ -3 }	(800+1)	[0000]	BD	0	8
+Knae	J	1521	Vugnodhos	E352242-3	 	Lo Po 		320	Va	F4 V	{ -3 }	(510+1)	[2148]	B	0	5
+Knae	J	1525	Llaeksaezal	X200000-6	 	Di Va 		001	Va	M8 V	{ -3 }	(800+1)	[0000]	B	0	8
+Knae	J	1526	Arruedzae	X521000-8	 	Di He Po 		022	Va	A7 V M0 V	{ -3 }	(900-2)	[0000]	B	0	-18
+Knae	J	1530	Sazesuerrgh	X504000-8	 	Di Ic Va 		023	Ve	K6 V	{ -3 }	(F00+2)	[0000]	B	0	30
+Knae	N	1532	Dzaaeza	X6978BB-0	 	Pa Pi Ph 	B	214	Ve	M1 V	{ -2 }	(97A+3)	[B651]	BcDe	0	1890
+Knae	N	1533	Oerresuz	X427000-9	 	Di Pi 		022	Ve	F8 V M6 V	{ -2 }	(700+1)	[0000]	BD	0	7
+Knae	N	1538	Thaousrror	X8C5000-1	 	Di Fl 		000	Ve	M1 V M2 V	{ -3 }	(500-1)	[0000]	B	0	-5
+Knae	B	1601	Agzanrae	X8A2000-9	 	Di Fl He 		003	Va	F5 II	{ -2 }	(700-1)	[0000]	B	0	-7
+Knae	B	1603	Dadhusedz	X7A3000-6	 	Di Fl 		013	Va	G4 V	{ -3 }	(600+1)	[0000]	B	0	6
+Knae	B	1605	Llekho	E344578-5	 	Ag Ni 		403	Va	M4 V	{ -2 }	(C42+1)	[7367]	BC	0	96
+Knae	B	1606	Igasorr	X310000-8	 	Di 		000	Va	K9 V	{ -3 }	(900+5)	[0000]	B	0	45
+Knae	F	1619	Rrosoezzoedh	X64A000-8	 	Di In Wa 		004	Va	M1 V M3 V	{ -2 }	(C00-1)	[0000]	BE	0	-12
+Knae	F	1620	Nufue	X673459-0	 	Ni 	B	301	Va	G9 V M3 V	{ -3 }	(832-3)	[1131]	B	0	-144
+Knae	J	1621	Kuksezsong	X8A0000-9	 	Di He 		002	Va	M1 V M3 V	{ -2 }	(600-3)	[0000]	B	0	-18
+Knae	J	1624	Kourarrgarr	C548758-3	 	Ag Pi 	B	503	Va	M6 V	{ 0 }	(C68-4)	[7763]	BCD	0	-2304
+Knae	J	1625	Nuetaoknen	X68A131-4	 	Lo Wa 		801	Va	F5 V M0 V	{ -3 }	(900+2)	[1144]	B	0	18
+Knae	J	1627	Aenukoun	X582830-0	 	Ph Ri 	B	825	Va	F9 V M1 V	{ -1 }	(77A+4)	[7762]	BCe	0	1960
+Knae	N	1631	Tharralogarr	X686220-3	 	Ga Lo 		907	Ve	F8 V F9 V	{ -3 }	(710+3)	[1137]	B	0	21
+Knae	N	1635	Ogeghzoedz	E777101-4	 	Lo 		314	Ve	F7 V	{ -3 }	(800-1)	[3157]	B	0	-8
+Knae	N	1639	Koungegaeae	C64648C-7	 	Ni Pa 		502	Ve	F4 V M5 V	{ -2 }	(B30-1)	[5296]	Bc	0	-33
+Knae	C	1705	Kougzarz	X340134-2	 	De He Lo Po 		716	Va	F6 V M7 V	{ -3 }	(900+1)	[11A5]	B	0	9
+Knae	C	1706	Faaoukhan	X8C6000-8	 	Di Fl In 		000	Va	F4 V M7 V	{ -2 }	(200+1)	[0000]	BE	0	2
+Knae	C	1707	Gangkhueng	E562210-4	 	Lo 		522	Va	F4 V M5 V	{ -3 }	(910+1)	[1141]	B	0	9
+Knae	C	1709	Nguekogzgorr	D594543-2	 	Ag Ni 		413	Va	F3 V	{ -2 }	(741-4)	[8362]	BC	0	-112
+Knae	G	1711	Llaezoug	C979553-3	 	Ni 	B	207	Va	F8 V M5 V	{ -2 }	(941-1)	[3396]	B	0	-36
+Knae	G	1714	Aksueui	X100000-6	 	Di Va 		010	Va	M2 V M2 V	{ -3 }	(400+1)	[0000]	B	0	4
+Knae	K	1722	Ksokou	D455540-5	 	Ag Ni 		501	VA	F8 V	{ -2 }	(844-2)	[8395]	BC	0	-256
+Knae	K	1723	Gaenkuth	XAF4000-3	 	Di 		015	VA	F8 V	{ -3 }	(A00+1)	[0000]	B	0	10
+Knae	K	1725	Dzaezele	X484226-2	 	Lo 		200	Va	M1 V	{ -3 }	(610+4)	[1152]	B	0	24
+Knae	K	1727	Oerdzikh	E699733-8	 	Pi 		802	Va	M5 V	{ -2 }	(965+5)	[5527]	BD	0	1350
+Knae	O	1734	Zongakdhaerr	X8A0000-A	 	Di He 		003	Ve	G4 V M0 V	{ -1 }	(800-1)	[0000]	B	0	-8
+Knae	O	1735	Teknuezoe	X560000-8	 	De Di 		003	Ve	F2 V M5 V	{ -3 }	(900+1)	[0000]	B	0	9
+Knae	K	1823	Sarrueg	X327000-6	 	Di Pi 		000	VA	A6 V	{ -3 }	(800-4)	[0000]	BD	0	-32
+Knae	K	1825	Rruezakhsaz	X575597-4	 	Ag Ni 		520	Va	F1 V	{ -2 }	(741+2)	[6343]	BC	0	56
+Knae	K	1827	Saenknanuerr	X373588-4	 	Ni 		414	Va	F4 V M8 V	{ -3 }	(441+1)	[3242]	B	0	16
+Knae	K	1830	Koeghthoez	X410000-8	 	Di 		000	Ve	M6 III	{ -3 }	(700+3)	[0000]	B	0	21
+Knae	O	1831	Oakkaeng	X210000-4	 	Di 		001	Ve	F2 V	{ -3 }	(500+3)	[0000]	B	0	15
+Knae	O	1836	Ghua	X667000-0	 	Ba Ga 		014	Ve	G0 V	{ -3 }	(A00+2)	[0000]	B	0	20
+Knae	C	1905	Nazae	E87937A-5	 	Lo 		300	Va	F1 V M3 V	{ -3 }	(520-4)	[3147]	B	0	-40
+Knae	C	1906	Aenan	X9D4000-3	 	Di 		024	Va	F4 V M2 V G6 V M8 V	{ -3 }	(900-3)	[0000]	B	0	-27
+Knae	C	1910	Foeourrgh	X464455-1	 	Ni Pa 	B	432	Va	F6 V M6 V	{ -3 }	(730+3)	[4113]	Bc	0	63
+Knae	G	1914	Daeaendorz	X000000-8	 	As Va Di 		005	Va	F8 V M2 V	{ -3 }	(F00+4)	[0000]	B	0	60
+Knae	G	1915	Dhakakueou	X100000-0	 	Ba Va 		000	Va	M5 V	{ -3 }	(C00-2)	[0000]	B	0	-24
+Knae	K	1921	Aerungokh	X667734-3	 	Ag Ri Ga 	B	503	VA	G4 V	{ 0 }	(A69+1)	[6737]	BC	0	540
+Knae	K	1922	Lluru	X543658-3	 	Ni Po 	B	900	VA	F0 V	{ -3 }	(850+1)	[6395]	B	0	40
+Knae	K	1923	Gungoungus	X8C2000-6	 	Di Fl He 		004	VA	F5 V	{ -3 }	(500+4)	[0000]	B	0	20
+Knae	O	1933	Kaelanorok	X47549A-0	 	Ni Pa 	B	205	Ve	F8 V M4 V	{ -3 }	(830-2)	[9142]	Bc	0	-48
+Knae	O	1934	Kfadhazonodh	B453120-5	 	Lo Po 		600	Ve	G9 V	{ -1 }	(700+1)	[1125]	B	0	7
+Knae	O	1935	Rrasakeksal	X412000-6	 	Di Ic 		004	Ve	M6 III	{ -3 }	(300-2)	[0000]	B	0	-6
+Knae	O	1939	Suekuuedz	E34057A-5	 	De He Ni Po 	B	222	Ve	F7 V M0 V	{ -3 }	(A40+1)	[7221]	B	0	40
+Knae	C	2003	Kuenaz	X6A2000-2	 	Di Fl He 		002	Va	M2 V	{ -3 }	(700-1)	[0000]	B	0	-7
+Knae	C	2005	Touodzouue	E473577-4	 	Ni 		203	Va	F7 V M0 V	{ -3 }	(941-1)	[8268]	B	0	-36
+Knae	G	2012	Knuengolats	X240000-9	 	De Di Po 		010	Va	F7 V	{ -2 }	(B00-2)	[0000]	B	0	-22
+Knae	G	2014	Ruerra	E74457B-4	 	Ag Ni 	B	216	Va	F7 V M2 V	{ -2 }	(B40-3)	[A323]	BC	0	-132
+Knae	G	2018	Aenga	X676476-5	 	Ni Pa 		303	Va	F3 V M6 V	{ -3 }	(730-3)	[7195]	Bc	0	-63
+Knae	O	2031	Degvog	D592123-2	 	He Lo 		504	Ve	F0 V M3 V	{ -3 }	(900-3)	[4154]	B	0	-27
+Knae	O	2039	Dhodzueras	X337000-B	 	Di 		002	Ve	G1 V M2 V	{ -1 }	(900+3)	[0000]	B	0	27
+Knae	O	2040	Gnodhou	E59A333-4	 	Lo Wa 		501	Ve	M3 V M4 V	{ -3 }	(720-4)	[5132]	B	0	-56
+Knae	C	2108	Fothoadu	D648677-8	 	Ag Ni 		502	Va	F3 V M0 V	{ -2 }	(B53+1)	[446D]	BC	0	165
+Knae	C	2109	Zouavae	E580441-5	 	De Ni 		502	Va	F0 V	{ -3 }	(430+2)	[2184]	B	0	24
+Knae	C	2110	Lligalaks	X437000-6	 	Di 		003	Va	G3 V	{ -3 }	(A00-3)	[0000]	B	0	-30
+Knae	G	2112	Gaevaeenae	X543675-0	 	Ni Po 	B	403	Va	K9 V M5 V	{ -3 }	(750+1)	[6321]	B	0	35
+Knae	G	2117	Fungour	E97A188-4	 	Lo Wa 		803	Va	F4 V	{ -3 }	(500-3)	[1159]	B	0	-15
+Knae	K	2122	Udhedoe	E664659-2	 	Ag Ri Ni 	B	912	VA	K0 V M0 V	{ -1 }	(955+2)	[5552]	BC	0	450
+Knae	K	2124	Gvodza	X130000-B	 	De Di Po 		004	VA	M4 V	{ -1 }	(D00+1)	[0000]	B	0	13
+Knae	K	2126	Aeluenaeth	X729000-5	 	Di 		014	Va	K2 V M8 V	{ -3 }	(600-3)	[0000]	B	0	-18
+Knae	K	2129	Fonveg	X452185-4	 	Lo Po 		900	Ve	F8 V	{ -3 }	(A00-4)	[3161]	B	0	-40
+Knae	O	2137	Raezuvaevi	X539000-4	 	Di 		011	Ve	G0 V	{ -3 }	(C00+1)	[0000]	B	0	12
+Knae	O	2138	Ursngakaekh	X201000-9	 	Di Ic Va 		000	Ve	G6 III	{ -2 }	(600-3)	[0000]	B	0	-18
+Knae	C	2204	Vaoe	E785378-5	 	Ga Lo 	B	904	Va	F0 V	{ -3 }	(B20+3)	[5143]	B	0	66
+Knae	C	2210	Rrodhogoe	X100000-7	 	Di Na Va 		003	Va	M0 III M3 V	{ -3 }	(B00-2)	[0000]	B	0	-22
+Knae	G	2212	Dhovorraa	X636000-A	 	Di 		022	Va	K8 V M7 V	{ -1 }	(C00+1)	[0000]	B	0	12
+Knae	G	2213	Gzoingaeg	X99876B-0	 	Ag Pi 	B	404	Va	K4 V	{ -1 }	(865-2)	[6651]	BCD	0	-480
+Knae	G	2216	Suluz	X67A212-6	 	Lo Wa 		702	Va	K3 V M5 V	{ -3 }	(B10-2)	[1148]	B	0	-22
+Knae	G	2220	Kozagho	X6B4000-5	 	Di Fl 		002	VA	M1 V M6 V	{ -3 }	(600-5)	[0000]	B	0	-30
+Knae	O	2231	Thuezaaruel	E6947AB-3	 	Ag Pi 	B	503	Ve	F0 V M0 V	{ -1 }	(963+3)	[A651]	BCD	0	486
+Knae	O	2233	Foeinonuek	X789445-1	 	Ni 	B	403	Ve	F5 V M4 V	{ -3 }	(A32+2)	[2151]	B	0	120
+Knae	O	2235	Ghaeoezzaegh	D575434-5	 	Ni Pa 		400	Ve	F6 V	{ -3 }	(432-2)	[5165]	Bc	0	-48
+Knae	O	2236	Raersoghanuz	X463133-7	 	Lo 		612	Ve	F1 V	{ -3 }	(900-1)	[1147]	B	0	-9
+Knae	O	2240	Kueangaenvo	X000000-9	 	As Va Di Na In 		004	Ve	F0 V	{ -1 }	(C00-2)	[0000]	BE	0	-24
+Knae	C	2302	Feighthaerr	X410000-B	 	Di Na In 		000	Va	F3 V	{ 0 }	(800+5)	[0000]	BE	0	40
+Knae	C	2305	Khuearrzong	E343320-4	 	Lo Po 		202	Va	M2 V	{ -3 }	(720-4)	[1117]	B	0	-56
+Knae	C	2306	Avoeoekhs	E659776-0	 		B	800	Va	F1 V	{ -2 }	(76A+2)	[8515]	B	0	840
+Knae	C	2308	Aefoerraerr	X735000-9	 	Di 		013	Va	M3 V	{ -2 }	(B00+1)	[0000]	B	0	11
+Knae	G	2315	Ngoeognaefue	X410000-5	 	Di 		015	Va	G3 V M0 V	{ -3 }	(800+2)	[0000]	B	0	16
+Knae	K	2324	Guarraerr	X748000-9	 	Di In 		000	VA	F6 V M0 V	{ -1 }	(900+1)	[0000]	BE	0	9
+Knae	K	2325	Louthurrg	XAB6000-8	 	Di Fl 		000	VA	M6 V M8 V	{ -3 }	(300-4)	[0000]	B	0	-12
+Knae	K	2329	Kadzue	X234000-7	 	Di Px 		002	Ve	M2 V	{ -3 }	(A00+3)	[0000]	B	0	30
+Knae	K	2330	Ksogllokhan	E342300-4	 	He Lo Po 		912	Ve	F7 V	{ -3 }	(820-3)	[8163]	B	0	-48
+Knae	O	2331	Luskaersull	X8B2000-8	 	Di Fl He 		002	Ve	M2 V M5 V	{ -3 }	(A00-1)	[0000]	B	0	-10
+Knae	O	2334	Vaaezoenirrg	X534000-7	 	Di 		001	Ve	F1 V M5 V	{ -3 }	(300-1)	[0000]	B	0	-3
+Knae	O	2337	Zonoeufogh	E442543-6	 	He Ni Po 		313	Ve	G4 V	{ -3 }	(840-2)	[5247]	B	0	-64
+Knae	O	2338	Gzueovu	D789576-2	 	Ni Pr 	B	301	Ve	F9 V	{ -3 }	(540-1)	[3211]	Bc	0	-20
+Knae	C	2401	Gnaoo	X97A414-9	 	Ni Wa 		510	Va	F2 V M0 V	{ -2 }	(930+1)	[327A]	B	0	27
+Knae	C	2404	Orrag	X400000-9	 	Di Va 		002	Va	M3 V	{ -2 }	(600+1)	[0000]	B	0	6
+Knae	C	2406	Kakifoe	X5A0000-8	 	Di He 		001	Va	F6 V	{ -3 }	(A00-4)	[0000]	B	0	-40
+Knae	C	2409	Dzoghonuedz	X559787-2	 		B	901	Va	F7 V	{ -2 }	(666+1)	[9596]	B	0	216
+Knae	G	2413	Kagesonaegh	D452688-6	 	Ni Po 		903	Va	G8 V	{ -3 }	(651-2)	[1358]	B	0	-60
+Knae	G	2416	Gakoungengaz	X303000-A	 	Di Ic Va 		006	VA	M1 V M4 V	{ -1 }	(H00+1)	[0000]	B	0	17
+Knae	G	2417	Zaekakue	X324000-8	 	Di Pi 		024	VA	F4 V	{ -3 }	(A00+1)	[0000]	BD	0	10
+Knae	G	2419	Oungakh	E779433-5	 	Ni 		504	VA	K1 V	{ -3 }	(B30+1)	[2138]	B	0	33
+Knae	K	2421	Ghaezoa	X575000-0	 	Ba 		023	VA	F3 V M0 V	{ -3 }	(700-1)	[0000]	B	0	-7
+Knae	K	2424	Athag	D256334-8	 	Lo 		102	VA	F0 V	{ -3 }	(C20-3)	[616A]	B	0	-72
+Knae	O	2432	Uaegzo	E64A654-6	 	Ni Wa 		415	Ve	G3 V M3 V	{ -3 }	(751-2)	[7346]	B	0	-70
+Knae	O	2433	Aethrigin	E643441-0	 	Ni Po 	B	301	Ve	K7 V	{ -3 }	(B33+2)	[1152]	B	0	198
+Knae	O	2434	Foevirzaz	X5496AB-2	 	Ni 	B	500	Ve	F5 V M8 V	{ -3 }	(950+1)	[4371]	B	0	45
+Knae	O	2435	Teuesonuekhs	X230000-8	 	De Di Na Po 		000	Ve	K2 V	{ -3 }	(700+1)	[0000]	B	0	7
+Knae	O	2436	Vuegho	E585555-2	 	Ag Pr Ni 	B	304	Ve	G5 V	{ -2 }	(244-1)	[5373]	BcC	0	-32
+Knae	O	2440	Goguekurrgh	X501000-5	 	Di Ic Va Na Pi 		007	Ve	M1 V M1 V	{ -3 }	(900-1)	[0000]	BD	0	-9
+Knae	D	2502	Knuzae	D255443-2	 	Ni Pa 		501	Va	F8 V	{ -3 }	(832+1)	[3183]	Bc	0	48
+Knae	D	2508	Egvagh	X510000-5	 	Di 		001	Va	K5 V	{ -3 }	(A00-3)	[0000]	B	0	-30
+Knae	H	2517	Ksaga	E65387B-0	 	Ph Po 	B	900	VA	F5 V	{ -2 }	(B76-2)	[6641]	Be	0	-924
+Knae	L	2522	Knoeougarrg	X237000-0	 	Ba 		003	VA	K9 V M3 V	{ -3 }	(A00-4)	[0000]	B	0	-40
+Knae	L	2527	Vuthengang	D76A347-3	 	Lo Wa 	B	713	Ve	F1 V	{ -3 }	(B20-1)	[5143]	B	0	-22
+Knae	L	2528	Kuellingez	X484568-2	 	Ag Pr Ni 		305	Ve	K9 V	{ -2 }	(842-1)	[6341]	BcC	0	-64
+Knae	L	2529	Ksoghzozaz	X9B3000-6	 	Di Fl Px 		011	Ve	M3 V M8 V	{ -3 }	(200-1)	[0000]	B	0	-2
+Knae	P	2535	Llaoe	E74647C-7	 	Ni Pa 		224	Ve	G9 V	{ -3 }	(733+2)	[412A]	Bc	0	126
+Knae	P	2540	Ghoeoer	E679530-4	 	Ni 		210	Ve	F4 V	{ -3 }	(542+2)	[3282]	B	0	80
+Knae	D	2602	Doukaedhal	X434000-8	 	Di 		004	Va	F2 V M1 V	{ -3 }	(800+1)	[0000]	B	0	8
+Knae	D	2606	Aenggnaeng	E763685-2	 	Ni Ri 	B	806	Va	F9 V M1 V	{ -2 }	(B50+3)	[2481]	BC	0	165
+Knae	D	2607	Ksoulla	X441572-5	 	He Ni Po 	B	417	Va	G5 V M8 V	{ -3 }	(A43-1)	[6298]	B	0	-120
+Knae	D	2610	Zagezoeng	X300000-5	 	Di Na Pi Va 		002	Va	F0 V M4 V	{ -3 }	(300-4)	[0000]	BD	0	-12
+Knae	H	2612	Aenkouz	X310000-E	 	Di Na In 		000	Va	M3 V	{ 0 }	(800-1)	[0000]	BE	0	-8
+Knae	H	2616	Gvekse	X6775A6-4	 	Ag Ni 		305	VA	F7 V	{ -2 }	(543+4)	[7363]	BC	0	240
+Knae	H	2620	Aeghikhsghes	X38487B-4	 	Pa Ri Ph 	B	914	VA	F8 V	{ -1 }	(479+1)	[8744]	BcCe	0	252
+Knae	L	2623	Thueaen	XAA6000-8	 	Di Fl In 		012	VA	G1 V	{ -2 }	(B00-2)	[0000]	BE	0	-22
+Knae	L	2629	Egefae	X200000-A	 	Di Va 		020	Ve	M6 V	{ -1 }	(900-1)	[0000]	B	0	-9
+Knae	D	2703	Naon	X9D6000-8	 	Di 		003	Va	F8 V	{ -3 }	(A00-1)	[0000]	B	0	-10
+Knae	D	2705	Zaedhoeodzi	X200000-8	 	Di Va 		023	Va	K5 V	{ -3 }	(G00-1)	[0000]	B	0	-16
+Knae	D	2707	Zoraung	E896427-5	 	Ni Pa 	B	400	Va	M3 V	{ -3 }	(832+2)	[4155]	Bc	0	96
+Knae	H	2714	Suniaen	X424000-2	 	Di 		013	VA	K7 V M0 V	{ -3 }	(300+2)	[0000]	B	0	6
+Knae	H	2717	Ghogvuon	X488543-5	 	Ag Pr Ni 		504	VA	G5 V M4 V	{ -2 }	(541+5)	[4346]	BcC	0	100
+Knae	L	2721	Ghasa	D785322-4	 	Ga Lo 		715	VA	F0 V M2 V	{ -3 }	(820+1)	[2151]	B	0	16
+Knae	L	2722	Zaenotsae	X330000-6	 	De Di Na Po 		000	VA	M7 V	{ -3 }	(B00-2)	[0000]	B	0	-22
+Knae	L	2723	Aeukanakhs	D440975-5	 	De He Hi Pi Po 	B	114	VA	F7 V	{ -1 }	(A86+2)	[98A7]	BDE	0	960
+Knae	P	2732	Fueksour	X400000-C	 	Di Na In Va 		002	Ve	M1 V M2 V	{ 0 }	(800-4)	[0000]	BE	0	-32
+Knae	P	2735	Vougza	X100000-7	 	Di Na Va 		004	Va	F9 V M6 V	{ -3 }	(700-3)	[0000]	B	0	-21
+Knae	D	2806	Saetsueno	X8A9000-9	 	Di Fl 		012	Va	M2 V	{ -2 }	(B00-3)	[0000]	B	0	-33
+Knae	H	2812	Uenkhosfel	X6875AB-5	 	Ag Pr Ga Ni 		500	VA	F4 V	{ -2 }	(442-1)	[4396]	BcC	0	-32
+Knae	H	2813	Aeaknou	D367430-8	 	Ni Pa 		204	VA	F1 V M2 V	{ -3 }	(830+1)	[1158]	Bc	0	24
+Knae	H	2815	Ksutssugh	X657130-1	 	Ga Lo 	B	400	VA	F5 V	{ -3 }	(200+1)	[6161]	B	0	2
+Knae	H	2816	Naeaellku	X8A2000-9	 	Di Fl He 		003	VA	K5 V	{ -2 }	(700-2)	[0000]	B	0	-14
+Knae	H	2819	Izoegzoghz	X468201-5	 	Lo 		711	VA	F7 V	{ -3 }	(710+1)	[3126]	B	0	7
+Knae	L	2823	Dhizathgnull	C765999-7	 	Ga Hi Pr 	B	203	VA	K1 V	{ 0 }	(586+1)	[8956]	BcE	0	240
+Knae	L	2824	Gokokhllukug	X538000-B	 	Di 		000	VA	K0 V	{ -1 }	(B00+4)	[0000]	B	0	44
+Knae	P	2836	Ngarrkosouvi	E769648-5	 	Ni Ri 	B	300	Va	F6 V	{ -2 }	(951+3)	[3473]	BC	0	135
+Knae	D	2910	Tireen	E48427B-5	 	An {Rosette} Lo 		212	Va	F2 V M4 V	{ -3 }	(710+1)	[1174]	B	0	7
+Knae	H	2914	Aghaeraedz	X8C4000-8	 	Di Fl 		002	VA	F3 V	{ -3 }	(900-5)	[0000]	B	0	-45
+Knae	H	2920	Luzgolgan	E759142-7	 	Lo 		504	VA	F3 V	{ -3 }	(600-4)	[1114]	B	0	-24
+Knae	L	2921	Naefirran	X442002-7	 	Di He Po 		502	VA	F4 V M7 V	{ -3 }	(200-1)	[0000]	B	0	-2
+Knae	L	2922	Tsadzazoz	X410000-9	 	Di 		002	VA	M5 V	{ -2 }	(B00+1)	[0000]	B	0	11
+Knae	L	2924	Dugsasae	X532000-8	 	Di Po 		014	VA	G3 V	{ -3 }	(C00+2)	[0000]	B	0	24
+Knae	P	2931	Auvuotsaeue	E77968B-6	 	Ni 		223	Ve	F2 V M6 V	{ -3 }	(350-1)	[5368]	B	0	-15
+Knae	P	2933	Arrllorrgaae	E757100-6	 	Ga Lo 		405	Va	F9 V M3 V	{ -3 }	(C00+4)	[1154]	B	0	48
+Knae	P	2935	Ngatae	X443000-5	 	Di Pi Po 		021	Va	F7 V	{ -3 }	(B00-3)	[0000]	BD	0	-33
+Knae	P	2936	Outaeoulue	X100000-6	 	Di Na Pi Va 		000	Va	F9 V	{ -3 }	(400+1)	[0000]	BD	0	4
+Knae	P	2937	Fuegaearrgh	X889AB8-8	 	Hi 	B	104	Va	K9 V M0 V	{ -1 }	(D97-2)	[8986]	BE	0	-1638
+Knae	P	2938	Aegzanorsak	X486699-2	 	Ag Ri Ni 	B	305	Va	G9 V	{ -1 }	(855-2)	[7575]	BC	0	-400
+Knae	P	2940	Dukfoellar	X354488-1	 	Ni Pa 		301	Va	K7 V	{ -3 }	(330-3)	[5161]	Bc	0	-27
+Knae	D	3009	Sueouz	X629000-4	 	Di In 		003	Va	F9 V M0 V	{ -2 }	(900-2)	[0000]	BE	0	-18
+Knae	H	3016	Naksang	E777259-3	 	Lo 	B	607	VA	K6 V M3 V	{ -3 }	(710-3)	[5183]	B	0	-21
+Knae	H	3018	Ksenoe	X44257C-2	 	He Ni Po 	B	504	VA	F3 V	{ -3 }	(840-2)	[4244]	B	0	-64
+Knae	H	3019	Zegzidh	X433000-9	 	Di Na Po 		003	VA	K5 V	{ -2 }	(800+1)	[0000]	B	0	8
+Knae	L	3021	Katsuk	X000000-B	 	As Va Di Na 		013	VA	F5 V	{ -1 }	(B00+4)	[0000]	B	0	44
+Knae	L	3022	Kungoegzaeg	E888854-1	 	Pa Ri Ph 	B	101	VA	K3 V M8 V	{ -1 }	(875+3)	[B721]	BcCe	0	840
+Knae	L	3024	Uksits	X694312-4	 	Lo 		204	VA	M2 V	{ -3 }	(720+3)	[6181]	B	0	42
+Knae	L	3025	Knaedzae	D64857C-2	 	Ag Ni 		215	VA	F0 V M2 V	{ -2 }	(742+1)	[7361]	BC	0	56
+Knae	L	3026	Gozo	X526000-5	 	Di Pi 		011	VA	F7 V	{ -3 }	(B00+1)	[0000]	BD	0	11
+Knae	L	3028	Oedhthueghz	XAC8000-2	 	Di Fl 		001	Ve	M5 V M7 V	{ -3 }	(800-2)	[0000]	B	0	-16
+Knae	L	3029	Nudzaeda	X236000-A	 	Di 		002	Ve	M1 V M6 V	{ -1 }	(A00+2)	[0000]	B	0	20
+Knae	L	3030	Sorruelkakh	X436000-A	 	Di 		004	Ve	M2 V M2 V	{ -1 }	(E00-1)	[0000]	B	0	-14
+Knae	P	3039	Knovaero	X420000-B	 	De He Di Po 		001	Va	K3 V M0 V	{ -1 }	(800+3)	[0000]	B	0	24
+Knae	P	3040	Untuen	X433000-7	 	Di Na Po 		014	Va	F3 V	{ -3 }	(900+1)	[0000]	B	0	9
+Knae	H	3111	Thaeoes	X150344-4	 	De Lo Po 		236	VA	F6 V M7 V	{ -3 }	(620-4)	[2133]	B	0	-48
+Knae	H	3113	Asoerou	X455876-1	 	Pa Ph 	B	404	VA	F0 V M5 V	{ -2 }	(A74-1)	[8671]	Bce	0	-280
+Knae	H	3114	Vogvoeael	X778788-1	 	Ag Pi 	B	702	VA	F9 V M0 V	{ -1 }	(A63+1)	[6631]	BCD	0	180
+Knae	H	3117	Adeoesudhgug	E753577-6	 	Ni Po 	B	211	VA	F3 V	{ -3 }	(842+1)	[5225]	B	0	64
+Knae	H	3118	Dhoerr	X9BA000-7	 	Di Fl 		002	VA	K1 III M7 V	{ -3 }	(700-4)	[0000]	B	0	-28
+Knae	L	3121	Zalghikanfag	E686438-2	 	Ga Ni Pa 	B	512	VA	M0 V M5 V	{ -3 }	(833+1)	[5161]	Bc	0	72
+Knae	L	3123	Ogzae	X120000-7	 	De Di Na Pi Po 		002	VA	M6 V	{ -3 }	(300+3)	[0000]	BD	0	9
+Knae	L	3125	Kouzalogh	E64879A-0	 	Ag 	B	102	VA	M4 V M8 V	{ -1 }	(763+1)	[7641]	BC	0	126
+Knae	L	3128	Gzizue	X595443-2	 	Ni Pa 	B	524	Ve	K2 V	{ -3 }	(333+1)	[7171]	Bc	0	27
+Knae	L	3129	Gaktsolig	X120000-B	 	De Di Na In Po 		015	Ve	G9 V M2 V	{ 0 }	(900+5)	[0000]	BE	0	45
+Knae	L	3130	Kovaekang	X967323-0	 	Lo 	B	812	Ve	F6 V	{ -3 }	(620+2)	[4161]	B	0	24
+Knae	P	3136	Knogan	X331000-7	 	Di Na Po 		002	Va	G0 V	{ -3 }	(900-3)	[0000]	B	0	-27
+Knae	P	3139	Vaeourraekh	X458500-5	 	Ag Ni 	B	302	Va	M7 V M7 V	{ -2 }	(840+1)	[9315]	BC	0	32
+Knae	P	3140	Arrgnoenues	E768750-6	 	Ag Ri 		125	Va	F3 V M1 V M3 V	{ 0 }	(869-5)	[5746]	BC	0	-2160
+Knae	D	3210	Fovorruenuks	X755520-4	 	Ag Ga Ni 	B	522	VA	F7 V	{ -2 }	(941-3)	[8355]	BC	0	-108
+Knae	H	3211	Goulakonkar	EA86124-4	 	Lo 		904	VA	M7 V	{ -3 }	(800+3)	[1143]	B	0	24
+Knae	H	3215	Dzouthague	E676100-1	 	Lo 		802	VA	F6 V	{ -3 }	(300-1)	[1141]	B	0	-3
+Knae	H	3217	Kave	X839000-E	 	Di 		002	VA	M3 V M5 V	{ -1 }	(C00+1)	[0000]	B	0	12
+Knae	H	3219	Ekno	X673410-3	 	Ni 	B	310	VA	F5 V	{ -3 }	(730-2)	[7165]	B	0	-42
+Knae	H	3220	Aesing	E448443-3	 	Ni Pa 		404	VA	G5 V	{ -3 }	(532+1)	[3171]	Bc	0	30
+Knae	L	3221	Lluenangaeng	X120000-A	 	De Di Po 		014	VA	M3 V M3 V	{ -1 }	(D00+1)	[0000]	B	0	13
+Knae	P	3232	Agzaeghz	E493674-4	 	Ni 		831	Va	F6 V M4 V	{ -3 }	(550+5)	[4356]	B	0	125
+Knae	P	3235	Soae	XA9A636-5	 	Ni Oc 	B	904	Va	G0 V M2 V	{ -3 }	(952-4)	[4352]	B	0	-360
+Knae	P	3237	Kfueek	X8B6000-3	 	Di Fl 		003	Va	M3 V M3 V	{ -3 }	(700-1)	[0000]	B	0	-7
+Knae	P	3238	Ouen	X425000-4	 	Di 		003	Va	M3 V	{ -3 }	(700-2)	[0000]	B	0	-14

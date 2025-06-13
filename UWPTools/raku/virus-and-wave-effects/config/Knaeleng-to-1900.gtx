@@ -1,5 +1,5 @@
 location {
-	y   -4 
+	y    4 
 	x   -1
 }
 
@@ -8,5 +8,5 @@ default {
 }
 
 source {
-	path  /Users/rje/git/travellermap/res/t5ss/data/Knaeleng.tab 
+	path  /Volumes/Zort/git/travellermap/res/Sectors/M1105/Knaeleng.tab
 }

@@ -37,15 +37,16 @@ my Sector $sector = Sector.new;
 
 sub MAIN( $sectorName ) {
 
-    my $source = "../../../travellermap/res/t5ss/data/$sectorName.tab";
-	$sector.set-name( $sectorName );
-	$sector.readFile( $source );
-	say $sector.summary;
-
 	my $file   			= "config/$sectorName" ~ '-to-1900';
 	my $config 			= Travellermap-Config.new;
 	my @order  			= $config.parse( $file );
 	print $config.summary;
+
+	$sector.set-name( $sectorName );
+	my $source = $config.get-source-file;
+    # my $source = "../../../travellermap/res/t5ss/data/$sectorName.tab";
+	$sector.readFile( $source );
+	say $sector.summary;
 
 	my $header			= $sector.get-header;
 	my $milieu1201		= $header ~ "\n";
@@ -104,7 +105,7 @@ sub MAIN( $sectorName ) {
 	"output/$sectorName.$exit-year.tab".IO.spurt: $milieuPostwave; 	
 	"output/$sectorName.1508.tab".IO.spurt: $milieu1508;
 	"output/$sectorName.1900.tab".IO.spurt: $milieu1900;	
-	"output/$sectorName.all.txt".IO.spurt:  $allThree;
+	"output/$sectorName.all.tab".IO.spurt:  $allThree;
 
 	m: say "\tRun Time         \t ", (((now - INIT now)*10).Int / 10), ' seconds';
 }
