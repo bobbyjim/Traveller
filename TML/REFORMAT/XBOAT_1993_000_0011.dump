@@ -1,0 +1,1111 @@
+[
+  {
+    'id' => '5204',
+    'ts-index' => '1993-02-15.aa319',
+    'date' => '15 Feb 93 (23:13)',
+    'body' => '
+  In my experiments with Traveller, I have also tried changing the 
+  tech level with different mods for government than those 
+  published by GDW.  The table I eventually settled on is as 
+  follows:
+
+        MegaT gov code          DM
+        ----          --
+              0                 +0
+              1                 +3
+              2                 +2
+              3                 +0
+              4                 +1
+              5                 +2
+              6                 -2
+              7                 See Note
+              8                 -1
+              9                 -1
+              A                 +0
+              B                 -1
+              C                 +0
+              D                 -3
+              E                 -5
+              F                 -4
+
+  Note: For balkanized worlds, generate the national governments of 
+  interest, and use <my other table, which factors in espionage> to 
+  generate gov\'t TL modifier.  (see Note to Note)
+
+  Note to Note:  The other table mentioned here is essentially 
+  identical, except that because of intelligence-gathering 
+  activities, negative DMs are moved one notch closer to 0 (i.e. a 
+  -1 becomes a 0, -2 becomes -1, and so on.)
+
+  Rationale:  +0 modifiers - When there is no formal government
+                 structure, any new technology developed is
+                 unprotected, save by individual effort.  In this
+                 event, even if the technology is developed, it
+                 will be slow to be released, because of concerns
+                 of the developer profiting from it (i.e. the
+                 developer wants to; others may be more willing to
+                 steal the technology than buy it).
+
+                 In a benign oligarchy, or a charismatic 
+                 dictatorship, it is less likely that those in 
+                 power will hear about good ideas that are not 
+                 developed within the governmental structure, thus 
+                 reducing the chance of advancement.  Such a 
+                 government, however, will not necessarily _reject_ 
+                 an idea if it hears about it.
+
+               + modifiers - A company has the utmost interest in 
+                 development of technology that will allow them to 
+                 achieve higher return on investment.  Ideas will 
+                 be actively sought after, and explored for their 
+                 profit-making potential.
+
+                 Democracies have a high level of personal freedom 
+                 and will tend to allow ideas to percolate around 
+                 without interference.  Coupled with laws 
+                 protecting intellectual property, and the fact 
+                 that the government will generally be pretty busy 
+                 trying to prostitute itself to the special 
+                 interests acting in the name of "the people," 
+                 there will probably be significant opportunity for 
+                 ideas to be pursued despite theoretical 
+                 restrictions on the use of government funds.  The 
+                 less a government has to deal directly with the 
+                 people, the more it will be able to direct 
+                 research, thus the lower DM for a rep. democracy 
+                 vs. a parcip. democracy.
+
+               - modifiers - The fundamental obstacles to 
+                 technological progress in these governments are 
+                 multiple: insularity from people outside the 
+                 government, doctrinaire educational policies, 
+                 rewarding of conformity over individual 
+                 initiative, personal paranoia (in the case of 
+                 dictatorships), conservatism (including but not 
+                 limited to religious orthodoxy and extremism)...  
+                 All of these combine, to varying degrees, and 
+                 result in an inability to develop ideas once they 
+                 are presented, and a further reluctance for 
+                 individuals to present their ideas for fear of 
+                 being condemned or persecuted for them (recall 
+                 Nazi Germany\'s attitude towards "Jewish Physics").
+
+  Note that these are only guidelines; fiddle with them to suit 
+  your needs.  Some of the factors cited for negative DMs might be 
+  at work in governments that have positive DMs, and vice-versa.
+
+
+
+
+
+(Continued to next message)
+- --
+Executive Network Information System  (914) 667-4567
+International ILink Host
+',
+    'topic' => 'gov\'t as tech mod     1/2',
+    'month' => '02',
+    'index' => 'aa319',
+    'subj' => 'gov\'t as tech mod     1/2',
+    'from' => 'Jeff Zeitlin',
+    'day' => '15',
+    'ts' => '1993Feb15',
+    'year' => 1993,
+    'mo' => 'Feb',
+    'file' => 'XBOAT94/XBT94083.TXT'
+  },
+  {
+    'topic' => 'Life & Resources',
+    'index' => 'aa320',
+    'month' => '02',
+    'body' => '
+All of this will probably incite lots of flames, but oh well. Remember,
+I was only a humanities major (sigh :-)
+
+Re: Life Stat
+
+Two nights ago, Wildstar proposed adding a life stat to the UWP in order
+to account for the extent of a planet\'s ecosystem (presumably to be
+modified by colonization whether destructive or beneficial). However,
+he suggested rolling under the stat on 2d6 to determine whether or not
+native sentience has evolved. Mark Watson argued that this is probably
+too liberal, and being conservative on this issue (my reasoning can be
+read in yesterday\'s TML), I\'m offering the following table for criticisms.
+
+0: Sterile
+1: Amino Acids
+2: Single-celled organisms
+3: Multi-cellular bacteria
+4: Simple vegetation
+5: Complex vegetation
+6: Microscopic insects & sea life
+7: Macroscopic insects
+8: Macroscopic sea life
+9: Land/Air-based herbivores
+A: Land/Air-based predators
+B: Large/Complex predators
+C: Tool use
+D: Fire use
+E: Agriculture
+F: Symbology (full sentience, TL=0)
+
+As you can see, my peculiar prejudice for cracking down hard on the
+"minor" races has led me to confine even the most advanced of them
+to TL=0. For my own campaign, this is perfect, but I imagine that for
+most others, it won\'t do (just another example of how setting drives
+planetary generation and vice-versa). For the more liberal-minded,
+you may want to give C+ various higher degrees of technology than
+what has been listed.
+
+Re: Resources Stat
+
+Wildstar also proposed a "resources" stat. Here is another table for
+your consideration.
+
+0: Barren
+1-4: Poor
+5-8: Moderate
+9-C: Rich
+D+ : Extreme
+
+Poor: Basic chemical diversity necessary to support indigenous life.
+   Otherwise, no claim to fame.
+Moderate: One solid natural-resource industry. Roll on table 10a of
+   the MT Ref\'s Manual. Re-roll 34-54 if life < 4 (see above). Re-roll
+   65 if life < 5. Re-roll 55-56 if life < 8. Re-roll 61-64 if life < 9.
+   Re-roll 66 if life < A.
+Rich: Two natural-resources industries, one of which commands strong
+   subsector-wide influence.
+Extreme: Three natural-resource industries, one of which commands
+   sector-wide influence.
+
+Note: The GM should translate natural-resource industries into their
+   manufacturing/processing (2nd stage) industries as seems appropriate.
+   See MT Ref\'s Manual (pg52) for possibilities.
+
+Another note: Under this system, the resource stat is rolled before
+the life stat, and the life stat is rolled before the specific
+industries are determined.
+
+I admit, this is all very cut & dry, but it\'s easier to complicate
+a simple system than to simplify a complex one.
+
+           _   /|       Jim Vassilakos
+           \\`o_O\'       jimv@ucrengr.ucr.edu
+             ( )        jimv@silver.lcs.mit.edu
+              U         jimv@wizards.com
+           Aachk!       (909) 864-3814
+
+',
+    'ts-index' => '1993-02-16.aa320',
+    'id' => '5205',
+    'date' => 'Tue, 16 Feb 93 13:19:31 PST',
+    'mo' => 'Feb',
+    'file' => 'XBOAT94/XBT94083.TXT',
+    'day' => '16',
+    'year' => 1993,
+    'ts' => '1993Feb16',
+    'from' => 'james vassilakos',
+    'subj' => 'Life & Resources'
+  },
+  {
+    'topic' => 'Fluid Trade Class & Ellipsoidal Worlds',
+    'index' => 'aa321',
+    'month' => '02',
+    'body' => 'Mark Watson <100022.3361@CompuServe.COM> writes:
+
+<snip>
+
+I have another question about atmosphere type E. It assumes that
+the world is ellipsoidal (egg-shaped?), and that therefore the
+atmosphere pressures range from very high to very low depending
+on where you are on the planet\'s surface (since the atmosphere is
+still spherical) (see page 21 of ref\'s manual). 
+
+Two questions: Is this realistic? Would is also apply to the
+hydrosphere? (if so, we could have a world mostly submerged but
+with two ends jutting like mammoth mountains out of the water,
+seems strange to me).
+
+
+           _   /|       Jim Vassilakos
+           \\`o_O\'       jimv@ucrengr.ucr.edu
+             ( )        jimv@silver.lcs.mit.edu
+              U         jimv@wizards.com
+           Aachk!       (909) 864-3814
+
+',
+    'date' => 'Wed, 17 Feb 93 17:22:31 PST',
+    'id' => '5207',
+    'ts-index' => '1993-02-17.aa321',
+    'mo' => 'Feb',
+    'file' => 'XBOAT94/XBT94083.TXT',
+    'day' => '17',
+    'ts' => '1993Feb17',
+    'year' => 1993,
+    'from' => 'james vassilakos',
+    'subj' => 'Fluid Trade Class & Ellipsoidal Worlds'
+  },
+  {
+    'ts-index' => '1993-02-17.aa322',
+    'id' => '5208',
+    'date' => 'Wed, 17 Feb 93 22:36:45 EST',
+    'topic' => 'Trade Codes and Star Types',
+    'index' => 'aa322',
+    'month' => '02',
+    'body' => 'Jim Vassilakos writes:
+> Maybe I\'m confused about the definition. I mean, earth is ice-
+> capped (last I checked), but we don\'t fit under the requirements
+> for this trade code. So what is the significance of a world being
+> ice-capped?
+
+The "Ice-Capped" trade classification means that most or all of a
+planet\'s water is locked up in ice caps.  Thus the requirements are an
+atmosphere that (in general) won\'t support liquid water, but with a
+non-zero hydrographics code.
+
+> (In) Industrial
+> def: economy based on mass-production of manufactured goods.
+> reqs: atmos 2,3,4,7,9, pop 9+
+> 
+> I know this one goes back to classic traveller, but I\'ve always
+> had a problem with it. Considering the extent of robotics and
+> mechanized labor at high tech levels, I\'m not sure this high a
+> population requirement is really necessary. Furthermore,
+> considering the extent of (clean) fusion at advanced tech levels,
+> I\'m not sure that the atmospheres of such worlds would be so
+> heavily tainted (I guess they assume there are some negative
+> atmospheric by-products of mass production other than smog).
+
+There are lots of TL-5 to TL-8 Industrial worlds in the Imperium; the
+benefits of robotics and fusion reactors are not going to be felt here.
+On a more general theme, power generation is not the only kind of
+industrial pollutant; most chemical and manufacturing processes have
+nasty by-products.  Although this is only one data point, most
+industrial nations here on Earth currently have a problem with the
+pollution of the environment with industrial wastes.
+
+I can\'t really believe in entirely mechanised shipyards, nor can I
+support the idea of a world populated by a couple of thousand humans and
+several million robots all turning out goods at an enormous rate.  If
+one assumes that interstellar trade is a fraction of the Imperial
+economy, then the most important factor in setting up an industrial
+world is the presence of a strong local market.  Which will require
+millions of consumers, hence the population requirement.
+
+> (Ri) Rich
+> def: your guess is as good as mine
+> reqs: atmos 6,8, pop 6-8, gov 4-9
+> 
+> So in other worlds, if a corporation suddenly takes over a rich
+> world, then that world is no longer a rich world. Makes
+> absolutely no sense to me. Maybe the governmental requirement
+> should be axed.
+
+No, a Rich world is one that is prosperous because it has reasonable
+living conditions, is not over- or under- populated, and has a
+government which is conducive to personal prosperity.  If a corporation
+should take over a Rich world, it will cease being Rich, because the
+corporate government would change the way the worlds\' inhabitants live
+and work.
+
+<snip>
+
+wildstar@moeng2.morgan.edu
+- ----
+                                                 Science-Fiction Adventure
+                                                         in the Far Future
+
+',
+    'from' => 'Derek Wildstar',
+    'subj' => 'Trade Codes and Star Types',
+    'mo' => 'Feb',
+    'file' => 'XBOAT94/XBT94083.TXT',
+    'day' => '17',
+    'year' => 1993,
+    'ts' => '1993Feb17'
+  },
+  {
+    'id' => '5209',
+    'date' => 'Wed, 17 Feb 93 22:38:46 EST',
+    'ts-index' => '1993-02-17.aa323',
+    'body' => '<snip>
+
+jimv@ucrengr.ucr.edu (james vassilakos) writes:
+> Two nights ago, Wildstar proposed adding a life stat to the UWP in order
+> to account for the extent of a planet\'s ecosystem (presumably to be
+> modified by colonization whether destructive or beneficial). However,
+> he suggested rolling under the stat on 2d6 to determine whether or not
+> native sentience has evolved. Mark Watson argued that this is probably
+> too liberal, and being conservative on this issue (my reasoning can be
+> read in yesterday\'s TML), I\'m offering the following table for criticisms.
+
+Since all of the other UWP stats reflect the condition of the world as
+it is now, and changes are inferred; I\'d assume that the changes due to
+colonization have already been applied (just like the effects of any
+terraforming have already been applied).  Given this, and given that
+upon reflection even I think that rolling 2d6 for Life or less is
+probably too liberal, try the following:
+
+Life Score
+0 = Sterile (although "organic" compounds may be present).
+1 = Pre-Life (sophisticated "organic" compounds, precursors to life).
+2+  Some Life Present (at least single-"cell" simple organisms).
+    As the Life score increases, the number and size of the ecosystems
+    increase, as does the number and complexity of the organisms which
+    can be found there.  Remember that this applies equally to 
+    native life-forms as well as "imported" forms (due to activity of
+    the Ancients, colonization, or simply by accident).  The minimums
+    for native development of a given complexity can be figured out from
+    the table below.
+
+Whether or not you apply DMs to the Life score based on the stellar zone
+the planet is in (inner, habitable, or outer) depends on your views on
+really outrageous biochemistries.  If you believe that sentient life can
+evolve in ecospheres in gas giants or on ultra-cold (or ultra-hot)
+worlds, the zone DMs should be no more than -2 or -4.  In this case, I\'d
+suggest using a -3 for Inner and Outer Zone worlds, and a DM of 0 for
+worlds in the habitable zone.  This is probably compatible with the
+Classic Traveller vision of the universe (which is heavily indebted to
+Larry Niven and Edward E ("Doc") Smith) with intelligent gas-giant
+dwellers and all sorts of exotic life-forms, and sentient life-forms are
+all over the place, although many of them (from the Jgd to the Cymbiots
+aren\'t really "life as we know it").
+
+While the above pretty accurately describes the way I feel, I certainly
+understand if this isn\'t everybody\'s cup of tea.  For a lot less life in
+general, and a lot less intelligent life, try the following DMs:
+- -1 if not a Main Sequence (size V) star
+- -1 if not a Spectral Class F or G star
+- -6 if in Inner Zone
+- -4 if in Outer Zone
+This should cause the most Life to cluster around the habitable zone of
+class F and G Main Sequence stars (in other words, stars like the Sun or
+a little brighter).  Thus most life will be "life as we know it", and
+will be much less prevalent than in the first method.
+
+Now throw 2d6 and subtract the results from the Life Score:
+0-  No significant native organisms (all "boring" or imported).
+1 = "Interesting" native single-cell organisms.
+2 = "Interesting" native microscopic (multi-cell) organisms.
+3 = "Interesting" native plants (macroscopic).
+4 = "Interesting" native animals (non-sentient).
+5 = Complex native ecosystem (multiple "Interesting" organisms).
+6+  Native Sentient or near-Sentient life (always interesting).
+
+The second throw should probably be part of the "world building"
+procedure, and not part of the basic generation.  Once the throw is
+made, the referee will then have to decide (as part of the detailed
+world description) what the "interesting" things about the planet are.
+
+>From the above procedure, you .4% for all worlds (or a little less than one
+in 18) with native sentient or near-sentient life.
+
+> [table omitted in the interest of brevity]
+
+I really wouldn\'t want to lock down that exactly what each level on the
+scale means.  Comparing two ecosystems on Earth is rough enough;
+extending this to encompass, for example, silicon based
+methane-breathers will stretch it too far.  Not every world is going to
+have a carbon and water based metabolism that arose from the oceans.
+
+I really don\'t agree with this, particularly from C (Tool Use) on up;
+these distinctions should really be made as part of the details for the
+native sentient or semi-sentient race.  The exact stage of development
+should probably be determined by the referee during the "world building"
+stage of generating planetary details.  I should also point out that
+while the use of tools and fire is pretty much a clincher for sentient
+or semi-sentient creatures, by the time they are practicing agriculture
+the society is pretty much at TL-0.
+
+Using the tables above as a guide, the followings are minimums for
+native life forms:
+
+0 = Sterile
+1 = Pre-Life
+2 = Life (maybe even pre-cellular life)
+3 = Single-Celled organisms
+4 = Multi-cellular organisms
+5 = "Plant" life
+6 = Animal life
+7 = Complex ecosystems
+8 = MINIMUM for native sentient organisms.
+
+But please note that it is possible for a world to have a Life score of
+12, but not have any "interesting" native life.  One possibility is a
+world that has been colonized, and the colonist\'s imported plants and
+animals have out-competed the native ecosystem, which as become nearly
+extinct.  This is a definite possibility, particularly on worlds that
+have been civilized for thousands of years.  Another possibility is a
+world that is covered with oceans, which are literally filled with an
+amazing diversity of single-celled organisms.  Literally every square
+centimeter of the worlds\' surface has something living on it.  Although
+such a world might have a relatively high Life rating, it may only rate
+as having "interesting" single-celled organisms.
+
+> For the more liberal-minded,
+> you may want to give C+ various higher degrees of technology than
+> what has been listed.
+
+I would think that it is better to have the Life score as independent of
+the natives\' TL as possible.  The Life score can be used to determine
+whether or not there *are* natives, but their TL is more properly the
+province of the worlds\' TL score.  If the world hastion only
+4-7 Major Source; important subsector-wide producer
+8+  Principal Source; important sector-wide producer
+The referee will then have to decide what commodity (or commodities) the
+world\'s resources represent.  While this is relatively quick and dirty,
+there are some potential problems.  These problems are the same as the
+ones inherent in the scheme proposed by Jim: it is quite possible to
+roll up two worlds, both major producers or better, and both with the
+same resource, all in the same subsector.
+
+Either Jim\'s method, or the method above (I don\'t think it\'s very
+important either way; the two are nearly equivalent) are probably
+suitable for most referees.  On re-consideration, Jim\'s system is
+simpler, and therefore probably the better of the two.
+
+A better method would be to select a resource type (perhaps using Table
+10a, or from some other source), and roll 1d6.  This is the "amount" of
+this resource, but not more than the resource score of the world.
+Continue until the entire resource score is accounted for.  An example
+is in order:
+
+2d6 Roll 10 for the Resource score of the world.
+1st Resource: #61, Livestock.  Amount: 5
+2nd Resource: #42, Plants (wood).  Amount: 4
+3rd Resource: #63, Livestock.  Amount: 1 (a 3 was rolled).
+
+So, our hypothetical world produces Livestock at Level 6 (the two
+livestock resources add, at the referees\' discretion), and Plants (wood)
+at Level 4.
+
+Comparing all of the scores and types within the subsector and within
+the sector will reveal the primary producers of each type. 
+
+> I admit, this is all very cut & dry, but it\'s easier to complicate
+> a simple system than to simplify a complex one.
+
+Agreed.  While I don\'t like your Life system, the resource system you
+present is very simple and has the desired effect.  One suggestion,
+though: prehaps we should come up with a resource type table which is
+more appropriate than good \'ol Table 10a/b.  A better variety of
+resources, and with the table organised so that we can use a DM based on
+Life, Size and/or other planetary stats would be good.
+
+One possibility would be to use a 1d6+1d6 table (like tables 10a) and
+apply DMs to the first die based on the Life Score (Life 0=-2, 1-3=-1,
+4-6=0, 7-9=+1, 10+=+2) and the second die based on the world size (Size
+Asteroid/VerySmall/Small=-1, Large=+1).  What do y\'all think?
+
+
+wildstar@moeng2.morgan.edu
+- ----
+                                                 Science-Fiction Adventure
+                                                         in the Far Future
+
+',
+    'topic' => 'Life and Resource Scores',
+    'month' => '02',
+    'index' => 'aa323',
+    'subj' => 'Life and Resource Scores',
+    'from' => 'Derek Wildstar',
+    'day' => '17',
+    'year' => 1993,
+    'ts' => '1993Feb17',
+    'mo' => 'Feb',
+    'file' => 'XBOAT94/XBT94083.TXT'
+  },
+  {
+    'file' => 'XBOAT94/XBT94083.TXT',
+    'mo' => 'Feb',
+    'year' => 1993,
+    'ts' => '1993Feb18',
+    'day' => '18',
+    'from' => 'timothy k istian soholt xoanon@carina.un',
+    'subj' => 'Ellipsoidal planets',
+    'index' => 'aa324',
+    'month' => '02',
+    'topic' => 'Ellipsoidal planets',
+    'body' => 'jimv@ucrengr.ucr.edu (james vassilakos) writes:
+
+> I have another question about atmosphere type E. It assumes that
+> the world is ellipsoidal (egg-shaped?), and that therefore the
+> atmosphere pressures range from very high to very low depending
+> on where you are on the planet\'s surface (since the atmosphere is
+> still spherical) (see page 21 of ref\'s manual). 
+
+> Two questions: Is this realistic? Would is also apply to the
+> hydrosphere? (if so, we could have a world mostly submerged but
+> with two ends jutting like mammoth mountains out of the water,
+> seems strange to me).
+
+Since your center of gravity is going to be roughly at the center
+of all three axes of the ellipsoid, yes, you will probably have
+lower pressure at the ends of the ellipse than at the equator (I\'m
+assuming that the planet is elongated from pole to pole; anyone 
+who knows more about planetary evolution want to confirm or deny
+that that\'s the most likely situation?). Just how significant
+those differences would be would depend on the size of the planet.
+And, yes, it would affect the hydrosphere, too. There probably
+wouldn\'t be a whole lot in the way of equatorial landmasses.
+
+- -- Tim Soholt (xoanon@carina.unm.edu)
+',
+    'id' => '5212',
+    'date' => 'Thu, 18 Feb 93 16:43:17 MST',
+    'ts-index' => '1993-02-18.aa324'
+  },
+  {
+    'day' => '13',
+    'ts' => '1993Feb13',
+    'year' => 1993,
+    'mo' => 'Feb',
+    'file' => 'XBOAT94/XBT94083.TXT',
+    'subj' => 'Re:  More on UWPs',
+    'from' => 'Derek Wildstar',
+    'body' => '"Bruce Pihlamae" <pihlab@hhcs.gov.au> writes:
+> Perhaps the problem lies in the fact that we\'ve only got one set of
+generation
+> rules that are trying to generate everything based on either too many
+> random variables or restricting ourselves to too few variations.
+
+If you\'re not adverse to going beyond the original six stats, there are
+some additional variables which would be extremely useful to have.  As a
+quick background, we have the three physical stats of the world, which
+describe it in terms of:
+
+Size (independent)
+Atmosphere (dependent on size)
+Hydroshpere (dependenty on size and atmosphere)
+
+It would be nice to have two additional stats to use in later generation
+of the world\'s characteristics:
+
+Resources (independent) - an indicator of the available natural
+  resources on the world.  A high value indicates extensive,
+  high-quality, and/or readily exploitable resources (mineral, fossil, 
+  vegetable, or animal - this is non-specific, except that it indicates
+  the presence or abscence of resources which otherwise aren\'t shown
+  in the UWP).  Throw 2d6-2 for Resources; DMs subject to Referee whim
+  (for example, the Spinward Marches is known to be deficient in heavy
+  elements; perhaps a DM of -1 to the whole Marches to reflect this?).
+  Restrict the result to the range 0-F.
+
+Life (dependent on atmosphere and hydrosphere) - A general index to the
+  prevalance and variety of life on the world.  A low score would
+  indicate a barren world (your average asteroid or iceball "there isn\'t
+  enough life on this ice-cube to fill a space freighter!") while high
+  numbers indicate a thriving and diverse biosystem ("There\'s something
+  down there; massive life readings!").  Throw 2d6-2; DM-8 for Vacuum 
+  Trace, or Insidious, -6 for Very Thin or Corrosive, -4 for Exotic, 
+  -2 for Dense/High, Ellipsoid, or Thin/Low, No DM for Thin Tainted,
+  Standard Tainted, or Dense Tainted, and +2 for Thin, Standard, or
+  Dense.  Apply a Hydroshpere DM: -4 if 0, -2 if 1, No DM if 2 through
+  5, +1 if 6-9, -1 if A.  Other DMs can be used too: a +1 for worlds 
+  within the Ancients, First Imperium, or Rule of Man (old colonies or
+  terraforming efforts).  If Stellar Types are being used, an additional
+  DM for the suitability of the star might not be a bad idea.  Restrict
+  to the range 0-F.
+
+[Extra credit if you can identify the quotes]
+
+The resources score can be used to justify settlements on otherwise
+inhospitable worlds, and should server as a positive DM for population.
+The ratinale is that there is *some* type of valuable resource present
+(which doesn\'t otherwise show on the UWP), and therefore it is likeley
+that someone has come (despite the hardship) to exploit it.
+
+The Life score can be used to get a "feel" for the native biosphere, and
+to gauge whether or not there is a native race to consider (throw Life
+or less on 2d6 for a native sentient or semi-sentient race?).
+
+For figuring out a world in the context of a long-standing interstellar
+community, you can use Resources to represent the attractiveness of the
+world to the "outside" starfaring cultures, while the Life score can be
+used as a basis for determing if there is a "native" culture to interact
+with.
+
+> 
+> Pixie/Regina  A100103-D        Paya/Aramis  A655241-9
+
+In the case of Pixie (I\'ve had to deal with this one, I have run quite a
+few campaigns out of the Regina subsector), I\'ve taken the approach that
+the world is essentually all naval base.  The only personnel ther (with
+a handful of exceptions) are Navy personnel, their dependents, and
+civillian contractors.  The shipyard facilities are all run by
+transients ---- the entire population of the world is transient (and
+therefore, there were0only a handful of "inharitants" when the world was
+surveyed).  There are tens of thousands of people there, almost all of
+whom will be gone in dwo to four years (to be replaces with a new
+batch).  The civillian contractors there run shipyards, and aren\'t
+adverse do doing work on non-navy contracts utilizing spare capacity
+(thus the Class A rating).
+
+I\'d say that the original system (which presumably generated both of
+these) was prone to such problems.  Worlds like these *could* occurr,
+but should be *much* more rare than the original system provides.  If I
+had a choice, I\'d use your modified system and hand-modify the worlds
+that I specifally wanted to be anomalous, rather than use the original
+system and have to check each world for reasonableness.
+
+
+wildstar@moeng2.morgan.edu
+- ----
+                                                 Science-Fiction Adventure
+                                                         in the Far Future
+
+',
+    'topic' => '  More on UWPs',
+    'index' => 'aa325',
+    'month' => '02',
+    'ts-index' => '1993-02-13.aa325',
+    'id' => '5196',
+    'date' => 'Sat, 13 Feb 93 21:53:31 EST'
+  },
+  {
+    'date' => '15 Feb 93 (23:13)',
+    'id' => undef,
+    'ts-index' => '1993-02-15.aa326',
+    'body' => '
+JV::>>  Why exclude law level from the tech modifier?  The more
+  [...deleted for brevity...]
+
+UG::>This is a good point. If you send me your suggested modifications,
+  ::>I\'ll try \'em out on the program. Another TLMer mentioned via email
+  ::>that he uses three different tables for determining the government
+  ::>type of a world. Which one he uses depends on the world\'s population.
+  ::>I don\'t know if this is going too far or not, but the best way to
+  ::>find out is to try out the idea and see what sort of UWPs it results in.
+
+  For a bare-bones set of mods, use the following:
+
+  No Law or Moderate Law        +0
+  Low Law                       +1
+  High Law                      -1
+  Extreme Law (A-C)             -2
+  Extreme Law (D-E)             -3
+  Extreme Law (F-G)             -4
+  Extreme Law (H+)              -5
+
+  Rationale:  At No Law, there is no way of ensuring that the 
+  person who develops new technology will be able to profit from 
+  it.  If something is good, it will be used by anyone who can get 
+  their hands on it, and without paying.  This reduces the 
+  incentive.  
+
+  At Low Law, there may be some protection, so there will be some 
+  innovation.  However, it only rates a +1 because the government 
+  will normally not be powerful or influential enough to make large 
+  investments in research.
+
+  At Moderate Law, you will typically have a government that has 
+  the power, influence, and revenue to invest in research, and 
+  sufficient freedom of information exchange to make it profitable 
+  (in terms of results).  However, at this stage, the government 
+  will probably have a tendency to want to direct the research, 
+  rather than dropping the cash on the table, sitting back, and 
+  saying, "O.K.  folks, let\'s see what you can come up with."  
+
+  This directive tendency will continue at higher law levels, and 
+  with the continuing decrease in personal freedom and freedom of 
+  information exchange, and increasing compartmentalization of 
+  research, the return on investment will typically drop heavily.  
+  At some point, the government will probably decide that research 
+  is unproductive of results, and tech will stagnate (Look at the 
+  USSR on Terra in -2531 - most of their technology was acquired 
+  through intelligence gathering).
+
+  These worked pretty well for me.  I\'ve also tried fooling with 
+  the DMs for government type, with results that were not 
+  unreasonable.  That info is posted in my next message.
+==========================================================================
+Jeff Zeitlin                                      jeff.zeitlin@execnet.com
+- ----
+
+ * QMPro 1.01   * An Egyptian King passing gas is a toot uncommon.
+- --
+Executive Network Information System  (914) 667-4567
+International ILink Host
+',
+    'topic' => 'law as tech mod',
+    'index' => 'aa326',
+    'month' => '02',
+    'subj' => 'law as tech mod',
+    'from' => 'Jeff Zeitlin',
+    'day' => '15',
+    'ts' => '1993Feb15',
+    'year' => 1993,
+    'mo' => 'Feb',
+    'file' => 'XBOAT94/XBT94083.TXT'
+  },
+  {
+    'topic' => 'Clone upbringing and solar sails',
+    'month' => '02',
+    'index' => 'aa327',
+    'body' => 'Adrian Hurt <adrian@cee.heriot-watt.ac.uk> writes:
+
+	The catch is that in order for them to grow up as [similar to the
+	original as possible], their lives must be made similar to that of
+	the original.  The implication here is that unless someone goes to a
+	lot of trouble to give Avery a good Imperial upbringing, i.e.
+	identical to Strephon\'s, then all he will turn out to be is someone
+	looking exactly like Strephon
+
+For an excellent treatment of this question, look into ``Cyteen\'\', by
+C.  J. Cherryh. It\'s one of her Union/Alliance novels. Here the limiting
+factor is real live parenting - the clones (``azi\'\' in the book, which I
+assume is a contraction of ``azygotic\'\', a zygote being the technical name
+for the fusion of sperm and ovum before it starts dividing) are brought up
+on ``tape\'\' (some form of learning and psychological conditioning in their
+sleep), because real people choose not to take the time to be with the
+child azi 24 hours a day. Thus they grow up rather insecure (generally
+psychologically addicted to tape) and very focussed. There are definitely
+shades of ``Brave New World\'\' in there too.
+
+Also, it should be mentioned that the article in the Economist on solar
+sailing was one of their leaders, which are somewhat whimsical at times.
+The serious article in the Science and Technology section about solar
+sailing was pretty good, though.
+
+Jonathan Clark
+jhc@hostel.lincroftnj.att.com
+
+',
+    'id' => '5185',
+    'ts-index' => '1993-02-11.aa327',
+    'date' => 'Thu, 11 Feb 93 08:47 EST',
+    'mo' => 'Feb',
+    'file' => 'XBOAT94/XBT94083.TXT',
+    'day' => '11',
+    'year' => 1993,
+    'ts' => '1993Feb11',
+    'from' => 'jhc@hostel.att.com',
+    'subj' => 'Clone upbringing and solar sails'
+  },
+  {
+    'from' => 'Jeff Zeitlin',
+    'subj' => 'tml nightly: msgs 5175-51',
+    'mo' => 'Feb',
+    'file' => 'XBOAT94/XBT94083.TXT',
+    'day' => '12',
+    'ts' => '1993Feb12',
+    'year' => 1993,
+    'id' => '5188',
+    'ts-index' => '1993-02-12.aa328',
+    'date' => '12 Feb 93 (01:45)',
+    'topic' => 'tml nightly: msgs 5175-51',
+    'index' => 'aa328',
+    'month' => '02',
+    'body' => '
+UG::>Now (making this one change) let\'s start looking at cause and
+  ::>effect in the rules.
+
+UG::>The Stat        What modifies it
+  ::>/----\\        /----\\
+  ::>1. Size         (nil)
+  ::>2. Atmosphere   (Size)
+  ::>3. Hydro        (Size, Atmosphere)
+  ::>4. Population   (nil)
+  ::>5. Starport     (nil)
+  ::>6. Government   (nil)
+  ::>7. Law Level    (nil)
+  ::>8. Technology   (everything but law level)
+
+  Why exclude law level from the tech modifier?  The more
+  oppressive a society is, the less likely it is that the geniuses
+  will appear and create the new technology.  Earth history bears
+  this view out; the cultures that made the largest advances in
+  technology were the ones with high levels of personal freedom.
+  Certainly, other, less free cultures may do a better job of
+  exploiting some forms of technology, but they\'ll probably get it
+  from a culture that is more free.  I\'d hardly expect a totally
+  oppressive theocracy to be innovative...
+==========================================================================
+Jeff Zeitlin                                      jeff.zeitlin@execnet.com
+- ----
+
+ * QMPro 1.01   * Jesus saves ... Passes to Moses ... Shoots ... Scores!
+- --
+Executive Network Information System  (914) 667-4567
+International ILink Host
+'
+  },
+  {
+    'body' => '
+First, I want to thank everybody for helping me out on that
+allegiance code question. I guess I must have slept through the
+5th frontier war or something.
+
+Anyway, I\'m continuing to mull over the sunbane data on the
+spinward marches despite my limited knowledge concerning the
+region\'s recent history, and (at the risk of getting into a
+really long discussion) I have to admit that I keep thinking the
+same thing over and over: "There\'s something wrong here." What
+I\'m talking about is UWP\'s (formerly UPP\'s) which don\'t make a
+whole lot of sense to me. Sonthert/Lanth is a decent example of
+what I mean.
+
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al.
+#----   ---- ----  - ---- -  ---- --
+Sonthert      1918 X6266AB-3    Ni              R  314 Im
+ 
+Here we have a couple million folks making a living with their
+19th century technology, and look what they have to breathe: a
+very thin (and tainted) atmosphere. For all intents and purposes,
+a vacuum. I know... I know... they can get by with combination
+respirators/filtermasks, right? All couple million of them? With
+technology which is over a century old? I can just see it now.
+"Don\'t go outside, son. Yer might have to breathe or somethin\'."
+Hey, at least TAS had the sense to classify it as a red zone
+(don\'t go there if you\'re addicted to oxygen).
+
+Okay, all kidding aside, the thing that gets me about planets
+like this is that anybody decided to colonize them in the first
+place. Agreed, with a bit of technology, people can survive just
+about anywhere they want to survive, but why bother? I see a nice
+dirtball only five parsecs trailing.
+
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al.
+#----   ---- ----  - ---- -  ---- --
+La\'Belle      2416 C564112-4    Lo Ni              701 Im 
+
+Now this is sweet. We\'re talking primo-atmosphere (none of that
+chewable Los Angeles gunk). And lo and behold, who shows up to
+catch the view? A whopping seventy people. We have more folks on
+the TML than this. Yes... I know... the planet is corporate
+owned, but who really cares? Why waste a virtual paradise (at
+least compared to that other place) on seventy stinking corporate
+losers (or maybe corporate winners in this case). Ah, yes... I
+can see some cool scenarios... the corporate paradise. The wooing
+ground for potential investors. Perhaps it\'s just one big golf
+course. You tee-off from orbit.
+
+But the fact is, this would never happen. When the place gets
+colonized way back when, people are gonna zoom in on this little
+speck of rock like nothing you\'ve ever seen, and any corporation
+that wants it is gonna have to pay through the nose (and a few
+other choice orifices) to get it.
+
+My point: this situation shouldn\'t happen. It goes not only
+against intuition and common sense, it goes against the principle
+of greed, the fundamental root of human nature (yes, I\'m down on
+humanity, but that\'s not the point here). The point is that this
+rule system is... flawed, no other way to put it. (I can see
+several people shaking their heads and saying "you mean you just
+figured this out?") Hey, I\'ve always been a big believer in
+classic traveller, and the spinward marches are about as classic
+as you can get. But the point stands, there\'s something rotten in
+the Lanth subsector, and it mostly likely extends from the whole
+set of rules on UWP generation.
+
+Let\'s take a closer look. What\'s going on in the rules to produce
+these sort of unwelcome results? I think one of the problems is
+real obvious. Just take a look at the order in which UWP stats
+are being generated.
+
+1. Starport       5. Population
+2. World Size     6. Government
+3. Atmosphere     7. Law Level
+4. Hydrographics  8. Technology
+
+The first thing wrong with this is actually the very first thing
+we see. Why are we generating the starport first? Shouldn\'t starport
+be determined by traffic, and shouldn\'t traffic be determined by
+population? Hence, let\'s move starport after population (not in
+the UWP listing, but in the order of stat generation).
+
+Now (making this one change) let\'s start looking at cause and
+effect in the rules.
+
+The Stat        What modifies it
+/----\\        /----\\
+1. Size         (nil)
+2. Atmosphere   (Size)
+3. Hydro        (Size, Atmosphere)
+4. Population   (nil)
+5. Starport     (nil)
+6. Government   (nil)
+7. Law Level    (nil)
+8. Technology   (everything but law level)
+
+Now this is cute. Again, I always was a big believer in the
+classic rules (maybe because I wanted to crawl in a hole when MT
+came out), but let\'s take a look here. Specifically, let\'s look
+at population. The rules would have us believe that you take any
+given system, and regardless of its features, the primary world
+or asteroid belt in one system is just as likely to have X amount
+of people as the primary world or asteroid belt in the other
+system. This, my friends, is way way out of line.
+
+Think about it. You roll up some dinky little ice-ball as the
+main world in your star system and then you try telling me that
+the fact that this tiny speck of crud has no atmosphere, that it
+has no liquid water, and that it hasn\'t even a modicum (I like
+the word) of elbow room.... and then you try telling me it\'s just
+as likely to have 50 billion people on board as that garden
+terra-prime paradise just a couple of parsecs down the road. I
+don\'t think so. Yes... you can explain it away. You can say, "Oh,
+there\'s this wonderful lanthanum mine." Or you can say. "These
+people live here... because it\'s their home" (and then smile
+convincingly). But it doesn\'t work. This isn\'t a little
+inconsistency. This is whopping big one. It\'s gigantic. It\'s
+glaring. It\'s pesky and annoying (like me), but most of all, it\'s
+just plain stupid.
+
+Time for Jim\'s 1st Law on main-world generation (hey, if Newton
+can do it, why not me?): Given that everything else is more or
+less equal, people will tend to migrate to the place that is
+"nicer". What I\'m saying is that worlds with a nice atmosphere,
+some actual water, and so forth are gonna attract large
+populations which will in turn build nice jumbo starports.
+Planets that aren\'t so nice (you know the ones I\'m talking
+about)... those planets will not attract people, and hence, they
+aren\'t very likely to have lots of traffic or nice starports.
+Jim\'s 2nd Law is likewise easy to grasp: People will attain the
+resources (technology) that they need to survive such that those
+resources are available. I.e., if you\'re really sure that you\'re
+going to live on Sonthert, then you\'re gonna work damn hard to
+acquire the technology you need to survive. TL3 doesn\'t cut it on
+a near-vacuum planet. You need a little bit more (And I\'ve never
+bought into the philosophy of high and low tech worlds living
+side by side. For a short duration such as a few decades, I can
+see it. Given special poltical or social circumstances, I can see
+it. But in general, over the course of centuries, eventually
+there will either be a leveling process or the low TL regions
+will be brought up to snuff... and this is exactly what\'s
+happening on our world).
+
+Okay... now since I try not bitch about something unless I\'m
+willing to work to fix it, here\'s my proposed modified-rules on
+main world generation (if this begins to look like pseudo-code,
+it\'s probably because it is).
+
+1. World Size. Roll 2d6-2.
+
+2. Atmosphere. Roll 2d6-7+Size.
+   if size=0 then atmosphere=0.
+   confine range to 0-F.
+
+3. Hydrographics. Roll 2d6-7+Size.
+   if atmosphere is 1 or less, then DM -4
+   if size is 1 or less, then Hydro=0
+   if atmosphere is A-C then DM -4
+   if atmosphere is E then DM -2
+   confine range to 0-A
+
+4. Population. Roll 2d6-2.
+   if size is 2 or less, DM -1
+   if atmosphere is 3 or less, DM -3
+   if atmosphere is A, DM -2
+   if atmosphere is B, DM -3
+   if atmosphere is C, DM -4
+   if atmosphere if greater than C, DM -2
+   if atmosphere is 6, DM +3
+   if atmosphere is 5 or 8, DM +1
+   if hydro=0 and atmos>3, DM -2
+   confine range to 0-A
+
+5. Starport. Roll 2d6 (use whichever table suits the locality
+                       but remember that high rolls result in
+                       a lower quality starport).
+   if pop=0 then starport=X
+   if pop=1, DM +2
+   if pop=2, DM +1
+   if pop is 6-9, then DM -1
+   if pop is A, then DM -2
+   confine range to A-X
+
+6. Government. Roll 2d6-7+population.
+   if pop=0 then gov=0
+   confine range to 0-F
+
+7. Law Level. Roll 2d6-7+government.
+   if gov=0 then law=0
+   confine lower bound of range to 0
+
+8. Tech Level. Roll d6. Modify as per the standard chart.
+   if pop=0 then tech=0
+   otherwise, if hydro is 0 or A and pop is at least 6,
+                 then tech must at least be 4.
+              if atmos is 4, 7 or 9,
+                 then tech must at least be 5.
+              if atmos is 3 or less or A-C,
+                 then tech must at least be 7.
+              if atmos is D or E and hydro is A,
+                 then tech must at least be 7.
+   confine lower bound of range to 0
+
+There, that wasn\'t so bad. I think you folks (at least those who
+are interested) should be able to make sense of all of this. I\'m
+throwing down some example UWP\'s to show you what sort of worlds
+this modified system tends to create.
+
+X211000-0    E475100-8    D86A6BB-7    X410000-0    A410446-B
+C66266B-6    E98A237-8    X573220-5    A748483-C    A85A766-C
+A867657-B    C310235-7    B220532-D    X473000-0    A665ADD-E
+A8599A8-C    C738475-8    A5588B7-9    C634523-8    B332334-9
+D545456-5    C575553-7    C110221-8    A667785-7    E75A466-4
+D795679-5    C754575-9    E678112-6    X311000-0    X528211-8
+B471322-B    C874663-6    D453643-4    C668989-9    B5438AE-8
+C87A564-6    C474278-8    X226000-0    C410230-7    X303156-8
+B9B4230-7    A5949C9-A    A685876-7    C594100-8    C539343-7
+X9A8000-0    X120000-0    B457867-6    B2518CD-B    A631453-F
+
+Note that there are some conspicuous differences between this
+data and "normal" UWP listings. We get quite a few uninhabited or
+very low-population star systems under the modified rules. Not so
+under the original rules. I haven\'t checked yet, but I suspect
+that this will probably bring down the average starport rating
+for any given region (which is fine with me). Further, we don\'t
+see lots of low-tech star systems. The lowest I see here is TL4,
+and in both cases, we\'ve got a breathable atmosphere attached to
+each planet (no assistance required, hence no technology required
+in order to breathe). As we\'d expect, the yucky-foo worlds tend
+to have lower populations and seedier starports. I\'m a bit
+surprised that we have quite a few lush (atmos=6) worlds with
+under ten million inhabitants. On other runs, I usually see very
+high populations clustered on those worlds. Of course, when we
+look at the highest population world in this run, we see that it
+has a standard atmosphere, just as we\'d expect, so all in all,
+it\'s not giving us really strange results on that count.
+
+Now what I\'d like to do with this modified rule-set is get some
+comments and criticism from you folks. Even though the TML
+comprises a *very* small corner of the internet, it also has some
+of the most devoted Traveller players I\'ve ever laid electronic
+eyes on. So tell me... what do you think about the modified
+rules? What problems do you see? What needs fixing?
+
+I\'d like to "perfect" the program before distributing it, but if
+you\'d like a copy for "experimental purposes", I can email the
+QB45 source and/or the MS-DOS executable. What I\'m really looking
+for here are suggestions. Do you like the modified system? Do ya
+hate it? What about it needs improving? Probably a lot! From
+reading this mailing-list in the past, I know that there is
+*never* going to be a consensus on the TML regarding something
+this broad-based and as fundamental to the rules of Traveller.
+That\'s okay with me. I\'m not trying to please everyone (or even
+the majority). I\'m just trying to get some ideas and a fair
+critique (and what better place than the TML?).
+
+Thanks for tuning in. Now back to the regularly scheduled
+program.
+
+jimv@ucrengr.ucr.edu
+',
+    'topic' => 'UWP Generation',
+    'index' => 'aa329',
+    'month' => '02',
+    'id' => '5177',
+    'date' => 'Tue, 9 Feb 93 16:51:45 PST',
+    'ts-index' => '1993-02-09.aa329',
+    'day' => '09',
+    'ts' => '1993Feb09',
+    'year' => 1993,
+    'mo' => 'Feb',
+    'file' => 'XBOAT94/XBT94083.TXT',
+    'subj' => 'UWP Generation',
+    'from' => 'james vassilakos'
+  }
+]

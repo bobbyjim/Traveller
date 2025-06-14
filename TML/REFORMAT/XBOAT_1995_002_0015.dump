@@ -1,0 +1,845 @@
+[
+  {
+    'ts-index' => '1995-12-22.ac229',
+    'id' => '<9512221703.AA12383@domarkus>',
+    'date' => 'Fri, 22 Dec 1995 09:03:00 +0800',
+    'body' => 'Would the administrator please remove me from this mailing list?
+Unfortunatly I lost the access words to do it myself. (sorry)
+ - Nathan Caroland
+ - nathanc@domark.com
+
+',
+    'topic' => ' XBOAT digest 477',
+    'month' => '12',
+    'index' => 'ac229',
+    'subj' => 'Re: XBOAT digest 477',
+    'from' => 'Nathan Caroland nathanc@domark.COM',
+    'day' => '22',
+    'year' => 1995,
+    'ts' => '1995Dec22',
+    'mo' => 'Dec',
+    'file' => 'XBOAT95/XBT95478.TXT'
+  },
+  {
+    'ts' => '1995Dec23',
+    'year' => 1995,
+    'day' => '23',
+    'file' => 'XBOAT95/XBT95479.TXT',
+    'mo' => 'Dec',
+    'subj' => 'My web page is moving!',
+    'from' => 'Peter L. Berghold',
+    'body' => 'Hi Folks.  My web page
+(http://www.cnct.com/home/peterb/traveller/index.html) is about to move.  I
+got into an argument with my old internet provider and I\'m moving on.  When
+the new one is up and running I will be sure to send you folks the new URL.
+I believe you can still access the old one, but I\'m not sure for how long.
+     _]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]
+    _] Peter L. Berghold                         INTERNET: berghop@tcg.com_]
+   _] FAX: (718) 355-4282  PHONE: (718) 355-2722    -or- peterb@superlink.net    _]
+  _] Sr. Unix Specialist, TCG MIS Dept.       UUCP: tcgny!berghold@uunet.uu.net _]
+ _] "Those who fail to learn from history are condemned to repeat it..." _]
+_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]_]
+
+',
+    'month' => '12',
+    'index' => 'ac230',
+    'topic' => 'My web page is moving!',
+    'ts-index' => '1995-12-23.ac230',
+    'id' => '<199512240250.VAA12591@mars.superlink.net>',
+    'date' => 'Sat, 23 Dec 1995 21:50:52  0500'
+  },
+  {
+    'body' => 'had been done by Marc Miller some years back concerning jumpspace.
+    Among the interesting things mentioned are that the 100 diameter limit
+applies to Stars as well as planets. A jump grid (a set of wires buried in the
+hull). Hull stresses (a ship\'s hull needs to be constructed well enough to
+withstand jump stress). Critters jumping experience a \'wrenching\' sensation
+and sometimes nausea (a good indication of a misjump is experiencing nausea).
+
+    (Apparently this article was in JTAS#24)
+',
+    'month' => '12',
+    'index' => 'ac231',
+    'topic' => 'Digging through some of my',
+    'ts-index' => '1995-12-25.ac231',
+    'id' => '<199512252343.AA272034984@relay1.geis.com>',
+    'date' => 'Mon, 25 Dec 95 23:41:00 UTC 0000',
+    'year' => 1995,
+    'ts' => '1995Dec25',
+    'day' => '25',
+    'file' => 'XBOAT95/XBT95480.TXT',
+    'mo' => 'Dec',
+    'subj' => 'Digging through some of my',
+    'from' => 'b.borich@genie.com'
+  },
+  {
+    'year' => 1995,
+    'ts' => '1995Dec27',
+    'day' => '27',
+    'file' => 'XBOAT95/XBT95481.TXT',
+    'mo' => 'Dec',
+    'subj' => 'Re: XBOAT digest 470',
+    'from' => 'Aaron DaMommio aarond@yinyang.pencom.com',
+    'body' => 'Steve Bonneville,
+In Xboat digest 470, you commented on various races\' behaviors during the
+civil war, and mentioned the K\'kree:
+>The K\'kree are too far away -- their jump drive technology probably
+> lagged the Imperium even worse in the 600s than it does in the >1100s.
+
+Can you elaborate a bit on this, and on where you got info on the K\'kree
+lagging in jump tech? Are they a jump number or two behind in 1100, for
+example?  I don\'t recall discussion of this in Alien Module 2.
+
+--Aaron
+',
+    'month' => '12',
+    'index' => 'ac232',
+    'topic' => ' XBOAT digest 470',
+    'ts-index' => '1995-12-27.ac232',
+    'id' => '<9512271741.AA00333@malibu.pencom.com>',
+    'date' => 'Wed, 27 Dec 95 11:41:35  0600'
+  },
+  {
+    'id' => '<199512280655.RAA04449@Protea.hitech.net.au>',
+    'ts-index' => '1995-12-28.ac233',
+    'date' => 'Thu, 28 Dec 1995 17:55:32 +1100',
+    'month' => '12',
+    'index' => 'ac233',
+    'topic' => ' XBOAT digest 476',
+    'body' => '
+
+How the hell do I UNSUBSCRIBE from this list?
+
+
+
+
+
+                                       Craig Stanley
+                                   craigstn@hitech.net.au
+                                        end
+
+',
+    'from' => 'Craig Stanley craigstn@hitech.net.au',
+    'subj' => 'Re: XBOAT digest 476',
+    'file' => 'XBOAT95/XBT95482.TXT',
+    'mo' => 'Dec',
+    'year' => 1995,
+    'ts' => '1995Dec28',
+    'day' => '28'
+  },
+  {
+    'from' => 'William F. Hostman',
+    'subj' => 'Jump limits',
+    'mo' => 'Dec',
+    'file' => 'XBOAT95/XBT95482.TXT',
+    'day' => '27',
+    'year' => 1995,
+    'ts' => '1995Dec27',
+    'id' => '<v01530501ad0809894598@[137.229.100.54]>',
+    'ts-index' => '1995-12-27.ac234',
+    'date' => 'Wed, 27 Dec 1995 23:56:01  0900',
+    'topic' => 'Jump limits',
+    'index' => 'ac234',
+    'month' => '12',
+    'body' => '>Date: Wed, 27 Dec 95 11:41:35 -0600
+>From: Aaron DaMommio <aarond@yinyang.pencom.com>
+>To: xboat@MPGN.COM
+>Subject: Re: XBOAT digest 470
+>Message-ID: <9512271741.AA00333@malibu.pencom.com>
+>
+>Steve Bonneville,
+>In Xboat digest 470, you commented on various races\' behaviors during the
+>civil war, and mentioned the K\'kree:
+>>The K\'kree are too far away -- their jump drive technology probably
+>> lagged the Imperium even worse in the 600s than it does in the >1100s.
+>
+>Can you elaborate a bit on this, and on where you got info on the K\'kree
+>lagging in jump tech? Are they a jump number or two behind in 1100, for
+>example?  I don\'t recall discussion of this in Alien Module 2.
+>
+
+Really simple to figure: K\'Kree max TL is 14 (module 2), Imperial is TL 15
+(with a few worlds being either isolationist tl 16-17, or emergent tl 16 in
+a few fields). Under Bk 5: High Gurad, and all later Traveller design
+structures, the following limits are in force:
+
+TL      Max J-n
+15+     6
+14      5
+13      4
+12      3
+11      2
+9-10    1
+
+Thus K\'Kree max TL 14 indicates a J-5 max, while Imperial max TL 15
+indicates a J-6 max. Figuring 35 jumps per year maximum operational speed,
+that\'s a full sector of difference! Realize also that the K\'Kree structure
+of government has fewer levels, and less interstellar autonomy, so
+decisions need to be made closer to home in terms of turn around time, so
+the k\'kree would operate closer to home.
+
+-Wil
+
+William F. Hostman
+
+EMail:          ASWFH@Orion.Alaska.EDU
+HomePage:       http://orion.alaska.edu/~aswfh/index.html
+
+
+'
+  },
+  {
+    'subj' => 'Unsubscribing; K\'kree jump limits; Tech change',
+    'from' => 'Aaron DaMommio aarond@pencom.com',
+    'day' => '28',
+    'year' => 1995,
+    'ts' => '1995Dec28',
+    'mo' => 'Dec',
+    'file' => 'XBOAT95/XBT95483.TXT',
+    'ts-index' => '1995-12-28.ac235',
+    'id' => '<9512281835.AA00564@malibu.pencom.com>',
+    'date' => 'Thu, 28 Dec 95 12:35:48  0600',
+    'body' => 'Craig,
+You should be able to unsubscribe by sending a message containing only the
+words "unsubscribe xboat" to listproc@mpgn.com, with the subject line
+"unsubscribe xboat."
+
+
+William,
+Thanks for the clue. I never noticed this about tech levels before and it
+does make a huge difference. I guess I didn\'t find any text where this
+inference was made. Makes sense for the K\'kree to lag behind the Imperials.
+
+What is harder to explain is how the Imperium has lagged at TL15 for so long,
+after earlier climbs. I guess a basic Traveller premise is that technological
+change is not steady-and-upward, but that it can level off.
+
+I don\'t really have trouble believing in a universe that is stagnating. It\'s
+just that it seems like the Imperium is a culture that would be continuing to
+progress technologically, and I don\'t see why it has hovered so long at and
+near 15.
+
+The Traveller background provides a number of historical events -- such as
+the Long Night -- to stop tech progress or send it backward. What gets me is
+how LONG things take.
+
+However, our current rapid change could be seen as a historical
+anomoly...after all, things did stay much the same for many thousands of years
+of human history.
+
+--Aaron
+',
+    'topic' => 'Unsubscribing; K\'kree jump limits; Tech change',
+    'month' => '12',
+    'index' => 'ac235'
+  },
+  {
+    'from' => 'Robert Flammang FLAMMANG@vms.cis.pitt.ed',
+    'subj' => 'unsubscriptions',
+    'file' => 'XBOAT95/XBT95483.TXT',
+    'mo' => 'Dec',
+    'year' => 1995,
+    'ts' => '1995Dec28',
+    'day' => '28',
+    'id' => '<01HZCIENJCC28ZEVEI@vms.cis.pitt.edu>',
+    'date' => 'Thu, 28 Dec 1995 16:26:24  0400 (EDT)',
+    'ts-index' => '1995-12-28.ac236',
+    'month' => '12',
+    'index' => 'ac236',
+    'topic' => 'unsubscriptions',
+    'body' => 'Errors-to: xboat-request@MPGN.COM
+
+>From: Craig Stanley <craigstn@hitech.net.au>
+>
+>How the hell do I UNSUBSCRIBE from this list?
+
+I think you send a message with the line:
+
+UNSUBSCRIBE
+
+in it to xboat-request@MPGN.COM. A program will read it and remove you
+from the list. Be sure to send the message from the account that\'s
+recieving the mail.
+
+I hope that works; my memory is often muddled when it comes to
+technical stuff like this.
+
+-Rob
+
+'
+  },
+  {
+    'id' => '<199512291636.IAA10833@eskimo.com>',
+    'ts-index' => '1995-12-29.ac237',
+    'date' => 'Fri, 29 Dec 1995 08:36:06  0800 (PST)',
+    'body' => 'Recently, I\'ve been getting the XBOAT list but not the TRAVELLER one.
+Has the Other List shut down for a while, or should I start talking
+to the postmasters?
+
+
+Tony Z
+',
+    'topic' => 'Is TRAVELLER list down?',
+    'index' => 'ac237',
+    'month' => '12',
+    'subj' => 'Is TRAVELLER list down?',
+    'from' => 'Tony Zbaraschuk tonyz@eskimo.com',
+    'day' => '29',
+    'ts' => '1995Dec29',
+    'year' => 1995,
+    'mo' => 'Dec',
+    'file' => 'XBOAT95/XBT95483.TXT'
+  },
+  {
+    'file' => 'XBOAT95/XBT95483.TXT',
+    'mo' => 'Dec',
+    'year' => 1995,
+    'ts' => '1995Dec29',
+    'day' => '29',
+    'from' => 'Stefan Matthias Aust sma@kiel.netsurf.de',
+    'subj' => 'My variant TLs',
+    'month' => '12',
+    'index' => 'ac238',
+    'topic' => 'My variant TLs',
+    'body' => 'For my campaign, I changed the Traveller tech levels a bit. This list isn\'t
+complete but I would like to publish it here for comments. I\'ve distributed
+the tech level changes more even over history and changed the time when jump
+drives and other future technologies are discovered. However, I still need
+more details for TL10-TL16. What inventions are made during the Long Night,
+for example?
+
+Btw: I call Solomani Terrans, the first empire were ruled by a human race
+called Fwilani, the lion-like aliens are Ayleans, Wargr are the wolven folk.
+Djodanis aren\'t the bad guys but a former part of the Imperium with their
+own history.
+
+TECH LEVELS
+
+TL0 - Stone Age (-3000 TT)
+
+Sentient being who discovered fire (or other power), religion (or have other
+explanation), farming and animal handling, who have knowledge of pottery and
+cloth-making and can measure time.
+
+Power: Muscles, human or ox.
+Transportation: Primitive carts.
+Communication: Story telling.
+Weapon Tech: Stone melee weapons, throwing weapons, bows.
+Medical Science: Not existant.
+Mathematics: Not existant.
+
+TL1 - Age of Early Civilization (-3000- -400 TT)
+
+Signs of TL1 are primitive forms of civilization: (fortified) cities, laws,
+service occupations, calendar, writing, literature. The being build nations.
+
+Power: Muscles, slaves; watercraft.
+Transportation: Horses, costal ships or boats.
+Communication: Writing, signal fire.
+Weapon Tech: Bronze and iron weapons, siege engines.
+Medical Science: Primitive knowledge of body.
+Mathematics: Basic geometry, astronomy
+
+TL2 - Era of the Roman Empire (-400-500 TT)
+
+Empire building is the key event to classify a civilization as TL2. Advances
+in military tech, art and architecture. Coinage, written history, glass and
+mechanical laws are other inventions.
+
+Power: as TL1.
+Transporation: Horses with saddle and stirrups, ships.
+Communication: Paper.
+Weapon Tech: Iron weapons and armor, siege engines, catapults, greek fire.
+Medical Science: Basic knowlege about inner organs, drugs.
+Mathematics: Geometry, algebra, advanced astronomy.
+
+TL3 - Dark Ages (500-1500 TT)
+
+The name of this era is misleading. This was the high of the Arabian
+culture. This is the beginning of new religions. Inventions are porcelain,
+optical laws, archs (architecture), compass, spectacles, mirrors, clocks.
+
+Power: Windcraft.
+Transportation: horseshoes; ocean ships, sailing and rowing.
+Communication: as TL2.
+Weapon Tech: Crossbow, steel weapons, knights, black powder, cannons.
+Medical Science: Diagnostics, understanding of body, healing drugs.
+Mathematics: Decimal system, Zero.
+
+TL4 - Age of Discoveries (1500-1800 TT)
+
+Signs of TL4 are black powder weapons, exploration and discoveries. Mind of
+people changed. Natural science began, people read. Inventions are
+microscope, thermometer, telescope, air pump, window glass.
+
+Power: as TL3.
+Transportation: carriage
+Communication: Printing, signal stations.
+Weapon Tech: Guns and pistols (arcebuse, musket), artillery.
+Medical Science: Surgery, dentistry, medicin.
+Mathematics: Calculation machines, negative numbers, logarithm, i, pi.
+Astronomy: Planets (their positions), star maps.
+
+TL5 - Era of Colonialism and Imperialism (1800-1900 TT)
+
+Industrialization is the key event for TL5. Beside farmers a new class of
+workers arise. TL5 nations conquer less developed nations. This is the age
+of great chemical discoveries.
+
+Power: Steam power, elecricity.
+Transportation: Steam ships, railways, bicycle.
+Communication: Telegraph, Morse alphabet, photography.
+Weapon Tech: Rifles, revolvers, maschineguns, dynamite, ironclads.
+Medical Science: Micro-organisms, germs.
+Mathematics: Advanced calculation machines, Galois theory (algebra).
+Astronomy: Stellar clusters, milky way.
+
+TL6 - Era of Wars (1900-1950 TT)
+
+The first time nearly the whole world is at war. New transportation and
+communication techonologies (besides new weapons) are invented or first
+used. Airplanes and television are the key inventions for TL6.
+
+Power: Fossil fuels.
+Transportation: Airplanes, automobil, submarines.
+Communication: Telephone, phonograph, radio, television, cinema.
+Weapon Tech: Radar, rockets, fission bomb, chemical weapons.
+Medical Science: X-Rays, Penicillin.
+Mathematics: Game theory, probability theory.
+Astronomy: Unusual stellar objects (white drarfs, red giants, black holes).
+
+TL7 - Modern Times and Cold War (1950-1990 TT)
+
+The invention of computers and the use of fission power are signs of TL7.
+Research of chemistry, physics and mathematics is nearly complete. This is
+the time of experimental space flights. People get more freedom. Technical
+things become cheaper, smaller and better. Birth control becomes possible.
+
+Power: Fission power.
+Transportation: Jets, helicopters, container ships.
+Communication: Color television.
+Weapon Tech: Computerisied weapon systems, missiles.
+Medical Science: Computerisied technology, transplantations.
+Computer Science: Transistor, turing machine, main frames, personal
+computers, industry robots.
+Astronomy: Exploration of planets, more unusual stellar objects discovered.
+
+TL8 - Information Era (1990-2030 TT)
+
+A world wide computer network is the key invention worth TL8. People suffer
+enviromental problems. Fragile peace (sort of) is kept by international
+organisations. Birth control established.
+
+Power: Solar energy, advanced wind and water craft.
+Transportation: High speed trains.
+Communication: Computer web.
+Weapon Tech: Recoilless weapons, high velocity weapons, body armor.
+Medical Science: DNA code, transplantations of vital organs.
+Computer Science: World wide computer network, advanced personal computers,
+massive-parallel supercomputers. Still suffering software problems.
+Astronomy: Discovery of solar systems with (probably earthlike) planets.
+
+TL9 - Spacefaring Era (2030-2150 TT)
+
+In 2027 French researchers discover and create a working fussion reactor.
+They worked for a public reseach center so all construction plans are
+published for free and the dream of cheap energy for everyone becomes true.
+Three years thereafter the same researchers patent a HEPlaR named space ship
+drive. The spacefaring era starts with the exploration of near planets.
+Orbital stations are built, 2092 the first colony ship leaves Sol system.
+Worlds ecosystem still damaged.
+
+Power: Fusion power.
+Transportation: Space shuttles, Colony ships.
+Communication: Glass fibre communication, direct laser connections.
+Weapon Tech: Orbital laser stations, ground based defense systems, high
+velocity chain guns, small missile weapons, improved body armor.
+Medical Science: Human DNA fully deciphered, regrow of body parts possible.
+Cold sleep: primitive (risk 10%).
+Mathematics: Polydimensional non-euclidean geometry theorized jump space.
+Computer Science: Personal super computers allow 3D-cyberspace illusion
+which revolutionize entertainment industry, software gets standardized.
+
+TL10 - Era of Stellar Exploration (2150-2300 TT; -3250 IC)
+
+In 2150 Terrans discover the jump drive and a new era of stellar exploration
+starts that is worth TL10. A 1 parsec jump now lasts only 69 hours. Terrans
+spead to the stars. Better understanding of gravitation forces allows
+gravitation control. Weather control possible.
+
+Power: as TL9.
+Transportation: Interstellar star ships, anti gravitation gliders.
+Communication: 3D Holovision.
+Weapon Tech: Ship laser, engery shields, missiles, neddle guns, gaus guns.
+Medical Science: Cloning possible, designed drugs (for i.e. combat).
+Cold sleep: moderate (risk 5%).
+Computer Science: Primitive multi-purpose robots, complex neuronal nets.
+FTL-Drives: Jump 1.
+
+TL11 - Age of Interstellar Wars (2300-2500 TT; -3100 IC)
+
+In 2298 (that is -3080 IC) Terrans enter the border sector of the Fwilanian
+Empire. Contact is not successful. The first of many interstellar wars
+starts. Technology advances.
+
+Power: as TL10.
+Transportation: as TL10.
+Communication: Communication network.
+Weapon Tech: Laser weapons, particle accelerators, combat armor.
+Medical Science: Cloning.
+Cold sleep: as TL10.
+Computer Science: Neuronal self learning systems, fibre-optical systems.
+FTL-Drives: Jump 2.
+
+TL12 - Era of Stellar Empires (-3100- -1500 IC)
+
+As the step from TL1 to TL2, people build interstellar empires. It\'s more
+society than technology that changes. Jump drive technology advances to a
+new method that allows more than J2. Terraforming becomes possible.
+
+Power: as TL11.
+Transportation: as TL11.
+Communication: Primitve xboat commmunication network installed.
+Weapon Tech: Personal laser weapons, improved combat armor.
+Medical Science: as TL11.
+Cold sleep: improved (risk 2%).
+Computer Science: Articifical intelligence possible, general purpose robots
+are built.
+FTL-Drives: Jump 3.
+
+TL13 - The Long Night (-1500-200 IC)
+
+Again as the step from TL2 to TL3, decline follows.
+
+Power: as TL12.
+Transportation: as TL12.
+Communication: Xboat communication network reestablished.
+Weapon Tech: Meson guns.
+Medical Science: as TL12.
+Cold sleep: as TL12.
+Computer Science: as TL12.
+FTL-Drives: Jump 4.
+
+TL14 - Great Expanse (200-600 IC)
+
+After the foundation of the new Imperium (former Soljean Confederation), a
+phase of expanse and rediscovery follows (as in TL4). Key technology are
+VLCAs, that start to replace the Xboat system.
+
+Power: as TL13.
+Transportation: as TL13.
+Communication: very large communication arrays.
+Weapon Tech: Grav-tanks, fussion guns.
+Medical Science: as TL13.
+Cold sleep: perfect (risk 1%)
+Computer Science: as TL13.
+FTL-Drives: Jump 5.
+
+TL15 - Imperial Standard (800-1000 IC)
+
+Key technology of TL15 is antimatter power. Again, the distance of jump
+drives grows to 6 parsec and seems to be at its end.
+
+Power: Antimatter.
+Transportation: as TL14.
+Communication: as TL14.
+Weapon Tech:
+Medical Science: Anagathics.
+Cold sleep: as TL14.
+Computer Science: as TL14.
+FTL-Drives: Jump 6.
+
+TL16 - Imperial Future (1000+ IC)
+
+A few worlds already reached TL16. Improvements in medical science and
+weapon technology are made but no key technology worth TL16 is invented yet.
+
+Power: as TL15.
+Transportation: as TL15.
+Communication: as TL15.
+Weapon Tech: Black globes.
+Medical Science: brain taping possible.
+Computer Science: as TL15.
+Cold sleep: perfect (risk 0.5%)
+FTL-Drives: as TL15.
+
+Higher than TL16: pocket universes, ring worlds, matter-engery-conversion,
+reactionless drives, artificial wormholes, ...
+
+(TT=Terran Time, IC=Imperial Cronology)
+(Source: Asimov\'s Chronology of Science and Discovery)
+
+A happy New Year,
+bye
+--
+Stefan Matthias Aust  //  But it\'s gonna be really happening to ya
+
+',
+    'id' => '<m0tVius-0001KdC@kiel.netsurf.de>',
+    'date' => 'Fri, 29 Dec 1995 18:47:03 +0000',
+    'ts-index' => '1995-12-29.ac238'
+  },
+  {
+    'topic' => 'Traveller Technology',
+    'month' => '12',
+    'index' => 'ac239',
+    'body' => 'Hi!
+
+Just read the queries about the backward nature of Traveller technology, and
+I thought I\'d add my 2c worth --
+
+The clues are all there in the pre-Virus material - and it boils down to this,
+the Terrans (and the Darrians, which were Terran influenced *without* Vilani
+contact) were able to make massive advances in the Interstellar Wars that led
+to the collapse of the Nasu Sirka, and trashed the Vilani, who were not. The
+difference was that Terran *society* was one where individualism and the idea
+of progress were *not* the dirty words that they were in the Vilani Empire.
+The Terrans would, quite probably, have completely transformed Vilani society
+in the aftermath of the collapse, except for the treason of the Fleet, led
+by Admiral Estigaribbia ... as they planned to subsume the Vilani Empire into
+the Terran mainstream. While this would have been unpleasant in the short term
+for the Vilani, it would have been much better in the long term - as the
+increased technology that would have resulted from untrammlled Terran techno
+research would have been much more than they could have expected themselves.
+
+Unfortunately, Estigarribbia and the Fleet were obviously a minority (despite
+their justifications that they "understood the plight of the conquered" -
+obvious propaganda of no value) amongst the whole set-up, and *required* the
+support of the Vilani bureaucrats to set themselves up. The "price" for such a
+deal - up front *and* as part of the ongoing Vilani influence (domination would
+not be too fine a point to put on it!) in the bureacracy - adoption of a whole
+variety of Vilani social attitudes ... including the strictures against "too
+quick" technological research.
+
+It is likely, though difficult to tell for certain, that the Traitors had to
+use Vilani bureaucrats and security personnel to help their occupation of the
+Terran Federation, as they were (as already noted) in a tiny minority. Terran
+society was thus placed under the control of the ultra-conservative Vilani, and
+their iron hand crushed Terran inventiveness and progressive ideas. Sure, the
+society was not completely vilanified, but it *was* modified enough that it
+lost the "edge" that it had had.
+
+There\'s a lot more, of course, and I have (modestly) put together a complete
+alternative history for the Imperium and Terra from before the Interstellar
+wars through to 1120 - one which completely deletes Virus and provides an
+explanation for the whole backward mess that the Imperium is (and will, likely,
+*always* be until somebody reforms its society - by crushing it).
+
+A small number of extra copies are available at a modest cost, as are a number
+of other supplements that provide advanced tech for Starship Design (based on
+High Guard), Personal Equipment, Planetary Vehicles and, as I get around to it,
+Starships and Military Weapons. If you\'re interested, drop me a line and I\'ll
+answer questions and provide further details ... but, one up front, none of the
+stuff is FF&S compatible, as the so-called "advanced" technology provided
+there, though it certainly fits in with the backward Imperium, has no claim to
+be "advanced" at all!
+
+Phil (Space Opera/Rigger Black Book) McGregor
+
+',
+    'ts-index' => '1995-12-30.ac239',
+    'id' => '<199512300947.UAA01951@sydney.DIALix.oz.au>',
+    'date' => 'Sat, 30 Dec 1995 20:47:53 +1100 (EST)',
+    'mo' => 'Dec',
+    'file' => 'XBOAT95/XBT95484.TXT',
+    'day' => '30',
+    'year' => 1995,
+    'ts' => '1995Dec30',
+    'from' => 'Phillip McGregor aspqrz@sydney.DIALix.oz',
+    'subj' => 'Traveller Technology'
+  },
+  {
+    'index' => 'ac240',
+    'month' => '12',
+    'topic' => 'Star System Creation Program?',
+    'body' => 'I\'m getting ready to start a TNE based PBEM game set in the
+middle of *a* Long Night (as opposed to *the Long Night <g>).
+I\'m also running a Traveller-based Star Trek PBEM game.  Both of
+these games are going to need a large number of fresh star
+systems.  The "by-hand" method will take far longer than I can
+afford.
+
+So I wondering...is there any software available that will create
+Traveller-isk star systems in the UWP format?
+
+I\'m looking for something that will generate new systems, not
+massage the ones that have already been created.  I\'d like the
+program to, hopefully, allow some sort of configuration of
+the factors going into the system\'s creation, for example allow
+you to lower/raise average tech levels.  I\'ve found some that
+create systems in a graphical, but non-UWP format.  What I want
+are text listings like from the old Scout book that I can print
+out, edit, email to players, etc.  Graphics would be a bonus, but
+would be frosting on the cake. <g>
+
+It will have to run under OS/2.  Of course, that means it can be
+a DOS or Windows 3.x program as well. <g>
+
+Thanks in advance,
+
+Eris Reddoch
+ereddoch@amaranth.com
+
+
+
+',
+    'date' => 'Sat, 30 Dec 95 16:44:39 CST',
+    'id' => '<199512302250.QAA01077@mailhub.amaranth.com>',
+    'ts-index' => '1995-12-30.ac240',
+    'file' => 'XBOAT95/XBT95485.TXT',
+    'mo' => 'Dec',
+    'year' => 1995,
+    'ts' => '1995Dec30',
+    'day' => '30',
+    'from' => 'Eris Reddoch',
+    'subj' => 'Star System Creation Program?'
+  },
+  {
+    'file' => 'XBOAT95/XBT95485.TXT',
+    'mo' => 'Dec',
+    'ts' => '1995Dec31',
+    'year' => 1995,
+    'day' => '31',
+    'from' => 'Stefan Matthias Aust sma@kiel.netsurf.de',
+    'subj' => 'Re: Tech change',
+    'month' => '12',
+    'index' => 'ac241',
+    'topic' => ' Tech change',
+    'body' => '>What is harder to explain is how the Imperium has lagged at TL15 for so long,
+>after earlier climbs. I guess a basic Traveller premise is that technological
+>change is not steady-and-upward, but that it can level off.
+
+Frankly, I think the designers of Traveller couldn\'t (or more likely didn\'t
+want) imagine too much super technology. Nobody probably expected the
+importance and power of computers in the seventies. Even at TL15, most
+societies in Traveller aren\'t very different to our todays Western society.
+
+Technological advances are very important for our culture, but there\'s no
+reason why all societies should give new inventions such a high priority.
+Some say that technology stagnation is indeed stepping backward but is this
+really true?
+
+>I don\'t really have trouble believing in a universe that is stagnating. It\'s
+>just that it seems like the Imperium is a culture that would be continuing to
+>progress technologically, and I don\'t see why it has hovered so long at and
+>near 15.
+
+What\'s about this explanation: TLs higher than 10 are tied to progress in
+jump technology only. I understand TLs as artificial classifications of some
+Imperial bureau of Technology and perhaps they didn\'t thought inventions or
+discoveries worth an overall TL16 classification yet.
+
+I think, it\'s a flaw of Traveller, that low and high TL-world coexists and
+no one tries to raise all world to the same high TL but perhaps Imperial
+authorities realised that diversification is the real strength.
+
+>The Traveller background provides a number of historical events -- such as
+>the Long Night -- to stop tech progress or send it backward. What gets me is
+>how LONG things take.
+
+..as shown on earth in the Dark Ages in europe. Greek knowledge was
+declared wrong by believe. (Because it cannot happen what shall not
+happen...) However, other nations like the Arabian world, raises to new
+highs in mathematics, medicine and astronomy in the same era.
+
+bye
+--
+Stefan Matthias Aust  //  But it\'s gonna be really happening to ya
+
+',
+    'id' => '<m0tWPKd-0001LJC@kiel.netsurf.de>',
+    'date' => 'Sun, 31 Dec 1995 16:04:19 +0000',
+    'ts-index' => '1995-12-31.ac241'
+  },
+  {
+    'from' => 'David P. Summers',
+    'subj' => 'Adventures on the Fifth Frontier War',
+    'mo' => 'Dec',
+    'file' => 'XBOAT95/XBT95486.TXT',
+    'day' => '31',
+    'ts' => '1995Dec31',
+    'year' => 1995,
+    'id' => '<v01510100ad0c54d93363@[128.102.198.137]>',
+    'date' => 'Sun, 31 Dec 1995 22:51:44 GMT',
+    'ts-index' => '1995-12-31.ac242',
+    'topic' => 'Adventures on the Fifth Frontier War',
+    'month' => '12',
+    'index' => 'ac242',
+    'body' => 'I\'ve been running a bunch of the old Classic Traveller adventures.
+Lately, I\'ve been thinking about bringing about the Fifth Frontier
+War.  However, I don\'t want it to be just something that happens.
+Are there any adventures published that are set in the 5th Front.
+War?
+
+
+'
+  },
+  {
+    'topic' => ' [X485] System Gen Programs',
+    'index' => 'ac246',
+    'month' => '12',
+    'body' => '
+ ::>From: ereddoch@amaranth.com (Eris Reddoch)
+
+X::>I\'m getting ready to start a TNE based PBEM game set in the
+ ::>middle of *a* Long Night (as opposed to *the Long Night <g>).
+
+X::>So I wondering...is there any software available that will create
+ ::>Traveller-isk star systems in the UWP format?
+
+X::>I\'m looking for something that will generate new systems, not
+ ::>massage the ones that have already been created.  I\'d like the
+ ::>program to, hopefully, allow some sort of configuration of
+ ::>the factors going into the system\'s creation, for example allow
+ ::>you to lower/raise average tech levels.  I\'ve found some that
+ ::>create systems in a graphical, but non-UWP format.  What I want
+ ::>are text listings like from the old Scout book that I can print
+ ::>out, edit, email to players, etc.  Graphics would be a bonus, but
+ ::>would be frosting on the cake. <g>
+
+ Just to confirm, you\'re asking for a simple UWP, TNE-style?  Not
+ the extended system profile that the DGP World Builder\'s Handbook
+ set out?
+
+ If that\'s what you\'re interested, contact me.  I have some old
+ stuff lying around that I might even be able to find, written in
+ Turbo Pascal, which, if I can find it, I can translate into BASIC
+ or REXX for you (and for the rest of the list, if there\'s
+ interest).
+
+ Also, I note that TNE has two or three sets of rules, to cover
+ worlds in the Reformation Coalition or similar polity, to cover
+ Wilds, and to cover Regency.  There\'s a lot of overlap, though.
+ Which rules are you looking to start with?  My recommendation
+ would be based on what part of your Long Night your campaign is
+ going to take place in - at the beginning, right after the
+ Disintegration, use the Regency rules; in the middle, the darkest
+ part of the night, use Wilds; and at the end, when Dawns, both
+ real and false, are occurring, generate RC-type worlds.  There are
+ other modifications you can use, such as the Hard Times rules, but
+ you\'ll still need the program to generate the basic UWP.
+
+X::>It will have to run under OS/2.  Of course, that means it can be
+ ::>a DOS or Windows 3.x program as well. <g>
+
+ BASIC or REXX are, as I recall, supplied with OS/2.  Turbo Pascal
+ (at least the version I used for those programs) generated DOS
+ (16-bit) .COM files.
+
+==========================================================================
+Jeff Zeitlin                                      jeff.zeitlin@execnet.com
+----
+ þ OLXWin 1.00a þ It\'s always darkest right before you step on the cat!
+',
+    'date' => 'Sun, 31 Dec 95 23:59:00  0500',
+    'id' => '<8B7F59F.0100064C12.uuout@execnet.com>',
+    'ts-index' => '1995-12-31.ac246',
+    'mo' => 'Dec',
+    'file' => 'XBOAT96/XBT96487.TXT',
+    'day' => '31',
+    'ts' => '1995Dec31',
+    'year' => 1995,
+    'from' => 'JEFF ZEITLIN',
+    'subj' => 'Re: [X485] System Gen Programs'
+  }
+]
