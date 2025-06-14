@@ -1,0 +1,2674 @@
+[
+  {
+    'from' => 'Derek Wildstar',
+    'subj' => 'Pocket Empire Report #0',
+    'mo' => 'Dec',
+    'file' => 'TML1992/BN421428.TXT',
+    'day' => '28',
+    'year' => 1992,
+    'ts' => '1992Dec28',
+    'date' => 'Mon, 28 Dec 92 10:08:05 EST',
+    'id' => '5046',
+    'ts-index' => '1992-12-28.aj538',
+    'topic' => 'Pocket Empire Report #0',
+    'index' => 'aj538',
+    'month' => '12',
+    'body' => '
+Pocket Empire Report #0 - Initial Data
+
+Aoreriyya Region of Reavers\' Deep Sector
+
+"Aoreriyya" is an Aslan word which is best translated as "New Veldt"; it is
+the Aslan name for this region of space.  Aoreriyya is a vague astrographic
+region which includes most of subsectors J, K, N, and O of Aeitle Sakh sector,
+better known in Galanglic as Reavers\' Deep.  It was applied by early Clan
+explorers because of the relatively large number of worlds with climates
+and ecosystems well-suited to Aslan comfort.
+
+Early Solomani explorers named this region ??.
+
+
+Subsectors    Name
+=--=========--================
+J  0921-1630  Ea
+K  1721-2430  Drexilthar
+N  0931-1640  Eakoi
+O  1731-2440  (unknown)
+=--=========--================
+
+To use the subsector data with Cynthia Higginbotham\'s SSV program,
+simply cut apart each subsector (they start with the "@name lines",
+and each one is in order).
+
+
+Classic Traveller Data
+
+Three subsectors need star generation, and two subsectors need names
+for the worlds.  I note that there is quite a mix of Aslani and
+Solomani names in this area, perhaps some folks out there can suggest
+names so we can fill in that part.  It would be nice to get somewhat
+of a mix of different Solomani languages, and get some Aslan names
+too (we can always use a random generator for that, though).  The
+unnamed worlds are identified as ?-#### (where #### is the hex number).
+
+
+World Name    Hex  UWP        B Trade Class     Z  Ext Al Stellar Data
+=============-====-=========--=-===============-=--===-==-======================
+@Ea
+Dunmarrow     0921 B444653-A  S Ag Ni              200 Cs
+Hrou          0923 D200579-8    Ni Va              310 Na
+Lestrow       0926 C798764-8    Ag              R  813 Ma
+Laroaetea     1024 E556555-6    Ag Ni              512 Na
+Fask          1028 C9868AA-8                    R  321 Ma
+Theodora      1030 B857563-A  M Ag Ni           R  104 Ma
+Tearlach      1121 E569749-8    Ri                 413 Na
+Gaajpadje     1124 E667874-4    Ri                 904 Na
+Earlo         1125 D242102-7    Lo Ni Po           404 Na
+Mirak         1127 C766763-A  M Ag Ri           R  702 Ma
+Dran          1129 C451566-9    Ni Po           R  123 Ma
+Leaa          1222 E100488-9    Ni Va              312 Na
+Roakhoi       1224 C969543-4 +  Ni                 702 Na
+Ea            1225 C7586AA-7    Ag Ni              214 Na
+Htalrea       1226 E767610-0    Ag Ni              100 Na
+Marlheim      1230 A5759A8-B  M Hi In           R  303 Ma
+Shamas        1321 E456305-6    Lo Ni              703 Na
+Vincit        1327 C8987A9-8  N Ag                 400 Cd
+Andiros       1328 C799566-8    Ni                 605 Na
+Kingston      1428 B764994-C  M Hi                 813 Na
+Fort William  1521 C240467-A    Ni Po De           600 Cd
+Fulton        1524 C98A788-9    Ri Wa              100 Cd
+Ranald        1526 C456544-9    Ag Ni              622 Cd
+Invermory     1622 B484789-A  M Ag Ri              525 Cd
+Duncinae      1624 A686648-8  M Ag Ni Ri           500 Cd
+Just          1625 C7487AA-5  M Ag                 420 Cd
+@Drexlithar
+Lajanjigal    1721 DAB6583-3    Ni Fl              805 Na F8 V
+Coventry      1723 X565733-2    Ag              A  404 Na F8 V
+Traneer       1727 E576679-7    Ag Ni              323 Na G5 V
+Dakaar        1821 B425612-B  M Ni                 202 Na K0 V DM
+Drexilthar    1826 B46969D-7  S C0 Ni Ri        R  914 Cs G4 V
+Kraan         1828 C501456-8    Ni Va Ic           223 Na A7 III F5 V K0 V
+Daken         1830 C630233-9    Lo Ni Po De        902 Na F3 V
+Cassandra     1924 B000538-C    Ni As Va           914 Na F0 V
+Outpost       1926 B110442-E  N C2 Ni              413 Cs K7 V M5 V
+Tashrakaar    1927 D651695-7    Ni Po              213 Na F6 V
+Luushakaan    2021 D541513-4    Ni Po              810 Na M1 V
+Dutrissal     2027 CAC4235-8    Lo Ni Fl           802 Na K3 V
+Drellesarr    2029 B310550-A    Ni              R  502 Na M3 V M5 V
+Drenslaar     2030 D453694-7    Ni Po              313 Na K5 V
+Grendal       2127 C889855-A  S Ri                 613 Cs G3 V
+Tharrill      2128 C885741-9    Ag Ri              722 Na G0 V
+Sarrad        2129 D88A300-8    Lo Ni Wa        R  820 Cb G4 V
+Garrison      2221 A35796B-B  N Hi              R  312 Im M1 V
+Kaaniir       2223 C688611-6  S Ag Ni              723 Cs G1 V
+Yarhfahl      2228 C658796-6    Ag                 110 Na K3 V
+Datinar       2230 B431685-A    Na Ni Po           303 Cb K7 V
+Gaargir       2322 B465304-C  A Lo Ni              713 Im K4 V
+Ildrissar     2326 C995836-7                       200 Na F5 V
+Carrill       2330 A0009AE-E  M Hi Na In As Va  R  113 Cb A5 III
+Kaanash       2421 B55687A-7  A                    414 Im G5 V
+Diablo        2423 B9C7477-8    Ni Fl           R  724 Im F0 V DG
+Lindritar     2429 C5796A7-8    Ni                 210 Cb G8 V
+@Eakoi
+?-0933        0933 E63A48B-7    Ni Wa              404 Na
+?-0937        0937 B779666-9  M Ni                 622 Uh
+?-0940        0940 C997754-8    Ag                 514 Na
+?-1031        1031 C243313-8 +  Lo Ni Po        R  401 Ma
+?-1034        1034 D433677-5    Na Ni Po           102 Na
+Freedom       1036 C587966-6    Hi                 603 Uh
+?-1037        1037 A887767-8  M Ag Ri              614 Uh
+?-1133        1133 E326340-7    Lo Ni           R  903 Na
+?-1136        1136 E686889-5    Ri                 423 Na
+?-1137        1137 E885858-6    Ri                 614 Na
+?-1138        1138 C200453-A    Ni Va              604 Na
+?-1139        1139 D4409B9-8    Hi In Po De        102 Na
+Pendang       1231 B8769A7-A +M Hi In           R  503 Ma
+Eakoi         1235 E8579B9-5    Hi                 704 Na
+?-1433        1433 D749220-3    Lo Ni              700 Na
+?-1434        1434 D000686-9    Na Ni As Va        502 Na
+?-1531        1531 D24247A-5    Ni Po              910 Na
+Venice        1534 C35A995-8    Hi Wa              714 Na
+?-1537        1537 C674504-8    Ag Ni              723 Na
+Soloman       1538 B897A97-B  N Hi In              302 Cs
+?-1540        1540 B55948B-A    Ni              R  820 Na
+Collins World 1631 B20098C-B  N Hi Na In Va     R  604 Cs
+?-1632        1632 C337322-6    Lo Ni              322 Na
+?-1634        1634 C546616-7    Ag Ni              912 Na
+?-1635        1635 C646200-9    Lo Ni           R  713 Na
+?-1636        1636 E796313-7    Lo Ni              722 Na
+Himalaya      1638 C9D9978-9    Hi Fl              304 Na
+@(unknown)
+?-1733        1733 C595778-5    Ag                 614 Na
+?-1734        1734 E643569-4    Ni Po           R  310 Ga
+?-1735        1735 B758899-A  M                    111 Ga
+Carter        1740 A7589A8-B  M Hi                 402 Ct
+?-1831        1831 C516310-A    Lo Ni Ic           601 Na
+?-1832        1832 C7B4352-A    Lo Ni Fl           703 Na
+?-1839        1839 B8878AC-9  M                    313 Ct
+?-1840        1840 B000666-9  M Na Ni As Va        603 Ct
+Rintarna      1933 B887A99-D    Hi                 313 Na
+?-1937        1937 D767551-7    C6 Ag Ni           804 Ly
+?-1938        1938 B89A569-B    Ni Wa              314 Ly
+?-2032        2032 C799435-A    Ni                 803 Na
+Lanixohn      2033 A789973-D  M Hi              R  700 Cb
+?-2034        2034 C885665-7    Ag Ni Ri           702 Cb
+?-2037        2037 B446562-8  M Ag Ni              803 Ly
+?-2038        2038 B659698-8    Ni                 811 Ly
+?-2133        2133 B877687-A  M Ag Ni              105 Cb
+?-2136        2136 E323523-5    Ni Po              610 Na
+?-2234        2234 D87A466-8    Ni Wa              505 Cb
+Purgatory     2239 C213367-B +  Lo Ni Ic           201 Pu
+?-2337        2337 D567585-5  S Ag Ni              904 Cs
+?-2431        2431 B554759-9  M Ag                 421 Cb
+?-2433        2433 C999563-7  M Ni                 204 Cb
+?-2438        2438 E6A1453-8    Ni Fl              212 Na
+Purity        2440 B8889DC-A  M Hi              R  813 Pu
+=============-====-=========--=-===============-=--===-==-==================
+                             \\
+                              A "+" in this column indicates changes
+
+Since most of this area has never been a part of the Third Imperium, there
+are a decent number of established polities.  Presumably, some of these
+will form the nucleus for Hard Times and New Era polities, while some of the
+Non-Aligned worlds will band to gether to form totally new polities.
+
+
+    W   Best
+    o
+C   r   P
+o   l   o P
+d   d   r o T
+e   s   t p L  Polity Name              Comments
+==--==--=-=-=--=======================--======================================
+
+Cb  10  A 9 E  Carillian Assembly       Destroyed by Daibei/Solomani fighting
+Cs   8  B A E  Imperial Client-States
+Ma   8  A 9 B  Grand Duchy of Marlheim  Totalitarian, Expansionist, Civil War
+Cd   7  A 7 A  Confederacy of Dulcinae
+Im   4  A 9 C  Third Imperium
+Ly   4  B 6 B  ?
+Ct   3  A 9 B  Carter Technocracy
+Uh   3  A 9 9  Union of Harmony         Chinese, Racist, Solomani Client State
+Ga   2  B 8 A  Gralyn Assemblage
+Pu   2  B 9 A  Purity                   Religous Dictatorship
+==--==--=-=-=--=======================--======================================
+- -- 105  A A E  Overall (4 subsectors)  54 worlds are Non-Aligned
+
+
+
+
+
+Other Information
+
+World Name    Hex   Comments
+=============-====--=========================================================
+@Ea
+Dunmarrow     0921
+Hrou          0923
+Lestrow       0926
+Laroaetea     1024
+Fask          1028
+Theodora      1030
+Tearlach      1121
+Gaajpadje     1124  Location of Night of Conquest
+Earlo         1125
+Mirak         1127
+Dran          1129
+Leaa          1222
+Roakhoi       1224  Source of Tlaospice, detailed in FT#1
+Ea            1225
+Htalrea       1226  Source of the perfume Rithscent
+Marlheim      1230
+Shamas        1321
+Vincit        1327
+Andiros       1328
+Kingston      1428
+Fort William  1521
+Fulton        1524
+Ranald        1526
+Invermory     1622
+Duncinae      1624
+Just          1625
+@Drexlithar         Subject of Pilot\'s Guide to Drexilthar (Gamelords)
+Lajanjigal    1721
+Coventry      1723
+Traneer       1727
+Dakaar        1821
+Drexilthar    1826
+Kraan         1828
+Daken         1830
+Cassandra     1924
+Outpost       1926
+Tashrakaar    1927
+Luushakaan    2021
+Dutrissal     2027
+Drellesarr    2029
+Drenslaar     2030  Location of Drenslaar Quest
+Grendal       2127
+Tharrill      2128
+Sarrad        2129
+Garrison      2221  HT Daibei Frontier
+Kaaniir       2223
+Yarhfahl      2228
+Datinar       2230
+Gaargir       2322  HT Daibei Frontier
+Ildrissar     2326
+Carrill       2330  HT War Zone
+Kaanash       2421  HT Daibei Frontier
+Diablo        2423  HT Daibei Frontier
+Lindritar     2429
+@Eakoi
+?-0933        0933
+?-0937        0937
+?-0940        0940
+?-1031        1031
+?-1034        1034
+Freedom       1036
+?-1037        1037
+?-1133        1133
+?-1136        1136
+?-1137        1137
+?-1138        1138
+?-1139        1139
+Pendang       1231
+Eakoi         1235
+?-1433        1433
+?-1434        1434
+?-1531        1531
+Venice        1534
+?-1537        1537
+Soloman       1538
+?-1540        1540
+Collins World 1631
+?-1632        1632
+?-1634        1634
+?-1635        1635
+?-1636        1636
+Himalaya      1638
+@(unknown)
+?-1733        1733
+?-1734        1734
+?-1735        1735
+Carter        1740
+?-1831        1831
+?-1832        1832
+?-1839        1839
+?-1840        1840
+Rintarna      1933
+?-1937        1937
+?-1938        1938
+?-2032        2032
+Lanixohn      2033  HT War Zone
+?-2034        2034
+?-2037        2037
+?-2038        2038
+?-2133        2133
+?-2136        2136
+?-2234        2234
+Purgatory     2239  Mining/Penal colony owned by Purity
+?-2337        2337
+?-2431        2431
+?-2433        2433
+?-2438        2438
+Purity        2440
+=============-====--=========================================================
+All worlds are Hard Times Outlands unless otherwise indicated.
+
+
+Assigning Stars
+
+Steve Higginbotham writes:
+We have 105 worlds here, of which 27 have their stars already, I
+believe.  So we need stars for 78 worlds.  Assuming normal distribution,
+we should have 43 M\'s, 11 K\'s, 9 G\'s, 13 F\'s, and 2 A\'s.  So let\'s be
+arbitrary and burn some of those G\'s for all the Ag and Ri worlds left.
+Of course, there are 28 Ag, Ri, or Ag Ri worlds without stars, so we\'ll
+need to use up most of the K\'s and F\'s getting them decent stars...
+
+
+Toward the New Era
+
+During Hard Times, and up to the onset of the Virus, some polities will
+decide that its time to become Reavers in the Grand Old Tradition (RitGOT).
+
+Near the beginning of the Rebellion, a relatively large group of (alien
+minor race or races) fled Solomani persecution into Aoreriyya.  They passed
+through Carrillian Assembly (through Carrill and/or Lanaxion) on their way
+to a suitable colony world.  Their transporation was two or three very
+large (100,000-ton+) imperial-design bulk transports, with over 100,000
+colonists in cold sleep, and such supplies as could be transported.
+
+During the Rebellion and Hard Times, the area recives a continuing trickle
+of refugees (especially minor-race aliens seeking refuge from Solomani
+opression).
+
+An idealistic Imperial officer and the remains of her CruRon (badly damaged
+in the initial fighting; only 2 ships are space-worthy, and only one could
+be called combat-ready) set course for the Deep.  These people are not
+Reavers, but an idealistic, pro-Imperium, good-guy group who are trying to
+recreate in microcosm all of the good things the Imperium has lost in the
+Rebellion.  The choose a relatively good world, and play Guardian Angel.
+
+And of course, the usual mob of desperadoes generated by Hard Times.
+Some Vargr may even show up to join in the fun.
+
+All of this section is still fluid, and Mike Metlay\'s Near Miss will
+probably fit into it somewhere.
+
+And then the Virus hits.
+
+
+Sources
+
+From Lewis Taylor Goss, Reaver\'s Deep information can be found in:
+o Atlas of the Imperium. - by GDW
+    Barebones sector map, starport types, names of high population worlds.
+o Pilot\'s Guide to Drexilthar Subsector. - by Gamelords, Ltd.
+    Detailed information on one of the subsectors of Reaver\'s Deep, including
+    full Classic Trav UWP info, maps, names, page-long descriptions of each
+    planet, etc.
+o Far Traveller #1, #2 - by FASA.
+    Information on two different subsectors in Reaver\'s Deep, including full
+    Classic Trav UWP info, maps, names, adventures set in the same subsectors,
+    detailed information on a few planets only.  [FT#2 does not cover
+    Aoreriyya, but details a subsector to coreward].
+o Dune Raiders. - by Gamelords, Ltd.
+    Detailed adventure situation on a desert planet in Reaver\'s Deep.
+o Drenslaar Quest. - by Gamelords, Ltd.
+    Detailed adventure underwater on a planet in Reaver\'s Deep.
+o Ascent to Anekthor - by Gamelords, Ltd.
+    Detailed mountain adventure on a planet in Reaver\'s Deep.
+o The Traveller\'s Digest #16 - by DGP.
+    Information on a fourth subsector in Reaver\'s Deep.  Full MegaTraveller
+    UWP data (pre-Rebellion), map, names, etc.
+o Double Adventure #5: Night of Conquest - by GDW.
+    Detailed adventure situation during a revolution on a planet in the Deep.
+o Digest Group\'s GENIE database.
+    A compilation of some of the data about the Reaver\'s Deep.  Many but not
+    all planets named, full MegaTraveller UWP data (pre-Rebellion).  [The
+    above UWP data was extracted from there].
+o High Passage #3 - by ??.
+    contains a disccussion of the Caledon Highlanders, a mercenary unit
+    based in the Caledon Subsector.
+o High Passage #5 - by ??.
+    Contains a sector map that specifies subsector names and political
+    borders only.  No planets, no UWP data, no names.
+o Pilot\'s Guide to the Caledon Subsector - by GameLords, Ltd.
+    May never have been published.
+o Far Traveller #3 - by FASA.
+    May never have been published.
+
+Availability of Data (who has what)
+Atlas of the Imperium:          wildstar,Higginbotham
+Pilot\'s Guide to Drexilthar:
+Far Traveller #1:               wildstar
+Far Traveller #2:               wildstar
+Far Traveller #3:
+Dune Raiders:                   Higginbotham
+Drenslaar Quest:
+Ascent to Anekthor:
+Travellers\' Digest #16:
+Double Adventure #6:            wildstar,Higginbotham
+High Passage #3:
+High Passage #5:
+Pilot\'s Guide to Caledon:
+GENIE UWP Database:             included above, version for SSV11 on request
+
+
+Library Data and Other Information
+
+The following general on Ea data was printed in Far Traveller #1:
+
+Originally Explored by Aslan traders and clan scouts looking for new
+territory, the Ea subsector has been the scene of numerous
+confrontations between Humans and Aslans in competition for the same
+real estate.  During the era of the Reaver Warlords, several small human
+states sprang up here; as a result, competition is stiff.
+
+Two substantial human states, separated by a scattered band of unclaimed
+independent worlds, dominate this region.  The Grand Duchy of Marlheim
+is a tightly controlled, expansionist totalitarian state.  The
+Confediracy of Duncinae is a less restrictive interstellar community
+with close ties to the Principality of Caledon to coreward.
+
+[TNE-POCKET: The Grand Duchy entered an internal civil war, primarily
+ a struggle between Pendang and Marlheim for control of the polity
+ (similar to the internal politics of the Sword Worlds).  The civil
+ war causes this polity to be classified Red Zone for the duration.]
+
+Htalrea, lying between the two states, is a primitive world hitherto of
+greatest importance to Aslan traders.  It is the home of the risth, a
+large, dangerous predator whose scent glands are a source for rare and
+expensive perfumes.
+
+Library Computer: The Reavers.  Name given to any of the petty warlords
+or pirates who have operated in the area of space known as Reavers\'
+Deep.  The first Reavers flourished in the region during the Long Night,
+when individual warlords with a handful of working starships could
+dominate several worlds.  Expansion by Aslan and Imperial interests into
+the region, culminating in the Aslan Border Wars (ca. 200-380), led to a
+lessening of the Reaver presence, but in the aftermath of those wars the
+neutral strip of border worlds in the Deep [became] havens for criminals
+and pirates.  To this day the name is sometimes applied, often in a
+fanciful or romantic manner, to freebooters, pirates, privateers, or,
+occasionally, to small interstellar states found in the area.
+
+Library Computer: Tlaosierlahrau.  Also known as tlaospice, tlao, or
+seasongold; a spice derived from the seed of tlaosier, a tree found on
+Roakhioc[sic]/Ea in Reavers\' Deep.  The golden seed kernels, when ground,
+produce a fragrant, light seasoning popular with both Aslan and Human
+gourmets on meat, soups, and stews.  Because of the scarcity of
+tlaosier, and the expense of shipping it, tlaospice commands an
+impressive price of Cr 3 per gram in offworld markets.
+
+Library Computer: Tlasayerlaahel.  Merchant corporation controlled by
+the Yehaso clan, a strong Aslan group in Reavers\' Deep.  Tlasayerlaahel
+is a powerful company with many interests in the Deep, among them the
+tlaospice trade with Roakhoi, the rithscent trade with Htalrea, and some
+commercial contact with the natives of Gaajpadge, from whome glasswares
+and other objets d\'art are obtained.  Tlasayerlaahel is currently
+engaged in stiff economic competition with the human merchants of
+Caledon Ventures, Ltd. from Caledon/Caledon.
+
+
+TNE-POCKET Data:
+
+Union of Harmony:
+Cynthia suggests that the Union of Harmony actually be a Confederation
+wannabe:  they have applied for membership, and are busy showing how
+zealously Solomaniac they are (being Chinese, they probably think this
+whole Solomaniac shtick is drivel - they KNOW that being Chinese is far
+more important than (and far superior to) anything else out there):-)).
+This gives a good excuse for lots of Solomani support, with room for them
+to be dropped like a hot rock when things start to look dark...
+
+And although they are getting lots of Solomani support, they have to use
+almost all of it to keep the Aslan out of their spinward border (and
+therefore have very little resources left to do more than act obnoxious to
+everyone else).  Once they stop recieving Solomani support, then they get
+the nasty shock of finding out how alone they can be ...
+
+wildstar@moeng2.morgan.edu
+- ----
+                                                 Science-Fiction Adventure
+                                                         in the Far Future
+'
+  },
+  {
+    'ts-index' => '1992-12-29.aj539',
+    'id' => '5047',
+    'date' => 'Tue, 29 Dec 92 12:02:18 EST',
+    'month' => '12',
+    'index' => 'aj539',
+    'topic' => 'Attn: Lauren Wiseman',
+    'body' => 'Lauren,
+
+Could you please email me at this addess as I have lost your email
+address.
+
+Regards,
+
+Mike.
+ ----
+ Internet:mglew@laurel.ocs.mq.edu.au
+    Phone:+61 43 841525
+
+                     "I have a cunning plan..."- Baldrick (Black Adder)
+ ----
+     Michael Glew - School of Math Phys Comp & Elec - Macquarie University
+ ----
+
+',
+    'from' => 'Michael Glew mglew@laurel.ocs.mq.edu.au',
+    'subj' => 'Attn: Lauren Wiseman',
+    'file' => 'TML1992/BN421428.TXT',
+    'mo' => 'Dec',
+    'year' => 1992,
+    'ts' => '1992Dec29',
+    'day' => '29'
+  },
+  {
+    'id' => '5048',
+    'date' => 'Tue, 29 Dec 1992 16:56:31  0330',
+    'ts-index' => '1992-12-29.aj540',
+    'index' => 'aj540',
+    'month' => '12',
+    'topic' => 'Laser pistols, Rifles, etc...',
+    'body' => '
+
+Happy New Year!!
+
+Thanks for the response on those 10mm Pulse rifles! Much appretiated.
+I\'m gonna bug you a little more about weapons now, What about these laser
+weapons?
+Now, I have read all sorts of stuff on these "power packs" which are
+unique for each different weapon, but I have no Idea about the size (vol)
+of these things. I got a weight listing here in the Imperial Encyclopedia
+that says a typical Laser Pistol-9 power pack should weigh 2 kg. Fantastic.
+Now, depending upon the makeup of the power cell, the casing material
+and what ever power flow governing equipment the little bugger has on it,
+this means absolutely nothing to me. If we are talking heavy elements,
+it is conceivable that the power cell is about the size of a typical
+weapon clip for a slug thrower. (Yes, No, Maybe?)
+Ahhhh, but then we take a little gaze at the weapons tables in the
+Players Handbook and notice that a typical Laser Pistol-9 has a 50 shot
+capacity per power cell. The plot thickens... And we see that a Laser
+Pistol-13 (with a Power Cell weight of 1 kg) has a 200 shot capacity!
+That\'s right, we have an increase of shot power per kilogram of factor 8!
+Now, I have no problem with this as long as we are talking a backpack
+that is akin to the size of a small Microwave oven. But we also have a
+drawing of an imperial trooper on page 35 of the Rebellion Sourcebook
+(Potential Boo-Hiss?) which depicts a Laser Pistol (I assume TL 13) with
+the power link cord running behind him... He doesn\'t look too encumbered
+to me. Now, I don\'t claim that artistic endeavors should become the be
+all end all of judgement in this case, but I am REALLY confused.
+And What about this 200 shots per magazine... How about clips that
+contain 20 shots, which can load into the grips? Wisdom anyone? Advice?
+Also, Can anybody direct me to some net accessible robot designs? I
+got a lot of Scott Kellogg\'s designs (Cargo Lifters and Pizza Boxes)
+but I have a great need for more.
+
+Thanks, Happy New Year,
+Anthony Neal
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Anthony Neal                 |"Lets bring up the cargo manifest. 2300 laser
+anthonyn@odie.cs.mun.ca      | pistols, 1600 laser rifles, 1 ATV, 67 suits of
+Memorial University Of       | combat armor and... What the hell are
+Newfoundland                 | \'tribbles\'?"
+- ----
+--
+',
+    'from' => 'Anthony Neal anthonyn@odie.cs.mun.ca',
+    'subj' => 'Laser pistols, Rifles, etc...',
+    'file' => 'TML1992/BN421428.TXT',
+    'mo' => 'Dec',
+    'ts' => '1992Dec29',
+    'year' => 1992,
+    'day' => '29'
+  },
+  {
+    'subj' => 'Planetary Formation',
+    'from' => 'KELLOGG@DUCVAX.AUBURN.EDU',
+    'year' => 1992,
+    'ts' => '1992Dec29',
+    'day' => '29',
+    'file' => 'TML1992/BN421428.TXT',
+    'mo' => 'Dec',
+    'id' => '5049',
+    'ts-index' => '1992-12-29.aj541',
+    'date' => 'Tue, 29 Dec 1992 16:24 CST',
+    'body' => 'Hey folx,
+
+Guess I\'m a bit behind in the times, but I\'ve been a bit busy.  A
+while back there was a thread on the TML about planetary
+atmospheres.  Basically the argument went along the line that since
+Earth has a standard atmosphere, a planet with a more dense
+atmosphere in Traveller must have a more dense core than Earth.
+I\'m afraid that is not the case.
+
+You see any analysis of Earth\'s atmosphere has to take the actions
+of Earth\'s Moon into account.  The moon is substantially larger
+than any standard moon.  The Earth - Moon system is much more like
+a double planetary system than a single planet with a regular moon.
+
+The moon is so large and so close that it is slowly skimming off
+the Earth\'s atmosphere, thinning it out.  Tidal action of the moon
+actually gives escape velocity to some of Earth\'s upper atmosphere.
+
+By contrast, Venus is slightly less dense than Earth (Surface
+gravity 0.9G), yet it has an atmosphere of between 10 and 25
+atmoshperes.  (CRC handbook Chem/Physics)  Why?  Venus has no moon,
+not even tiny asteroid moons like Mars.
+
+I also seem to remember reading an article a couple years back that
+suggested Earth may have been hit by a small planetoid.  Approx
+Mars size.  When the planetary core hit, it spread a large amount
+of heavier metals over the surface of the planet.  That was
+supposed to explain why there are measureable amounts of metals
+like gold, silver, platinum, lead, copper, iron etc. etc. in the
+crust instead of them being tied up in the core of the planet.
+
+Catie?  You heard anything like that?  Or is there a more
+conventional explanation for the distribution of metals in the
+Earth\'s crust?
+
+Scott 2G Kellogg
+',
+    'index' => 'aj541',
+    'month' => '12',
+    'topic' => 'Planetary Formation'
+  },
+  {
+    'body' => 'Got an odd question for ya\'ll on psi shields:
+
+Now, we know psi shields prevent a telepath from reading a person\'s
+mind.  We also have more or less accepted that if a large area is
+covered with a psi-shield, a teleport can not teleport inside, nor
+can a clairvoyant see within the shield.  Telekinesis won\'t work
+accross the barrier either etc.
+
+Now for the odd part:
+What about Clairvoyance.  As far as I know it works by a person
+concentrating on an object or person, and then they will be able to
+determine the location of what is sought.  Make sence?
+
+What if a clairvoyant tries to spot the psi-shield?  Can a
+clairvoyant \'see\' the shield, even if they can\'t see inside it?
+
+If so, then having a psi-shield around your deep-site meson gun
+won\'t help an awful lot.
+
+Of course, as the Imps come up with psi counter measures, the Zhos
+will come up with psi counter counter measures, and then psi
+counter counter counter measures & psi counter counter counter
+counter measures & psi counter counter counter counter counter...
+
+Scott 2G Kellogg
+"Where there are counter measures, there are counter counter
+measures." - Sun Tzu (paraphrased)
+
+"Hey Rock! It\'s an anti-anti-missile-missile-missile!" - Bullwinkle
+',
+    'month' => '12',
+    'index' => 'aj542',
+    'topic' => 'Psionic Counter Counter Counter Counter Measures',
+    'date' => 'Tue, 29 Dec 1992 16:25 CST',
+    'id' => '5050',
+    'ts-index' => '1992-12-29.aj542',
+    'year' => 1992,
+    'ts' => '1992Dec29',
+    'day' => '29',
+    'file' => 'TML1992/BN421428.TXT',
+    'mo' => 'Dec',
+    'subj' => 'Psionic Counter Counter Counter Counter Measures',
+    'from' => 'KELLOGG@DUCVAX.AUBURN.EDU'
+  },
+  {
+    'topic' => 'Trillion Credit Squadron',
+    'index' => 'aj543',
+    'month' => '12',
+    'body' => 'My TCS game is proceeding toward the point where I need another playe or
+two.  Is anyone out there interested in taking on the job?
+
+----Steve
+
+',
+    'date' => 'Tue, 29 Dec 92 16:46:39  0600',
+    'id' => '5051',
+    'ts-index' => '1992-12-29.aj543',
+    'mo' => 'Dec',
+    'file' => 'TML1992/BN421428.TXT',
+    'day' => '29',
+    'ts' => '1992Dec29',
+    'year' => 1992,
+    'from' => 'p00206@psilink.com',
+    'subj' => 'Trillion Credit Squadron'
+  },
+  {
+    'id' => '5052',
+    'ts-index' => '1992-12-29.aj544',
+    'date' => 'Tue, 29 Dec 92 14:50:42  0800',
+    'body' => '
+I just picked up Arrival Vengeance.
+
+"Tell Norris I\'m sorry." -Emperor Strephon\'s last message to the
+officers of the Arrival Vengeance before they depart his stronghold
+across the rift back to Deneb.
+
+Oh, and he sends ?someone? a young, 8 year old boy, (gee, precisely
+the right age to be a son or clone born at the beginning of the
+War...), off with the ship.
+
+- -george william herbert
+
+
+',
+    'topic' => 'Arrival Vengance is out',
+    'month' => '12',
+    'index' => 'aj544',
+    'subj' => 'Arrival Vengance is out',
+    'from' => 'George William Herbert',
+    'day' => '29',
+    'ts' => '1992Dec29',
+    'year' => 1992,
+    'mo' => 'Dec',
+    'file' => 'TML1992/BN421428.TXT'
+  },
+  {
+    'year' => 1992,
+    'ts' => '1992Dec30',
+    'day' => '30',
+    'file' => 'TML1992/BN421428.TXT',
+    'mo' => 'Dec',
+    'subj' => '[none]',
+    'from' => 'LTG3878@ZEUS.TAMU.EDU',
+    'body' => 'Here is an updated file of information about Reavers\' Deep.  It should be
+considered a replacement for any information previously submitted by me.
+
+12-30-92:  Reavers\' Deep pre-published information.
+
+High Passage #4, FASA, "STRIKER FORCE:  Caledon Highlanders," 1982, pp. 53-57,
+J. Andrew Keith.  Fairly detailed information about a human mercenary regiment
+operating out of Caledon/Caledon.
+
+High Passage #5, FASA, "Outside the Expanses," 1982, pp. 62-63.  A brief para-
+graph discussing the history of Reavers\' Deep, an outline of political
+boundaries (pre-Rebellion), and subsector names as follows:
+A - Farift     E - Hryaraoaa      I - Keiar         M - Uhtaa
+B - Riftdeep   F - Scotian Deep   J - Ea            N - Eakoi
+C - Riftrim    G - Caledon        K - Drexilthar    O - Drinsaar
+D - Gulf       H - Nightrim       L - Urlaqqash     P - Fahlnar
+
+Aslan Mercenary Ships, FASA, 1982, J. Andrew Keith.  Deckplans for two 3000
+ton aslan warships, two enclosed books.  One book discusses the ships and
+presents a sample ticket against the Caledon Highlanders (mentioned above).
+The other book discusses the Aslan at war, and contains information about an
+aslan mercenary regiment operating out of Uhtaa subsector, the Teahleikhoi
+regiment.
+
+Adventure Class Ships Vol. II, FASA, 1982, J. Andrew Keith.  Deckplans for ten
+ships, among them a 200-ton aslan combat scout vessel used by the Teahleikhoi
+regiment mentioned above.  Included are two books, the second of which contains
+ship encounter tables for used in Reavers\' Deep.
+
+Far Traveller #1, FASA, 1982.  Various articles:
+"Library Computer," pp. 9-10.  Library data about Reavers\' Deep.
+"PORT OF CALL:  The Roakhoi System," pp. 11-49, J. Andrew Keith & William H.
+Keith, Jr.  Extensive data regarding Roakhoi/Ea.
+"WHERE THE ACTION IS:  The Lion\'s Den," pp. 50-55. J. Andrew Keith.  An
+adventure set on Roakhoi.
+"Pilot\'s Guide to Ea Subsector," pp. 56-57, Marishcal Adventures.  Classic Trav
+UWP data, map, planet names, political boundaries, communication routes for Ea.
+"ADVENTURETTE:  Jailbreak," pp. 58-64, J. Andrew Keith.  Another adventure set
+Roakhoi.
+
+Far Traveller #2, FASA, 1982.  Various articles:
+"ADVENTURETTE:  Night rescue," pp. 10-16, J. Andrew Keith.  An adventure set on
+Roakhio (mentioned above).
+"Library Computer," p. 17.  More Library data about Reavers\' Deep.
+"PORT OF CALL:  Rejhappur," pp. 20-42.  Extensive data about Rejhappur/Scotian
+Deep.
+"Encounters & Events on Rejhappur," pp. 43-51.  Still more about Rejhappur.
+"Trial by Justice," pp. 52-55, J. Andrew Keith.  An adventure set on Rejhappur.
+"The Last Bastion," pp. 56-69, John Marshal.  Another adventure on Rejhappur.
+"Pilot\'s Guide to Scotian Deep Subsector," pp. 60-62.  Classic Trav UWP data,
+map, planet names, political boundaries, communication routes for Scotian Deep.
+
+Double Adventure 6:  Night of Conquest, GDW, 1982, J. Andrew Keith & William H.
+Keith, Jr.  An adventure set on Gaajpadje/Ea, discusses the political situation.
+
+The Drenslaar Quest, GameLords, Ltd., 1982, William H. Keith, Jr.  An adventure
+set on Yarhfahl/Drexilthar.  Emphasis on underwater activities.  Discusses the
+political situation.
+
+Duneraiders, GameLords, Ltd., 1984, William H. Keith, Jr.  An adventure set on
+Tashrakaar/Drexilthar.  Emphasis on desert activities.
+
+A Pilot\'s Guide to Drexilthar Subsector, GameLords, Ltd., 1984, William H.
+Keith, Jr.  Includes an outline of political boundaries of Reavers\' Deep,
+subsector names, and a brief sector history.  Classic Trav UWP data for
+Drexilthar subsector, map, planet names, political boundaries, communication
+routes.  Each planet has a page long description, and full Book 6: Scouts data,
+including stellar data, etc.
+
+Atlas of the Imperium, GDW, 1984, p. 27.  Planet locations, starport types,
+political affiliations, names of high population planets, military bases,
+desert planets indicated, for Reavers\' Deep.
+
+Best of the Journal, GDW, vol. 3, "CONTACT:  The Virushi," J. Andrew Keith &
+William H. Keith, Jr.  Details of a minor race from Virshash/Urlaqqash.
+
+Traveller\'s Digest #16, DGP, 1989.  Various articles.
+"Twice Confounded," pp. 4-18, William Connors.  An adventure set on Irlaggur/
+Urlaqqash (pre-Rebellion).
+"Reavers\' Deep Sector:  Library Data," pp. 27-28, John Theisen & J. Andrew
+Keith.  Still more Reavers\' Deep information (pre-Rebellion)
+"Urlaqqash Subsector," p. 29.  Full MegaTraveller UWP data (pre-Rebellion),
+map, planet names, political boundaries, communication routes for Urlaqquash.
+"Communication Routes of The Reaver\'s Deep," p. 30.  Political boundaries,
+communication routes, planet locations of Reaver\'s Deep (pre-Rebellion).
+
+GENie data.  For some reason, the GENie data does not include the names for
+Urlaqqash subsector, but does include the names for Caledon subsector.
+
+So, to summarize:  full data available on five subsectors:
+                   F - Scotian Deep
+                   G - Caledon
+                   J - Ea
+                   K - Drexilthar
+                   L - Urlaqqash
+',
+    'month' => '12',
+    'index' => 'aj545',
+    'topic' => '[none]',
+    'ts-index' => '1992-12-30.aj545',
+    'id' => '5053',
+    'date' => 'Wed, 30 Dec 1992 11:42:08  0600 (CST)'
+  },
+  {
+    'subj' => 'Universal Universe Profiles',
+    'from' => 'Corran J. Webster cwebster@math.ucla.edu',
+    'day' => '30',
+    'ts' => '1992Dec30',
+    'year' => 1992,
+    'mo' => 'Dec',
+    'file' => 'TML1992/BN421428.TXT',
+    'id' => '5054',
+    'date' => 'Wed, 30 Dec 92 13:06:37  0800',
+    'ts-index' => '1992-12-30.aj546',
+    'body' => '
+About a month back I had this neat idea:
+
+>>   Perhaps a UUP (Universal Universe Profile) might be in order!
+
+and Wildstar had this to say...
+
+>Hey, good idea!  A simple string of digits which summarize many of the
+>important points of a universe.  How about something like the following
+>
+>Tone : Rating of the overall tone and character of the universe; low
+>numbers mean dark, depressing, morbid; high numbers indicate light,
+>upbeat, hopeful.
+>Contrast : Rating of the definition between "good" and "evil"; low
+>numbers indicate that such a conflict is not a fundamental part of the
+>universe, with the contrast increasing up to the high numbers, where the
+>conflict between a well defined good and evil is central to the universe
+>(Star Wars is a good example of this in science fiction).
+>Scale : Shows the "size" of events in which the players will typically
+>be involved; low numbers indicate that the events are likely to be
+>unimportant on a cosmic scale, and of interest to the participants and
+>a few others.  High numbers indicate world-shattering, star-spanning
+>plots with strong consequences for entire worlds and billions of people
+>Input : This indicates how much influence the players are likely to have
+>in the course of these events; low numbers indicate that the rebellion
+>will go on no matter what the players can do.  High numbers represent a
+>larger player influence on their universe.
+>
+>Technology: A group of three digits which represents the low, average
+>and high end of the technology available in the universe.
+>
+>Parameters: A group of digits for plugging into equations in design
+>dequences; represents the type and effectiveness of specifc technologies
+>in the game universe.  Likeley candidates include Fusion, Gravitics,
+>Jump Drive, Stutterwarp, Stargates, and as many others as seem
+>reasonable.
+>
+>Examples: (in my humble opinion, using a 2-B scale):
+>
+>Classic Traveller: 9469-AFG-87600
+>Rebellion Era:     58A3-AFG-67600
+>Hard Times Era:    4878-9CE-67600
+>Star Trek TNG:     A79A-???-A90B1
+>Star Wars:         BABA-???-88A00
+
+Well it looks like GDW might be going to run with a similar sort of idea!
+(Yes GDW may actually be taking some notice of what goes on here!) If you
+check the last page of Arrival Vengeance you will see the following in the
+ad for TNE...
+
+Each campaign will have its own universe profile which describes what
+is possible there. Is anti-gravity technologically possible? What
+is the most efficient means of intestellar travel in this universe?
+Jump Drive? Stutterwarp? Stargates? Is matter transport possible?
+When was artificial intelligence created? In the universe of the
+imperium, stutterwarp is physically impossible, but jump drive and
+anti-gravity are easily discovered principles.
+
+(I hope GDW doesn\'t mind people quoting their ads...)
+
+From this it looks as if they are only going to use the "parameter" type
+digits, but more than the ones wildstar suggested (like matter transport
+and AI).
+
+So perhaps, to get discussion going on TML again, we might have a discussion
+(argument, flame war) about what should be included in a UUP and how it
+should tie in with the rest of the rules (ie. what does a "stutterwarp 6"
+rating mean?).
+
+An obvious candidate for another digit in the UUP is psionics (Traveller has
+moderately powerful psionics, the Star Wars universe has powerful psionics
+(the Force), a universe like 2300AD has none). Also FTL communications:
+This has been a big no-no in Traveller & 2300AD, but is used in a lot of
+science fiction - Star Trek being a prime example. (By FTL communications
+I mean FTL communications which are faster than the speed of travel for
+matter).
+
+Any others people can think of?
+
+As for what the digits actually mean, for the FTL digits the maximum distance
+which can be travelled is perhaps the obvious choice, but there are other
+possibilities, such as the maximum speed or an efficiency rating.
+
+For AI, perhaps the digit might be the maximum intelligence an AI can reach
+and still be stable (as I remember, human level AI\'s in 2300AD were possible
+but tended to suicide after a few months). How about the length of time
+that an AI remains stable as the meaning of the digit?
+
+Psionics may be the maximum level in any psionic-type skill.
+
+The Fusion/Gravitics numbers seem best used as inputs into vehicle design
+process.
+
+Any other suggestions?
+
+See ya \'round,
+Corran Webster
+',
+    'topic' => 'Universal Universe Profiles',
+    'index' => 'aj546',
+    'month' => '12'
+  },
+  {
+    'subj' => 'Personal Archives',
+    'from' => 'Richard Johnson',
+    'ts' => '1992Dec30',
+    'year' => 1992,
+    'day' => '30',
+    'file' => 'TML1992/BN421428.TXT',
+    'mo' => 'Dec',
+    'date' => 'Wed, 30 Dec 92 14:33:42 PST',
+    'id' => '5055',
+    'ts-index' => '1992-12-30.aj547',
+    'body' => '
+
+                         PBEM Archives
+
+       R-Alpha Design Notes (much of this belongs to Alan Husscroft)
+
+                      Just ask if you want it.
+
+       If I don\'t hear from anyone, it goes away early next year.
+
+
+
+I\'m getting ready to make some room on the ol\' hard disk here at home so
+I can keep playing with the computer.  I have about 5Mb worth of of various
+PBEM (the *original* series) :=) files.  Most notably, I have all the GM
+notes and conversations with the R-alpha natives about R-alpha.  It\'s a
+ready-made ring-world if somebody wants it.
+
+I\'d upload to sunbane, but don\'t really have that capability from here (but
+the sysadmin is actually working on it.  Something useful for the money.)
+
+Happy New Year.
+- --
+Richard Johnson      richard@agora.rain.com
+"When I despair, I remember that all through history the way of truth and love
+has always won.  There have been tyrants and murderers, and for a time they can
+seem invincible.  But in the end they always fail.  Always." ---- Mahatma Ghandi
+',
+    'month' => '12',
+    'index' => 'aj547',
+    'topic' => 'Personal Archives'
+  },
+  {
+    'index' => 'aj548',
+    'month' => '12',
+    'topic' => 'Psionic Shields and Deep Meson Sites',
+    'body' => '2G Scott mentions that having a psionic shield around a deep meson gun site
+would be a dead giveaway to a Zhodani attacker, since they could probably sense
+the shield.  (I think that this business of sensing shields is correct, but
+I\'ve never used psionics in a game...)  This is correct as far as it goes,
+but if decoy shields were substantially cheaper than deep sites, it might
+not be too bad...
+
+Of course, at the rate of fire of weapons in this game, engaging one real
+site and two thousand decoy sites might not take very long.
+
+Rob Dean
+',
+    'ts-index' => '1992-12-30.aj548',
+    'id' => '5056',
+    'date' => 'Wed, 30 Dec 1992 19:15:30  0500 (EST)',
+    'file' => 'TML1992/BN421428.TXT',
+    'mo' => 'Dec',
+    'year' => 1992,
+    'ts' => '1992Dec30',
+    'day' => '30',
+    'from' => 'Rob Dean robdean@access.digex.com',
+    'subj' => 'Psionic Shields and Deep Meson Sites'
+  },
+  {
+    'subj' => 'Robot Design files',
+    'from' => 'Rob Dean robdean@access.digex.com',
+    'year' => 1992,
+    'ts' => '1992Dec30',
+    'day' => '30',
+    'file' => 'TML1992/BN421428.TXT',
+    'mo' => 'Dec',
+    'id' => '5057',
+    'date' => 'Wed, 30 Dec 1992 19:25:34  0500 (EST)',
+    'ts-index' => '1992-12-30.aj549',
+    'body' => 'Anthony Neal asks about robot design files.  As far as I know, they haven\'t
+been collected, but there are a number of designs that have been published
+here, by the "usual people"--me, Scott Kellogg, Bertil Joenll, and Juergen
+Kirsch, if memory serves me correctly.  They can be accessed slowly by reading
+the back issue bundles off the archives.  New designs are probably going to
+be slow in coming, since I think that most of the designer types are holding
+their metaphorical breaths waiting for some idea from GDW of whether or not
+it will be worth changing over to the new system.  (On the other hand, I typed
+up two TL12 dumbots today, and may do another one or two tomorrow, and I\'ll
+upload whatever I\'ve got then. Happy New Year!)
+
+Rob Dean
+',
+    'month' => '12',
+    'index' => 'aj549',
+    'topic' => 'Robot Design files'
+  },
+  {
+    'from' => 'Derek Wildstar',
+    'subj' => 'Universal Universe Profiles',
+    'file' => 'TML1992/BN421428.TXT',
+    'mo' => 'Dec',
+    'year' => 1992,
+    'ts' => '1992Dec30',
+    'day' => '30',
+    'id' => '5058',
+    'date' => 'Wed, 30 Dec 92 22:16:31 EST',
+    'ts-index' => '1992-12-30.aj550',
+    'index' => 'aj550',
+    'month' => '12',
+    'topic' => 'Universal Universe Profiles',
+    'body' => '
+I would like to make a couple of follow-up comments about the UUP idea.
+
+First of all, I\'m glad GDW will do something of the sort with T:TNE; any sort
+of multi-universe game needs something like this.  Personally, I felt that the
+Tone, Contrast, Scale, and Input numbers are quite important.  Not everyone
+likes the same kind of adventuring, and these allow you to quickly see if a
+product fits in with the kind of game your players like to play.
+
+The parameters were intended to go into equations in the vehicle and equipment
+design sequences: exactly what each number means depends on what it is for.
+As a rule of thumb, a 0 indicates that the technology is impossible (not
+present in the universe at all).  Other numbers indicate greater or lesser
+degrees of efficency; the larger the number, the more efficient or powerful
+the effect.  Exactly how these numbers are interpreted would depend on the
+rules contained in the design sequences for that technology.
+
+Since none of these rules (currently) exist, then it is all rather
+hypothetical.  But it would be nice to see such a scheme in place for T:TNE.
+
+
+Speaking of Arrival Vengance, my local game store (Dream Wizards) does not
+have it in stock yet (Dec 30th).  Tom Peters (who occasionally works there)
+mentioned that he has yet to see the completed product, and he did the
+cover art (!).  Tom also expressed a good bit of confidence in Dave Nilsen
+and Traveller: The New Era.
+
+
+wildstar@moeng2.morgan.edu
+- ----
+                                                 Science-Fiction Adventure
+                                                         in the Far Future
+
+'
+  },
+  {
+    'id' => '5060',
+    'date' => 'Thu, 31 Dec 92 00:18:22 EST',
+    'ts-index' => '1992-12-31.aj551',
+    'topic' => 'A computer question',
+    'month' => '12',
+    'index' => 'aj551',
+    'body' => '
+I picked up an old issue of Byte magazine (before it sold out to
+McGraw-Hill) from January 1979, and I\'d like to quote from an article,
+entitled "History of Computers: The IBM 704":
+
+
+  The IBM 704, announced in 1956, was almost the last vacuum tube
+computer.  It was rendered obsolete by the 709 in 1959, which became the
+7090 in less than a year.  The addition of the zero suffix to the model
+number denoted the replacement of vacuum tubes by transistors and the
+start of the second comptuer generation.  The 704 was very definitely a
+first generation machine in the tradition of the giant brains of the
+1940s and 1950s.  The central processing unit occupied a hige L-shaped
+cabinet of about 120 cubic feet.  There was not enough room in the
+cabinet for the 32k 36-bit words of core storage that occupied its own
+box - another 100 cubic feet at least.  Today [1979] the computing power
+cotained in those two steel, glass, and dark grey enamel cabinets can be
+equaled by a desktop machine; in fact the latter would easily outstrip
+the 704\'s 12 us instruction cycle.  Nevertheless, the 704 was the
+ultimate computer of its time.
+
+  ... On the other hand, support for the hardware was much in evidence.
+A customer engineer spent eight hours a day on the premises, including
+an hour long daily preventive maintenance session before the normal
+first shift began.  The session included bringing up power, which took
+15 minutes, and running diagnostics with voltages 20 percent above and
+below normal in an effort to find weak vacuum tubes.  The effort was
+usually successful.
+
+  ... The 704\'s input and output (I/O) units consisted of a card reader,
+card punch, line printer, ten magnetic tape units, two magnetic drum
+units (each composed of four 2k-word drums) and a cathode ray tube ...
+
+
+What intrigued me was the following question: What (in MegaTraveller
+terms) is the Model 704?  You might want to think about the answer
+before reading on.  Another interesting question to think about is: Can
+the Virus take over a Model 704 (and make it sentient, etc...)?
+Finally, you might want to compare a Model 704 to a computer you are
+familiar with: do you have the equivalent handy today?
+
+^L
+
+A quick examination of the MegaTraveller Referee\'s manual shows that
+computer technology begins at TL-5, and (ignoring /fib) goes like this:
+
+TL-5 : Model-0, -0/bis, -1
+TL-6 : Model-1/bis
+TL-7 : Model-2
+TL-8 : Model-2/bis
+TL-9 : Model-3
+TL-A : Model-4 (and so on up)
+
+Quickly flipping back to the TL descriptions, we find that TL-5 is the
+rough equivalent to c.1930, TL-6 is about c.1950, TL-7 is c.1970, and
+TL-8 is c.1990.
+
+A naive application of this rough description would place the IBM 704 in
+the late 1950\'s, or firmly TL-6 (making it a Model-1/bis or
+thereabouts).  Instead, I would argue that (since it is a vacuum-tube
+machine) the IBM 704 should be classified as a Model-1.  The Model-0 and
+- -0/bis would then be earlier and smaller vacuum-tube machines (all
+first-generation computers, though, and of the same general technology
+level).
+
+To continue this line of thought, the Model-1/bis should be about the
+largest and fastest computer produced with discrete-transistor
+technology (presumably sometime in the mid to late 1960\'s), while the
+Model-2 is probably the equivalent of an early supercomputer (early
+1980\'s: perhaps a Cray-1), and a Model-2/bis should be represented with
+the most powerful supercomputers on the drawing boards today.
+
+So, the IBM 704 can run a respectable commercial starship.  Can the
+virus take one over?  I (personally) should think not: after all, the
+Model 704 is a very limited machine: a floppy-based, 128k-RAM IBM PC is
+more than the equal of the 704.
+
+Comments, anyone?
+
+
+
+wildstar@moeng2.morgan.edu
+- ----
+                                                 Science-Fiction Adventure
+                                                         in the Far Future
+
+',
+    'from' => 'Derek Wildstar',
+    'subj' => 'A computer question',
+    'mo' => 'Dec',
+    'file' => 'TML1992/BN421428.TXT',
+    'day' => '31',
+    'ts' => '1992Dec31',
+    'year' => 1992
+  },
+  {
+    'subj' => 'PBSEM',
+    'from' => 'p00206@psilink.com',
+    'day' => '31',
+    'year' => 1992,
+    'ts' => '1992Dec31',
+    'mo' => 'Dec',
+    'file' => 'TML1992/BN421428.TXT',
+    'ts-index' => '1992-12-31.aj552',
+    'id' => '5061',
+    'date' => 'Thu, 31 Dec 92 08:14:01  0600',
+    'body' => 'Did everyone who enquired about the PBSEM get the information
+they requested?  The Mail Demons have been active and at least one
+person\'s stuff never got there...
+Don\'t panic if you don\'t hear from me for a few days, I\'ll be
+off-line for New Year\'s.  Steve says he\'ll get back to enquiries about
+TCS on Sunday or thereabouts.
+
+Happy New Year,
+Cynthia
+
+',
+    'topic' => 'PBSEM',
+    'index' => 'aj552',
+    'month' => '12'
+  },
+  {
+    'month' => '12',
+    'index' => 'aj553',
+    'topic' => ' Personal Archives',
+    'body' => '
+I so far have three requests for the R-alpha material, and no-one seems
+especially interested in the transcripts of the original mission formation.
+:=)
+
+ *** HOWEVER ***   I\'m not sending them yet.  Please wait patiently
+ and I\'ll keep you posted.
+
+As Mark pointed out, I really should send them to him first, to verify
+both that he has them, and that I don\'t accidentally let something slip;
+presumably something about some aspect of the game that He and Mike have
+chosen to keep.
+
+So, I\'m sending him the big chunks of stuff.  What passes muster will
+get moved up to sunbane, and I\'ll let you know.  I\'ll try to break it up
+into small chunks for people who need special overseas delivery.
+
+
+Happy Ney Year.
+- --
+Richard Johnson      richard@agora.rain.com
+The thing about the number 2, like pi and e, giving it such power is that
+it is part of a small, conspiratorial, cabal of universal constants that
+controls everything.
+',
+    'date' => 'Thu, 31 Dec 92 13:00:13 PST',
+    'id' => '5065',
+    'ts-index' => '1992-12-31.aj553',
+    'file' => 'TML1992/BN421428.TXT',
+    'mo' => 'Dec',
+    'year' => 1992,
+    'ts' => '1992Dec31',
+    'day' => '31',
+    'from' => 'Richard Johnson',
+    'subj' => 'Re: Personal Archives'
+  },
+  {
+    'ts-index' => '1992-12-31.aj554',
+    'id' => '5066',
+    'date' => 'Thu, 31 Dec 92 17:27:40  0800',
+    'body' => '
+I think that giving the IBM 704 as a Model 1 is overstating its
+power. Firstly I think that the technology scale would be: TL 5 =
+Vacuum Tubes (note the x100 volume mod for TL 5 on the computer
+table), TL 6 = Transistors, TL 7+ = Silicon Chips. (Could someone with
+the Ref\'s Companion check this?) This means that the 704 is using TL 5
+technology and should get the x 100 volume mod.
+
+The total volume given for the 704 in the article was 220 cu ft which
+is approximately 8 cubic metres (= 8 kilolitres). A model 0 would take
+up 0.5 x 100 = 50 kilolitres, so I think that the 704 is considerably
+less powerful than even a model 0...
+
+Even if you consider vacuum tubes to be TL 6, then a model 1 takes up
+20 kilolitres, and a model 0 takes up 5 kilolitres, so it would be
+closer to a model 0 (perhaps a model 0/bis?)
+
+OK, so if that\'s the power of a 704, what would a model 0 be in
+today\'s terms (assuming the first case for volume)...
+
+Mutliplying the memory capacity by 5, we get 160, 36 bit words = 5760
+bits = 720 K. IUm not sure how CPU complexity would be affected, but I
+think that a model 0 on these lines would be approximately equivalent
+to a 640K IBM PC, say based on an 8088? Or maybe an old 512K or 1 MB
+Mac.
+
+Does this seem reasonable?
+
+See ya \'round.
+Corran Webster
+
+PS. Happy New Year!
+',
+    'topic' => ' A Computer Question...',
+    'month' => '12',
+    'index' => 'aj554',
+    'subj' => 'Re: A Computer Question...',
+    'from' => 'Corran J. Webster cwebster@math.ucla.edu',
+    'day' => '31',
+    'ts' => '1992Dec31',
+    'year' => 1992,
+    'mo' => 'Dec',
+    'file' => 'TML1992/BN421428.TXT'
+  },
+  {
+    'date' => 'Thu, 31 Dec 92 22:41:09 EST',
+    'id' => '5067',
+    'ts-index' => '1992-12-31.aj555',
+    'body' => '2G Scott and Rob Dean have been bandying about the notion of psi shields
+covering deep meson gun sites.  I now offer my opinion.
+
+In my games, nobody would ever put a psi shield on a deep meson gun (unless
+they were ignorant of basic psionic theory, which seems reasonably possible
+in the Imperial core, but not behind the claw).  See, a clairvoyant trying to
+locate a deep meson gun site has to *search* for it.  That means sweeping the
+entire crustal volume of the planet for hidden meson guns.  A psi-shield
+would stick out like a sore thumb, making it easier for the devil Zhos to
+find the site.  Although an unshielded site is vulnerable to attack by
+teleportation, experience has shown that only colossal luck (or good
+intelligence work) will give a Zhodani clairvoyant the location of the
+defense guns.
+
+It\'s not just a matter of "thinking about the location" unless you already
+know the location, in which case why bother with psi when you can go ahead
+and meson-blast the s*** out of it?
+
+Seth "the Lesser"
+',
+    'topic' => 'Psi shields and deep meson gun sites',
+    'month' => '12',
+    'index' => 'aj555',
+    'subj' => 'Psi shields and deep meson gun sites',
+    'from' => 'Seth \'the Lesser\' slb22@cunixb.cc.columb',
+    'day' => '31',
+    'ts' => '1992Dec31',
+    'year' => 1992,
+    'mo' => 'Dec',
+    'file' => 'TML1992/BN421428.TXT'
+  },
+  {
+    'ts' => '1992Dec30',
+    'year' => 1992,
+    'day' => '30',
+    'file' => 'TML1992/BN421428.TXT',
+    'mo' => 'Dec',
+    'subj' => 'Ossscar Sierrra Foxtrrot Fourrrr',
+    'from' => 'CS171308011@UTSA86.UTSA.EDU',
+    'body' => 'Greetings all,
+
+I hear a cry for more robot designs!  (Heh Heh Heh!)
+Here\'s one I converted for MegaTrav a few months back & never got
+a chance to post.  From 101 Robots:  The OSF-4 Hostile Environment
+Surveyor Robot.  (Redone without permission)  I turned it into a
+series of robots from TL 13-15.  PBEMers may recognize Tweel\'s
+Ossscarr Sssierrrra Foxtrrrot Fourrr.  And since Tweel\'s history,
+if you\'re *very* good little boys & girls, I *might* be persuaded
+to post the stats for Trrriple Thrree & friend.
+
+BTW, the stats as given in 101 Robots are *FULL* of misprints.
+
+"When originally designed, this combination of warbot and survey
+robot was greeted with skepticism by most Scouts but, as the OSF-4
+Survey Commando proved itself over and over in the field, the
+skepticism changed to gratitude for making the life of a Scout a
+little easier and much more survivable."  -- 101 Robots: GDP
+
+RobotID:  Hostile Environment Surveyor Robot OSF-3, TL13 Cr 767,595
+Hull:     (2/4) Disp=1868Liter, Config=4SL, Armor=18F,
+          Unload=2496 Kg, Load=2614 Kg
+Power:    (1/1) Fusion=1Mw, Dur=11 Days
+Loco:     (1/1) StdGrav=7t, MaxAccel=1.7G,
+          NOE=170, Cruise=750, Top=1000
+Sensors:  PassiveEMS=VDist*2, Audio=Dist*4, Magnetic=VDist*2,
+          Visual(+IR, +Tele, +Active IR*4), Radiation=VDist*2,
+          Densiometer=1Meter*4, Neutrino=1Mw*2, Headlight*4,
+          Neural Activity Sensor=Medium*1, Touch Sensor=+Sensitive
+Comm:     Radio=Cont*2, Maser=Cont, Voder,
+          (Brain Interface to wire guided TAC missiles)
+Off:      Laser Rifle
+          Gauss Rifle*2 (200 rnds)
+          RAM Auto Grenade Launcher*2 (200 rnds)
+          (Racks installed for deployment of TAC missiles)
+Def:      Military Grade Electronic Counter Counter Measures,
+          Electronic Circuit Protection,
+          Smoke*10, Prismatic Aerosol*10, SandCaster*10
+Brain:    Lin=19, Par=13, Syn=3, StdStor=80, Program Interface
+Programs: Survival-3, Survey-3, Recon-2, Prospecting-1,
+          Grav-Vehicle-2, Forward Obs-2,  Weapon Handling-3
+          High Autonomous, Full Command
+Other:    Fuel=440 liter, Cargo=25 liter,
+          Heavy Tentacles(retractable)*10
+          Strength=193
+          Dexerity=15
+          Intelligence=8
+          Education=8
+
+RobotID:  Hostile Environment Surveyor Robot OSF-4, TL14 Cr 770,595
+Hull:     (2/4) Disp=1868Liter, Config=4SL, Armor=18G,
+          Unload=2374 Kg, Load=2492 Kg
+Power:    (1/1) Fusion=1Mw, Dur=11 Days
+Loco:     (1/1) StdGrav=7t, MaxAccel=1.8G,
+          NOE=180, Cruise=750, Top=1000
+Sensors:  PassiveEMS=VDist*2, Audio=Dist*4, Magnetic=VDist*2,
+          Visual(+IR, +Tele, +Active IR*4), Radiation=VDist*2,
+          Densiometer=1Meter*4, Neutrino=100Kw*2, Headlight*4,
+          Neural Activity Sensor=Long*1, Touch Sensor=+Sensitive
+Comm:     Radio=Cont*2, Maser=Cont, Voder,
+          (Brain Interface to wire guided TAC missiles)
+Off:      Laser Rifle
+          Gauss Rifle*2 (200 rnds)
+          RAM Auto Grenade Launcher*2 (200 rnds)
+          (Racks installed for deployment of TAC missiles)
+Def:      Military Grade Electronic Counter Counter Measures,
+          Electronic Circuit Protection,
+          Smoke*10, Prismatic Aerosol*10, SandCaster*10
+Brain:    Lin=19, Par=13, Syn=3, StdStor=80, Program Interface
+Programs: Survival-3, Survey-3, Recon-2, Prospecting-2,
+          Grav-Vehicle-2, Forward Obs-2,  Weapon Handling-3
+          High Autonomous, Full Command
+Other:    Fuel=440 liter, Cargo=25 liter,
+          Heavy Tentacles(retractable)*10
+          Strength=193
+          Dexerity=15
+          Intelligence=9
+          Education=8
+
+RobotID:  Hostile Environment Surveyor Robot OSF-5, TL15 Cr 767,595
+Hull:     (2/4) Disp=1868Liter, Config=4SL, Armor=18G,
+          Unload=1370 Kg, Load=1488 Kg
+Power:    (1/1) Fusion=1Mw, Dur=11 Days
+Loco:     (1/1) StdGrav=7t, MaxAccel=3.7G,
+          NOE=190, Cruise=750, Top=1000
+Sensors:  PassiveEMS=VDist*2, Audio=Dist*4, Magnetic=VDist*2,
+          Visual(+IR, +Tele, +Active IR*4), Radiation=VDist*2,
+          Densiometer=50Meter*4, Neutrino=10Kw*2, Headlight*4,
+          Neural Activity Sensor=VLong*1, Touch Sensor=+Sensitive
+Comm:     Radio=Cont*2, Maser=Cont, Voder,
+          (Brain Interface to wire guided TAC missiles)
+Off:      Laser Rifle
+          Gauss Rifle*2 (200 rnds)
+          RAM Auto Grenade Launcher*2 (200 rnds)
+          (Racks installed for deployment of TAC missiles)
+Def:      Military Grade Electronic Counter Counter Measures,
+          Electronic Circuit Protection,
+          Smoke*10, Prismatic Aerosol*10, SandCaster*10
+Brain:    Lin=19, Par=13, Syn=3, StdStor=80, Program Interface
+Programs: Survival-3, Survey-3, Recon-2, Prospecting-3,
+          Grav-Vehicle-2, Forward Obs-2,  Weapon Handling-3
+          High Autonomous, Full Command
+Other:    Fuel=440 liter, Cargo=192 liter,
+          Heavy Tentacles(retractable)*10
+          Strength=193
+          Dexerity=15
+          Intelligence=10
+          Education=8
+
+Scott 2G Kellogg
+',
+    'index' => 'aj557',
+    'month' => '12',
+    'topic' => 'Ossscar Sierrra Foxtrrot Fourrrr',
+    'id' => '5059',
+    'date' => 'Wed, 30 Dec 1992 22:55:57  0600 (CST)',
+    'ts-index' => '1992-12-30.aj557'
+  },
+  {
+    'body' => 'Since there was some interest, I did a few robot designs.  If there are errors,
+please forgive me--I\'ve been pretty tired the last couple of days.
+
+Note: To anyone fussing with Book 8 robot designs--_always_ design the
+brain before worrying about anything else!
+
+Rob Dean
+
+- ----
+
+Gluek Automation Robotic Brains
+
+     The Gluek Automation Corporation of Bendor produces a variety of robots
+based around the following TL12 standard brains, which are adapted for local
+manufacture on Bendor from various Imperial Data Package designs.
+
+Model 12-01
+
+     The Model 12-01 is a low cost dumbot brain, intended for use in robots
+of very limited function.
+
+   Low Data fundamental logic                     Cr 400
+Limited basic command program                     Cr 500
+                5 linear CPUs  1.0l   0.5kg       Cr2500 (2 available)
+    11 standard storage units  5.5l   1.1kg       Cr2750
+                              ----
+                               6.5l   1.6kg       Cr6150
+Total applications program space available: 2 units.
+Intelligence: 0
+Education: 1
+
+Model 12-11
+
+     The Model 12-11 is a moderate cost dumbot brain, intended for use in
+robots of limited function.
+
+  High Data fundamental logic                     Cr 3000
+        Basic command program                     Cr 1000
+                9 linear CPUs  1.8l   0.9kg       Cr 4500 (2 available)
+              5 parallel CPUs  2.5l   0.5kg       Cr50000
+    14 standard storage units  7.0l   1.4kg       Cr 3500 (2 available)
+                              ----
+                              11.3l   2.8kg       Cr62000
+Total applications program space available: 4 units.
+Intelligence: 1
+Education: 1
+
+Model 12-23
+
+     The Model 12-23 is a better dumbot brain, intended for use in robots of
+capable of a limited variety of function.
+
+Low Autonomous fundamental logic                     Cr  7000
+           Basic command program                     Cr  1000
+                  10 linear CPUs  2.0l   1.0kg       Cr  5000 (5 available)
+                10 parallel CPUs  5.0l   1.0kg       Cr100000
+                  1 synaptic CPU  0.1l   0.1kg       Cr 50000
+       30 standard storage units 15.0l   3.0kg       Cr  3500 (3 available)
+                                 ----
+                                 22.1l   5.1kg       Cr170500
+Total applications program space available: 8 units.
+Intelligence: 2
+Education: 3
+
+
+
+
+
+
+Gluek Automation Gopher Assistant Steward Robot TL12
+
+     The Gluek Gopher is built around the Gluek Automation Model 12-01 brain,
+and is intended for light duty in restaurants and starships as a waiter or
+assistant steward.
+
+  RobotID: Gluek Gopher, TL12, Cr14,049
+  Chassis: 1/2, Disp=10L, Conf=4USL, Armor=1F, Weight=7.2kg
+    Power: 1/2, Batteries=1.85kw-h, Dur=30 minutes
+     Loco: 1/2, Wheels=4, P/W=69
+     Comm: none
+  Sensors: 1*visual, 1*audio
+  Devices: 1*very light arm
+      Off: -
+      Def: -
+    Brain: CPU=5 Linear, Storage=11 Standard
+  Program: Low Data, Limited Basic Command, Steward-1
+    Other: Profile=0501
+    Notes: Duration is based on full power usage of all components
+           simultaneously.  Realistic duration would be greater, and the
+           robot would typically be programmed to recharge itself when not in
+           use.
+
+[Game system note: Designed using Book 8 with no MegaTraveller vehicle system
+enhancements, but typed in MegaTraveller format.]
+
+
+
+
+
+
+Gluek Automation Ganger Engineering Robot TL12
+
+     The Ganger is a fairly simple dumbot intended to serve as an assistant
+engineer aboard a starship.  It use the standard Gluek Model 12-23 robot
+brain.  The Ganger\'s grav modules supply enough lift to carry up to 450kg of
+additional equipment.
+
+  RobotID: Gluek Ganger, TL12, Cr204,625
+  Chassis: 10/25, Disp=150L, Conf=3USL, Armor=1F, Weight=183kg
+    Power: 1/2, FuelCells=40KW, Dur=6.3 days
+     Loco: 1/2, HVGrav=800kg, Acc=3.38G, MaxSpeed=300kph, NOE=40kph
+     Comm: Voder, Radio=Distant(5km)
+  Sensors: 2 Visual, 2 Audio, 1 Olfactory, Radiation Sensor, Magnetic Sensor
+  Devices: Zero-G maneuver, 2*medium arms, 2*light arms
+      Off: -
+      Def: -
+    Brain: CPU=1 Synaptic, 10 Parallel, 10 Linear, Storage=30 Standard
+  Program: Low Autonomous, Basic Command, Electronic-1, Engineering-1,
+           Grav Vehicle-1
+    Other: Fuel=37.8L, Profile=(57)F23
+
+[Game system note: Designed using Book 8 with no MegaTraveller vehicle system
+enhancements, but typed in MegaTraveller format.]
+
+
+
+
+
+
+
+Gluek Automation Gunslinger Gunnery Robot TL12
+
+     The Gunslinger is designed around a Gluek 12-11 robotic brain, and
+provides a low cost gunnery capbility to a starship operator.  It is avail-
+able with its program specialized for either lasers or missiles.
+     The Gunslinger is an immobile box which is plugged into the appropriate
+gunnery position on board a starship, usually in a location which would only
+be accessible to members of the crew.  This makes it more difficult for a
+hostile group aboard the vessel to disable the guns, which would be desirable
+during a hijacking attempt, for example.  Communication with the bridge crew
+is via the ship\'s computer network, and the robot uses the ship\'s sensors
+(via the network) to engage targets designated by the bridge crew.
+
+  RobotID: Gluek Gunslinger, TL12, Cr66,100
+  Chassis: 1/2, Disp=20L, Conf=4USL, Armor=1F, Weight=6.8kg
+    Power: none, Dur=indefinite
+     Loco: none
+     Comm: none
+  Sensors: none
+  Devices: Power interface, Brain interface
+      Off: -
+      Def: -
+    Brain: CPU=9 Linear, 5 Parallel, Storage=14 Standard
+  Program: High Data, Basic Command, Gunnery-2
+    Other: Profile=0011
+
+[Game system note: Designed using Book 8 with no MegaTraveller vehicle system
+enhancements, but typed in MegaTraveller format.]
+
+
+
+
+
+
+Gluek Automation Groom Steward Robot TL12
+
+     The Groom is designed around the Gluek Model 12-23 brain, and is fully
+capable of replacing a human steward aboard a starship. For additional flexi-
+bility, a Groom can also exercise limited control over a group of Gluek
+Gophers.
+
+  RobotID: Gluek Groom, TL12, Cr214,950
+  Chassis: 6/14, Disp=80L, Conf=3USL, Armor=1F, Weight=53.5kg
+    Power: 1/2, FuelCells=10KW, Dur=14.5 days
+     Loco: 1/2, LTGrav=100kg, Acc=0.95G, MaxSpeed=300kph, NOE=40kph
+     Comm: Voder
+  Sensors: 2 Visual, 2 Audio, 1 Olfactory, Radiation Sensor
+  Devices: 2*light arms
+      Off: -
+      Def: -
+    Brain: CPU=1 Synaptic, 10 Parallel, 10 Linear, Storage=30 Standard
+  Program: Low Autonomous, Basic Command, Steward-3, Grav Vehicle-1
+    Other: Fuel=34.9L, Profile=EF23
+
+[Game system note: Designed using Book 8 with no MegaTraveller vehicle system
+enhancements, but typed in MegaTraveller format.]
+
+',
+    'index' => 'aj558',
+    'month' => '12',
+    'topic' => 'A Few Robots',
+    'ts-index' => '1992-12-31.aj558',
+    'id' => '5062',
+    'date' => 'Thu, 31 Dec 92 11:55:31 EST',
+    'year' => 1992,
+    'ts' => '1992Dec31',
+    'day' => '31',
+    'file' => 'TML1992/BN421428.TXT',
+    'mo' => 'Dec',
+    'subj' => 'A Few Robots',
+    'from' => 'Robert S. Dean  rsdean@cbda8.apgea.army.'
+  },
+  {
+    'from' => 'Robert S. Dean  rsdean@cbda8.apgea.army.',
+    'subj' => 'A few more tidbits...',
+    'file' => 'TML1992/BN421428.TXT',
+    'mo' => 'Dec',
+    'ts' => '1992Dec31',
+    'year' => 1992,
+    'day' => '31',
+    'ts-index' => '1992-12-31.aj559',
+    'id' => '5063',
+    'date' => 'Thu, 31 Dec 92 14:04:26 EST',
+    'month' => '12',
+    'index' => 'aj559',
+    'topic' => 'A few more tidbits...',
+    'body' => 'More stuff...
+
+Rob
+
+
+Red Star Class Free Trader (Type A) TL14
+
+     The Red Star class is designed to meet minimal Type A standards.  Many
+cost saving measures are included in the design, such as the use of a minimum
+size fuel purification plant, an enhanced Model 0 computer, and provision for
+carrying only 18 days worth of full power operating fuel for the power plant,
+which allows additional cargo to carried.  No turrets are mounted on the ship
+as built, but space has been reserved for later installation. Additional
+controls would be required if weapons were installed.
+     Most examples of the Red Star class were built in the Imperial core, and
+survivors during the Rebellion Era are likely to have been extensively modi-
+fied.
+
+  CraftID: Red Star class Free Trader, TL14, MCr32.813 (26.25 discounted)
+     Hull: 180/450, Disp=200t, Config=4SL, Armor=40G, Loaded=2171t,
+           Unloaded=879t
+    Power: 3/6, Fusion=351MW, Duration=18 days
+     Loco: 2/4, Maneuver=1 (Thrusters=1300t), 2/4, Jump=1, Agility=0,
+           TrueAcc=0.60G
+     Comm: Radio=System*2
+  Sensors: EMSActive(Planetary), EMSPAssive(Interplanetary), ActObjScan=Diff,
+           ActObjPin=Diff, PassEnScan=Rout
+      Off: Hardpoints=2
+      Def: DefDM+1
+  Control: Computer Mod0bis*3, 2*HeadsUpHoloDisplay
+    Accom: Crew=4 (1 bridge, 1 engineer, 1 steward, 1 medic), Passengers=6,
+           Staterooms=10, LowBerths=20, Env=basic env, basic ls, extended ls,
+           grav plates, inertial comp
+    Other: Fuel=355kl (1 jump-1+18 days), Cargo=1267kl, Fuel Purifier
+           (9.7hr), ObjSize=Avg, EmLevel=Faint
+
+
+
+
+
+
+Red Star Class Freighter (Modified Type A) TL14
+
+     The Red Star class freighter is a variant of the Red Star free trader
+design. The cost saving measures included in the original design, such as the
+use of a minimum size fuel purification plant, an enhanced Model 0 computer,
+and provision for carrying only 18 days worth of full power operating fuel
+for the power plant, are carried over into the freighter variant. In addi-
+tion, all accommodations beyond the bare minimum required for the basic two
+man crew have been removed, increasing the cargo capacity by 702kl.  No
+turrets are mounted on the ship as built, but space has been reserved for
+later installation. Additional controls would be required if weapons were in-
+stalled.
+
+  CraftID: Red Star class Freighter, TL14, MCr28.613 (22.89 discounted)
+     Hull: 180/450, Disp=200t, Config=4SL, Armor=40G, Loaded=2821t,
+           Unloaded=827t
+    Power: 3/6, Fusion=351MW, Duration=18 days
+     Loco: 2/4, Maneuver=1 (Thrusters=1300t), 2/4, Jump=1, Agility=0,
+           TrueAcc=0.46G
+     Comm: Radio=System*2
+  Sensors: EMSActive(Planetary), EMSPAssive(Interplanetary), ActObjScan=Diff,
+           ActObjPin=Diff, PassEnScan=Rout
+      Off: Hardpoints=2
+      Def: DefDM+1
+  Control: Computer Mod0bis*3, 2*HeadsUpHoloDisplay
+    Accom: Crew=2 (1 bridge, 1 engineer), Staterooms=2, Env=basic env, basic
+           ls, extended ls, grav plates, inertial comp
+    Other: Fuel=355kl (1 jump-1+18 days), Cargo=1969kl, Fuel Purifier
+           (9.7hr), ObjSize=Avg, EmLevel=Faint
+
+Model 12-43
+
+     The Model 12-43 is a capable brain, suitable for use in military and
+security robots, and other general purpose applications requiring a variety
+of skills.
+
+Low Autonomous fundamental logic                     Cr  7000
+            Full command program                     Cr  5000
+                  20 linear CPUs  4.0l   2.0kg       Cr 10000 (13 available)
+                10 parallel CPUs  5.0l   1.0kg       Cr100000
+                  1 synaptic CPU  0.1l   0.1kg       Cr 50000
+       30 standard storage units 15.0l   3.0kg       Cr  3500
+                                 ----
+                                 24.1l   6.1kg       Cr179500
+
+Total applications program space available: 13 units.
+Intelligence: 4
+Education: 3
+
+Gluek Automation Guide Navigation Robot TL12
+
+     The Guide is designed around a Gluek 12-11 robotic brain, and provides a
+low cost navigation capbility to a starship operator.
+     The Guide is an immobile box which is plugged into the appropriate
+navigation position on board a starship. Communication with the remainder of
+the bridge crew is via the ship\'s computer network.
+
+  RobotID: Gluek Guide, TL12, Cr65,800
+  Chassis: 1/2, Disp=20L, Conf=4USL, Armor=1F, Weight=6.8kg
+    Power: none, Dur=indefinite
+     Loco: none
+     Comm: none
+  Sensors: none
+  Devices: Power interface, Brain interface
+      Off: -
+      Def: -
+    Brain: CPU=9 Linear, 5 Parallel, Storage=14 Standard
+  Program: High Data, Basic Command, Navigation-1
+    Other: Profile=0011
+
+[Game system note: Designed using Book 8 with no MegaTraveller vehicle system
+enhancements, but typed in MegaTraveller format.]
+'
+  },
+  {
+    'date' => 'Wed, 01 Apr 92 20:30:43 PST',
+    'id' => undef,
+    'ts-index' => '1992-04-01.aj560',
+    'body' => '
+TML biweekly    Wed Apr  1 20:30:28 PST 1992    Volume 26 : Issue 2
+
+Today\'s Topics (Archive Msg Number and Subject):
+        3904: A Rifts mailing list
+        3905: Enhanced Classes
+        3906: Barbarian Adventures
+        3907:  Traveller Classics?
+        3908: Weekend Warrior
+        3909: Re: (3905) Enchanced Classes
+        3910: High Guard
+        3911: re: Barbarian Adventures
+
+This is a passively moderated mailing list.  All messages sent to the
+submission address will be distributed.  The biweekly digest is currently
+distributed on Sundays and Wednesdays at 8:30pm, or more frequently when
+traffic warrants it.
+
+The TML is made possible by facilities provided by Tektronix, Inc.
+Submissions: traveller@metolius.wr.tek.com, or
+        uunet!metolius.wr.tek.com!traveller
+Administrator: traveller-request@metolius.wr.tek.com (James Perkins)
+All opinions and material below is the responsibility of the originator.
+',
+    'index' => 'aj560',
+    'month' => '04',
+    'topic' => 'TML biweekly: Msgs 3904-3911 V26#2',
+    'subj' => 'TML biweekly: Msgs 3904-3911 V26#2',
+    'from' => 'jamesp@wrgate.wr.tek.com',
+    'year' => 1992,
+    'ts' => '1992Apr01',
+    'day' => '01',
+    'file' => 'TML1992/VOL26#02.TXT',
+    'mo' => 'Apr'
+  },
+  {
+    'id' => undef,
+    'date' => 'Mon, 30 Mar 1992 10:43 EST',
+    'ts-index' => '1992-03-30.aj561',
+    'body' => '        I know this may not be pertinent to this list (I\'m sending this same 
+message to three different listserv and/or mailing lists), but I\'m thinking 
+about starting a Rifts mailing list.  If there\'s any interest out there, please
+E-mail me at the above address.  More information as I get more responses.
+        Thanks.
+
+        Lucifer >:}
+',
+    'index' => 'aj561',
+    'month' => '03',
+    'topic' => '(3904) A Rifts mailing list',
+    'subj' => '(3904) A Rifts mailing list',
+    'from' => '',
+    'ts' => '1992Mar30',
+    'year' => 1992,
+    'day' => '30',
+    'file' => 'TML1992/VOL26#02.TXT',
+    'mo' => 'Mar'
+  },
+  {
+    'id' => undef,
+    'date' => 'Tue, 31 Mar 92 14:02:07 EST',
+    'ts-index' => '1992-03-31.aj562',
+    'topic' => '(3905) Enhanced Classes',
+    'index' => 'aj562',
+    'month' => '03',
+    'body' => 'Okay I have not recieved anything about the possibility that there is an
+enhanced law enforcer and scientist class floating around . I am going to
+assume now that some of you do know but felt that someone else would tell me .
+NO ONE HAS !!!!!!! So I dont care how much email I get about it, if you know
+anything at all about this MAIL ME . Dont just sit at your terminals and
+shrug and say "Well someone else will tell him" because it wont happen !!!
+Enter command or <CR> for more !
+CompuServe Mail  
+
+
+I would just like to stop for a moment during this tirade and point out
+that I am on very good terms with the grandfather of the ancients and I
+will talk to him unless I get some information fast !!!!!
+
+So if you have anything at all about this LEMMIE KNOW !!!!!
+
+I would also like to point out that I have a level 4 skill in combat
+rifleman and am armed with a gauss rifle so DONT FORGET
+
+PS Anyone find my intelligence branch article useful ????
+
+Edmund Siorskii
+
+- - Edmund\'s blood preasure has just risen by 30 points and this can only
+be bought down by a liver transplant from someone with AB- Blood or 
+information about the enhanced law enforcer and scientist
+
+- - PS I am a very poor uni student and simply just cannot afford to 
+subscribe to challenge magazine . 
+
+- - Also has Journal 3# come out yet ????
+',
+    'from' => 'Adam Naylor',
+    'subj' => '(3905) Enhanced Classes',
+    'mo' => 'Mar',
+    'file' => 'TML1992/VOL26#02.TXT',
+    'day' => '31',
+    'ts' => '1992Mar31',
+    'year' => 1992
+  },
+  {
+    'from' => '',
+    'subj' => '(3906) Barbarian Adventures',
+    'mo' => 'Mar',
+    'file' => 'TML1992/VOL26#02.TXT',
+    'day' => '31',
+    'year' => 1992,
+    'ts' => '1992Mar31',
+    'id' => undef,
+    'ts-index' => '1992-03-31.aj563',
+    'date' => 'Tue, 31 Mar 1992 10:00 EST',
+    'topic' => '(3906) Barbarian Adventures',
+    'index' => 'aj563',
+    'month' => '03',
+    'body' => '        I was thinking about starting my first Traveller campaign on a world
+with a TL of 1 or 2.  I.E. a pseudo-medieval fantasy setting.  Technology is 
+considered to be magic that only a few can barely understand, etc.  I know its
+a typical SciFi plotline, but I thought it would be an interesting twist.  
+        My question is: has anyone out there ever GMed a Traveller campaign like
+this?  How did it work out?  What did you do to make up for the lack of 
+available equipment (I\'m thinking about using the AD&D lists for items and 
+figuring up stats for them in Traveller).  Any suggestions from anyone?
+(Yes, eventually the PCs will enter space the Traveller way...)
+        Lucifer >:}
+'
+  },
+  {
+    'from' => 'Robert S. Dean  rsdean@crdec8.apgea.army',
+    'subj' => '(3907)  Traveller Classics?',
+    'mo' => 'Mar',
+    'file' => 'TML1992/VOL26#02.TXT',
+    'day' => '31',
+    'ts' => '1992Mar31',
+    'year' => 1992,
+    'date' => 'Tue, 31 Mar 92 10:26:24 EST',
+    'id' => undef,
+    'ts-index' => '1992-03-31.aj564',
+    'topic' => '(3907)  Traveller Classics?',
+    'month' => '03',
+    'index' => 'aj564',
+    'body' => '(Hopefully this message means that I am starting to awaken from my apparent
+winter hibernation...)
+
+We\'ve had two newcomers ask about the wisdom of investing in MegaTraveller
+products in the past week.  As a result of this, I\'ve been thinking that
+we might want to put together two lists: One of MT product reviews, and one
+of classic Traveller products that should be sought by new MT players.
+
+The second category would certainly include things like Book 8: Robots, whose
+rules have not yet been translated to MT (and probably will _never_ be),
+The Traveller Adventure, and most of the Alien books.  What else would anyone
+recommend as a \'must-have\'?
+
+Rob Dean
+rsdean@crdec8.apgea.army.mil
+'
+  },
+  {
+    'file' => 'TML1992/VOL26#02.TXT',
+    'mo' => 'Mar',
+    'ts' => '1992Mar31',
+    'year' => 1992,
+    'day' => '31',
+    'from' => 'KELLOGG@DUCVAX.AUBURN.EDU',
+    'subj' => '(3908) Weekend Warrior',
+    'month' => '03',
+    'index' => 'aj565',
+    'topic' => '(3908) Weekend Warrior',
+    'body' => 'Howdy folks,
+
+Anybody got the Weekend Warrior address handy?  I used to have it somewhere
+but can\'t find it.
+
+Thanks,
+Scott Kellogg
+',
+    'id' => undef,
+    'ts-index' => '1992-03-31.aj565',
+    'date' => 'Tue, 31 Mar 1992 09:31 CST'
+  },
+  {
+    'from' => 'Steven Bonneville',
+    'subj' => '(3909) Re: (3905) Enchanced Classes',
+    'file' => 'TML1992/VOL26#02.TXT',
+    'mo' => 'Mar',
+    'ts' => '1992Mar31',
+    'year' => 1992,
+    'day' => '31',
+    'id' => undef,
+    'ts-index' => '1992-03-31.aj566',
+    'date' => 'Tue, 31 Mar 92 10:21:33 CST',
+    'index' => 'aj566',
+    'month' => '03',
+    'topic' => '(3909)  (3905) Enchanced Classes',
+    'body' => '
+I don\'t know about law enforcement, but I do remember seeing errata for
+an enhanced scientist/academic career in one of the last issues of the
+JTAS before it became Challenge. :(  [Anyone else REALLY miss the JTAS?
+Never mind, I already know.]  I haven\'t looked at the intel ministry
+article that was recently posted closely yet -- the closest things in
+generation I can think of would be IISS-expanded (Operations Office),
+the Intel schools in the expanded-military, and that IRIS article that
+was in Challenge way back when.  (Don\'t ask me for it, I don\'t have it
+either!) :)  
+
+Off on a tangent, has anybody else noticed that since the PBEM started,
+traffic on the TML has dropped further and further off?  Are ALL our 
+heavy posters busy playing multiple characters? :)
+
+- --Steve
+<bonnevil@stolaf.edu>
+'
+  },
+  {
+    'body' => 'In V36 #10,  rogopp@rogopp.Auto-trol.COM (Roger Opperman) writes:
+
+>Any suggestions or features?  How about what machines/environments to
+>run it on?  Lowest common system is probably Unix text, with Unix
+>curses running second ...
+
+Alas, neither of those will do me any good. I\'ve had *very* mixed
+results when trying to move unix source to the PC. (mostly because I am
+*not* a C programmer, Pascal I could handle).
+
+So I vote for PC compatible, with a "stock" ANSI driver loaded.
+',
+    'index' => 'aj567',
+    'month' => '04',
+    'topic' => '(3910) High Guard',
+    'date' => '01 Apr 92 09:54:00 EST',
+    'id' => undef,
+    'ts-index' => '1992-04-01.aj567',
+    'ts' => '1992Apr01',
+    'year' => 1992,
+    'day' => '01',
+    'file' => 'TML1992/VOL26#02.TXT',
+    'mo' => 'Apr',
+    'subj' => '(3910) High Guard',
+    'from' => 'Leonard Erickson 70465.203@CompuServe.CO'
+  },
+  {
+    'date' => 'Wed, 1 Apr 1992 10:39:47  0600 (CST)',
+    'id' => undef,
+    'ts-index' => '1992-04-01.aj568',
+    'body' => 'I\'ve never run anything like what your trying to do, but I like the idea (I can
+think of one GURPS module, "Unnight", that deals with a colony that has been
+seperated for so long, and got off to such a bad start, it degenerated to a
+TL2-3 society, except for a few, called the \'wizards\', who possess some higher
+technology). There was an issue of Challenge that had an article dealing with
+using drugs, psionics, and other things to make things appear as if they were
+done by magic. Can\'t remember the number offhand, but it was a special Horror
+Issue.
+',
+    'index' => 'aj568',
+    'month' => '04',
+    'topic' => '(3911) re: Barbarian Adventures',
+    'subj' => '(3911) re: Barbarian Adventures',
+    'from' => 'Brandon Cope',
+    'ts' => '1992Apr01',
+    'year' => 1992,
+    'day' => '01',
+    'file' => 'TML1992/VOL26#02.TXT',
+    'mo' => 'Apr'
+  },
+  {
+    'id' => '5064',
+    'date' => 'Thu, 31 Dec 1992 13:15:05  0600 (CST)',
+    'ts-index' => '1992-12-31.aj569',
+    'body' => 'Hi,
+
+After talking about misprints in the OSF-4 specs in 101 Robots, I
+noticed a line missing from my design.  Under sensors, there should
+be a last line:
+          Olfactory Sensor*2, Holorecorder*1, Head=40%
+
+Oops.
+
+RobotID:  Janitor Dumbot DS-1, TL 12, Cr 15,962
+Hull:     (1/1) Disp=100Liter, Config=4USL, Armor=4F,
+          Unload=87 Kg, Load=90 Kg
+Power:    (1/1) Fuel Cell=21Kw, Dur=10 Day
+Loco:     (1/1) Wheels, Road=100, Offroad=30
+Sensors:  Audio*2, Visual*2, Olfactory, Headlight, Head=20%
+Comm:     Radio=Dist, Voder
+Off/Def:  None
+Brain:    Lin=5, StdStor=11
+Programs: Janitorial-1, Low Data, Limited Basic Command
+Other:    Fuel=38 liter, Light Arms*4, Janitorial Package
+          Strength=25
+          Dexerity=10
+          Intelligence=0
+          Education=1
+
+Nice & cheap.  Would be nice to have around my apartment about
+now...
+
+Commands to the DS-1 must be rather specific as the unit has a very
+limited intelligence.  The unit is usually under the supervision of
+a household computer.
+
+DS-1 units are often available on a rental basis and will be able
+to move rapidly about cities under their own power.  However, when
+left on their own they have a tendancy to cause traffic jams.  They
+get confused by "Don\'t Walk" signs and will stop in the middle of
+the road.
+
+Why did the DS-1 cross the road?
+
+Ask it.  It\'s been sitting there all afternoon...
+
+And...................
+
+RobotID:  Pseudo-Bio Newsreader Adrian, TL 12, Cr 42,400
+Hull:     (1/1) Disp=100Liter, Config=Pseudo-Bio, Armor=1(plastic),
+          Load=31 Kg
+Power:    External Power Interface
+Loco:     None
+Sensors:  Visual*2, Audio*2, Head=10%
+Comm:     Voder
+Off/Def:  None
+Brain:    Lin=14, StdStor=40, Brain Interface
+Programs: Performer-3, Emotion Sim, Low Data, Limited Basic Command
+Other:    Light Arms*2,
+          Strength=15
+          Dexerity=4
+          Intelligence=0
+          Education=4
+
+The Adrian model Newsreader is only pseudo-biological in appearance
+from the waist up.  It usually sits behind a desk in front of the
+holorecorders reading off the news as fed in by the brain
+interface.
+
+We\'ve all seen the meat puppets on CNN.  What do you think INN got
+to replace Mr. Bishop?
+
+Not much of a change you say?
+
+Scott 2G Kellogg
+',
+    'topic' => 'Some Dumbots for you...',
+    'month' => '12',
+    'index' => 'aj569',
+    'subj' => 'Some Dumbots for you...',
+    'from' => 'CS171308011@UTSA86.UTSA.EDU',
+    'day' => '31',
+    'year' => 1992,
+    'ts' => '1992Dec31',
+    'mo' => 'Dec',
+    'file' => 'TML1993/BN429440.TXT'
+  },
+  {
+    'subj' => 'Re: Personal Archives',
+    'from' => 'Richard Johnson',
+    'day' => '31',
+    'year' => 1992,
+    'ts' => '1992Dec31',
+    'mo' => 'Dec',
+    'file' => 'TML1993/BN429440.TXT',
+    'ts-index' => '1992-12-31.aj570',
+    'id' => '5065',
+    'date' => 'Thu, 31 Dec 92 13:00:13 PST',
+    'body' => '
+I so far have three requests for the R-alpha material, and no-one seems
+especially interested in the transcripts of the original mission formation.
+:=)
+
+ *** HOWEVER ***   I\'m not sending them yet.  Please wait patiently
+ and I\'ll keep you posted.
+
+As Mark pointed out, I really should send them to him first, to verify 
+both that he has them, and that I don\'t accidentally let something slip;
+presumably something about some aspect of the game that He and Mike have
+chosen to keep.  
+
+So, I\'m sending him the big chunks of stuff.  What passes muster will 
+get moved up to sunbane, and I\'ll let you know.  I\'ll try to break it up
+into small chunks for people who need special overseas delivery.
+
+
+Happy Ney Year.
+- -- 
+Richard Johnson      richard@agora.rain.com
+The thing about the number 2, like pi and e, giving it such power is that 
+it is part of a small, conspiratorial, cabal of universal constants that
+controls everything.
+',
+    'topic' => ' Personal Archives',
+    'month' => '12',
+    'index' => 'aj570'
+  },
+  {
+    'ts-index' => '1992-12-31.aj571',
+    'id' => '5066',
+    'date' => 'Thu, 31 Dec 92 17:27:40  0800',
+    'index' => 'aj571',
+    'month' => '12',
+    'topic' => ' A Computer Question...',
+    'body' => '
+I think that giving the IBM 704 as a Model 1 is overstating its
+power. Firstly I think that the technology scale would be: TL 5 =
+Vacuum Tubes (note the x100 volume mod for TL 5 on the computer
+table), TL 6 = Transistors, TL 7+ = Silicon Chips. (Could someone with
+the Ref\'s Companion check this?) This means that the 704 is using TL 5
+technology and should get the x 100 volume mod.
+
+The total volume given for the 704 in the article was 220 cu ft which
+is approximately 8 cubic metres (= 8 kilolitres). A model 0 would take
+up 0.5 x 100 = 50 kilolitres, so I think that the 704 is considerably
+less powerful than even a model 0...
+
+Even if you consider vacuum tubes to be TL 6, then a model 1 takes up
+20 kilolitres, and a model 0 takes up 5 kilolitres, so it would be
+closer to a model 0 (perhaps a model 0/bis?)
+
+OK, so if that\'s the power of a 704, what would a model 0 be in
+today\'s terms (assuming the first case for volume)...
+
+Mutliplying the memory capacity by 5, we get 160, 36 bit words = 5760
+bits = 720 K. IUm not sure how CPU complexity would be affected, but I
+think that a model 0 on these lines would be approximately equivalent
+to a 640K IBM PC, say based on an 8088? Or maybe an old 512K or 1 MB
+Mac.
+
+Does this seem reasonable?
+
+See ya \'round.
+Corran Webster
+
+PS. Happy New Year!
+',
+    'from' => 'Corran J. Webster cwebster@math.ucla.edu',
+    'subj' => 'Re: A Computer Question...',
+    'file' => 'TML1993/BN429440.TXT',
+    'mo' => 'Dec',
+    'year' => 1992,
+    'ts' => '1992Dec31',
+    'day' => '31'
+  },
+  {
+    'file' => 'TML1993/BN429440.TXT',
+    'mo' => 'Dec',
+    'ts' => '1992Dec31',
+    'year' => 1992,
+    'day' => '31',
+    'from' => 'Seth \'the Lesser\' slb22@cunixb.cc.columb',
+    'subj' => 'Psi shields and deep meson gun sites',
+    'month' => '12',
+    'index' => 'aj572',
+    'topic' => 'Psi shields and deep meson gun sites',
+    'body' => '2G Scott and Rob Dean have been bandying about the notion of psi shields
+covering deep meson gun sites.  I now offer my opinion.
+
+In my games, nobody would ever put a psi shield on a deep meson gun (unless
+they were ignorant of basic psionic theory, which seems reasonably possible
+in the Imperial core, but not behind the claw).  See, a clairvoyant trying to
+locate a deep meson gun site has to *search* for it.  That means sweeping the
+entire crustal volume of the planet for hidden meson guns.  A psi-shield
+would stick out like a sore thumb, making it easier for the devil Zhos to
+find the site.  Although an unshielded site is vulnerable to attack by
+teleportation, experience has shown that only colossal luck (or good
+intelligence work) will give a Zhodani clairvoyant the location of the
+defense guns.
+
+It\'s not just a matter of "thinking about the location" unless you already
+know the location, in which case why bother with psi when you can go ahead
+and meson-blast the s*** out of it?
+
+	Seth "the Lesser"
+',
+    'date' => 'Thu, 31 Dec 92 22:41:09 EST',
+    'id' => '5067',
+    'ts-index' => '1992-12-31.aj572'
+  },
+  {
+    'file' => 'TML1993/BN451460.TXT',
+    'mo' => 'May',
+    'ts' => '1992May03',
+    'year' => 1992,
+    'day' => '03',
+    'from' => '@cnb09w.hhcs.gov.au',
+    'subj' => 'Back again - new address',
+    'index' => 'aj901',
+    'month' => '05',
+    'topic' => 'Back again - new address',
+    'body' => '
+If anyone has been trying to EM me and had their messages bounce then its\\
+because our network machine died a gruesome death.
+
+My previous address of    pihlab@hhcs.gov.au   will continue to work for a
+while yet but please change future EMs to use my new address shown below.
+
+
+Bruce...       pihlab@cbr.hhcs.gov.au
+               
+               ^^^^^^^^^^^^^^^^^^^^^^  new address.
+',
+    'id' => '5424',
+    'ts-index' => '1992-05-03.aj901',
+    'date' => 'Sun, 03 May 1992 16:21:43 EDT'
+  },
+  {
+    'topic' => ' Shipping Volume',
+    'index' => 'an450',
+    'month' => '01',
+    'body' => '
+A couple of interestng (and perhaps non-obvious) things follow from my
+analysis
+of the shipbuilding capacity of the Imperium.  The most important is that
+the volume of shipping is *INVERSELY* dependent on the size of the ships used
+to carry it.  This is because larger ships require more of a shipyard\'s
+capacity, in addition to taking longer to construct!  When I calculated my
+shipping volume, I assumed an "average" mix of ships, taking the same amount
+of starship resources as one 10,000 ton vessel, and yeilding 1 ship per
+million ton-weeks of shipbuilding capacity, with an average displacement of
+6,250 tons per vessel (and presumably about 3,125 tons of cargo capacity).
+Recomputing with 200-ton traders would result in over 3.3 times the total
+volume of shipping (and presumably a similar increase in cargo capacity).
+
+The Trillion Credit Squadron rules I used were probably never meant to apply
+to civillian, merchant shipbuilding capacity; I used them because they were
+the only ones available.  Better rules should include multipliers to the
+capacity based on Tech Level and trade categories, as well as for Population
+and Government Type.  Similarly, the trade through a port should be dependent
+on the world\'s population, government type, law level, tech level, and trade 
+categories, and astrographic location, as well as its starport type.
+
+Nevertheless, let us proceed boldly into the fray.  I computed an "average"
+Class A port as handling 27.3 million tons of shipping in a week.  This would
+include all imports, exports, and trans-shipments.  Halving this number gives
+an estimate of the total *CARGO* volume (remember, I was using the total
+volume
+of the ships involved): 13.65 million tons a week.  For simplicity\'s sake,
+I will assume that 50% of this is imports, with the balance being exports and
+trans-shipments; this gives us a final figure of 6.8 million tons of imports
+per week.  For comparison, US imports of 31.5 million tons works out to about
+0.6 million tons per week (I\'ve been working in Displacement Tons all along).
+
+If the US is taken to be an "average" Class A world, the Traveller shipyards
+can maintain this level of trade (in terms of constructing and maintaining
+the starships) even if the ships are as large as an average of 50,000 tons.
+However, if the US is taken to be an "average" TL-7/8 world (and therefore
+much more probably a Class B or even Class C port), then the major Imperial
+worlds (with tech levels in the 14 to 15 range, and Class A starports) could
+be
+doing 10 to 20 *TIMES* the trade of the US.
+
+While these volumes of trade are not enough to supply a world with the
+staples
+of life, it is more than enough to make a massive difference in the tech
+level
+and quality of life (excercise: look around and mentally "remove" everything
+that has been imported from overseas; remember that some components that you
+take for granted may be imported - like the DRAM in your computer).
+
+Major gaming effects:
+  o Worlds (small outposts and stations excepted) is probably self-sufficent
+    in terms of staples (air, water, basic foods, fuel) although the
+production
+    or distribution of these may involve imported equipment or skills.
+  o A majority of the available consumer goods are likely to be imported (or
+    produced primarily for the export market, depending on whether the world
+    is primarily an importer, like the US, or an exporter, like Japan).
+  o A busy port will have many hundreds, up to thousands, of ships operating
+    around it; probably at a large number of separate facilities (the World
+    Builder\'s Handbook provides quite nicely for this).  A port is likely to
+    be as busy as a major US airport, with vessels arriving and departing
+    every two to fifteen minutes.
+  o Even the sleepiest of ports will have a flow of traffic; anywhere from a
+    ship a day to one every couple of weeks.
+
+Rebellion effects:
+  o Destruction of shipbuilding capacity has a long-term effect; if the yard
+    is not rebuilt, the effect becomes cumulative as worn-out ships are not
+    replaced.  The average starship will become older and less reliable, as
+    ships are kept in service due to a lack of replacements.
+  o Destruction of ships has an immediate effect; even if all shipyards are
+    left intact, because of the long time needed to construct any ship.
+    Replacements are likely to be smaller ships, because they can be built
+    faster, and with fewer shipyard resources.
+
+Wildstar
+
+
+ .signature: syntax error in line 1, ")" unexpected.
+',
+    'id' => '3427',
+    'date' => 'Tue, 7 Jan 92 23:11:14 EST',
+    'ts-index' => '1992-01-07.an450',
+    'mo' => 'Jan',
+    'file' => 'TML1994A/TD94052.TXT',
+    'day' => '07',
+    'ts' => '1992Jan07',
+    'year' => 1992,
+    'from' => 'Derek Wildstar',
+    'subj' => 'Re: Shipping Volume'
+  },
+  {
+    'body' => '
+Incidentally, would anybody care to calculate the economics of _ihatei_
+fleets? How big a percentage of _ihatei_ can each aslan generation afford
+to send off? How many ships would the Domain need to beat off a century\'s
+accumulated _ihatei_, assuming that every single one went across the Great
+Rift instead of some of them going rimwards? How many would they need,
+if they can play off one clan against another? How many ships would they have
+in their rimward subsectors even if they sent all the regular ships coreward
+to deal with the vargr and just left the subsector forces?
+I\'d be interested to compare your findings to mine.
+
+[Alvin Plummer says -- me, too!]
+
+      Hans Rancke
+University of Copenhagen
+     rancke@diku.dk
+- ----
+        "Come all brother spacemen that travel along.
+         Oh, pray come and tell me where the trade is all gone.
+         Long time have I travelled, and I cannot find none."
+         Ch: "And sing: All the hard times of the Empire.
+              In the Empire are very hard times."
+                                Traditional song.
+',
+    'topic' => 'Hard times in the Domain (really?)',
+    'month' => '01',
+    'index' => 'an451',
+    'date' => 'Thu, 9 Jan 92 20:55:00 MET',
+    'id' => '3429',
+    'ts-index' => '1992-01-09.an451',
+    'day' => '09',
+    'year' => 1992,
+    'ts' => '1992Jan09',
+    'mo' => 'Jan',
+    'file' => 'TML1994A/TD94052.TXT',
+    'subj' => 'Hard times in the Domain (really?)',
+    'from' => 'Hans Rancke-Madsen rancke@diku.dk'
+  },
+  {
+    'day' => '09',
+    'year' => 1992,
+    'ts' => '1992Jan09',
+    'mo' => 'Jan',
+    'file' => 'TML1994A/TD94052.TXT',
+    'subj' => 'Starship Life Support Costs',
+    'from' => 'KELLOGG@ducvax.auburn.edu',
+    'body' => 'Greetings
+
+A while ago, there was a small discussion of the life support costs of living
+on a starship.  Specifically the 2000 Cr per person per jump (Jump being
+about 2 weeks approx because I assume they are including time for in system
+manuvering.)  So that comes out to 1000 Cr per week per person in life
+support
+costs.
+
+Ok, what does it pay for?  Good question.  Well, according to the Ref\'s
+manual the cost/power/weight/volume of lights, heat, air, cooking, waste
+recycling etc. does not change from TL 5 all the way to TL 21.  If so then
+the technology used must be similar to that currently used.
+
+Ok, that means you are going to need carbon dioxide filters, dust filters
+and such that are going to have to be replaced on a regular basis.  Also
+Emergency life support equipment is going to have to be serviced from time
+to time, not to mention perisable medical supplies which will need to be
+purchased if used or not.  (perhaps a wily starship crew could resell these
+to dirtside hospitals before the expiration date was completely up to help
+cut costs?)
+
+Food?  Well it isn\'t that expensive, I have seen figures published saying
+good food was about 200 Cr per week (I\'ll have to check that)
+I also remember there was a bit in the Traveller Adventure on the cost of
+breathing air.  (Aramis has an air tax I believe)  I think it was 150 Cr
+per week (Of course that includes the cost of beaurocracies)
+
+Still, I these are small costs overall.  What I think would soak up the most
+cash would be the cost of various equipment maintainance.  Most aircraft
+undergo maintainance inspections every 100 hrs of flight and a major
+inspection
+every 1000 hrs (Sorry I\'m only a student pilot not an aircraft owner)
+Starships on the other hand have their overhauls every year.  A year of
+operation is a LONG time.  I\'d guess that the 1000 cr per week goes mostly
+toward routine equipment replacement and spares.
+
+Speaking of air replenishing systems, I read a while ago on sci.military
+about
+\'Oxygen Candles\' which are an emergency air system on submarines.  Basically
+it is a \'candle\' (quite large: 30cm diameter by 50cm high) which \'burns\'
+releasing oxygen and heat as it does so.
+ I imagine it as a kind of oxydizer rich solid rocket fuel.  Not that it
+produces any thrust, but that it is a material which holds the oxygen
+chemically, and releases it upon being heated.  The oxygen burns the
+\'candle\',
+heating it, releasing more oxygen.
+
+I would assume these are carried aboard ships for emergency use.  Now, it has
+been pointed out that there are existing worlds in the spinward marches which
+would be \'failing\' before the trouble started.  Say a Vaccum world with too
+low technology.  Explain it?  Well, how about an naturally occuring mineral
+deposit similar to these \'oxygen candles\'?  It would be a local material that
+would find a ready market!
+
+Scott Kellogg
+
+Odd image # 274:  Imagine an Aslan on catnip...
+
+
+--0-1368291082-780526173:#3923--
+
+',
+    'topic' => 'Starship Life Support Costs',
+    'month' => '01',
+    'index' => 'an452',
+    'date' => 'Thu, 9 Jan 1992 14:54 CDT',
+    'id' => '3430',
+    'ts-index' => '1992-01-09.an452'
+  },
+  {
+    'body' => 'The recent mention in S&A of the long-range Solomani explorations into the
+Perseus Galactic Arm got me to thinking about where some real interstellar
+structures should be in the Traveller universe.  Five Imperial sectors are
+named after real stars, after all (Spica, Fornast, Alpha CRU, Deneb, and 
+Antares).  Ever wonder what the sky might look like from, say, Vland? 
+Regina?  Using an old copy of _Norton\'s Star Atlas_, I went on a trip to
+Vland.  (Of course, in terms of the Traveller chronology, this is like
+using an Egyptian chart from 1800 B.C., but oh well.)
+
+Vland is fortunate enough to have two very bright stars in its sky.  Located
+about seventy parsecs away from Vland is the M1Ib red supergiant the Vilani
+call Mika, known to Terrans as Antares.  Seen from Vland, Antares has an
+apparent magnitude of about -0.5, which if it were that bright in the Terran
+sky, would make it their third brightest star.  More impressive still is
+Deneb, only 65 parsecs away.  Deneb shines at the incredible apparent
+magnitude of -3.1, four and a half times brighter than Terra\'s brightest
+star.  Tourists from Mora won\'t be impressed.  From Mora (21 pcs.), Deneb
+has an apparent magnitude of -5.6, two times brighter than *Venus* from
+Earth, and probably visible far into daylight hours!
+
+Unless you brought your PRIS binoculars, don\'t plan to find Terra from
+Vland.  Sirius, the brightest star in Terra\'s sky, shines at a apparent
+mag. of +7.8.  Think "Neptune".  Sol, at a range of 200 parsecs, is an
+eleventh magnitude star.  Usually, people can only see down to the sixth
+magnitude or so with the naked eye.
+
+- ----
+
+In WBH, they say that supergiants should be rare.  They are!  I have
+only found three others beyond Deneb and Antares so far. The three:
+  Eakhoi    (2123 Dark Nebula)  F8 Ia
+  Sardas    (0839 Mendan)       F0 Ib  M7 D
+  ??????    (1530 Empty Qtr.)   M4 Ia  M4 D
+Rare enough?  This is in the whole region of the Imperial Atlas!
+Of course, whether these stars are real or which they are is another
+question altogether....
+
+I also have a request for the "old-style" Traveller players out there.
+Remember that old map of Charted Space with the star field background?
+Traveller Deluxe and "Library Data A-M" had copies of it.  I don\'t have
+a copy myself, but I remember that it showed some bright star names on
+it, as well as a few nebulae.  It would be interesting to know where
+(what sector, roughly what part) some of these nebulae were placed.
+For instance, do we know what Dark Nebula the sector of that name is
+named after, according to Traveller?  I\'m putting together a list of
+stars/systems that I\'ve seen referred to in sector library data, and will
+post it if anybody is interested.
+
+Incidentally, I haven\'t been able to find Spica, Alpha Crucis, or Fornast
+yet (although I haven\'t looked for Fornast much), so if anyone has a hex
+coordinate for them, I\'d appreciate it.  For owners of "Solomani Rim":
+what subsector of Alpha Crucis was named "Denebola"?  Any help with this
+would be appreciated!
+
+- --Steve
+
+[Coming Soon? -- Part Two: Stars and Objects/Hex Locations]
+
+',
+    'month' => '01',
+    'index' => 'an465',
+    'topic' => 'Astronomy Field Trip  (Part 1?)',
+    'id' => '3508',
+    'ts-index' => '1992-01-17.an465',
+    'date' => 'Fri, 17 Jan 92 12:32:23 CST',
+    'year' => 1992,
+    'ts' => '1992Jan17',
+    'day' => '17',
+    'file' => 'TML1994A/TD94053.TXT',
+    'mo' => 'Jan',
+    'subj' => 'Astronomy Field Trip  (Part 1?)',
+    'from' => 'Steven Bonneville'
+  },
+  {
+    'from' => 'Brandon Cope',
+    'subj' => 'more bandwith on battlesuits and skills',
+    'file' => 'TML1994A/TD94053.TXT',
+    'mo' => 'Jan',
+    'ts' => '1992Jan20',
+    'year' => 1992,
+    'day' => '20',
+    'id' => '3523',
+    'date' => 'Mon, 20 Jan 1992 11:57:58  0600 (CST)',
+    'ts-index' => '1992-01-20.an466',
+    'month' => '01',
+    'index' => 'an466',
+    'topic' => 'more bandwith on battlesuits and skills',
+    'body' => '>From Scott Kellogg:
+
+>Skill Levels and their meanings (In my book)
+>(Using Ground Car as an example)
+>Ground Car-0 (Know how to drive, fill the tank, when to get routine
+  maintainance, knows when car is malfunctioning.)
+>Ground Car-1 Can Drive in bad weather, diagnose of minor faults, can
+  perform minor maintainance: change oil & filters
+>Ground Car-2 Can Drive in bad weather at speed.  Perform most maintainance
+>Ground Car-3 Professional Racer.  Can overhaul engine & transmission.
+>Ground Car-4 A.J. Foyt
+>Ground Car-5 Speed Racer
+>Ground Car-6 Racer-X
+
+ You remember Speed Racer, too?... ;-)
+
+>(Using Hand gun)
+>Hand Gun-0 Can point the gun and shoot it.  Knows how to reload
+>Hand Gun-1 Can strip and reassemble it under battle field conditions
+>Hand Gun-2 Can strip weapon & reassemble blind folded
+>Hand Gun-3 Competition level marksman
+>Hand Gun-4 Olympic level marksman
+>(Please note, I am Ground Car-1, and Hand Gun-0.)
+
+ Same skills with me, though I probaly would have something like a
+Knowledge(firearms/20th century)-2 or 3... 
+ These skill levels seem okay. I generally have considered 
+level-5 the \'master\' skill level; For example, Han Solo had a piloting of
+at least 5, and Scotty had an engineering of at least 5. Two character\'s
+in my campaigns have managed this level (both scouts), one in piloting
+and the other in electronics.
+
+>It herefore seems to me that Battle Dress-1, would give the user a damn
+>good knowlege of the system that is there to keep him ALIVE.  Marines
+>would be sleeping in the things in boot camp.  Probably the best thing
+>on the subject of training in battledress is in Joe Haldeman\'s "The
+>Forever War".  Now it seems to me that a drill sargent ought to be able
+>to fix his men up in this stuff.  His skill levels would be around
+>Battle Dress-2 or 3.   (I would guess)
+
+
+--0-1099795984-780615109:#3362--
+
+'
+  }
+]
