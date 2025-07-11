@@ -54,7 +54,8 @@ amindii.Vowel.push( 102,     'a' );
 amindii.Vowel.push( 114,     'o' );
 amindii.Vowel.push( 216,     'i' );
 
-amindii.Ending.push( 30,    '*'  );
+amindii.Ending.push( 20,    '*'  );
+amindii.Ending.push( 30,    'ch' );
 amindii.Ending.push( 50 ,   'mb' );
 amindii.Ending.push( 80 ,   'm' );
 amindii.Ending.push( 132,   'n' );
