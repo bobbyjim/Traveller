@@ -11,6 +11,26 @@
    <script type="text/javascript" src="random_resource_gen.js"></script>
    <!--script type="text/javascript" src="plotline.js"></script-->
    <link rel="stylesheet" type="text/css" href="showhide.css" />
+
+   <script>
+    // This function can be here or in an external script file loaded after languagetools.js
+    function populateLanguageSelect() {
+      const select = document.getElementById('languageSelect');
+      select.innerHTML = ''; // clear existing options
+
+      for (const langName in LanguageRegistry) {
+        const option = document.createElement('option');
+        option.value = langName;
+        option.textContent = langName;
+        select.appendChild(option);
+      }
+
+      select.value = 'Vilani'; // Default
+	  setLanguage( 'Vilani' );
+    }
+
+    document.addEventListener('DOMContentLoaded', populateLanguageSelect);
+   </script>
 </head>
 
 <body>
@@ -43,41 +63,8 @@
    <table border=0>
      <tr><td width=150></td></tr>
      <tr><td>Language</td>
-     	  <td><select name="language" onchange="setLanguage(this.options[this.selectedIndex].value)">
-     	    <option value="Ael Yael">Ael Yael</option>
-     	    <option value="Anglic">Anglic</option>
-            <option value="Amindii">Amindii (spoken on Regina)</option>
-            <option value="Khazad">"Aquilan" (extinct Yorbund colony)</option>
-     	    <option value="Aslan">Aslan</option>
-     	    <option value="Batrachian">Batrachian</option>
-     	    <option value="Bwap">Bwap</option>
-     	    <option value="Chamax">Chamaxi (extinct)</option>
-     	    <option value="Darmine">Darmine</option>
-     	    <option value="Darrian">Darrian</option>
-     	    <option value="Droyne">Droyne</option>
-            <option value="Guttural">Guttural (spoken on Yori)</option>
-     	    <option value="Gurvin">Gurvin</option>
-            <option value="Horn">Horn (Cetian)</option>
-     	    <option value="Ithklur">Ithklur</option>
-     	    <option value="Kalaan">Kalaan (ancestor of Vilani)</option>
-     	    <option value="K'Kree">K'Kree</option>
-            <option value="Kursae">Kursae</option>
-            <option value="Laowon">Laowon</option>
-            <option value="Llellewyloly">Llellewyloly</option>
-	    <option value="Yali">Nenlat (spoken on Deneb)</option>
-	    <option value="Sigka">Sikga (spoken on Askiigak)</option>
-	    <option value="Suerrat">Suerrat</option>
-     	    <option value="Sword Worlder">Sword Worlder</option>
-     	    <option value="Sylean">Sylean</option>
-     	    <option value="Aekhu">Vargr (Aekhu)</option>
-     	    <option value="Gvegh">Vargr (Gvegh)</option>
-            <option value="Logaksu">Vargr (Logaksu)</option>
-     	    <option value="Vuakedh">Vargr (Vuakedh)</option>
-	    <option value="Vegan">Vegan</option>
-     	    <option selected>Vilani</option>
-			<option value="Virushi">Virushi</option>
-     	    <option value="Yiirabarhi">Yiirabarhi (spoken on 567-908)</option>
-     	    <option value="Zhodani">Zhodani</option>
+     	  <td><select id="languageSelect" name="language" onchange="setLanguage(this.value)">
+			<!-- options filled dynamically -->
      	    </select>
      	  </td>
      </tr>

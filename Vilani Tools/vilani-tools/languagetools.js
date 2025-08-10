@@ -103,6 +103,61 @@ batrachian.Ending.push( 180, 'wr' );
 batrachian.Ending.push( 198, '@' );
 batrachian.Ending.push( 216, '*' );
 
+var berserker = new LanguageTable();
+berserker.Basic.push( 16, 'CV' );
+berserker.Basic.push( 25, 'V' );
+berserker.Basic.push( 32, 'CVC' );
+berserker.Basic.push( 36, 'VC' );
+
+berserker.Alternate.push( 20, 'CV' );
+berserker.Alternate.push( 27, 'V' );
+berserker.Alternate.push( 33, 'CVC' );
+berserker.Alternate.push( 36, 'VC' );
+
+berserker.Initial.push( 26, 'k');
+berserker.Initial.push( 47, 'b');
+berserker.Initial.push( 64, 'm');
+berserker.Initial.push( 81, 's');
+berserker.Initial.push( 98, 'n');
+berserker.Initial.push( 111, 'q');
+berserker.Initial.push( 124, 'l');
+berserker.Initial.push( 134, 'kw');
+berserker.Initial.push( 144, 'w');
+berserker.Initial.push( 154, 't');
+berserker.Initial.push( 163, 'qw');
+berserker.Initial.push( 171, 'p');
+berserker.Initial.push( 178, 'g');
+berserker.Initial.push( 185, 'd');
+berserker.Initial.push( 192, 'r');
+berserker.Initial.push( 199, 'pr');
+berserker.Initial.push( 205, 'pl');
+berserker.Initial.push( 211, 'tr');
+berserker.Initial.push( 216, 'kr');
+
+berserker.Vowel.push(50, "a");    // 1–50
+berserker.Vowel.push(95, "i");    // 51–95
+berserker.Vowel.push(135, "e");   // 96–135
+berserker.Vowel.push(160, "u");   // 136–160
+berserker.Vowel.push(185, "o");   // 161–185
+berserker.Vowel.push(195, "aa");  // 186–195
+berserker.Vowel.push(205, "ii");  // 196–205
+berserker.Vowel.push(210, "ee");  // 206–210
+berserker.Vowel.push(213, "uu");  // 211–213
+berserker.Vowel.push(216, "oo");  // 214–216
+
+berserker.Ending.push( 32, 'k' );
+berserker.Ending.push( 62, 's' );
+berserker.Ending.push( 92, 'n' );
+berserker.Ending.push( 118, 'm' );
+berserker.Ending.push( 139, 't' );
+berserker.Ending.push( 156, 'p' );
+berserker.Ending.push( 174, 'b' );
+berserker.Ending.push( 190, 'l' );
+berserker.Ending.push( 199, 'g' );
+berserker.Ending.push( 206, 'd' ); 
+berserker.Ending.push( 212, 'r' );
+berserker.Ending.push( 216, 'q' );
+
 var yali = new LanguageTable();
 yali.Basic.push( 75, 'CVC' );
 yali.Basic.push( 180, 'CV' );
@@ -1045,31 +1100,6 @@ laowon.Ending.push( 216, 'rxsh' );
 
 var llell = new LanguageTable();
 
-/*  5/36
-l    o   l
-ll   o   l
-ll   e   w
-
-   17/36
-ll   e 
-h    ou
-clhh o
-ll   o
-ll   u
-c    yuo
-ll   o
-c    y
-c    yuo
-ll   o
-h    o
-
-c     = 3/14
-clhh  = 1/14
-h     = 2/14
-l     = 1/14
-ll    = 7/14
-*/
-
 llell.Basic.push( 5, 'CVC' );
 llell.Basic.push( 22, 'CV' );
 llell.Basic.push( 29, 'VC' );
@@ -2003,6 +2033,78 @@ khazad.Ending.push( 72, 'd'  );
 khazad.Ending.push( 144, 'k'  );
 khazad.Ending.push( 216, 'm'  );
 
+var syr_darya = new LanguageTable();
+
+syr_darya.Basic.push( 30, 'CVC' );
+syr_darya.Basic.push( 36, 'VC' );
+syr_darya.Alternate.push( 16, 'CV' );
+syr_darya.Alternate.push( 36, 'CVC');
+
+syr_darya.Initial.push( 9, 'b');
+syr_darya.Initial.push( 36, 'd');
+syr_darya.Initial.push( 45, 'f');
+syr_darya.Initial.push( 54, 'g');
+syr_darya.Initial.push( 72, 'k');
+syr_darya.Initial.push( 90, 'm');
+syr_darya.Initial.push( 108, 'n');
+syr_darya.Initial.push( 117, 'p');
+syr_darya.Initial.push( 126, 'r');
+syr_darya.Initial.push( 144, 's');
+syr_darya.Initial.push( 171, 't');
+syr_darya.Initial.push( 180, 'v');
+syr_darya.Initial.push( 207, 'y');
+syr_darya.Initial.push( 216, 'z');
+
+syr_darya.Vowel.push( 93, 'a' );
+syr_darya.Vowel.push( 109, 'e' );
+syr_darya.Vowel.push( 130, 'o' );
+syr_darya.Vowel.push( 146, 'u' );
+syr_darya.Vowel.push( 216, 'y' );
+
+syr_darya.Ending.push( 11, 'ch' );
+syr_darya.Ending.push( 22, 'd' );
+syr_darya.Ending.push( 44, 'l' );
+syr_darya.Ending.push( 119, 'n' );
+syr_darya.Ending.push( 172, 'r' );
+syr_darya.Ending.push( 194, 'rr' );
+syr_darya.Ending.push( 205, 's' );
+syr_darya.Ending.push( 216, 'w' );
+
+// Threep
+var threep = new LanguageTable();
+threep.Basic.push(  18, 'CV' );
+threep.Basic.push(  36, 'CVC' );
+threep.Alternate.push( 18, 'CV' );
+threep.Alternate.push( 36, 'CVC' );
+
+threep.Initial.push(  31, 'b' );
+threep.Initial.push(  46, 'd' );
+threep.Initial.push(  61, 'dr' );
+threep.Initial.push(  106, 'fl' );
+threep.Initial.push(  121, 'fr' );
+threep.Initial.push(  136, 'g' );
+threep.Initial.push(  151, 'm' );
+threep.Initial.push(  166, 'n' );
+threep.Initial.push(  181, 'thr' );
+threep.Initial.push(  216, 'tr' );
+
+threep.Vowel.push(  77, 'oo' );
+threep.Vowel.push(  92, 'o' );
+threep.Vowel.push( 138, 'ee' );
+threep.Vowel.push( 169, 'aa' );
+threep.Vowel.push( 174, 'i' );
+threep.Vowel.push( 189, 'ii' );
+threep.Vowel.push( 216, 'uu' );
+
+threep.Ending.push(  15, 'rn' );
+threep.Ending.push(  30, 'rk' );
+threep.Ending.push(  76, 'n' );
+threep.Ending.push(  91, 'm' );
+threep.Ending.push( 153, 'l' );
+threep.Ending.push( 184, 'nk' );
+threep.Ending.push( 200, 'rnd' );
+threep.Ending.push( 216, 'p' );
+
 var tupi = new LanguageTable();
 
 tupi.Basic.push( 10, 'CV' );
@@ -2085,49 +2187,51 @@ sigka.Ending.push( 176, 't' );
 sigka.Ending.push( 196, 'x' );
 sigka.Ending.push( 216, 'y' );
 
+const LanguageRegistry = {
+   'Ael Yael': ael,
+   'Amindii': amindii,
+   'Anglic': anglic,
+   'Aslan': aslan,
+   'Batrachian': batrachian,
+   'Bwap': bwap,
+   'Chamax': chamax,
+   'Darmine': darmine,
+   'Darrian': darrian,
+   'Droyne': droyne,
+   'Gurvin': gurvin,
+   'Horn (Cetian)': horn,
+   'Ithklur': ithklur,
+   "K'Kree": kkree,
+   'Kalaan': chaldean,
+   'Kursae': kursae,
+   'Laowon': laowon,
+   'Llellewyloly': llell,
+   'Qwibbian': berserker,
+   'Sigka': sigka,
+   'Suerrat': suerrat,
+   'Sword Worlder': swordy,
+   'Sylean': sylean,
+   'Syr Darya': syr_darya,
+   'Threep': threep,
+   'Vargr (Aekhu)': aekhu,
+   'Vargr (Gvegh)': vargr,
+   'Vargr (Logaksu)': logaksu,
+   'Vargr (Vuakedh)': vuakedh,
+   'Vegan': vegan,
+   'Vilani': vil,
+   'Virushi': virushi,
+   'Yiirabarhi': yiira,
+   'Yorbund': khazad,
+   'Yori': gut,
+   'Zhodani': zhodani,
+   'Tupi': tupi,
+   'Yali': yali,
+ };
 
 function setLanguage( langsel )
 {
-   arr = vil;   // default to Vilani
-
-   if ( langsel == 'Ael Yael' )      arr = ael;
-   if ( langsel == 'Aekhu' )         arr = aekhu;
-   if ( langsel == 'Amindii' )       arr = amindii;
-   if ( langsel == 'Aslan'   )       arr = aslan;
-   if ( langsel == 'Batrachian' )    arr = batrachian;
-   if ( langsel == 'Bwap' )          arr = bwap;
-   if ( langsel == 'Chamax' )        arr = chamax;
-   if ( langsel == 'Darmine' )       arr = darmine;
-   if ( langsel == 'Darrian' )       arr = darrian;
-   if ( langsel == 'Droyne'  )       arr = droyne;
-   if ( langsel == 'Guttural' )      arr = gut;
-   if ( langsel == 'Gurvin' )        arr = gurvin;
-   if ( langsel == 'Horn' )          arr = horn;
-   if ( langsel == 'Ithklur' )       arr = ithklur;
-   if ( langsel == 'K\'Kree' )       arr = kkree;
-   if ( langsel == 'Kalaan' )        arr = chaldean;
-   if ( langsel == 'Kursae' )        arr = kursae;
-   if ( langsel == 'Laowon' )        arr = laowon;
-   if ( langsel == 'Llellewyloly')   arr = llell;
-   if ( langsel == 'Logaksu')        arr = logaksu;
-   if ( langsel == 'Suerrat' )       arr = suerrat;
-   if ( langsel == 'Sword Worlder' ) arr = swordy;
-   if ( langsel == 'Sylean' )        arr = sylean;
-   if ( langsel == 'Gvegh' )         arr = vargr;
-   if ( langsel == 'Vuakedh' )       arr = vuakedh;
-   if ( langsel == 'Vilani' )        arr = vil;
-   if ( langsel == 'Virushi' )       arr = virushi;
-   if ( langsel == 'Yiirabarhi' )    arr = yiira;
-   if ( langsel == 'Zhodani' )       arr = zhodani;
-   if ( langsel == 'Khazad' )        arr = khazad;
-   if ( langsel == 'Tupi' )          arr = tupi;
-   if ( langsel == 'Anglic' )        arr = anglic;
-   if ( langsel == 'Sigka' )         arr = sigka;
-   if ( langsel == 'Yali' )          arr = yali;
-   if ( langsel == 'Vegan' )         arr = vegan;
+   arr = LanguageRegistry[langsel] || LanguageRegistry['Vilani'];  // default to Vilani if not found
 }
-
-setLanguage( 'Vilani' );
 
 function randomSyllableIndex() { return Math.floor( Math.random() * 36 )  }
 function randomLetterIndex()   { return Math.floor( Math.random() * 216 ) }
