@@ -2405,3 +2405,229 @@ function genSequenceFast()
    }  
    iter.value = wordCount + '/' + j;
 }
+
+
+/* ----------------------------------------------------------------------------
+   Wikimedia exporter for LanguageTable (browser-friendly)
+
+   Adds:
+     - LanguageTable.prototype.toWikitable6x6(opts)
+     - dumpLanguageWikitable(langOrName, opts)
+     - dumpLanguageWikitableTest(langOrName)
+
+   Usage (console, in the page):
+     // open a new window with the wikitext for `aekhu` (with narrow spacer)
+     dumpLanguageWikitable('aekhu', { spacerAttr: 'style="width:0.6em"' });
+
+   The function is intentionally synchronous and does not require a server.
+   ---------------------------------------------------------------------------- */
+
+LanguageTable.prototype.toWikitable6x6 = function(opts)
+{
+   opts = opts || {};
+   var langName = opts.langName || '';
+   var spacer = (typeof opts.spacer !== 'undefined') ? opts.spacer : '&nbsp;';
+   var spacerAttr = opts.spacerAttr ? (' ' + opts.spacerAttr) : '';
+
+   function idx(t, r, c) { return (t-1)*36 + (r-1)*6 + (c-1); }
+   function safe(a, i) { return (a && typeof a[i] !== 'undefined') ? a[i] : ''; }
+
+   var out = [];
+   for (var t = 1; t <= 6; t++) {
+      out.push('{| class="wikitable" style="text-align:center"');
+      out.push('|+ ' + (langName ? (langName + ' — ') : '') + 'inner table ' + t + ' (1d6 = ' + t + ')');
+      out.push('! rowspan="2" | Row');
+      out.push('! colspan="6" | Initial');
+      // spacer header (keeps any provided attributes)
+      out.push('! ' + (spacerAttr ? (spacerAttr + ' | ' + spacer) : '| ' + spacer));
+      out.push('! colspan="6" | Vowel');
+      // spacer header between Vowel and Ending
+      out.push('! ' + (spacerAttr ? (spacerAttr + ' | ' + spacer) : '| ' + spacer));
+      out.push('! colspan="6" | Ending');
+      out.push('|-');
+      // column-number header — include spacer cells so columns align with body
+      (function(){
+         var cols = [];
+         for (var ci=1; ci<=6; ci++) cols.push(ci);
+         cols.push(spacerAttr ? (spacerAttr + ' | ' + spacer) : spacer);
+         for (ci=1; ci<=6; ci++) cols.push(ci);
+         cols.push(spacerAttr ? (spacerAttr + ' | ' + spacer) : spacer);
+         for (ci=1; ci<=6; ci++) cols.push(ci);
+         out.push('! ' + cols.join(' !! '));
+      })();
+      out.push('|-');
+
+      for (var r = 1; r <= 6; r++) {
+         var row = ['| ' + r];
+         // Initial
+         for (var c = 1; c <= 6; c++) row.push('|| ' + safe(this.Initial, idx(t,r,c)) );
+         // spacer
+         row.push('||' + spacerAttr + ' ' + spacer);
+         // Vowel
+         for (c = 1; c <= 6; c++) row.push('|| ' + safe(this.Vowel, idx(t,r,c)) );
+         // spacer
+         row.push('||' + spacerAttr + ' ' + spacer);
+         // Ending
+         for (c = 1; c <= 6; c++) row.push('|| ' + safe(this.Ending, idx(t,r,c)) );
+
+         out.push(row.join(' '));
+         out.push('|-');
+      }
+      out.push('|}');
+      out.push('\n');
+   }
+   return out.join('\n');
+};
+
+/**
+ * Browser helper — produce wikitext for a LanguageTable and open a copyable window.
+ * langOrName: LanguageTable instance or global variable name (string).
+ * opts: { langName, spacer, spacerAttr, openWindow=true }
+ */
+function dumpLanguageWikitable(langOrName, opts)
+{
+   opts = opts || {};
+   var L = null;
+   if (typeof langOrName === 'string') {
+      L = window[langOrName];
+      if (!L) {
+         console.error('language not found as global:', langOrName);
+         return null;
+      }
+   } else if (typeof langOrName === 'object' && langOrName !== null) {
+      L = langOrName;
+   } else {
+      console.error('invalid langOrName');
+      return null;
+   }
+
+   var langName = opts.langName || (typeof langOrName === 'string' ? langOrName : 'language');
+   var wiki = L.toWikitable6x6({ langName: langName, spacer: opts.spacer, spacerAttr: opts.spacerAttr });
+
+   if (opts.openWindow !== false) {
+      var w = window.open('', '_blank', 'noopener');
+      if (!w) { console.log(wiki); return wiki; }
+      var doc = w.document;
+      doc.title = (langName || 'Language') + ' — 6x6 wikitables';
+      var safeHtml = '<!doctype html><html><head><meta charset="utf-8"><title>' + doc.title + '</title></head><body style="font-family:monospace;">';
+      safeHtml += '<div style="margin:8px 0"><button id="copyBtn">Copy to clipboard</button> <small>Then paste into your wiki editor</small></div>';
+      safeHtml += '<textarea id="wikidump" style="width:100%;height:70vh;">' + wiki.replace(/</g,'&lt;') + '</textarea>';
+      safeHtml += '<script>document.getElementById("copyBtn").addEventListener("click",function(){var t=document.getElementById("wikidump");t.select();try{document.execCommand("copy");alert("Copied to clipboard");}catch(e){alert("Copy failed — select and Ctrl/Cmd+C")}})</script>';
+      safeHtml += '</body></html>';
+      doc.open(); doc.write(safeHtml); doc.close();
+   }
+
+   return wiki;
+}
+
+/**
+ * Small runtime check you can call from the console. Returns true if a few
+ * canonical Aekhu cells match expectations.
+ */
+function dumpLanguageWikitableTest(langOrName)
+{
+   var L = (typeof langOrName === 'string') ? window[langOrName] : langOrName;
+   if (!L) { console.error('language not found'); return false; }
+   // basic sanity checks for `aekhu` as defined in this file
+   try {
+      if (L.Initial[0] !== 'd') return false;
+      if (L.Vowel[0] !== 'a') return false;
+      if (L.Ending[0] !== 'd') return false;
+   } catch (e) { console.error(e); return false; }
+   console.log('basic wikitable self-test: OK');
+   return true;
+}
+
+/*
+ * Inline UI: injects a toggleable textarea + copy/download buttons into the
+ * current page so users can export wikitext without opening a new window.
+ * Non-invasive: safe to call multiple times; guarded for non-browser contexts.
+ */
+function installWikidumpInlineButton(opts)
+{
+   if (typeof document === 'undefined') return; // not a browser
+   opts = opts || {};
+   var containerId = opts.containerId || 'wikidump-inline';
+   if (document.getElementById(containerId)) return; // already installed
+
+   // prefer the language form if present, otherwise append to body
+   var anchor = document.lang || document.querySelector('form[name="lang"]') || document.querySelector('form') || document.body;
+   if (!anchor || !anchor.parentNode) anchor = document.body;
+
+   var div = document.createElement('div');
+   div.id = containerId;
+   div.setAttribute('style','margin:8px 0;padding:8px;border:1px solid #e0e0e0;background:#fbfbfb;font-family:system-ui,monospace;');
+
+   div.innerHTML =
+     '<label style="margin-right:8px;font-weight:600">Export wiki</label>' +
+     '<label style="margin-right:8px">Lang: <input id="wikidump-lang" style="width:7em" value="aekhu"></label>' +
+     '<button id="wikidump-btn">Show wikitext</button> ' +
+     '<button id="wikidump-copy" style="display:none">Copy</button> ' +
+     '<button id="wikidump-download" style="display:none">Download</button>' +
+     '<div id="wikidump-area" style="margin-top:8px;display:none"><textarea id="wikidump-txt" style="width:100%;height:40vh;font-family:monospace;"></textarea></div>';
+   // insert after the anchor (usually the controls form)
+   anchor.parentNode.insertBefore(div, anchor.nextSibling);
+
+   // wire up behavior
+   function showWikidump() {
+      var name = (document.getElementById('wikidump-lang') || {}).value || opts.defaultLang || 'aekhu';
+      var spacerAttr = opts.spacerAttr || 'style="width:0.6em"';
+      var wiki = null;
+      try {
+         wiki = dumpLanguageWikitable(name, { openWindow: false, spacerAttr: spacerAttr });
+      } catch (e) { wiki = null; console.error(e); }
+      if (!wiki) {
+         alert('Could not build wikitext for "' + name + '" — check console.');
+         return;
+      }
+      var area = document.getElementById('wikidump-area');
+      var ta = document.getElementById('wikidump-txt');
+      // lazy-create textarea if innerHTML was truncated by older browsers
+      if (!ta) {
+         area.innerHTML = '<textarea id="wikidump-txt" style="width:100%;height:40vh;font-family:monospace;"></textarea>';
+         ta = document.getElementById('wikidump-txt');
+      }
+      ta.value = wiki;
+      area.style.display = 'block';
+      var copyBtn = document.getElementById('wikidump-copy');
+      var dlBtn = document.getElementById('wikidump-download');
+      if (copyBtn) copyBtn.style.display = 'inline-block';
+      if (dlBtn) dlBtn.style.display = 'inline-block';
+      ta.focus(); ta.select();
+   }
+
+   div.querySelector('#wikidump-btn').addEventListener('click', showWikidump);
+
+   div.querySelector('#wikidump-copy').addEventListener('click', function(){
+      var ta = document.getElementById('wikidump-txt');
+      if (!ta) return;
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+         navigator.clipboard.writeText(ta.value).then(function(){ alert('Copied to clipboard'); }, function(){ fallback(); });
+      } else fallback();
+      function fallback(){ ta.select(); try{ document.execCommand('copy'); alert('Copied'); } catch(e){ alert('Copy failed — select and Ctrl/Cmd+C'); } }
+   });
+
+   div.querySelector('#wikidump-download').addEventListener('click', function(){
+      var ta = document.getElementById('wikidump-txt');
+      if (!ta) return;
+      var blob = new Blob([ta.value], { type: 'text/plain;charset=utf-8' });
+      var a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = (document.getElementById('wikidump-lang').value || 'language') + '.wiki.txt';
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+   });
+
+   // expose for manual use
+   try { window.installWikidumpInlineButton = installWikidumpInlineButton; } catch(e){}
+}
+
+// auto-install when the document is ready (non-invasive)
+if (typeof document !== 'undefined') {
+   if (document.readyState === 'complete' || document.readyState === 'interactive') {
+      try { installWikidumpInlineButton(); } catch(e) { /* ignore */ }
+   } else {
+      document.addEventListener('DOMContentLoaded', function(){ try { installWikidumpInlineButton(); } catch(e){} });
+   }
+}
