@@ -448,16 +448,16 @@ var vehicle_bulk = new Array
 (
 //                     code        type     TL  q   vol    spd  ld      AV  cafprpsppsinse  KCr
  new VEL( new Array( 'M',    '(Medium) ',  0, 0,  'x1',   0,  0,       0  ,0,0,0,0,0,0,0, 0 ) ),
- new VEL( new Array( 'Vl',         'Vl ', -1, 0,  'x0.33',1, -2,  'x0.33' ,0,0,0,0,0,0,0, 'x0.33' ) ),
- new VEL( new Array( 'L',          'Lt ', -1, 0,  'x0.5', 1, -1,   'x0.5' ,0,0,0,0,0,0,0, 'x0.5' ) ),
- new VEL( new Array( 'H',          'Hv ',  1, 0,  'x2',  -1,  2,   'x2.0' ,0,0,0,0,0,0,0, 'x3.0' ) ),
- new VEL( new Array( 'Vh',         'Vh ',  2, 0,  'x3',  -2,  3,   'x3.0' ,0,0,0,0,0,0,0, 'x9.0' ) )
+ new VEL( new Array( 'Vl',         'Vl ', -1, 0,  'x0.33',1, -2,  'x0.33' ,0,0,'/3',0,0,'/3','/3', 'x0.33' ) ),
+ new VEL( new Array( 'L',          'Lt ', -1, 0,  'x0.5', 1, -1,   'x0.5' ,0,0,'/2',0,0,'/2','/2', 'x0.5' ) ),
+ new VEL( new Array( 'H',          'Hv ',  1, 0,  'x2',  -1,  2,   'x2.0' ,0,0,'x2','x2',0,'x2','x2', 'x3.0' ) ),
+ new VEL( new Array( 'Vh',         'Vh ',  2, 0,  'x3',  -2,  3,   'x3.0' ,0,0,'x2','x2',0,'x3','x3', 'x9.0' ) )
 );
 
 var vehicle_stage = new Array
 (
 //                     code        type        TL  q  vol    spd  ld    AV  cafprpsppsinse  KCr
- new VEL( new Array( 'Std', 'Standard',       0, 0,  0,      0,  0,    0,0,0,0,  0,0,0,0,  0 )),                
+ new VEL( new Array( 'Std', 'Standard',       0, 0,  0,      0,  0,    0,0,0,0,  0,0,0,0,  0 )),
  new VEL( new Array( '(F)', 'Fossil ',       -2, 0,  2,      0,  0,  -10,0,0,0,-10,0,0,0,  0 )),
  new VEL( new Array( '(P)', 'PowerCell ',    -1, 0,  1,     -2, -2,   -5,0,0,0, -5,0,0,0,  10)),
  new VEL( new Array( '(R)', 'Renewable ',    -1, 0,  1,     -1, -1,    0,0,0,0,  0,0,0,0,  20)),      
@@ -468,7 +468,7 @@ var vehicle_stage = new Array
  new VEL( new Array( 'I',   'Improved ',      1, 0, -1,      0,  0,   10,0,0,0, 10,0,0,0,  20)),
 // new VEL( new Array( 'M',   'Modified ',      2, 0,  0,      1,  0,    0,0,0,0,  0,0,0,0,  'x0.5')),
  new VEL( new Array( 'A',   'Advanced ',      3, 0, -2,      1,  1,   20,0,0,0, 20,0,0,0,  40))
-// new VEL( new Array( 'U',   'Ultimate',       4, 0, -2,      1,  1,   20,0,0,0, 20,0,0,0,  'x2.0'))   
+// new VEL( new Array( 'U',   'Ultimate',       4, 0, -2,      1,  1,   20,0,0,0, 20,0,0,0,  'x2.0'))
 );
 
 
@@ -479,7 +479,7 @@ var vehicle_opt = new Array
  new VEL( new Array( 'Sl',       '(Slave) ',        1,0, -1,      0,  0,    0,0,0,0,  0,0,0,0,  10  )),
  new VEL( new Array( 'Re',       '(Remote) ',       1,0, -2,      0,  0,    0,0,0,0,  0,0,0,0,  20  )),
  new VEL( new Array( 'Wpn',      '(Weapon Mount) ', 0,0,  0,      0, -1,    0,0,0,0,  0,0,0,0,  0   )),
- new VEL( new Array( 'Lux',      'Luxury ',         0,0,  0,      0,  0,    0,0,0,0,  0,0,0,0,  'x2.0' )),
+ new VEL( new Array( 'Lux',      'Luxury ',         0,'=9',  0,      0,  0,    0,0,0,0,  0,0,0,0,  'x2.0' )),
  new VEL( new Array( 'F',        '(Fast) ',         1,0,  1,      1, -2,    0,0,0,0,  0,0,0,0,  30  )),
  new VEL( new Array( 'P',        '(Passenger Module) ', 0,0,  0,      0, -3,    0,0,0,0,  0,0,0,0,  100  )),
  new VEL( new Array( 'C',        '(Cargo Module) ',     0,0,  1,     -1,  1,    0,0,0,0,  0,0,0,0,  20  )),
