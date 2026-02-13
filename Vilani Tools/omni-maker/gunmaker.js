@@ -592,5 +592,5 @@ var g_stages = new Array
    new gElem(        'Stage',     'Sn',        'Sniper', 1, 1, 1.1, 1,    '*',     0,     '*', 0, 0,'X',   2.0),
    new gElem(        'Stage',     'St',           'Std', 1, 0,   1, 0,    '*',     1,     '*', 0, 1,'x',   1.0),
    new gElem(        'Stage',      'T',        'Target', 0, 0, 1.1, 1,    '*',     0,     '*', 0, 0,'x',   1.5),
-   new gElem(        'Stage',     'Ul',           'Ult', 4, 0, 0.7,-2,    '*',     2,     '*', 0, 2,'x',   1.4)
+   new gElem(        'Stage',     'Ul',           'Ult', 4, 0, 0.7,-4,    '*',     2,     '*', 0, 2,'x',   1.4)
 );
