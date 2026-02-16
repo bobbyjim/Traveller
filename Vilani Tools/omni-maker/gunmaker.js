@@ -521,14 +521,14 @@ var g_descriptors = new Array
    new gElem(  'Machinegun',      'A',       'Assault', 2, 4, 0.8, 0,  'Bang', 1, 'Blast', 2, 3,'x',   1.5),
    new gElem(  'Machinegun',      'S',           'Sub',-1, 2, 0.3, 0,'Bullet',-1,     '*', 0,-1,'x',   0.9),
 
-   new gElem(  'Designator',      'A',          'Acid', 0, 3, 1.0, 1,  'Acid', 2,   'Pen', 2, 4,'x',     3),
+   new gElem(  'Designator',      'A',          'Acid', 0, 3, 1.0, 1,'Corrode',2,   'Pen', 2, 4,'x',     3),
    new gElem(  'Designator',      'H',          'Fire', 0, 1, 0.9, 0,  'Burn', 2,   'Pen', 2, 4,'x',     2),
    new gElem(  'Designator',      'P',    'Poison_Gas', 0, 2, 1.0, 0,   'Gas', 2,'Poison', 2, 4,'x',     3),
    new gElem(  'Designator',      'S',        'Stench', 3, 2, 0.4, 0,'Stench', 2,     '*', 0, 2,'x',   1.2),
    
-   new gElem(  'Designator',    'Emp',           'EMP', 1, 3, 1.0, 0,   'EMP', 2,     '*', 0, 3,'x',     4),
-   new gElem(  'Designator',      'F',         'Flash',-1, 2, 0.5, 0, 'Flash', 2,     '*', 0, 3,'x',   1.5),
-   new gElem(  'Designator',      'C',        'Freeze', 1, 3, 1.0, 1,  'Cold', 2,     '*', 0, 3,'x',     3),
+   new gElem(  'Designator',    'Emp',           'EMP', 1, 3, 1.0, 0,   'EMP', 2,     '*', 0, 1,'x',     4),
+   new gElem(  'Designator',      'F',         'Flash',-1, 2, 0.5, 0, 'Flash', 2,     '*', 0, 2,'x',   1.5),
+   new gElem(  'Designator',      'C',        'Freeze', 1, 3, 1.0, 1,  'Cold', 2,     '*', 0, 2,'x',     3),
    new gElem(  'Designator',      'G',          'Grav', 5, 2, 3.0, 0,  'Grav', 2,     '*', 0, 3,'x',    20),
    new gElem(  'Designator',      'L',         'Laser','5',0, 1.2, 0,  'Burn', 2,   'Pen', 2, 4,'x',     6),
    new gElem(  'Designator',      'M',           'Mag', 4, 1, 2.0, 0,   'EMP', 2,   'Mag', 2, 4,'x',    15),
@@ -591,7 +591,7 @@ var g_stages = new Array
    new gElem(        'Stage',      'P',         'Proto',-1,-1, 1.9, 2,    '*',     0,     '*', 0, 0,'x',   3.0),
    new gElem(        'Stage',      'R',        'Remote', 1, 0,   1, 0,    '*',     0,     '*', 0, 0,'x',   7.0),
    new gElem(        'Stage',     'Sn',        'Sniper', 1, 1, 1.1, 1,    '*',     0,     '*', 0, 0,'X',   2.0),
-   new gElem(        'Stage',     'St',           'Std', 1, 0,   1, 0,    '*',     1,     '*', 0, 1,'x',   1.0),
+   new gElem(        'Stage',     'St',           'Std', 0, 0,   1, 0,    '*',     1,     '*', 0, 1,'x',   1.0),
    new gElem(        'Stage',      'T',        'Target', 0, 0, 1.1, 1,    '*',     0,     '*', 0, 0,'x',   1.5),
    new gElem(        'Stage',     'Ul',           'Ult', 4, 0, 0.7,-4,    '*',     2,     '*', 0, 2,'x',   1.4)
 );
