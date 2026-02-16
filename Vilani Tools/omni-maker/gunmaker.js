@@ -584,6 +584,7 @@ var g_stages = new Array
    new gElem(        'Stage',      'E',         'Early',-1,-1, 1.7, 1,    '*',     0,     '*', 0, 0,'x',   1.2),
    new gElem(        'Stage',      'X',          'Exp.',-2,-1,   2, 3,    '*',     0,     '*', 0, 0,'x',   4.0),
    new gElem(        'Stage',      'a',          'Arch',-2,-2,   2, 3,    '*',     0,     '*', 0, 0,'x',   1.1),  // Archaic
+   new gElem(        'Stage',    'Gen',       'Generic', 1, 0, 1.0, 0,    '*',     0,     '*', 0, 0,'x',   0.5),
    new gElem(        'Stage',     'Im',          'Impv', 1, 0,   1, 0,    '*',     1,     '*', 0, 1,'x',   1.1),
    new gElem(        'Stage',    'Mod',           'Mod', 2, 0, 0.9, 0,    '*',     1,     '*', 0, 1,'x',   1.2),
    new gElem(        'Stage',     'Pr',          'Prec', 6, 3,   4, 2,    '*',     0,     '*', 0, 0,'x',   5.0),
