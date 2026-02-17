@@ -530,7 +530,7 @@ var g_descriptors = new Array
    new gElem(  'Designator',      'F',         'Flash',-1, 2, 0.5, 0, 'Flash', 2,     '*', 0, 2,'x',   1.5),
    new gElem(  'Designator',      'C',        'Freeze', 1, 3, 1.0, 1,  'Cold', 2,     '*', 0, 2,'x',     3),
    new gElem(  'Designator',      'G',          'Grav', 5, 2, 3.0, 0,  'Grav', 2,     '*', 0, 3,'x',    20),
-   new gElem(  'Designator',      'L',         'Laser','5',0, 1.2, 0,  'Burn', 2,   'Pen', 2, 4,'x',     6),
+   new gElem(  'Designator',      'L',         'Laser', 5, 0, 1.2, 0,  'Burn', 2,   'Pen', 2, 4,'x',     6),
    new gElem(  'Designator',      'M',           'Mag', 4, 1, 2.0, 0,   'EMP', 2,   'Mag', 2, 4,'x',    15),
    new gElem(  'Designator',    'Psi',       'Psi_Amp', 4, 2, 1.0, 0,   'Psi', 2,     '*', 0, 2,'x',     9),
    new gElem(  'Designator',      'R',           'Rad', 1, 4, 1.0, 2,   'Rad', 2,     '*', 0, 2,'x',     8),
@@ -576,19 +576,19 @@ var g_burdens = new Array
 
 var g_stages = new Array
 ( 
-//                   cl,           co,           na,    tl, rng, mass, b, h1, d1, h2, d2, d, x,   cr 
+//                   cl,           co,           na,    tl, rng, mass, b, h1, d1, h2, d2, d, x,   cr
    new gElem(        'Stage',   'None',       '(blank)', 0, 0, 1.0, 0,    '*',     0,     '*', 0, 0,'x',   1.0),
-   new gElem(        'Stage',      'A',           'Adv', 3, 0, 0.8,-2,    '*',     2,     '*', 0, 2,'x',   2.0),
-   new gElem(        'Stage',    'Alt',           'Alt', 1, 1, 1.1, 0,    '*',     2,     '*', 0, 2,'x',   1.1),
-   new gElem(        'Stage',      'B',         'Basic', 0, 0, 1.3, 0,    '*',     0,     '*', 0, 0,'x',   0.7),
+   new gElem(        'Stage',      'A',           'Adv', 3, 0, 0.8,-3,    '*',     2,     '*', 0, 2,'x',   2.0),
+   new gElem(        'Stage',    'Alt',           'Alt', 0, 1, 1.1, 0,    '*',     2,     '*', 0, 2,'x',   1.1),
+   new gElem(        'Stage',      'B',         'Basic', 0, 0, 1.3, 1,    '*',     0,     '*', 0, 0,'x',   0.7),
    new gElem(        'Stage',      'E',         'Early',-1,-1, 1.7, 1,    '*',     0,     '*', 0, 0,'x',   1.2),
-   new gElem(        'Stage',      'X',          'Exp.',-2,-1,   2, 3,    '*',     0,     '*', 0, 0,'x',   4.0),
+   new gElem(        'Stage',    'Exp',          'Exp.',-3,-1,   2, 3,    '*',     0,     '*', 0, 0,'x',   4.0),
    new gElem(        'Stage',      'a',          'Arch',-2,-2,   2, 3,    '*',     0,     '*', 0, 0,'x',   1.1),  // Archaic
    new gElem(        'Stage',    'Gen',       'Generic', 1, 0, 1.0, 0,    '*',     0,     '*', 0, 0,'x',   0.5),
-   new gElem(        'Stage',     'Im',          'Impv', 1, 0,   1, 0,    '*',     1,     '*', 0, 1,'x',   1.1),
+   new gElem(        'Stage',     'Im',          'Impv', 1, 0,   1,-1,    '*',     1,     '*', 0, 1,'x',   1.1),
    new gElem(        'Stage',    'Mod',           'Mod', 2, 0, 0.9, 0,    '*',     1,     '*', 0, 1,'x',   1.2),
    new gElem(        'Stage',     'Pr',          'Prec', 6, 3,   4, 2,    '*',     0,     '*', 0, 0,'x',   5.0),
-   new gElem(        'Stage',      'P',         'Proto',-1,-1, 1.9, 2,    '*',     0,     '*', 0, 0,'x',   3.0),
+   new gElem(        'Stage',      'P',         'Proto',-2,-1, 1.9, 2,    '*',     0,     '*', 0, 0,'x',   3.0),
    new gElem(        'Stage',      'R',        'Remote', 1, 0,   1, 0,    '*',     0,     '*', 0, 0,'x',   7.0),
    new gElem(        'Stage',     'Sn',        'Sniper', 1, 1, 1.1, 1,    '*',     0,     '*', 0, 0,'X',   2.0),
    new gElem(        'Stage',     'St',           'Std', 0, 0,   1, 0,    '*',     1,     '*', 0, 1,'x',   1.0),
